@@ -1,0 +1,70 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "250px");
+
+        $(function () {
+            $("select[id$='meeting']").each(function () {
+                var meeting = $(this).val();
+                if (meeting === 'Standing Committee') {
+                    show_fields(this);
+                } else {
+                    hide_fields(this);
+                }
+            });
+            calculate_total_field_value();
+        });
+
+        var hide_fields = function () {
+            $("select[id$='standing_committee_name']").parents('.control-group').hide();
+        };
+
+        var show_fields = function () {
+            $("select[id$='standing_committee_name']").parents('.control-group').show();
+        };
+
+        var calculate_total_field_value = function () {
+            var male = parseInt($("input[id$='number_of_male_participants']").val());
+            var female = parseInt($("input[id$='number_of_female_participants']").val());
+            var disabled_male = parseInt($("input[id$='number_of_disabled_male_participants']").val());
+            var disabled_female = parseInt($("input[id$='number_of_disabled_female_participants']").val());
+            if (male === '') {
+                male = 0
+            }
+            if (female === '') {
+                female = 0
+            }
+            if (disabled_male === '') {
+                disabled_male = 0
+            }
+            if (disabled_female === '') {
+                disabled_female = 0
+            }
+            $("[id$='number_of_total_participants']").each(function () {
+                $(this)[0].value = male + female + disabled_male + disabled_female
+            })
+        }
+
+        $("select[id$='meeting']").on('change', function () {
+            var meeting = $(this).val();
+            if (meeting === 'Standing Committee') {
+                show_fields(this);
+            } else {
+                hide_fields(this);
+            }
+        });
+        $("input[id$='number_of_male_participants']").on('change', function () {
+            calculate_total_field_value()
+        });
+        $("input[id$='number_of_female_participants']").on('change', function () {
+            calculate_total_field_value()
+        });
+        $("input[id$='number_of_disabled_male_participants']").on('change', function () {
+            calculate_total_field_value()
+        });
+        $("input[id$='number_of_disabled_female_participants']").on('change', function () {
+            calculate_total_field_value()
+        });
+    </script>
+{% endblock %}

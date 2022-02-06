@@ -1,0 +1,632 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+DNCC;3;1210301007;11210301007;Section-10,Block-C;Av-7, Road-1,11 Football camp-2;30;135;47;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;3;1210301001;11210301001;Section-10,Block-C;10 No Road, 17 No Laner Camp;70;315;30;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;3;1210301002;11210301002;Section-10,Block-C;Section-11,Block-C,Road -10,Lane-16 Camp;15;68;40;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;3;1210301003;11210301003;Section-10,Block-C;Road-10,13 O 16 No Bosti;25;113;30;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;3;1210301004;11210301004;Section-10,Block-C;Road -10, Post Office Camp;70;315;30;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;3;1210301005;11210301005;Section-10,Block-C;City Coorporation Market Camp;25;113;30;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;3;1210301006;11210301006;Section-10,Block-C;Football Camp-1;200;900;47;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;3;1210301008;11210301008;Section-10,Block-C;Taltola Camp;80;360;47;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;3;1210301009;11210301009;Section-10,Block-C;M.C.C Camp,Road-11;200;900;25;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;3;1210305001;11210305001;Block-D,Section-10;Paka Drain r Purbo Pasar Bosti;80;360;40;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;3;1210305002;11210305002;Block-D,Section-11;Anabik Shokti Bosti;70;315;35;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;3;1210305003;11210305003;Block-D,Section-12;Milk Vite Bosti;175;749;36;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;3;1210305004;11210305004;Block-D,Section-13;Wobda Building Camp;150;676;47;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;3;1210305005;11210305005;Block-D,Section-14;Modhu Poti Bosati;90;406;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;3;1210305006;11210305006;Block-D,Section-15;NimToli Bosti;30;125;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;3;1210306001;11210306001;11-C,Av-5,Lane-17;Mathor Poti Camp;70;315;40;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;3;1210306002;11210306002;11-C,Av-5,Lane-19,20;Bishmilla Camp;17;77;25;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;3;1210306003;11210306003;11-C,Av-5,Lane-18;Jinnar Bosti;100;450;20;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;3;1210306004;11210306004;11-C,Av-5,Lane-19;Masud R Bosti;200;900;20;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;3;1210306005;11210306005;11-C,Av-5,Lane-20;Baitul Azam Mosjidr Pichonar Bosti;120;540;15;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;6;1210601001;11210601001;Mirpur Cantorment;West Alobdi;450;2250;25;3;4;4;2;1;2;2;3;4;4;4;2;2;3;1;2;43
+DNCC;6;1210603001;11210603001;Pallabi O bordhito Pallabi;Dilu Mollar Bosoti;500;2500;15;2;3;4;2;2;2;1;2;3;3;2;2;1;1;2;2;34
+DNCC;6;1210603002;11210603002;Pallabi O bordhito Pallabi;Elilis Mollar Bosoti (1);426;2132;22;2;2;4;2;4;2;1;3;3;4;3;2;1;1;2;1;37
+DNCC;6;1210603003;11210603003;Pallabi O bordhito Pallabi;Elilis Mollar Bosoti (2);500;2050;20;2;2;4;2;4;2;1;3;3;4;3;2;1;1;2;1;37
+DNCC;6;1210603004;11210603004;Pallabi O bordhito Pallabi;Elilis Mollar Bosoti (3);447;2236;20;2;2;4;2;4;2;1;3;3;4;3;2;1;1;2;1;37
+DNCC;6;1210603005;11210603005;Pallabi O bordhito Pallabi;Elilis Mollar Bosoti;627;3135;20;2;2;4;2;4;2;1;3;3;4;3;2;1;1;2;1;37
+DNCC;6;1210603006;11210603006;Pallabi O bordhito Pallabi;Kobir Mollar Bosoti;600;3000;25;2;1;4;2;2;1;1;2;3;3;3;1;1;1;2;3;32
+DNCC;6;1210603007;11210603007;Pallabi O bordhito Pallabi;Ali Mollar Bosoti;509;2548;20;2;2;4;2;4;2;1;3;3;4;3;2;1;1;2;1;37
+DNCC;6;1210603008;11210603008;Pallabi O bordhito Pallabi;Satar Mollar Bosoti(1);498;2475;32;2;2;4;1;2;1;1;3;2;2;3;2;1;2;2;1;31
+DNCC;6;1210603009;11210603009;Pallabi O bordhito Pallabi;Satar Mollar Bosoti(2);550;3000;32;2;2;4;1;2;1;1;3;2;2;3;2;1;2;2;1;31
+DNCC;6;1210603010;11210603010;Pallabi O bordhito Pallabi;Satar Mollar Bosoti (ka);615;3370;32;2;2;4;1;2;1;1;3;2;2;3;2;1;2;2;1;31
+DNCC;6;1210604001;11210604001;Rupnagor Duaripara;Duaripara Kha Block;640;3220;30;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;6;1210604002;11210604002;Rupnagor Duaripara;Duaripara( Kha Block);640;3220;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210604003;11210604003;Rupnagor Duaripara;Duaripara( Kha Block);640;3220;30;3;3;3;4;3;2;2;2;3;4;3;2;2;2;2;1;41
+DNCC;6;1210604004;11210604004;Rupnagor Duaripara;Bhola Bosoti;450;2250;30;2;3;4;2;2;2;1;3;3;4;3;1;1;1;2;1;35
+DNCC;6;1210604005;11210604005;Rupnagor Duaripara;Duaripara ( Hossan Molla);420;2100;30;1;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;37
+DNCC;6;1210604006;11210604006;Rupnagor Duaripara;Duaripara Anabik;300;1500;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210604007;11210604007;Rupnagor Duaripara;Duaripara(Anabik Shakti);450;2250;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210604008;11210604008;Rupnagor Duaripara;Duaripara(anabik Shakti);375;1687;30;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;6;1210604009;11210604009;Rupnagor Duaripara;Duaripara ( Hossan Molla);450;2026;30;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;6;1210604010;11210604010;Rupnagor Duaripara;Duaripara ( Hossan Molla);470;2115;30;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;6;1210604011;11210604011;Rupnagor Duaripara;Duaripara Bosoti (ka) Block;600;2700;30;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;6;1210604012;11210604012;Rupnagor Duaripara;Duaripara Bosoti (ka) Block;640;3200;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210604013;11210604013;Rupnagor Duaripara;Duaripara Bosoti (ka) Block;640;3250;30;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;6;1210604014;11210604014;Rupnagor Duaripara;Duaripara Bosoti (ka) Block;640;3200;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210604015;11210604015;Rupnagor Duaripara;Duaripara Bosoti (ka) Block;640;3200;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;6;1210605001;11210605001;Milk Vite road,Section-7;E-Block,Section-6 Mirpur;338;1698;30;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;6;1210605002;11210605002;Milk Vite road,Section-7;Jhil par bosoti,Section-7;496;2475;30;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;6;1210605003;11210605003;Milk Vite road,Section-7;Arambag Bosoti;344;1712;30;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;6;1210606001;11210606001;Mirpur-6,Block-C,D indoor;Ta Block;350;1756;30;2;1;3;1;1;2;1;3;3;2;2;1;1;1;2;2;28
+DNCC;6;1210606002;11210606002;Mirpur-6,Block-C,D indoor;Ta Block;316;1582;30;2;1;3;1;1;2;1;3;3;2;1;1;1;1;2;1;26
+DNCC;6;1210606005;11210606005;Mirpur-6,Block-C,D indoor;Ta Block;302;1514;30;2;1;3;1;1;2;1;3;3;2;1;1;1;1;2;2;27
+DNCC;6;1210606006;11210606006;Mirpur-6,Block-C,D indoor;Ta Block;213;1067;30;2;1;3;1;1;2;1;3;3;2;1;1;1;1;2;2;27
+DNCC;6;1210606004;11210606004;Mirpur-6,Block-C,D indoor;Ta Block;369;1847;30;2;1;3;1;1;2;1;3;3;2;2;1;1;1;2;2;28
+DNCC;6;1210606003;11210606003;Mirpur-6,Block-C,D indoor;Ta Block;288;1424;30;2;1;3;1;1;2;1;3;3;2;1;1;1;1;2;2;27
+DNCC;12;1211201001;11211201001;Kolwala Para;Sikdar Villa;40;175;30;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;12;1211201002;11211201002;Kolwala Para;Tipu miar Bari;6;27;30;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;12;1211201003;11211201003;Kolwala Para;Opu Miar Bari;10;45;30;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;12;1211201004;11211201004;Kolwala Para;Major Of M.M Iqbal r Bari;25;115;30;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;12;1211201005;11211201005;Kolwala Para;Shuban Miar Bari;15;67;20;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;12;1211201006;11211201006;Kolwala Para;Mojom Baparir Bari;16;72;25;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;12;1211201007;11211201007;Kolwala Para;Md. Anwar Hossain R Bari;24;108;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;12;1211201011;11211201011;Kolwala Para;Alhaj Forid Ahmed r Bari;12;54;28;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;12;1211201008;11211201008;Kolwala Para;Nasir Ahmedr Bari;20;87;30;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;12;1211201009;11211201009;Kolwala Para;Shamshul Haque Mukul R bari;15;60;30;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;12;1211201010;11211201010;Kolwala Para;Md.Rukunujaman r Bari;10;45;28;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;12;1211202001;11211202001;Janata Housing;Joanata Housing Bosti;250;1260;46;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;12;1211202002;11211202002;Janata Housing;Shab Uddin Molar Bari;10;46;30;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;12;1211202003;11211202003;Janata Housing;Kusum Bibir Bari;20;85;20;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;12;1211202004;11211202004;Janata Housing;Shoponar Bari Area;12;55;35;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;12;1211202005;11211202005;Janata Housing;Bosoti Housing Dilur Bari 3 No Road;60;280;35;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;12;1211202006;11211202006;Janata Housing;Bosoti Housing Shoukot r Bari;50;225;70;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;12;1211202007;11211202007;Janata Housing;Bosoti Housing Abdul Roshid Bari Area;12;60;30;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;12;1211202008;11211202008;Janata Housing;Abdul Roshid Sheikh r Barir Dhokin pasar Bari;20;85;35;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;12;1211202009;11211202009;Janata Housing;Shopon Sheikh r Bari Area;50;225;35;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;12;1211203001;11211203001;Sha Ali Bag;Shalamuddin r Bari Area;15;65;17;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;12;1211203002;11211203002;Sha Ali Bag;Janatul Nayeem r Bari;21;92;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211203003;11211203003;Sha Ali Bag;Nojibur Rhomanar Bari;27;117;26;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;12;1211203004;11211203004;Sha Ali Bag;Jhurul Haque r Bari Area;18;82;38;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211203005;11211203005;Sha Ali Bag;Mahafujul r Bari Area;22;95;25;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211203006;11211203006;Sha Ali Bag;Shetu Miar Bari r Area;15;65;35;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;12;1211203007;11211203007;Sha Ali Bag;Late. Golam Ahmed r Bari Area;15;65;30;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;12;1211203008;11211203008;Sha Ali Bag;Nurul Amin Hazir Bari Area;18;92;20;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;12;1211203009;11211203009;Sha Ali Bag;Razanur Rohmanar Bari Area;25;115;15;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;12;1211204001;11211204001;Ahmed Nagor;Abir Rohmanar bari Habula Pukur Par;20;90;20;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;12;1211204002;11211204002;Ahmed Nagor;Habula Pukur Par Bilallar Bari;20;85;20;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;12;1211204003;11211204003;Ahmed Nagor;Habula Pukur Par Purbo Pasa;10;45;20;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;12;1211204004;11211204004;Ahmed Nagor;Habula Pukur Par Dhokin Pasa;20;85;20;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;12;1211204005;11211204005;Ahmed Nagor;Afsar Uddinr Bari Bosir Uddinr Schoolr Pasa;20;84;20;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;12;1211204006;11211204006;Ahmed Nagor;Salim r Bari Area;10;45;10;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;12;1211204007;11211204007;Ahmed Nagor;Khohinur Apar Bari Area;18;82;13;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;12;1211204008;11211204008;Ahmed Nagor;Nijam Uddin Bari Boshir uddin School Pocchim pasa;16;75;30;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;12;1211204009;11211204009;Ahmed Nagor;Boshir Uddin School r Pasa Ukil Shabar Bari;10;45;20;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;12;1211205001;11211205001;Tolar Bag;1 No Gate;45;205;25;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211205002;11211205002;Tolar Bag;Shantu Miar Bari;20;85;10;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;12;1211205003;11211205003;Tolar Bag;Shanor Doctor;20;85;11;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211205004;11211205004;Tolar Bag;Monowar Shaeb Washa Khalpar;5;25;10;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;12;1211205005;11211205005;Tolar Bag;Shati Akter;12;45;2;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;12;1211205006;11211205006;Tolar Bag;Ripon Bari;10;45;5;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;12;1211205007;11211205007;Tolar Bag;Momin Miar Bosoti;400;1800;35;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;18;1211802001;11211802001;Kala Chand Pur;Kala Chand Pur uttor Para;65;260;10;3;1;4;2;2;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;18;1211802002;11211802002;Kala Chand Pur;Chapara Mosjid Mulur Tak;220;950;25;2;1;4;1;1;1;2;3;3;4;2;1;1;2;1;1;30
+DNCC;18;1211802003;11211802003;Kala Chand Pur;Kala Chand Pur And Collage Road;115;525;25;2;2;4;2;2;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;18;1211802004;11211802004;Kala Chand Pur;Kala Chand Pur College r Pochim pas;45;230;20;3;2;4;2;2;1;1;4;3;4;2;1;1;2;1;1;34
+DNCC;18;1211802005;11211802005;Kala Chand Pur;Baridhara Ideal School pochhim Pas;30;140;15;3;3;4;2;2;1;2;3;3;4;2;1;1;2;1;1;35
+DNCC;18;1211805001;11211805001;Baridhara Block-J;7-No Road;15;70;8;3;3;4;3;3;1;3;4;3;4;3;1;1;1;1;1;39
+DNCC;18;1211805003;11211805003;Baridhara Block-J;3-No Road;12;55;5;4;4;4;3;3;1;3;4;3;4;3;1;1;1;1;1;41
+DNCC;18;1211805002;11211805002;Baridhara Block-J;5-No Road;10;45;7;3;3;4;3;3;1;3;4;3;4;3;1;1;1;1;1;39
+DNCC;18;1211806001;11211806001;Sajad Pur Ga;Shubasto Nazar Velleyr Pichon Side;57;400;15;2;3;4;3;3;1;2;4;3;4;2;1;2;1;1;1;37
+DNCC;18;1211806002;11211806002;Sajad Pur Ga;sajadpur School And College r Satha;18;80;10;3;3;4;3;3;2;2;4;3;4;3;2;2;3;2;3;46
+DNCC;18;1211807001;11211807001;Sajad Pur Ka;Jhilpar Bosoti;600;3100;15;2;2;3;2;2;1;1;3;3;4;2;1;1;2;2;2;33
+DNCC;18;1211808001;11211808001;Sajad Pur Kha;Bashtala(Moriam Tower);35;140;15;2;3;4;2;2;1;2;3;3;4;2;1;1;2;2;2;36
+DNCC;18;1211808002;11211808002;Sajad Pur Kha;Primary Schoolr Pichona;53;280;15;2;3;4;2;2;1;2;3;3;4;3;1;1;2;1;1;35
+DNCC;18;1211801001;11211801001;Norda;Norda Sorkari bari mosjid r Satha;40;180;25;2;3;4;2;3;2;2;4;3;3;2;1;1;1;1;1;35
+DNCC;18;1211801002;11211801002;Norda;Norda Purbo jama Mosjid r Satha;50;220;20;3;4;4;2;2;1;2;4;3;4;2;1;1;1;1;1;36
+DNCC;18;1211801005;11211801005;Norda;Baloshika Schoolr Satha;13;60;20;3;4;4;2;3;1;2;4;3;4;2;1;1;1;1;1;37
+DNCC;18;1211801003;11211801003;Norda;Soudi Jama Mosjid r Pasa;12;50;10;3;4;4;3;3;1;2;4;3;4;3;1;1;1;1;1;39
+DNCC;18;1211801004;11211801004;Norda;Norda Uddain Somiti road Bosoti;20;90;20;3;4;4;2;2;1;2;4;3;4;2;1;1;1;1;1;36
+DNCC;21;1212101001;11212101001;Uttor Badda Purbo;Michori Tukra Shesa;13;72;11;3;4;4;4;3;3;4;3;4;3;4;3;3;4;1;3;53
+DNCC;21;1212101003;11212101003;Uttor Badda Purbo;AMZ Hospitalr Pichona;20;80;12;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;21;1212101002;11212101002;Uttor Badda Purbo;Michori Tular Modha;6;27;13;3;4;4;4;4;3;4;3;4;2;4;3;3;4;1;3;53
+DNCC;21;1212102001;11212102001;Moddho Badda Purbo;Marul Tak Para;37;167;18;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;21;1212103001;11212103001;Pocchim Marul;Hatirjhil Roadr Pasa;13;52;12;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;21;1212103003;11212103003;Pocchim Marul;Modina Tower r Pasa;15;60;10;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;21;1212103002;11212103002;Pocchim Marul;Mosjid Goli;16;72;10;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;21;1212104001;11212104001;Dokhin Badda;Pukur para;47;212;12;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;21;1212104002;11212104002;Dokhin Badda;Mamur Nur Jama Mosjidr Pasa;21;82;10;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;21;1212104003;11212104003;Dokhin Badda;Titas Road R Modha;7;32;13;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;21;1212104004;11212104004;Dokhin Badda;Somity Bari;50;200;16;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;21;1212104005;11212104005;Dokhin Badda;Shaba Mosjid Goli;20;90;30;4;4;4;4;4;4;4;4;4;4;4;4;4;4;1;3;60
+DNCC;21;1212104006;11212104006;Dokhin Badda;Shimul Tala Mosjid R Pichona;70;280;18;4;4;4;4;4;3;4;3;4;3;3;4;4;4;1;4;57
+DNCC;21;1212104007;11212104007;Dokhin Badda;Dhokin Badda Bazar Goli;25;110;20;4;4;4;4;4;4;4;3;4;3;4;4;4;4;1;3;58
+DNCC;21;1212105001;11212105001;Modho Badda Modho Part;Bou Bazar Boro Goli;35;158;22;4;4;4;4;4;4;3;4;4;2;3;4;4;3;1;3;55
+DNCC;21;1212105002;11212105002;Modho Badda Modho Part;Bou Bazar  Goli;9;36;13;4;4;4;4;4;4;4;4;4;2;4;4;3;4;1;3;57
+DNCC;21;1212106001;11212106001;Uttor Badda Pocchimr Part;Girzar Goli;6;24;10;4;4;4;4;4;4;3;4;4;4;4;4;4;4;1;3;59
+DNCC;21;1212106002;11212106002;Uttor Badda Pocchimr Part;Uttor Badda Bou Bazar;25;113;18;4;4;4;4;3;4;3;4;4;3;3;4;4;4;1;3;56
+DNCC;21;1212106004;11212106004;Uttor Badda Pocchimr Part;Rosid Shaber Murgir Farm;450;2025;17;4;4;4;4;4;4;4;4;4;3;4;4;4;4;1;3;59
+DNCC;21;1212106003;11212106003;Uttor Badda Pocchimr Part;Uttor Badda Ghora Tola;15;60;88;4;4;4;4;4;4;3;4;4;3;3;4;4;4;1;3;57
+DNCC;21;1212107001;11212107001;Uttor Badda Gopi Para;Gopi Para School Goli;7;32;9;4;4;4;4;4;3;4;3;4;2;2;4;4;4;1;3;54
+DNCC;21;1212107002;11212107002;Uttor Badda Gopi Para;isajudi Roadr  Shasa;5;20;7;4;4;4;4;4;3;4;3;4;2;4;3;3;4;1;3;54
+DNCC;21;1212107003;11212107003;Uttor Badda Gopi Para;Subastu Opor Pasar Goli;11;44;6;4;4;4;4;4;3;4;3;3;2;4;3;3;4;1;3;53
+DNCC;21;1212107004;11212107004;Uttor Badda Gopi Para;Gopi Para School Road;7;32;7;4;4;4;4;4;3;4;3;4;3;4;3;3;4;1;3;55
+DNCC;22;1212202002;11212202002;Nasirr Tak wobda Road;Wobda Road Dhokin;100;450;10;2;1;4;2;2;1;2;3;3;4;2;1;1;1;1;1;31
+DNCC;22;1212202001;11212202001;Nasirr Tak wobda Road;Jhilkanon;100;450;12;2;1;4;1;1;1;3;3;3;4;2;1;1;1;1;1;30
+DNCC;22;1212203001;11212203001;Das Para Ulon;Das Para;100;450;15;3;3;4;2;2;1;2;3;3;4;2;2;2;2;1;1;37
+DNCC;22;1212203002;11212203002;Purbo Ulon Das Para;Pra Bari Bosoti;200;900;20;2;2;4;1;2;1;2;3;3;4;2;1;1;1;1;1;31
+DNCC;22;1212204001;11212204001;Purbo Rampura Dokhin (jamtala);Jamtala Bhuya Goli;150;650;10;3;1;4;2;2;2;2;3;3;4;2;1;1;1;1;1;33
+DNCC;22;1212204002;11212204002;Jamtala Titas Road;Puspu shri Goffur r Bari;200;900;20;2;1;4;2;2;1;2;3;3;4;2;1;1;1;1;1;31
+DNCC;22;1212205001;11212205001;Bonosri project ( Block-AD);Mina Bazar Soglogno;35;150;10;2;2;4;2;2;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;22;1212206001;11212206001;Purbo Rampura Kunjobon;Purbo Kunjobon;120;550;20;2;3;4;2;4;3;3;3;3;4;2;1;1;1;1;1;38
+DNCC;22;1212206002;11212206002;Purbo Rampura Kunjobon Road;Pocchim;50;220;12;3;3;4;3;3;1;2;3;3;4;2;1;1;1;1;1;36
+DNCC;27;1212701001;11212701001;Indra Road, Putbo Ram Bamar;Aam Bagan (Dha,Bi);155;675;30;1;2;4;2;4;4;3;4;3;3;3;3;2;4;2;3;47
+DNCC;27;1212702001;11212702001;Pocchim Ram Bamar;Dhali Barir Pocchim Ram Bamar;18;83;20;1;2;3;2;3;2;4;3;3;3;2;1;2;2;1;2;36
+DNCC;27;1212702002;11212702002;Pocchim Ram Bamar;44/F,Pocchim Ram Bamar;10;47;20;1;2;4;2;3;3;4;3;3;3;1;1;1;1;1;2;35
+DNCC;27;1212705001;11212705001;Gono Bhon Aria Krishi University;Bottalla;250;1125;40;3;2;3;3;4;4;4;4;3;4;4;4;2;4;2;3;53
+DNCC;27;1212705003;11212705003;Gono Bhon Aria Krishi University;Muslim para;350;2350;35;4;4;4;4;4;3;4;4;3;4;4;3;2;2;4;2;55
+DNCC;27;1212705002;11212705002;Gono Bhon Aria Krishi University;Suiper Colony;100;450;30;4;4;4;4;4;4;4;4;3;2;4;4;4;2;3;3;57
+DNCC;30;1213001001;11213001001;Shyamoli;Kashemr Bari;10;45;12;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;30;1213002001;11213002001;Uttor Adabor;Shakilr Bari;33;145;10;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;30;1213002002;11213002002;Uttor Adabor;Barakr Bosti;20;65;12;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;30;1213002003;11213002003;Uttor Adabor;Korimr Bosti;16;50;30;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;30;1213002004;11213002004;Uttor Adabor;Josim R Bari;17;68;9;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;30;1213003001;11213003001;Baitul Aman Housing;4 No Road Shes Matha;24;94;10;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;30;1213003002;11213003002;Baitul Aman Housing;Bhandar Goli Bhalu Math;150;585;8;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;30;1213003003;11213003003;Baitul Aman Housing;10 No road r she smatha;40;145;12;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;30;1213003004;11213003004;Baitul Aman Housing;10 R Vitora;184;936;7;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;30;1213003005;11213003005;Baitul Aman Housing;Oxford Goli;70;275;11;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;30;1213003006;11213003006;Baitul Aman Housing;Surjomohol R Pasa;20;86;5;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213003007;11213003007;Baitul Aman Housing;13 No Road R Majhamajhi;30;132;15;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;30;1213004001;11213004001;Monshura Bad;18 No Road;80;355;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213004002;11213004002;Monshura Bad;12 r Shes matha;60;298;5;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213004003;11213004003;Monshura Bad;9 O 10 No Road;30;150;6;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;30;1213004004;11213004004;Monshura Bad;17/B Road Shes Matha;66;264;15;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;30;1213004005;11213004005;Monshura Bad;17/C No Road;956;3824;35;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;30;1213005004;11213005004;Shnibir;Prem Goli;23;82;7;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;30;1213005003;11213005003;Shnibir;Shnibir Bazarar Satha;50;182;10;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;30;1213005002;11213005002;Shnibir;Yasheen Molla Goli;96;365;8;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;30;1213005001;11213005001;Shnibir;Akondo Goli;200;870;7;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;30;1213006003;11213006003;Rofiq Housing And PC Culture;Hazara Begume;25;115;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213006002;11213006002;Rofiq Housing And PC Culture;Sheikhr Tak 10 r Shes;140;558;30;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;30;1213006001;11213006001;Rofiq Housing And PC Culture;Hazi Mojamal Hauq;83;332;40;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213006008;11213006008;Rofiq Housing And PC Culture;Professor r Bari;18;60;20;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;30;1213006006;11213006006;Rofiq Housing And PC Culture;Shoid r Bbri;14;60;10;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;30;1213006004;11213006004;Rofiq Housing And PC Culture;Ikbal r Bari;16;64;25;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;30;1213006005;11213006005;Rofiq Housing And PC Culture;Wali Ulla;40;160;15;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;30;1213006007;11213006007;Rofiq Housing And PC Culture;3 No r Shes Matha;80;320;16;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;32;1213202001;11213202001;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-1;612;2756;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202004;11213202004;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-4;615;2772;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202003;11213202003;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-3;612;2758;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202002;11213202002;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-2;611;2755;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202005;11213202005;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-5;618;2770;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202006;11213202006;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-6;611;2749;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202008;11213202008;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-8;612;2755;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202009;11213202009;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-9;620;2790;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;32;1213202007;11213202007;Humayan Road,Gohonobi Road;Janava Camp,Mohammadpur Block-7;612;2754;47;3;3;4;2;4;3;1;4;3;4;3;4;4;4;2;1;49
+DNCC;1;1210105001;11210105001;Sector-5;Badshar Tak Jhilpar;150;750;30;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;1;1210105002;11210105002;Sector-5;Ahalia Math Soglogno;50;220;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;1;1210108001;11210108001;Sector-8;8 no Sector Bosti Sonali Bank Soglogno;400;1800;30;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;1;1210108003;11210108003;Sector-10;8 No Rail Gate Bosti Salimr Bari;120;510;15;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;1;1210108002;11210108002;Sector-9;8 No Rail Gate Salimr Bari Sorasori;175;800;9;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;1;1210108004;11210108004;Sector-11;8 No Sikdar Bari Bosti;300;1350;35;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;1;1210109001;11210109001;Sector-9;9 no Sector Bari Badh Bosti;400;1800;40;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;1;1210109002;11210109002;Sector-10;Abdhulla Pur Pocchimm Para Salimr Bosti;320;1350;50;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;1;1210109003;11210109003;Sector-11;Abdhulla Pur Pocchimm Lake para Bosti;170;750;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;1;1210109004;11210109004;Sector-12;Chairman Tak Bosti;670;2800;22;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;1;1210110001;11210110001;Sector-10;Switch Gate Bosti Nodir Par;150;620;19;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;1;1210110002;11210110002;Sector-11;Rana Bhola Ghudara Ghat Bosti;350;1550;25;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;1;1210110003;11210110003;Sector-12;Bhalur Math Rana Bhola Bosti;80;400;15;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;23;1212301001;11212301001;Purbo Hazi para;Hazi Para Namar Bosti Balur Math;197;887;15;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;23;1212301002;11212301002;Purbo Hazi para;Bou Bazar Bosoti;97;430;10;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;23;1212302001;11212302001;Notun bag;Jhil par Bosti;80;360;30;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;23;1212302002;11212302002;Notun bag;Jhil par Bosti-2;20;100;20;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;23;1212303001;11212303001;Moulobir Tak;Mojid Wala Barir Pas;165;750;40;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;23;1212303002;11212303002;Moulobir Tak;natok Walar Bari;150;600;40;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;23;1212303003;11212303003;Moulobir Tak;Bokul R Bari;22;102;35;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;23;1212303004;11212303004;Moulobir Tak;Monir r Police bari;15;75;35;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;23;1212303005;11212303005;Moulobir Tak;Rofiq R Bari;15;70;30;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;23;1212303006;11212303006;Moulobir Tak;Bimol Roy r Bari;29;125;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;23;1212303007;11212303007;Moulobir Tak;Aziz Or Batan R Bari;60;260;40;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;23;1212303008;11212303008;Moulobir Tak;Moslam r Bari;30;140;25;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;23;1212303009;11212303009;Moulobir Tak;Begum Bibi / Rofiq;25;120;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;23;1212304001;11212304001;Riaz Bag;momalar Bosti;35;157;40;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;23;1212304004;11212304004;Riaz Bag;Masud Bhi r Bari;35;175;30;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;23;1212304002;11212304002;Riaz Bag;Bokul/Babul R Bari;80;240;35;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;23;1212304003;11212304003;Riaz Bag;Masuma/Najrul;30;150;35;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;23;1212304005;11212304005;Riaz Bag;Balur Math Bosti;100;450;30;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;23;1212305001;11212305001;Khilga Taltala;Taltala Member Gar Jhilpar Bosti;250;900;40;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;23;1212305002;11212305002;Khilga Taltala;Taltalar Jhilpar Rastar Pas;15;65;40;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;23;1212306001;11212306001;Khilga Chowadary Para;bagar Bari;200;900;30;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;23;1212306002;11212306002;Khilga Chowadary Para;Rofiq o Saydul Miar Bari;50;160;20;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;23;1212306003;11212306003;Khilga Chowadary Para;Malakr Bari;38;172;20;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;26;1212602001;11212602001;Railwaya Colony Station Road;Railwaya Bosti;350;1576;40;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;26;1212602002;11212602002;Railwaya Colony Station Road;Payna Sordar Bosti;90;408;35;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;26;1212602003;11212602003;Railwaya Colony Station Road;Baby Garage;200;900;40;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;33;1213301001;11213301001;Bas Bari Chan Mia C-Block Seven Mosjid Housing;Bas Bari Bosti (Ring Road);120;530;40;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;33;1213301002;11213301002;Bas Bari Chan Mia C-Block Seven Mosjid Housing;Oli Nur Real State;60;250;20;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;33;1213302001;11213302001;Housing Socity;Solur Bosti;60;260;30;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;33;1213302004;11213302004;Housing Socity;Lokman r Bosti;20;70;10;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;33;1213302002;11213302002;Housing Socity;Mohamadia Housing Socity 10 No Road r mathai;150;670;10;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;33;1213302003;11213302003;Housing Socity;Mohamadia Housing Socity 9 No Road r mathai;100;500;10;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;33;1213303001;11213303001;Dhaka Uddan Akota Turag Housing;Akota Housing Bosti;200;900;10;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;33;1213303003;11213303003;Dhaka Uddan Akota Turag Housing;Turag Housing Bosti;80;350;8;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;33;1213303002;11213303002;Dhaka Uddan Akota Turag Housing;Nobi Nogor 7 No Road Bosti;250;1100;15;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;33;1213304001;11213304001;Dhaka Real State Green View Housing;Bottola Bosti;350;1570;50;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;33;1213304002;11213304002;Dhaka Real State Green View Housing;Borkotar Bosti;200;900;30;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;33;1213305002;11213305002;Sha jalal Rajdhani Shopno nir Housing;Bottola Bosti;30;130;12;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;33;1213305001;11213305001;Sha jalal Rajdhani Shopno nir Housing;Sha Jalal Bosti;350;1560;15;1;2;2;2;3;3;2;2;2;2;2;3;2;1;2;2;33
+DNCC;33;1213306002;11213306002;old Bosila, Bosila Garden City;Jola Para;80;350;20;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;33;1213306001;11213306001;old Bosila, Bosila Garden City;Bosila Uttor Para;60;260;30;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;35;1213501001;11213501001;Bangla Mari;bangla Mari Mosjid r Satha;60;270;20;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;35;1213501002;11213501002;Bangla Mari;Petro Pumpr Goli;30;150;40;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;35;1213503001;11213503001;Dilu Road;Dilu Road r Pasa;10;40;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;35;1213503002;11213503002;Dilu Road;Mojmajarar Goli Road r Matha;60;280;35;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;35;1213503003;11213503003;Dilu Road;Hatir Link Road;50;230;25;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;35;1213504001;11213504001;Boro Mog Bazar;batar Goli;47;210;20;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;35;1213504002;11213504002;Boro Mog Bazar;Payar bag;35;150;15;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;35;1213504003;11213504003;Boro Mog Bazar;Payar bag railgate;28;111;18;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;35;1213504005;11213504005;Boro Mog Bazar;Mogbazar Madrasa Goli;6;30;10;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;35;1213504006;11213504006;Boro Mog Bazar;Mogbazar Raiwagate;10;55;12;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;35;1213504007;11213504007;Boro Mog Bazar;Lotif Sordar Lane;42;200;20;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;35;1213505007;11213505007;Payara Bag;bapari Goli Colony;32;140;30;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;35;1213505008;11213505008;Payara Bag;Raazia Sultana O Bapari Goli;31;140;35;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;35;1213505005;11213505005;Payara Bag;Salim Ar Bari;20;90;36;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;35;1213505006;11213505006;Payara Bag;12 No Colony;165;740;30;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;35;1213505002;11213505002;Payara Bag;Titu Dar Bari;22;100;33;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;35;1213505003;11213505003;Payara Bag;Midha Bari O Althap Ar Bari;15;60;39;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;35;1213505001;11213505001;Payara Bag;Md.Liakot Ali Gong;16;70;21;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;35;1213505004;11213505004;Payara Bag;Dilruba Khursid (darogaar Bari);50;220;38;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;35;1213505009;11213505009;Payara Bag;Doctor Goli;16;70;24;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;35;1213505010;11213505010;Payara Bag;Wareless Rail line;35;150;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;35;1213506001;11213506001;Uttor Noya Tola;Olir Bari Goli;70;310;30;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;35;1213506007;11213506007;Uttor Noya Tola;Pagla Majar Road-1;100;487;30;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;35;1213506004;11213506004;Uttor Noya Tola;Jaha Box Lane-1;70;310;25;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;35;1213506002;11213506002;Uttor Noya Tola;Jaha Box Lane-2;50;230;15;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;35;1213506008;11213506008;Uttor Noya Tola;Pagla Majar Road-2;30;120;200;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;35;1213506005;11213506005;Uttor Noya Tola;Jaha Box Lane-3;20;100;20;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;35;1213506010;11213506010;Uttor Noya Tola;Hatir jhil Bosti Ambagan Road;150;750;15;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;35;1213506011;11213506011;Uttor Noya Tola;Aman Bagan Chollis Ghor;40;200;25;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;35;1213506003;11213506003;Uttor Noya Tola;Jaha Box Lane;55;250;20;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;35;1213506006;11213506006;Uttor Noya Tola;Pagla Majar Road;15;60;20;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;35;1213506009;11213506009;Uttor Noya Tola;Pagla Majar Road Bosti;135;675;20;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;36;1213601004;11213601004;TNT Colony;TNT Kusum Colony;200;800;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;36;1213601006;11213601006;TNT Colony;Mala Box Lane;200;800;50;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;36;1213601005;11213601005;TNT Colony;TNT Hindu Area;50;200;38;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;36;1213601003;11213601003;TNT Colony;TNT Jispangili;50;250;39;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;36;1213601002;11213601002;TNT Colony;TNT Auditoriam;70;350;40;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;36;1213601001;11213601001;TNT Colony;Wareless Rail Gate;750;3000;40;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;36;1213604001;11213604001;Mir Bag;Shopno Goli;787;2361;7;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;36;1213604006;11213604006;Mir Bag;MirBag Darul  Aman Jama Mosjid r Aga bachur Garage;247;741;12;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;36;1213604005;11213604005;Mir Bag;16 No Colony Thaka Somitir Goli;351;1053;14;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;36;1213603005;11213603005;Modhu Bag;Modhu Bag Coffee Cornar-Bagan Bari;203;812;30;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;36;1213603001;11213603001;Modhu Bag;Hazi Shahin Goli Side;75;300;15;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;36;1213603002;11213603002;Modhu Bag;Modhu Bag Jama Mosjid 1 no Goli;450;1790;15;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;36;1213603003;11213603003;Modhu Bag;Modhu Bag 2 no Goli;239;960;20;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;36;1213603004;11213603004;Modhu Bag;Modhu Bag 3 no Goli;547;2188;18;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;36;1213602001;11213602001;Modhu Bag;GajNobir Goli;39;200;200;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;36;1213602002;11213602002;Modhu Bag;Modhu Bag Khalar math panir Pump Uttor pas;205;775;25;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;36;1213602003;11213602003;Modhu Bag;Modhu Bag Police Fari Pichona Goni Miar Bari;29;120;22;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;36;1213602004;11213602004;Modhu Bag;Noyatola Kamil Madrasa Pichona Engineer Bari;103;430;18;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;36;1213602005;11213602005;Modhu Bag;Noyatola Bou Bazar;195;710;25;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;36;1213602006;11213602006;Modhu Bag;Yeasup Tuita Bot Field Schoolr Samna;87;362;17;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;36;1213602007;11213602007;Modhu Bag;Noyatola Chaiman Goli Jama Mosjid;33;142;18;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;2;1210202002;11210202002;North-West Block;Mirpur-12, Chantormant Notun Brindhabon;70;320;150;1;1;2;2;1;1;1;2;1;4;3;1;1;1;1;3;26
+DNCC;2;1210202001;11210202001;North-West Block;Mirpur-12 Chantormant Brindhabon;350;1520;100;1;1;1;1;1;1;1;3;3;4;3;1;1;1;1;3;27
+DNCC;2;1210203009;11210203009;North-East Block;Uttar Kalshi Ghati Para-2;250;1100;45;1;1;2;1;2;1;2;3;4;4;3;1;1;1;3;1;31
+DNCC;2;1210203008;11210203008;North-East Block;Uttar Kalshi Siramik Ghati Para;220;975;45;1;1;4;1;2;3;2;3;4;4;3;1;1;1;3;1;35
+DNCC;2;1210203006;11210203006;North-East Block;Uttar Kalshi Puraton Bastee;260;1125;50;1;2;4;2;2;3;2;3;4;4;3;1;1;1;3;1;37
+DNCC;2;1210203007;11210203007;North-East Block;Uttar Kalshi Puraton Bastee-2;200;885;50;1;1;4;2;2;3;2;3;4;4;3;1;1;1;3;1;36
+DNCC;2;1210203002;11210203002;North-East Block;Uttar Kalshi Siramik P-Block Purbo;120;545;40;2;1;3;3;1;2;1;3;2;4;3;1;1;1;1;4;33
+DNCC;2;1210203001;11210203001;North-East Block;Uttar Kalshi Siramik Buvar Tak;150;672;40;1;1;4;1;2;3;1;3;3;4;3;1;1;1;2;4;35
+DNCC;2;1210203003;11210203003;North-East Block;Uttar Kalshi Siramik P-Block Paschim;180;810;45;2;1;2;4;1;2;1;3;3;4;3;1;3;1;1;4;36
+DNCC;2;1210203005;11210203005;North-East Block;Uttar Kalshi Siramik Hindu Para;250;1080;150;1;2;2;3;1;2;2;3;4;4;3;1;1;1;1;4;35
+DNCC;2;1210203004;11210203004;North-East Block;Uttar Kalshi Siramik Iddis Ar Tak;225;1050;45;2;1;2;1;1;2;1;3;4;4;1;1;1;1;1;4;30
+DNCC;2;1210204001;11210204001;South-East Block;Kormitola Camp Sector-1;400;1770;47;2;3;4;3;2;3;3;2;3;4;2;1;1;2;2;1;38
+DNCC;2;1210204002;11210204002;South-East Block;Kormitola Camp Sector-2;42;188;47;2;3;4;3;2;3;3;2;3;4;3;1;1;2;2;1;39
+DNCC;2;1210204003;11210204003;South-East Block;Kormitola Camp Sector-3;400;1796;47;2;3;4;3;2;3;3;2;3;4;2;1;1;2;2;1;38
+DNCC;2;1210204004;11210204004;South-East Block;Purbo Kormitola Camp Sector-1;300;1320;47;2;3;4;1;3;2;1;3;2;4;3;3;1;1;2;3;38
+DNCC;2;1210204005;11210204005;South-East Block;Purbo Kormitola Camp Sector-2;400;1785;47;2;3;4;1;3;2;1;3;2;4;3;3;1;1;2;3;38
+DNCC;2;1210204006;11210204006;South-East Block;Purbo Kormitola Camp Sector-3;360;1440;47;2;3;4;1;3;2;1;3;1;4;3;3;1;1;2;3;37
+DNCC;2;1210204007;11210204007;South-East Block;Purbo Kormitola Camp Sector-4;390;1770;47;2;3;4;1;3;3;1;2;2;4;3;3;1;1;2;3;38
+DNCC;2;1210204008;11210204008;South-East Block;Purbo Kormitola Camp Sector-5;560;2410;47;2;3;4;1;3;2;1;3;3;4;3;3;1;1;2;3;39
+DNCC;2;1210204009;11210204009;South-East Block;Purbo Kormitola Camp Sector-6;325;1440;47;2;3;4;1;3;2;1;3;2;4;3;3;1;1;2;3;38
+DNCC;13;1211301001;11211301001;Dokkhin Pirerbag;Danga Bridge Abdul Goli Road;55;275;20;2;1;4;1;1;2;2;3;3;4;2;1;1;1;1;1;30
+DNCC;13;1211301002;11211301002;Dokkhin Pirerbag;Dokhin Pirer Bag Mukti Housing;150;710;30;3;1;4;2;2;2;3;3;3;4;2;1;1;1;1;1;34
+DNCC;13;1211302001;11211302001;Moddho Pirerbag;Bombai Goli Al Mobarok Masjeed;100;450;30;2;1;4;2;2;1;2;3;3;4;2;1;1;1;1;1;31
+DNCC;13;1211303001;11211303001;Poschim Pirerbag;Surjer Hashi Clinik Ar Pashe;20;90;40;3;2;4;2;3;2;3;3;3;4;3;1;1;1;1;1;37
+DNCC;13;1211304001;11211304001;Uttor Pirerbag;8/F Uttar Pirer Bag;120;580;40;3;2;4;2;2;2;2;3;3;4;2;1;2;1;1;1;35
+DNCC;13;1211304002;11211304002;Uttor Pirerbag;Jam Tola;50;240;30;3;3;4;2;2;2;2;3;3;4;2;1;1;1;1;1;35
+DNCC;13;1211306002;11211306002;Dokkhin Monipur;Kholil Matbor 741;100;450;40;2;1;4;2;1;1;2;3;3;4;2;1;1;1;1;1;30
+DNCC;13;1211306001;11211306001;Dokkhin Monipur;Sakil Mollah Bastee-740/1;50;240;20;2;3;4;2;2;1;2;3;3;4;2;1;1;1;1;1;33
+DNCC;13;1211306003;11211306003;Dokkhin Monipur;Samod Mollar Bastee;30;140;20;3;1;4;2;2;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;13;1211306004;11211306004;Dokkhin Monipur;Rahman Ar Bastee 740.2;50;240;20;2;2;4;2;2;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;13;1211307001;11211307001;Moddho Monipur;Baitul Atik Masjeed Ar Sathe;30;125;25;3;2;4;3;4;1;1;4;3;4;2;1;1;1;3;1;38
+DNCC;13;1211308001;11211308001;Purbo Monipur;Balur Math-1087;30;140;30;3;3;4;3;3;1;2;4;3;4;2;1;1;1;1;1;37
+DNCC;13;1211309001;11211309001;Borobag;Goyal Bari;40;180;45;3;2;4;3;3;2;3;4;3;4;2;1;2;2;1;1;40
+DNCC;4;1210405001;11210405001;15-D, 14-D, Rakin, Navana & Ruposhi City;Rupali Bangla Purbo Pashe;12;55;20;3;2;4;1;3;1;1;3;3;4;4;1;1;1;2;1;35
+DNCC;4;1210405002;11210405002;15-D, 14-D, Rakin, Navana & Ruposhi City;Rakin City Jame Masjeed Ar Purbo Pashe;10;42;25;1;1;2;1;1;4;3;2;4;3;3;3;2;2;2;3;37
+DNCC;11;1211101001;11211101001;Uttor Paikpara;Sha Saheb Nagar Poli;33;150;36;3;4;4;4;4;3;4;3;3;4;3;4;4;4;4;4;59
+DNCC;11;1211102001;11211102001;Moddho Paikpara;Kek Ferory Modho Paipara;21;100;30;3;4;4;4;4;3;3;3;3;4;3;4;4;4;4;4;58
+DNCC;11;1211102002;11211102002;Moddho Paikpara;Sohid Abdul Halim Road;44;200;42;3;4;4;4;4;2;2;3;3;4;3;4;4;4;4;4;56
+DNCC;11;1211103001;11211103001;Dokkhin Paikpara Uttar;Sonali Nesa O Amenar Bari;25;115;25;3;4;4;4;4;3;3;3;3;4;3;4;1;4;4;4;55
+DNCC;11;1211103002;11211103002;Dokkhin Paikpara Uttar;Riyaj Uddain Goli;25;110;30;3;3;4;3;4;3;1;3;3;4;3;4;4;4;4;4;54
+DNCC;11;1211104003;11211104003;Dokkhin Paikpara Dokkhin;Daroga Bari Bastee Dokhin Parshe;40;180;16;3;3;4;4;4;2;3;3;3;4;3;4;1;3;4;4;52
+DNCC;11;1211104002;11211104002;Dokkhin Paikpara Dokkhin;Lain Diw Masjeed Ar Pashe;10;50;15;3;3;4;2;3;2;3;3;3;4;3;4;1;4;4;4;50
+DNCC;11;1211104001;11211104001;Dokkhin Paikpara Dokkhin;Din Keji School Shamner Tin Set;15;70;35;3;4;4;4;4;3;4;3;3;4;3;4;1;4;4;4;56
+DNCC;11;1211105001;11211105001;Kollyanpur Purbo;Himur Bari;38;171;30;2;3;4;4;3;2;4;4;3;4;3;4;1;4;4;4;53
+DNCC;11;1211105002;11211105002;Kollyanpur Purbo;Ishan Chowdhory Bari;15;70;30;4;1;4;1;2;1;2;3;3;4;2;4;1;4;4;4;44
+DNCC;11;1211105003;11211105003;Kollyanpur Purbo;Khal Par;32;144;35;4;1;3;1;3;2;4;3;3;4;3;4;1;4;4;4;48
+DNCC;11;1211105004;11211105004;Kollyanpur Purbo;Khal Par Abul Basharer Bari;12;54;15;4;1;4;3;2;1;4;4;3;4;3;4;1;4;4;4;50
+DNCC;11;1211105005;11211105005;Kollyanpur Purbo;Masjed Goli Khal Par;81;364;25;4;3;4;3;3;2;3;3;3;4;2;4;1;4;4;4;51
+DNCC;11;1211105006;11211105006;Kollyanpur Purbo;Khal Par Josimer Bari;123;550;25;4;3;4;3;3;2;2;4;3;4;2;4;1;4;4;4;51
+DNCC;11;1211105008;11211105008;Kollyanpur Purbo;2No. Road Van Pash Alamin o Jahangir;610;2700;35;4;3;4;3;3;2;3;3;3;4;2;4;1;4;4;4;51
+DNCC;11;1211105007;11211105007;Kollyanpur Purbo;2 No. Road Bar Pash;10;45;30;4;3;4;4;3;3;4;3;3;4;2;4;1;4;4;4;54
+DNCC;11;1211108004;11211108004;Kollyanpur Bazar Bosti;Kollan Pur 4No. Pura Bastee;600;2500;30;1;1;4;3;3;2;1;2;3;4;1;1;1;1;2;1;31
+DNCC;11;1211108005;11211108005;Kollyanpur Bazar Bosti;Kollan Pur 5No. Pura Bastee;50;225;30;1;1;4;2;3;2;1;3;3;4;1;1;1;1;2;1;31
+DNCC;11;1211108006;11211108006;Kollyanpur Bazar Bosti;Kollan Pur 6No. Pura Bastee;25;112;30;1;1;4;2;2;2;1;2;3;4;1;1;1;1;2;1;29
+DNCC;11;1211108002;11211108002;Kollyanpur Bazar Bosti;Kollan Pur 2No. Pora Bastee;355;1500;30;1;1;4;1;2;2;1;2;3;4;1;1;1;1;2;1;28
+DNCC;11;1211108007;11211108007;Kollyanpur Bazar Bosti;Kollan Pur 7No. Pura Bastee;320;1450;30;2;2;4;2;3;2;1;3;3;4;2;1;1;1;2;1;34
+DNCC;11;1211108008;11211108008;Kollyanpur Bazar Bosti;Kollan Pur 8No. Pura Bastee;750;3300;30;1;1;4;1;3;1;1;2;3;4;1;1;1;1;2;1;28
+DNCC;11;1211108001;11211108001;Kollyanpur Bazar Bosti;Kollan Pur 1 No. Pora Bastee;250;1125;30;2;2;4;3;3;2;1;3;3;4;2;2;1;1;2;1;36
+DNCC;11;1211108009;11211108009;Kollyanpur Bazar Bosti;Kollan Pur 10 Bastee;125;450;5;1;1;4;1;3;2;1;3;3;4;1;1;1;1;2;1;30
+DNCC;11;1211111003;11211111003;Sorok o Jonopod Gobeshonagar;Panir Tank Goli;70;320;45;2;2;4;2;4;2;1;3;3;4;3;1;1;2;2;1;37
+DNCC;11;1211111002;11211111002;Sorok o Jonopod Gobeshonagar;Pukurer Poschim Par Tal Gach Tola;60;240;45;2;2;4;2;4;2;2;3;3;4;3;1;1;2;2;1;38
+DNCC;11;1211111001;11211111001;Sorok o Jonopod Gobeshonagar;Pukurer Dokhin Par Tal Gach Tola;65;294;45;2;2;4;2;4;2;3;3;3;4;2;1;1;2;2;1;38
+DNCC;19;1211903001;11211903001;Banani;22No. Road Riksha Garage;36;162;45;2;4;4;4;4;2;2;4;3;4;2;1;1;1;1;1;40
+DNCC;19;1211903002;11211903002;Banani;Godown Bastee;250;1125;30;2;1;4;3;3;1;1;4;3;4;2;2;1;1;2;1;35
+DNCC;19;1211904005;11211904005;Karail;Bow Bazar;2500;11250;40;1;3;4;4;4;2;1;4;3;4;2;2;1;1;2;1;39
+DNCC;19;1211904008;11211904008;Karail;Block Ko;2300;10350;40;1;3;4;4;3;2;1;4;3;4;2;1;1;2;2;1;38
+DNCC;19;1211904009;11211904009;Karail;Block Go;1800;8100;40;1;3;4;4;2;2;1;4;3;4;2;2;1;2;2;1;38
+DNCC;19;1211904006;11211904006;Karail;Kola Bazar;450;2025;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904004;11211904004;Karail;Khamar Bari;500;2250;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904010;11211904010;Karail;Kumilla Potti;3300;14850;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904014;11211904014;Karail;Al Madina Masjeed;3600;16200;40;1;3;4;4;2;2;1;4;3;4;2;2;1;2;2;1;38
+DNCC;19;1211904015;11211904015;Karail;Mobile Potti;2000;9000;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904002;11211904002;Karail;Mosar Bazar;1100;4950;35;1;1;4;4;3;2;1;4;3;4;2;1;1;1;2;1;35
+DNCC;19;1211904003;11211904003;Karail;Cosmatics Potti;900;4050;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904011;11211904011;Karail;Jamai Bazar Kho Block;3500;15750;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904012;11211904012;Karail;1No. Unit Kaji Office Road;1800;8100;40;1;3;4;4;4;2;1;4;3;4;2;2;1;2;2;1;40
+DNCC;19;1211904013;11211904013;Karail;Jamai Bazar;2600;11700;40;1;3;4;4;2;2;1;4;3;4;2;2;1;2;2;1;38
+DNCC;19;1211904007;11211904007;Karail;2No. Unit Kho Block;650;2925;40;1;3;4;4;3;2;1;4;3;4;2;2;1;2;2;1;39
+DNCC;19;1211904001;11211904001;Karail;Prijet Bastee;260;1170;30;2;1;4;4;3;2;1;4;3;4;2;1;1;1;2;1;36
+DNCC;28;1212801004;11212801004;Purba Agargaon;Korom Alir Bastee Dak Office Ar Pashe;7;33;50;1;1;3;1;2;1;1;2;4;3;2;1;1;1;2;1;27
+DNCC;28;1212801003;11212801003;Purba Agargaon;Asraf Manjil PKSF Ar Paschim Pashe;40;180;25;3;2;4;3;3;2;2;3;3;4;3;4;1;4;4;3;48
+DNCC;28;1212801001;11212801001;Purba Agargaon;Sohid Ar Tak Bastee;380;1710;50;1;1;4;1;2;1;1;3;3;4;2;1;1;1;2;1;29
+DNCC;28;1212801005;11212801005;Purba Agargaon;Tot Tower Ar Shamne;100;450;36;1;1;3;1;2;1;1;3;2;4;2;1;1;1;2;1;27
+DNCC;28;1212801002;11212801002;Purba Agargaon;Kuminna Bastee;300;1350;62;1;1;4;1;2;1;1;3;3;4;2;1;1;1;2;1;29
+DNCC;28;1212801006;11212801006;Purba Agargaon;P.D Blud Staff Quarter;150;675;40;2;3;4;3;3;2;2;4;4;4;2;4;1;4;4;2;48
+DNCC;28;1212803001;11212803001;Poschim Agargaon;Momboi Officer Dokhin Pasher Bastee;150;676;10;1;1;4;1;3;1;1;2;3;4;3;1;1;1;2;1;30
+DNCC;28;1212803002;11212803002;Poschim Agargaon;Muktejodha Vaduster Ar Pashe Koboresthan Bastee;300;1350;10;1;1;4;1;4;1;1;3;4;4;3;1;1;1;2;1;33
+DNCC;28;1212803003;11212803003;Poschim Agargaon;Anmar Uddain Bastee;55;225;10;2;1;4;1;4;2;1;3;4;4;3;4;4;4;4;4;49
+DNCC;28;1212803004;11212803004;Poschim Agargaon;Moymonsing Bastee;150;660;12;1;1;4;1;3;3;1;2;3;4;2;1;1;1;2;1;31
+DNCC;28;1212803005;11212803005;Poschim Agargaon;Jamaler Garage O N.P Bastee;19;68;10;1;2;4;1;2;1;1;2;4;4;3;1;1;1;2;1;31
+DNCC;28;1212803006;11212803006;Poschim Agargaon;Kasemer Bastee;1000;4505;45;1;1;3;1;2;1;1;1;4;4;1;1;1;1;2;1;26
+DNCC;28;1212803007;11212803007;Poschim Agargaon;Nagar Ali Bastee;80;370;35;1;1;4;1;3;1;1;1;3;4;1;1;1;1;2;1;27
+DNCC;28;1212803008;11212803008;Poschim Agargaon;Motaharer Bastee;900;4040;45;1;1;3;1;3;1;1;2;3;4;2;1;1;1;2;1;28
+DNCC;28;1212803011;11212803011;Poschim Agargaon;B.N.P Bazarer Paschim Pashe Bastee;28;127;50;1;1;3;1;3;2;1;3;2;3;1;3;1;4;4;3;36
+DNCC;28;1212803010;11212803010;Poschim Agargaon;B.N.P Bazarer Uttar O Poschim Malikana Bastee;70;315;50;1;1;4;2;3;2;1;3;4;3;2;3;1;4;4;3;41
+DNCC;28;1212803009;11212803009;Poschim Agargaon;B.N.P Bazarer Dokhin 60 Fit Rastar Paashe;50;220;50;1;2;3;1;1;1;1;2;2;3;2;1;1;1;2;1;25
+DNCC;28;1212803013;11212803013;Poschim Agargaon;60 Fit Raster Purbo Pashe Md. Alir Bastee;300;1350;62;1;1;3;1;2;2;1;2;2;3;2;1;1;4;3;3;32
+DNCC;28;1212803012;11212803012;Poschim Agargaon;B.N.P Bazar Baitul Amin Masjeed Ar Pichon A;250;1125;48;1;1;3;3;2;3;1;3;2;3;2;1;1;1;2;1;30
+DNCC;28;1212804004;11212804004;Purbo Shamoly;SOG Quarter;200;900;50;2;4;4;4;4;4;2;4;4;4;3;4;4;4;2;4;57
+DNCC;28;1212804003;11212804003;Purbo Shamoly;Khal Par Bastee Vuiya Goli;45;175;20;1;1;2;1;2;1;1;2;2;2;1;1;1;1;2;1;22
+DNCC;28;1212804001;11212804001;Purbo Shamoly;Malek Saheber Barir Pashe;10;45;20;1;1;4;1;4;4;4;4;4;4;4;3;2;4;4;1;49
+DNCC;28;1212804002;11212804002;Purbo Shamoly;Milon Ar Garage Bastee;30;120;12;1;2;4;1;4;2;1;2;4;4;3;1;1;2;1;2;35
+DNCC;2;1210203010;11210203010;North-East Block;Kalapani School Camp;500;2245;45;2;2;4;4;2;2;2;4;3;4;2;1;1;3;2;1;39
+DNCC;2;1210203011;11210203011;North-East Block;Sohid Nagar Muktijodha Prokolpo;95;432;23;2;1;4;1;4;2;1;4;3;4;4;3;1;1;2;1;38
+DNCC;7;1210701001;11210701001;Rupnogor;Haji Road Jhilpar Bastee;1500;6300;37;1;3;4;3;4;2;1;1;3;4;3;1;2;2;2;2;38
+DNCC;7;1210701003;11210701003;Rupnogor;9 Number Thake 22 Number Road Ar Matha Projonto;3600;16200;33;1;3;4;3;4;2;1;2;3;4;3;1;2;2;2;2;39
+DNCC;7;1210701002;11210701002;Rupnogor;6 Thake 12 Number Road a Poschim Mathai;900;4038;10;3;3;4;3;4;3;3;4;3;4;2;2;1;1;1;1;42
+DNCC;7;1210702001;11210702001;Section - 6;Samsu Saharer Bari;15;60;38;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;4;57
+DNCC;7;1210702002;11210702002;Section - 6;Amir Uddain Ar Bari;13;59;38;2;3;4;3;4;3;4;4;4;4;4;4;1;4;4;3;55
+DNCC;7;1210702003;11210702003;Section - 6;Ataul Ar Bari;14;63;40;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;4;57
+DNCC;7;1210702004;11210702004;Section - 6;Joherul Islam Vuiya;14;63;40;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;3;56
+DNCC;7;1210702005;11210702005;Section - 6;Kulsum Banu;9;42;40;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;3;56
+DNCC;7;1210702006;11210702006;Section - 6;Noya mIa;20;95;40;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;3;56
+DNCC;7;1210702007;11210702007;Section - 6;Rofik Saheber Bari;9;36;40;4;3;4;4;4;3;4;4;4;4;4;4;1;4;4;4;59
+DNCC;7;1210702008;11210702008;Section - 6;Md. Jamal;14;63;40;3;3;4;3;4;3;4;4;4;4;4;4;1;4;4;4;57
+DNCC;7;1210703001;11210703001;Section - 2 (A);Nasimbag Mor;50;150;40;4;3;4;3;4;3;4;4;4;4;4;4;3;4;1;3;56
+DNCC;7;1210703002;11210703002;Section - 2 (A);B.F.I.D.C;20;80;41;4;3;4;4;4;3;4;4;4;4;4;4;1;4;4;4;59
+DNCC;7;1210703003;11210703003;Section - 2 (A);Housing Staff Colony;33;135;40;3;3;4;4;4;3;4;4;4;4;4;4;2;4;3;1;55
+DNCC;9;1210901001;11210901001;Diabari - Johurabad;Sahal Tamiyar Kor Bastee;20;95;30;3;3;4;3;3;3;3;3;3;4;3;3;1;3;1;3;46
+DNCC;9;1210901002;11210901002;Diabari - Johurabad;Sahanajer Bari;28;93;28;2;3;4;3;3;3;3;3;3;4;2;3;1;4;4;1;46
+DNCC;9;1210901005;11210901005;Diabari - Johurabad;Johir Ar Bastee Beribadh Ar Uttor Pashe;40;180;28;1;1;4;2;2;2;1;3;3;4;3;1;1;1;1;1;31
+DNCC;9;1210901004;11210901004;Diabari - Johurabad;Diya Bari Baribadh Bastee-2;50;225;40;1;1;4;1;2;1;3;2;3;4;2;1;1;1;1;1;29
+DNCC;9;1210901003;11210901003;Diabari - Johurabad;Diya Bari Beribadh Bastee-1;250;1125;27;2;2;4;2;2;1;3;3;3;4;2;1;1;1;2;1;34
+DNCC;9;1210902001;11210902001;Golartek - Jahanarabad;Sahina Khatuner Bari;22;98;20;2;3;3;3;3;1;3;3;3;4;3;3;1;4;1;3;43
+DNCC;9;1210902002;11210902002;Golartek - Jahanarabad;Tofajal Ar Bari;20;85;21;1;2;4;3;3;1;3;4;3;4;3;3;1;4;1;1;41
+DNCC;9;1210902005;11210902005;Golartek - Jahanarabad;Selim Khan Ar Bastee;50;245;80;2;3;4;3;3;1;1;3;3;4;3;3;1;4;4;1;43
+DNCC;9;1210902004;11210902004;Golartek - Jahanarabad;Golartak Bastee;30;135;26;3;3;4;3;4;1;1;3;3;4;1;3;1;4;1;1;40
+DNCC;9;1210902003;11210902003;Golartek - Jahanarabad;Shasul Hok Saheber Bastee;10;45;25;2;1;4;3;3;1;1;3;3;4;1;3;1;4;1;1;36
+DNCC;9;1210902006;11210902006;Golartek - Jahanarabad;Jahanabad Masjeed Ar Uttor Pashe Bastee;15;65;25;2;3;4;3;3;1;1;3;3;4;2;1;1;4;3;4;42
+DNCC;9;1210902007;11210902007;Golartek - Jahanarabad;Kaji Tipur Bari Bastee;30;135;27;3;2;4;3;2;1;3;3;3;4;3;3;1;3;4;1;43
+DNCC;9;1210903002;11210903002;Horirampur - Bazar Para;Haji Bari Bastee;250;1250;35;1;2;4;1;4;2;2;2;3;4;3;1;1;4;1;1;36
+DNCC;9;1210903003;11210903003;Horirampur - Bazar Para;Horirampur Bazar;26;114;22;1;3;4;2;2;1;3;4;4;4;2;3;1;4;1;1;40
+DNCC;9;1210903004;11210903004;Horirampur - Bazar Para;Shirin Ar Bari Bastee;18;88;20;2;2;4;3;3;2;4;4;3;4;3;1;1;4;1;1;42
+DNCC;9;1210903005;11210903005;Horirampur - Bazar Para;TaherMiyar Bastee;120;538;70;1;2;4;3;3;2;3;3;3;4;3;1;1;4;1;2;40
+DNCC;9;1210903001;11210903001;Horirampur - Bazar Para;Horirampur Bastee Hasinar Bari;18;88;20;2;1;4;2;3;2;3;3;3;4;3;3;1;3;1;3;41
+DNCC;9;1210903006;11210903006;Horirampur - Bazar Para;Afajuddain Bari;16;78;35;2;2;4;3;4;2;3;3;3;4;3;1;2;4;1;1;42
+DNCC;9;1210903007;11210903007;Horirampur - Bazar Para;Vubar Bari;25;114;35;2;2;4;3;3;2;4;3;3;4;3;1;1;4;1;1;41
+DNCC;9;1210903008;11210903008;Horirampur - Bazar Para;Maleker Bari;20;85;22;3;3;3;2;2;2;4;3;3;4;3;1;1;4;1;1;40
+DNCC;9;1210903010;11210903010;Horirampur - Bazar Para;Muyad Ar Bari Bastee;19;88;19;2;2;4;1;3;2;3;3;3;4;3;3;1;4;1;1;40
+DNCC;9;1210903009;11210903009;Horirampur - Bazar Para;Mabuddain Ar Bari;15;67;25;1;2;4;3;2;3;3;3;3;4;3;1;1;4;1;1;39
+DNCC;9;1210903012;11210903012;Horirampur - Bazar Para;Malauddain Ar Bari;40;180;25;2;2;4;3;3;2;3;3;3;4;3;4;1;3;1;2;43
+DNCC;9;1210903011;11210903011;Horirampur - Bazar Para;Manruddain Khan Ar Bari;15;65;18;2;2;3;2;3;2;4;3;3;4;3;2;1;4;1;2;41
+DNCC;9;1210903013;11210903013;Horirampur - Bazar Para;Monir Hajib Bari;19;88;20;1;2;4;3;3;2;3;4;4;4;3;3;1;3;1;2;43
+DNCC;9;1210903014;11210903014;Horirampur - Bazar Para;Mintur Bari;25;113;20;2;2;4;3;3;2;3;3;3;4;3;3;1;4;1;2;43
+DNCC;9;1210904001;11210904001;Bordhon Bari - Anondo Nagor;Manaullah Ar Bari Bastee;15;68;40;2;3;3;3;3;1;3;3;2;4;3;1;1;4;4;1;41
+DNCC;9;1210904002;11210904002;Bordhon Bari - Anondo Nagor;Shomi Para Bastee;200;900;70;3;3;3;3;2;3;3;3;3;4;3;4;1;4;4;1;47
+DNCC;9;1210904003;11210904003;Bordhon Bari - Anondo Nagor;Ormfom Primary School Ar Poschim Pashe Bastee;29;123;45;2;3;4;3;3;2;3;3;3;4;2;3;1;4;4;1;45
+DNCC;9;1210905001;11210905001;Bagbari - Coatbari;Boshir Uddain Miyar Bastee;20;85;21;1;1;2;1;3;2;3;3;2;2;3;1;1;4;1;1;31
+DNCC;9;1210905002;11210905002;Bagbari - Coatbari;Fotik Raj Bonsir Bastee;15;65;18;2;2;3;2;3;2;1;3;2;2;3;3;1;4;3;4;40
+DNCC;9;1210905003;11210905003;Bagbari - Coatbari;Rohman Hajir Bari;20;90;80;1;1;4;2;2;1;2;3;3;4;3;3;1;4;3;1;38
+DNCC;9;1210905004;11210905004;Bagbari - Coatbari;Char Ani Pava Bastee;15;64;42;2;2;4;2;3;2;3;3;2;2;3;4;1;4;1;1;39
+DNCC;9;1210905007;11210905007;Bagbari - Coatbari;Lokhon Ar bari Bastee;15;64;28;2;3;4;3;3;2;3;3;3;4;3;3;1;4;3;4;48
+DNCC;9;1210905005;11210905005;Bagbari - Coatbari;Ahamed;6;27;15;1;1;2;3;3;1;4;3;3;4;4;1;1;4;4;1;40
+DNCC;9;1210905006;11210905006;Bagbari - Coatbari;Akbor Miyar Bari;17;76;22;2;2;4;2;3;2;3;3;3;4;2;3;1;4;3;1;42
+DNCC;10;1211001001;11211001001;1st Colony;Aysha Market ar Uttar Pashe;225;1020;25;1;1;4;1;2;2;1;3;3;4;2;4;1;4;4;4;41
+DNCC;10;1211002001;11211002001;2nd Colony;City Colony;800;3600;10;2;2;4;3;2;1;1;3;3;4;2;1;1;1;3;2;35
+DNCC;10;1211002002;11211002002;2nd Colony;Chetaly Sarak/ Langra Potti;200;900;29;2;3;4;2;3;3;1;3;3;4;2;1;1;1;3;2;38
+DNCC;10;1211003002;11211003002;3rd Colony;Basu Para Khal Par;30;140;25;1;1;4;2;4;3;1;3;1;4;2;3;1;1;2;1;34
+DNCC;10;1211003001;11211003001;3rd Colony;Depe Saheber Pukur Bastee;90;395;15;1;1;4;4;4;3;1;3;3;4;4;4;1;4;2;3;46
+DNCC;10;1211004004;11211004004;Goidartek;Alauddain Haji Bastee;80;390;10;2;1;4;3;1;2;1;3;3;4;2;4;1;4;4;4;43
+DNCC;10;1211004003;11211004003;Goidartek;Abu Taher Saheber Bastee;38;185;10;3;2;4;3;1;3;1;2;3;4;3;4;1;4;4;4;46
+DNCC;14;1211401002;11211401002;Purbo Kazipara, Purbo Shenpara;Kiyarimun Goli;100;450;25;2;2;4;3;3;1;2;4;3;4;2;1;1;1;1;1;35
+DNCC;14;1211401001;11211401001;Purbo Kazipara, Purbo Shenpara;Christian Bazar;105;500;25;2;3;4;3;4;2;3;4;3;4;3;1;2;1;1;1;41
+DNCC;14;1211402001;11211402001;Poschim Kazipara, Poschim Shenpara;Sattara Masjeed;100;450;20;2;1;4;3;3;1;2;4;3;4;3;1;1;1;1;1;35
+DNCC;14;1211403002;11211403002;Purbo Kazipara Partial, Purbo Sheorapara;Jamtola/Bou Bazar Sonlogno Bastee;200;900;30;2;1;4;2;3;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;14;1211403004;11211403004;Purbo Kazipara Partial, Purbo Sheorapara;Eit Khowa Bazar;150;700;25;2;1;4;2;3;1;2;3;3;4;2;1;1;1;1;1;32
+DNCC;14;1211403003;11211403003;Purbo Kazipara Partial, Purbo Sheorapara;Matborer Pukur Par;200;900;25;2;1;4;3;3;1;2;3;3;4;2;1;1;1;1;1;33
+DNCC;14;1211403005;11211403005;Purbo Kazipara Partial, Purbo Sheorapara;Kutta Mara;200;900;25;2;1;4;2;3;1;2;4;3;4;2;1;1;1;1;1;33
+DNCC;14;1211403001;11211403001;Purbo Kazipara Partial, Purbo Sheorapara;Haji Asraf Ali School Sonlogno;150;650;22;3;1;4;2;3;2;3;4;3;4;2;1;1;2;1;1;37
+DNCC;14;1211404004;11211404004;Poschim Kazipara Partial, Poschim Sheorapara Brihot Alaka;Bais Bari;500;2100;20;2;1;4;2;3;1;2;3;3;4;2;1;1;1;1;1;32
+DNCC;14;1211404003;11211404003;Poschim Kazipara Partial, Poschim Sheorapara Brihot Alaka;Bodear Bazar/ Baotul Amin Masjeed;300;1350;25;2;1;3;2;4;1;2;3;3;4;2;1;1;1;1;1;32
+DNCC;14;1211404001;11211404001;Poschim Kazipara Partial, Poschim Sheorapara Brihot Alaka;Baitul Falai Masjeed Ali Miyar Tek;250;1300;20;2;1;4;3;1;2;2;4;3;4;1;1;1;2;1;1;33
+DNCC;14;1211404002;11211404002;Poschim Kazipara Partial, Poschim Sheorapara Brihot Alaka;6 tola Goli Ali Miyar Tak;600;2500;20;3;2;4;4;4;1;2;4;3;4;2;1;2;1;1;1;39
+DNCC;16;1211601015;11211601015;North Ebrahimpur;80 Dag;800;3500;10;2;1;4;3;2;1;2;3;3;4;2;1;1;1;1;1;32
+DNCC;16;1211601016;11211601016;North Ebrahimpur;S.P Para;100;450;9;2;1;4;2;2;1;3;4;3;4;2;1;1;2;1;1;34
+DNCC;16;1211601013;11211601013;North Ebrahimpur;Matbor Bari;400;1800;10;2;1;4;2;3;1;3;3;3;4;2;1;1;1;1;1;33
+DNCC;16;1211601006;11211601006;North Ebrahimpur;Member Bari (Sahajahaner Bari);46;210;10;3;3;4;3;3;1;2;3;3;4;2;1;1;1;1;1;36
+DNCC;16;1211601004;11211601004;North Ebrahimpur;Member Bari;12;48;7;2;1;4;3;2;1;1;3;3;4;2;1;1;1;1;1;31
+DNCC;16;1211601003;11211601003;North Ebrahimpur;Ilham English Vason School Ar Pashe;17;80;7;3;4;4;3;3;1;2;3;3;4;3;1;1;1;1;1;38
+DNCC;16;1211601002;11211601002;North Ebrahimpur;Chowdhuri Para;250;1200;70;2;3;4;2;3;2;3;3;3;4;3;4;2;4;4;4;50
+DNCC;16;1211601005;11211601005;North Ebrahimpur;Member Baro-1;21;90;10;2;1;4;3;2;1;1;4;3;4;2;1;1;1;1;1;32
+DNCC;16;1211601014;11211601014;North Ebrahimpur;Bilaler Math;200;800;15;2;1;4;2;2;1;2;4;3;4;2;1;1;2;1;1;33
+DNCC;16;1211601001;11211601001;North Ebrahimpur;Waduder Bari;13;60;5;4;3;4;4;3;2;4;4;3;4;3;1;1;1;1;1;43
+DNCC;16;1211601007;11211601007;North Ebrahimpur;Muhammad Ali Saheber Bari;51;230;9;2;2;4;3;3;3;2;3;3;4;2;1;1;1;1;1;36
+DNCC;16;1211601008;11211601008;North Ebrahimpur;Sijne Sarak;300;1300;90;2;1;4;2;2;1;2;4;3;4;2;1;1;2;1;1;33
+DNCC;16;1211601009;11211601009;North Ebrahimpur;Gedu Madbor Road;200;900;10;2;1;4;2;2;1;3;3;3;4;2;1;1;1;1;1;32
+DNCC;16;1211601010;11211601010;North Ebrahimpur;Anondo Road;200;900;9;2;1;4;2;2;1;2;3;3;4;2;1;1;1;1;1;31
+DNCC;16;1211601011;11211601011;North Ebrahimpur;Ibrahimpur Sijni Sarak Ar Mathay;50;250;10;2;3;4;2;3;1;3;4;3;4;1;1;1;1;1;1;35
+DNCC;16;1211601012;11211601012;North Ebrahimpur;Boro Bari;300;1500;10;2;2;4;2;3;1;2;4;3;4;2;1;1;1;1;1;34
+DNCC;16;1211602003;11211602003;South Ebrahimpur;Bow Bazar Uttar Kayakal;800;3700;15;1;2;4;1;2;1;2;3;3;4;2;1;1;2;1;1;31
+DNCC;16;1211602002;11211602002;South Ebrahimpur;Ibrahimpur Khal Par;800;3600;10;1;2;4;1;2;1;2;3;3;4;2;1;1;2;1;1;31
+DNCC;16;1211602001;11211602001;South Ebrahimpur;Mollah Bari;40;200;15;2;3;4;4;3;2;1;3;3;4;3;1;1;1;1;1;37
+DNCC;16;1211603001;11211603001;North Kafrul;Jhilpar;800;3700;10;2;1;4;2;2;1;2;3;3;4;2;1;1;2;1;1;32
+DNCC;16;1211603002;11211603002;North Kafrul;Uttar Kayakal;300;1400;9;2;3;4;2;2;2;1;3;3;4;1;1;1;2;1;1;33
+DNCC;16;1211604001;11211604001;East, South Kafrul;Dokhin Kayakal Model Haigh School Road;50;230;8;3;3;4;3;3;2;4;4;3;4;3;1;1;3;1;1;43
+DNCC;16;1211604002;11211604002;East, South Kafrul;Purbo Kayakal;80;450;10;3;3;4;3;4;2;3;4;3;4;2;1;2;2;1;1;42
+DNCC;16;1211605001;11211605001;Poschim Kafrul;Kobir Miyar Bastee;200;900;12;3;3;4;3;3;2;3;4;3;4;2;1;1;2;1;1;40
+DNCC;16;1211605002;11211605002;Poschim Kafrul;Moyajjim Miyar Bastee;200;800;11;3;4;4;3;3;1;3;3;3;4;2;1;1;1;1;1;38
+DNCC;16;1211605003;11211605003;Poschim Kafrul;Deloyar Miyar Bosote;200;880;15;3;2;4;2;3;1;3;3;3;4;2;1;1;1;1;1;35
+DNCC;8;1210801001;11210801001;Uttor Bishil;Afshu Kazir Bari;10;45;28;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;8;1210801002;11210801002;Uttor Bishil;Alauddin Kazir Bari;70;320;40;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;8;1210801003;11210801003;Uttor Bishil;Afsar Dawan 6 No Road;550;2550;25;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;8;1210801004;11210801004;Uttor Bishil;Kusum Bag Balur math;500;2300;18;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;8;1210801005;11210801005;Uttor Bishil;Sharang Barir Bosti ( Dawanbag);107;480;40;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;8;1210802001;11210802001;Block-C,E,F,G;Eid Ga Math Bosti;270;1215;40;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;8;1210803002;11210803002;Block-H,B;Balur Math 9 No Tola ( Goni Talukdar Bosti);60;280;6;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;8;1210803001;11210803001;Block-H,B;Toju Miar Bosti(H Block);60;300;30;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;8;1210803003;11210803003;Block-H,B;Gudara Ghat 6 No Road,H-Block;120;500;20;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;20;1212001001;11212001001;Mohakhali Wareless Gate(Ja Block);Badha Bosti;500;2000;30;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;20;1212002002;11212002002;Beltola Adorsho Nogor, Ershad Nogor;Vanga Wall;850;3300;30;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;20;1212002003;11212002003;Beltola Adorsho Nogor, Ershad Nogor;Beltalo;850;3400;30;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;20;1212002001;11212002001;Beltola Adorsho Nogor, Ershad Nogor;Ershad Nogor;1300;5800;30;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;20;1212003001;11212003001;Mohakhali South Para Block-ka,Mohakhali Bazar,Mohakhali Public health;Chowadhuri Para;860;3400;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;20;1212004001;11212004001;Sat Tola Adorsho Nogor Block-ka(2);Pora Bosti;996;3900;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;20;1212004002;11212004002;Sat Tola Adorsho Nogor Block-ka(2);Boundary Bosti;845;3800;30;2;1;4;1;2;1;1;3;2;3;2;1;1;1;2;1;28
+DNCC;20;1212004003;11212004003;Sat Tola Adorsho Nogor Block-ka(2);Staff Mohalla;2200;8800;30;2;1;4;1;2;2;1;2;3;3;2;1;1;1;2;1;29
+DNCC;20;1212004004;11212004004;Mohakhali South Para Block-ka,Mohakhali Bazar,Mohakhali Public health;IPS Mosjid Para;450;1800;30;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;20;1212005001;11212005001;TB Gate Block-Cha;Mondir Para;500;2000;20;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;29;1212903001;11212903001;F-Block(1-13)Aziz Mohalla;Market Camp Block-2;425;1890;47;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;29;1212903008;11212903008;F-Block(1-13)Aziz Mohalla;C.C.R.C Camp Community Center Relief Camp;200;886;47;3;3;4;2;2;2;2;3;2;4;2;2;1;2;2;1;37
+DNCC;29;1212903003;11212903003;F-Block(1-13)Aziz Mohalla;Market Camp Block-4;145;640;47;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;29;1212903004;11212903004;F-Block(1-13)Aziz Mohalla;Market Camp Block-5;150;650;47;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;29;1212903005;11212903005;F-Block(1-13)Aziz Mohalla;Market Camp Block-6;90;400;47;1;3;4;1;2;1;1;3;3;4;3;1;1;2;2;1;33
+DNCC;29;1212903002;11212903002;F-Block(1-13)Aziz Mohalla;Market Camp Block-3;85;380;47;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;29;1212903007;11212903007;F-Block(1-13)Aziz Mohalla;Market Camp Block-8;45;200;47;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;29;1212903006;11212903006;F-Block(1-13)Aziz Mohalla;Market Camp Block-7;35;150;47;3;3;4;2;2;2;2;3;2;4;3;2;1;2;2;1;38
+DNCC;29;1212906001;11212906001;F-Block(26-42)Jhouri Mohalla Purbo Babar Road;Govt.Staff Cotar Relief Camp30,31,32;350;1568;47;3;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;39
+DNCC;31;1213105001;11213105001;Kazi Nazrul Islam Road;Jiaru Camp;70;400;50;1;3;4;1;2;1;1;3;3;4;3;2;1;1;2;1;33
+DNCC;31;1213104001;11213104001;Zakir Hossain Road(Town Hall Camp);Town Hall Camp;500;2100;49;2;3;4;2;2;2;2;3;3;4;3;2;1;2;2;1;38
+DNCC;34;1213401002;11213401002;Madhubazar,Sankar;Mostofar Bari;70;280;15;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;34;1213401001;11213401001;Madhubazar,Sankar;Sidiqquie r Bari;50;200;15;2;1;4;1;2;1;1;2;3;3;2;1;1;1;2;1;28
+DNCC;34;1213402001;11213402001;Purbo Jafrabad;Balur Math Bosti;200;800;30;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;34;1213402002;11213402002;Purbo Jafrabad;Khokonar Bari;40;160;30;2;3;4;4;3;3;4;3;3;2;4;4;3;4;1;3;50
+DNCC;34;1213403001;11213403001;Purbo Rayerbazar, Bibirbazar, Rajmushuri;Bari Badh Bosti;250;1000;40;4;4;4;4;4;3;4;3;4;3;4;4;4;4;1;3;57
+DNCC;34;1213403002;11213403002;Purbo Rayerbazar, Bibirbazar, Rajmushuri;Jul Par Bosti;350;1400;40;4;4;4;4;3;3;4;3;4;3;3;4;3;4;1;3;54
+DNCC;34;1213404002;11213404002;Poschim Jafarabad;Mamunr Bari;150;650;30;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;3;62
+DNCC;34;1213404001;11213404001;Poschim Jafarabad;Hossain R Bari;30;120;30;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;34;1213405001;11213405001;Uttor Sultangang, Rayerbazar;Nur Hazir Bosti;50;200;30;4;4;4;4;4;3;4;3;4;2;4;4;4;4;1;3;56
+DNCC;34;1213405002;11213405002;Uttor Sultangang, Rayerbazar;Shofik Armyr Bosti;150;600;15;4;4;4;4;4;3;4;3;4;3;4;4;3;4;1;3;56
+DNCC;5;1210501001;11210501001;Block A & D;Madrasa Camp;1000;5000;45;2;3;3;2;2;2;1;2;3;2;2;3;2;2;2;2;35
+DNCC;5;1210501002;11210501002;Block A & D;A.D.C Camp-1;210;1050;47;2;1;3;3;3;2;1;3;3;2;2;1;1;3;3;2;35
+DNCC;5;1210501003;11210501003;Block A & D;A.D.C Camp-2;100;500;42;2;1;3;3;3;2;1;3;3;2;2;1;1;3;3;2;35
+DNCC;5;1210501005;11210501005;Block A & D;Muslim Camp;4000;20000;47;2;2;3;3;3;2;1;3;3;2;2;2;2;3;3;2;38
+DNCC;5;1210501004;11210501004;Block A & D;Jolla Camp;1800;9000;47;2;2;4;2;3;2;1;2;2;2;2;2;2;3;3;2;36
+DNCC;5;1210502001;11210502001;Block-B;Talab Camp-1;2500;12500;45;2;3;3;2;3;4;1;3;3;3;2;4;3;1;2;2;41
+DNCC;5;1210502002;11210502002;Block-B;Talab Camp-2;200;1000;45;2;3;3;2;2;3;1;3;2;3;2;2;2;2;2;2;36
+DNCC;5;1210502003;11210502003;Block-B;Millat Camp;2000;10000;45;2;3;4;2;2;3;1;2;3;2;2;2;2;2;2;4;38
+DNCC;5;1210502004;11210502004;Block-B;Boro Mosjid Camp;600;3000;45;2;1;2;2;1;2;1;2;2;2;2;2;2;2;2;2;29
+DNCC;5;1210502005;11210502005;Block-B;Rohomot Camp;250;1250;47;2;3;3;3;3;2;1;3;3;2;2;2;2;1;2;2;36
+DNCC;5;1210502006;11210502006;Block-B;Sonali Camp;300;1500;47;2;3;3;1;3;2;1;2;2;3;2;2;2;1;2;4;35
+DNCC;5;1210502007;11210502007;Block-B;Imam Bara Camp;500;2500;47;2;3;3;2;3;2;1;3;2;2;1;2;2;1;2;2;33
+DNCC;5;1210502008;11210502008;Block-B;Bottala Camp;250;1250;40;1;1;2;2;2;2;1;2;2;2;2;2;2;1;2;2;28
+DNCC;5;1210502009;11210502009;Block-B;Rabita Camp;250;1250;38;1;1;3;2;3;3;1;2;2;2;2;1;3;1;2;2;31
+DNCC;5;1210502010;11210502010;Block-B;Consal Camp;210;1050;33;3;3;3;2;3;3;1;2;2;3;2;2;2;1;2;2;36
+DNCC;5;1210502011;11210502011;Block-B;Wobda Building Camp-3;365;1825;47;2;3;4;2;2;2;2;2;2;2;2;2;2;1;2;2;34
+DNCC;5;1210502012;11210502012;Block-B;Wobda Building Camp-1;205;1025;47;2;3;3;2;2;2;1;2;2;4;1;2;2;1;2;2;33
+DNCC;5;1210503001;11210503001;Taltala Bosti Block-F;Taltala Pora Bosoti;151;755;32;1;1;4;1;3;3;1;2;3;2;1;1;1;1;2;1;28
+DNCC;5;1210503002;11210503002;Kalsi Sec-11,Block-E;Kalsi Koborostan Bosti;61;305;28;2;1;4;2;1;4;1;2;3;2;2;1;1;1;2;1;30
+DNCC;5;1210505001;11210505001;Kola Bagan;Kola Bagan;400;2000;20;2;1;2;1;2;1;1;3;2;2;1;1;1;1;2;1;24
+DNCC;5;1210505007;11210505007;Bounia Badh Block-E;Pukur Par O Baribadh Bosti;350;1700;18;1;2;1;2;1;2;1;1;2;2;1;1;1;1;2;2;23
+DNCC;5;1210505006;11210505006;Bounia Badh Block-D;Baribadh Bosti;480;2400;20;2;3;2;1;3;2;2;3;2;3;2;1;1;1;2;1;31
+DNCC;5;1210505003;11210505003;Bounia Badh Block-A;Baribadh Bosti-2;110;440;20;3;2;2;1;2;1;2;3;2;2;1;1;2;1;2;1;28
+DNCC;5;1210505002;11210505002;Bounia Badh;Baribadh Bosti-1;90;360;20;2;2;1;1;1;1;1;2;1;2;1;1;1;1;2;1;21
+DNCC;5;1210505004;11210505004;Bounia Badh Block-B;Pukur Par Bosti;220;1000;15;4;3;1;1;2;1;4;3;1;1;1;1;1;1;2;1;28
+DNCC;5;1210505005;11210505005;Bounia Badh Block-C;Pukur Par  O Purbo Pas Bosti;320;1500;15;1;2;1;1;2;1;2;3;2;1;1;1;1;1;2;1;23
+DNCC;15;1211501001;11211501001;Dhamal Cot BRP Lalashori;Sha Alam Shahabar bari (Nirob Road);30;135;14;1;1;4;3;4;1;1;2;3;4;1;1;1;2;1;1;31
+DNCC;15;1211501002;11211501002;Dhamal Cot BRP Lalashori;Babul Hujur r Bari (Nirob Road);25;120;16;1;1;4;3;4;1;1;4;3;4;1;1;1;2;1;1;33
+DNCC;15;1211501003;11211501003;Dhamal Cot BRP Lalashori;Bhutu Sheb r Bari (Nirob Road);81;365;19;1;1;4;3;3;1;1;4;3;4;2;1;1;2;1;1;33
+DNCC;15;1211501004;11211501004;Dhamal Cot BRP Lalashori;Jonu Mihar Bari (Nirob Road);60;270;20;2;1;4;3;4;1;1;4;3;4;2;1;1;2;1;1;35
+DNCC;15;1211501005;11211501005;Dhamal Cot BRP Lalashori;Ruma Akter r Bari (Nirob Road);32;144;10;2;1;4;3;2;1;1;4;3;4;2;1;1;2;1;1;33
+DNCC;15;1211501006;11211501006;Dhamal Cot BRP Lalashori;Kamal Gong r Bosoti;90;406;26;2;1;4;2;2;1;1;4;3;4;2;1;1;1;1;1;31
+DNCC;15;1211501007;11211501007;Dhamal Cot BRP Lalashori;Abdul Roshid jomidar Gong Ar Bosoti;100;450;30;2;1;4;2;1;1;1;4;3;4;2;1;1;2;1;1;31
+DNCC;15;1211501008;11211501008;Dhamal Cot BRP Lalashori;Nantu Ar Bosoti;40;180;20;2;1;4;2;2;1;2;4;3;4;2;1;1;1;1;1;32
+DNCC;15;1211501009;11211501009;Dhamal Cot BRP Lalashori;Riaz Gong Ar Bosoti;73;314;15;2;1;4;2;2;1;3;4;3;4;2;1;1;1;1;1;33
+DNCC;15;1211501013;11211501013;Dhamal Cot;Shahida Begumr Bari (Shoban Road);120;540;10;2;1;4;2;3;1;1;3;3;4;2;1;1;2;1;1;32
+DNCC;15;1211501012;11211501012;Dhamal Cot;Kazi Abu Nayeem ar Bari (Shoban Road);32;145;37;2;1;4;2;3;1;1;4;3;4;2;1;1;2;1;1;33
+DNCC;15;1211501011;11211501011;Dhamal Cot;Tamana Begum Ar Bari (Shobhan Road);40;180;12;2;1;4;2;4;1;1;4;3;4;2;1;1;2;1;1;34
+DNCC;15;1211501010;11211501010;Dhamal Cot;Abu Nasarar Bari (shoban Road);48;216;13;2;1;4;2;3;1;1;4;3;4;2;1;1;2;1;1;33
+DNCC;15;1211502001;11211502001;Gudara Ghat Banarosi Bosti;Gudara Ghat Bosti;160;720;12;3;2;4;1;3;1;1;2;3;4;1;1;1;1;1;1;30
+DNCC;15;1211502003;11211502003;Gudara Ghat Banarosi Bosti;Banarosi Palli;200;900;30;2;1;4;3;2;1;1;4;3;4;1;1;1;2;1;1;32
+DNCC;15;1211502004;11211502004;Gudara Ghat Banarosi Bosti;1 No Bosoti, Vasantak;1660;8300;45;3;3;4;3;2;1;1;3;3;4;2;1;1;3;1;1;36
+DNCC;15;1211502002;11211502002;Gudara Ghat Bosti Ruposi Bangla Banarosi Bosti;4 No Gudara Ghat Bosoti;1500;7100;45;2;2;4;2;2;1;2;4;3;4;2;1;1;2;1;1;34
+DNCC;17;1211701001;11211701001;Johar Shahara, wali Para;Chotoris Bari;45;202;25;4;4;4;4;4;2;4;4;3;4;3;4;4;3;1;3;55
+DNCC;17;1211701002;11211701002;Johar Shahara, wali Para;Molla Para;34;155;21;1;1;4;3;3;2;1;3;2;4;2;3;1;3;4;4;41
+DNCC;17;1211701005;11211701005;Johar Shahara;Jamirar Bosti;35;160;18;4;4;4;3;4;2;4;3;3;4;3;3;1;3;3;3;51
+DNCC;17;1211701004;11211701004;Johar Shahara;Rail Colony Bosti;145;580;5;1;1;4;1;1;2;1;2;3;3;2;1;1;1;2;1;27
+DNCC;17;1211701003;11211701003;Johar Shahara, wali Para;Mizanar Bari+Shorifar Bari;28;128;22;1;1;4;2;3;1;1;1;3;4;3;2;1;2;1;1;31
+DNCC;17;1211702004;11211702004;Tan Para;MD.Moklas ar Bosoti;32;140;8;2;3;1;2;4;2;4;4;3;1;3;1;3;2;3;2;40
+DNCC;17;1211702005;11211702005;Tan Para;Jolliar Bosti;34;165;5;4;2;4;3;3;3;2;4;3;4;3;4;2;4;1;1;47
+DNCC;17;1211702001;11211702001;Tan Para;Munnar Bari;50;225;6;2;3;3;1;3;2;4;2;2;2;1;1;3;1;3;2;35
+DNCC;17;1211702003;11211702003;Tan Para;Colony Bosti;45;225;8;2;2;4;2;1;3;4;1;3;2;3;1;2;1;1;2;34
+DNCC;17;1211702002;11211702002;Tan Para;Makinar bosti;55;230;7;2;2;3;4;1;2;4;1;3;2;3;2;4;4;1;3;41
+DNCC;17;1211702006;11211702006;Tan Para;Laijur Bari;47;235;7;1;2;4;2;2;1;1;3;2;3;4;4;1;1;2;3;36
+DNCC;17;1211702007;11211702007;Tan Para;Tan Para Bostoi;38;190;10;2;1;2;4;4;2;3;3;1;3;2;4;3;2;2;2;40
+DNCC;17;1211703002;11211703002;Khial Khat;Talar Tak;35;170;15;4;4;4;2;4;1;4;2;3;4;1;1;1;2;1;3;41
+DNCC;17;1211703003;11211703003;Khial Khat;Muruj Bangalir Bosti;20;95;12;4;4;4;2;4;1;4;2;3;4;1;1;1;2;1;3;41
+DNCC;17;1211703001;11211703001;Khial Khat;Forik Bari Bosti;30;150;30;4;4;4;2;4;1;4;2;3;4;1;1;1;2;1;3;41
+DNCC;17;1211704001;11211704001;Kha Para Khil Khat;146 Anwarar Bosoti;12;60;12;3;4;4;3;4;4;4;2;3;4;3;4;1;4;1;3;51
+DNCC;17;1211704003;11211704003;Kha Para Khil Khat;Shirinar Bosti;12;62;15;2;1;4;1;4;4;1;2;3;4;2;4;1;4;1;3;41
+DNCC;17;1211704002;11211704002;Kha Para Khil Khat;Ayub Alir Bosti (Agorar Tak);18;75;15;2;1;4;1;4;4;1;2;3;4;2;4;1;4;1;3;41
+DNCC;17;1211704005;11211704005;Kha Para Khil Khat;Ashiar Bosti;12;50;15;1;1;4;1;4;2;1;2;3;4;2;4;1;4;1;2;37
+DNCC;17;1211704004;11211704004;Kha Para Khil Khat;Jalal Uddin R Bari;10;42;30;2;2;4;1;4;3;1;4;3;4;2;4;2;4;1;2;43
+DNCC;17;1211705001;11211705001;Khilkhat Nam Para Uttor;Forajar Bosti;60;270;15;2;1;4;2;4;4;2;2;3;4;1;4;1;4;1;3;42
+DNCC;17;1211705002;11211705002;Bashtola Uttor Kholkhat;Bashtola Bosti;15;65;13;2;1;4;2;4;4;4;2;3;4;2;3;2;4;1;3;45
+DNCC;17;1211706001;11211706001;Jogonathpur;Haraj Sorok Bosti;18;80;15;2;3;4;2;1;1;2;3;3;4;1;2;1;2;1;2;34
+DNCC;17;1211706002;11211706002;Jogonathpur;Purbo Para Bosti;20;130;8;3;2;4;3;4;2;2;4;3;4;3;1;1;2;3;3;44
+DNCC;17;1211706003;11211706003;Jogonathpur;Aziz Sorakar Mathai;35;170;10;2;3;4;2;1;1;2;3;3;4;3;2;2;2;3;3;40
+DNCC;17;1211706004;11211706004;Jogonathpur;Kama boyan Ar Purbo Sorokar Mathai;18;75;8;2;3;4;3;4;4;1;3;3;4;1;2;1;2;1;2;40
+DNCC;17;1211707001;11211707001;Kuril Kura Toli;Top Para Bosti;45;185;25;3;3;4;3;2;1;2;4;3;4;2;2;1;3;1;3;41
+DNCC;17;1211707002;11211707002;Kuril Kura Toli;Kura Toli Bosti;56;255;26;1;3;4;3;2;2;2;3;3;4;3;1;1;3;2;3;40
+DNCC;17;1211707003;11211707003;Kuril Kura Toli;Middha Bari;23;115;25;1;3;4;3;2;3;3;3;3;4;3;2;1;3;1;3;42
+DNCC;24;1212401001;11212401001;Uttor pocchim Alaka;B.R.I Bosti (Kacha Vabga Goli);60;300;40;2;2;3;2;1;1;4;2;3;4;1;1;1;1;3;1;32
+DNCC;24;1212401004;11212401004;Uttor pocchim Alaka;Shishu Poribar Pasar Bosti;80;400;40;4;4;4;2;1;2;4;3;3;3;3;1;1;1;3;1;40
+DNCC;24;1212401002;11212401002;Uttor pocchim Alaka;T.N.T Sognoglono Bosti;105;450;30;2;4;4;2;1;1;4;4;3;4;3;1;1;1;3;1;39
+DNCC;24;1212401003;11212401003;Uttor pocchim Alaka;Bhawal Bag Bosti (Ranway Purbo);350;1500;60;3;3;4;2;1;1;1;2;3;4;2;1;1;1;2;1;32
+DNCC;24;1212401005;11212401005;Uttor pocchim Alaka;14 No Bosti;15;75;40;4;4;4;2;1;1;4;4;3;4;3;1;1;1;3;1;41
+DNCC;24;1212402001;11212402001;uttor Purbo Part;Progotir Mor;7;25;30;2;2;4;2;4;2;4;4;3;4;2;4;2;4;4;4;51
+DNCC;24;1212402002;11212402002;North-East Area;Bot Tola Bosti (Matal);35;150;50;4;3;1;3;1;1;4;2;3;4;3;4;4;4;4;4;49
+DNCC;24;1212402003;11212402003;North-East Area;Rulling Milr Samna;15;75;25;2;2;4;2;3;2;4;3;3;4;3;2;1;3;2;1;41
+DNCC;24;1212402004;11212402004;North-East Area;Rulling Milr Golir Bosti;6;25;35;3;2;4;2;1;1;4;4;3;4;3;4;1;4;4;4;48
+DNCC;24;1212402005;11212402005;North-East Area;Babla Bosti Bolakar Mor;6;27;35;2;4;4;1;4;2;4;4;3;4;3;3;2;4;4;4;52
+DNCC;24;1212403001;11212403001;South-West Area;Track Stand Bosti;60;250;50;3;4;4;2;3;1;3;2;3;4;3;1;1;1;1;1;37
+DNCC;24;1212403002;11212403002;South-West Area;C.S.D Gorain Pasa Bosti;20;95;30;2;4;4;2;3;1;3;3;3;4;3;1;1;1;1;1;37
+DNCC;24;1212403003;11212403003;South-West Area;Puraton AFD Gate Bosti;10;50;30;3;4;4;2;2;1;3;2;3;4;3;1;1;1;1;1;36
+DNCC;24;1212403004;11212403004;South-West Area;Mollar Bari Bosti AFDC Pasa;160;800;40;2;1;4;1;2;1;1;4;3;4;2;1;1;2;2;1;32
+DNCC;24;1212404001;11212404001;South-East Area;Hatir Jhil Lak Par;11;50;20;3;4;4;3;2;2;4;4;3;4;2;1;1;1;1;1;40
+DNCC;24;1212406001;11212406001;Purbo Modho Pocchim Area;Medical Mor ( Thana Shasto Complex);24;110;30;1;1;4;1;3;1;1;2;3;4;1;1;1;1;3;1;29
+DNCC;24;1212406003;11212406003;Purbo Modho Pocchim Area;Lal Math Bosti;160;800;35;1;4;4;3;4;2;1;3;3;4;3;2;1;2;2;2;41
+DNCC;24;1212406002;11212406002;Purbo Modho Pocchim Area;Baltola Bosti;20;100;40;4;4;4;3;1;1;4;4;3;4;1;3;4;2;2;2;46

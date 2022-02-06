@@ -1,0 +1,7 @@
+{% load blackwidow_filter %}
+
+{% for a in record|filter_inline_object_permission:request %}
+    <a class="{{ a.classes }}" data-title="{{ a.title }}" data-id="{{ data.id }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}" href="{% url a.url_name a.parent.id record.id %}">
+        <i class="{{ a.icon }}"></i> {{ a.name }}
+    </a>
+{% endfor %}

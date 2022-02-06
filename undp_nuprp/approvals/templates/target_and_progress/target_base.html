@@ -1,0 +1,139 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ display_model }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-7">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            {% for btn in manage_buttons %}
+                {% if btn.action_type == 'all-multi-action' %}
+                    <li>
+                        <a class="btn btn-medium manage-action {{ btn.action_type }} dropdown-toggle"
+                           data-toggle="dropdown" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}&nbsp;<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for submenuitem in btn.items %}
+                                <li><a data-url="{% url submenuitem.url_name %}{{ submenuitem.parameters }}"
+                                       href="{% url submenuitem.url_name %}{{ submenuitem.parameters }}">{{ submenuitem.name }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% else %}
+                    <li>
+                        <a class="manage-action  btn btn-medium {{ btn.action_type }}" data-url="{{ btn.link }}"
+                           href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>
+                            <span>{{ btn.name }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+    </div> <!--//.COL-->
+{% endblock header %}
+{% block content %}
+    <style>
+        th{
+            background-color: #00a99d;
+            color: white;
+        }
+
+        div.dataTables_wrapper {
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        #datatable_container {
+            margin-top: 7px;
+            margin-right: 3px;
+            margin-bottom: 3%;
+        }
+
+        .target-table th {
+            text-align: center;
+            cellspacing: 7px;
+        }
+
+    </style>
+    <div class="clearfix">
+    {% block option_container %}
+        <div style="padding: 7px;">
+            {% if kpi_filter_products %}
+                <label>View KPI for </label>
+                <select name="kpi-product-select2" class="kpi-product-select2">
+                    {% for product in kpi_filter_products %}
+                        <option value="{{ product.pk }}"
+                                {% if filter_product and product.pk == filter_product %}selected{% endif %}>{{ product }}</option>
+                    {% endfor %}
+                </select>
+            {% endif %}
+            {% if sub_heading %}
+                <h4 style="margin-top: 13px;">{{ sub_heading }}</h4>
+            {% endif %}
+        </div>
+    {% endblock option_container %}
+    <div id="datatable_container">
+        <table id="id_kpi_datatable" class="target-table stripe row-border order-column" cellspacing="0" width="100%">
+            <thead>
+            <tr>
+                {% for col in header_columns %}
+                    <th>
+                        {{ col }}
+                    </th>
+                {% endfor %}
+            </tr>
+            </thead>
+            <tbody>
+            {% for row in data_rows %}
+                <tr>
+                    {% for cell in row %}
+                        <td>
+                            {% if cell %}
+                                {{ cell }}
+                            {% endif %}
+                        </td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}
+
+{% block childscripts3 %}
+
+    <script>
+        $(document).ready(function () {
+            $(document).ready(function () {
+
+                var win_height = $(window).height();
+
+                var table_height = win_height - $("#fbx-header").height() - $(".section-header").height() - 200;
+
+                var table = $("#id_kpi_datatable").DataTable({
+                    scrollY: table_height + "px",
+                    scrollX: true,
+                    scrollCollapse: true,
+                    paging: false
+                });
+            });
+
+            $(".kpi-product-select2").select2({width: "200px"});
+
+        });
+    </script>
+{% endblock %}
+{% block childscripts2 %}
+
+{% endblock childscripts2 %}

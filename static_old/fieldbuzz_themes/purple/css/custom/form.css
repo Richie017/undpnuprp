@@ -1,0 +1,22 @@
+/********** author 'shamil' *********/
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+
+.form-horizontal .control-label {
+    /*width: 20%;*/
+}
+
+.form-control {
+    height:  26px;
+}
+
+#id_advanced_export_form label {
+    display: block;
+    padding-top: 10px;
+}
+
+#id_advanced_export_form select {
+    display: inline-block;
+}

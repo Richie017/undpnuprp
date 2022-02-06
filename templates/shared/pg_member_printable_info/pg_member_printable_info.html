@@ -1,0 +1,45 @@
+{% load staticfiles %}
+<html>
+<head>
+    <title>PG member information</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}" media="screen,projection">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/print.css' %}" media="print">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<body>
+<div class="page">
+    <header>
+        <h3>PG member information</h3>
+    </header>
+    <h3 align="center"><strong>Name:</strong>{{ data.name }} </h3>
+    <h3 align="center"><strong>ID:</strong>{{ data.assigned_code }} </h3>
+    <h3 align="center"><strong>Primary Group:</strong>{{ data.assigned_to.name }} </h3>
+    <h3 align="center"><strong>CDC:</strong>{{ data.assigned_to.parent.name }}</h3>
+    <h3 align="center"><strong>City/Town:</strong>{{ data.render_city }} </h3>
+    <br>
+    <table border="1" id="second_table">
+        {% for section in model_meta.sections %}
+            <tr>
+                <td colspan="3"><h4>{{ section.name }}</h4></td>
+            </tr>
+            {% for key, question in section.questions.items %}
+                <tr>
+                    <td><strong>{{ question.code }}</strong></td>
+                    <td>{{ question.question }}</td>
+                    <td>{{ question.answer }}</td>
+                </tr>
+            {% endfor %}
+        {% endfor %}
+    </table>
+
+</div>
+<script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        window.print();
+    });
+</script>
+</body>
+</html>

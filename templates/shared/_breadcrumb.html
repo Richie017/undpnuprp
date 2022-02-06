@@ -1,0 +1,31 @@
+{% load blackwidow_filter %}
+<div class="breadcrumbs" id="breadcrumbs">
+    {% block breadcrumbs %}
+        <ul class="breadcrumb">
+            <i class="icon-home home-icon"></i>
+            <li><a href="/">{{ 'Home'|translate }}</a>
+                <span class="divider">
+                    <i class="icon-angle-right arrow-icon"></i>
+                </span>
+            </li>
+            {% for breadcrumb in request.breadcrumbs %}
+                <li><a href="{{ breadcrumb.url }}">{{ breadcrumb.name|translate }}</a>
+                    {% if not forloop.last %}
+                        <span class="divider">
+                        <i class="icon-angle-right arrow-icon"></i>
+                     </span>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endblock breadcrumbs %}
+    <div class="nav-search" id="nav-search">
+        <form class="form-search" action="/search/search-results/" method="GET"/>
+            <span class="input-icon">
+                <input name="query" type="text" placeholder="{{ 'Search'|translate }} ..."
+                       class="input-small nav-search-input"/>
+                <i class="icon-search nav-search-icon"></i>
+            </span>
+        </form>
+    </div>
+</div>

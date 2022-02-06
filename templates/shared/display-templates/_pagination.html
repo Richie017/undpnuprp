@@ -1,0 +1,69 @@
+{% load blackwidow_filter %}
+<div class="form-inline fbx-form pagination">
+    <div class="row-fluid">
+        <div class="form-group span1">
+            <div class="dataTables_paginate paging_bootstrap pagination"
+                 style="margin-left: 0px; text-align: left; padding-top: 2px;">
+                Show&nbsp;&nbsp;&nbsp;
+                <select class="pageSizeSelect" style="width: 70px;" data-ajax="{{ is_partial }}" tabindex="2">
+                    {% for i in page_sizes %}
+                        {% if page_obj.paginator.per_page == i %}
+                            <option value="{{ i }}" selected>{{ i }}</option>
+                        {% else %}
+                            <option value="{{ i }}">{{ i }}</option>
+                        {% endif %}
+                    {% endfor %}
+                </select>
+                &nbsp;&nbsp;Per page&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+        {#        <div class="span3">#}
+        {#            <div class="dataTables_info" id="sample-table-2_info">Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</div>#}
+        {#        </div>#}
+        <div class="list-inline list-unstyled  form-group span8">
+            <div class="dataTables_paginate paging_bootstrap pagination" style="margin-right: 0px">
+                <div class="fbx-pagination">
+                    {% load querystring from django_tables2 %}
+                    {% if is_paginated %}
+                        {% if page_obj.has_previous %}
+                            <a class="p-prev form-group fis-paginate" data-ajax="{{ is_partial }}"
+                               data-url="{% ext_querystring "page"=1 %}" aria-label="Prev"></a>
+                        {% else %}
+                            <a class="p-prev form-group" data-ajax="{{ is_partial }}"
+                               href="#" aria-label="Prev"></a>
+                        {% endif %}
+                        {% for p in prev_pages %}
+                            {% if p == '...' %}
+                                <div class="form-group"><a href="javascript://">{{ p }}</a></div>
+                            {% else %}
+                                <div class="page-navigation form-group">
+                                    <a class="fis-paginate" data-ajax="{{ is_partial }}"
+                                       data-url="{% ext_querystring "page"=p %}">{{ p }}</a>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                        <div class="page-navigation form-group"><a class="active" href="#">{{ page_obj.number }}</a>
+                        </div>
+                        {% for p in next_pages %}
+                            {% if p == '...' %}
+                                <div class="form-group"><a href="javascript://">{{ p }}</a></div>
+                            {% else %}
+                                <div class="page-navigation form-group">
+                                    <a class="fis-paginate" data-ajax="{{ is_partial }}"
+                                       data-url="{% ext_querystring "page"=p %}">{{ p }}</a>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                        {% if page_obj.has_next %}
+                            <a class="p-next form-group fis-paginate" data-ajax="{{ is_partial }}"
+                               data-url='{% ext_querystring "page"=page_obj.paginator.num_pages %}' aria-label="Next"></a>
+                        {% else %}
+                            <a class="p-next form-group" data-ajax="{{ is_partial }}"
+                               href='#' aria-label="Next"></a>
+                        {% endif %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

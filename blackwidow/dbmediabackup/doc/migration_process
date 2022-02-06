@@ -1,0 +1,14 @@
+THIS DOC COVERS THE MIGRATION PROCESS OF  "dbmediabackup" APPLICATION
+WITH "dropbox" RELATED FIXES OF "django-storages" IN ANY EXISTING PROJECT.
+
+1. First we need to uninstall unnecessary dependencies of "DBMediaBackupManager" application.
+ To uninstall dependencies please run following command one by one from commandline:
+    pip uninstall django-storages dropbox django-dbbackup
+
+2. Then we need to install updated necessary dependencies of  "DBMediaBackupManager" application.
+ To install dependencies please run following command one by one from commandline:
+    pip install dropbox pathlib2 django-dbbackup
+
+
+3. To update plugins.txt of target project(if necessary), please run the following command from commandline:
+    pip freeze > plugins.txt

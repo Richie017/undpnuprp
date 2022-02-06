@@ -1,0 +1,39 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <h1>
+        {{ model_meta.model_name }}
+        <small>
+            <i class="icon-double-angle-right"></i>
+            create &amp; edit
+        </small>
+    </h1>
+{% endblock %}
+
+{% block content %}
+
+    <form action="" method="post" class="form-horizontal">
+        {% csrf_token %}
+        {% load widget_tweaks %}
+        {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            {% for field in form %}
+                {% if field|is_hidden %}
+                    {% render_field field|add_error_class:'input-validation-error' %}
+                {% else %}
+                    <div class="control-group">
+                        <label class="control-label" for="{{ field.name.lower }}">{{ field.label }}</label>
+                        <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endwith %}
+        <div class="form-actions">
+            <input type="submit" name="submit" class="btn btn-primary btn-small" value="Save" />
+        </div>
+    </form>
+
+{% endblock %}

@@ -1,0 +1,373 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-6 col-md-6 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-5 col-md-5">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+            <li>
+                <a id="download" name="download" class="manage-button btn"
+                   onclick="exportReportFile()">
+                    <i class="fbx-rightnav-download"></i>
+                    <span id="download-text">&nbsp;Export & Download</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <a class="btn btn-export btn-primary" style="display: none" href="javascript://" id="a_export_download"></a>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css"
+          href="{{ STATIC_URL }}css/datatable/fixedColumns.min.css">
+    <style>
+        .custom-data-table {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+        }
+
+        .custom-data-table th, .custom-data-table td {
+            border: 1px solid #ddd;
+        }
+
+        .custom-data-table tr:nth-child(even) {
+            background-color: #f2f2f2
+        }
+
+        .custom-data-table th {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-color: #00a99d;
+            color: white;
+        }
+        table.dataTable{
+            margin-left: -1px;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+        {% load widget_tweaks %}
+        {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G1 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G3 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G4 %}
+                    {% if field|is_daterange %}
+                        <div class="col-md-6 col-sm-6 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="daterangepicker">{{ field.label }}</label>
+
+                            <div class='col-md-12 col-sm-12 input-append date datetimepicker controls'
+                                 id='daterangepicker'
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox"
+                                           name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox"
+                                           name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                <div class="custom-col-12 col-md-12 col-sm-12 form-group" style="display: block; padding: 0;">
+                    <div class="col-md-12 col-sm-12 controls" style="padding-left: 0;">
+                        <button class="btn generic-btn-style btn-large" id="dashboard-refresh-btn" style="float: left">
+                            Update Table
+                        </button>
+                    </div>
+                </div>
+            </div>
+        {% endwith %}
+        <legend style="padding-top: 5px;"></legend>
+        <div class="row-fluid report-container" style="margin: 20px 0;">
+            <div id="report-view" class="span11">
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/datatable/dataTables.fixedColumns.min.js"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js?v=1.0"></script>
+
+    <!-- library for custom sorting in time manipulation-->
+    <script src="{{ STATIC_URL }}js/datatable/moment.min.js"></script>
+
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/report/date_range_picker/date_range_picker.js"></script>
+
+    <!-- Include Custom Handler For Date Range Picker -->
+    <script type="text/javascript"
+            src="{{ STATIC_URL }}js/report/date_range_picker/date_time_range_handler.js"></script>
+
+    <!-- Include Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/date_range_picker.css"/>
+
+    <!-- Include Custom Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/custom_date_range_picker.css"/>
+    <script type="text/javascript">
+
+        var serialize_list_values = function (param) {
+            if (param != undefined && param != '') {
+                return param.join(',');
+            }
+            return param;
+        };
+
+        function loadReportData() {
+            var parameters = {
+                survey: serialize_list_values($('#id_survey').val()),
+                city_corporation: $("#id_city_corporation").val(),
+                ward: $("#id_ward").val(),
+                date_range: $("#id_date_range").val().trim()
+            };
+
+            $("#report-view").html("<div class='alert alert-info' style='height:100%;'>Loading data ... </div>");
+
+
+            $.ajax({
+                url: '?format=json',
+                type: 'get',
+                data: parameters,
+                dataType: 'json',
+                success: function (result) {
+                    var report_view = $("#report-view");
+                    report_view.empty();
+                    console.log(result);
+                    var report = result['report'];
+                    var table_header = report[0];
+                    var table_data = report.slice(1, report.length - 1);
+                    var table_footer = report[report.length - 1];
+                    var str = '<table id="nice-table" class="table custom-data-table table-bordered table-striped"><thead><tr>';
+
+                    for (var hd in table_header) {
+                        str += '<th>' + table_header[hd] + '</th>';
+                    }
+                    str += '</tr></thead>';
+                    str += '<tfoot><tr>'
+                    for (var ft in table_footer) {
+                        str += '<td><b>' + table_footer[ft] + '</b></td>';
+                    }
+                    str += '</tr></tfoot></table>';
+
+                    report_view.html(str);
+                    var table_height = $(window).height() - $("#fbx-header").height() - $(".section-header").height() - 100;
+
+                    $('#nice-table').dataTable({
+                        "data": table_data,
+                        "scrollX": true,
+                        "scrollY": table_height + "px",
+                        "deferRender": true,
+                        "scrollCollapse": true,
+                        "paging": true,
+                        "fixedColumns": {
+                            "leftColumns": result['fixed_columns']
+                        }
+                    });
+                    InitializeDataTableCss();
+                },
+                error: function (ad) {
+
+                }
+            });
+        }
+
+        function exportReportFile() {
+            $("#a_export_download").click();
+        }
+
+        $(function () {
+            $('#dashboard-refresh-btn').on("click", function () {
+                loadReportData();
+            });
+
+            $("#download").on("click", function () {
+                var tthis = this;
+                var parameters = {
+                    survey: serialize_list_values($('#id_survey').val()),
+                    city_corporation: $("#id_city_corporation").val(),
+                    ward: $("#id_ward").val(),
+                    date_range: $("#id_date_range").val().trim()
+                };
+                document.getElementById("download-text").innerHTML = "Preparing for download";
+                {#                $("#download").unbind('click');#}
+                $.ajax({
+                    url: '?export=True&format=json',
+                    type: 'get',
+                    data: parameters,
+                    dataType: 'json',
+                    success: function (result) {
+                        if (result.success) {
+                            document.getElementById("download-text").innerHTML = "Download Now";
+                            window.open(result.url, "_self");
+                            $("#download").bind("click", function () {
+                                window.open(result.url, "_self");
+                            });
+                        } else {
+                            $(tthis).html("An error occurred. Please reload the page to try again.");
+                            $("#download").val("Downloading failed");
+                        }
+                    },
+                    error: function (ad) {
+
+                    }
+                });
+                return false;
+            });
+
+            $('#dashboard-refresh-btn').trigger('click');
+        });
+
+        function InitializeDataTableCss() {
+            var _dataTableSearchBox = $('.dataTables_filter label');
+            var _dataTableSearchField = $('.dataTables_filter input');
+            var _dataTableLengthBox = $('.dataTables_length select');
+            _dataTableSearchBox.contents().get(0).remove();
+            _dataTableSearchField.attr({
+                'placeholder': 'Search',
+                'class': 'form-control input-sm'
+            });
+            _dataTableSearchField.css({
+                'margin-left': '-2px',
+                'border-radius': '2px'
+
+            });
+            _dataTableLengthBox.css({
+                'background-color': '#fff',
+                'padding': '3px 10px',
+                'border': '1px solid #ccc',
+                'display': 'inline-block',
+                'border-radius': '2px'
+            });
+        }
+        $(window).resize(function () {
+            $('#nice-table').resize();
+        });
+    </script>
+{% endblock %}

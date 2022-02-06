@@ -1,0 +1,22 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "400px");
+        $(function () {
+            $('#id_city').closest('.control-group').hide();
+            $('#id_training_location').change(function () {
+                var training_location = $(this).val();
+                if (training_location === 'City') {
+                    $('#id_city').closest('.control-group').show();
+                    $('#id_city').prop('required', true);
+                    highlightMandatoryFields();
+                }
+                else {
+                    $('#id_city').prop('required', false);
+                    $('#id_city').closest('.control-group').hide();
+                }
+            })
+        });
+    </script>
+{% endblock %}

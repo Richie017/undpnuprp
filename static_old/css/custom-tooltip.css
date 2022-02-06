@@ -1,0 +1,55 @@
+/*
+**created by ashraful
+*
+*/
+
+.ttip {
+    position: relative;
+    display: inline-block;
+}
+
+.ttip .tooltiptext {
+    white-space: pre-line;
+    font-weight: 100;
+    font-size: 1.4rem;
+    visibility: hidden;
+    position: absolute;
+    width: 350px;
+    top: 135%;
+    padding: 4px 5px;
+    margin-left: -60px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.ttip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border: 5px solid transparent;
+    border-bottom-color: #555;
+}
+
+.ttip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Override highchart default tooltip configuration */
+.label {
+    z-index: 1 !important;
+}
+
+.highcharts-tooltip span {
+    background-color: #eeeeee !important;
+    color: #111111 !important;
+    padding: 3px;
+    opacity: 1 !important;
+}

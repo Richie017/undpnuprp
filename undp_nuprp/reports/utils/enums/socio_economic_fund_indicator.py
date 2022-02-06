@@ -1,0 +1,17 @@
+from enum import Enum
+
+__author__ = "Shama"
+
+
+class SocioEconomicFundIndicatorEnum(Enum):
+    GranteeEnum = 'grantee'
+    GenderEnum = 'gender'
+    ApBusinessAreaEnum = 'apbusinessarea'
+    BGBusinessAreaEnum = 'bgbusinessarea'
+    DisabledIndicatorEnum = 'disabled'
+    EducationIndicatorEnum = 'education'
+    GranteeMPIIndicatorEnum = 'mpi'
+    AgeIndicatorEnum = 'age'
+    ValueOfGranteeIndicatorEnum = 'value_of_grantee'
+
+    DemoIndicator = 'demo'

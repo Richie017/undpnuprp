@@ -1,0 +1,74 @@
+/********** author 'shamil' *********/
+
+.input-append.date .add-on i, .input-prepend.date .add-on i {
+    display: inline-block;
+}
+
+.bootstrap-datetimepicker-widget td.active, .bootstrap-datetimepicker-widget td.active:hover {
+    background-image: none;
+    background-color: #006962;
+}
+
+.bootstrap-datetimepicker-widget table td.active, .bootstrap-datetimepicker-widget table td.active:hover {
+    background-image: none;
+    background-color: #006962;
+}
+
+.bootstrap-datetimepicker-widget td.active:hover,
+.bootstrap-datetimepicker-widget td.active:hover:hover,
+.bootstrap-datetimepicker-widget td.active:active,
+.bootstrap-datetimepicker-widget td.active:hover:active,
+.bootstrap-datetimepicker-widget td.active.active,
+.bootstrap-datetimepicker-widget td.active:hover.active,
+.bootstrap-datetimepicker-widget td.active.disabled,
+.bootstrap-datetimepicker-widget td.active:hover.disabled,
+.bootstrap-datetimepicker-widget td.active[disabled],
+.bootstrap-datetimepicker-widget td.active:hover[disabled] {
+    background-image: none;
+    background-color: #af86b8;
+    border-radius: 0;
+}
+
+.bootstrap-datetimepicker-widget td span.active {
+    background-image: none;
+}
+
+.bootstrap-datetimepicker-widget td span.active:hover,
+.bootstrap-datetimepicker-widget td span.active:active,
+.bootstrap-datetimepicker-widget td span.active.active,
+.bootstrap-datetimepicker-widget td span.active.disabled,
+.bootstrap-datetimepicker-widget td span.active[disabled] {
+    background-color: #af86b8;
+}
+.bootstrap-datetimepicker-widget table td span {
+    border-radius: 0;
+}
+.bootstrap-datetimepicker-widget {
+    border-radius: 0;
+}
+
+.bootstrap-datetimepicker-widget table td span {
+    width: 42px;
+    height: 32px;
+    line-height: 32px;
+}
+
+.date-button-left-ico {
+    width: 21px;
+    height: 22px;
+    background: url("../../img/others/prev1.png") repeat scroll -1px -1px;
+}
+
+.date-button-left-ico:hover {
+    background: url("../../img/others/prev2.png") repeat scroll -1px -1px;
+}
+
+.date-button-right-ico {
+    width: 22px;
+    height: 22px;
+    background: url("../../img/others/next1.png") repeat scroll -1px -1px;
+}
+
+.date-button-right-ico:hover {
+    background: url("../../img/others/next2.png") repeat scroll -1px -1px;
+}

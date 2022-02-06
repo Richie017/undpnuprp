@@ -1,0 +1,14 @@
+{% load blackwidow_filter %}
+{% with buttons=object_inline_buttons|append_request:request %}
+    {% for a in record|filter_inline_object_permission:buttons %}
+        {% if a.params %}
+            <a class="{{ a.classes }}" title="{{ a.title }}" data-id="{{ data.id }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}" href="{% url a.url_name record.id %}?{{ a.params }}">
+                <i class="{{ a.icon }}"></i>
+            </a>
+        {% else %}
+            <a class="{{ a.classes }}" title="{{ a.title }}" data-id="{{ data.id }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}" href="{% url a.url_name record.id %}">
+                <i class="{{ a.icon }}"></i>
+            </a>
+        {% endif %}
+    {% endfor %}
+{% endwith %}

@@ -1,0 +1,29 @@
+/********** author 'shamil' *********/
+
+.fbx-table-common .fbx-hubgross-table {
+    margin-top: 16px;
+    font-size: 13px;
+    color: #231f20;
+}
+
+.fbx-table-common .fbx-hubgross-table tr td:first-child {
+    padding: 10px;
+}
+
+.fbx-table-common {
+    width: 100%;
+    display: block;
+    margin-top: 0;
+    /*padding-right: 0.1%;*/
+    /*padding-left: 5px;*/
+    /*margin-left: 10px;*/
+    /*margin-right: auto;*/
+}
+
+.fbx-table-common .fbx-hubgross-table {
+    font-size: 75%;
+}
+
+table.dataTable tbody tr.selected {
+    background-color: rgba(64, 218, 208, 0.12);
+}

@@ -1,0 +1,133 @@
+<header class="forms-header" style="padding: 0;">
+    <div class="container">
+        <div class="forms__addform-wrapper">
+            <button class="forms-header__button ng-binding" ng-click="toggleAddFormDropdown()" style="margin: 0;">
+                <i class="fa fa-spin fa-spinner ng-hide" ng-show="isLoading"></i>+ Add Form
+            </button>
+            <div class="forms__addform__drop ng-isolate-scope forms__addform__drop--hidden"
+                 ng-class="{ 'forms__addform__drop--hidden': ! showAddFormDropdown }" outside-click=""
+                 close-method="hideAddFormDropdown()" is-showing="isShowAddFormDropdownShowing">
+                <a href="#/builder/new" class="forms__addform__button forms__addform__start">Start from Scratch</a>
+
+                <form action="/import_survey_draft"
+                      class="forms__addform__button forms__addform__xls js-import-fileupload js-import-survey ng-pristine ng-valid">
+                    <span>Import Form</span>
+                    <input type="file" name="files">
+                </form>
+                <a href="#" class="forms__addform__button forms__addform__template">Start from a Template</a>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="container" style="margin-top: 5%">
+    <div class="forms-filter">
+        <div class="forms-filter__search">
+            <i class="fa fa-search"></i> <input class="forms-filter__searchbox" placeholder="Search forms"
+                                                ng-model="searchCriteria"/>
+        </div>
+        <select class="forms-filter__sorter">
+            <option>Sort: Newest</option>
+            <option>Sort: Oldest</option>
+            <option>Sort: Last Modified</option>
+        </select>
+    </div>
+    <!-- THIS IS HERE TEMPORARILY -->
+    <script type="text/javascript">
+        $('select.forms-filter__sorter').select2({
+            minimumResultsForSearch: -1
+        });
+    </script>
+
+    <div class="info-list">
+        <div class="forms__card" ng-repeat="item in items|orderBy:'-date_modified'">
+            <div class="forms__card__info">
+                <a title="Click To Edit The Survey" class="forms__card__title" style="color: #00a99d;"
+                   ng-if="item.status == 0"
+                   href="#{{ getHashLink(item) }}">{{ item.name }}</a>
+                <a href="{{ getHrefFromDetailLink(item) }}"
+                   title="Survey Is Already Published, Click To See The Details"
+                   class="forms__card__title"
+                   style="color: #843534" ng-if="item.status == 1">{{ item.name }}</a>
+                <a href="{{ getHrefFromDetailLink(item) }}"
+                   title="Survey Is Already Published, Click To See The Details"
+                   class="forms__card__title"
+                   style="color: #4a226d" ng-if="item.status == 2">{{ item.name }}</a>
+
+                <div class="forms__card__description forms__card__description--error" ng-if="!!itemError(item)">
+                    <strong>Important Error:</strong> {{ itemError(item)}}
+                    <br>
+                    &#8230; Confused? &nbsp;
+                    <a href="https://field.buzz/#contact">Contact Field Buzz</a>.
+                </div>
+                <p class="forms__card__description">{{ item.description || '' }}</p>
+
+                <div ng-if="item.status == 0">
+                    <p class="forms__card__question-count">
+                    <h4 style="color: #00a99d"><span title="Survey Status Is Draft"> Status: Draft </span>|<span
+                            title="Survey Version is {{ item.version }}"> Version: {{ item.version }} </span></h4>
+                    </p>
+                </div>
+                <div ng-if="item.status == 1">
+                    <p class="forms__card__question-count">
+                    <h4 style="color: #843534"><span
+                            title="Survey Status Is Published"> Status: Published </span>|<span
+                            title="Survey Version is {{ item.version }}"> Version: {{ item.version }} </span></h4>
+                    </p>
+                </div>
+                <div ng-if="item.status == 2">
+                    <p class="forms__card__question-count">
+                    <h4 style="color: #4a226d"><span
+                            title="Survey Status Is Disabled"> Status: Disabled </span>|<span
+                            title="Survey Version is {{ item.version }}"> Version: {{ item.version }} </span></h4>
+                    </p>
+                </div>
+
+                <!--                <div ng-if="item.status == 2">
+                                    <p class="forms__card__question-count">
+                                    <h4>Completed</h4>
+                                    </p>
+                                </div>
+                -->
+                <p title="Click To See The Details Of The Survey" ng-bind-html="item.detail_link"></p>
+            </div>
+            <!--            <div kobocat-form-publisher class="forms__card__kobocat" item="item" ng-show="kobocatLinkExists()">
+                            <div class="forms__kobocat__btn forms__kobocat__btn--publish" ng-click="open()">Deploy as new survey
+                                project <i class="fa fa-external-link-square"></i></div>
+                        </div>
+            -->
+            <div class="forms__card__buttons">
+                <a title="Click To Publish The Survey" class="forms__card__buttons__button blue"
+                   ng-if="getApprovePermission(item) && item.status==0 " href=""
+                   ng-click="publishSurvey(item)"
+                ><i
+                        class="fa fa-check"></i></a>
+                <a title="Click To Disable The Survey" class="forms__card__buttons__button blue"
+                   ng-if="getApprovePermission(item) && item.status==1 " href=""
+                   ng-click="disableSurvey(item)"
+                ><i
+                        class="fa fa-close"></i></a>
+                <a title="Click To Publish The Survey Again" class="forms__card__buttons__button blue"
+                   ng-if="getApprovePermission(item) && item.status==2 " href=""
+                   ng-click="rePublishSurvey(item)"
+
+                ><i
+                        class="fa fa-check"></i></a>
+                <a title="Click To Download The Survey" class="forms__card__buttons__button gray"
+                   href="{{ getLink(item, 'xls') }}"
+                ><i class="fa fa-download"></i></a>
+                <!-- <div class="forms__download__drop" ng-class="{ 'hidden': ! item.showDownloadDropdown }" outside-click
+                     close-method="hideDownloadFormDropdown(item)" is-showing="item.isShowing">
+                    <a href="{{ getLink(item, 'xls') }}" class="forms__download__button">XLS</a> -->
+                <!--       <a href="{{ getLink(item, 'xml') }}" class="forms__download__button">XML</a>
+                -->
+            </div>
+
+            <a title="Click To Delete The Survey" class="forms__card__buttons__button red"
+               ng-if="item.status === 0 || item.status === 2" href="" ng-click="deleteSurveyDraft(item)">
+                <i class="fa fa-trash-o"></i></a>
+        </div>
+    </div>
+</div>
+
+
+</div>

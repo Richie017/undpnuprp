@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <style>
+
+
+/*
+Based on Minimal CSS (minimalcss.com) under the MIT license.
+*/
+
+/* Reset */
+* { margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+/* Layout */
+body { background-color: #fff; color: #333;	font: 14px/20px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+header { width: 100%; margin: 0 auto; position: relative; padding: 20px 0; margin-bottom: 20px; }
+
+nav ul { margin: 0; }
+nav ul li { display: inline; margin-right: 20px; font-size: 16px; line-height: 28px; color: #333; }
+nav ul li a { color: #333; }
+
+.container { position: relative; max-width: 90%; margin: 0 auto; }
+
+footer { border-top:1px solid #ccc; font-size:11px; line-height:26px; color:#999; }
+footer a { color:#999999; }
+footer a:hover { color:#105CB6; }
+footer ul li { display:inline; list-style:none; padding-left:20px; }
+
+/* Typography */
+a { color: #105CB6; text-decoration: none; }
+a:hover, a:focus { color: #105CB6; text-decoration: underline; }
+a:active { color: #105CB6; }
+
+h1 { font-size: 24px; line-height: 20px; margin: 10px 0; }
+h2 { font-size: 20px; line-height: 20px; margin: 10px 0; }
+h3 { font-size: 16px; line-height: 20px; margin: 10px 0; }
+h4 { font-size: 14px; line-height: 20px; margin: 10px 0; }
+h5 { font-size: 12px; line-height: 20px; margin: 10px 0; }
+h5 { font-size: 10px; line-height: 20px; margin: 10px 0; }
+h1,h2,h3,h4,h5,h6 { color: #333; }
+
+p { margin-bottom: 10px; }
+
+.float-left     { float: left; }
+.float-right    { float: right; }
+img.float-left  { float: left; margin: 0 20px 20px 0; }
+img.float-right { float: right; margin: 0 0 20px 20px; }
+img.center      { margin: 0 auto; display: block; }
+
+.text-left    { text-align: left; }
+.text-center  { text-align: center; }
+.text-right   { text-align: right; }
+.text-justify { text-align: justify; }
+
+/* Misc */
+hr { background-color: #ccc; border: 0px; color: #ccc; height: 1px; margin: 8px 0 20px 0; }
+pre, code { background:#E0ECF6; display:block; margin-bottom: 20px; padding:10px; }
+
+blockquote { margin: 10px 10px 20px; padding: 9px; background-color: #f8f8f8; color: #666; border-left: 5px solid #ddd; font: 14px/20px Georgia, Times, serif; quotes: "\201C" "\201D"; }
+blockquote p { margin: 0; }
+blockquote:before { content: open-quote; font-weight: bold; }
+blockquote:after  { content: close-quote; font-weight: bold; }
+
+/* List */
+ul { list-style-position:inside; }
+ol { list-style-position:inside; }
+
+/* Table */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+th { font-weight: bold; }
+tfoot { font-style: italic; }
+
+/* Metadata part */
+
+.metadata {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 90%;
+}
+table.metadata td {
+  padding-right: 20px;
+}
+
+.stats {
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+.graph {
+  width: 100%;
+}
+.graph div { float: left; }
+.graph div:first-child { border-top-left-radius: 3px; border-bottom-left-radius: 3px; }
+.graph div:last-child { border-top-right-radius: 3px; border-bottom-right-radius: 3px; }
+.percent-done    { background-color: #71DD46; height: 10px; }
+.percent-fuzzy   { background-color: #FFD300; height: 10px; }
+.percent-untrans { background-color: #F1F1F1; height: 10px; }
+.legend {
+  font-size: smaller;
+  color: #aaa;
+  padding-top: 12px;
+  text-align: center;
+}
+
+/* Translations */
+table.translations {
+  width: 100%;
+  table-layout: fixed;
+}
+table.translations th, table.translations td {
+  padding: 5px 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #E1E1E1;
+}
+table.translations th {
+  text-align: left;
+}
+table.translations th:first-child, table.translations td:first-child { padding-left: 0; }
+table.translations th:last-child, table.translations td:last-child { padding-right: 0; }
+
+.with-comments td {
+  border-bottom: none !important;
+}
+tr.comments div {
+  float: right;
+  max-width: 75%;
+  font-size: smaller;
+  color: #aaa;
+}
+tr.comments div p:last-child { margin-bottom: 0; }
+
+.fuzzy .tra {
+  color: #a9861b;
+}
+
+.msgctxt {
+  font-size: smaller;
+  color: #6d8e13;
+}
+
+
+  </style>
+</head>
+<body>
+<div class='container'>
+<table class='metadata'>
+<tr><td>Language:</td><td>Spanish</td></tr>
+</table>
+<div class='stats'>
+  <div class='graph'>
+    <div class='percent-done' style='width: 6.81818%'>&nbsp;</div>
+    <div class='percent-untrans' style='width: 93.1818%'>&nbsp;</div>
+  </div>
+  <div class='legend'>Translated: 3 of 44 (6 %)  •  Remaining: 41  </div>
+</div>
+<table class='translations'>
+  <thead>
+    <tr>
+      <th>Source text — English</th>
+      <th>Translation — Spanish</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Digital Management System</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i'>
+<td class='src'  lang='en'>
+Home</td>
+<td class='tra'  lang='es'>
+El hogar.</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Thanks for spending some quality time with the Web site today.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Log in again</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Documentation</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Change password</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i'>
+<td class='src'  lang='en'>
+Log out</td>
+<td class='tra'  lang='es'>
+Bla Bla</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Password change</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Your password was changed.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Please correct the error below.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Please correct the errors below.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Please enter your old password, for security's sake, and then enter your new password twice so we can verify you typed it in correctly.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Old password</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+New password</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Password (again)</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Change my password</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Password reset</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Your password has been set.  You may go ahead and log in now.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Log in</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Password reset confirmation</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Please enter your new password twice so we can verify you typed it in correctly.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+New password:</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Confirm password:</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+The password reset link was invalid, possibly because it has already been used.  Please request a new password reset.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+We've emailed you instructions for setting your password. You should be receiving them shortly.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+If you don't receive an email, please make sure you've entered the address you registered with, and check your spam folder.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+You're receiving this email because you requested a password reset for your user account at %(site_name)s.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Please go to the following page and choose a new password:</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Your username, in case you've forgotten:</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Thanks for using our site!</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+The %(site_name)s team</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Forgotten your password? Enter your email address below, and we'll email instructions for setting a new one.</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Email address:</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Reset my password</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i'>
+<td class='src'  lang='en'>
+Log Out</td>
+<td class='tra'  lang='es'>
+Cerrar Sesión</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+no results</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+previous</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+
+<br>                    Page %(current)s of %(total)s
+<br>                </td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+next</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Previous</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Next</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+%(count)s of %(total)s</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+Spanish</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+<tr class='i untrans'>
+<td class='src'  lang='en'>
+English</td>
+<td class='tra'  lang='es'>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+/********** author 'shamil' *********/
+
+#id_show_on_map li {
+    list-style: none;
+}
+
+#id_show_on_map {
+    padding: 0;
+}
+
+.map-container {
+    height: 600px;
+    margin-bottom: 50px;
+    border: solid 2px #ccc;
+}
+
+#map-title {
+    font-size: medium;
+    position: relative;
+    margin-right: 20px;
+    margin-top: 5px;
+
+}
+
+#legend {
+    background-color: #fff;
+    height: auto;
+    padding: 0 10px 10px;
+    width: 200px;
+    opacity: 0.90;
+    box-shadow: #ccc;
+}
+
+#legend h2 {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #000000;
+    font-family: tahoma,arial,helvetica,roboto,sans-serif;
+}
+
+#legend ul {
+    padding: 0;
+    padding-top: 10px;
+}
+
+#legend ul li {
+    list-style: none;
+    padding: 2px;
+    font-family: tahoma,arial,helvetica,roboto,sans-serif;
+}
+
+.gm-style {
+    font-family: tahoma,arial,helvetica,roboto,sans-serif;
+}

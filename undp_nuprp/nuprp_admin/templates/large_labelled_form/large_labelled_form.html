@@ -1,0 +1,25 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "400px");
+
+        $("select[id$='is_mou_signed']").each(function () {
+            var is_mou_signed = $(this).val();
+            if (is_mou_signed === 'Yes' || is_mou_signed === 'Yes') {
+                $("input[id$='date_of_mou_sign']").parents('.control-group').show();
+            } else {
+                $("input[id$='date_of_mou_sign']").parents('.control-group').hide();
+            }
+        });
+
+        $("select[id$='is_mou_signed']").on('change', function () {
+            var is_mou_signed = $(this).val();
+            if (is_mou_signed === 'Yes' || is_mou_signed === 'Yes') {
+                $("input[id$='date_of_mou_sign']").parents('.control-group').show();
+            } else {
+                $("input[id$='date_of_mou_sign']").parents('.control-group').hide();
+            }
+        });
+    </script>
+{% endblock %}

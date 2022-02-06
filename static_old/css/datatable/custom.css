@@ -1,0 +1,19 @@
+.custom-data-table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+.custom-data-table th, .custom-data-table td {
+    border: 1px solid #ddd;
+}
+
+.custom-data-table tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.custom-data-table th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #00a99d;
+    color: white;
+}

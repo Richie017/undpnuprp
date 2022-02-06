@@ -1,0 +1,85 @@
+
+.form-horizontal .control-group {
+    margin-bottom: 15px;
+}
+
+.field-validation-error span {
+    color: #ee0000;
+}
+
+label, input, button, select, textarea {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.form-horizontal h6 {
+    border-bottom: 1px solid #ccc;
+    clear: both;
+    margin-bottom: 5px;
+    /*margin-left: 2.5641%;*/
+}
+
+
+.form-inline {
+    margin-bottom: 5px;
+}
+
+.select2 {
+    min-width: 220px;
+}
+
+.search_property {
+    min-width: 40px;
+}
+
+.pageSizeSelect {
+    min-width: 20px;
+}
+
+form input.search-input {
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    font-size: 12px;
+    padding: 3px 6px;
+}
+
+select, textarea {
+    padding: 3px 6px;
+}
+
+.form-horizontal .control-label {
+    float: left;
+    text-align: left;
+    padding-top: 3px;
+    width: 350px;
+}
+
+.input-append .add-on, .input-prepend .add-on {
+    padding: 3px 5px;
+}
+
+.icon-time {
+
+}
+
+.select2-input {
+}
+
+.reports-div .date-time-picker {
+    width: 120px;
+}
+
+label > .rp-multiple-choice {
+    margin-top: -3px;
+}
+
+td input {
+    width: 100px;
+}
+
+.form-horizontal {
+    padding-left: 20px;
+}

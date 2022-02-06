@@ -1,0 +1,33 @@
+{% extends 'shared/_viewport.html' %}
+{% load render_table from django_tables2 %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>Statistics & Shortcuts</h3>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="profile-user-info profile-user-info-striped span12" style="padding: 20px;">
+        {% for item in tables %}
+            {% if item.count == -1 %}
+                <div class="profile-info-row span12" style="padding-left: 5px;">
+                    <h3 style="font-size: 14px;">{{ item.name }}</h3>
+                </div>
+            {% else %}
+                <div class="profile-info-row span3">
+                    <div class="profile-info-name">
+                        <a style="text-decoration: underline;color: blue;" href="{{ item.url }}" >{{ item.name }} </a>
+                    </div>
+                    <div class="profile-info-value">
+                        <span id="username" class="" style="display: inline;">{{ item.count }}</span>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endblock %}
+

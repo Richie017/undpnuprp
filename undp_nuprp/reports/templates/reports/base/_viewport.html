@@ -1,0 +1,100 @@
+{% extends "reports/base/_layout.html" %}
+{% load i18n %}
+
+{% block viewport %}
+    {% load blackwidow_filter %}
+    <div class="container-fluid">
+        <div class="fbx-container">
+            {% include "shared/_header.html" %}
+            <main>
+                <div class="row" id="viewport" style="padding-bottom: 1.2%;">
+                    {% include "shared/_leftmenu.html" %}
+                    <div id="fbx-maincontent" class="col-xs-12 col-sm-9 col-lg-10">
+                        <section>
+                            <a class="sidebar-toggle" href="#"><i class="fa fa-bars"></i></a>
+
+                            <div class="fbx-selection">
+                                <div class="section-header" id="section_header">
+                                    <div class="row">
+                                        {% block header %}
+                                        {% endblock %}
+                                    </div>
+                                    <!--//.ROW-->
+                                </div>
+                                <div id="fbx-maincontent" class="fbx-content">
+                                    <div class="row-fluid">
+                                        <div class="col-xs-12 col-sm-12 col-lg-12 row-fluid"
+                                             style="background-color: rgba(0, 169, 157, 0.18);">
+                                            <div class="flash_message hide" id="flash_message">
+                                                {% if messages %}
+                                                    <ul>
+                                                        {% for message in messages %}
+                                                            <li{% if message.tags %}
+                                                                class="{{ message.tags }}"{% endif %}>
+                                                                {{ message|remove_quote|safe }}
+                                                            </li>
+                                                        {% endfor %}
+                                                    </ul>
+                                                {% endif %}
+                                            </div>
+                                        </div>
+                                        {% load tz %}
+                                        {% localtime on %}
+                                            {% block content %}
+                                            {% endblock %}
+                                        {% endlocaltime %}
+                                    </div>
+                                    <!--//.ROW-->
+                                </div>
+                                <!--//.FBX CONTENT-->
+                            </div>
+                        </section>
+                    </div>
+
+                </div>
+            </main>
+
+        </div>
+        <!--//.fbx CONTAINER-->
+    </div><!-- /.CONTAINER-FLUID -->
+{% endblock %}
+
+{% block scripts %}
+
+    {% if enable_map == True %}
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ map_api_key }}"></script>
+        <script src="{{ STATIC_URL }}js/specific/google_map/google.map.markerclusterer.js"></script>
+        <script src="{{ STATIC_URL }}js/specific/google_map/initialize-cluster.js"></script>
+    {% endif %}
+
+    <script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery.browser.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/chosen.jquery.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/bootstrap-checkbox.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/custom.fbxscript.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/bootstrap.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/bootstrap.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/select2-3.5.1/select2.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-ui.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-template/jquery.loadTemplate-1.4.4.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/moment.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/bootstrap-datetimepicker.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/tinymce.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/jquery.dataTables.js?v=1.1.0"></script>
+
+    {% block childscripts %}
+    {% endblock %}
+    {% block childscripts2 %}
+    {% endblock %}
+
+    <!-- Layout JS -->
+    <script src="{{ STATIC_URL }}js/layout/layout_base.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/layout/bw-select2-generic-action.js?v=1.1.2"></script>
+    <script src="{{ STATIC_URL }}js/layout/bw-select2-legacy.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/layout/bw-partial-tab.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/layout/layout_extras.js?v=1.1.0"></script>
+
+    {% block childscripts3 %}
+    {% endblock %}
+
+{% endblock %}

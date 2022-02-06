@@ -1,0 +1,235 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ model_meta.model_name }}</h3>
+            {#                <small>Create &amp; Edit</small>#}
+        </div>
+    </div>
+    {% if not form.Meta.render_tab %}
+        <div class="col-xs-12 col-sm-6 col-md-7">
+            <ul class=" list-inline text-right bfz-adminbtn-list">
+                <li>
+                    <a name="submit" id="submit_top" class="manage-button fbx-save btn">
+                        <i class="fbx-rightnav-save"></i>
+                        <span>&nbsp;Save</span>
+                    </a>
+                </li>
+                <li>
+                    <a name="cancel" class="manage-button btn" id="btn_cancel">
+                        <i class="fbx-rightnav-cancel"></i>
+                        <span>&nbsp;Cancel</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid" style="padding-left: 15px; padding-right:15px;">
+        {% if form.allow_encryption == False %}
+            <form id="create_form" action="" method="post" class="form form-horizontal">
+        {% else %}
+            <form id="create_form" enctype="multipart/form-data" action="" method="post" class="form form-horizontal">
+        {% endif %}
+        {% csrf_token %}
+        {% include 'shared/display-templates/_generic_form.html' with  form=form %}
+
+        <div class="col-sm-12 fbx-actionbtn fbx-content-shop">
+            <div class="fbz-product-content-left">
+                <div class="control-group">
+                    <label class="col-md-6 control-label"></label>
+                    <button id="save_item" class="btn fbx-save" type="submit" name="submit" value="Save">
+                        <i> </i>
+                        <span>Save</span>
+                    </button>
+                    <button class="btn btn-cancel fbx-cancel" type="reset" name="cancel" value="Cancel">
+                        <i> </i>
+                        <span>Cancel</span>
+                    </button>
+                    {% if form.Meta.render_tab %}
+                        <button type="button" class="tabbed-form-next btn fbx-next"><i> </i><span>Next</span>
+                        </button>
+                        <button type="button" class="tabbed-form-previous btn fbx-previous">
+                            <i> </i><span>Previous</span>
+                        </button>
+                    {% endif %}
+                </div>
+            </div>
+            <!--//PRODUCT CONTENT LEFT-->
+        </div>
+        <!--//.COL 6-->
+        </form>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/create-view.js?v=1.1.5"></script>
+    <script type="text/javascript" src='http://maps.google.com/maps/api/js?libraries=places'></script>
+    <script src="{{ STATIC_URL }}assets/js/location-picker/locationpicker.jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/create-view-map.js?v=1.1.0"></script>
+
+    <script type="text/javascript">
+        var improved_coordination_planning_and_management_in_programme_towns_and_cities = [
+            "Poverty Mapping / Assessment",
+            "Mapping donor efforts in the city",
+            "Standing Committee and Coordination Committee Assessment of the Local Government",
+            "Institutional and Financial Capacity Assessment of the Local Government"
+        ];
+        var enhanced_organization_capability_and_effective_voice_of_poor_urban_communities = [
+            "CDC Capacity Assessment",
+            "Capacity Assessment of CDC Town Federation",
+            "PG Member Registration"
+        ];
+        var improved_well_being_in_poor_urban_slums_particularly_for_women_and_girls = [
+            "Local job market assessment",
+            "Gender Based Violence Assessment",
+            "Nutrition Assessment",
+            "Disability Assessment"
+        ];
+        var more_secure_land_tenure_and_housing_in_programme_towns_and_cities = [
+            "Infrastructure Assessment",
+            "Climate Change Vulnerability Assessment (CCVA)"
+        ];
+        var more_and_better_climate_resilient_and_community_based_infrastructure_in_programme_towns_and_cities = [
+            "Vacant Land Mapping/Assessment (VLM)",
+            "Housing and Land Tenure Assessment"
+        ];
+
+        data_object = {
+            'Improved coordination, planning and management in programme towns and cities': improved_coordination_planning_and_management_in_programme_towns_and_cities,
+            'Enhanced organization, capability and effective voice of poor urban communities': enhanced_organization_capability_and_effective_voice_of_poor_urban_communities,
+            'Improved well-being in poor urban slums particularly for women and girls': improved_well_being_in_poor_urban_slums_particularly_for_women_and_girls,
+            'More secure land tenure and housing in programme towns and cities': more_secure_land_tenure_and_housing_in_programme_towns_and_cities,
+            'More and better climate-resilient and community-based infrastructure in programme towns and cities': more_and_better_climate_resilient_and_community_based_infrastructure_in_programme_towns_and_cities,
+        }
+
+        Status_Choices = ['Yes', 'No', 'Ongoing', 'Not applicable']
+
+        $(function () {
+
+            var name_of_component = null;
+            $("#id_name_of_component").change(function () {
+                $('#id_name_of_assessment').find('option').remove().end().append('<option value="">Select One</option>');
+                {#$('#id_status').find('option').remove().end().append('<option value="">Select One</option>');#}
+                name_of_component = $(this).val();
+                $('#id_name_of_assessment').find('option').remove().end().append('<option value="">Select One</option>');
+                $('#id_name_of_assessment').select2().trigger('change');
+                if (name_of_component) {
+                    $.each(data_object[name_of_component], function (i, item) {
+                        $('#id_name_of_assessment').append($('<option>', {
+                            value: item,
+                            text: item
+                        }));
+                    });
+                }
+            });
+
+            var status_elem = $('#id_status').closest('.control-group').find("label")[0]
+            selected_stage =  $( "#id_stage option:selected" ).text();
+            if (selected_stage) {
+                if (selected_stage == 'Stage 2' || selected_stage == 'Stage 3') {
+                    $("#id_status option[value='Ongoing']").remove();
+                    $("#id_status option[value='Not applicable']").remove();
+                }
+                if (selected_stage == 'Stage 2') {
+                    status_elem.innerHTML = 'Strategy Developed <span class="text-danger mandatory-asterisk">✱</span>';
+                } else if (selected_stage == 'Stage 3') {
+                    status_elem.innerHTML = 'Strategy Under Implementation <span class="text-danger mandatory-asterisk">✱</span>';
+                }
+            }
+
+            $("#id_stage").change(function () {
+                var stage = $(this).val();
+                $('#id_status').find('option').remove().end().append('<option value="">Select One</option>');
+                $('#id_status').select2().trigger('change');
+
+                if (stage == 'Stage 1') {
+                    status_elem.innerHTML = 'Status <span class="text-danger mandatory-asterisk">✱</span>'
+                    $.each(Status_Choices, function (i, item) {
+                        $('#id_status').append($('<option>', {
+                            value: item,
+                            text: item
+                        }));
+                    });
+
+                } else if (stage == 'Stage 2' || stage == 'Stage 3') {
+                    var label = null;
+                    if (stage == 'Stage 2') label = 'Strategy Developed';
+                    else if (stage == 'Stage 3') label = 'Strategy Under Implementation';
+                    status_elem.innerHTML = `${label} <span class="text-danger mandatory-asterisk">✱</span>`;
+                    $.each(Status_Choices.slice(0, 2), function (i, item) {
+                        $('#id_status').append($('<option>', {
+                            value: item,
+                            text: item
+                        }));
+                    });
+
+                } else {
+                    status_elem.innerHTML = 'Status <span class="text-danger mandatory-asterisk">✱</span>'
+                }
+
+            });
+
+
+        });
+
+
+        $(function () {
+            $("#submit_top").on('click', function () {
+                $("#save_item").click();
+            });
+
+            $("#btn_cancel").on('click', function () {
+                history.go(-1);
+            });
+
+            $(".btn-cancel").on('click', function () {
+                history.go(-1);
+            });
+        });
+    </script>
+
+    {% if 'alert-config/' in request.build_absolute_uri %}
+        <script type="text/javascript">
+            function model_descriptor() {
+                $(document).on('change', '.model-descriptor', function () {
+                    var mod_prop = $(this).closest('.form-horizontal').find('.model-property');
+                    console.log(mod_prop);
+                    var value = $(this).find(":selected").val();
+                    if (value.length > 0) {
+                        var url = "{% url 'model_descriptor' %}";
+                        $.ajax({
+                            url: url,
+                            type: "get",
+                            data: 'model_name=' + value,
+                            success: function (data) {
+                                mod_prop
+                                    .find('option')
+                                    .remove()
+                                    .end();
+                                $(data.property_list).each(function () {
+                                    var option = $('<option />');
+                                    option.attr('value', this).text(this);
+                                    $(mod_prop).append(option);
+                                });
+                                $(mod_prop).append($('<option />').attr('value', 'None').text('None'));
+                            }
+                        })
+                    }
+                });
+
+            }
+            ;
+            $(window).load(function () {
+                model_descriptor();
+            });
+        </script>
+    {% endif %}
+{% endblock %}

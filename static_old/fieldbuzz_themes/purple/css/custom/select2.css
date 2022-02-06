@@ -1,0 +1,47 @@
+/********** author 'shamil' *********/
+
+.select2-container .select2-choice {
+    border-radius: 0;
+    background-image: none;
+}
+.select2-container .select2-choice .select2-arrow {
+    border-radius: 0;
+    background: white;
+}
+
+.select2-dropdown-open .select2-choice {
+    background-color: white;
+}
+
+.select2-drop-active {
+    border-color: rgba(0, 169, 157, 0.71);
+}
+
+.select2-container-multi.select2-container-active .select2-choices {
+    box-shadow: 0 0 2px rgba(0, 169, 157, 0.71);
+    border: 0;
+}
+
+.select2-drop {
+    border-radius: 0;
+}
+
+.select2-container-active, .select2-dropdown-open {
+    border-color: rgba(0, 169, 157, 0.89);
+    box-shadow: 0 1px 1px rgba(0, 169, 157, 0.71) inset, 0 0 4px rgba(0, 169, 157, 0.47);
+    outline: 0 none;
+    background-image: none;
+    background: white;
+}
+
+.select2-results .select2-highlighted {
+    background-color: #af86b8;
+}
+.select2-container-active .select2-choice,.select2-container-active .select2-choices
+{
+    border: 1px solid #af86b8;
+}
+
+.select2-drop.select2-drop-above {
+    border-radius: 0;
+}

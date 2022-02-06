@@ -1,0 +1,101 @@
+{% extends "shared/_viewport.html" %}
+{% block header %}
+<div class="col-sm-1 hidden-xs"></div>
+<div class="col-sm-5 col-md-4 titleclass">
+    <div class="fbx-title  xs-text-center">
+        <h3>{{ display_model }}</h3>
+    </div>
+</div>
+<div class="col-sm-7 map-info">
+    <ul class=" list-inline text-right bfz-adminbtn-list">
+    </ul>
+</div>
+{% endblock %}
+
+{% block styles %}
+<style>
+    .custom-data-table {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100% !important;
+    }
+
+    .custom-data-table th, .custom-data-table td {
+        border: 1px solid #ddd;
+        text-align: left;
+        padding: 3px;
+    }
+
+    .custom-data-table tr:nth-child(even) {
+        background-color: #f2f2f2
+    }
+
+    .custom-data-table tr:hover {
+        background-color: #ddd;
+    }
+
+    .custom-data-table th {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: #00a99d;
+        color: white;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="fbx-table-common">
+    <div class="table-container" style="padding-top: 20px;">
+        <table class="table table-striped table-bordered table-condensed fileTable no-footer custom-data-table">
+            <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Status</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for obj in backup_objects %}
+            <tr>
+                <td>{{ obj.code }}</td>
+                <td>{{ obj.name }}</td>
+                <td>{{ obj.status }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+
+{% block childscripts %}
+<script src="{{ STATIC_URL }}js/specific/backup_manager/_db_list.js"></script>
+<script>
+
+    $(document).ready(function () {
+        $(document).on("click", "#db-media-backup-btn", function () {
+            backup_request();
+        });
+    });
+
+    function backup_request() {
+        var parameters = {};
+        $.ajax({
+            url: '?dbbackup=True&format=json',
+            type: 'get',
+            data: parameters,
+            dataType: 'json',
+            success: function (result) {
+                console.log(result);
+                if (result.success === 'true') {
+                    window.location.reload();
+                }
+            },
+            error: function (err) {
+            }
+        });
+    }
+
+    window.onload = _loadDataTable;
+</script>
+{% endblock %}

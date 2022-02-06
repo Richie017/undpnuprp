@@ -1,0 +1,178 @@
+   THIS DOC COVERS THE APPROVAL PROCESS APPLY IN ANY MODEL
+   =====================================================================================================================
+
+   Approval process is the generic feature of blackwidow from now.
+   Approval process may be applied to different cases. Like Order creation, damage item request etc etc
+   To add approval process for any model we have to create an approval
+   process for that model. Lets go through by example:
+   For primarysalesorder we want to add approval process where the flow will be like following:
+   1. ASM create the order and approve immediately
+   2. After ASM has approved it will be available to be approved for
+   RSM. RSM can either approve or reject or even step back the order.
+   If he approves then it will go to the next step for Finance approval.
+   If he rejects then it will go to the RejectedOrder
+   If he step back the order then it will go back to step 1 for further review and/or approve by ASM.
+   3. In step 3 Finance can either approve/reject/stepback/edit like RSM
+   4. This is the last step where WarehouseManager is sitting to stock out the order that are
+   available to him and come through the approval process.
+   He can either approve(stock out)/edit/reject/step back the order.
+
+
+   This is the flow. Lets implement it.
+
+   1. First create an approval process by specifying the approval levels. remember
+   that lower the level the order will come early in that level.
+   We are creating an approval process for model primarysalesorder by the following levels
+    1. role Area Sales Manager level: 1
+	2. role: Regional Sales Manager level: 2
+	3. Finance Manager level: 3
+	4. Warehouse Manager level: 4
+
+
+	So we have created the process. So it will be applied automatically. To make it more useful or fully
+	functional we have to override some hook methods. Like what will happen
+	when ASM will approve the order. If we want some background work to initiate or some
+	other jobs to be done then we just have to override a hook method.
+
+
+
+	Each time any action is taken blackwidow system calls a hook method in each step in the following format.
+
+    approval_level_n_action
+
+    so the method definition will be like this:
+    def approval_level_1_action(self, action, *args, **kwargs):
+        ###definition body will go here.
+
+    parameters:
+    The first parameter is action. It says whether it is APPROVED or REJECTED action.
+    There are *args and **kwargs parameters following the action parameter.
+
+    In the hook method name: approval_level_n_action
+    n is the level number.
+
+    For model X there is an ApprovalProcess defned with the following role.
+
+    Approval levels:
+    ===============================================
+    1. role: AreaSalesManager, level: 1
+    2. role: FinanceManager, level: 3
+    3. role: WarehouseManager, level: 4
+
+    So when AreaSalesManager will take any action(either approve or reject) it will look for the hook method: approval_level_1_action.
+    When FinanceManager will take any action it will look for the hook method with name: approval_level_3_action
+
+    For any model if there is no approval process defined then the approve_to method look for the method final_approval_action.
+
+    The method signature:
+
+    def final_approval_action(self, action, *args, **kwargs):
+        pass
+
+    where action is the action taken(either APPROVED or REJECTED or StepBack or Restore)
+
+
+	=======================================================
+	For Un-Reject any user in the approval process hierarchy who has rejected the
+	order can un-reject or those who have higher order in the process
+	hierarchy can un-reject the order.
+
+	Approve buttons in each level is automatically shown or hidden
+	by checking on which step the process is on now.
+
+	Here is a sample of process hook method implementation for danone project with the following approval process:
+	First ASM will create the order and immediately approve it. Then it will be available in AwaitingFinanceApprovalOrder models where
+	only FinanceManager will have access to take action. Finally when he will aprove it will go in the PrimarySalesCompletedOrder model
+	to stock out by the Warehouse Manager.
+
+	"""
+	def approval_level_1_action(self, action, *args, **kwargs):
+        if action == "Approved":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "AwaitingFincanceApprovalOrder"
+
+            self.save()
+        elif action == "Rejected":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "SupplyChainRejectedOrder"
+            self.save()
+        elif action == "Restore":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = kwargs.get('model_name')
+            self.save()
+        return self
+
+    def approval_level_2_action(self, action, *args, **kwargs):
+        if action == "Approved":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+                self.finance_approved_by = c_user
+                self.finance_approved_time = Clock.timestamp()
+            self.type = "PrimarySalesCompletedOrder"
+
+            invoice = Invoice()
+            invoice.system_user = c_user
+            invoice.counter_part = self.client
+            invoice.date_of_invoice = self.last_updated
+            invoice.invoice_number = uuid.uuid4()
+            invoice.price_total = self.breakdown.all().aggregate(Sum('total'))['total__sum']
+            invoice.actual_amount_paid = 0
+            invoice.save()
+            self.invoice = invoice
+            self.save()
+        elif action == "Rejected":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "SupplyChainRejectedOrder"
+            self.save()
+        elif action == "Restore":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = kwargs.get('model_name')
+            self.save()
+        elif action == "StepBack":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "PrimarySalesOrder"
+            self.save()
+        return self
+
+    def approval_level_3_action(self, action, *args, **kwargs):
+        if action == "Approved":
+            c_user = kwargs.get('user')
+            if c_user and self.check_if_all_expiry_date_found():
+                tx = self.create_delivery_transaction(c_user)
+                self.is_locked = True
+                self.save()
+                for brkdown in self.breakdown.all():
+                    PromotionManager.apply_promotion(self.client.assigned_to.parent, self.client.assigned_to, brkdown.product, brkdown.total_items, tx,self.client,"Applied automatically")
+        elif action == "Rejected":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "SupplyChainRejectedOrder"
+            self.save()
+        elif action == "Restore":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = kwargs.get('model_name')
+            self.save()
+        elif action == "StepBack":
+            c_user = kwargs.get('user')
+            if c_user:
+                self.last_updated_by = c_user
+            self.type = "AwaitingFincanceApprovalOrder"
+            self.save()
+        return self
+        """

@@ -1,0 +1,61 @@
+
+a.dt-button.buttons-excel{
+    background: url('../img/excel-icon.png');
+    height: 30px;
+    width: 30px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0);
+    border-color: white;
+
+}
+a.dt-button.buttons-pdf{
+    background: url('../img/pdf-icon.png');
+    height: 30px;
+    width: 30px;
+    background-size: 28px 28px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0);
+    border-color: white;
+
+}
+
+a.dt-button.buttons-excel:hover:not(.disabled){
+    background: url('../img/excel-icon.png');
+    height: 30px;
+    width: 30px;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0);
+    opacity: 0.5;
+    border-color: white;
+}
+
+a.dt-button.buttons-pdf:hover:not(.disabled){
+    background: url('../img/pdf-icon.png');
+    height: 30px;
+    width: 30px;
+    background-size: 28px 28px;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0);
+    opacity: 0.5;
+    border-color: white;
+}
+
+a.dt-button.buttons-pdf:active:not(.disabled) {
+    background: url('../img/pdf-small.png') no-repeat center !important;
+    background-size: 25px 25px;
+    color: rgba(0, 0, 0, 0);
+    border-color: white;
+}
+
+a.dt-button.buttons-excel:focus:not(.disabled){
+    background: url('../img/excel-small.png') no-repeat center !important;
+    background-size: 25px 25px;
+    color: rgba(0, 0, 0, 0);
+    border-color: white;
+}
+
+
+
+

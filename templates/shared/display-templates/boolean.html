@@ -1,0 +1,10 @@
+<div class="organization-details">
+    <label>
+        <input id={{ data.name }} name={{ data.name }} type="hidden" />
+        {% if cell == "True" %}
+            <input data-target="#{{ data.name }}" class="ace-switch ace-switch-4 settings-switch" type="checkbox" checked="checked" />
+        {% else %}
+            <input data-target="#{{ data.name }}" class="ace-switch ace-switch-4 settings-switch" type="checkbox" />
+        {% endif %}
+    </label>
+</div>

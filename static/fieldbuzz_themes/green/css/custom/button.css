@@ -1,0 +1,51 @@
+/********** author 'shamil' *********/
+
+.btn-inline-remove-search {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.btn {
+    font-size: 1.2rem;
+    border-radius: 0;
+    text-shadow: none;
+}
+
+.bfz-adminbtn-list {
+    margin-top: 0;
+}
+
+/*@media only screen and (max-width: 1200px)*/
+.load-map-button {
+    margin-top: 9px;
+}
+.generic-btn-style {
+    background-image: none;
+    border-radius: 0;
+    background-color: #00a99d;
+    color: white;
+}
+.generic-btn-style:hover, .generic-btn-style:focus {
+    background-image: none;
+    border-radius: 0;
+    background-color: #004742;
+    color: #ffffff;
+}
+.generic-danger-btn-style {
+    background-image: none;
+    border-radius: 0;
+    background-color: #a91c3b;
+    color: white;
+}
+.generic-danger-btn-style:focus {
+    background-image: none;
+    border-radius: 0;
+    background-color: #a91c3b;
+    color: white;
+}
+
+.bfz-adminbtn-list li a span {
+    top: -10px;
+}
+.fbx-semiactionbtn, .fbx-actionbtn {
+    text-align: left;
+}

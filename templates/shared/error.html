@@ -1,0 +1,27 @@
+{% extends 'shared/_viewport_no_flash.html' %}
+{% block header %}
+<h1>
+    Error
+    <small>
+        <i class="icon-double-angle-right"></i>
+
+    </small>
+</h1>
+{% endblock %}
+
+{% block content %}
+<div class="clearfix">
+    <div class="alert alert-error">
+        {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+            <li{% if message.tags %} class="alert alert-{{ message.tags }}"{% endif %}>
+            {{ message }}
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+

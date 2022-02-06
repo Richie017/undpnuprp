@@ -1,0 +1,85 @@
+body.dragging, body.dragging * {
+    cursor: move !important
+}
+
+.dragged {
+    position: absolute;
+    top: 0;
+    opacity: 0.85;
+    z-index: 2000;
+}
+
+ol.vertical {
+    min-height: 10px;
+    padding: 0;
+    margin: 0;
+    z-index: 100;
+}
+
+ol.vertical li {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 0 10px 10px;
+    border: 1px solid #CCC;
+    color: #1a3c76;
+    background: #e7e7e7;
+}
+
+ol.vertical li.placeholder {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+ol.vertical li.placeholder :before {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    margin-top: -5px;
+    left: -5px;
+    top: -4px;
+    border: 5px solid transparent;
+    border-left-color: #8f0000;
+    border-right: none;
+}
+
+ol.side_module li {
+    margin: 5px 0 5px 15%;
+    color: #fffdfc;
+    background: #404041;
+    z-index: 150;
+}
+
+ol.side_menu_item li {
+    margin: 5px 0 5px 30%;
+    color: #e7e7e7;
+    background: #af86b8;
+    z-index: 200;
+}
+ol.menu_manager > li > p {
+    cursor: pointer;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 5px;
+}
+ol.side_module > li > p {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 5px;
+}
+ol.side_menu_item > li > p {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+ol.side_module li i.drag-icon {
+    cursor: move;
+}
+
+input.edit-group-box,
+input.edit-item-box {
+    color: #af86b8;
+}

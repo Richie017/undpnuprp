@@ -1,0 +1,423 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-28 13:16+0600\n"
+"PO-Revision-Date: 2016-11-17 16:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: blackwidow/engine/templates/django_tables2/bootstrap.html:35
+#: templates/django_tables2/bootstrap.html:35
+msgid "no results"
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/bootstrap.html:55
+#: templates/django_tables2/bootstrap.html:55
+msgid "previous"
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/bootstrap.html:59
+#: blackwidow/engine/templates/django_tables2/table.html:63
+#: templates/django_tables2/bootstrap.html:59
+#: templates/django_tables2/table.html:63
+#, python-format
+msgid ""
+"\n"
+"                    Page %(current)s of %(total)s\n"
+"                "
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/bootstrap.html:66
+#: templates/django_tables2/bootstrap.html:66
+msgid "next"
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/table.html:55
+#: templates/django_tables2/table.html:55
+msgid "Previous"
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/table.html:73
+#: templates/django_tables2/table.html:73
+msgid "Next"
+msgstr ""
+
+#: blackwidow/engine/templates/django_tables2/table.html:79
+#: templates/django_tables2/table.html:79
+#, python-format
+msgid "%(count)s of %(total)s"
+msgstr ""
+
+#: templates/registration/logged_out.html:4
+#: templates/registration/password_change_done.html:6
+#: templates/registration/password_change_form.html:7
+#: templates/registration/password_reset_complete.html:6
+#: templates/registration/password_reset_confirm.html:6
+#: templates/registration/password_reset_done.html:6
+#: templates/registration/password_reset_form.html:6
+msgid "Home"
+msgstr "El hogar."
+
+#: templates/registration/logged_out.html:8
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr ""
+
+#: templates/registration/logged_out.html:10
+msgid "Log in again"
+msgstr ""
+
+#: templates/registration/password_change_done.html:3
+#: templates/registration/password_change_form.html:4
+msgid "Documentation"
+msgstr ""
+
+#: templates/registration/password_change_done.html:3
+#: templates/registration/password_change_form.html:4
+msgid "Change password"
+msgstr ""
+
+#: templates/registration/password_change_done.html:3
+#: templates/registration/password_change_form.html:4
+msgid "Log out"
+msgstr "Cerrar Sesión"
+
+#: templates/registration/password_change_done.html:7
+#: templates/registration/password_change_form.html:8
+msgid "Password change"
+msgstr ""
+
+#: templates/registration/password_change_done.html:14
+msgid "Your password was changed."
+msgstr ""
+
+#: templates/registration/password_change_form.html:21
+msgid "Please correct the error below."
+msgstr ""
+
+#: templates/registration/password_change_form.html:21
+msgid "Please correct the errors below."
+msgstr ""
+
+#: templates/registration/password_change_form.html:26
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+#: templates/registration/password_change_form.html:32
+msgid "Old password"
+msgstr ""
+
+#: templates/registration/password_change_form.html:37
+msgid "New password"
+msgstr ""
+
+#: templates/registration/password_change_form.html:42
+msgid "Password (again)"
+msgstr ""
+
+#: templates/registration/password_change_form.html:48
+#: templates/registration/password_reset_confirm.html:24
+msgid "Change my password"
+msgstr ""
+
+#: templates/registration/password_reset_complete.html:7
+#: templates/registration/password_reset_done.html:7
+#: templates/registration/password_reset_form.html:7
+msgid "Password reset"
+msgstr ""
+
+#: templates/registration/password_reset_complete.html:16
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr ""
+
+#: templates/registration/password_reset_complete.html:18
+msgid "Log in"
+msgstr "Cerrar Sesión"
+
+#: templates/registration/password_reset_confirm.html:7
+msgid "Password reset confirmation"
+msgstr ""
+
+#: templates/registration/password_reset_confirm.html:17
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+
+#: templates/registration/password_reset_confirm.html:21
+msgid "New password:"
+msgstr ""
+
+#: templates/registration/password_reset_confirm.html:23
+msgid "Confirm password:"
+msgstr ""
+
+#: templates/registration/password_reset_confirm.html:29
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+
+#: templates/registration/password_reset_done.html:15
+msgid ""
+"We've emailed you instructions for setting your password. You should be "
+"receiving them shortly."
+msgstr ""
+
+#: templates/registration/password_reset_done.html:17
+msgid ""
+"If you don't receive an email, please make sure you've entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+
+#: templates/registration/password_reset_email.html:2
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+
+#: templates/registration/password_reset_email.html:4
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+
+#: templates/registration/password_reset_email.html:8
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: templates/registration/password_reset_email.html:10
+msgid "Thanks for using our site!"
+msgstr "Gracias por utilizar nuestro sitio"
+
+#: templates/registration/password_reset_email.html:12
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: templates/registration/password_reset_form.html:15
+msgid "Forgotten your password? Enter your email address below, and we'll email. instructions for setting a new one."
+msgstr "¿Olvidaste tu contraseña? Ingrese su dirección de correo electrónico a continuación, y le enviaremos un correo electrónico.Instrucciones para establecer una nueva."
+
+#: templates/registration/password_reset_form.html:19
+msgid "Email address:"
+msgstr "el correo electrónico"
+
+#: templates/registration/password_reset_form.html:19
+msgid "Reset my password"
+msgstr "Restablecer mi contraseña"
+
+#: templates/shared/_header.html:70
+msgid "Log Out"
+msgstr "Cerrar Sesión"
+
+
+#: blackwidow/engine/templatetags/blackwidow_filter.py:401
+msgid "Country"
+msgstr "País"
+
+msgid "Division"
+msgstr "División"
+
+msgid "Department"
+msgstr "Departamento"
+
+msgid "Municipality"
+msgstr "Municipio"
+
+msgid "Town"
+msgstr "Barrio o pueblo"
+
+msgid "Neighbourhood or Village"
+msgstr "Barrio o pueblo"
+
+msgid "Geography"
+msgstr "Geografía"
+
+msgid "Logs"
+msgstr "Registros"
+
+msgid "Delete Log"
+msgstr "Eliminar registros"
+
+msgid "Restore log"
+msgstr "Restaurar registros"
+
+msgid "Activation log"
+msgstr "Registros de activación"
+
+msgid "Error log"
+msgstr "Registros de errores"
+
+msgid "API log"
+msgstr "Registros API"
+
+msgid " Scheduler log"
+msgstr "Registro del programador"
+
+msgid "Other admin"
+msgstr "Otro administrador"
+
+msgid "Approval process "
+msgstr "Proceso de aprobación"
+
+msgid "QR code"
+msgstr "código QR"
+
+msgid "Data to json"
+msgstr "Datos para json"
+
+msgid "Role filters"
+msgstr "Filtros de rol"
+
+msgid "Assignment logs"
+msgstr "Registros de asignación"
+
+msgid "Generate Model Form"
+msgstr "Generar modelo de formulario"
+
+msgid "File Upload Manager"
+msgstr "Administrador de subida de archivos"
+
+msgid "Payment Method"
+msgstr "Método de pago"
+
+msgid "Price Type"
+msgstr "Tipo de precio"
+
+msgid "Product Custom Field"
+msgstr "Producto personalizado campo"
+
+msgid "user role"
+msgstr "rol del usuario"
+
+msgid "Backup Manager"
+msgstr "Administrador de copia de seguridad"
+
+msgid "Alert Email Template"
+msgstr "Plantilla de correo electrónico de alerta"
+
+msgid "Menu manager"
+msgstr "Administrador de menús"
+
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+msgid "Apk file "
+msgstr "Archivo APK"
+
+msgid "Exported file"
+msgstr "Archivo exportado"
+
+msgid "Data file "
+msgstr "Archivo de datos"
+
+msgid "Import Queue"
+msgstr "Cola de importación"
+
+msgid "Config"
+msgstr "Configuración"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Admin"
+msgstr "Administración"
+
+msgid "Products"
+msgstr "Producto"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Unilever Manager"
+msgstr "Gestor Unilever"
+
+msgid "NGO Manager"
+msgstr "Gestor ONG"
+
+msgid "Distributor Manager"
+msgstr "Gestor Distribuidor"
+
+msgid "Sales Promoter"
+msgstr "Promotor de Ventas"
+
+msgid "Other User"
+msgstr "Otro usuario"
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Organization Devices"
+msgstr "Dispositivos de Organización"
+
+msgid "Device Applications"
+msgstr "Aplicaciones del dispositivo"
+
+msgid "Field Buzz Application"
+msgstr "Aplicación Field Buzz"
+
+msgid "Operations"
+msgstr "Operaciones"
+
+msgid "Cycle"
+msgstr "Ciclo"
+
+msgid "HQ Message"
+msgstr "Mensajes de la Central"
+
+msgid "Clients"
+msgstr "Clientes"
+
+msgid "Shakti Leader"
+msgstr "Líder Shakti"
+
+msgid "Shakti Entrepreneur"
+msgstr "Emprendedor Shakti"
+
+msgid "Organizations/Hierarchy"
+msgstr "Organizaciones/Hierarchia"
+
+msgid "Partner NGO"
+msgstr "ONG Asociada"
+
+msgid "Distributor"
+msgstr "Distribuidor"
+
+msgid "Zone"
+msgstr "Zona"
+
+
+
+
+
+
+
+
+
+
+

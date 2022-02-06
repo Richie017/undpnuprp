@@ -1,0 +1,51 @@
+{% load blackwidow_filter %}
+{% block styles %}
+    <style>
+        .profile-user-info-striped {
+            border: none;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix row-fluid">
+        <div class="profile-user-info profile-user-info-striped span12">
+            {% for prop, value in model_meta.properties|name_value_pair %}
+                <div class="profile-info-row col-md-6 col-sm-8" style="display: inline-block;">
+                    <div class="profile-info-name col-md-5 col-sm-7"
+                         style="text-align: left; width: 30%;">
+                        <span>{{ prop }}</span>
+                    </div>
+                    <div class="profile-info-value col-md-5 col-sm-7">
+                        <span id="username">{{ value|safe }}</span>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        {% if data.has_map %}
+            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+            <script type="text/javascript">
+                function initialize() {
+                    var myLatlng = new google.maps.LatLng(-25.363882, 131.044922);
+                    var mapOptions = {
+                        zoom: 18,
+                        center: myLatlng
+                    };
+                    var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+                    var marker = new google.maps.Marker({
+                        position: myLatlng,
+                        map: map,
+                        title: 'Hello World!'
+                    });
+                }
+                google.maps.event.addDomListener(window, 'load', initialize);
+            </script>
+        {% endif %}
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+{% endblock %}
+
+{% block childscripts3 %}
+{% endblock %}

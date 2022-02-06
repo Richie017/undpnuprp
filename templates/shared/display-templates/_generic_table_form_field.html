@@ -1,0 +1,45 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+
+{% if field|is_hidden %}
+
+{% elif field|is_datetime %}
+    <td style="border-top:none; padding: 0;">
+        <div class="input-append input-group date datetimepicker">
+            {% render_field field|add_error_class:'input-validation-error' %}
+            <span class="input-group-addon">
+                                <i data-date-icon="icon-calendar" class="icon-calendar"></i>
+                            </span>
+        </div>
+        <span class="field-validation-valid" data-valmsg-replace="true"
+              data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+        {{ field.errors }}
+    </td>
+{% elif field|is_range_input %}
+    <div class="control-group">
+        <label class="col-md-6 control-label"
+               for="{{ form.prefix|get_prefix }}{{ field.name.lower }}">{{ field.label }}</label>
+        <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+            <span>value</span>
+            <span class="field-validation-valid" data-valmsg-replace="true"
+                  data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+            {{ field.errors }}
+        </div>
+    </div>
+{% elif field.name.lower == 'delete' %}
+
+{% elif field.name.lower == 'password' or field.name.lower == 'confirm_password' %}
+    <td style="border-top:none; padding: 0px;">
+        {% render_field field|add_error_class:'input-validation-error' %}
+        <span class="field-validation-valid" data-valmsg-replace="true"
+              data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+        {{ field.errors }}
+    </td>
+{% else %}
+    <td style="border-top:none; padding: 0px;">
+        {% render_field field|add_error_class:'input-validation-error'|add_prefix:form.prefix %}
+        <span class="field-validation-valid" data-valmsg-replace="true"
+              data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+        {{ field.errors }}
+    </td>
+{% endif %}

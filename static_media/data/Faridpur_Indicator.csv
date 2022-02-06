@@ -1,0 +1,392 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Faridpur;9;2400901008;12400901008;Faridabad;Rejaul Ar Bari Hoyte Eyakub Ar Bari;40;186;100;1;1;4;1;1;2;2;3;2;3;3;4;2;1;4;4;38
+Faridpur;9;2400901007;12400901007;Faridabad;Bedhibad Jame Masjeed;50;250;80;2;1;3;1;1;1;2;3;3;4;2;2;1;1;1;1;29
+Faridpur;9;2400901005;12400901005;Faridabad;Usuf Miya Bari/School Ar Dokhin Pashe;80;350;120;2;1;3;1;1;2;1;3;3;4;3;2;1;3;1;1;32
+Faridpur;9;2400901006;12400901006;Faridabad;Monir Miyar Bari Hoyte Forid Bad Masjeed;110;505;100;1;1;3;1;1;2;1;2;2;4;3;1;1;3;3;2;31
+Faridpur;9;2400901004;12400901004;Faridabad;Lakpara Kali Mader Ar Char Pash;170;765;100;1;1;4;1;1;2;2;3;4;4;2;4;1;4;4;4;42
+Faridpur;9;2400901001;12400901001;Faridabad;Saalam Wahab Khaner Elaka;20;90;80;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Faridpur;9;2400901002;12400901002;Faridabad;Sahjahan Shak Lekbar Jame Masjeder Pashe;40;190;40;1;1;4;1;1;2;3;3;3;4;3;4;1;4;4;4;43
+Faridpur;9;2400901003;12400901003;Faridabad;Lake Para Bindu Mader Ar pashe;50;220;100;1;1;4;1;1;2;2;3;3;4;3;2;1;4;2;1;35
+Faridpur;9;2400901009;12400901009;Faridabad;Din Islam Ar Bari Hoyte Vuiya Bari;10;45;48;3;1;4;1;1;3;2;4;3;4;3;1;2;3;3;2;40
+Faridpur;9;2400902011;12400902011;Bhati Laxmipur;Alamin Vaiyar Bari;15;65;50;1;1;4;1;1;1;1;3;3;4;3;3;1;3;1;3;34
+Faridpur;9;2400902008;12400902008;Bhati Laxmipur;Shohan Vaiyar Vari Elaka;20;110;100;2;2;3;1;1;1;3;3;4;4;3;4;1;4;4;4;44
+Faridpur;9;2400902010;12400902010;Bhati Laxmipur;Fokir Barir Pashe Roni Vair Ar Bari;15;70;100;2;2;4;1;1;1;3;4;4;4;3;4;1;4;4;4;46
+Faridpur;9;2400902009;12400902009;Bhati Laxmipur;Dedar Vaiyar Bari Elaka;20;100;80;2;2;4;1;2;1;4;4;4;4;3;4;1;4;4;4;48
+Faridpur;9;2400902001;12400902001;Bhati Laxmipur;Munnat Mridhar Bari Elaka;16;66;80;2;2;4;2;3;1;4;3;4;4;3;4;4;4;4;4;52
+Faridpur;9;2400902002;12400902002;Bhati Laxmipur;MunnamiYa Vat Hoyte Selim Vai Ar Bari;30;135;25;1;1;4;1;1;1;1;3;4;4;3;1;1;3;1;3;33
+Faridpur;9;2400902003;12400902003;Bhati Laxmipur;Chenu Vai Ar Bari Elaka;30;125;25;1;2;4;1;1;1;1;3;4;4;3;2;1;2;1;3;34
+Faridpur;9;2400902007;12400902007;Bhati Laxmipur;Parvejer Vari Elaka;25;115;100;2;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;43
+Faridpur;9;2400902006;12400902006;Bhati Laxmipur;Sohel Vai Ar Bari Elaka;23;85;60;2;1;4;1;1;1;3;3;4;4;3;3;1;4;4;4;43
+Faridpur;9;2400902005;12400902005;Bhati Laxmipur;Mabebr Bari Pashe Jinder Vai Ar Bari;28;130;27;1;1;4;1;1;1;1;4;4;4;3;3;1;2;1;3;35
+Faridpur;9;2400902004;12400902004;Bhati Laxmipur;Deba Dadar Bari Elaka;100;450;35;1;1;4;1;1;1;1;3;4;4;3;3;1;1;4;3;36
+Faridpur;9;2400903004;12400903004;Habili Gopalpur;Pader Kumar Debanath Hoyte Khonema Holer Pashe;40;165;40;3;1;4;1;1;3;4;3;4;4;3;2;3;2;4;4;46
+Faridpur;9;2400903001;12400903001;Habili Gopalpur;Sisu Sodon Ar Dokhin Pase Nannu Vaiyar Bari Elaka;25;110;100;2;3;4;1;1;1;1;3;3;4;3;1;1;2;2;1;33
+Faridpur;9;2400903002;12400903002;Habili Gopalpur;Sisu Modon Paschim Pas Chaya Rani Ar Bari Elaka;20;85;25;1;1;4;1;1;2;1;2;3;4;3;1;1;2;2;1;30
+Faridpur;9;2400903003;12400903003;Habili Gopalpur;Beltola Majeda Begumer Bari Elaka;40;165;50;3;1;4;1;1;1;4;4;4;4;3;1;3;4;4;4;46
+Faridpur;9;2400903005;12400903005;Habili Gopalpur;Khandaker Bari Elaka O Dokhin Pashe;50;225;28;1;1;3;1;1;1;4;3;4;4;3;1;1;2;2;4;36
+Faridpur;9;2400903006;12400903006;Habili Gopalpur;Khadokarer Bari Beltola Coloy;55;230;100;1;1;3;1;1;1;4;4;4;4;3;1;1;1;2;4;36
+Faridpur;9;2400903007;12400903007;Habili Gopalpur;Rail Colony Tea Khaner Dokhin O Purbo Pash;50;275;110;3;2;4;1;1;1;3;3;3;4;3;3;4;1;4;4;44
+Faridpur;9;2400904011;12400904011;2 NO. Kuthibari;Jekaner Bari Thake Babuder Bari;22;100;100;2;1;4;1;3;2;4;4;3;4;3;4;2;4;4;4;49
+Faridpur;9;2400904001;12400904001;2 NO. Kuthibari;2No. Rail Station Ranir Bari;35;150;35;1;1;4;1;1;1;4;2;3;4;1;1;1;1;2;1;29
+Faridpur;9;2400904002;12400904002;2 NO. Kuthibari;Babli Komair Bari Thake Idriser Bari;30;130;40;1;1;4;1;1;1;4;2;3;4;1;1;1;1;2;1;29
+Faridpur;9;2400904003;12400904003;2 NO. Kuthibari;Sukur Ali Bari thake Rimar Bari;20;85;40;2;1;4;1;1;1;4;3;3;4;1;1;1;1;2;1;31
+Faridpur;9;2400904004;12400904004;2 NO. Kuthibari;Sakir Bari Hoyte Akas Mandol Ar Bari;25;115;40;1;1;4;1;1;1;4;3;3;4;2;1;1;1;2;1;31
+Faridpur;9;2400904006;12400904006;2 NO. Kuthibari;Rubir Bari Hoyte Kudduser Dokan;30;130;25;1;1;4;1;1;1;4;2;3;4;2;1;1;1;2;1;30
+Faridpur;9;2400904005;12400904005;2 NO. Kuthibari;Nurani Masjeder Uttor O Purbo Pash;25;100;35;1;1;4;1;1;1;4;3;4;4;2;1;1;1;2;1;32
+Faridpur;9;2400904007;12400904007;2 NO. Kuthibari;Firojar Bari Hoyte Babuler Bari;22;100;45;1;1;4;1;1;1;4;3;3;4;3;1;1;1;2;1;32
+Faridpur;9;2400904008;12400904008;2 NO. Kuthibari;Billaler Bari Hoyte Nibonjoner Bari;20;90;45;1;1;4;1;1;1;1;3;3;4;3;1;1;1;2;1;29
+Faridpur;9;2400904009;12400904009;2 NO. Kuthibari;Firoja Bari Hoyte Fariker Bari;50;210;60;1;1;4;1;1;1;4;3;3;4;3;1;1;1;2;1;32
+Faridpur;9;2400904010;12400904010;2 NO. Kuthibari;Khukuder Bari Thake Ponobir Bari;15;80;80;1;2;4;1;2;2;4;4;3;4;3;4;4;4;4;4;50
+Faridpur;9;2400905001;12400905001;2 NO. Kalibari Puratan;Polasher Bari Thake Minar Bari;15;50;50;2;1;4;1;1;1;4;3;3;4;2;1;1;1;2;1;32
+Faridpur;9;2400905002;12400905002;2 NO. Kalibari Puratan;Amader Bari Thake Shopon Ar Bari;25;116;100;2;1;4;1;3;2;4;4;3;4;3;4;4;4;4;4;51
+Faridpur;9;2400905003;12400905003;2 NO. Kalibari Puratan;Layaker Bari Thake Aloker Bari;70;285;60;1;1;4;1;1;1;4;3;3;4;3;3;1;3;2;1;36
+Faridpur;8;2400801005;12400801005;Model Town;Kuddus Fokir Ar Bari thake Biplob Ar Bari;25;110;20;1;1;4;1;1;2;3;3;3;3;4;1;1;2;2;3;35
+Faridpur;8;2400801001;12400801001;Model Town;Chan Moholer Bari Hoyte Masjeed Projonto;40;190;30;1;1;4;1;1;1;3;3;4;4;3;2;1;3;4;3;39
+Faridpur;8;2400801002;12400801002;Model Town;Kumar Nodir Uttor Par;60;250;25;1;1;4;1;1;1;4;4;2;4;2;4;1;4;4;4;42
+Faridpur;8;2400801003;12400801003;Model Town;Mumir Bari Thake Sajahaner Bari;35;180;25;1;1;3;1;1;1;2;3;3;4;2;1;1;2;2;3;31
+Faridpur;8;2400801012;12400801012;Model Town;Polash Jomidarer Bari hoyte Totar Bari;25;100;25;1;1;4;1;1;1;4;3;3;4;3;2;1;2;2;4;37
+Faridpur;8;2400801011;12400801011;Model Town;Mamad Shak Ar Bari Hoyte Monac Ar Bari;20;80;30;1;1;4;1;1;2;4;4;3;4;3;4;1;4;4;4;45
+Faridpur;8;2400801004;12400801004;Model Town;Gotam Ar Bari Thake Forider Bari;22;110;20;1;1;4;1;1;1;3;4;3;4;2;4;1;4;4;4;42
+Faridpur;8;2400801006;12400801006;Model Town;Masum Dorhi Ar Bari Hoyte Rubel Ar Bari;20;90;20;1;1;4;1;1;1;4;3;4;4;3;4;1;4;4;4;44
+Faridpur;8;2400801007;12400801007;Model Town;Mubader Bari Thake Ikabler Bari;22;85;15;1;1;4;1;1;1;4;4;3;4;3;4;1;4;4;4;44
+Faridpur;8;2400801010;12400801010;Model Town;Ajader Bari Hoyte Mijaner Bari;20;105;30;1;1;4;1;1;1;4;4;3;4;3;4;1;4;4;4;44
+Faridpur;8;2400801008;12400801008;Model Town;Forid Shak Ar Bari Thake Gul Jarer Bari;25;110;25;1;1;4;1;1;2;4;3;3;4;3;4;1;4;4;4;44
+Faridpur;8;2400801009;12400801009;Model Town;Khovir Dokan Hoyte Sukur Abere Bari;20;100;30;1;1;4;1;1;1;4;3;3;4;3;4;4;4;4;4;46
+Faridpur;8;2400802006;12400802006;Dhopa Bari Sarak;Joglur Bari Hoyte Mandir Projonto;25;115;100;1;1;4;3;2;2;4;4;3;4;3;4;1;4;4;4;48
+Faridpur;8;2400802005;12400802005;Dhopa Bari Sarak;Asraf Ar Bari Hoyte Mahaboroter Bari;20;85;40;1;1;4;1;2;2;4;3;3;4;4;4;1;4;4;4;46
+Faridpur;8;2400802004;12400802004;Dhopa Bari Sarak;Mithu Sorkarer Bari Hoyte Khora Forer Bari;25;105;50;2;1;4;1;1;2;4;4;3;4;3;4;1;4;4;4;46
+Faridpur;8;2400802003;12400802003;Dhopa Bari Sarak;Amuler Bari Hoyte Sujon Sujon Ki Tan Ar Bary;25;105;165;1;1;4;1;1;2;4;4;3;4;4;4;2;4;4;4;47
+Faridpur;8;2400802001;12400802001;Dhopa Bari Sarak;Mamuddain Ar Bari Sukumarer Bari;20;85;45;2;1;4;1;3;2;4;4;3;4;3;4;2;4;4;4;49
+Faridpur;8;2400802002;12400802002;Dhopa Bari Sarak;Topon Pal Ar Bari Hoyte Kali Par Bari;30;140;160;1;1;4;1;2;2;4;4;3;4;3;4;1;4;4;4;46
+Faridpur;8;2400803002;12400803002;Alauddin Sarak;Soyad Alir Elaka;15;60;110;3;1;4;4;4;3;4;3;4;4;3;4;4;4;4;4;57
+Faridpur;8;2400803003;12400803003;Alauddin Sarak;Selim Mollar Elaka;10;45;120;2;1;4;1;1;1;4;3;3;4;3;4;4;4;4;4;47
+Faridpur;8;2400803004;12400803004;Alauddin Sarak;Jolil Shhek Fawul Melar Para;25;110;150;1;1;4;1;1;1;1;3;3;4;3;4;3;4;4;4;42
+Faridpur;8;2400803005;12400803005;Alauddin Sarak;Akter Shak Ar Elaka;25;106;120;2;1;4;1;1;1;4;3;3;4;2;4;4;4;4;4;46
+Faridpur;8;2400803006;12400803006;Alauddin Sarak;Deloyar Hosener Elaka;25;102;150;4;4;4;1;1;2;4;3;3;4;3;4;3;4;4;4;52
+Faridpur;8;2400803007;12400803007;Alauddin Sarak;Kubor Alir Elaka;12;50;121;1;1;4;1;1;2;1;3;3;4;4;4;4;4;4;4;45
+Faridpur;8;2400803008;12400803008;Alauddin Sarak;Shakalir Pashe;15;65;120;4;4;4;1;1;2;3;3;3;4;3;4;2;4;4;4;50
+Faridpur;8;2400803010;12400803010;Alauddin Sarak;Mamud Store Ar Pashe;20;135;28;3;4;4;1;1;1;4;3;2;4;3;1;1;1;2;1;36
+Faridpur;8;2400803009;12400803009;Alauddin Sarak;Alek Shakher Elaka;25;108;120;4;4;4;1;1;1;4;3;3;4;3;4;2;4;4;4;50
+Faridpur;8;2400803001;12400803001;Alauddin Sarak;Aksar Uddain Ar Elaka;15;75;52;3;2;4;2;4;3;4;3;3;4;3;2;1;1;2;1;42
+Faridpur;8;2400804001;12400804001;Toki Molla Sarak;Aklimar Barir Uttor Pasher Elaka;30;106;36;1;1;4;1;1;1;4;2;2;4;1;1;2;1;2;4;32
+Faridpur;8;2400804002;12400804002;Toki Molla Sarak;Mintu Dekoretarer Uttor Pashe;25;110;150;1;1;3;1;1;1;2;3;2;4;2;2;2;1;2;2;30
+Faridpur;8;2400804003;12400804003;Toki Molla Sarak;Goni Shakher Bari Hoyte Toki Mollar Bari;25;105;40;2;1;4;1;1;2;3;3;3;4;3;4;4;4;4;4;47
+Faridpur;8;2400804004;12400804004;Toki Molla Sarak;Munafer Barir Uttor Pashe Jele Para;28;125;120;4;1;4;1;2;2;4;3;3;4;3;4;4;4;4;4;51
+Faridpur;8;2400804007;12400804007;Toki Molla Sarak;Motaleber Dokaner Pashe;25;105;125;4;3;4;1;1;1;4;3;2;4;2;1;3;4;4;4;45
+Faridpur;8;2400804005;12400804005;Toki Molla Sarak;Helaler Bari Hoyte Toki Molla Bari;25;95;122;1;1;4;1;1;1;1;3;2;4;3;4;4;4;4;4;42
+Faridpur;8;2400804006;12400804006;Toki Molla Sarak;Onik Mollar Barir Pasher Elaka;25;110;120;4;1;4;1;2;1;4;3;3;4;3;3;4;4;4;4;49
+Faridpur;8;2400804009;12400804009;Toki Molla Sarak;Jolil Ar Taper Dokan;25;105;22;4;1;4;1;1;1;4;3;2;4;1;1;1;1;2;1;32
+Faridpur;8;2400804008;12400804008;Toki Molla Sarak;Munnar Bari Hoyte Dorji Bari Projonto;24;105;120;1;1;4;1;1;1;1;3;2;4;1;4;2;4;4;4;38
+Faridpur;8;2400804010;12400804010;Toki Molla Sarak;Roshid Shekher Pasher Elaka;23;85;25;3;1;4;1;1;2;4;3;3;4;2;4;2;1;4;4;43
+Faridpur;8;2400805011;12400805011;Purbo Alipur;Soheder Bari Hoyte Bablar Bari;25;105;60;4;4;4;1;1;2;4;3;4;4;3;4;4;4;4;4;54
+Faridpur;8;2400805010;12400805010;Purbo Alipur;Bablar Bari Hoyte rawshaner Bari;25;110;65;4;2;4;1;1;3;4;4;4;4;4;4;1;4;4;4;52
+Faridpur;8;2400805009;12400805009;Purbo Alipur;Piyarder Bari Hoyte Devit Khaner Bari;25;110;50;4;4;4;1;3;3;4;3;4;2;4;4;2;4;4;4;54
+Faridpur;8;2400805008;12400805008;Purbo Alipur;Monsur Ar Bari Hoyte Rokoner Bari;30;125;60;4;4;4;1;1;2;4;3;4;2;4;4;1;4;4;4;50
+Faridpur;8;2400805001;12400805001;Purbo Alipur;Jantu Shak Ar Bari Hoyte Kalam Mistry Ar Bai;110;475;50;1;1;3;1;1;1;1;3;3;4;2;1;1;1;2;1;27
+Faridpur;8;2400805002;12400805002;Purbo Alipur;Usuf Khaner Bari Hoyte Kalamer Bari;40;210;30;4;4;4;1;2;3;3;3;3;4;3;4;1;4;4;4;51
+Faridpur;8;2400805003;12400805003;Purbo Alipur;Lotefer Mir Bari Hoyte Joliler Bari;25;120;50;1;1;3;1;3;1;1;3;3;4;3;4;1;4;4;4;41
+Faridpur;8;2400805007;12400805007;Purbo Alipur;Sattar Fokir Ar Bari Hoyte ijrul Ar Bari;20;92;30;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Faridpur;8;2400805004;12400805004;Purbo Alipur;Shajahan Shekher Bari Hoyte Lotefer Bari;20;90;105;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Faridpur;8;2400805005;12400805005;Purbo Alipur;Abdul Rahman Ar Bari Hoyte Kholil Ar Bari;15;63;25;1;2;4;2;1;2;1;3;3;4;3;1;1;1;1;1;31
+Faridpur;8;2400805006;12400805006;Purbo Alipur;Rofik Shakher Bari Hoyte Jolil Mollar Bari;18;105;40;4;1;4;1;1;1;2;3;3;4;3;1;1;1;1;1;32
+Faridpur;8;2400806003;12400806003;Moddo Alipur;Amjad Khan Ar Bari Hoyte Sohbaber Bari;20;85;60;4;4;4;1;4;3;4;3;4;4;3;4;1;4;4;2;53
+Faridpur;8;2400806002;12400806002;Moddo Alipur;Shah Alomer Bari Hoyte Joliler Bari;40;175;70;4;4;4;1;4;3;4;4;4;4;3;4;1;4;4;4;56
+Faridpur;8;2400806001;12400806001;Moddo Alipur;Sonkor Kumarer Bari Hoyte Mijur Bari;50;240;25;3;1;4;1;1;1;1;4;3;4;3;1;1;1;1;1;31
+Faridpur;8;2400806007;12400806007;Moddo Alipur;Umor Alir Bari Hoyte Selimer Bari;50;220;25;1;1;4;1;2;1;3;4;4;4;3;4;1;4;4;4;45
+Faridpur;8;2400806009;12400806009;Moddo Alipur;Abul Khayarer Bari Hoyte Rajjaker Bari;160;650;40;4;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;44
+Faridpur;8;2400806008;12400806008;Moddo Alipur;Shefalir Bari Hoyte Chan Miyar Bari;25;85;35;4;1;4;1;1;1;1;4;3;4;3;1;1;1;1;1;32
+Faridpur;8;2400806010;12400806010;Moddo Alipur;Jakirer Bari Hoyte Fariker Bari;20;85;26;4;4;4;1;1;1;1;3;3;4;3;4;4;4;4;4;49
+Faridpur;8;2400806011;12400806011;Moddo Alipur;Unus Ar Bari Hoyte Mannaner Bari Projonto;30;125;40;1;1;4;1;2;1;2;4;4;4;2;4;4;4;4;4;46
+Faridpur;8;2400806012;12400806012;Moddo Alipur;Selim Ar Bari;35;150;60;1;1;4;1;1;1;4;3;4;4;3;4;1;4;4;4;44
+Faridpur;8;2400806013;12400806013;Moddo Alipur;Akkaser Bari Hoyte Nur Comisonrer Bari;100;450;60;4;4;4;1;4;2;4;4;4;4;4;4;1;4;4;4;56
+Faridpur;8;2400806014;12400806014;Moddo Alipur;Rofiker Bari Hoyte Alauddain Ar Bari;38;158;50;4;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;45
+Faridpur;8;2400806005;12400806005;Moddo Alipur;Polash Ar Bari Hoyte Kholelder Bari;30;140;50;4;1;4;1;1;1;4;4;4;4;3;4;4;4;4;2;49
+Faridpur;8;2400806004;12400806004;Moddo Alipur;Rofik Ar Bari Hoyte Pokiler Bari;30;125;60;4;1;4;1;1;1;4;3;3;4;3;4;1;4;4;4;46
+Faridpur;8;2400806006;12400806006;Moddo Alipur;Bulu x Firojar Bari Hoyte Jahangirer Bari;50;225;80;4;4;4;1;1;1;4;4;3;4;3;4;1;4;4;4;50
+Faridpur;7;2400701003;12400701003;Dakkhin Alipur;Pakistan Para;55;235;80;3;2;4;3;3;2;4;4;3;4;2;4;1;4;4;4;51
+Faridpur;7;2400701004;12400701004;Dakkhin Alipur;Pakistan Para Nodir Par;15;65;40;4;1;4;1;2;2;2;2;3;4;2;1;1;2;2;1;34
+Faridpur;7;2400701005;12400701005;Dakkhin Alipur;Pura Bostee/ Lohar Goli Alaka;66;275;40;1;1;4;1;2;2;2;2;3;4;2;1;1;2;2;2;32
+Faridpur;7;2400701006;12400701006;Dakkhin Alipur;Golam Faruker Goli;30;126;80;2;2;4;3;2;1;4;3;3;4;2;4;1;4;4;4;47
+Faridpur;7;2400701002;12400701002;Dakkhin Alipur;Kobor Esthan Ar Dokhon O Purbo Pasher Elaka;30;125;100;2;3;4;3;3;2;4;3;3;4;3;4;1;4;4;4;51
+Faridpur;7;2400701001;12400701001;Dakkhin Alipur;Bandob Polli;100;450;80;3;2;4;2;4;3;3;2;3;4;3;3;1;2;3;2;44
+Faridpur;7;2400702002;12400702002;Moddo Alipur;Kanaysor Kar Mor Dokhin Elaka;35;150;100;3;2;4;2;2;2;3;4;3;4;3;4;4;4;4;4;52
+Faridpur;7;2400702001;12400702001;Moddo Alipur;Ali Purbo Morer Pasher Alaka;30;135;100;3;3;4;3;3;3;2;3;3;4;2;4;4;4;4;4;53
+Faridpur;7;2400703005;12400703005;Uttor Alipur 1;Deka Jomeyar Elaka;40;185;150;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Faridpur;7;2400703004;12400703004;Uttor Alipur 1;Rail Colony;40;170;20;1;1;4;1;1;1;1;3;3;4;2;1;1;2;2;1;29
+Faridpur;7;2400703003;12400703003;Uttor Alipur 1;Godur Sheker Bari Elaka;20;86;25;1;1;4;1;1;3;1;3;3;4;2;4;1;4;4;4;41
+Faridpur;7;2400703002;12400703002;Uttor Alipur 1;Jamaler Bari Poschim Alaka;26;110;150;1;1;4;1;1;2;1;3;3;4;3;4;1;4;4;4;41
+Faridpur;7;2400703006;12400703006;Uttor Alipur 1;Rail Colony-2;45;205;28;1;1;4;1;1;1;1;3;3;4;4;1;1;2;2;1;31
+Faridpur;7;2400703007;12400703007;Uttor Alipur 1;Officer Member Rer elaka;50;225;150;2;1;4;1;1;2;2;3;3;4;3;4;1;4;4;4;43
+Faridpur;7;2400703008;12400703008;Uttor Alipur 1;Kobi Josim Uddain Sarak;45;210;150;1;1;4;1;1;2;2;3;3;4;3;4;1;4;4;4;42
+Faridpur;7;2400703001;12400703001;Uttor Alipur 1;Daut Khar Para;40;206;150;1;1;4;1;1;2;3;3;3;4;3;4;1;4;4;4;43
+Faridpur;7;2400704007;12400704007;Pacchim Alipur 1;Akur Barir Dokhin Pasher Elaka;40;195;100;3;1;4;1;3;2;2;3;3;4;3;4;1;4;4;4;46
+Faridpur;7;2400704006;12400704006;Pacchim Alipur 1;Hemur Barir Purbo Pasher Alaka;36;150;100;2;1;4;1;3;2;2;3;3;4;3;4;1;4;4;4;45
+Faridpur;7;2400704003;12400704003;Pacchim Alipur 1;Khato Govainer Uttor Pasher Bostee;12;50;20;4;4;4;1;1;1;3;2;3;4;3;1;1;1;4;4;41
+Faridpur;7;2400704005;12400704005;Pacchim Alipur 1;Joj Saheber Barir Dokhin Pashe;20;86;70;2;1;4;3;2;3;3;3;3;4;3;4;1;4;4;4;48
+Faridpur;7;2400704004;12400704004;Pacchim Alipur 1;Mithu Miyar Barir Alaka;50;225;40;4;3;4;1;3;2;3;3;3;4;3;4;2;4;4;4;51
+Faridpur;7;2400704002;12400704002;Pacchim Alipur 1;Sajra Masjeed Ar Uttor Pashe;50;225;150;4;4;4;1;2;2;3;3;3;4;3;4;2;4;4;4;51
+Faridpur;7;2400704001;12400704001;Pacchim Alipur 1;Sahajahan Hajir Elaka;40;205;120;3;3;4;3;3;2;3;3;3;4;3;4;1;4;4;4;51
+Faridpur;7;2400705001;12400705001;Gobindapur;Kheyaghat Bridge Ar Niche;20;60;80;1;1;4;1;1;1;4;3;1;2;2;1;1;1;1;1;26
+Faridpur;7;2400705002;12400705002;Gobindapur;Aynal Sokhor Bari;60;285;45;1;1;4;1;1;2;4;3;3;4;3;3;1;2;2;1;36
+Faridpur;7;2400705003;12400705003;Gobindapur;Dhulde Govindopur Uttor;20;85;100;1;1;4;1;1;1;4;3;2;4;3;4;4;4;4;4;45
+Faridpur;7;2400705004;12400705004;Gobindapur;Dhulde Govindopur Dokhin;50;210;150;1;1;4;1;1;4;4;3;1;3;2;4;1;4;4;4;42
+Faridpur;7;2400705005;12400705005;Gobindapur;Dhulde Govindopur Kheyaghat Poschim;60;220;80;1;1;4;1;1;1;4;3;2;4;3;4;4;4;4;4;45
+Faridpur;7;2400705006;12400705006;Gobindapur;Beshas Bari;30;126;45;1;1;4;1;2;4;4;4;4;3;3;4;4;4;4;4;51
+Faridpur;7;2400705007;12400705007;Gobindapur;Sujon Bariyar Ghaater Pashe;40;180;60;1;1;4;1;3;4;4;3;1;2;3;4;1;1;1;1;35
+Faridpur;7;2400706001;12400706001;Uttor Alipur 2;Advocat Johed Bepary;10;40;35;4;1;4;1;1;3;1;3;1;2;3;1;1;1;1;4;32
+Faridpur;7;2400706002;12400706002;Uttor Alipur 2;Nuru Sikdar Bari;10;42;70;4;4;4;1;4;4;4;4;3;3;4;4;2;4;4;4;57
+Faridpur;7;2400706003;12400706003;Uttor Alipur 2;Sapla Masjeed Uttor Pashe;60;260;200;4;4;4;2;1;4;4;4;3;4;4;4;3;4;4;4;57
+Faridpur;7;2400706004;12400706004;Uttor Alipur 2;9-10 Godawn Ar Road Pichon Side;20;80;150;4;4;4;1;1;2;4;4;4;3;4;4;4;4;4;4;55
+Faridpur;7;2400706005;12400706005;Uttor Alipur 2;Kanai Matubbor Ar Mor;18;45;100;4;4;4;3;2;3;4;4;4;4;4;4;1;4;4;4;57
+Faridpur;7;2400706006;12400706006;Uttor Alipur 2;National Ideal School Mor;22;70;80;4;4;4;3;1;3;4;4;4;3;4;4;4;4;4;4;58
+Faridpur;7;2400706007;12400706007;Uttor Alipur 2;Locman Contacter Ar Bari;20;82;120;4;4;4;1;1;3;4;3;2;2;4;4;4;4;4;4;52
+Faridpur;7;2400707004;12400707004;Pacchim Alipur 2;Omol Gosher Barir Pasher Elaka;75;350;150;3;1;4;1;3;2;2;3;3;4;3;4;2;4;4;4;47
+Faridpur;7;2400707005;12400707005;Pacchim Alipur 2;Motaharer Barir Elaka;55;250;100;2;1;4;1;2;2;3;3;3;4;3;4;2;4;4;4;46
+Faridpur;7;2400707006;12400707006;Pacchim Alipur 2;Hasemer Barir Pasher Uttor Elaka;60;280;120;3;1;4;1;3;2;3;3;3;4;3;4;2;4;4;4;48
+Faridpur;7;2400707002;12400707002;Pacchim Alipur 2;Torun Songo Mandir;55;180;100;4;1;4;1;1;2;4;2;1;4;4;1;3;4;4;4;44
+Faridpur;7;2400707003;12400707003;Pacchim Alipur 2;Madrasha Sonlogno;65;270;200;4;1;4;1;1;3;4;3;3;3;4;4;3;4;4;4;50
+Faridpur;7;2400707001;12400707001;Pacchim Alipur 2;Eyasin Molla Mor Elaka;20;60;70;4;1;4;1;1;2;4;3;1;2;4;4;2;4;4;4;45
+Faridpur;6;2400601008;12400601008;Gopalpur 1;Golappur Piyara Miyar Masjeed Ar Uttor Pashe Harurn Ar Bari;7;28;70;4;4;4;3;4;4;4;1;4;4;4;4;3;4;4;4;59
+Faridpur;6;2400601006;12400601006;Gopalpur 1;Golappur Sowdi Masjeed Sonlogno Alir Bari;5;20;22;1;4;4;1;1;3;4;4;4;4;4;4;3;4;4;4;53
+Faridpur;6;2400601007;12400601007;Gopalpur 1;Golappur Sanu Masuder Bari;10;42;35;1;1;4;1;1;4;4;4;4;4;4;4;3;4;4;4;51
+Faridpur;6;2400601004;12400601004;Gopalpur 1;Golappur Sowdi Masjeed Ar Uttor Pashe Mostofa Bari;6;27;30;1;1;4;4;1;1;4;4;3;4;3;4;1;4;4;4;47
+Faridpur;6;2400601003;12400601003;Gopalpur 1;Golappur Sowdi Masjeed Ar Uttor Pashe Gofur Molliker Bari;6;27;20;1;1;4;3;1;2;4;4;3;4;4;4;2;4;4;4;49
+Faridpur;6;2400601005;12400601005;Gopalpur 1;Golappur Sowdi Masjeed Ar Dokhin Pashe Fotiker Bari;15;67;40;1;1;4;1;1;1;4;4;3;4;3;4;1;4;4;4;44
+Faridpur;6;2400601001;12400601001;Gopalpur 1;Golappur Bindhu Para Sokalir Bari;34;173;80;1;1;4;3;1;1;4;1;2;4;4;4;3;4;4;4;45
+Faridpur;6;2400601002;12400601002;Gopalpur 1;Golappur Baburche Para Siddiker Bari;20;80;100;2;1;4;1;1;1;3;4;4;2;4;4;2;4;4;4;45
+Faridpur;6;2400602009;12400602009;Uttar Tepakhola;Raniya para Sarak Bridhaboner Morer Uttor Pashe (Roguder Bari);12;55;90;2;1;4;1;3;3;4;4;3;4;3;4;2;4;4;4;50
+Faridpur;6;2400602006;12400602006;Uttar Tepakhola;Sahajalal Sarak Uttor Maji Para Bridhaboner Mor;30;175;90;1;1;4;1;2;2;4;4;3;4;3;3;2;4;4;4;46
+Faridpur;6;2400602007;12400602007;Uttar Tepakhola;Sahajalal Sarak Uttor Maji Para Bridhaboner Mor (Oruper Bari);40;250;90;1;1;4;1;1;2;4;4;1;4;3;3;2;4;4;4;43
+Faridpur;6;2400602008;12400602008;Uttar Tepakhola;Kobiraj Bari Sarak Sahapara(Romjander Bari);10;55;90;2;1;4;1;1;3;4;4;3;4;3;4;2;4;4;4;48
+Faridpur;6;2400602003;12400602003;Uttar Tepakhola;Uttor Bepari Para Munshi Bari Sarak;50;300;60;1;1;4;1;1;2;4;4;2;4;3;4;2;4;4;4;45
+Faridpur;6;2400602004;12400602004;Uttar Tepakhola;Dokhin Bepary Para Munshi Bari Sarak;30;180;60;1;1;4;1;1;2;4;4;2;4;3;4;2;4;4;4;45
+Faridpur;6;2400602005;12400602005;Uttar Tepakhola;Dokhin Tepu Khola Shiri Ghater Poschim Pashe;8;45;35;1;1;4;1;1;3;4;4;4;4;3;4;3;4;4;4;49
+Faridpur;6;2400602002;12400602002;Uttar Tepakhola;Munshi Barir Uttor Dik thake Sorot Saha Bari Projonto;14;75;30;1;1;4;1;2;3;4;4;4;4;3;4;3;4;4;4;50
+Faridpur;6;2400602001;12400602001;Uttar Tepakhola;Tepakhola Munser Bari Nirob Ridoy Ar Storer Poshim Pashe (Tipuder Bari);13;59;30;1;1;4;1;3;4;4;4;4;4;3;4;2;4;4;4;51
+Faridpur;6;2400603002;12400603002;Dakkin Tepakhola;Rojob Ali Beshas Sarak Dokhin Tepakhola;20;120;75;2;1;4;1;1;4;4;4;4;4;2;4;4;4;4;4;51
+Faridpur;6;2400603003;12400603003;Dakkin Tepakhola;Dokhin Tepakhola Beshaspara ( Shil Para);50;225;105;1;1;4;1;1;3;4;4;4;4;2;3;2;4;4;4;46
+Faridpur;6;2400603004;12400603004;Dakkin Tepakhola;Dokhin Tepukhola, Tibir Morer Poschim Pashe;10;60;105;1;1;4;1;1;4;4;4;3;4;3;4;4;4;4;4;50
+Faridpur;6;2400603005;12400603005;Dakkin Tepakhola;TB Hospital Ar Mor (Math Sonlogno);25;150;40;1;1;4;1;1;4;4;4;3;4;2;4;2;4;4;4;47
+Faridpur;6;2400603006;12400603006;Dakkin Tepakhola;okhin Tepukhola Kaji Bari (Mather Poschim Pashe);55;250;45;1;1;4;1;1;3;4;4;3;4;3;4;3;4;4;4;48
+Faridpur;6;2400603001;12400603001;Dakkin Tepakhola;Dhopabari Horisova;35;160;180;1;1;4;1;3;3;4;4;3;4;3;4;2;4;4;4;49
+Faridpur;6;2400603007;12400603007;Dakkin Tepakhola;Dokhin Tepukhola Manderer Uttor Pashe;15;100;40;1;1;4;1;1;4;4;4;3;4;3;4;3;4;4;4;49
+Faridpur;6;2400604001;12400604001;Mollapara and Biswas Para;Kathor Para Bostee, Rongdhonu School;125;563;40;1;1;4;1;1;2;4;4;3;4;3;2;1;3;3;1;38
+Faridpur;6;2400604002;12400604002;Mollapara and Biswas Para;Dokhin TipuKhola Beshaspara;8;50;100;1;1;4;1;1;2;4;4;4;4;3;4;2;4;4;4;47
+Faridpur;6;2400604003;12400604003;Mollapara and Biswas Para;Beshaspara, Rojob Ali Sarak;25;150;75;2;1;4;1;1;4;4;4;4;4;2;4;4;4;4;4;51
+Faridpur;5;2400501005;12400501005;Motahar Hossen Sarak Elaka;Rail Lainer Poschim Pashe Mojiner Bari;15;67;50;1;1;4;1;1;2;2;4;4;4;3;4;2;4;4;4;45
+Faridpur;5;2400501004;12400501004;Motahar Hossen Sarak Elaka;Rail Lainer Poschim Pashe Monu Bepary;30;130;60;1;1;4;1;1;2;4;4;3;4;3;4;2;4;4;4;46
+Faridpur;5;2400501006;12400501006;Motahar Hossen Sarak Elaka;Rail Lain Mor Dokhin Pashe Kawsar Mridhar Bari;180;810;16;1;1;2;1;1;1;1;3;2;4;2;4;1;4;2;1;31
+Faridpur;5;2400501001;12400501001;Motahar Hossen Sarak Elaka;Baytul Aman Bazar Shekh Sekandarer Bari;15;67;40;4;2;4;1;1;3;1;4;4;4;3;4;1;4;4;4;48
+Faridpur;5;2400501002;12400501002;Motahar Hossen Sarak Elaka;Baytul Aman Bazar Purbo Deke Osman Fokirer Bari;5;22;40;1;2;4;1;1;1;4;4;4;4;3;4;2;4;4;4;47
+Faridpur;5;2400501003;12400501003;Motahar Hossen Sarak Elaka;Baytul Aman Bazar Purbo Deke Shekh Wahaber Bari;5;22;25;1;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;45
+Faridpur;5;2400502008;12400502008;Char Kamalapur;Chamiri Fayari Ar Pichona Nijam Mollik Ar Bari;15;68;15;1;4;4;1;1;1;1;4;4;4;2;4;2;4;1;1;39
+Faridpur;5;2400502006;12400502006;Char Kamalapur;Komolapur Ram Krishno Mission Ar Purbo Pash Kuddus Miyar Barir Pashe;15;68;15;1;1;4;1;2;2;4;4;3;4;3;4;2;4;4;4;47
+Faridpur;5;2400502007;12400502007;Char Kamalapur;Komolapur Ram Krishno Mission Ar Purbo pash Polasher Bari;15;67;10;1;4;4;1;2;2;1;4;4;4;3;2;2;4;1;1;40
+Faridpur;5;2400502003;12400502003;Char Kamalapur;Chor Komolapur Madrasha Uttor Pash;60;270;30;1;4;4;1;1;4;1;4;4;4;4;4;3;4;4;4;51
+Faridpur;5;2400502005;12400502005;Char Kamalapur;Chor Komolapur Madrasha Nantu Khar Barir Poschim Pash Wahaber Bari;50;225;60;1;4;4;1;1;1;1;4;3;4;3;4;1;4;4;4;44
+Faridpur;5;2400502002;12400502002;Char Kamalapur;Chor Komolapur Puroton Masjeed;12;54;20;1;4;4;1;1;4;1;4;4;4;4;4;3;4;4;4;51
+Faridpur;5;2400502001;12400502001;Char Kamalapur;Chor Komolapur Sorkari Prathomik Bedhaloy;8;36;5;1;4;4;1;1;4;1;4;4;4;4;4;4;4;1;1;46
+Faridpur;5;2400502004;12400502004;Char Kamalapur;Chor Komolapur Sorkari Prathomik Bedhaly (Purbo Pash);6;27;8;1;3;4;1;1;1;1;4;3;4;3;3;1;4;1;1;36
+Faridpur;5;2400503006;12400503006;Kazi Motahar Hossen Sarak Uttor;Matiya Koboesthan Rail Lain Dokhin Dek (Obosor Prapto Mannan Shek Ar Bari);40;180;30;1;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;39
+Faridpur;5;2400503007;12400503007;Kazi Motahar Hossen Sarak Uttor;Matiya Koboesthan Rail Lain Dokhin Dek (Khokon Miyar Bari Sonlogno);18;85;50;2;2;4;1;1;3;1;4;4;4;3;4;2;4;4;4;47
+Faridpur;5;2400503010;12400503010;Kazi Motahar Hossen Sarak Uttor;Laler Mor Politeknical Road Bishas Bari Sarak;18;80;70;1;2;4;1;1;2;4;4;4;4;3;4;2;4;4;4;48
+Faridpur;5;2400503001;12400503001;Kazi Motahar Hossen Sarak Uttor;Baitul Aman rail Lain Sonlogno rajjak sek Ar Bari;17;80;16;1;1;4;1;1;1;1;4;3;4;3;4;1;3;2;1;35
+Faridpur;5;2400503002;12400503002;Kazi Motahar Hossen Sarak Uttor;Baitul Aman rail Lain Sonlogno rajjak sek Ar Bari-2;20;90;16;1;1;4;1;1;1;1;4;3;4;3;4;1;4;2;1;36
+Faridpur;5;2400503003;12400503003;Kazi Motahar Hossen Sarak Uttor;Baitul Aman rail Lain Station Bazar Sonlogno;50;225;16;1;1;4;1;1;1;1;4;3;4;3;4;1;3;2;1;35
+Faridpur;5;2400503004;12400503004;Kazi Motahar Hossen Sarak Uttor;Baitul Aman rail Lain Station Bazar Sonlogno-2;60;270;16;1;1;3;1;1;1;1;4;3;4;3;4;1;4;2;3;37
+Faridpur;5;2400503005;12400503005;Kazi Motahar Hossen Sarak Uttor;Baitul Aman rail Lain Station Bazar Sonlogno-3;50;225;16;1;1;3;1;1;1;1;4;3;4;3;4;1;4;2;3;37
+Faridpur;5;2400503008;12400503008;Kazi Motahar Hossen Sarak Uttor;Komolapur Molla Bari Bridge Sonlogno;7;35;10;4;2;4;1;3;3;4;4;4;4;4;4;2;4;4;4;55
+Faridpur;5;2400503009;12400503009;Kazi Motahar Hossen Sarak Uttor;Laler Mor Masjeed Sonlogno;15;70;50;1;1;4;1;2;2;1;4;4;4;4;4;2;4;4;4;46
+Faridpur;5;2400504002;12400504002;Kuti Bari Kamalapur;Chan Chairman Barir Shamne;6;30;60;4;1;4;1;3;4;4;4;4;4;3;4;3;4;4;4;55
+Faridpur;5;2400504001;12400504001;Kuti Bari Kamalapur;Chan Chairman Pukur Par;5;25;30;4;1;4;1;4;4;4;4;4;4;3;4;2;3;4;4;54
+Faridpur;5;2400504010;12400504010;Kuti Bari Kamalapur;Matiya Koboesthan Rasta Sonlogno Paylot Bari;5;32;25;1;2;4;1;1;2;4;4;4;4;3;4;2;4;4;4;48
+Faridpur;5;2400504008;12400504008;Kuti Bari Kamalapur;Uttor Komolapur Jahangir Mollar Bari;10;45;40;4;4;4;3;3;2;4;4;3;4;3;4;2;4;4;4;56
+Faridpur;5;2400504009;12400504009;Kuti Bari Kamalapur;Uttor Komolapur Abdul Jolil Miyar Bari;7;35;10;2;1;4;1;1;4;1;4;4;4;4;4;2;4;4;4;48
+Faridpur;5;2400504007;12400504007;Kuti Bari Kamalapur;Halima Girls Schools road;10;45;80;4;1;4;1;3;4;4;4;4;4;4;4;2;4;4;4;55
+Faridpur;5;2400504006;12400504006;Kuti Bari Kamalapur;Uttor Komolapur Jame Masjeed Ar Shamne;20;90;80;4;2;4;2;2;4;4;4;4;4;3;4;3;4;4;3;55
+Faridpur;5;2400504005;12400504005;Kuti Bari Kamalapur;Uttor Komolapur Hamid Miya Sarak;13;50;50;4;3;4;2;1;4;3;4;4;4;4;4;3;4;4;4;56
+Faridpur;5;2400504004;12400504004;Kuti Bari Kamalapur;Uttor Komolapur Mowloby Bari;5;25;50;1;1;4;2;4;4;4;4;3;4;3;4;2;4;4;4;52
+Faridpur;5;2400504003;12400504003;Kuti Bari Kamalapur;Ki Paylam Farniture Ar Dokan Ar Shamne Labuder Bari;35;160;20;1;1;4;3;1;3;1;4;3;4;1;3;2;4;4;4;43
+Faridpur;4;2400401001;12400401001;Jheel Tuli Elaka (Uttor);Mojnu Miya Bari;8;35;100;3;1;4;3;3;2;3;3;3;4;3;3;2;4;4;4;49
+Faridpur;4;2400401002;12400401002;Jheel Tuli Elaka (Uttor);Khosh Bari;10;56;100;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Faridpur;4;2400401004;12400401004;Jheel Tuli Elaka (Uttor);Chorangir Mor Masjeed Ar Pashe;20;90;100;1;1;4;2;1;2;3;3;3;4;2;3;2;4;4;4;43
+Faridpur;4;2400401005;12400401005;Jheel Tuli Elaka (Uttor);Uttor Kali Bari Road;25;130;100;1;1;4;1;3;3;1;3;3;4;2;4;2;4;4;4;44
+Faridpur;4;2400401003;12400401003;Jheel Tuli Elaka (Uttor);Sisu Hospital Ar Piche;50;235;50;1;1;4;1;2;2;1;3;3;4;2;3;2;4;4;4;41
+Faridpur;4;2400402001;12400402001;Jheel Tuli Elaka (Moddo);Morden School Sonlogno;40;200;40;3;2;4;2;2;2;2;3;3;4;2;1;2;2;1;4;39
+Faridpur;4;2400403003;12400403003;Thanar Mor  Elaka;Am Tola;40;190;50;1;1;4;1;1;1;1;3;3;4;2;1;1;2;1;1;28
+Faridpur;4;2400403004;12400403004;Thanar Mor  Elaka;Vangari Potti;110;500;50;3;3;4;3;3;3;3;3;3;4;3;3;2;4;4;4;52
+Faridpur;4;2400403002;12400403002;Thanar Mor  Elaka;Ramkunj Manderer Piche;8;38;100;2;2;4;1;1;3;4;4;3;4;3;3;2;4;4;4;48
+Faridpur;4;2400403001;12400403001;Thanar Mor  Elaka;Ukil Para;28;140;70;2;1;4;1;1;2;3;3;3;4;2;3;2;4;4;4;43
+Faridpur;4;2400403005;12400403005;Thanar Mor  Elaka;Jiltuli Burir Bari;10;45;100;3;2;4;2;2;3;3;3;3;4;3;1;2;2;1;4;42
+Faridpur;4;2400404004;12400404004;Shantibagh;Chokhu Hospital;15;65;100;3;2;4;1;2;2;1;3;3;4;3;3;2;4;4;4;45
+Faridpur;4;2400404005;12400404005;Shantibagh;Chokhu Hospital-2;12;50;15;2;2;4;2;1;2;2;2;3;4;3;2;2;2;4;4;41
+Faridpur;4;2400404006;12400404006;Shantibagh;Bune Potti;70;350;100;1;1;4;1;1;1;1;2;3;4;2;4;1;4;4;4;38
+Faridpur;4;2400404003;12400404003;Shantibagh;Purbo Khabaspur Lonch Ghat;30;150;100;4;2;4;4;1;2;3;2;3;4;2;4;2;4;4;4;49
+Faridpur;4;2400404002;12400404002;Shantibagh;Lonch Ghat Masjeed;17;72;100;2;2;4;3;2;2;3;3;3;4;2;3;2;4;4;4;47
+Faridpur;4;2400404001;12400404001;Shantibagh;Moja Membarer Bari;12;52;40;2;2;4;4;1;2;2;3;3;4;2;1;1;1;1;1;34
+Faridpur;4;2400404010;12400404010;Shantibagh;Purbo Khabaspur Golamer Mar Bosoty;65;290;65;2;1;4;1;1;2;1;3;3;4;2;2;1;2;1;1;31
+Faridpur;4;2400404011;12400404011;Shantibagh;Purbo Khabarspur Fes Matha (Bonik Para);150;675;100;1;1;4;1;1;2;3;3;2;4;1;4;2;3;2;2;36
+Faridpur;4;2400404008;12400404008;Shantibagh;Taltola Math;20;90;50;4;4;4;3;3;2;3;3;3;4;3;4;4;4;4;4;56
+Faridpur;4;2400404009;12400404009;Shantibagh;Taltola Math-2;20;90;50;4;4;4;3;3;3;3;3;3;4;3;3;3;4;4;4;55
+Faridpur;4;2400404007;12400404007;Shantibagh;Shantibag;40;180;100;2;3;4;2;1;2;2;3;3;4;2;4;2;4;4;4;46
+Faridpur;4;2400405001;12400405001;Jheel Tuli Elaka (Dakkin);Boroitola Mor;10;47;50;1;1;4;2;3;2;3;3;3;4;2;4;2;4;4;4;46
+Faridpur;4;2400405002;12400405002;Jheel Tuli Elaka (Dakkin);Mohela Collage Ar Road;8;35;50;1;1;4;1;1;1;1;2;3;4;3;4;2;4;4;4;40
+Faridpur;4;2400405004;12400405004;Jheel Tuli Elaka (Dakkin);Hotefe School Ar Piche;20;95;100;3;1;4;2;2;2;2;3;3;4;1;3;2;4;4;4;44
+Faridpur;4;2400405003;12400405003;Jheel Tuli Elaka (Dakkin);Shantibag Masjeed;8;38;45;3;1;4;3;3;3;3;3;4;4;2;3;2;3;4;4;49
+Faridpur;4;2400405005;12400405005;Jheel Tuli Elaka (Dakkin);Wajuddain Delear Ar Bari;40;180;100;2;1;4;2;2;3;2;3;3;4;3;3;2;4;4;4;46
+Faridpur;4;2400406004;12400406004;Eidgah Mohalla;Purbo Khabas Pur Matur Pukur;30;140;50;1;1;4;3;4;2;2;3;3;4;1;3;2;4;4;4;45
+Faridpur;4;2400406005;12400406005;Eidgah Mohalla;Emambag Masjeed Road;20;100;45;2;1;4;2;3;2;3;3;3;4;3;3;2;4;4;4;47
+Faridpur;4;2400406001;12400406001;Eidgah Mohalla;Faruk Miyar Bari;30;140;20;3;1;4;2;1;2;1;3;3;4;2;1;2;1;1;1;32
+Faridpur;4;2400406002;12400406002;Eidgah Mohalla;Purbo Khabas Pur Ses Matha;25;100;100;1;1;4;1;1;1;1;4;3;4;1;4;2;4;4;4;40
+Faridpur;4;2400406006;12400406006;Eidgah Mohalla;Burir Barir Math;15;70;35;3;1;4;2;2;2;1;3;3;4;1;3;2;4;4;4;43
+Faridpur;4;2400406003;12400406003;Eidgah Mohalla;Purbo Khabarspur Eid Gha Math;25;115;45;1;1;4;2;1;1;2;3;3;4;2;4;2;4;4;4;42
+Faridpur;4;2400407005;12400407005;Char Kamalapur;Jilani Masjeed-4;40;180;100;1;1;4;2;2;2;2;3;3;4;3;3;2;4;4;4;44
+Faridpur;4;2400407004;12400407004;Char Kamalapur;Jilani Masjeed-3;16;80;50;2;1;4;2;2;2;3;3;3;4;3;3;2;4;4;4;46
+Faridpur;4;2400407003;12400407003;Char Kamalapur;Jilani Masjeed-2;15;70;100;2;1;4;3;1;2;2;3;3;4;3;4;2;4;4;4;46
+Faridpur;4;2400407002;12400407002;Char Kamalapur;Jilani Masjeed;10;45;30;1;2;4;1;2;2;1;2;3;4;3;3;2;2;4;4;40
+Faridpur;4;2400407006;12400407006;Char Kamalapur;Asad Member Ar Bari Sonlogno;30;150;100;2;1;4;2;1;2;2;3;3;4;3;3;2;4;4;4;44
+Faridpur;4;2400407001;12400407001;Char Kamalapur;Chairman Bari Sarak;30;160;50;3;3;4;2;2;2;3;3;3;4;3;3;2;2;4;4;47
+Faridpur;3;2400301007;12400301007;Molla Bari Sarak;Char Ghata Masjeed Ar Uttor Pashe;9;38;20;3;2;4;1;1;2;1;4;2;4;3;4;1;4;4;4;44
+Faridpur;3;2400301006;12400301006;Molla Bari Sarak;Char Ghata;13;36;18;3;2;4;1;1;1;2;4;2;4;3;4;1;4;4;4;44
+Faridpur;3;2400301005;12400301005;Molla Bari Sarak;Dokhin Gowal Chomot;6;24;6;4;1;4;1;1;2;4;4;2;4;3;1;1;3;1;2;38
+Faridpur;3;2400301004;12400301004;Molla Bari Sarak;Dokhin Kande, GoyalChomot;5;25;27;4;4;4;1;4;4;4;4;3;4;3;4;1;4;4;4;56
+Faridpur;3;2400301003;12400301003;Molla Bari Sarak;Dokhin Goyal Chamot Jame Masjeed Ar Age;6;30;20;4;4;4;1;2;2;4;4;4;4;3;4;1;4;4;4;53
+Faridpur;3;2400301008;12400301008;Molla Bari Sarak;Dokhin GowalChomot Jame Masjeed Ar Piche;8;22;20;3;1;4;2;2;2;4;4;4;4;3;4;1;4;4;4;50
+Faridpur;3;2400301002;12400301002;Molla Bari Sarak;Notun Bazarer Pichone;40;165;70;4;1;4;1;4;2;4;4;4;4;3;4;1;4;4;4;52
+Faridpur;3;2400301001;12400301001;Molla Bari Sarak;Miya Para Sarak Laboni Beuti Parlarer Piche;5;20;45;4;4;4;4;1;1;4;4;4;4;3;4;1;4;4;4;54
+Faridpur;3;2400301011;12400301011;Molla Bari Sarak;Al-Helal Jame Masjeed Ar Dokhin Pashe;8;38;45;3;2;4;1;2;2;2;4;4;4;3;4;1;4;4;4;48
+Faridpur;3;2400301010;12400301010;Molla Bari Sarak;Somobai Seba Sromojibi Somobai Somity Ltd. Ar Purbo-Dokhon Pashe;16;40;36;2;1;4;2;2;2;4;4;4;4;3;4;1;4;4;4;49
+Faridpur;3;2400301009;12400301009;Molla Bari Sarak;Jahane Now Masjeed Ar Dokhin Pashe;12;30;45;4;4;4;2;2;3;4;4;3;4;3;4;1;4;4;4;54
+Faridpur;3;2400302001;12400302001;Mia Para Sarak;Miya Para Sarak Tuhin Ar Dokaner Shamne;5;23;40;2;1;4;1;4;4;4;4;4;4;3;4;1;4;1;3;48
+Faridpur;3;2400302002;12400302002;Mia Para Sarak;Pada Bari, Miya Para Sarak;6;30;70;4;4;4;1;1;2;4;4;4;4;3;4;1;4;4;4;52
+Faridpur;3;2400302004;12400302004;Mia Para Sarak;Adorsho Academy Masjeed Ar Pashe;9;40;75;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Faridpur;3;2400302003;12400302003;Mia Para Sarak;Ansu Mollar Bari Adorsho Academi Jame Masjeed Ar Pashe;8;50;70;3;1;4;2;1;2;3;4;4;4;3;4;1;1;4;4;45
+Faridpur;3;2400302012;12400302012;Mia Para Sarak;Miya Para Sarak Riyajuddain School Ar Piche;7;36;35;2;2;4;1;2;2;3;4;2;4;3;4;1;4;4;4;46
+Faridpur;3;2400302011;12400302011;Mia Para Sarak;Mawlana Abdul Ali Sarak Kaji Barir Piche;12;50;42;2;2;4;1;2;2;4;4;2;4;3;4;1;4;4;4;47
+Faridpur;3;2400302010;12400302010;Mia Para Sarak;Mowlana Abdul Ali Sarak Fojler Dokaner Poschim Pashe;9;42;20;1;1;4;1;3;1;2;4;3;4;3;4;1;4;4;4;44
+Faridpur;3;2400302009;12400302009;Mia Para Sarak;Paschim Khabashpur Burir Dokaners Pochim Pashe;8;40;35;3;2;4;1;4;4;4;4;3;4;3;4;1;4;4;4;53
+Faridpur;3;2400302008;12400302008;Mia Para Sarak;Paschim Khabaspur Ses Matha Masjedul Aksa Madrasar Shamne;6;30;20;2;2;4;1;3;4;4;4;4;4;3;4;1;4;4;4;52
+Faridpur;3;2400302005;12400302005;Mia Para Sarak;Miya Para Sarak Ar Ses Matha;6;27;7;1;1;4;1;1;3;1;4;4;4;3;4;1;4;4;4;44
+Faridpur;3;2400302006;12400302006;Mia Para Sarak;Mowlana Abdul Ali Sarak Ar Ses Matha Masjeer Aksar Piche;7;30;13;1;1;3;1;1;1;1;4;3;4;3;4;1;4;4;4;40
+Faridpur;3;2400302007;12400302007;Mia Para Sarak;Paschim Khabaspur Masjedul Aksar Madrasha Ar Piche;6;22;14;1;1;4;1;1;2;1;4;4;4;3;4;1;4;4;4;43
+Faridpur;3;2400303005;12400303005;Maolana Abdul Ali Sarak;Mawlana Abdul Ali Sarak;20;110;30;1;1;3;1;1;1;1;3;3;4;3;3;1;4;4;4;38
+Faridpur;3;2400303006;12400303006;Maolana Abdul Ali Sarak;Mawlana Abdul Ali Sarak-2;16;68;20;2;1;4;1;1;1;3;4;2;4;3;4;1;4;4;4;43
+Faridpur;3;2400303007;12400303007;Maolana Abdul Ali Sarak;Baitul Rahman Jame Masjeed Ar Shamne;9;35;18;1;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;42
+Faridpur;3;2400303002;12400303002;Maolana Abdul Ali Sarak;Kanij Sarak Mithu Donaker Dokhin Pashe Diray Uddain Ar Bari;5;22;30;4;4;4;1;4;1;4;4;3;4;3;4;1;4;4;4;53
+Faridpur;3;2400303001;12400303001;Maolana Abdul Ali Sarak;Kanij Sarak Herur Dokaner Uttor Pashe Abdul Khaleker Bari;12;54;20;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;3;2400303004;12400303004;Maolana Abdul Ali Sarak;Mawlana Abdul Ali Sarak Adorsho Academy Ar Pashe;5;22;20;2;1;4;1;1;1;4;4;3;4;3;1;1;4;1;2;37
+Faridpur;3;2400303003;12400303003;Maolana Abdul Ali Sarak;Mawlana Abdul Ali Sarak Adorsho Academy Ar Pashe;10;45;40;1;1;4;1;4;3;4;4;3;4;3;4;1;4;4;4;49
+Faridpur;3;2400304006;12400304006;Amir Ali Sarak;Amir Ali Sarak Li Li Hospital Ar Pashe Sakander Alir Bari;10;45;40;4;1;4;1;1;4;4;4;3;4;3;4;1;4;4;4;50
+Faridpur;3;2400304001;12400304001;Amir Ali Sarak;Amir Ali Sarak Ar Mordern School Ar Dokhin Pashe;5;22;40;1;1;4;1;1;4;1;4;3;4;3;4;1;4;4;4;44
+Faridpur;3;2400304002;12400304002;Amir Ali Sarak;Amir Ali Sarak Mordern School Ar Pichone Amorer Bari;10;45;30;4;4;4;1;4;4;4;4;3;4;3;4;1;4;4;4;56
+Faridpur;3;2400304003;12400304003;Amir Ali Sarak;Amir Ali Sarak Mordern School Ar Piche Kaderer Bari;12;54;40;4;4;4;4;4;4;4;4;3;4;3;4;1;4;4;4;59
+Faridpur;3;2400304004;12400304004;Amir Ali Sarak;Amir Ali Sarak Hafijiya Madrasha Ar Shmane Khansama Bari;50;225;40;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Faridpur;3;2400304005;12400304005;Amir Ali Sarak;Amir Ali Sarak Dokhin Pashe Vuiya Bari;12;54;35;2;1;4;1;1;2;4;4;3;4;3;4;1;4;4;4;46
+Faridpur;3;2400304009;12400304009;Amir Ali Sarak;Harun Kandi Ali Amin Jame Masjeed Ar Poschim Pashe Raja Miyar Bari;35;165;20;4;1;4;1;1;4;4;4;3;4;3;4;2;4;4;4;51
+Faridpur;3;2400304008;12400304008;Amir Ali Sarak;Harokandi Tawar Ar Pashe;40;180;40;2;1;4;1;2;2;4;4;3;4;3;4;1;4;4;4;47
+Faridpur;3;2400304007;12400304007;Amir Ali Sarak;Haro Kandi Jalal Miyar Masjeed;15;67;30;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Faridpur;3;2400305004;12400305004;Maji Para;Bagan Bari;70;305;50;1;1;4;1;1;1;2;3;3;4;3;3;1;3;2;3;36
+Faridpur;3;2400305002;12400305002;Maji Para;Hanif Sekher Bari;60;225;50;4;1;4;1;1;3;4;4;3;4;3;2;2;4;3;3;46
+Faridpur;3;2400305001;12400305001;Maji Para;Sajahan Sekher Bari;35;158;25;1;1;4;3;2;1;4;4;3;4;3;3;2;4;4;4;47
+Faridpur;3;2400305003;12400305003;Maji Para;SIC Comityr Ghor;100;450;43;3;1;4;2;1;2;3;4;3;4;3;4;1;3;2;3;43
+Faridpur;3;2400306002;12400306002;Medical Elaka;Paschim Khabarpur Kali Mander Ar Dokhon Pashe Chitanjaner Bari;20;90;60;1;1;4;1;4;2;4;4;4;4;3;4;1;4;4;4;49
+Faridpur;3;2400306001;12400306001;Medical Elaka;Boro Bari;15;67;70;4;1;4;4;1;3;4;4;4;4;4;4;2;4;4;4;55
+Faridpur;3;2400307002;12400307002;Harukandi;Nodi Gobesonar Pashe-2;15;45;15;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Faridpur;3;2400307001;12400307001;Harukandi;Nodi Gobesonar Pashe;30;135;20;2;1;4;1;1;4;1;4;3;4;3;4;1;4;4;4;45
+Faridpur;1;2400101001;12400101001;Shovarampur;kobirar mor nodir par;20;90;50;3;2;4;1;1;1;3;4;3;4;3;4;1;4;4;4;46
+Faridpur;1;2400101002;12400101002;Shovarampur;shovarampur khalakar bari;5;23;70;2;2;4;2;2;1;4;4;3;4;3;4;2;4;4;4;49
+Faridpur;1;2400101008;12400101008;Ragunandopur;bonqur bhai ar bari soglogno;10;52;35;2;1;4;1;1;1;3;4;3;4;3;4;1;4;4;4;44
+Faridpur;1;2400101009;12400101009;Ragunandopur;matrichara soglogno;15;70;40;2;1;4;1;1;1;3;4;3;4;3;4;1;4;4;4;44
+Faridpur;1;2400101007;12400101007;Ragunandopur;housing ar shes;35;165;58;2;1;4;1;2;1;3;4;3;4;3;4;1;4;4;4;45
+Faridpur;1;2400101004;12400101004;Shovarampur;Dalar mil soglogno;15;70;50;3;2;4;3;1;1;3;4;3;4;3;4;1;4;4;4;48
+Faridpur;1;2400101005;12400101005;warless para;warless para pochim pas;12;55;58;2;2;4;3;1;1;3;4;3;4;3;4;1;4;4;4;47
+Faridpur;1;2400101003;12400101003;Shovarampur;mistyr factory;20;90;50;2;3;4;1;2;1;2;4;3;4;2;4;2;4;4;4;46
+Faridpur;1;2400101006;12400101006;Shovarampur;shovarampur proghat;20;92;56;2;2;4;3;1;1;3;4;3;4;3;4;1;4;4;4;47
+Faridpur;1;2400102001;12400102001;Moddo Ragunandopur;tayab madrasha jhuruddin sheikh;15;80;40;2;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;43
+Faridpur;1;2400102005;12400102005;Moddo Ragunandopur;patadar para jamal patadar;20;70;25;1;1;4;1;1;2;1;3;4;4;3;4;2;4;4;4;43
+Faridpur;1;2400102002;12400102002;Moddo Ragunandopur;patadar para;20;130;60;1;1;4;1;1;3;1;3;3;4;3;3;2;4;4;4;42
+Faridpur;1;2400102004;12400102004;Moddo Ragunandopur;gazi bhavan haque gazi;20;140;50;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Faridpur;1;2400102003;12400102003;Moddo Ragunandopur;park ar pichona hanan midha;25;150;35;1;1;4;1;1;2;1;3;4;3;4;3;3;3;4;4;42
+Faridpur;1;2400103001;12400103001;Purbo Goaalcamot Khoda Box;shree angna pochim polli khodabox;50;238;60;2;1;4;4;4;2;1;3;1;2;1;3;1;3;1;3;36
+Faridpur;1;2400103002;12400103002;Purbo Goaalcamot Khoda Box;khodabox road shahin chowhary bari;34;144;100;3;1;4;1;2;1;2;4;2;1;3;4;1;4;4;4;41
+Faridpur;1;2400103003;12400103003;Purbo Goaalcamot Khoda Box;khodabox gacha para;24;102;80;1;1;4;1;4;4;2;4;1;1;3;4;1;4;4;4;43
+Faridpur;1;2400103004;12400103004;Purbo Goaalcamot Khoda Box;khodabox mojur comissinor ar bari;16;68;75;1;1;4;2;4;4;4;4;2;2;3;4;1;4;4;4;48
+Faridpur;1;2400103005;12400103005;Purbo Goaalcamot Khoda Box;khodabox gias uddin sheikh bari;36;153;80;1;1;4;2;4;4;1;4;2;2;3;4;2;4;4;4;46
+Faridpur;1;2400103009;12400103009;Purbo Goaalcamot Khoda Box;1 no. road biran gacha bari;15;65;75;1;1;4;1;1;2;1;4;3;4;3;1;2;2;1;1;32
+Faridpur;1;2400103010;12400103010;Purbo Goaalcamot Khoda Box;1 no. road malak ar bari;16;72;75;3;1;4;2;2;2;2;4;3;4;3;4;2;4;4;4;48
+Faridpur;1;2400103007;12400103007;Purbo Goaalcamot Khoda Box;khodabox road abu eusuk (paki) ar bari;48;216;60;2;1;4;2;4;3;4;4;2;2;3;4;2;4;4;4;49
+Faridpur;1;2400103006;12400103006;Purbo Goaalcamot Khoda Box;md. Harun ar roshidkha bari;60;270;70;2;3;4;2;4;3;2;4;3;3;3;4;2;4;4;4;51
+Faridpur;1;2400103008;12400103008;Purbo Goaalcamot Khoda Box;P.D.B. kuakata ar soglono moholla;21;94;60;2;1;4;2;2;3;3;4;3;4;3;4;2;4;4;4;49
+Faridpur;1;2400103020;12400103020;Purbo Goaalcamot Khoda Box;khodabox road girl madrasa;50;125;40;2;1;4;1;4;2;2;4;3;4;3;4;2;4;4;4;48
+Faridpur;1;2400103014;12400103014;Purbo Goaalcamot Khoda Box;uhab mataboor ar bari;32;136;60;2;1;4;2;2;2;1;4;3;4;3;4;2;4;4;4;46
+Faridpur;1;2400103013;12400103013;Purbo Goaalcamot Khoda Box;mistri para;22;95;75;1;1;4;2;2;2;1;4;3;4;3;4;1;4;4;4;44
+Faridpur;1;2400103015;12400103015;Purbo Goaalcamot Khoda Box;1 no. road mokchad midha bari;30;130;45;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;1;2400103019;12400103019;Purbo Goaalcamot Khoda Box;khodabox road rokib ar dokan;78;351;40;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;1;2400103018;12400103018;Purbo Goaalcamot Khoda Box;khodabox road baitul bari mosjid;48;216;30;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;1;2400103017;12400103017;Purbo Goaalcamot Khoda Box;1 no. road shes matha;45;191;30;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;1;2400103016;12400103016;Purbo Goaalcamot Khoda Box;1 no. road rohamania madrasa;15;68;30;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Faridpur;1;2400103012;12400103012;Purbo Goaalcamot Khoda Box;nanu mia ar bari;7;31;75;1;1;4;1;2;1;1;4;3;4;3;4;1;4;4;4;42
+Faridpur;1;2400103011;12400103011;Purbo Goaalcamot Khoda Box;1 no. road chobad mistri bari;6;27;60;1;1;4;2;3;2;1;4;3;4;3;4;1;4;4;4;45
+Faridpur;1;2400104001;12400104001;Pacchim Goaalcamot;batua para primary school soglogno;20;85;40;2;1;4;1;2;2;1;4;3;4;3;2;1;2;1;1;34
+Faridpur;1;2400104002;12400104002;Pacchim Goaalcamot;raju sordar ar bari soglogno;20;90;50;2;1;4;2;4;2;2;4;3;4;3;1;1;2;1;1;37
+Faridpur;1;2400104003;12400104003;Pacchim Goaalcamot;shamol ar dokan;22;100;40;2;3;4;2;2;2;3;4;3;4;3;1;1;1;1;1;37
+Faridpur;1;2400104004;12400104004;Pacchim Goaalcamot;baitul falaha mosjid ar satha;12;55;30;2;1;4;2;2;1;3;4;3;4;3;1;1;2;1;1;35
+Faridpur;1;2400104005;12400104005;Pacchim Goaalcamot;shadur dokan soglogno;5;22;70;3;3;4;1;3;1;3;4;3;4;3;4;1;4;4;4;49
+Faridpur;1;2400104006;12400104006;Pacchim Goaalcamot;brakhon kanda roton mohurir bari soglogno;20;90;40;2;1;4;1;2;1;1;4;3;4;2;3;1;3;2;3;37
+Faridpur;1;2400104007;12400104007;Pacchim Goaalcamot;hali pot bazarar pichona;6;30;40;2;1;4;1;2;1;1;4;3;4;2;4;1;4;4;4;42
+Faridpur;1;2400104008;12400104008;Pacchim Goaalcamot;2 no. road purbo pasa;20;80;50;2;1;4;1;2;1;1;4;3;4;3;4;1;4;4;4;43
+Faridpur;1;2400105003;12400105003;Pacchim Ragunandopur;pacchim ragunandopur anu bokor shidik;5;30;20;1;1;3;1;1;1;2;4;3;2;4;4;1;4;4;4;40
+Faridpur;1;2400105004;12400105004;Pacchim Ragunandopur;satar molla;10;60;40;2;1;4;1;1;2;4;4;3;2;4;4;1;4;4;4;45
+Faridpur;1;2400105005;12400105005;Pacchim Ragunandopur;pagunandopur muslim mission munu sheikh;6;25;60;3;2;4;1;1;1;1;3;3;1;3;1;1;4;4;4;37
+Faridpur;1;2400105014;12400105014;Pacchim Ragunandopur;moha bidaloy ar  samna;40;250;25;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Faridpur;1;2400105013;12400105013;Pacchim Ragunandopur;college ar pasa israt;10;60;50;1;1;4;1;1;3;1;3;3;4;4;4;1;4;4;4;43
+Faridpur;1;2400105001;12400105001;Pacchim Ragunandopur;gorashtan rustom sheikh;5;30;20;1;1;4;1;1;1;4;1;3;1;4;4;1;4;4;3;38
+Faridpur;1;2400105002;12400105002;Pacchim Ragunandopur;abu al jama mosjid sardar bari;30;200;30;1;1;3;1;1;2;1;3;3;2;4;3;2;4;4;3;38
+Faridpur;1;2400105007;12400105007;Pacchim Ragunandopur;muslim mission kha para;6;30;50;1;1;4;1;1;1;1;3;3;2;4;4;1;4;4;4;39
+Faridpur;1;2400105006;12400105006;Pacchim Ragunandopur;muslim mission foradh sheikh;12;75;25;1;1;3;1;1;1;1;2;3;2;4;4;1;4;4;4;37
+Faridpur;1;2400105008;12400105008;Pacchim Ragunandopur;kha barir mor;30;150;60;1;1;4;1;1;2;1;4;1;2;4;4;4;4;4;4;42
+Faridpur;1;2400105009;12400105009;Pacchim Ragunandopur;kha para josim kha ar bari;30;200;60;1;1;4;1;1;2;1;3;2;2;4;4;1;4;4;4;39
+Faridpur;1;2400105011;12400105011;Pacchim Ragunandopur;molla barir pasa;25;120;60;1;1;4;1;1;2;1;3;3;4;4;4;1;4;4;4;42
+Faridpur;1;2400105010;12400105010;Pacchim Ragunandopur;kha para rustom kha;15;75;60;1;1;4;1;1;3;1;3;3;1;4;4;1;4;4;4;40
+Faridpur;1;2400105012;12400105012;Pacchim Ragunandopur;college road muchi bari;15;70;50;2;1;4;1;1;2;3;3;3;4;4;4;1;4;4;4;45
+Faridpur;2;2400201001;12400201001;Wareless Para (Uttor);T And T Colony;20;90;30;1;1;4;1;1;1;1;4;3;4;3;1;1;1;2;1;30
+Faridpur;2;2400201002;12400201002;Wareless Para (Uttor);Wairless Para (T.N.T Ar Pashe);15;65;10;2;1;4;1;1;1;1;4;3;4;3;4;2;4;4;4;43
+Faridpur;2;2400201005;12400201005;Wareless Para (Uttor);Molla Para Sarak;5;18;30;1;1;3;1;1;1;1;3;3;4;4;4;3;4;4;4;42
+Faridpur;2;2400201006;12400201006;Wareless Para (Uttor);Chandu Mollar Bari;20;75;50;1;1;4;1;1;1;1;4;4;4;3;4;3;4;4;4;44
+Faridpur;2;2400201003;12400201003;Wareless Para (Uttor);Rich Ar Dokaner Pashe;5;18;25;3;1;4;1;1;1;4;4;3;4;3;1;1;1;1;1;34
+Faridpur;2;2400201004;12400201004;Wareless Para (Uttor);Khokon Ar Dokaner Shamne;10;50;30;4;1;4;1;1;1;1;4;3;4;3;2;3;2;4;4;42
+Faridpur;2;2400202001;12400202001;Westan Para;Lal Nagar;40;180;30;4;4;4;1;2;1;3;3;4;4;2;1;1;1;3;1;39
+Faridpur;2;2400202002;12400202002;Westan Para;Lal Nagar-2;60;300;40;2;4;4;2;1;1;1;3;4;4;3;1;1;1;3;1;36
+Faridpur;2;2400204001;12400204001;Shariatullah Bazar Elaka;Puraton Bash Hata;40;180;30;1;4;4;1;1;1;1;3;4;4;3;1;1;1;2;1;33
+Faridpur;2;2400205004;12400205004;Shing Para;RothKhola Nodir Par;7;32;50;2;2;4;2;2;2;2;4;3;4;2;4;2;4;4;4;47
+Faridpur;2;2400205005;12400205005;Shing Para;RothKhola (Nirmol Saha Sarak);15;70;60;3;1;4;2;1;2;2;3;3;4;3;2;2;3;1;1;37
+Faridpur;2;2400205006;12400205006;Shing Para;Roth Khola Road;20;90;60;3;3;4;2;3;3;2;4;3;4;3;4;2;4;4;4;52
+Faridpur;2;2400205007;12400205007;Shing Para;Singpara Mor (Nondaloy Voban);30;140;70;3;1;4;2;2;2;2;4;3;4;3;2;2;2;1;1;38
+Faridpur;2;2400205008;12400205008;Shing Para;Sing Para;12;55;60;2;1;4;2;3;2;2;4;3;4;3;4;2;4;4;4;48
+Faridpur;2;2400205001;12400205001;Shing Para;Singpara Kali Mander;20;90;50;2;1;4;1;3;2;3;4;3;4;2;3;2;3;4;4;45
+Faridpur;2;2400205003;12400205003;Shing Para;Melar Math Sing Para;8;40;50;2;1;4;1;1;1;1;4;3;4;3;4;2;4;4;4;43
+Faridpur;2;2400205002;12400205002;Shing Para;Robidas Polli;65;300;50;2;1;4;1;1;1;1;3;3;4;2;2;1;2;4;4;36
+Faridpur;2;2400206001;12400206001;Chowdhury Bari Elaka;Roth Khola Jora Bridge Ar Sathe;42;200;60;2;2;4;1;2;2;3;4;3;4;3;1;1;2;1;1;36
+Faridpur;2;2400206003;12400206003;Chowdhury Bari Elaka;Roth Khola (Godir Par);20;90;30;2;2;4;1;2;1;1;4;3;4;2;2;1;2;2;2;35
+Faridpur;2;2400206002;12400206002;Chowdhury Bari Elaka;Abder Mather Sathe;15;60;30;2;3;4;2;2;2;2;4;3;4;2;1;1;2;2;2;38
+Faridpur;2;2400206004;12400206004;Chowdhury Bari Elaka;Chowdurir Bari (Nodir Par);24;100;30;2;2;4;1;2;1;1;4;3;4;3;1;1;2;2;2;35
+Faridpur;2;2400206005;12400206005;Chowdhury Bari Elaka;Chowdhuri Bari (Ancholik Somobi Institute Kali Mander);18;80;5;1;1;4;1;2;1;1;3;3;4;3;1;1;2;2;1;31
+Faridpur;2;2400206006;12400206006;Chowdhury Bari Elaka;Chowdhuri Bari Durga Mander;10;45;5;1;2;1;4;3;2;1;1;3;4;3;1;1;2;2;1;32
+Faridpur;2;2400206008;12400206008;Chowdhury Bari Elaka;Gowal Chamt, Roth Khola Monik Bel School Ar Pashe;15;70;60;1;1;4;1;3;1;1;4;3;4;3;2;3;4;4;4;43
+Faridpur;2;2400206009;12400206009;Chowdhury Bari Elaka;Roth Khola (Gowal Chomot);25;110;50;3;2;4;3;3;2;2;4;3;4;3;2;2;2;1;1;41
+Faridpur;2;2400206007;12400206007;Chowdhury Bari Elaka;Chowdhuri Bari Road;15;65;60;3;3;4;2;3;2;2;4;3;4;3;4;2;4;4;4;51
+Faridpur;2;2400207001;12400207001;Barisal Road;Molla Bari Sarak;35;160;90;2;1;4;2;1;2;3;4;3;4;3;2;2;2;1;2;38
+Faridpur;2;2400207002;12400207002;Barisal Road;Miya Bari Masjeed Ar Shamne;8;40;40;4;4;4;1;1;1;3;3;3;4;3;1;1;2;1;1;37
+Faridpur;2;2400207003;12400207003;Barisal Road;Riyaj Uddain Road;11;50;60;3;2;4;2;2;2;2;4;3;4;3;4;2;4;4;4;49
+Faridpur;2;2400208001;12400208001;Wabda Coloni;Shorno Kutirer Pichone;35;200;90;1;1;4;1;4;3;1;4;3;4;3;1;4;4;4;4;46
+Faridpur;2;2400209002;12400209002;Boro Angina;Bor Agina (Dokhin Polli)-2;5;22;40;1;1;4;1;1;2;1;4;3;4;1;1;4;1;4;4;37
+Faridpur;2;2400209001;12400209001;Boro Angina;Bor Agina (Dokhin Polli);7;45;40;4;3;4;4;3;3;4;4;3;4;3;4;4;3;2;3;55
+Faridpur;2;2400209003;12400209003;Boro Angina;Bor Agina (Bagan Bari);7;35;40;2;1;4;1;2;3;4;4;3;4;3;1;1;1;2;2;38
+Faridpur;2;2400209004;12400209004;Boro Angina;Bagan Bari (Mandirer Pichone);9;40;40;1;1;4;1;3;3;3;4;3;4;4;2;2;1;2;2;40
+Faridpur;2;2400210006;12400210006;Molla Bari Sarak;Behari Colony(Colony Para);7;30;66;2;1;4;1;1;1;1;4;3;4;3;1;1;1;2;2;32
+Faridpur;2;2400210001;12400210001;Molla Bari Sarak;Behari Colony Plot-1;7;25;66;1;1;4;1;4;1;4;4;3;4;3;1;1;1;2;2;37
+Faridpur;2;2400210002;12400210002;Molla Bari Sarak;Behari Colony Plot-2;5;30;65;2;2;4;1;1;2;1;4;3;4;1;1;1;1;2;2;32
+Faridpur;2;2400210003;12400210003;Molla Bari Sarak;Behari Colony(Dokhin);25;150;70;2;1;4;1;1;1;3;4;3;4;2;1;1;1;2;2;33
+Faridpur;2;2400210004;12400210004;Molla Bari Sarak;Behari Colony;20;100;65;3;1;4;1;1;2;1;4;3;4;2;1;1;1;2;2;33
+Faridpur;2;2400210005;12400210005;Molla Bari Sarak;Behari Colony-2;25;113;65;2;1;4;1;2;3;4;4;3;4;3;1;1;1;2;2;38
+Faridpur;2;2400210007;12400210007;Molla Bari Sarak;Molla Bari Sarak (Sorno Kutirer Piche);5;25;50;4;3;4;2;3;4;4;4;3;4;3;4;4;4;4;4;58

@@ -1,0 +1,37 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "250px");
+
+        $(function () {
+            $("select[id$='type_of_intervention']").each(function () {
+                var type_of_intervention = $(this).val();
+                if (type_of_intervention === 'Footpath') {
+                    $("input[id$='footpath_length']").parents('.control-group').show();
+                    $("input[id$='drain_length']").parents('.control-group').hide();
+                } else if (type_of_intervention === 'Drain and/or Culvert') {
+                    $("input[id$='footpath_length']").parents('.control-group').hide();
+                    $("input[id$='drain_length']").parents('.control-group').show();
+                } else {
+                    $("input[id$='footpath_length']").parents('.control-group').hide();
+                    $("input[id$='drain_length']").parents('.control-group').hide();
+                }
+            });
+        });
+
+        $("select[id$='type_of_intervention']").on('change', function () {
+            var type_of_intervention = $(this).val();
+            if (type_of_intervention === 'Footpath') {
+                $("input[id$='footpath_length']").parents('.control-group').show();
+                $("input[id$='drain_length']").parents('.control-group').hide();
+            } else if (type_of_intervention === 'Drain and/or Culvert') {
+                $("input[id$='footpath_length']").parents('.control-group').hide();
+                $("input[id$='drain_length']").parents('.control-group').show();
+            } else {
+                $("input[id$='footpath_length']").parents('.control-group').hide();
+                $("input[id$='drain_length']").parents('.control-group').hide();
+            }
+        });
+    </script>
+{% endblock %}

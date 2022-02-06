@@ -1,0 +1,8 @@
+<div class="organization-details">
+{#        <input id={{ data.name }} name={{ data.name }} type="hidden" class="chzn-single chzn-default" />#}
+            <select data-target="#{{ data.name }}" name="{{ data.name }}" class="select2-chosen"  >
+                {% for id, text in cell %}
+                    <option value="{{ id }}">{{ text }}</option>
+                {%  endfor %}
+            </select>
+</div>

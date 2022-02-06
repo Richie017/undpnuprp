@@ -1,0 +1,42 @@
+{% extends "shared/_viewport_error.html" %}
+{% block header %}
+{% endblock %}
+
+{% block content %}
+    <style>
+        body {
+            margin: 0;
+        }
+        .error-bar {
+            width: 100%;
+            height: 90px;
+            background: #00a99d;
+        }
+        .error-title {
+            padding: 10%;
+            text-align: center;
+            font-size: 2rem;
+            font-family: tahoma,arial,helvetica,roboto,sans-serif;
+            color: #00a99d;
+        }
+        .error-title .error-link {
+            padding: 1%;
+            font-size: 1.3rem;
+        }
+        .error-title .error-link a {
+            padding: 1% 5%;
+            color: #00a99d;
+            display: block;
+        }
+    </style>
+    <div class="row-fluid error-title">
+        Oops, this page does not exist (Error 404)
+        <div class="error-link">
+            <a href="/">Take me home</a>
+            <a id="back" href="javascript: history.go(-1)" onclick="back()">Back to previous page</a>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts %}
+{% endblock %}

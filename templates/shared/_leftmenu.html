@@ -1,0 +1,70 @@
+{% load i18n %}
+{% load blackwidow_filter %}
+<div id="fbx-sidebar-area" class="col-xs-12 col-sm-3 col-lg-2 leftmenu-padding">
+    <aside>
+        <div class="fbx-sidebar">
+            {% for menuitem in context.menu %}
+                {% if menuitem.open == 'open' or menuitem.active == 'active' %}
+                    {% if menuitem.link != '/' %}
+                        {% for item in menuitem.items %}
+                            <div
+                                {% if item.active == "active" %}
+                                    class="parentmenubox parentmenubox_open"
+                                {% else %}
+                                    class="parentmenubox"
+                                {% endif %} >
+                                {% if item.active == 'active' %}
+                                    <a class="parentmenuboxtrig">
+                                        <span>{{ item.title|translate }}</span>
+                                    </a>
+                                {% else %}
+                                    <a class="parentmenuboxtrig">
+                                        <span>{{ item.title|translate }}</span>
+                                    </a>
+                                {% endif %}
+
+                                <div class="parentmenubox_wrap">
+                                    <ul class="list-unstyled leftmenuitems leftmenuitems_first_level">
+                                        {% for m_item in item.items %}
+                                            {% if not m_item.hide %}
+                                                {% if m_item.items %}
+                                                    <li {% if m_item.active == 'active' %}
+                                                        class="sidebar-label-open"
+                                                    {% endif %}>
+                                                        <h4 class="sidebar-label">{{ m_item.title }}</h4>dvdsg
+                                                        <ul class="list-unstyled leftmenuitems leftmenuitems_sec_level">
+                                                            {% for m2_item in m_item.items %}
+                                                                {% if not m2_item.hide %}
+                                                                    <li class="{{ m_item.active }}">
+                                                                        <a href="{{ m2_item.link }}">{{ m2_item.title }}</a>
+                                                                    </li>
+                                                                {% endif %}
+                                                            {% endfor %}
+                                                        </ul>
+                                                    </li>
+                                                {% else %}
+                                                    <li {% if m_item.active == 'active' %}
+                                                        class="leftmenuitems_sec_level {{ m_item.active }}"
+                                                    {% else %}
+                                                        class="leftmenuitems_sec_level"
+                                                    {% endif %}>
+                                                        <a href="{{ m_item.link }}">{{ m_item.title|translate }}</a>
+                                                    </li>
+                                                {% endif %}
+                                            {% endif %}
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                                <!--//.parentmenubox_wrap-->
+                            </div><!--//.parentmenubox-->
+                        {% endfor %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+        </div>
+        <!--//.SIDEBAR -->
+    </aside>
+
+</div> <!--//.COL 3-->
+

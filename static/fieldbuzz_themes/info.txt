@@ -1,0 +1,14 @@
+CSS:
+Bootstrap v3.3.4
+Font Awesome 4.3.0 by @davegandy
+Select2 Bootstrap Theme v0.1.0-beta.3
+Datetimepicker for Bootstrap 3 version : 4.7.14
+
+JS:
+Bootstrap v3.3.4
+bootstrap-checkbox - v.1.0.1
+Select2 4.0.0
+Chosen, a Select Box Enhancer for jQuery and Prototype by Patrick Filler Version 1.4.2
+Tinymce version 4.1.10
+Datetimepicker for Bootstrap 3 version : 4.7.14
+moment version : 2.10.2 // a part of bootstrap datepicker

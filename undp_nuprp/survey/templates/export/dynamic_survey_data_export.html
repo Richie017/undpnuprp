@@ -1,0 +1,236 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-6 col-md-6 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-5 col-md-5">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+            <li>
+                <a id="export-btn" name="download" class="manage-button btn">
+                    <i class="fbx-rightnav-download"></i>
+                    <span id="download-text">&nbsp;Generate</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+{% endblock %}
+
+{% block styles %}
+    <!-- Include Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/date_range_picker.css"/>
+    <!-- Include Custom Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/custom_date_range_picker.css"/>
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+        {% load widget_tweaks %}
+        {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G1 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G3 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G4 %}
+                    {% if field|is_daterange %}
+                        <div class="col-md-6 col-sm-6 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="daterangepicker">{{ field.label }}</label>
+
+                            <div class='col-md-12 col-sm-12 input-append date datetimepicker controls'
+                                 id='daterangepicker'
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox"
+                                           name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox"
+                                           name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        {% endwith %}
+        <legend style="padding-top: 5px;"></legend>
+        <div class="row-fluid report-container" style="margin: 20px 0;">
+            <div id="report-view" class="span11" style="margin-top: 100px;">
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js?v=1.0"></script>
+    <!-- library for custom sorting in time manipulation-->
+    <script src="{{ STATIC_URL }}js/datatable/moment.min.js"></script>
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/report/date_range_picker/date_range_picker.js"></script>
+    <!-- Include Custom Handler For Date Range Picker -->
+    <script type="text/javascript"
+            src="{{ STATIC_URL }}js/report/date_range_picker/date_time_range_handler.js"></script>
+
+
+    <script type="text/javascript">
+        var serialize_list_values = function (param) {
+            if (param != undefined && param != '') {
+                return param.join(',');
+            }
+            return param;
+        };
+
+        function exportReportData(e, $this) {
+            var parameters = {
+                survey: $("#id_survey").val(),
+                year: $("#id_year").val(),
+                month: $("#id_month").val(),
+            };
+
+            $("#report-view").html("<div class='alert alert-info' style='width:90%;margin:0 auto;text-align:center;font-size:20px;'>Please wait, export file is being generated with given search parameters.</div>");
+            $this.attr("disabled", "true");
+            $this.css('pointer-events', 'none');
+            $.ajax({
+                url: '?export=True&format=json',
+                type: 'get',
+                data: parameters,
+                dataType: 'json',
+                success: function (result) {
+                    if (result) {
+                        $("#report-view").html("<div class='alert alert-info' style='width:90%;margin:0 auto;text-align:center;font-size:20px;'>Export file generation has been completed, you may perform export now.</div>");
+                        $this.removeAttr("disabled");
+                        $this.css('pointer-events', '');
+                    }
+                },
+                error: function (error) {
+                }
+            });
+            return false;
+        }
+
+        $(function () {
+            $('#export-btn').on("click", function (e) {
+                exportReportData(e, $(this));
+            });
+        });
+
+    </script>
+{% endblock %}

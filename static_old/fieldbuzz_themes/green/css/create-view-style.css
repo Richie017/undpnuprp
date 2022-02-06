@@ -1,0 +1,62 @@
+ul.form-tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.form-tab li {
+    float: left;
+}
+
+/* Style the links inside the list items */
+ul.form-tab li a {
+    display: inline-block;
+    color: #ddd;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 12px;
+    background-color: #00a99d;
+    border: 1px solid #ddd;
+}
+
+/* Change background color of links on hover */
+ul.form-tab li a:hover {
+    background-color: #ddd;
+    color: #00a99d;
+}
+
+/* Create an active/current tablink class */
+ul.form-tab li a.active {
+    background-color: #bff;
+    color: #00877b;
+}
+
+/* Style the tab content */
+.form-tab-content {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.tabbed-form-action {
+    display: none;
+}
+
+.tabbed-form-next {
+    float: right;
+}
+
+.tabbed-form-previous {
+    float: right;
+}
+
+.contains-error {
+    background-color: #f99;
+}

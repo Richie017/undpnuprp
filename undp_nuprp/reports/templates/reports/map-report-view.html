@@ -1,0 +1,70 @@
+{% extends 'reports/base/_viewport.html' %}
+{% load blackwidow_filter %}
+{% block header %}
+    {% include 'reports/map-report-header.html' %}
+{% endblock %}
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <form id="search_form" action="" method="post" class="">
+            {% csrf_token %}
+            <div class="col-lg-6 col-md-6 col-sm-8 form-horizontal report-content-top">
+                {% for field in search_form %}
+                    {% if field|is_datetime %}
+                        <div class="control-group" style="clear: both;">
+                            <label class="control-label"
+                                   for="{{ search_form.prefix }}-{{ field.name.lower }}">{{ field.label }}</label>
+                            <div class="controls">
+                                <div class="input-append date datetimepicker">
+                                    {% render_field field|add_error_class:'input-validation-error' %}
+                                    <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                                </div>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="control-group" style="clear: both;">
+                            <label class="control-label" for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="controls">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </form>
+        <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+            <div class="col-md-12  col-sm-12" style="padding-left: 0; padding-right: 0;">
+                <span id="map-title" class="text-left"></span>
+                <div id="map-view" class="row-fluid map-container"
+                     style="margin: 0; padding: 0; position: relative"></div>
+                <div id="legend">
+                    <h2>Legend</h2>
+                    <ul class="legend" style="max-height: 450px; overflow: hidden; ">
+                        {% for legend in legend_items %}
+                            <li style="position:relative;" data-id="{{ legend.id }}"
+                                data-color="{{ legend.color }}">
+                                <span style="margin-right:0;">
+                                    {% include 'static/img/marker-dynamic-color.svg' with color=legend.color %}
+                                </span>
+                                <span style="display: block; position:absolute; top: 4px;
+                                right: 15px; height:100%; width:130px;">
+                                    {{ legend.name }}
+                                </span>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div> <!--//.COL-->
+    {% endwith %}
+{% endblock %}
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/report/map-report-utils.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/report/map-reports.js?v=1.1.0"></script>
+{% endblock %}

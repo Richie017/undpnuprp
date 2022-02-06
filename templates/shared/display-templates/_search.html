@@ -1,0 +1,118 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+<form class="form-inline search-form" role="form" method="get">
+    <div class="div_filters row-fluid">
+        <div id="search-item-template">
+            <div class="label search-item-container" style="border: solid 1px #aaa; margin-bottom: 0; display: none;">
+                <label for="name" class="id_template_label"
+                       style="padding: 0px 5px; width: auto; margin-right: 10px; text-align: right;"></label>
+                <div class="search-value-item" id="search-value-item-template">
+                    <strong class="id_template_value_strong" style="font-weight: bold;">{{ val }}</strong>
+                    <input class="id_template_value_input id_template_value" type="hidden" readonly="readonly" name="{{ field.name }}"
+                           style="font-weight: bold;"
+                           value="{{ val }}">
+                    <button class="btn btn-small btn-inline-remove-search-item"
+                            style="padding: 1px 2px 0 1px; margin: -3px 0 0 1px; font-size: 1.0rem">
+                        <i class="icon-close icon-on-right bigger-110"></i>
+                    </button>
+                </div>
+{#                <button data-ajax="" class="btn btn-small btn-inline-remove-search" style="padding: 3px;">#}
+{#                    <i class="icon-close icon-on-right bigger-110"></i>#}
+{#                </button>#}
+            </div>
+            {% for field in search_form %}
+                {% if not field.field.readonly %}
+                    <div class="label search-item-container"
+                         style="border: solid 1px #aaa; padding: 9px 4px; margin-bottom: 10px;">
+                        <label for="{{ field.name }}"
+                               style="vertical-align:bottom; line-height: 17px; width: 120px;
+                               margin-right: 10px; text-align: right;">{{ field.label }}</label>
+                        {% render_field field %}
+                    </div>
+                {% else %}
+                {% endif %}
+            {% endfor %}
+{#            {{ search_form }}#}
+            {% for field in search_form %}
+                {% if field.field.readonly %}
+                    <div class="label search-item-container" style="border: solid 1px #aaa; margin-bottom: 0px;">
+                        <label for="name" class="id_template_label"
+                               style="padding: 0px 5px; width: auto; margin-right: 10px; text-align: right;">{{ field.label }}</label>
+                        {% for val in field.value %}
+                            <div class="search-value-item">
+                                <strong class="id_template_value_strong" style="font-weight: bold;">{{ val }}</strong>
+                                <input type="hidden" readonly="readonly" name="{{ field.name }}"
+                                       style="font-weight: bold;"
+                                       value="{{ val }}" class="id_template_value">
+                                <button class="btn btn-small btn-inline-remove-search-item"
+                                        style="padding: 1px 2px 0 1px; margin: -3px 0 0 1px; font-size: 1.0rem">
+                                    <i class="icon-close icon-on-right bigger-110"></i>
+                                </button>
+                            </div>
+                        {% endfor %}
+{#                        <button class="btn btn-small btn-inline-remove-search" data-ajax="{{ is_partial }}"#}
+{#                                style="padding: 1px 2px 0 1px; margin: -3px 0 0 10px;">#}
+{#                            <i class="icon-close icon-on-right bigger-110"></i>#}
+{#                        </button>#}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <hr style="margin: 3px;"/>
+    {#    <label >#}
+    {#        <strong>Available filters</strong>#}
+    {#    </label>#}
+    {% with "property" as key %}
+        <div class="form-group fbx-chosen-gray">
+            <input name="search" type="hidden" placeholder="Search ..." value="1" autocomplete="on"/>
+            <select type="text" placeholder="Property" class="input-medium search_property select2" autocomplete="on"
+                    style="width: 100px;">
+                {% for keys_a, keys_b, is_range in filters|make_search_list %}
+                    <option data-is-range="{{ is_range }}" id={{ keys_b }}
+                            value={{ keys_b }} {{ "selected"|get_property:request.GET|is_selected:keys_b }}>{{ keys_a }}</option>
+                {% endfor %}
+            </select>
+        </div>  <!--//.FORM GROUP-->
+    {% endwith %}
+    <div class="query_1 form-group input-append date datetimepicker" style="display: inline-block;">
+        <input id="query_1" type="text" placeholder="Search Term" data-format="dd/MM/yyyy"
+               class="form-control input-medium search-input" value="{{ request.GET.query_1 }}" autocomplete="on"/>
+        <span class="form-group add-on" style="padding: 0;">
+          <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+        </span>
+    </div>
+    <div class="query_2 form-group input-append date datetimepicker" style="display: inline-block;">
+        <input id="query_2" type="text" placeholder="Search Term" data-format="dd/MM/yyyy"
+               class="form-control input-medium search-input" value="{{ request.GET.query_2 }}" autocomplete="on"/>
+        <span class="form-group add-on" style="padding: 0;">
+          <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+        </span>
+    </div>
+    <div class="query_3 form-group input-append" style="display: inline-block;">
+        <input id="query_3" type="text" placeholder="Search Term"
+               class="form-control input-medium search-input" value="{{ request.GET.query_3 }}" autocomplete="on"/>
+    </div>
+    <div class="query_4 form-group fbx-chosen-gray" style="display: inline-block;">
+{#        <input id="query_4" name="search_select2" type="hidden" placeholder="Search ..." value="1" autocomplete="on" />#}
+        <select id="query_4" type="text" placeholder="Property" class="input-medium select2" autocomplete="on"
+                style="width: 160px;">
+        </select>
+    </div>  <!--//.FORM GROUP-->
+    <div class="form-group input-group fbx-search">
+        <span class="input-append input-group-btn">
+        <button class="btn btn-default btn-inline-append-search" data-ajax="{{ is_partial }}" style="padding:3px 12px;">
+            <i class="fa fa-plus"></i>
+        </button>
+        </span>
+    </div>
+    <div class="form-group input-group fbx-search">
+        <span class="input-append input-group-btn">
+            <button class="btn btn-default btn-medium btn-inline-search"
+                    data-ajax="{{ is_partial }}" style="padding:3px 12px;">
+                <i class="fa fa-search"></i>
+            </button>
+        </span>
+    </div>
+{#    {{ filters }}#}
+</form>

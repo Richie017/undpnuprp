@@ -1,0 +1,111 @@
+{% extends "shared/_layout.html" %}
+{% load i18n %}
+{% block viewport %}
+    {% load blackwidow_filter %}
+    <div class="container-fluid">
+        <div class="fbx-container">
+            {% include "shared/_header.html" %}
+            <main>
+                <div class="row">
+                    <div id="fbx-maincontent" class= "col-xs-12 col-sm-12 col-lg-12">
+                        <section>
+                            <div class="fbx-selection" >
+                                <div class="section-header">
+                                    <div class="row">
+                                        {% block header %}
+                                        {% endblock %}
+                                    </div> <!--//.ROW-->
+                                </div>
+                                <div class="row-fluid">
+                                    <div class="flash_message hide">
+                                        {% if messages %}
+                                            <ul class="messages">
+                                                {% for message in messages %}
+                                                    <li{% if message.tags %} class="alert alert-{{ message.tags }}"{% endif %}>
+                                                        {{ message|remove_quote|safe }}
+                                                    </li>
+                                                {% endfor %}
+                                            </ul>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                <div id="fbx-maincontent" class="fbx-content">
+                                    <div class="row-fluid">
+                                        {% load tz %}
+                                        {% localtime on %}
+                                            {% block content %}
+                                            {% endblock %}
+                                        {% endlocaltime %}
+                                    </div> <!--//.ROW-->
+                                </div> <!--//.FBX CONTENT-->
+                            </div>
+                        </section>
+                    </div>
+
+                </div>
+            </main>
+
+        </div> <!--//.fbx CONTAINER-->
+    </div><!-- /.CONTAINER-FLUID -->
+
+    <div tabindex="-1" class="modal hide" id="global-modal-form" style="display: none;" aria-hidden="true">
+        <div class="modal-header">
+            <button data-dismiss="modal" class="close" type="button">×</button>
+            <h4 class="blue bigger" align="center">Add</h4>
+        </div>
+        <div class="modal-body overflow-visible ajax-container" style="min-height: 150px;">
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-small btn-cancel generic-danger-btn-style">
+                Cancel
+            </button>
+            <button class="btn btn-small generic-btn-style btn-ok">
+                Save
+            </button>
+        </div>
+    </div>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block scripts %}
+
+    {% if enable_map == True %}
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ map_api_key }}"></script>
+    {% endif %}
+
+    <!-- JQUERY  -->
+    <script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery.browser.min.js?v=1.1.0"></script>
+    <!-- BOOTSTRAP JS  -->
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/chosen.jquery.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/bootstrap-checkbox.js?v=1.1.0"></script>
+    <!-- CUSTOM SCRIPT  -->
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/custom.fbxscript.js?v=1.1.0"></script>
+    <!-- JQUERY  -->
+    <script src="{{ STATIC_URL }}assets/js/bootstrap.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/bootstrap.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/select2-3.5.1/select2.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-ui.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-template/jquery.loadTemplate-1.4.4.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/moment.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/bootstrap-datetimepicker.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/validation/jquery.validate.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/validation/jquery.validate.unobtrusive.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery.qrcode.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/qrcode.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/wizard/bwizard.js?v=1.1.0"></script>
+
+    <script src="{{ STATIC_URL }}js/form-validation.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/user-create-form.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/templated-alert.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/jquery.dataTables.js?v=1.1.0"></script>
+
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/tinymce.min.js?v=1.1.0"></script>
+
+    {% block childscripts %}
+    {% endblock %}
+    {% block childscripts2 %}
+    {% endblock %}
+{% endblock %}

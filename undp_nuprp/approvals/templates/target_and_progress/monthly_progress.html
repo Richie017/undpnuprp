@@ -1,0 +1,382 @@
+{% extends 'target_and_progress/target_base.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ display_model }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-7">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            {% for btn in manage_buttons %}
+                {% if btn.action_type == 'all-multi-action' %}
+                    <li>
+                        <a class="btn btn-medium manage-action {{ btn.action_type }} dropdown-toggle"
+                           data-toggle="dropdown" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}&nbsp;<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for submenuitem in btn.items %}
+                                <li><a data-url="{% url submenuitem.url_name %}{{ submenuitem.parameters }}"
+                                       href="{% url submenuitem.url_name %}{{ submenuitem.parameters }}">
+                                    {{ submenuitem.name }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% else %}
+                    <li>
+                        <a class="manage-action  btn btn-medium {{ btn.action_type }}" data-url="{{ btn.link }}"
+                           href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>
+                            <span>{{ btn.name }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+    </div> <!--//.COL-->
+{% endblock header %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/jquery.dataTables.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/datatable/fixedColumns.min.css"/>
+
+    <style>
+
+        th {
+            background-color: #00a99d;
+            color: white;
+        }
+
+        div.dataTables_wrapper {
+            width: 100%;
+            padding-top: 5px;
+            border-top: 1px solid #ccc;
+        }
+
+        #datatable_container {
+            margin-top: 7px;
+            margin-right: 3px;
+        }
+
+        .target-table th {
+            text-align: center;
+            cellspacing: 7px;
+        }
+
+        table.dataTable thead th, table.dataTable thead td {
+            border-bottom: none;
+        }
+
+        .dataTables_filter {
+            float: left !important;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix">
+    {% block option_container %}
+        <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+            {% load widget_tweaks %}
+            {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+                <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                     style="padding-right: 0;">
+                    {% for field in parameters.G1 %}
+                        <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+
+                <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                     style="padding-right: 0;">
+                    {% for field in parameters.G2 %}
+                        <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+
+                <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                     style="padding-right: 0;">
+                    {% for field in parameters.G3 %}
+                        <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+
+                <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+                     style="padding-right: 0;">
+                    {% for field in parameters.G4 %}
+                        {% if field|is_datetime %}
+                            <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                                 style="display: block; padding: 0;">
+                                <label for="datetimepicker1">{{ field.label }}</label>
+
+                                <div class='col-md-12 col-sm-12 input-append date datetimepicker controls'
+                                     id='datetimepicker1'
+                                     style="padding-left: 0;">
+                                    {% render_field field|add_error_class:'input-validation-error' %}
+                                    <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                                </div>
+                            </div>
+                        {% else %}
+                            <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                                 style="display: block; padding: 0;">
+                                <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                                <div class="col-md-12 col-sm-12 controls"
+                                     style="padding-left: 0;">
+                                    {% render_field field|add_error_class:'input-validation-error' %}
+                                    <span class="field-validation-valid" data-valmsg-replace="true"
+                                          data-valmsg-for="{{ field.name.lower }}"></span>
+                                    {{ field.errors }}
+                                </div>
+                                {% if field|is_multiple_choice %}
+                                    <label class="checkbox-label">
+                                        <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                        <span></span>
+                                        Add all
+                                    </label>
+
+                                    <label class="checkbox-label">
+                                        <input class="clear_all" type="checkbox"
+                                               name="{{ field.name.lower }}_clear_all">
+                                        <span></span>
+                                        Clear all
+                                    </label>
+                                {% endif %}
+
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;margin-top: 18px">
+                        <div class="col-md-12 col-sm-12 controls" style="padding-left: 0;">
+                            <button class="btn generic-btn-style btn-large" id="kpi-refresh-btn"
+                                    style="float: left">
+                                Update Table
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            {% endwith %}
+        </div>
+    {% endblock option_container %}
+    <div id="datatable_container">
+    </div>
+{% endblock %}
+
+{% block childscripts3 %}
+{% endblock %}
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js"></script>
+    <script src="{{ STATIC_URL }}js/jquery.dataTables.js"></script>
+    <script src="{{ STATIC_URL }}js/datatable/dataTables.fixedColumns.min.js"></script>
+    <script src="{{ STATIC_URL }}js/sheetjs/xlsx.full.min.js?v=1.0.1"></script>
+    <script src="{{ STATIC_URL }}js/sheetjs/FileSaver.js?v=1.0.1"></script>
+    <script type="text/javascript">
+        var serialize_list_values = function (param) {
+            if (param !== undefined && param !== '') {
+                return param.join(',');
+            }
+            return param;
+        };
+        try {
+            var header_title = $(".fbx-title").text().trim();
+        }
+        catch (exp) {
+            var header_title = "Monthly Progress";
+            throw exc;
+        }
+
+        $(document).on("click", "#kpi-refresh-btn", function () {
+            var parameters = {
+                'city': $('#id_city').val() != null ? serialize_list_values($('#id_city').val()) : $('#id_city').val(),
+                'output': $('#id_output').val() != null ? serialize_list_values($('#id_output').val()) : $('#id_output').val(),
+                'month': $('#id_month').val(),
+                'year': $('#id_year').val(),
+                'quarter': $('#id_quarter').val()
+            };
+            $("#id_kpi_datatable_wrapper").html("<div class='alert alert-info' style='height:100%;'>Loading data ... </div>");
+            $.ajax({
+                method: 'get',
+                url: '?format=json',
+                data: parameters,
+                dataType: 'json',
+                success: function (result) {
+                    console.log(result);
+                    var tableStr = '<table id="id_kpi_datatable" class="target-table stripe row-border order-column" cellspacing="0" width="100%">';
+                    var exportable_table_html_str = '';
+                    var thead_str = '<thead><tr>';
+                    tableStr += '<thead><tr>';
+
+                    var column_widths = [];
+                    for (var i = 0; i < result['header_widths'].length; i++) {
+                        column_widths[i] = {"width": result['header_widths'][i] + "%"};
+                    }
+
+                    for (var i = 0; i < result['headers'].length; i++) {
+                        tableStr += '<th>' + result['headers'][i] + '</th>';
+                        thead_str += '<th>' + result['headers'][i] + '</th>';
+                    }
+                    tableStr += '</tr></thead>';
+                    thead_str += '</tr></thead>';
+                    exportable_table_html_str += thead_str;
+
+                    for (var i = 0; i < result['data_rows'].length; i++) {
+                        var row = result['data_rows'][i];
+                        tableStr += '<tr>';
+                        exportable_table_html_str += '<tr>';
+                        for (var j = 0; j < row.length; j++) {
+                            tableStr += '<td>' + row[j] + '</td>';
+                            exportable_table_html_str += '<td>' + row[j] + '</td>';
+                        }
+                        tableStr += '</tr>';
+                        exportable_table_html_str += '</tr>';
+                    }
+                    tableStr += '</table>';
+                    exportable_table_html_str += '</table>';
+
+                    $('#datatable_container').html(tableStr);
+
+                    var win_height = $(window).height();
+
+                    var table_height = win_height - $("#fbx-header").height() - $(".section-header").height() - 200;
+
+                    var table = $("#id_kpi_datatable").DataTable({
+                        scrollY: table_height + "px",
+                        scrollX: true,
+                        scrollCollapse: true,
+                        paging: false,
+                        columns: column_widths,
+                        fixedColumns: {
+                            rightColumns: 1
+                        }
+                    });
+
+                    $("#id_kpi_datatable_wrapper").prepend(
+                        "<div id='id_export_btn'> <button class='btn generic-btn-style btn-small' " +
+                        "id='table-export-btn' style='float:right;padding: 3px 12px; " +
+                        "margin-right: 15px;'>Export</button></div>");
+
+                    $("#table-export-btn").on("click", function (e) {
+                        var exportable_table = "<table id='exportable_table' style='display:none'>" + exportable_table_html_str + "</table>";
+                        console.log(exportable_table_html_str);
+                        var _exportable_file_title = header_title;
+                        $("#datatable_container").append(exportable_table);
+                        ExportAsExcel('exportable_table', _exportable_file_title);
+                    });
+                }
+            });
+        });
+
+        var ExportAsExcel = function (exportable_element_id, content_title) {
+            export_table_to_excel(exportable_element_id, 'xlsx', content_title);
+
+            function s2ab(s) {
+                if (typeof ArrayBuffer !== 'undefined') {
+                    var buf = new ArrayBuffer(s.length);
+                    var view = new Uint8Array(buf);
+                    for (var i = 0; i != s.length; ++i) view[i] = s.charCodeAt(i) & 0xFF;
+                    return buf;
+                } else {
+                    var buf = new Array(s.length);
+                    for (var i = 0; i != s.length; ++i) buf[i] = s.charCodeAt(i) & 0xFF;
+                    return buf;
+                }
+            }
+
+            function export_table_to_excel(id, type, fn) {
+                var wb = XLSX.utils.table_to_book(document.getElementById(id), {sheet: "Sheet 1", raw: true});
+                var wbout = XLSX.write(wb, {bookType: type, bookSST: true, type: 'binary'});
+                console.log(fn);
+                var fname = fn + '.' + type || 'test.' + type;
+                try {
+                    saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
+                } catch (e) {
+                    if (typeof console !== 'undefined') console.log(e, wbout);
+                }
+                return wbout;
+            }
+        };
+
+        $('#kpi-refresh-btn').trigger('click');
+    </script>
+{% endblock childscripts2 %}

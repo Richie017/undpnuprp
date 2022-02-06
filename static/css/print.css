@@ -1,0 +1,191 @@
+@media print {
+    * {
+        color: inherit;
+        font-family: inherit;
+        font-size: inherit;
+        font-style: inherit;
+        font-weight: inherit;
+        list-style: none;
+        margin: 0px 0px 0px 0px;
+        padding: 0;
+        text-decoration: none;
+    }
+
+    /*heading*/
+    /* page */
+    body {
+        width: 21cm;
+        height: 29.5cm;
+    }
+
+    .page {
+
+        /* border: 1px #000 solid;*/
+        background: white;
+
+        /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);*/
+    }
+
+    /*header*/
+    header {
+        margin-top: 0.5cm;
+    }
+
+    header h3 {
+        font: bold 100% sans-serif;
+        font-size: 32px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    header address {
+        font-size: 12px;
+        font-style: normal;
+        line-height: 2px;
+        margin-top: -10px;
+        -moz-margin-top: -22px !important; /* for mozilla */
+    }
+
+    header address p {
+        text-align: center;
+    }
+
+    /*invoice heading*/
+    #invoice_heading h5 {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    /*first table*/
+    .table {
+        margin-bottom: 0px !important;
+    }
+
+    .entry-field {
+        height: 1cm;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .top-left-text {
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .entry-field-big {
+        height: 2cm;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    #first_table {
+        border: 1px solid black;
+        margin-bottom: 0;
+        width: 21cm;
+        height: 12.89%;
+    }
+
+    #first_table td {
+        border-top: none;
+    }
+
+    #first_head_row {
+        border: 1px solid black;
+        height: 1cm;
+    }
+
+    /*second table*/
+    #second_table {
+        border: 1px solid black;
+        margin: 0px 0px 0px 0px;
+        width: 21cm;
+        height: 40%;
+    }
+
+    #second_table td {
+        border-top: none;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+    }
+
+    #second_head_row {
+        border: 1px solid black;
+        height: 0.8cm;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    #second_content_row {
+        height: 8px;
+    }
+
+    #total_row {
+        border-top: 1px solid black;
+        height: 0.5cm;
+    }
+
+    #in_words_row {
+        border-top: 1px solid black;
+        height: 4cm;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    /*third table*/
+    .third_table {
+        border: 1px solid black;
+        width: 21cm;
+        height: 11.86%;
+    }
+
+    .third_table td {
+        border: 1px solid black;
+    }
+
+    table.third_table td:nth-child(2) {
+        width: 320px;
+    }
+
+    .sl_no {
+        width: 0.5cm;
+    }
+
+    .desc_group {
+        width: 15cm;
+    }
+
+    .pack_size {
+        width: 2cm;
+    }
+
+    .quantity {
+        width: 2cm;
+    }
+
+    .rate {
+        width: 2cm;
+    }
+
+    .per {
+        width: 0.9cm;
+    }
+
+    .amount {
+        width: 2.8cm;
+    }
+
+    /*end of print*/
+}
+
+/*
+print
+*/
+
+
+
+
+
+
+
+
+

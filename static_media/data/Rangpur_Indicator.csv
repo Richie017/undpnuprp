@@ -1,0 +1,1293 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Rangpur;1;10101001;11600101001;Hazi Para;Muchir Mor;115;567;59;2;1;4;1;1;1;1;2;4;4;3;4;1;4;4;4;41
+Rangpur;1;10101002;11600101002;Hazi Para;Haz Para;15;48;50;1;1;4;1;1;1;1;4;4;3;3;4;1;4;4;4;41
+Rangpur;1;10101003;11600101003;Hazi Para;Rurbo Chowra Para;30;124;40;2;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;40
+Rangpur;1;10101004;11600101004;Hazi Para;Dokhin Chowrapara;40;158;80;1;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;39
+Rangpur;1;10101005;11600101005;Hazi Para;Dokhin Chowra Para Lotif Saheb Ar Bari;35;162;80;1;1;4;1;1;1;1;4;2;2;2;4;1;4;4;4;37
+Rangpur;1;10101006;11600101006;Hazi Para;School Para;58;281;80;1;1;4;1;1;1;1;4;2;2;3;4;1;4;4;4;38
+Rangpur;1;10101007;11600101007;Hazi Para;Dofiq Member Para;50;207;100;4;1;4;1;1;1;1;4;3;2;4;4;1;4;4;4;43
+Rangpur;1;10102001;11600102001;Kutiyalpara;Bala Para;30;138;70;4;1;4;1;1;3;1;4;4;3;3;4;1;4;4;4;46
+Rangpur;1;10102002;11600102002;Kutiyalpara;CO Bari;40;186;60;2;1;4;1;1;1;1;4;4;3;3;4;3;4;4;4;44
+Rangpur;1;10102003;11600102003;Kutiyalpara;Purbo Bala Para;25;78;80;2;1;4;1;1;1;1;4;4;3;3;4;1;4;4;4;42
+Rangpur;1;10102004;11600102004;Kutiyalpara;OMR Master Para;12;59;80;2;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;42
+Rangpur;1;10103001;11600103001;Seat Uttom;Purbo Para;60;286;700;2;1;4;1;1;2;1;1;2;1;2;4;1;4;4;4;35
+Rangpur;1;10103002;11600103002;Seat Uttom;Biduatary;28;131;700;1;1;4;1;1;2;1;2;3;1;2;4;1;4;4;4;36
+Rangpur;1;10103003;11600103003;Seat Uttom;Sokerer Bari;10;47;30;1;1;4;1;1;2;1;2;2;2;2;4;2;4;4;4;37
+Rangpur;1;10104001;11600104001;Purbo Monthona;Lal Brige;35;174;25;2;1;4;1;1;1;1;1;1;1;2;1;1;1;2;1;22
+Rangpur;1;10104002;11600104002;Purbo Monthona;Vatia Para;50;232;50;1;1;4;1;1;1;1;3;1;1;2;4;1;4;4;4;34
+Rangpur;1;10104003;11600104003;Purbo Monthona;Primary School Para;20;96;30;1;1;4;1;1;1;1;3;1;1;2;4;1;4;4;4;34
+Rangpur;1;10104004;11600104004;Purbo Monthona;Poschim Tary;30;96;150;2;1;4;1;1;1;1;4;1;1;2;4;1;4;4;4;36
+Rangpur;1;10104005;11600104005;Purbo Monthona;Mistri Para;20;97;100;1;1;4;1;1;1;1;3;1;1;2;4;1;4;4;4;34
+Rangpur;1;10104006;11600104006;Purbo Monthona;Bala Tary;40;187;100;1;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;33
+Rangpur;1;10104007;11600104007;Purbo Monthona;Abashon;86;399;20;1;1;4;2;1;1;1;1;1;1;2;4;1;4;4;4;33
+Rangpur;1;10105001;11600105001;Monthona;Tanari Para;75;373;50;1;1;2;1;1;1;1;2;1;1;1;4;1;4;4;4;30
+Rangpur;1;10105002;11600105002;Monthona;Khamar Para;50;235;100;2;1;4;1;1;2;1;3;1;2;2;4;1;4;4;4;37
+Rangpur;1;10105003;11600105003;Monthona;Majarer Par;20;93;20;1;1;4;1;1;1;1;3;1;2;2;4;1;4;1;4;32
+Rangpur;1;10105004;11600105004;Monthona;Akijer Pichone;50;244;100;2;1;3;1;1;1;1;2;2;1;2;4;1;4;4;4;34
+Rangpur;1;10105005;11600105005;Monthona;Vort Tary;20;98;20;1;1;3;1;1;1;1;2;2;1;1;4;1;4;4;4;32
+Rangpur;1;10105006;11600105006;Monthona;Gorer Par;30;137;25;2;1;3;1;1;1;1;2;2;1;1;4;1;4;4;4;33
+Rangpur;1;10105007;11600105007;Monthona;Vuriar Tari;30;147;100;1;1;3;1;1;1;1;2;1;1;1;4;1;4;4;4;31
+Rangpur;1;10106001;11600106001;Gangahari;School Er Par;7;39;30;2;1;4;1;1;1;1;4;4;2;3;4;1;2;4;4;39
+Rangpur;1;10106002;11600106002;Gangahari;Tali Para;10;48;90;2;1;4;1;1;1;1;4;4;3;2;4;1;4;4;4;41
+Rangpur;1;10107001;11600107001;Ranachandi Sheikhpara;Bala Para;20;98;100;2;1;4;1;1;1;1;4;4;4;1;4;1;4;4;4;41
+Rangpur;1;10108001;11600108001;Ranachandi Jummapara;Aminul Para;15;90;85;3;1;4;1;1;1;1;3;3;3;2;4;1;4;4;4;40
+Rangpur;1;10108002;11600108002;Ranachandi Jummapara;Jumma Para;8;36;100;1;1;4;1;1;1;1;4;4;2;2;4;1;4;4;4;39
+Rangpur;1;10108003;11600108003;Ranachandi Jummapara;Dhoni Para;10;48;100;1;1;4;1;1;1;1;4;4;2;2;4;1;4;4;4;39
+Rangpur;1;10108004;11600108004;Ranachandi Jummapara;Chawra Para;20;92;100;3;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;40
+Rangpur;1;10108005;11600108005;Ranachandi Jummapara;Ray Para;22;103;100;1;1;4;1;1;1;1;4;4;2;2;4;1;4;4;4;39
+Rangpur;1;10109001;11600109001;Monddhopara;Safa Hazi Para;100;488;70;1;1;4;1;1;3;1;4;4;2;2;4;1;4;4;4;41
+Rangpur;1;10109002;11600109002;Monddhopara;Rajakar Para;70;332;50;4;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;45
+Rangpur;1;10109003;11600109003;Monddhopara;Moulove Soylovi Para;20;114;60;1;1;4;1;1;1;1;4;2;3;2;4;1;4;4;4;38
+Rangpur;1;10109004;11600109004;Monddhopara;Moulove Dokhin Para;30;155;60;2;1;4;1;1;1;1;4;4;3;2;4;4;4;4;4;44
+Rangpur;1;10110001;11600110001;Doctor Para;Baodiyar Mor;30;156;25;1;1;4;1;1;1;1;1;3;1;2;1;1;2;2;1;24
+Rangpur;1;10110002;11600110002;Doctor Para;Sultan Doctor Er Bari;12;68;80;1;1;4;1;1;1;1;4;4;4;1;2;2;1;1;1;30
+Rangpur;1;10110003;11600110003;Doctor Para;Liyakot Er Bari;7;36;70;1;1;4;1;1;1;1;4;3;1;2;1;1;2;1;1;26
+Rangpur;1;10111001;11600111001;Monahar Chawrapar;Vokto Para;24;106;100;1;1;4;1;1;4;1;4;2;3;2;4;1;4;4;4;41
+Rangpur;1;10111002;11600111002;Monahar Chawrapar;Babul Para;32;148;100;2;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;39
+Rangpur;1;10112001;11600112001;Ranachandi Mondolpara;Monohor Chowrapara Masjeed Par;30;143;100;1;1;4;1;1;1;1;4;4;2;2;4;2;4;4;4;40
+Rangpur;1;10112002;11600112002;Ranachandi Mondolpara;Mondol Para;10;47;100;1;1;4;1;1;1;1;4;4;2;2;4;2;4;4;4;40
+Rangpur;1;10114001;11600114001;Monthona Mondolpara;Vangnir Para;20;87;20;2;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;34
+Rangpur;1;10114002;11600114002;Monthona Mondolpara;Mondol Para;65;347;60;2;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;34
+Rangpur;2;10201001;11600201001;Goalu;Choray Dabri;19;76;50;1;1;3;1;1;1;1;3;3;1;1;4;2;4;4;4;35
+Rangpur;2;10201002;11600201002;Goalu;Purbo Goalu;25;125;52;2;1;3;1;1;1;1;4;2;2;4;4;2;4;4;4;40
+Rangpur;2;10202001;11600202001;Purbo Abhiram Doctor Para;Babor Ali Adorsho Para-1;17;68;50;2;1;3;1;1;2;1;3;3;2;1;4;2;4;4;4;38
+Rangpur;2;10202002;11600202002;Purbo Abhiram Doctor Para;Babor Ali Adorsho Para-2;25;100;50;2;1;3;1;1;2;1;3;3;2;1;4;4;4;4;4;40
+Rangpur;2;10203001;11600203001;Purbo Abhiram;Bamon Para;30;120;48;2;1;3;1;1;1;1;2;3;2;1;4;2;4;4;4;36
+Rangpur;2;10203002;11600203002;Purbo Abhiram;Bamon Para Bazar;23;77;50;2;1;3;1;1;1;1;3;3;2;1;4;2;4;4;4;37
+Rangpur;2;10203003;11600203003;Purbo Abhiram;Bamon Para Digir Par;24;85;25;2;1;3;1;1;1;1;3;3;2;1;4;2;4;4;4;37
+Rangpur;2;10204001;11600204001;Purbo Baroghoria;Antoram Digir Par;45;135;50;2;1;3;1;1;1;1;2;3;1;1;1;1;1;2;1;23
+Rangpur;2;10205001;11600205001;Poschim Baroghoria;Poschim Baroghoria Baitul Aman Jame Masjeed;120;750;120;2;1;4;1;1;1;1;3;2;2;3;4;2;4;4;4;39
+Rangpur;2;10206001;11600206001;Horiram-Piroj;Horiram-Piroj-1;150;650;100;3;1;1;1;1;1;1;2;2;3;2;4;2;4;4;4;36
+Rangpur;2;10206002;11600206002;Horiram-Piroj;Horiram-Piroj-2;150;600;100;2;1;4;1;1;1;1;4;2;2;3;4;2;4;4;4;40
+Rangpur;2;10206003;11600206003;Horiram-Piroj;Purbo Horiram Piroj-1;300;1250;120;3;1;4;1;1;1;1;1;2;2;3;4;2;4;4;4;38
+Rangpur;2;10206004;11600206004;Horiram-Piroj;Borobari Horiram Piroj;120;500;100;2;1;4;1;1;1;1;1;2;2;3;4;2;4;4;4;37
+Rangpur;2;10206005;11600206005;Horiram-Piroj;Purbo Horiram Piroj-2;120;510;20;2;1;4;1;1;1;1;2;3;3;3;4;2;4;4;4;40
+Rangpur;2;10207001;11600207001;Uttorpara, Chowrapara, Baoipara;Kalartari, Baoipara;23;113;120;2;1;4;1;1;2;1;1;3;1;3;4;2;4;4;4;38
+Rangpur;2;10207002;11600207002;Uttorpara, Chowrapara, Baoipara;Masud Alir Bari, Baoipara;6;19;70;2;1;4;1;1;1;1;2;3;1;2;1;1;1;1;1;24
+Rangpur;2;10207003;11600207003;Uttorpara, Chowrapara, Baoipara;Baoipara Eidgah Moydan, Chowrapara;70;320;100;2;1;4;1;1;2;1;2;3;1;3;4;2;4;4;4;39
+Rangpur;2;10207004;11600207004;Uttorpara, Chowrapara, Baoipara;Dogarpar, Uttorpara;95;375;120;2;1;4;1;1;3;1;2;3;3;3;4;2;4;4;4;42
+Rangpur;2;10208001;11600208001;Moddho Abhiram Sukanchoki;Abhiram Pakar Matha, Jumma Para;170;630;100;2;1;1;1;1;1;1;1;1;2;2;2;1;1;2;1;21
+Rangpur;2;10208002;11600208002;Moddho Abhiram Sukanchoki;Sukan Choki Sorkar Tari;120;450;50;2;1;4;1;1;1;1;4;2;1;1;4;2;4;4;4;37
+Rangpur;2;10208003;11600208003;Moddho Abhiram Sukanchoki;Moddho Abhiram, Muktijodha Ohidar Master;500;2230;120;1;1;1;1;1;1;1;4;2;2;1;4;2;4;4;4;34
+Rangpur;2;10208004;11600208004;Moddho Abhiram Sukanchoki;Abhiram Sotiser Tari;70;310;90;2;1;4;1;1;1;1;4;4;4;2;4;2;4;4;4;43
+Rangpur;2;10209001;11600209001;Monohor;Monohor Bondher Tari (Poschim Para);36;180;20;2;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;40
+Rangpur;2;10209002;11600209002;Monohor;Monohor Bazer;200;950;110;2;1;4;1;1;1;1;4;3;2;1;4;2;4;4;4;39
+Rangpur;2;10209003;11600209003;Monohor;Monohor Babu Para;200;1050;120;2;1;1;1;1;1;1;4;3;2;1;4;2;4;4;4;36
+Rangpur;2;10209004;11600209004;Monohor;Bokkor Member Para;170;600;70;2;1;4;1;1;1;1;4;2;2;2;4;2;4;4;4;39
+Rangpur;3;10301001;11600301001;Niyamot;Sadiqul Islam Boshoty;90;339;70;1;1;4;1;1;1;1;2;3;1;2;4;1;4;4;4;35
+Rangpur;3;10301002;11600301002;Niyamot;Motiwur Rahman Boshoty;50;240;70;1;1;4;1;1;1;1;3;3;1;2;4;1;4;4;4;36
+Rangpur;3;10301003;11600301003;Niyamot;Titul Ar Boshoty;35;145;40;2;1;4;1;1;2;2;3;4;3;3;4;3;4;4;4;45
+Rangpur;3;10301004;11600301004;Niyamot;Monjurul Rahman (Vuttu);200;860;50;1;1;4;1;1;1;1;3;3;3;2;4;1;4;4;4;38
+Rangpur;3;10301005;11600301005;Niyamot;Shahin (Sarker);55;300;65;2;1;4;1;1;1;1;4;2;1;2;4;1;4;4;4;37
+Rangpur;3;10301006;11600301006;Niyamot;Karim Uddin;100;400;65;1;1;4;1;1;1;1;4;3;2;2;4;3;4;4;4;40
+Rangpur;3;10301007;11600301007;Niyamot;Ruhul Amin Badol;400;1300;70;1;1;4;1;1;3;1;4;3;3;3;4;2;4;4;4;43
+Rangpur;3;10301008;11600301008;Niyamot;Single Mujibur Rahman;150;550;65;1;1;4;1;1;2;1;3;3;3;3;4;3;4;4;4;42
+Rangpur;3;10301009;11600301009;Niyamot;Md. Rubel Islam Boshoty;50;210;60;1;1;4;1;1;3;1;3;3;3;2;4;3;4;4;4;42
+Rangpur;3;10302001;11600302001;Purbo Para;Uttam Purbo Para-1;35;171;40;2;1;3;1;1;1;1;3;3;2;3;4;1;4;4;4;38
+Rangpur;3;10302002;11600302002;Purbo Para;Uttam Purbo Para-2;17;113;40;2;1;3;1;1;1;1;2;3;1;1;4;1;4;4;4;34
+Rangpur;3;10302003;11600302003;Purbo Para;Sahid Mistry Bagan Bari;35;136;40;1;1;3;1;1;2;3;3;3;2;2;4;1;4;4;4;39
+Rangpur;3;10302004;11600302004;Purbo Para;Basunia Para;105;409;40;2;1;4;1;1;2;2;4;3;2;2;4;1;4;4;4;41
+Rangpur;3;10302005;11600302005;Purbo Para;Mahfuj Boshoty;48;201;40;1;1;4;1;1;1;1;3;3;3;2;4;3;4;4;4;40
+Rangpur;3;10302006;11600302006;Purbo Para;Dhaltaiya Para;35;173;40;2;1;4;1;1;2;2;4;4;4;2;4;1;4;4;4;44
+Rangpur;3;10303001;11600303001;Baroghoria;Khamar Para-1;20;50;40;1;1;3;1;1;2;1;4;3;3;2;4;1;4;4;4;39
+Rangpur;3;10303002;11600303002;Baroghoria;Khamar Para-2;12;30;10;1;1;3;1;1;1;1;2;3;3;2;1;1;1;1;1;24
+Rangpur;3;10303003;11600303003;Baroghoria;New Munsi Para;15;40;35;1;1;4;1;1;3;1;3;4;1;2;4;1;4;4;4;39
+Rangpur;3;10303004;11600303004;Baroghoria;Basunia Masjid;20;50;40;2;2;4;1;1;1;2;2;3;2;2;4;1;4;4;4;39
+Rangpur;3;10303005;11600303005;Baroghoria;Al Falah School Para;28;69;40;1;1;3;1;1;2;1;4;3;3;2;4;1;4;4;4;39
+Rangpur;3;10304001;11600304001;Master Para;Taslim Uddin Para;35;177;35;2;2;4;1;1;1;1;2;3;1;2;1;1;1;1;1;25
+Rangpur;3;10304002;11600304002;Master Para;Nurbanur Dokan;60;235;15;1;1;3;1;1;2;1;3;3;1;2;4;2;4;4;4;37
+Rangpur;3;10305001;11600305001;Uttorpara;Dhilar Para-1;53;160;40;2;1;4;1;1;1;2;3;3;3;1;4;3;4;4;4;41
+Rangpur;3;10305002;11600305002;Uttorpara;Md. Atier Mia;30;120;60;1;1;4;1;1;2;1;3;2;1;1;4;2;4;4;4;36
+Rangpur;3;10305003;11600305003;Uttorpara;Sultari Mia;25;100;60;1;1;4;1;1;2;1;3;2;2;2;4;2;4;4;4;38
+Rangpur;3;10306001;11600306001;Betar Para;Hayir Tari;15;50;15;1;1;4;1;1;2;3;4;2;1;2;3;3;3;3;3;37
+Rangpur;3;10306002;11600306002;Betar Para;Alam Doctor Area;70;300;40;1;1;4;1;1;1;3;3;3;2;2;4;1;4;4;4;39
+Rangpur;3;10306003;11600306003;Betar Para;Robiul Islam;12;58;15;2;1;4;1;1;1;2;2;2;2;2;1;1;1;2;1;26
+Rangpur;3;10307001;11600307001;Kellabondo/Kuthir Par;Md. Rakib Mia;150;685;60;1;1;4;1;1;2;1;3;2;2;2;4;2;4;4;4;38
+Rangpur;3;10307002;11600307002;Kellabondo/Kuthir Par;Md. Anamul Boshoty;30;125;65;1;1;4;1;1;2;1;3;3;2;2;4;2;4;4;4;39
+Rangpur;3;10307003;11600307003;Kellabondo/Kuthir Par;Juljalal Hujur Ar Boshoty;50;225;65;1;1;4;1;1;1;1;3;2;2;2;4;2;4;4;4;37
+Rangpur;3;10307004;11600307004;Kellabondo/Kuthir Par;Md. Zamal Mia Ar Boshoty;35;145;50;1;1;4;1;1;2;1;3;2;1;1;4;2;4;4;4;36
+Rangpur;3;10308001;11600308001;Bania Para;Shamsul Hujr Ar Boshoty-1;35;190;45;2;1;4;1;1;1;1;4;3;3;2;4;4;4;4;4;43
+Rangpur;3;10308002;11600308002;Bania Para;Shamsul Hujr Ar Boshoty-2;50;209;30;2;1;4;1;1;1;1;4;3;3;2;4;4;4;4;4;43
+Rangpur;3;10308003;11600308003;Bania Para;Md. Janab Ali Ar Boshoty;81;350;80;2;1;4;1;1;1;2;2;3;1;2;4;2;4;4;4;38
+Rangpur;3;10308004;11600308004;Bania Para;Nurn Nabi (Bidduthi-1);22;107;80;2;1;4;1;1;1;1;3;3;2;2;4;3;4;4;4;40
+Rangpur;3;10308005;11600308005;Bania Para;Nurn Nabi (Bidduthi-2);15;73;80;2;1;4;1;1;1;1;3;3;2;2;4;3;4;4;4;40
+Rangpur;3;10308006;11600308006;Bania Para;Ashik Ali Ar Boshoty;8;50;80;3;1;4;1;1;1;2;3;2;2;2;4;2;4;4;4;40
+Rangpur;3;10308007;11600308007;Bania Para;Amzad(Munshi);60;256;80;2;1;4;1;1;1;1;3;2;2;2;4;2;4;4;4;38
+Rangpur;3;10308008;11600308008;Bania Para;Bargoria Govt. Primury School;60;250;80;2;1;4;1;1;1;1;3;2;2;1;4;2;4;4;4;37
+Rangpur;3;10308009;11600308009;Bania Para;Bipul (ASP)-1;30;125;60;2;1;4;1;1;1;1;3;2;1;1;4;1;4;4;4;35
+Rangpur;3;10308010;11600308010;Bania Para;Bipul (ASP)-2;30;130;60;2;1;4;1;1;1;1;3;2;2;2;4;1;4;4;4;37
+Rangpur;3;10308011;11600308011;Bania Para;Shafianil (Driver)-1;35;200;25;1;1;4;1;1;1;1;3;3;2;2;4;3;4;4;4;39
+Rangpur;3;10308012;11600308012;Bania Para;Shafianil (Driver)-2;50;210;50;1;1;4;1;1;1;1;3;3;2;2;4;3;4;4;4;39
+Rangpur;4;10401001;11600401001;Jalchattra;Buddir Bazar;58;265;32;2;1;4;1;1;2;1;4;4;4;2;4;1;4;4;4;43
+Rangpur;4;10401002;11600401002;Jalchattra;Jalchattra Jame Masjeed;51;223;69;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Rangpur;4;10401003;11600401003;Jalchattra;Pocher Trai;36;186;28;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Rangpur;4;10401004;11600401004;Jalchattra;Dighir Par;18;84;30;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Rangpur;4;10401005;11600401005;Jalchattra;Gusso Gram;60;285;40;2;1;4;1;1;1;1;3;4;3;1;1;1;2;2;1;29
+Rangpur;4;10401006;11600401006;Jalchattra;Chowdhuri Para;86;387;44;2;1;4;1;1;2;1;4;4;4;2;4;1;4;4;4;43
+Rangpur;4;10401007;11600401007;Jalchattra;Shorker Par;75;340;30;2;1;4;1;1;1;1;4;4;4;1;4;1;4;4;4;41
+Rangpur;4;10401008;11600401008;Jalchattra;Burirthan;58;261;38;2;2;4;1;1;1;1;4;4;4;2;4;1;4;4;4;43
+Rangpur;4;10401009;11600401009;Jalchattra;Goutomer Khamar;38;184;32;2;1;4;1;1;1;2;4;3;4;2;4;1;4;4;4;42
+Rangpur;4;10402001;11600402001;Amasu Colony;Purbo Colony;40;250;40;2;1;3;1;1;3;1;3;3;1;2;4;1;4;4;4;38
+Rangpur;4;10402002;11600402002;Amasu Colony;Kukrul Purbo Para;35;150;35;1;1;4;1;1;4;1;4;3;2;3;4;2;4;4;4;43
+Rangpur;4;10402003;11600402003;Amasu Colony;Dokkir Para Bottola;100;450;25;1;1;4;1;1;2;1;3;4;2;1;4;1;4;4;4;38
+Rangpur;4;10403001;11600403001;Amasu Kukrul;Kaimaguli Kukrul, Variya Para;45;190;20;2;1;4;1;1;3;2;3;3;2;2;4;1;4;4;4;41
+Rangpur;4;10403002;11600403002;Amasu Kukrul;Santo Para Aziz Road;50;220;60;2;1;4;1;1;2;1;4;1;1;1;4;2;4;4;4;37
+Rangpur;4;10403003;11600403003;Amasu Kukrul;Moddho Para, Zoddar Road;80;350;60;1;1;3;1;1;2;1;3;1;1;1;4;1;4;4;4;33
+Rangpur;4;10403004;11600403004;Amasu Kukrul;Moddho Kukrul Hyder Mistry Goli;40;250;70;1;1;3;1;1;2;1;3;1;1;1;4;2;4;4;4;34
+Rangpur;4;10404001;11600404001;Kaiyaguli Kukrul;Uttar Para;60;350;30;2;1;4;1;1;1;1;3;4;4;2;4;1;4;4;4;41
+Rangpur;4;10404002;11600404002;Kaiyaguli Kukrul;Goutom Er Khamar;30;130;40;2;1;3;1;1;1;1;3;3;1;1;4;2;4;4;4;36
+Rangpur;4;10404003;11600404003;Kaiyaguli Kukrul;Buriyal Ar Mor;50;250;45;2;1;3;1;1;1;1;3;3;3;1;4;2;4;4;4;38
+Rangpur;4;10405001;11600405001;Sardarpara And Hazipara;Vata Bari, Sardarpara;10;45;46;2;1;1;1;1;1;1;2;4;4;1;2;1;1;2;1;26
+Rangpur;4;10405002;11600405002;Sardarpara And Hazipara;Vatiya Tary;50;240;25;4;2;4;1;1;2;3;4;4;4;4;4;2;4;4;4;51
+Rangpur;4;10405003;11600405003;Sardarpara And Hazipara;Safi Member, Jamal Hossain;40;220;50;2;1;4;1;1;3;4;4;4;4;4;4;1;4;4;4;49
+Rangpur;4;10405004;11600405004;Sardarpara And Hazipara;Akter Mor, Paglir Mazar;30;132;55;2;1;4;1;1;1;2;4;4;4;4;4;1;4;4;4;45
+Rangpur;4;10405005;11600405005;Sardarpara And Hazipara;Anowarul Neta, Mofijul Islam;25;77;55;2;1;4;1;1;1;3;2;4;4;4;4;1;4;4;4;44
+Rangpur;4;10406001;11600406001;Khatkhatia Taltola;Khatkhatia;30;140;70;2;1;4;1;1;1;1;4;4;4;1;4;1;4;4;4;41
+Rangpur;4;10406002;11600406002;Khatkhatia Taltola;Adorsho Purbo Para;25;120;70;2;1;4;1;1;1;2;4;4;4;1;4;1;4;4;4;42
+Rangpur;4;10406003;11600406003;Khatkhatia Taltola;Monir Khalifa (Master Para);50;240;60;2;2;4;1;1;1;1;4;4;4;2;4;1;4;4;4;43
+Rangpur;4;10406004;11600406004;Khatkhatia Taltola;Mashankura;60;265;80;2;2;4;1;1;2;1;4;4;4;2;4;1;4;4;4;44
+Rangpur;4;10407001;11600407001;Khatkhtia Atiatari;Nilkontho;25;110;50;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Rangpur;4;10407002;11600407002;Khatkhtia Atiatari;Athera Tary Kali Mandir;56;280;90;1;2;4;1;1;2;1;4;4;4;2;4;1;4;4;4;43
+Rangpur;4;10407003;11600407003;Khatkhtia Atiatari;Dhap Para;80;360;95;2;2;4;1;1;3;2;4;4;4;2;4;2;4;4;4;47
+Rangpur;4;10408001;11600408001;Pakar Matha Master Para;Atiya Tary, Muhammadpur, Nur Muhammad;80;200;6;1;2;3;1;1;2;3;4;4;4;4;4;2;4;4;4;47
+Rangpur;4;10408002;11600408002;Pakar Matha Master Para;Muhammadpur, Seven Ar Basha;80;350;15;2;2;4;1;1;4;4;4;4;4;4;4;2;4;4;4;52
+Rangpur;4;10408003;11600408003;Pakar Matha Master Para;Paka Matha, Manu Begum, Chadni;150;650;27;2;2;4;1;4;1;4;4;4;4;4;4;2;4;4;4;52
+Rangpur;5;10501001;11600501001;Taltala;Moubon Vatar Para Bosti;17;112;14;2;1;4;1;1;1;4;4;3;1;4;4;1;4;4;4;43
+Rangpur;5;10502001;11600502001;Khatkhotia Purbopara;Burail Para/ Master Para;207;682;55;2;1;4;1;1;2;1;4;3;1;4;4;1;4;4;4;41
+Rangpur;5;10502002;11600502002;Khatkhotia Purbopara;Obgojir Bazar Bosti;37;192;64;2;1;4;1;1;1;1;4;3;1;4;4;1;4;4;4;40
+Rangpur;5;10502003;11600502003;Khatkhotia Purbopara;Khatkhotia Purbp Para/ Ahle Hadis Jame Masjeed Bosty;27;129;62;3;2;4;1;1;1;1;4;2;1;4;4;4;4;4;4;44
+Rangpur;5;10503001;11600503001;Sheikhpara;Teli Tary;70;300;45;3;2;4;1;1;2;3;3;2;2;3;4;4;4;4;4;46
+Rangpur;5;10503002;11600503002;Sheikhpara;Kasia Tary;120;620;85;1;1;4;1;1;1;1;2;3;1;2;3;3;3;4;4;35
+Rangpur;5;10503003;11600503003;Sheikhpara;Master More;70;240;70;1;2;4;1;1;2;3;3;3;1;3;4;3;4;4;4;43
+Rangpur;5;10503004;11600503004;Sheikhpara;Araji Bala Kumar;300;950;80;1;2;4;1;1;2;4;2;3;1;4;4;1;4;4;4;42
+Rangpur;5;10504001;11600504001;Togdar Para;Poydor Sheikhpara;40;140;120;3;2;4;1;1;2;4;3;3;1;3;4;3;4;4;4;46
+Rangpur;5;10504002;11600504002;Togdar Para;Digir Par;40;150;50;1;2;4;1;1;2;2;1;3;1;3;4;1;4;4;4;38
+Rangpur;5;10504003;11600504003;Togdar Para;Togdar Para Area;45;190;50;2;2;4;1;1;2;4;2;3;1;3;4;3;4;4;4;44
+Rangpur;5;10505001;11600505001;Harati (South);Harati Modho Para;120;510;80;1;1;4;1;1;3;2;3;3;1;3;4;3;4;4;4;42
+Rangpur;5;10505002;11600505002;Harati (South);Harati Dpkhin Para;250;900;90;3;2;4;1;1;3;3;3;3;1;4;4;3;4;4;4;47
+Rangpur;5;10505003;11600505003;Harati (South);Dhorir More (Hindu Para);200;795;105;3;1;4;1;1;2;4;2;3;1;3;4;1;4;4;4;42
+Rangpur;5;10506001;11600506001;Harati (North);Kosu Tari Dhokhin Para;63;255;100;1;2;4;1;1;2;3;2;3;1;4;4;1;4;4;4;41
+Rangpur;5;10506002;11600506002;Harati (North);Kosu Tari;238;873;120;2;2;4;1;1;2;3;2;3;1;3;4;1;4;4;4;41
+Rangpur;5;10506003;11600506003;Harati (North);Kosu Tari Uttar Para;150;620;80;2;2;4;1;1;1;4;3;3;1;4;4;1;4;4;4;43
+Rangpur;5;10506004;11600506004;Harati (North);Kosu Tari Chirman Home;48;230;85;1;2;4;1;1;2;4;2;3;1;4;4;3;4;4;4;44
+Rangpur;5;10506005;11600506005;Harati (North);Harati Poschim Hindu Para;43;235;90;1;2;4;1;1;1;4;2;3;1;4;4;1;4;4;4;41
+Rangpur;5;10507001;11600507001;Chowmuhuni (Kholeya Para);Kholeya Uttor Para Masjeed Bosti;46;312;95;2;2;4;1;1;1;2;4;3;1;4;4;1;4;4;4;42
+Rangpur;5;10507002;11600507002;Chowmuhuni (Kholeya Para);Poshuram Khaleya;137;693;205;2;1;4;1;1;1;2;4;1;1;4;4;1;4;4;4;39
+Rangpur;5;10507003;11600507003;Chowmuhuni (Kholeya Para);Poshuram Khaleya Poschim Para Bosti;135;624;205;2;1;4;1;1;1;4;4;1;1;4;4;1;4;4;4;41
+Rangpur;5;10508001;11600508001;Chiler Jhar;Hindu Para Bosti;40;175;80;2;1;4;1;1;2;4;4;3;1;4;4;4;4;4;4;47
+Rangpur;5;10508002;11600508002;Chiler Jhar;Kali Mondir Bosty;95;280;90;2;1;4;1;1;3;4;4;3;1;4;4;4;4;4;4;48
+Rangpur;5;10508003;11600508003;Chiler Jhar;Boro Mosjeed Bosty;200;600;90;2;1;4;1;1;2;4;4;3;1;4;4;4;4;4;4;47
+Rangpur;5;10508004;11600508004;Chiler Jhar;Fakirgonj Bosty;60;180;75;2;2;4;1;1;2;4;4;3;1;4;4;4;4;4;4;48
+Rangpur;5;10508005;11600508005;Chiler Jhar;Shamlar Bazar Guchogram;20;80;10;2;1;4;1;1;1;3;4;1;1;4;2;1;2;1;2;31
+Rangpur;5;10508006;11600508006;Chiler Jhar;Kholeya Dokhin Para Bosty;87;498;194;1;1;4;1;1;1;2;4;1;1;2;4;1;4;4;4;36
+Rangpur;6;10601001;11600601001;Sabek Councilor Para;Robindro Barir Pashe;5;20;50;1;1;4;1;1;1;1;4;4;1;3;4;4;4;4;4;42
+Rangpur;6;10601002;11600601002;Sabek Councilor Para;Kuchlarpar-1;9;45;5;1;1;4;1;1;1;2;3;3;1;3;4;4;4;4;4;41
+Rangpur;6;10601003;11600601003;Sabek Councilor Para;Kuchlarpar-2;9;50;50;1;1;4;1;1;1;1;4;4;1;3;4;4;4;4;4;42
+Rangpur;6;10601004;11600601004;Sabek Councilor Para;Dokkhin Chobbish Hazari (Vejaler Dokaner Alaka);22;90;50;2;1;4;1;1;1;1;4;4;1;3;4;4;4;4;4;43
+Rangpur;6;10602001;11600602001;Fokirapara & Feluyapara;Kaji Bari Ar Pashe;12;54;50;2;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;39
+Rangpur;6;10602002;11600602002;Fokirapara & Feluyapara;Rakhar Bari Ar Pashe;6;25;20;2;1;4;1;1;1;1;4;4;1;1;4;1;4;4;4;38
+Rangpur;6;10602003;11600602003;Fokirapara & Feluyapara;Chowdhury Barir Pashe;7;32;40;1;1;4;1;1;2;2;4;2;2;2;4;4;4;4;4;42
+Rangpur;6;10602004;11600602004;Fokirapara & Feluyapara;Akash Buri;7;32;35;3;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;41
+Rangpur;6;10602005;11600602005;Fokirapara & Feluyapara;Dokhin Fokir Para Masjeed Ar Pashe;10;48;40;3;1;4;1;1;1;2;4;3;1;3;4;1;4;4;4;41
+Rangpur;6;10602006;11600602006;Fokirapara & Feluyapara;Councilor Ar Bashar Uttor Pashe;8;33;40;1;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;39
+Rangpur;6;10602007;11600602007;Fokirapara & Feluyapara;Councilor Ar Barir Dokhin Pashe;9;52;42;1;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;39
+Rangpur;6;10603001;11600603001;Poschim Kobaru (Pathan Para);Motin Bari;15;65;70;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603002;11600603002;Poschim Kobaru (Pathan Para);Mojibor Bari;40;175;70;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603003;11600603003;Poschim Kobaru (Pathan Para);Luco Bari;7;30;70;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603004;11600603004;Poschim Kobaru (Pathan Para);Afchar Bari;25;145;80;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603006;11600603006;Poschim Kobaru (Pathan Para);Fozol Mistry Bari;48;219;60;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603007;11600603007;Poschim Kobaru (Pathan Para);Soruj Mocer Bari;15;65;60;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10603008;11600603008;Poschim Kobaru (Pathan Para);Mijan Ar Boshoty;20;105;80;1;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;41
+Rangpur;6;10604001;11600604001;Chabbis Hazari Adorshopara/ Dolapara;Shiv Mandir Hindu Para;13;58;40;3;1;4;1;1;2;2;4;2;2;3;4;2;4;4;4;43
+Rangpur;6;10604002;11600604002;Chabbis Hazari Adorshopara/ Dolapara;Dola Para Purbo Chobbish Hajari;7;30;14;3;1;4;1;1;1;3;4;3;1;2;4;1;4;4;4;41
+Rangpur;6;10604003;11600604003;Chabbis Hazari Adorshopara/ Dolapara;Loknath Polli;14;60;40;3;1;4;1;1;1;2;4;3;1;3;4;1;4;4;4;41
+Rangpur;6;10604004;11600604004;Chabbis Hazari Adorshopara/ Dolapara;Loknath Polli;9;40;40;1;1;4;1;1;2;2;4;2;1;2;4;4;4;4;4;41
+Rangpur;6;10604005;11600604005;Chabbis Hazari Adorshopara/ Dolapara;Alsiyar Mor;6;30;50;1;1;4;1;1;2;2;4;2;2;2;4;4;4;4;4;42
+Rangpur;6;10604006;11600604006;Chabbis Hazari Adorshopara/ Dolapara;Alsiyar Mor;5;25;50;1;1;4;1;2;2;1;4;2;2;2;4;4;4;4;4;42
+Rangpur;6;10604007;11600604007;Chabbis Hazari Adorshopara/ Dolapara;Late. Bokk Munshi Barir Uttor Pashe;22;112;12;2;1;4;1;1;2;2;4;1;2;3;4;4;4;4;4;43
+Rangpur;6;10605001;11600605001;Bahadur Singh;Saju Mistry/ Cot Para;25;108;25;1;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;6;10605002;11600605002;Bahadur Singh;Chukhur Barir Pichon Poschim Pashe;16;75;55;1;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;6;10605003;11600605003;Bahadur Singh;Lal Mithu Bari Master Para;12;56;70;1;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;6;10606001;11600606001;Moddho Kobaru;Lichu Bagan Ar Boshoty;150;682;102;1;1;4;1;1;2;1;4;3;2;3;4;4;4;4;4;43
+Rangpur;6;10606002;11600606002;Moddho Kobaru;Kalu Bari Boshoty;30;148;92;1;1;4;1;1;2;2;4;4;1;3;4;4;4;4;4;44
+Rangpur;6;10606003;11600606003;Moddho Kobaru;Jalil Bari;22;100;72;1;1;4;1;1;2;3;4;4;3;2;4;4;4;4;4;46
+Rangpur;6;10607001;11600607001;Goyalbari/Ameshor/Uttor Kobaru;Ajijul Sarkar/ Hindu Para;21;90;20;1;1;4;1;4;1;1;1;3;2;3;1;4;4;4;4;39
+Rangpur;6;10607002;11600607002;Goyalbari/Ameshor/Uttor Kobaru;Sultan Bari;25;119;60;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607003;11600607003;Goyalbari/Ameshor/Uttor Kobaru;Boshir Master Bari;10;50;50;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607004;11600607004;Goyalbari/Ameshor/Uttor Kobaru;Anisul Bari;6;30;35;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607005;11600607005;Goyalbari/Ameshor/Uttor Kobaru;Alfoj Bari;21;91;50;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607006;11600607006;Goyalbari/Ameshor/Uttor Kobaru;Ahamal Bari;12;48;60;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607007;11600607007;Goyalbari/Ameshor/Uttor Kobaru;Mojnu Miya;7;32;80;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10607008;11600607008;Goyalbari/Ameshor/Uttor Kobaru;Enamul Haq;21;81;70;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Rangpur;6;10608001;11600608001;Uttor Bahadur Singh;Fokirapara/ Muktarer Barir Pashe;12;59;30;1;1;4;1;1;1;3;1;3;1;3;4;4;4;4;4;40
+Rangpur;6;10608002;11600608002;Uttor Bahadur Singh;Ahadul Barir Pashe;12;30;40;1;1;4;1;1;1;2;4;4;3;1;4;4;4;4;4;43
+Rangpur;6;10609001;11600609001;Moddho Bahadur Singh;Nurul Haq Dealer;75;349;80;1;1;4;1;1;1;1;4;4;2;4;4;4;4;4;4;44
+Rangpur;6;10609002;11600609002;Moddho Bahadur Singh;Foridul Islam Bari;50;225;70;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Rangpur;6;10609003;11600609003;Moddho Bahadur Singh;Abdullah Master Bari;15;71;35;1;1;4;1;1;1;1;4;4;2;4;4;4;4;4;4;40
+Rangpur;7;10701001;11600701001;Gulal Badhai;Banger Chowra Boshoty;22;90;70;2;1;4;1;1;1;2;4;4;1;4;2;1;2;4;4;38
+Rangpur;7;10701002;11600701002;Gulal Badhai;Gulal Budhai Digol Tary Boshoty;9;36;40;3;2;4;1;1;1;4;4;3;1;4;4;1;4;4;4;45
+Rangpur;7;10701003;11600701003;Gulal Badhai;Gulal Budhai Aka Tary Boshoty;30;120;80;3;2;2;1;1;1;2;4;2;2;4;4;1;4;4;4;41
+Rangpur;7;10701004;11600701004;Gulal Badhai;Jom Chowra Noya Tary Boshoty;60;300;45;1;1;3;1;1;1;1;4;3;1;4;4;1;1;1;1;29
+Rangpur;7;10702001;11600702001;Badhai;Kamarer Da Boshoty;20;70;75;2;1;4;1;1;1;1;4;3;2;4;4;1;4;4;4;41
+Rangpur;7;10702002;11600702002;Badhai;Noya Bazar Boshoty;25;99;85;2;2;4;1;4;1;1;4;3;2;4;4;1;4;4;4;45
+Rangpur;7;10702003;11600702003;Badhai;Budhai Babu Tary Boshoty;7;22;30;2;2;4;1;1;1;1;4;4;1;4;2;1;2;1;2;33
+Rangpur;7;10702004;11600702004;Badhai;Budhai Noya Bazar;52;195;70;3;2;4;1;1;4;2;4;4;1;4;4;1;4;4;4;47
+Rangpur;7;10702005;11600702005;Badhai;Budhai Mowlavi Para Boshoty;40;125;85;2;2;4;1;1;1;2;4;3;2;4;4;1;4;4;4;43
+Rangpur;7;10703001;11600703001;Benughat;Benghat Dokhin Para Boshoty;27;82;90;2;1;4;1;1;1;3;3;4;1;4;1;1;1;2;1;31
+Rangpur;7;10703002;11600703002;Benughat;Digrpara Uttonpar Boshoty;53;202;80;2;1;4;1;1;1;2;4;4;1;3;4;4;4;4;4;44
+Rangpur;7;10703003;11600703003;Benughat;Chowrahat Dokhin Para Boshoty;72;154;35;2;1;4;1;1;1;1;4;4;1;3;1;1;1;2;1;29
+Rangpur;7;10703004;11600703004;Benughat;Chowrahat Boshoty-1;22;63;15;2;1;4;1;1;1;4;4;4;1;4;4;4;4;4;4;47
+Rangpur;7;10703005;11600703005;Benughat;Chowrahat Boshoty-2;44;152;30;2;1;4;1;1;4;4;4;4;3;4;4;4;4;4;4;52
+Rangpur;7;10703006;11600703006;Benughat;Benugat Purbo Para;43;92;95;1;1;4;1;1;1;1;4;4;1;4;4;4;4;4;4;43
+Rangpur;7;10704001;11600704001;Boksa;Boksa Dorgarpar;20;58;100;2;1;3;1;1;1;2;4;2;1;4;4;4;4;4;4;42
+Rangpur;7;10704002;11600704002;Boksa;Boksa Jame Masjeed Boshoty;18;96;90;1;1;4;1;1;1;1;4;4;1;4;4;4;4;4;4;43
+Rangpur;7;10705001;11600705001;Horirammol;Horiram Mol Purbopara Boshoty;32;110;25;1;1;4;1;1;2;4;4;4;1;4;4;4;4;4;4;47
+Rangpur;7;10705002;11600705002;Horirammol;Horiram Mol Boshoty;53;180;70;1;1;3;1;1;2;1;3;4;1;4;4;4;4;4;4;42
+Rangpur;7;10706001;11600706001;Topodhon;Topodhon Hori  Mondir Boshoty;42;183;40;2;1;4;1;1;2;2;4;4;1;4;4;4;4;4;4;46
+Rangpur;7;10707001;11600707001;Moynakuthi;Moyna Kuthi;22;90;80;1;1;3;1;1;2;2;4;3;1;4;4;3;4;4;4;42
+Rangpur;7;10707002;11600707002;Moynakuthi;Moyna Kuthi Purbopara;80;260;100;1;1;3;1;1;2;1;3;3;1;4;2;2;2;1;1;29
+Rangpur;7;10708001;11600708001;Dalalipara;Dalali Para Uttor Para Boshoty;63;206;100;2;1;4;1;1;1;1;4;4;1;4;4;4;4;4;4;44
+Rangpur;7;10709001;11600709001;Koipara;Koipara Colony Boshoty;10;39;75;1;1;3;1;1;1;1;4;4;4;4;4;1;4;4;4;42
+Rangpur;7;10709002;11600709002;Koipara;Molati Tary Boshoty;54;196;75;2;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;38
+Rangpur;7;10709003;11600709003;Koipara;Budai Mowlavi Para Boshoty;55;175;80;2;1;4;1;1;1;1;4;3;1;4;4;1;4;4;4;40
+Rangpur;8;10801001;11600801001;Karthik (North);Moddho Karthik;26;150;60;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;8;10801002;11600801002;Karthik (North);Kesamat Monse Para;50;144;60;4;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;37
+Rangpur;8;10801003;11600801003;Karthik (North);Cort Karthik;60;150;50;1;1;4;1;1;1;1;4;1;1;3;4;1;4;4;1;33
+Rangpur;8;10801004;11600801004;Karthik (North);Kesamat Poschim Para;60;160;60;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10801005;11600801005;Karthik (North);Karthik Kharia Tary;20;105;26;1;1;4;4;1;1;1;1;1;1;3;4;1;4;4;4;36
+Rangpur;8;10802001;11600802001;Karthik (South);Atharo Dhon Nama Tary;200;800;40;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10802002;11600802002;Karthik (South);Atharo Dhon;150;750;40;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10802003;11600802003;Karthik (South);Atharo Dhon Uttor Tary;50;250;40;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10802004;11600802004;Karthik (South);Karthik Pat-2, Sarkar Tary;60;300;40;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10802005;11600802005;Karthik (South);Dokkhin Karthik Poschim;60;300;35;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10802006;11600802006;Karthik (South);Azizul School Dokkhin Karthik;60;240;60;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10802007;11600802007;Karthik (South);Dokkhin Karthik Rengoler Math;60;300;35;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;8;10803001;11600803001;Chand Khuti;Atharo Dhon Purbo Para;22;144;25;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803002;11600803002;Chand Khuti;Atharo Dhon;25;150;30;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803003;11600803003;Chand Khuti;Teli Tary;30;168;30;1;1;4;1;1;1;1;4;1;1;1;3;1;3;4;4;32
+Rangpur;8;10803004;11600803004;Chand Khuti;Shad Bazar (Dokkhin Anso);20;95;30;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803005;11600803005;Chand Khuti;Teli Tary;35;186;30;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803006;11600803006;Chand Khuti;Anech Tary, Doctor Para;70;295;30;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803007;11600803007;Chand Khuti;Sarkar Para;65;325;25;1;1;4;1;1;2;1;4;1;1;1;4;1;4;4;4;35
+Rangpur;8;10803008;11600803008;Chand Khuti;Chad Kuti Purbo Para, 42 Dhon;32;155;18;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803009;11600803009;Chand Khuti;Guccho Gram;150;720;30;1;1;4;1;1;1;1;1;1;1;1;1;1;2;2;3;23
+Rangpur;8;10803010;11600803010;Chand Khuti;Chand Kuti School Para;45;198;10;1;1;4;1;1;1;1;3;1;1;1;2;1;2;3;3;27
+Rangpur;8;10803011;11600803011;Chand Khuti;Chand Kuti Moddho Para;45;215;25;1;1;4;1;1;1;1;4;1;1;1;4;1;4;4;4;34
+Rangpur;8;10803012;11600803012;Chand Khuti;Poschim Para;65;310;30;1;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;37
+Rangpur;8;10804001;11600804001;Babhu Kamal;Badhu Kamola Poschim Para;60;255;35;1;1;4;1;2;2;1;4;3;1;1;4;1;4;4;4;38
+Rangpur;8;10804002;11600804002;Babhu Kamal;Vatia Para;50;215;15;1;1;4;1;1;2;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;8;10804003;11600804003;Babhu Kamal;Badhu Kamola Bosty;50;210;10;1;1;4;1;1;1;1;1;1;1;1;1;1;3;1;3;23
+Rangpur;8;10804004;11600804004;Babhu Kamal;Sha Para;55;267;60;1;1;4;1;1;2;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;8;10804005;11600804005;Babhu Kamal;Sha Para (Poschim Para);35;162;35;1;1;4;1;1;2;1;4;3;2;1;4;1;4;4;4;38
+Rangpur;8;10805001;11600805001;Arazi;Purbo Para;175;875;125;1;1;4;1;1;1;1;4;2;1;2;4;1;4;4;4;36
+Rangpur;8;10805002;11600805002;Arazi;Poschim Para;275;1225;110;1;1;4;1;1;1;1;4;2;2;1;4;1;4;4;4;36
+Rangpur;8;10805003;11600805003;Arazi;Mowlove Para;147;728;60;1;1;4;1;1;1;1;4;2;2;1;4;1;4;4;4;36
+Rangpur;8;10806001;11600806001;Mahabbat Khan;Sit Mahabat Kha Boshoty;127;509;43;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;8;10806002;11600806002;Mahabbat Khan;Purbo Para Boshoty;43;208;170;1;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;37
+Rangpur;8;10806003;11600806003;Mahabbat Khan;Monde Para Boshoty;85;495;155;1;1;4;1;1;1;1;4;2;1;1;4;1;4;4;4;35
+Rangpur;8;10807001;11600807001;Mahabbat Khan (Umar Kuti);Tan Para Boshoty;185;813;75;1;1;4;1;1;1;1;4;2;2;1;4;1;4;4;4;36
+Rangpur;8;10808002;11600808002;Khalisha Kuri-1;Taly Tary Boshoty;95;540;85;1;1;4;1;1;1;1;4;2;2;1;4;1;4;4;4;36
+Rangpur;9;10901001;11600901001;Kisamat Para;Monur Para (Alu);40;170;100;2;1;4;1;1;1;2;2;2;2;3;4;2;4;4;4;39
+Rangpur;9;10901002;11600901002;Kisamat Para;Bangkar Monu;15;65;40;2;1;4;1;1;2;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;9;10901003;11600901003;Kisamat Para;Sahapara Motheber Para;50;210;60;2;1;4;1;1;1;2;3;4;3;3;4;1;4;4;4;42
+Rangpur;9;10901004;11600901004;Kisamat Para;Sahapara Jagitary;20;90;60;2;1;4;1;1;1;2;3;4;3;3;4;1;4;4;4;42
+Rangpur;9;10901005;11600901005;Kisamat Para;Bahar Kasna Mozid Market;50;200;70;2;1;4;1;1;1;2;3;4;3;3;4;1;4;4;4;42
+Rangpur;9;10901006;11600901006;Kisamat Para;Mudi Khana;120;500;80;2;1;4;1;1;3;2;3;4;4;3;4;2;4;4;4;46
+Rangpur;9;10901007;11600901007;Kisamat Para;Shahpara Mosjider Para;30;130;60;1;1;4;1;1;1;3;2;2;2;3;4;1;4;4;4;38
+Rangpur;9;10902001;11600902001;Jummatari;Teli Para Uttor Masjeedir Pashe;25;120;6;2;1;4;1;1;2;4;4;3;2;3;4;4;4;4;4;47
+Rangpur;9;10902002;11600902002;Jummatari;Teli Para Khas Math;25;110;50;2;1;4;1;1;3;3;4;2;2;1;1;1;1;2;1;30
+Rangpur;9;10902003;11600902003;Jummatari;New Master Para;20;90;3;2;1;4;1;1;2;1;3;2;2;3;4;4;4;4;4;42
+Rangpur;9;10902004;11600902004;Jummatari;Hazir Khamar;50;250;10;2;1;4;1;1;3;1;4;4;2;3;4;4;4;4;4;46
+Rangpur;9;10902005;11600902005;Jummatari;Councilor Office Ar Pichone (Daway Tary);25;110;60;2;1;4;1;1;3;1;4;2;2;2;4;4;4;4;4;43
+Rangpur;9;10902006;11600902006;Jummatari;Teli Para Poschim Pashe;35;100;30;2;1;4;1;1;3;1;4;4;2;3;4;4;4;4;4;46
+Rangpur;9;10902007;11600902007;Jummatari;Teli Para Dokkhin Pashe;40;120;30;2;1;4;1;1;2;1;3;2;2;3;4;4;4;4;4;42
+Rangpur;9;10903001;11600903001;Ramgobindratari;Kali Mandir;30;130;60;3;2;3;1;1;2;1;3;3;2;2;4;4;4;4;4;43
+Rangpur;9;10903002;11600903002;Ramgobindratari;Hindu Para Poschim;20;90;25;3;2;3;1;1;2;2;3;4;3;2;4;4;4;4;4;46
+Rangpur;9;10903003;11600903003;Ramgobindratari;Tepa Tary;10;50;30;2;1;3;1;1;3;2;3;4;3;3;4;4;4;4;4;46
+Rangpur;9;10903004;11600903004;Ramgobindratari;Aponpara;10;40;30;2;1;1;1;1;1;1;2;3;2;2;3;3;4;4;4;35
+Rangpur;9;10904001;11600904001;Chilman Purbopara;Purbopara Masjeed Mor;30;135;45;2;1;3;1;1;3;2;3;4;3;3;4;4;4;4;4;46
+Rangpur;9;10904002;11600904002;Chilman Purbopara;Kachna Tukutary-2;22;100;50;2;1;3;1;1;3;2;3;4;3;3;4;4;4;4;4;46
+Rangpur;9;10904003;11600904003;Chilman Purbopara;Baniatary;50;220;70;1;1;3;1;1;3;2;3;4;3;3;4;4;4;4;4;45
+Rangpur;9;10904004;11600904004;Chilman Purbopara;Sarkar Tary;30;140;65;1;1;3;1;1;3;2;3;4;3;3;4;4;4;4;4;45
+Rangpur;9;10905001;11600905001;Chilman Moddho Para;Nurul Huda Boshoty;30;125;45;3;1;4;1;1;1;2;2;3;3;2;4;3;4;4;4;42
+Rangpur;9;10905002;11600905002;Chilman Moddho Para;Adul Hadi Boshoty (Radio);30;130;40;1;1;4;1;1;1;1;3;3;3;2;4;2;4;4;4;39
+Rangpur;9;10905003;11600905003;Chilman Moddho Para;Rustom Ali;35;150;60;1;1;4;1;1;1;1;2;2;3;2;4;3;4;4;4;38
+Rangpur;9;10905004;11600905004;Chilman Moddho Para;Kagoj (Aminul);20;90;35;2;1;4;1;1;4;1;4;4;3;3;1;1;4;4;4;42
+Rangpur;9;10905005;11600905005;Chilman Moddho Para;Kachna Tukitary-1;20;95;50;2;1;4;1;1;4;1;4;4;3;3;1;1;4;4;4;42
+Rangpur;9;10905006;11600905006;Chilman Moddho Para;Khokoner Barir Pichone;35;150;60;1;1;4;1;1;1;1;2;2;3;2;4;3;4;4;4;38
+Rangpur;9;10906001;11600906001;Khalishakuri;Khalisakuri Hat;70;320;70;3;1;4;1;1;2;2;3;3;3;3;4;1;4;4;4;43
+Rangpur;9;10906002;11600906002;Khalishakuri;Nazir Decorator;30;130;40;3;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;44
+Rangpur;9;10907001;11600907001;Shahebgonj;Mafu Pion;35;170;48;1;1;4;1;1;1;1;3;3;3;2;4;2;4;4;4;39
+Rangpur;9;10907002;11600907002;Shahebgonj;Shah Alam;35;149;45;1;1;4;1;1;1;1;2;2;2;3;4;3;4;4;4;38
+Rangpur;9;10907003;11600907003;Shahebgonj;Faruk Mia;30;129;45;2;1;4;1;1;1;1;2;3;2;2;4;2;4;4;4;38
+Rangpur;9;10908001;11600908001;Bircharan;Md. Anarul Islam;200;780;45;2;1;4;1;1;1;1;2;3;3;2;4;1;4;4;4;38
+Rangpur;9;10908002;11600908002;Bircharan;Prothab Master;20;75;48;3;1;4;1;1;1;3;2;3;3;2;4;3;4;4;4;43
+Rangpur;9;10908003;11600908003;Bircharan;Md. Abu Mia;20;70;48;2;1;4;1;1;1;2;3;2;2;2;4;3;4;4;4;40
+Rangpur;9;10908004;11600908004;Bircharan;Barek Boshoty;30;129;48;2;1;4;1;1;1;2;2;2;3;2;4;2;4;4;4;39
+Rangpur;9;10909001;11600909001;Sonalipara;Md. Raza Mia Boshoty;100;395;55;2;1;4;1;1;1;2;2;3;3;2;4;2;4;4;4;40
+Rangpur;9;10909002;11600909002;Sonalipara;Md. Nur Islam;30;110;44;1;1;4;1;1;1;1;2;3;3;2;4;3;4;4;4;39
+Rangpur;9;10909003;11600909003;Sonalipara;Md. Anapul Islam;40;145;43;1;1;4;1;1;1;1;2;3;3;2;4;2;4;4;4;38
+Rangpur;9;10909004;11600909004;Sonalipara;Md. Ringku Mia;10;35;40;3;1;4;1;1;1;3;3;2;3;2;4;3;4;4;4;43
+Rangpur;9;10909005;11600909005;Sonalipara;Mrs. Nur Nahar;10;35;42;3;1;4;1;1;1;3;3;3;4;3;4;3;4;4;4;46
+Rangpur;9;10910001;11600910001;Bahar Kachna Hazi Para;Hazi Para;40;150;50;3;1;4;1;1;1;3;3;3;4;3;4;3;4;4;4;46
+Rangpur;9;10910002;11600910002;Bahar Kachna Hazi Para;Teptary Masjeed Ar Par;30;135;40;3;1;4;1;1;1;3;3;3;4;3;4;3;4;4;4;46
+Rangpur;9;10910003;11600910003;Bahar Kachna Hazi Para;Bangi Tary;40;180;70;3;1;4;1;1;1;3;3;3;4;3;4;3;4;4;4;46
+Rangpur;9;10910004;11600910004;Bahar Kachna Hazi Para;Shobhan Tary;30;135;70;3;1;4;1;1;1;3;3;3;4;3;4;3;4;4;4;46
+Rangpur;10;11001001;11601001001;Poschim Gilabari;Kalla Khawer Tari;45;227;70;2;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;40
+Rangpur;10;11001002;11601001002;Poschim Gilabari;Degol Tari;147;661;67;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11001003;11601001003;Poschim Gilabari;Dhorar Pae;97;435;67;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11002001;11601002001;Purbo Gilabari;Haider Member Para;35;190;42;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Rangpur;10;11002002;11601002002;Purbo Gilabari;Bagha Para;25;155;38;1;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;37
+Rangpur;10;11002003;11601002003;Purbo Gilabari;Chowra Para;40;200;48;3;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;41
+Rangpur;10;11003001;11601003001;Baktarpur(Uchatari);Uttar Uchatari;530;2620;53;3;1;4;1;1;2;2;4;4;3;2;4;1;4;4;4;44
+Rangpur;10;11003002;11601003002;Baktarpur(Uchatari);Dokhin Pathan Para;68;320;58;1;1;4;1;1;2;1;3;2;3;2;4;1;4;4;4;38
+Rangpur;10;11004001;11601004001;Baktarpur (Ghaterpar Poschimpara);Ghater Par;370;850;58;3;1;4;1;1;2;1;4;3;2;1;4;1;4;4;4;40
+Rangpur;10;11004002;11601004002;Baktarpur (Ghaterpar Poschimpara);Mahrir Mor;90;460;20;1;1;4;1;1;2;1;3;3;1;2;4;1;4;4;4;37
+Rangpur;10;11004003;11601004003;Baktarpur (Ghaterpar Poschimpara);Machoya Para;150;937;48;3;1;4;1;1;1;1;2;1;1;1;4;2;4;4;4;35
+Rangpur;10;11004004;11601004004;Baktarpur (Ghaterpar Poschimpara);Khan Para;68;336;50;1;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;37
+Rangpur;10;11005001;11601005001;Purbo Jagadishpur;Shorder Para;35;182;46;3;1;4;1;1;3;1;4;3;4;1;1;1;4;4;4;40
+Rangpur;10;11005002;11601005002;Purbo Jagadishpur;Purbo Jagadishpur (Hintho Para);21;130;48;3;1;4;1;1;3;1;4;1;4;1;1;1;4;4;4;38
+Rangpur;10;11005003;11601005003;Purbo Jagadishpur;Purbo Jagadishpur(Dokhin Para);30;175;49;3;1;4;1;1;3;1;4;1;4;1;1;1;4;4;4;38
+Rangpur;10;11005004;11601005004;Purbo Jagadishpur;Purbo Jagadishpur(Danger Tari);50;250;50;3;1;4;1;1;3;1;4;1;4;1;1;1;4;4;4;38
+Rangpur;10;11006001;11601006001;Moddho Jagadispur;Bala Para;45;210;50;3;1;4;1;1;3;1;4;1;4;1;4;1;4;4;4;41
+Rangpur;10;11006002;11601006002;Moddho Jagadispur;Battola Hindu Para;60;300;45;3;1;4;1;1;3;1;4;1;4;1;4;1;4;4;4;41
+Rangpur;10;11006003;11601006003;Moddho Jagadispur;Dukdugir Biat Hindu Para (Dokhin);50;145;46;1;1;4;1;1;1;1;3;3;3;1;4;1;4;4;4;37
+Rangpur;10;11006004;11601006004;Moddho Jagadispur;Jagodish Pur Shapara;30;125;45;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11006005;11601006005;Moddho Jagadispur;Teli Para;50;150;48;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11007001;11601007001;Poschim Jagadispur;Darar Per;110;450;110;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11007002;11601007002;Poschim Jagadispur;Botthola Jagodish Pur;108;435;94;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11007003;11601007003;Poschim Jagadispur;Jagodish Pur;50;250;75;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11007004;11601007004;Poschim Jagadispur;Mondoll Para;245;1200;100;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11007005;11601007005;Poschim Jagadispur;Bani Tari;30;150;67;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11008001;11601008001;Poschim Gilabari (Kaibarta Para);Koibortho Para;300;1220;80;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Rangpur;10;11008002;11601008002;Poschim Gilabari (Kaibarta Para);Der Halia;195;580;100;3;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;41
+Rangpur;11;11101001;11601101001;Binnatari;Adorsho gram;60;280;70;2;1;4;1;1;1;4;4;4;4;2;4;1;4;4;4;45
+Rangpur;11;11102001;11601102001;Moddho Binnatari;Moddhopara;65;300;60;1;1;4;1;1;1;1;4;4;2;3;4;1;4;4;4;40
+Rangpur;11;11102002;11601102002;Moddho Binnatari;Masterpara;50;215;60;1;1;4;1;1;1;1;4;4;2;3;4;1;4;4;4;40
+Rangpur;11;11102003;11601102003;Moddho Binnatari;Bania Para;20;85;30;2;1;4;1;1;1;1;4;4;2;3;4;1;4;4;4;41
+Rangpur;11;11103001;11601103001;Dokkhin Binnatari;Jummapara;18;85;72;2;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;46
+Rangpur;11;11103002;11601103002;Dokkhin Binnatari;Ghatpara;16;75;60;1;1;4;1;1;1;3;4;4;4;2;4;1;4;4;4;43
+Rangpur;11;11103003;11601103003;Dokkhin Binnatari;Gangerpar;10;45;40;2;1;4;1;1;1;4;4;4;4;2;4;1;4;4;4;45
+Rangpur;11;11104001;11601104001;Uttor Binnatari;Dalaltary;25;110;70;3;1;4;1;1;1;2;4;4;4;3;4;1;4;4;4;45
+Rangpur;11;11104002;11601104002;Uttor Binnatari;Mayatali;30;140;50;3;1;4;1;1;1;2;4;4;4;3;4;1;4;4;4;45
+Rangpur;11;11104003;11601104003;Uttor Binnatari;Mirpara;25;115;60;2;1;4;1;1;1;2;4;3;3;3;4;1;4;4;4;42
+Rangpur;11;11105001;11601105001;Utta Kamdabpur;Poschim Para;55;265;60;2;1;4;1;1;1;2;4;3;2;3;4;4;4;4;4;44
+Rangpur;11;11105002;11601105002;Utta Kamdabpur;Mohot Para;40;185;65;2;1;4;1;1;1;2;4;3;2;3;4;1;4;4;4;41
+Rangpur;11;11105003;11601105003;Utta Kamdabpur;Purbo Para;120;550;65;2;1;4;1;1;1;2;4;4;2;3;4;1;4;4;4;42
+Rangpur;11;11105004;11601105004;Utta Kamdabpur;Jumma Para;24;110;65;2;1;4;1;1;1;2;4;2;2;3;4;1;4;4;4;40
+Rangpur;11;11106001;11601106001;Danght;Danghat Er Mor;35;160;60;2;1;4;1;1;1;3;4;4;2;3;4;1;4;4;4;43
+Rangpur;11;11107001;11601107001;Dokkhin Kamdabpur;Master Para;100;420;130;2;1;4;1;1;1;2;4;4;4;3;4;1;4;4;4;44
+Rangpur;11;11107002;11601107002;Dokkhin Kamdabpur;Uttor Para;55;250;130;3;1;4;1;1;1;2;4;4;3;3;4;1;4;4;4;44
+Rangpur;11;11107003;11601107003;Dokkhin Kamdabpur;Majpara;45;210;130;3;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;41
+Rangpur;11;11107004;11601107004;Dokkhin Kamdabpur;Dokkhin Para;50;235;130;2;1;4;1;1;1;2;4;4;4;3;4;1;4;4;4;44
+Rangpur;11;11107005;11601107005;Dokkhin Kamdabpur;Purbo Para;60;270;130;1;1;4;1;1;1;3;4;3;3;3;4;1;4;4;4;42
+Rangpur;11;11108001;11601108001;Poschim Rajendrapur;Khanpara;100;450;80;1;1;3;1;1;1;2;2;2;1;3;4;1;4;4;4;35
+Rangpur;11;11108002;11601108002;Poschim Rajendrapur;Tat Para;40;180;85;1;1;4;1;1;1;2;3;4;2;3;4;1;4;4;4;40
+Rangpur;11;11109001;11601109001;Shalmara;Bilerpar;8;35;30;1;1;3;1;1;1;2;3;3;2;2;4;1;4;4;4;37
+Rangpur;11;11109002;11601109002;Shalmara;Shoid Er Mor;35;130;65;2;1;4;1;1;1;2;3;4;3;2;4;1;4;4;4;41
+Rangpur;11;11109003;11601109003;Shalmara;Bazar Par;20;80;40;2;1;3;1;1;1;2;3;3;3;2;4;1;4;4;4;39
+Rangpur;11;11110001;11601110001;Azimpur;Azimpur;10;40;45;1;1;3;1;1;1;2;3;3;3;3;4;1;4;4;4;39
+Rangpur;11;11111001;11601111001;Kamarpar;Goalpara;25;110;30;2;1;4;1;1;1;2;4;3;4;3;4;1;4;4;4;43
+Rangpur;11;11112001;11601112001;Mostobpur;Napit Para;35;160;60;2;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;42
+Rangpur;11;11112002;11601112002;Mostobpur;Piajir Mor;10;40;45;2;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;43
+Rangpur;11;11113001;11601113001;Purbo Rajendrapur;Master Para;40;165;50;2;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;46
+Rangpur;11;11113002;11601113002;Purbo Rajendrapur;Mondirpara;13;55;40;2;1;4;1;1;1;3;4;4;4;3;4;1;4;4;4;45
+Rangpur;11;11114001;11601114001;Hori Mondirpara;Mondirpara-1;25;112;78;2;1;4;1;1;1;2;4;4;3;3;4;1;4;4;4;43
+Rangpur;11;11114002;11601114002;Hori Mondirpara;Bazar Para;12;55;50;2;1;4;1;1;1;2;4;4;2;3;4;1;4;4;4;42
+Rangpur;11;11114003;11601114003;Hori Mondirpara;Chatal Para;20;85;45;2;1;4;1;1;1;2;4;3;4;3;4;1;4;4;4;43
+Rangpur;11;11114004;11601114004;Hori Mondirpara;Dhorar Para;16;68;40;2;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;42
+Rangpur;12;11201001;11601201001;Masterpara;Sribash Kamar (Roy Para);23;65;30;1;1;3;1;1;1;3;1;1;2;1;4;3;4;4;4;35
+Rangpur;12;11201002;11601201002;Masterpara;Naresh (Masua) Roy Para;25;110;20;1;1;3;1;1;1;2;1;1;2;1;4;3;4;4;4;34
+Rangpur;12;11201003;11601201003;Masterpara;Profullo Roy (Roy Para);11;45;10;2;1;3;1;1;1;2;2;1;1;1;4;3;4;4;4;35
+Rangpur;12;11201004;11601201004;Masterpara;Kasi Roy (Roy Para);18;60;20;2;1;3;1;1;2;3;1;4;2;1;4;3;4;4;4;40
+Rangpur;12;11201005;11601201005;Masterpara;Kazi Mia (College Para);10;40;15;2;1;3;1;1;2;2;2;3;2;2;4;3;4;4;4;40
+Rangpur;12;11201006;11601201006;Masterpara;Fazlu Miah (School Para);6;22;10;1;1;3;1;1;2;2;2;2;2;2;4;3;4;4;4;38
+Rangpur;12;11201007;11601201007;Masterpara;ENU Nikari (Bala Para);11;40;17;2;1;3;1;1;2;3;3;3;3;2;4;3;4;4;4;43
+Rangpur;12;11201008;11601201008;Masterpara;Tobarak Hossain Bablu (Boksi Para);32;135;50;2;1;4;1;1;1;3;3;2;3;2;4;3;4;4;4;42
+Rangpur;12;11202001;11601202001;Gopinathpur;Saiful/ Raja Para;20;40;20;2;1;3;1;1;2;2;2;2;2;2;4;1;4;4;4;37
+Rangpur;12;11202002;11601202002;Gopinathpur;Azizar Monjjin Para;15;60;25;2;1;3;1;1;2;2;2;2;2;2;4;1;4;4;4;37
+Rangpur;12;11202003;11601202003;Gopinathpur;Dr.Mofijul Chowdhory Para;27;100;15;2;1;4;1;1;1;2;3;3;3;2;4;1;4;4;4;40
+Rangpur;12;11202004;11601202004;Gopinathpur;Dulal Master Para;6;20;15;2;1;3;1;1;2;1;3;2;2;2;4;1;4;4;4;37
+Rangpur;12;11202005;11601202005;Gopinathpur;Abdul Hai/ Soto Miah Para;20;80;30;2;1;3;1;1;2;2;2;2;2;2;4;1;4;4;4;37
+Rangpur;12;11202006;11601202006;Gopinathpur;Dula Stall Para;25;110;30;2;1;3;1;1;2;1;2;2;2;2;4;1;4;4;4;36
+Rangpur;12;11202007;11601202007;Gopinathpur;Badia Para;40;170;30;2;2;3;1;1;2;3;2;2;2;2;4;1;4;4;4;39
+Rangpur;12;11202008;11601202008;Gopinathpur;Chowdhory Para;25;100;50;2;2;3;1;1;3;3;3;3;3;2;4;1;4;4;4;43
+Rangpur;12;11203001;11601203001;Parkhi Frandra;Upendro (Master Para);11;45;20;2;1;4;1;1;1;3;3;3;3;2;4;1;4;4;4;41
+Rangpur;12;11203002;11601203002;Parkhi Frandra;Badol Para;25;100;24;2;1;3;1;1;2;2;2;2;2;2;4;3;4;4;4;39
+Rangpur;12;11203003;11601203003;Parkhi Frandra;Sobod Para;12;55;15;3;2;3;1;1;2;3;2;2;2;2;4;3;4;4;4;42
+Rangpur;12;11203004;11601203004;Parkhi Frandra;Kmon Para;11;50;22;3;2;3;1;1;2;3;3;2;2;2;4;3;4;4;4;43
+Rangpur;12;11203005;11601203005;Parkhi Frandra;Abdul Mannan (Boksipara);31;125;70;2;2;3;1;1;2;4;2;2;3;2;4;3;4;4;4;43
+Rangpur;12;11203006;11601203006;Parkhi Frandra;Dulal Para;7;30;25;2;2;3;1;1;2;3;2;2;2;2;4;3;4;4;4;41
+Rangpur;12;11203007;11601203007;Parkhi Frandra;Jogodish Barman (Sutar Para);19;85;30;2;1;3;1;1;2;1;2;2;2;2;4;3;4;4;4;38
+Rangpur;12;11203008;11601203008;Parkhi Frandra;Bhulu Barman;22;90;30;2;1;3;1;1;2;2;2;2;2;2;4;1;4;4;4;37
+Rangpur;12;11203009;11601203009;Parkhi Frandra;Nitta Barman (Khamar Para);35;130;45;2;1;3;1;1;2;3;2;2;2;2;4;3;4;4;4;40
+Rangpur;12;11203010;11601203010;Parkhi Frandra;Pori Barman (Khamar Para);19;80;45;2;2;3;1;1;2;3;2;2;3;2;4;3;4;4;4;42
+Rangpur;12;11203011;11601203011;Parkhi Frandra;Subol Barmanpur;8;25;35;2;1;3;1;1;2;1;2;2;2;2;4;3;4;4;4;38
+Rangpur;12;11204001;11601204001;Jalkaria;Moslem (Muyajiner Bari);9;30;18;1;1;4;1;1;1;1;4;3;2;2;4;2;4;4;4;39
+Rangpur;12;11204002;11601204002;Jalkaria;Ruhul Amin Bari;40;152;65;2;1;3;1;1;1;1;4;3;3;1;4;3;4;4;4;40
+Rangpur;12;11204003;11601204003;Jalkaria;Jelhar Member;35;130;65;2;1;4;1;1;1;1;4;3;2;2;4;2;4;4;4;40
+Rangpur;12;11204004;11601204004;Jalkaria;Sakir Bari;8;40;120;2;1;4;1;1;2;1;4;3;2;2;4;2;4;4;4;41
+Rangpur;12;11204005;11601204005;Jalkaria;Suit Ar Bari;34;153;120;2;1;4;1;1;1;2;4;3;2;2;4;2;4;4;4;41
+Rangpur;12;11204006;11601204006;Jalkaria;Jillur Rahman;50;200;115;2;1;4;1;1;1;1;4;3;1;2;4;2;4;4;4;39
+Rangpur;12;11204007;11601204007;Jalkaria;Bipul Chondro Shil;13;50;110;2;1;4;1;1;1;1;4;3;2;2;4;2;4;4;4;40
+Rangpur;12;11204008;11601204008;Jalkaria;Kasem Bazar;6;30;150;2;1;4;1;1;2;2;4;3;3;2;4;2;4;4;4;43
+Rangpur;12;11205001;11601205001;Bhobanipur;Guccho Gram;76;365;8;2;1;4;1;1;1;1;3;3;1;1;4;2;3;3;3;34
+Rangpur;12;11205002;11601205002;Bhobanipur;Sofiqul Ar Bari;10;50;100;1;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;38
+Rangpur;12;11205003;11601205003;Bhobanipur;Asader Bari;8;40;100;2;1;4;1;1;1;3;4;3;2;2;4;2;4;4;4;42
+Rangpur;12;11205004;11601205004;Bhobanipur;Sultan;10;50;100;2;1;4;1;1;2;3;4;3;3;2;4;2;4;4;4;44
+Rangpur;12;11205005;11601205005;Bhobanipur;Shajahan;10;45;100;2;1;4;1;1;2;2;4;3;3;2;4;2;4;4;4;43
+Rangpur;12;11205006;11601205006;Bhobanipur;Montaj;6;25;120;2;1;4;1;1;1;3;4;3;3;2;4;2;4;4;4;43
+Rangpur;12;11205007;11601205007;Bhobanipur;Anoyara;25;150;100;2;1;4;1;1;1;3;4;3;2;2;4;2;4;4;4;42
+Rangpur;12;11205008;11601205008;Bhobanipur;Nojrul Islam;6;30;115;2;1;4;1;1;1;1;4;1;1;2;4;2;4;4;4;37
+Rangpur;12;11206001;11601206001;Chok Isabpur;Abu Said Para;30;155;60;2;1;4;1;1;1;1;3;2;2;2;4;1;4;4;4;37
+Rangpur;12;11206002;11601206002;Chok Isabpur;Community Clinic;12;45;60;1;1;4;1;1;1;2;4;3;3;3;4;4;4;4;4;44
+Rangpur;12;11206003;11601206003;Chok Isabpur;Noya Mia Para;70;250;80;3;1;4;1;1;1;1;4;3;3;3;3;4;4;4;4;44
+Rangpur;12;11206004;11601206004;Chok Isabpur;Sadikul Para;6;40;16;1;1;4;1;1;1;1;3;3;2;2;4;1;4;4;4;37
+Rangpur;12;11207001;11601207001;Poschim Gopinathpur;Shomser Doctor;250;1100;70;3;1;4;1;1;1;3;3;3;1;1;4;1;4;4;4;39
+Rangpur;12;11207002;11601207002;Poschim Gopinathpur;Toyab Ali Para;45;250;70;2;1;4;1;1;1;2;4;3;2;1;4;1;4;4;4;39
+Rangpur;12;11207003;11601207003;Poschim Gopinathpur;Samin Para;150;700;80;2;1;4;1;1;1;3;4;3;2;2;4;1;4;4;4;41
+Rangpur;12;11207004;11601207004;Poschim Gopinathpur;Hindu Para;200;1000;70;2;1;4;1;1;1;3;4;3;2;3;4;1;4;4;4;42
+Rangpur;12;11207005;11601207005;Poschim Gopinathpur;Comiunity Clinic Para;100;500;60;2;1;4;1;1;1;3;4;3;3;2;4;1;4;4;4;42
+Rangpur;12;11208001;11601208001;Purbo Gopinathpur;Manju Sir;21;85;40;2;1;3;1;1;2;3;3;2;2;2;4;1;4;4;4;39
+Rangpur;12;11208002;11601208002;Purbo Gopinathpur;Jahid Journaliet;30;130;40;2;1;3;1;1;2;3;2;2;2;2;4;1;4;4;4;38
+Rangpur;12;11208003;11601208003;Purbo Gopinathpur;Dram Siddik Para;27;90;40;2;1;3;1;1;2;3;2;2;2;2;4;1;4;4;4;38
+Rangpur;12;11208004;11601208004;Purbo Gopinathpur;Sultan/ Alom Para;20;82;40;2;1;3;1;1;2;3;2;2;2;2;4;1;4;4;4;38
+Rangpur;12;11209001;11601209001;Poschim Radha Krisnapur;Bala Para;150;500;100;3;1;4;1;1;2;3;4;3;3;3;4;1;4;4;4;45
+Rangpur;12;11209002;11601209002;Poschim Radha Krisnapur;Nizabuddi Park;40;190;90;2;1;4;1;1;1;2;4;3;2;3;4;1;4;4;4;41
+Rangpur;12;11209003;11601209003;Poschim Radha Krisnapur;Chowdhury Para;400;1000;80;3;1;4;1;1;1;2;4;3;3;3;4;1;4;4;4;43
+Rangpur;12;11209004;11601209004;Poschim Radha Krisnapur;Rofiqul Para;30;200;50;3;1;4;1;1;1;2;4;3;1;2;4;1;4;4;4;40
+Rangpur;12;11210001;11601210001;Purbo Radha Krisnapur;Roton Councilor;15;70;120;2;1;4;1;1;2;1;4;3;3;2;4;2;4;4;4;42
+Rangpur;12;11210002;11601210002;Purbo Radha Krisnapur;Moksu Driver;18;100;160;2;1;4;1;1;2;2;4;3;3;2;4;2;4;4;4;43
+Rangpur;12;11210003;11601210003;Purbo Radha Krisnapur;Majeder Bari;45;220;120;2;1;4;1;1;2;2;4;3;3;2;4;2;4;4;4;43
+Rangpur;12;11210004;11601210004;Purbo Radha Krisnapur;Majeder Bari;40;200;48;3;1;4;1;1;1;2;2;3;3;2;4;2;4;4;4;41
+Rangpur;12;11210005;11601210005;Purbo Radha Krisnapur;Safiul Alam;12;60;100;2;1;4;1;1;1;1;4;3;2;2;4;2;4;4;4;40
+Rangpur;12;11211001;11601211001;Khenpara;Hindu Para-1;120;580;70;2;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;40
+Rangpur;12;11211002;11601211002;Khenpara;Hindu Para-2;100;525;70;2;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;40
+Rangpur;12;11211003;11601211003;Khenpara;Hindu Para -3;117;375;70;2;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;40
+Rangpur;13;11301001;11601301001;Pirzabad;Bottolar Mor;50;220;20;2;1;4;1;1;2;1;2;2;2;3;4;1;4;4;4;38
+Rangpur;13;11301002;11601301002;Pirzabad;Moja Member Ar Para;190;855;25;2;1;4;1;1;2;3;4;4;3;3;4;1;4;4;4;45
+Rangpur;13;11301003;11601301003;Pirzabad;North Haria Para;150;675;25;2;1;4;1;1;2;2;3;3;3;3;4;1;4;4;4;42
+Rangpur;13;11301004;11601301004;Pirzabad;Haria Para;150;675;20;2;1;4;1;1;3;1;3;2;2;3;4;2;4;4;4;41
+Rangpur;13;11301005;11601301005;Pirzabad;Primary School Ar Mor;150;675;25;2;1;4;1;1;2;1;3;1;3;3;4;1;4;4;4;39
+Rangpur;13;11301006;11601301006;Pirzabad;BRAC Primary School Ar Mor;210;945;25;2;1;4;1;1;3;1;3;3;2;3;4;1;4;4;4;41
+Rangpur;13;11302001;11601302001;Jugipara;Ucha Gram;50;270;30;2;2;4;1;1;2;1;2;3;3;3;4;2;4;4;4;42
+Rangpur;13;11302002;11601302002;Jugipara;Jugitari;80;350;35;2;2;4;1;1;2;1;3;3;3;3;4;2;4;4;4;43
+Rangpur;13;11302003;11601302003;Jugipara;Bepari Para;20;90;20;3;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;44
+Rangpur;13;11303001;11601303001;Shommanipur Purbo;Dangi Para;150;675;25;2;1;4;1;1;2;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;13;11303002;11601303002;Shommanipur Purbo;Hareya Park;65;290;25;2;1;4;1;1;2;1;3;2;3;3;4;1;4;4;4;40
+Rangpur;13;11303003;11601303003;Shommanipur Purbo;Mokrullah Para;45;200;10;2;1;3;1;1;2;1;3;2;3;3;4;1;4;4;4;39
+Rangpur;13;11303004;11601303004;Shommanipur Purbo;Moddho Shommanipara;180;810;25;2;1;4;1;1;2;1;3;2;2;3;4;1;4;4;4;39
+Rangpur;13;11303005;11601303005;Shommanipur Purbo;Mia Para;140;630;30;2;1;4;1;1;2;1;3;2;2;3;4;2;4;4;4;40
+Rangpur;13;11303006;11601303006;Shommanipur Purbo;Shommoanipur;100;450;22;2;1;4;1;1;2;1;3;2;2;3;4;2;4;4;4;40
+Rangpur;13;11303007;11601303007;Shommanipur Purbo;Bala Para;20;90;20;2;1;4;1;1;2;1;3;2;2;3;4;2;4;4;4;40
+Rangpur;13;11304001;11601304001;Holarpukur;Holkar Para;33;150;200;2;1;4;1;1;2;2;3;3;3;4;4;2;4;4;4;44
+Rangpur;13;11304002;11601304002;Holarpukur;Kona Tary;25;115;200;2;2;2;1;1;2;2;3;3;3;4;4;2;4;4;4;43
+Rangpur;13;11304003;11601304003;Holarpukur;Holar Pukur Madrasha Tary;40;180;200;2;1;4;1;1;1;2;3;4;4;4;4;1;4;4;4;44
+Rangpur;13;11304004;11601304004;Holarpukur;Gabtoli;25;115;200;2;2;4;1;1;2;2;3;4;4;3;4;1;4;4;4;45
+Rangpur;13;11304005;11601304005;Holarpukur;Gabtoli Madhan Kholar Math;10;45;50;2;1;4;1;1;2;2;3;3;3;3;1;2;1;2;1;32
+Rangpur;13;11304006;11601304006;Holarpukur;Boro Moydan Math;8;40;50;2;1;4;1;1;1;1;3;3;4;4;4;1;4;4;4;42
+Rangpur;13;11305001;11601305001;Shommanipur Poschim;Abjer Tary;55;250;20;2;1;4;1;1;3;1;3;3;3;3;4;1;4;4;4;42
+Rangpur;13;11305002;11601305002;Shommanipur Poschim;Bala Para;60;250;35;2;1;3;1;1;3;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;13;11305003;11601305003;Shommanipur Poschim;Monir Tary;40;170;25;2;1;3;1;1;2;1;3;3;3;3;4;1;4;4;4;40
+Rangpur;13;11305004;11601305004;Shommanipur Poschim;Shommanipur Bottola;55;220;30;1;1;3;1;1;2;1;2;3;3;3;4;2;4;4;4;39
+Rangpur;13;11305005;11601305005;Shommanipur Poschim;Gabtoli Bottola;15;70;20;2;1;2;1;1;3;1;3;4;4;3;4;1;4;4;4;42
+Rangpur;13;11305006;11601305006;Shommanipur Poschim;Moherur Mor;20;100;15;2;1;4;1;1;3;1;2;3;4;3;4;2;4;4;4;43
+Rangpur;13;11306001;11601306001;Boro Moydan;Boro Moydan Eid Gha;170;425;30;3;2;4;1;1;2;2;4;3;3;3;4;1;4;4;4;45
+Rangpur;13;11306002;11601306002;Boro Moydan;Damuddor Shatghoriya;40;180;200;2;2;4;1;1;2;2;4;3;3;3;4;1;4;4;4;44
+Rangpur;13;11306003;11601306003;Boro Moydan;Pramonik Para;30;135;220;2;2;4;1;1;2;2;4;3;3;3;4;1;4;4;4;44
+Rangpur;13;11306004;11601306004;Boro Moydan;Chowdhury Para;20;90;200;2;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;39
+Rangpur;13;11307001;11601307001;Nishibetgonj;West Pirjabad/ Bepary Para;50;200;15;2;1;4;1;1;3;1;3;3;3;3;4;2;4;4;4;43
+Rangpur;13;11307002;11601307002;Nishibetgonj;Choto Moydan/ Bepari Para;40;150;25;2;1;4;1;1;3;1;3;3;3;3;4;2;4;4;4;43
+Rangpur;13;11307003;11601307003;Nishibetgonj;Labur Mil;30;130;30;2;1;4;1;1;3;1;3;3;3;3;4;1;4;4;4;42
+Rangpur;13;11307004;11601307004;Nishibetgonj;Rohmot Para Koshay Potty;80;245;45;2;1;3;1;1;3;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;13;11307005;11601307005;Nishibetgonj;Shutar Tary;35;130;40;2;1;4;1;1;3;1;3;3;3;3;4;1;4;4;4;42
+Rangpur;13;11307006;11601307006;Nishibetgonj;Tale Tary;35;140;35;2;1;3;1;1;3;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;13;11307007;11601307007;Nishibetgonj;Faksia Tary;25;110;20;2;1;4;1;1;3;1;4;4;3;3;4;2;4;4;4;45
+Rangpur;13;11307008;11601307008;Nishibetgonj;Munshir Mor;30;130;25;1;1;3;1;1;3;1;3;3;3;3;4;2;4;4;4;41
+Rangpur;14;11401001;11601401001;Dangipar(Dolapara);North Dangirpar;25;110;30;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;14;11401002;11601401002;Dangipar(Dolapara);South Dangir Para;20;90;40;2;1;4;1;1;2;1;3;3;1;3;4;2;4;4;4;40
+Rangpur;14;11401003;11601401003;Dangipar(Dolapara);Deodoba;40;180;40;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Rangpur;14;11402001;11601402001;Pathan Para;Nodir Par;25;115;80;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;14;11402002;11601402002;Pathan Para;Chand Kuty;50;225;90;2;1;4;1;1;2;1;3;3;2;2;4;2;4;4;4;40
+Rangpur;14;11402003;11601402003;Pathan Para;Baniapara Labour Dokan;40;170;35;2;1;4;1;1;1;1;4;3;2;3;4;2;4;4;4;41
+Rangpur;14;11402004;11601402004;Pathan Para;Pathan Para Jame Masjeed;40;180;70;2;1;4;1;1;1;1;3;3;2;3;4;2;4;4;4;40
+Rangpur;14;11403001;11601403001;Moddho Deodoba & Paikar Para;Paikar Bazar Jame Masjeed;40;170;80;2;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;38
+Rangpur;14;11403002;11601403002;Moddho Deodoba & Paikar Para;South Paikar Para;15;65;60;2;1;4;1;1;1;1;3;3;1;2;4;1;4;4;4;37
+Rangpur;14;11403003;11601403003;Moddho Deodoba & Paikar Para;Hindu Para Amzad Dokan;22;90;55;2;1;4;1;1;1;1;2;3;2;2;4;2;4;4;4;38
+Rangpur;14;11403004;11601403004;Moddho Deodoba & Paikar Para;Mukta Para;45;200;50;2;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;39
+Rangpur;14;11403005;11601403005;Moddho Deodoba & Paikar Para;Morich Tary;15;67;80;2;1;4;1;1;1;1;4;4;1;3;4;1;4;4;4;40
+Rangpur;14;11403006;11601403006;Moddho Deodoba & Paikar Para;Mukta Para Hindu Para;20;90;50;2;1;4;1;1;1;1;3;3;1;1;4;1;4;4;4;36
+Rangpur;14;11403007;11601403007;Moddho Deodoba & Paikar Para;Deadoba More Poschim Para;70;290;100;2;1;4;1;1;2;1;4;2;1;3;4;2;4;4;4;40
+Rangpur;14;11403008;11601403008;Moddho Deodoba & Paikar Para;Deodoba Jamali Govt. Primary School;40;175;60;2;1;4;1;1;1;1;4;3;1;2;4;2;4;4;4;39
+Rangpur;14;11403009;11601403009;Moddho Deodoba & Paikar Para;Moddho Deodoba;65;280;60;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Rangpur;14;11404001;11601404001;Nekarpara;Councilor House;35;175;100;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;14;11404002;11601404002;Nekarpara;Chander Bari;45;210;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404003;11601404003;Nekarpara;Moddho Nakerpara;75;345;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404004;11601404004;Nekarpara;Bosti;15;65;30;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404005;11601404005;Nekarpara;Shahdatar Mor;55;225;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404006;11601404006;Nekarpara;Lal Miar Bari;25;125;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404007;11601404007;Nekarpara;Rinkur Bari;60;280;10;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11404008;11601404008;Nekarpara;Ajadular Bari;70;350;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11405001;11601405001;Purbo Borobari, Morchtari & Dararpar;Salam House;50;260;60;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11405002;11601405002;Purbo Borobari, Morchtari & Dararpar;Abdul Mojid House;35;160;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11405003;11601405003;Purbo Borobari, Morchtari & Dararpar;Ajghar Tary;20;90;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11405004;11601405004;Purbo Borobari, Morchtari & Dararpar;Haji Samsul;25;110;70;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11406001;11601406001;Borobari, Hindu Para & Sarkar Para;Hindu Para;50;230;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11406002;11601406002;Borobari, Hindu Para & Sarkar Para;Robin Member House;50;225;100;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11406003;11601406003;Borobari, Hindu Para & Sarkar Para;Momdel Sorkar Para;35;150;30;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;14;11407001;11601407001;Shingmari & Chawlipara;Morsad Mia;25;130;50;2;1;4;1;1;2;1;4;1;1;3;4;4;4;4;4;41
+Rangpur;14;11407002;11601407002;Shingmari & Chawlipara;Anam Mia;107;400;100;2;1;4;1;1;2;1;4;1;2;3;4;4;4;4;4;42
+Rangpur;14;11407003;11601407003;Shingmari & Chawlipara;Zahadul Mia;150;550;150;2;1;4;1;1;3;1;4;1;2;3;1;4;4;4;4;40
+Rangpur;14;11407004;11601407004;Shingmari & Chawlipara;Nur Nossain;150;500;150;1;1;4;1;1;2;1;4;1;2;3;4;4;4;4;4;41
+Rangpur;14;11408001;11601408001;Munshipara & Moddho Monohorpur;Munshipara;45;200;80;2;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;40
+Rangpur;14;11408002;11601408002;Munshipara & Moddho Monohorpur;Mister Bari;53;220;100;2;1;4;1;1;2;1;4;1;2;3;4;1;4;4;4;39
+Rangpur;14;11408003;11601408003;Munshipara & Moddho Monohorpur;Bakha Hamidul Moddho Monohorpur;220;530;150;2;1;4;1;1;2;1;4;1;2;3;4;1;4;4;4;39
+Rangpur;14;11408004;11601408004;Munshipara & Moddho Monohorpur;Julfer Hazi;150;450;150;2;1;4;1;1;2;1;3;1;1;3;4;1;4;4;4;37
+Rangpur;14;11408005;11601408005;Munshipara & Moddho Monohorpur;Shemul House;25;90;100;2;1;4;1;1;2;1;4;1;2;3;4;1;4;4;4;39
+Rangpur;14;11409001;11601409001;Monohorpur & Poschimpara;Rustom Master;95;350;150;2;1;4;1;1;2;1;4;1;2;3;4;1;4;4;4;39
+Rangpur;14;11409002;11601409002;Monohorpur & Poschimpara;Afsar Doctor;300;1000;150;2;1;4;1;1;1;1;4;1;2;3;3;1;4;4;4;37
+Rangpur;14;11409003;11601409003;Monohorpur & Poschimpara;Akbar Mistere;30;105;40;1;1;4;1;1;2;1;4;1;2;3;3;1;4;4;4;37
+Rangpur;15;11501001;11601501001;Binodpur;Binodpur Tatul Tola;200;795;102;2;1;4;1;1;1;1;3;4;1;2;1;1;1;2;1;27
+Rangpur;15;11501002;11601501002;Binodpur;Shaju Member Ar Boshoty;315;950;125;2;1;4;1;1;2;1;4;4;4;2;4;3;4;4;4;45
+Rangpur;15;11501003;11601501003;Binodpur;Mondoler Boshoty;27;131;22;2;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;43
+Rangpur;15;11502001;11601502001;Horirampur;Sumoner Dokaner Boshoty;30;145;125;2;1;4;1;1;2;1;3;4;3;3;4;1;4;4;4;42
+Rangpur;15;11502002;11601502002;Horirampur;Mohobar Member AR Boshoty;20;95;135;2;1;4;1;1;2;1;3;4;4;3;4;1;4;4;4;43
+Rangpur;15;11502003;11601502003;Horirampur;Narayan Ar Boshoty;15;85;125;2;1;4;1;1;2;1;3;4;3;3;4;1;4;4;4;42
+Rangpur;15;11502004;11601502004;Horirampur;Hamiz Ar Boshoty;10;55;12;1;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;39
+Rangpur;15;11503001;11601503001;Akkelpur;Cilmari Para Mananer Boshoty;12;75;25;2;1;4;1;1;2;1;4;4;4;3;4;1;4;4;4;44
+Rangpur;15;11503002;11601503002;Akkelpur;Rafiqul Deoyanir Boshoty;20;115;45;2;1;4;1;1;2;1;2;3;3;3;4;1;4;4;4;40
+Rangpur;15;11503003;11601503003;Akkelpur;Mofiz Deoyanir Boshoty;12;43;135;2;1;4;1;1;2;1;3;3;3;3;4;1;4;4;4;41
+Rangpur;15;11503004;11601503004;Akkelpur;Jitin Ar Boshoty;15;72;135;2;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;42
+Rangpur;15;11504005;11601504005;Fatehpur;Md. Kashem Mia At Boshoty Fatepur High School Ar Pichone;35;170;90;1;1;4;1;1;2;1;4;1;1;1;4;1;4;4;4;35
+Rangpur;15;11504006;11601504006;Fatehpur;Lalmohon Durga Mondir Ar Sathe Boshoty;8;32;90;2;2;4;1;1;3;1;4;1;1;4;4;1;4;4;4;41
+Rangpur;15;11504007;11601504007;Fatehpur;M.S City Filling Station - Jogin Ar Boshoty;14;65;180;2;1;4;1;1;2;1;4;1;1;4;4;1;4;4;4;39
+Rangpur;15;11505001;11601505001;Durgapur;Sohedul Islam Ar Boshoty;12;60;23;2;1;4;1;1;1;1;4;1;1;3;4;1;4;4;4;37
+Rangpur;15;11505002;11601505002;Durgapur;Md. Amor Ali Ar Boshoty;9;45;130;2;1;4;1;1;2;1;4;1;1;2;2;1;1;1;1;26
+Rangpur;15;11505003;11601505003;Durgapur;Md. Hoshin Ali Ar Boshoty;8;42;135;2;1;4;1;1;2;1;4;1;1;3;4;1;4;4;4;38
+Rangpur;15;11505004;11601505004;Durgapur;Md. Jamal Uddain Ar Boshoty;5;22;6;1;1;3;1;1;1;1;2;1;1;1;1;1;1;1;1;19
+Rangpur;15;11505005;11601505005;Durgapur;Md. Amjed Ar Boshoty;55;220;170;2;1;4;1;1;1;1;3;1;1;4;4;1;4;4;4;37
+Rangpur;15;11506001;11601506001;Dangirpara;Borkoter Boshoty;35;170;95;1;1;4;1;1;3;3;4;4;4;3;4;2;4;4;4;47
+Rangpur;15;11506002;11601506002;Dangirpara;Imaner Tary Boshoty;38;185;100;2;1;4;1;1;3;2;4;2;2;2;4;2;4;4;4;42
+Rangpur;15;11507001;11601507001;Ghaghotpara;Masuapara (Akbor Deoyaner Boshoty);10;55;109;1;1;4;1;1;3;1;4;3;2;4;4;1;4;4;4;42
+Rangpur;15;11507002;11601507002;Ghaghotpara;Masuapara (Sohidar Deoyaner Boshoty);65;305;109;1;1;4;1;1;2;1;4;3;1;3;4;1;4;4;4;39
+Rangpur;15;11507003;11601507003;Ghaghotpara;Rustom Doctor Para;50;250;35;2;2;4;1;1;3;3;4;2;3;3;3;1;3;1;3;39
+Rangpur;15;11507004;11601507004;Ghaghotpara;Cotpara Haruner Dokan;40;220;75;1;2;3;1;1;2;1;4;3;3;2;4;1;4;4;4;40
+Rangpur;15;11507005;11601507005;Ghaghotpara;Asratpur Cotpara-1;271;1400;35;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Rangpur;15;11507006;11601507006;Ghaghotpara;Cot Ghaghot Para Boshoty;80;290;75;1;1;3;1;1;2;1;4;3;3;1;4;1;4;4;4;38
+Rangpur;15;11507007;11601507007;Ghaghotpara;Cotpara Boshoty;91;350;75;1;1;4;1;1;3;1;4;2;3;1;4;1;4;4;4;39
+Rangpur;15;11507008;11601507008;Ghaghotpara;Balkai Patty Boshoty;35;150;90;3;2;4;1;1;2;3;4;2;2;3;4;1;4;4;4;44
+Rangpur;15;11508001;11601508001;Sutrapur;Monsur Ar Boshoty;15;65;100;1;1;4;1;1;3;1;4;3;3;4;4;2;4;4;4;44
+Rangpur;16;11601001;11601601001;Chowrapara;Upozila Eid Gha Math;187;935;22;3;4;4;1;1;1;4;4;3;4;1;1;1;1;1;1;35
+Rangpur;16;11601002;11601601002;Chowrapara;Alom Ar Goli;5;23;20;2;4;4;2;1;1;3;4;3;4;1;4;1;4;4;4;46
+Rangpur;16;11602001;11601602001;Uttor Kellabandh;Jounal Master Ar Boste;38;180;20;3;1;4;1;1;1;1;4;3;3;1;4;2;4;1;4;38
+Rangpur;16;11602002;11601602002;Uttor Kellabandh;Munsipara Masjeed Ar Pichone;43;200;50;4;4;4;1;1;1;4;4;3;3;1;4;2;4;4;4;48
+Rangpur;16;11603001;11601603001;Sardar Para;Nur Shahazan Bosty;6;30;20;3;1;4;1;1;1;4;4;3;2;1;3;1;1;1;3;34
+Rangpur;16;11603002;11601603002;Sardar Para;Azizar Colony;12;50;30;2;1;4;1;1;1;4;4;3;3;1;3;2;3;1;3;37
+Rangpur;16;11604001;11601604001;Hazi Para;Greenway School Ar Pichone;6;25;20;1;1;4;1;1;1;3;4;3;3;1;4;4;4;4;4;43
+Rangpur;16;11604002;11601604002;Hazi Para;Sahiner Barir Pashe;8;40;32;1;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;39
+Rangpur;16;11604003;11601604003;Hazi Para;Gofurer Goli;10;40;32;1;1;4;1;1;1;3;4;3;3;1;4;4;4;4;4;43
+Rangpur;16;11604004;11601604004;Hazi Para;Norther Pichone;20;83;25;4;4;4;2;1;1;1;4;3;3;1;4;2;4;1;4;43
+Rangpur;16;11605001;11601605001;Kellabondh;Alom Boshoty;23;115;32;4;4;4;2;1;1;4;4;3;4;1;1;1;1;1;1;37
+Rangpur;16;11605002;11601605002;Kellabondh;Kulkuly Para;42;210;32;2;4;4;2;1;1;4;4;3;4;1;1;1;1;1;1;35
+Rangpur;16;11606001;11601606001;Jugipara;Hazitulu School;67;335;47;1;1;4;1;1;1;3;4;3;4;1;1;1;1;1;1;29
+Rangpur;16;11606002;11601606002;Jugipara;Mondirer Pichone;12;57;22;2;1;4;1;1;1;1;4;3;4;1;1;1;1;1;1;28
+Rangpur;16;11607001;11601607001;Dokkhin Kellabandh;Tower Boshoty;35;157;28;2;1;4;1;1;1;2;3;3;4;1;4;1;4;4;4;40
+Rangpur;16;11607002;11601607002;Dokkhin Kellabandh;Jugipara Mondirer Ar Pashe;53;238;18;2;1;4;1;1;1;3;4;3;4;1;1;1;1;1;1;30
+Rangpur;16;11607003;11601607003;Dokkhin Kellabandh;Zelkhanar Pichone;27;123;30;2;1;4;1;1;1;2;3;3;4;1;4;1;4;4;4;40
+Rangpur;16;11607004;11601607004;Dokkhin Kellabandh;Sabek Councilor;38;157;22;2;1;4;1;1;1;2;4;2;4;1;1;1;1;1;1;28
+Rangpur;16;11609001;11601609001;Dhap Lal Kuthi Shymoli Lane;Shamoli Lane;5;35;10;3;4;4;1;1;1;2;4;1;4;1;1;1;1;1;1;31
+Rangpur;16;11609002;11601609002;Dhap Lal Kuthi Shymoli Lane;Police Fari;10;50;25;2;1;4;1;1;1;1;4;1;4;1;1;1;1;1;1;26
+Rangpur;16;11609003;11601609003;Dhap Lal Kuthi Shymoli Lane;Shamoli Lane Retina Center;10;60;12;3;2;4;2;1;1;3;4;1;4;1;1;1;1;1;1;31
+Rangpur;16;11609004;11601609004;Dhap Lal Kuthi Shymoli Lane;Shamoli Lane-2;5;25;20;4;1;4;2;1;1;2;4;1;4;1;1;1;1;1;1;30
+Rangpur;16;11609005;11601609005;Dhap Lal Kuthi Shymoli Lane;Lal Khuti Lane Retina Road;5;22;15;2;2;4;2;4;1;3;4;1;4;1;1;1;1;1;1;33
+Rangpur;16;11610001;11601610001;Dhat Lal Circuit House Lane;Lal Khytu Lane;10;46;40;1;1;4;3;1;1;3;4;1;4;1;2;1;3;2;1;33
+Rangpur;16;11610002;11601610002;Dhat Lal Circuit House Lane;Lal Khuti Lane;9;30;40;3;3;4;1;1;2;2;4;1;4;1;1;1;1;2;1;32
+Rangpur;16;11610003;11601610003;Dhat Lal Circuit House Lane;Postal Colony Lane;6;30;20;2;1;4;2;1;1;2;4;2;4;1;2;1;1;1;1;30
+Rangpur;17;11701001;11601701001;Pasari Para;Dhap City Bazar Ar Picha;90;350;35;2;3;4;1;2;2;1;4;3;3;1;1;1;2;2;2;34
+Rangpur;17;11701002;11601701002;Pasari Para;Pasari Para Biriz;10;30;25;3;3;4;2;3;2;4;4;3;4;3;4;3;4;4;4;54
+Rangpur;17;11701003;11601701003;Pasari Para;Pasani Para Masjeed Ar Pashe;120;650;30;2;3;4;2;3;2;2;3;3;3;1;4;3;4;4;4;47
+Rangpur;17;11703001;11601703001;Khalifapara Islambag;Bou Bazar Pukur Par;25;110;40;1;2;4;1;1;1;1;1;2;3;2;4;1;4;4;4;36
+Rangpur;17;11703002;11601703002;Khalifapara Islambag;17 No. Ward Councilor Ar Bashay Pichone;40;150;15;1;1;1;1;1;2;1;1;3;3;2;4;1;4;4;4;34
+Rangpur;17;11703003;11601703003;Khalifapara Islambag;Madrasha Boding Laki Para;45;175;25;1;1;4;1;1;2;1;4;3;3;2;1;3;4;4;4;39
+Rangpur;17;11703004;11601703004;Khalifapara Islambag;Dar Sargara Baitul Mukaram Kamil Madrasha;70;220;12;2;2;4;1;1;2;2;4;3;3;1;2;2;1;1;2;33
+Rangpur;17;11703005;11601703005;Khalifapara Islambag;Masuya Tary-1;235;758;30;2;2;4;1;1;2;1;4;3;2;1;3;2;1;1;2;32
+Rangpur;17;11703006;11601703006;Khalifapara Islambag;Hajir Tary;195;678;28;2;2;4;1;1;2;1;4;3;3;2;4;2;4;4;4;43
+Rangpur;17;11703007;11601703007;Khalifapara Islambag;Shohel;55;188;15;2;2;4;1;1;2;2;4;3;3;2;4;2;4;4;4;44
+Rangpur;17;11704001;11601704001;Shatgara;Muzibor;148;577;35;2;1;4;1;1;1;1;3;3;3;2;2;1;2;1;2;30
+Rangpur;17;11704002;11601704002;Shatgara;Habib Stor;8;27;14;2;2;4;1;1;2;3;4;2;3;3;4;2;4;4;4;45
+Rangpur;17;11704003;11601704003;Shatgara;Ratan Stor;22;73;42;2;3;4;1;1;1;1;4;4;4;3;4;2;4;4;4;46
+Rangpur;17;11704004;11601704004;Shatgara;Deban Rang Mistry;35;120;40;2;2;4;1;1;3;3;4;3;2;3;4;2;4;4;4;46
+Rangpur;17;11704005;11601704005;Shatgara;Jashna;305;870;20;2;2;4;1;1;3;2;4;3;3;2;4;2;4;4;4;45
+Rangpur;17;11704006;11601704006;Shatgara;Masuya ara -1;300;920;30;2;2;4;1;1;2;3;3;3;1;1;1;2;1;1;1;29
+Rangpur;17;11704007;11601704007;Shatgara;Masuya ara -2;312;980;30;2;2;4;1;1;2;3;3;3;1;1;1;2;1;1;1;29
+Rangpur;17;11705001;11601705001;Terminal Master Para;Sharkari Homio Chamber-1;38;128;22;2;3;4;2;2;2;2;4;4;3;2;4;3;4;4;4;49
+Rangpur;17;11705002;11601705002;Terminal Master Para;Sharkari Homio Chamber-2;12;38;16;2;2;4;1;1;1;1;4;3;3;2;4;3;4;4;4;43
+Rangpur;17;11705003;11601705003;Terminal Master Para;Master Para Jame Masjeed;138;687;32;2;3;4;2;2;2;2;4;4;3;2;4;3;4;4;4;49
+Rangpur;17;11705004;11601705004;Terminal Master Para;Napit Para;136;488;33;2;2;4;1;1;2;1;4;4;3;2;4;3;4;4;4;45
+Rangpur;17;11705005;11601705005;Terminal Master Para;Doctor Para;108;306;33;2;2;4;1;1;2;1;4;3;3;2;4;3;4;4;4;44
+Rangpur;17;11705006;11601705006;Terminal Master Para;Salgara Azim Uddain Reg. Primary School;17;48;18;2;2;4;1;1;1;1;4;3;3;2;4;3;4;4;4;43
+Rangpur;17;11705007;11601705007;Terminal Master Para;Naro Shudar Para;155;338;34;2;2;4;1;1;2;1;4;4;3;2;4;3;4;4;4;45
+Rangpur;17;11706001;11601706001;Bhaghibalapara;Jame Masjeed;5;20;25;2;2;3;2;1;2;1;3;2;2;2;4;3;4;4;4;41
+Rangpur;17;11706002;11601706002;Bhaghibalapara;Sekendar More;25;118;20;2;1;3;1;1;2;1;3;3;2;2;4;2;4;4;4;39
+Rangpur;17;11706003;11601706003;Bhaghibalapara;Montur More;20;60;20;1;1;3;1;1;2;1;3;3;2;2;4;3;4;4;4;39
+Rangpur;17;11706004;11601706004;Bhaghibalapara;Akborer More;30;90;25;1;1;1;1;1;2;2;2;2;2;2;4;2;4;4;4;35
+Rangpur;17;11706005;11601706005;Bhaghibalapara;Nasirer More;39;152;40;1;1;3;1;1;1;1;2;1;2;2;1;1;1;1;1;21
+Rangpur;17;11706006;11601706006;Bhaghibalapara;Kasem Store;10;40;20;1;1;3;1;1;2;1;2;2;2;3;4;2;4;4;4;37
+Rangpur;17;11707001;11601707001;Rampura;Al- Fata School;20;80;30;1;1;3;1;1;1;1;2;2;2;1;4;3;4;4;4;35
+Rangpur;17;11707002;11601707002;Rampura;Rampura Jame Masjeed;30;120;25;3;1;3;1;1;2;2;2;2;2;1;4;3;4;4;4;39
+Rangpur;17;11707003;11601707003;Rampura;Mukul Store;15;60;15;2;1;2;2;1;1;3;2;2;3;3;4;1;4;4;4;39
+Rangpur;17;11707004;11601707004;Rampura;Ahmmali Masjeed;15;60;20;2;3;2;2;2;1;3;2;3;3;3;2;3;2;3;2;38
+Rangpur;17;11707005;11601707005;Rampura;Norshonhe Para;20;40;30;2;1;2;2;1;1;3;2;4;3;4;4;2;4;4;4;43
+Rangpur;17;11708001;11601708001;Parbotipur;Ajid (Driver);20;85;10;2;1;4;1;1;1;1;4;3;2;3;4;2;4;4;4;41
+Rangpur;17;11708002;11601708002;Parbotipur;Sabder Ali;35;130;45;2;1;4;1;1;1;1;4;2;2;3;4;2;4;4;4;40
+Rangpur;17;11708003;11601708003;Parbotipur;Azhar (Plamber);18;70;25;2;1;4;1;1;2;1;4;3;2;3;4;2;4;4;4;42
+Rangpur;17;11708004;11601708004;Parbotipur;Boromai Dan;7;30;20;2;1;2;1;1;1;1;4;2;2;3;4;2;4;4;4;38
+Rangpur;17;11709001;11601709001;Parbotipur Master Para;Master Para-1;5;22;20;2;1;3;1;1;2;1;2;3;2;2;4;3;4;4;4;39
+Rangpur;17;11709002;11601709002;Parbotipur Master Para;Master Para-2;6;24;15;2;2;4;1;1;2;1;2;2;2;3;4;2;4;4;4;40
+Rangpur;17;11709003;11601709003;Parbotipur Master Para;Master Para-3;5;15;20;2;1;3;2;1;2;1;2;3;2;3;4;2;4;4;4;40
+Rangpur;17;11709004;11601709004;Parbotipur Master Para;Master Para-4;60;250;30;2;1;4;1;1;2;1;2;3;2;3;4;3;4;4;4;41
+Rangpur;17;11709005;11601709005;Parbotipur Master Para;Master Para-5;30;125;30;2;2;3;1;1;2;1;2;3;2;3;2;2;2;3;3;34
+Rangpur;17;11710001;11601710001;Pirjabad;Athor Rahaman;30;130;15;1;1;4;1;1;1;1;3;3;2;2;4;3;4;4;4;39
+Rangpur;17;11710002;11601710002;Pirjabad;Parati Para;50;220;25;2;1;4;1;1;2;1;4;3;3;2;4;3;4;4;4;43
+Rangpur;17;11710003;11601710003;Pirjabad;Mafajal;10;45;12;2;1;4;1;1;2;1;4;3;2;2;4;3;4;4;4;42
+Rangpur;17;11710004;11601710004;Pirjabad;Shafik;8;27;15;2;1;4;1;1;2;1;4;4;2;2;4;3;4;4;4;43
+Rangpur;17;11710005;11601710005;Pirjabad;Babu Sonar Bari;8;24;40;2;1;4;1;1;3;1;4;3;2;2;4;3;4;4;4;43
+Rangpur;17;11711001;11601711001;Shatranji;Dolal Miya;30;125;30;2;1;4;1;1;1;2;4;4;2;2;4;1;4;4;4;41
+Rangpur;17;11711002;11601711002;Shatranji;Master Para;20;75;18;2;1;4;1;1;4;1;4;4;3;2;4;4;4;4;4;47
+Rangpur;17;11711003;11601711003;Shatranji;Shatnanji Para;15;55;25;2;2;2;2;1;2;2;4;2;2;3;4;2;4;4;4;42
+Rangpur;17;11711004;11601711004;Shatranji;Sahipara;10;35;10;2;2;4;1;1;3;1;4;3;2;2;4;4;4;4;4;45
+Rangpur;18;11801001;11601801001;Satgara Mistrypara;Amena Bari Boshoty;5;16;20;2;1;2;1;1;1;1;4;2;1;3;2;1;2;1;2;27
+Rangpur;18;11801002;11601801002;Satgara Mistrypara;Farhad Boshoty;6;24;10;2;1;4;1;1;2;4;4;2;1;3;2;1;2;1;2;33
+Rangpur;18;11801003;11601801003;Satgara Mistrypara;Alar Boshoty Telirvita;10;30;60;2;1;4;1;1;1;2;4;4;1;3;2;1;2;2;2;33
+Rangpur;18;11801004;11601801004;Satgara Mistrypara;Mizanur Boshoty Telirvita;15;60;30;2;1;1;1;1;2;2;4;4;1;3;2;1;2;2;2;31
+Rangpur;18;11801005;11601801005;Satgara Mistrypara;Basher Toll;8;30;50;2;1;2;1;1;1;1;1;1;1;3;2;1;2;1;2;23
+Rangpur;18;11801006;11601801006;Satgara Mistrypara;Shonamai Boshoty;10;35;30;2;1;4;1;1;1;4;1;4;1;3;4;1;4;4;4;40
+Rangpur;18;11801007;11601801007;Satgara Mistrypara;Rotoner Boshoty;10;40;60;2;1;1;1;1;1;1;1;1;1;3;1;1;1;1;2;20
+Rangpur;18;11802001;11601802001;Mondolpara & Purbo Porjontonpara;Amer Tol Boshoty;6;30;15;2;1;2;1;1;1;1;4;2;1;3;2;1;2;1;2;27
+Rangpur;18;11802002;11601802002;Mondolpara & Purbo Porjontonpara;Miller Boshoty;10;45;10;2;1;2;1;1;2;1;1;2;1;3;1;1;2;1;2;24
+Rangpur;18;11802003;11601802003;Mondolpara & Purbo Porjontonpara;Dorbar Shorifer Boshoty;5;18;8;2;1;2;1;1;1;1;4;1;2;3;2;1;2;1;2;27
+Rangpur;18;11803001;11601803001;Munshipara;Badsha Boshoty;15;60;30;1;1;4;1;1;1;1;4;2;1;1;2;1;2;1;1;25
+Rangpur;18;11803002;11601803002;Munshipara;Rimon Boshoty;20;94;30;1;1;4;1;1;1;1;4;2;1;2;1;1;1;1;2;25
+Rangpur;18;11803003;11601803003;Munshipara;Rina Boshoty;20;101;50;2;1;4;1;1;1;3;4;3;1;1;1;1;1;2;1;28
+Rangpur;18;11803004;11601803004;Munshipara;Jorej Boshoty;29;116;30;1;1;4;1;1;1;1;4;2;1;1;1;1;2;1;2;25
+Rangpur;18;11803005;11601803005;Munshipara;Ajomer Boshoty;14;56;20;1;1;4;1;1;1;2;4;2;1;1;2;1;1;1;2;26
+Rangpur;18;11803006;11601803006;Munshipara;Anjam Boshoty;13;53;20;1;3;4;1;1;1;1;2;2;1;1;1;1;1;1;2;24
+Rangpur;18;11803007;11601803007;Munshipara;Milon Ar Boshoty;19;76;30;2;1;4;1;1;1;1;1;2;1;1;1;1;1;1;2;22
+Rangpur;18;11804001;11601804001;Keranipara;Kamuk Boshoty;27;130;30;2;1;4;1;1;1;1;4;3;1;2;2;1;2;1;2;29
+Rangpur;18;11804002;11601804002;Keranipara;Moyna Boshoty;25;110;40;2;1;4;1;2;1;1;4;2;1;4;2;1;2;1;2;31
+Rangpur;18;11804003;11601804003;Keranipara;Liton Boshoty;11;44;25;1;1;4;1;1;1;1;4;2;1;1;1;1;1;1;1;23
+Rangpur;18;11804004;11601804004;Keranipara;Rahman Boshoty;10;50;40;1;1;4;1;1;1;1;4;2;2;2;2;1;2;1;2;28
+Rangpur;18;11804005;11601804005;Keranipara;Salam Boshoty;35;140;40;1;1;4;1;1;1;1;4;4;2;3;1;1;1;1;1;28
+Rangpur;18;11804006;11601804006;Keranipara;Khirul Ar Boshoty;16;64;35;1;1;4;3;1;4;1;4;4;1;4;2;1;2;1;2;36
+Rangpur;18;11804007;11601804007;Keranipara;Faruq Ar Boshoty;15;60;25;1;1;4;1;1;1;4;4;3;1;3;1;1;1;1;1;29
+Rangpur;18;11804008;11601804008;Keranipara;Siraj Ar Boshoty;14;45;10;1;1;4;1;1;1;4;4;2;1;3;2;1;2;1;1;30
+Rangpur;18;11804009;11601804009;Keranipara;Anis Ar Boshoty;6;24;8;1;1;4;1;1;1;1;4;2;1;4;1;1;1;1;1;26
+Rangpur;18;11804010;11601804010;Keranipara;Chander Boshoty;6;20;10;1;1;3;1;1;1;1;4;3;1;4;2;2;2;2;2;31
+Rangpur;18;11804011;11601804011;Keranipara;Iqbal Ar Boshoty;12;60;25;1;1;4;1;1;1;2;4;2;1;3;1;1;1;1;1;26
+Rangpur;18;11804012;11601804012;Keranipara;Komal Ar Boshoty;21;84;30;1;1;4;1;1;1;4;4;2;1;3;1;1;1;1;1;28
+Rangpur;18;11804013;11601804013;Keranipara;Sohidul Ar Boshoty;10;40;20;1;1;4;1;1;1;2;4;2;1;3;1;1;1;1;1;26
+Rangpur;18;11804014;11601804014;Keranipara;Raju Ar Boshoty;7;26;13;1;1;4;1;1;1;1;4;3;1;4;1;1;1;1;1;27
+Rangpur;18;11804015;11601804015;Keranipara;Joynal Boshoty;12;38;12;1;1;4;1;1;1;2;4;3;1;3;1;1;1;1;1;27
+Rangpur;19;11901001;11601901001;Radha Bollab;Radha Bollab/ Chapatola Masjeed;35;140;50;1;1;4;1;1;2;1;3;3;1;1;4;2;4;4;4;37
+Rangpur;19;11901002;11601901002;Radha Bollab;Radha Bollab Chan Mari;40;170;12;3;3;4;3;3;2;4;3;3;2;1;3;4;4;4;4;50
+Rangpur;19;11901003;11601901003;Radha Bollab;Girles School;40;169;15;2;1;4;1;1;1;3;2;2;2;2;4;2;4;4;4;39
+Rangpur;19;11902001;11601902001;Dhap Engineer Para;Hakim Teli-1;100;391;35;3;3;4;2;1;2;2;3;2;1;1;4;3;4;4;4;43
+Rangpur;19;11902002;11601902002;Dhap Engineer Para;Hakim Teli-2;90;360;70;3;3;4;2;1;2;2;3;2;1;1;4;3;4;4;4;43
+Rangpur;19;11902003;11601902003;Dhap Engineer Para;Hakim Teli-3;40;160;10;1;1;3;1;1;1;1;2;2;3;1;1;1;1;1;1;22
+Rangpur;19;11902004;11601902004;Dhap Engineer Para;Hakim Teli-4;30;120;15;1;2;3;1;1;1;1;3;3;1;1;2;1;2;2;1;26
+Rangpur;19;11903001;11601903001;Dhap Shimulbag;Abul Rahim (Dokander);66;284;90;2;2;4;1;2;1;2;3;2;2;1;4;3;4;4;4;41
+Rangpur;19;11903002;11601903002;Dhap Shimulbag;Akram Driver;400;1600;90;1;1;1;1;1;1;1;2;2;2;1;4;2;4;4;4;32
+Rangpur;19;11903003;11601903003;Dhap Shimulbag;Community Center;20;80;60;1;1;4;1;1;1;3;3;2;2;1;3;2;4;4;4;37
+Rangpur;19;11903004;11601903004;Dhap Shimulbag;Haki Para;31;120;60;2;1;4;1;1;1;1;2;2;3;2;1;1;1;1;1;25
+Rangpur;19;11904001;11601904001;Dhap Chikli Vata;Pakar Matha;40;160;40;2;1;4;1;1;1;2;3;2;2;1;4;2;4;4;4;38
+Rangpur;19;11904002;11601904002;Dhap Chikli Vata;Rosulpur;100;400;30;2;1;1;1;2;1;1;2;2;2;1;4;2;4;4;4;34
+Rangpur;19;11904003;11601904003;Dhap Chikli Vata;Dhap Chikli Vata;150;600;40;2;1;4;1;1;1;2;2;3;3;1;4;3;4;4;4;40
+Rangpur;19;11904004;11601904004;Dhap Chikli Vata;Dhap Chikli Vata;150;600;50;2;1;4;1;1;1;2;2;2;2;1;4;3;4;4;4;38
+Rangpur;19;11905001;11601905001;Poschim Nil Kontho;Bakkur Bridge;70;280;50;2;1;4;1;1;1;2;2;2;1;1;4;2;4;4;4;36
+Rangpur;19;11905002;11601905002;Poschim Nil Kontho;Masjeed Ar Par;200;800;45;1;1;4;1;1;1;4;2;2;2;1;4;3;4;4;4;39
+Rangpur;19;11905003;11601905003;Poschim Nil Kontho;Goodluck Mor;150;600;40;2;2;4;1;1;1;2;2;2;2;1;4;2;4;4;4;38
+Rangpur;19;11905004;11601905004;Poschim Nil Kontho;Master Para;60;240;40;2;1;4;1;1;1;2;2;2;2;1;4;3;4;4;4;38
+Rangpur;19;11906001;11601906001;Dalkor;Chiklle Park Pul Par;45;180;35;4;1;4;2;1;2;4;3;2;1;1;3;4;4;4;4;44
+Rangpur;19;11906002;11601906002;Dalkor;Saban Factory Jolkor-1;60;240;25;1;1;4;1;1;3;3;3;3;2;1;4;4;4;4;4;43
+Rangpur;19;11906003;11601906003;Dalkor;Saban Factory Jolkor-2;50;200;35;1;1;4;1;1;3;2;3;2;2;1;4;4;4;4;4;41
+Rangpur;19;11907001;11601907001;Islampur Poschim Para;Islampur Poschim Para Nuru Garage;100;400;45;1;2;4;1;1;2;4;3;2;2;1;4;4;4;4;4;43
+Rangpur;19;11907002;11601907002;Islampur Poschim Para;Army School Ar Pichone;50;200;45;1;1;4;1;1;3;4;4;3;2;1;4;4;4;4;4;45
+Rangpur;19;11907003;11601907003;Islampur Poschim Para;Rajon Bari Poschim Para;7;28;20;1;1;4;1;1;3;2;3;3;3;1;4;4;4;4;4;43
+Rangpur;19;11907004;11601907004;Islampur Poschim Para;Collect Tree Math;22;88;45;3;3;4;1;2;1;3;2;2;2;2;1;1;1;1;1;30
+Rangpur;19;11908001;11601908001;Medical Purbo Gate;Dentaler Pichone-1;200;400;10;2;3;4;1;1;1;1;3;2;1;1;2;2;2;2;2;30
+Rangpur;19;11908002;11601908002;Medical Purbo Gate;Dentaler Pichone -2;60;240;12;1;1;4;1;1;2;1;3;3;2;1;4;3;4;4;4;39
+Rangpur;19;11908003;11601908003;Medical Purbo Gate;Dentale Hospital Ar Pichone;15;60;10;3;1;4;1;1;1;1;3;3;1;1;1;2;1;2;1;27
+Rangpur;19;11909001;11601909001;Purbo Nil Kontho;Bridge Par;200;789;45;1;1;4;1;1;1;1;2;2;2;1;4;1;4;4;4;34
+Rangpur;19;11909002;11601909002;Purbo Nil Kontho;Sata Par Para;100;400;30;1;1;4;1;1;1;2;3;2;2;1;4;1;4;4;4;36
+Rangpur;19;11909003;11601909003;Purbo Nil Kontho;Bot Tolar Mor;50;200;40;2;2;4;1;1;1;2;3;2;2;1;4;3;4;4;4;40
+Rangpur;20;12001001;11602001001;Poschim Gurati Para;Munnar Goli;10;45;40;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;20;12002001;11602002001;Mulator (Uttor);Jahidul;19;88;20;4;4;4;1;1;1;4;4;1;1;1;2;1;2;1;1;33
+Rangpur;20;12003001;11602003001;Mulator (Dokkhin);Shorifer Boshoty;5;25;20;2;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;38
+Rangpur;20;12003002;11602003002;Mulator (Dokkhin);Sajaner Boshoty;14;63;100;2;3;4;1;1;1;1;4;1;1;2;4;1;4;4;4;38
+Rangpur;20;12003003;11602003003;Mulator (Dokkhin);Jibonnesa;6;27;40;4;1;4;1;1;1;2;4;1;1;2;2;1;2;1;1;29
+Rangpur;20;12003004;11602003004;Mulator (Dokkhin);Shantor Boshoy;15;65;30;4;1;4;1;1;1;1;4;1;1;2;2;1;2;1;1;28
+Rangpur;20;12004001;11602004001;Mddho Gurati Para;Rafiqul;9;43;15;1;1;4;1;1;1;1;4;1;1;1;1;2;1;1;1;23
+Rangpur;20;12004002;11602004002;Mddho Gurati Para;Budur Goli;10;50;100;1;1;4;1;1;1;1;4;1;1;1;4;4;4;4;4;37
+Rangpur;20;12005001;11602005001;Munshi Para (Dokkhin);Bulbul Boshoty;15;65;35;1;1;4;1;1;1;2;4;4;1;2;1;2;1;4;4;34
+Rangpur;20;12005002;11602005002;Munshi Para (Dokkhin);Babu Boshoty;30;160;30;1;2;4;1;1;1;2;4;4;1;1;1;1;1;2;1;28
+Rangpur;20;12005003;11602005003;Munshi Para (Dokkhin);Azad Boshoty;40;260;30;1;2;4;1;1;1;1;1;1;1;1;1;1;2;2;2;23
+Rangpur;20;12005004;11602005004;Munshi Para (Dokkhin);Hera Boshoty;40;170;20;1;1;4;1;1;1;1;4;1;1;1;1;1;1;2;2;24
+Rangpur;20;12006001;11602006001;Pakpara;Alam;5;24;15;1;1;1;1;1;1;2;4;4;1;1;2;2;2;2;1;27
+Rangpur;20;12006002;11602006002;Pakpara;Akali Dokir;15;75;45;1;1;2;4;1;1;1;1;4;1;1;2;2;1;2;1;26
+Rangpur;20;12006003;11602006003;Pakpara;Shamim Boshoty;15;63;30;1;1;1;1;1;1;2;4;2;1;2;1;1;1;2;1;23
+Rangpur;20;12006004;11602006004;Pakpara;Shopon;5;25;26;1;1;2;1;1;1;2;4;2;1;2;2;2;1;1;1;25
+Rangpur;20;12006005;11602006005;Pakpara;Misthi;5;25;30;1;1;1;1;1;1;2;4;1;1;2;1;2;1;2;1;23
+Rangpur;20;12006006;11602006006;Pakpara;Nironjon Boshoty;10;40;30;1;1;4;1;1;1;2;4;1;1;1;1;1;1;2;2;25
+Rangpur;20;12006007;11602006007;Pakpara;Bala pam;5;25;30;1;1;1;1;1;1;2;4;1;1;2;1;1;1;1;1;21
+Rangpur;20;12006008;11602006008;Pakpara;Shalpy;5;22;30;1;1;1;1;1;1;2;4;1;1;2;2;2;1;2;2;25
+Rangpur;20;12006009;11602006009;Pakpara;Unis Boshty;14;62;20;1;1;4;1;1;1;1;4;1;1;1;1;1;1;1;1;22
+Rangpur;20;12007001;11602007001;Engineer Para;Arif Boshoty;15;65;40;1;1;4;1;1;1;1;4;2;1;1;2;1;2;1;3;27
+Rangpur;20;12007002;11602007002;Engineer Para;Rinqu Boshoty;5;25;40;4;4;4;1;1;1;4;4;3;1;1;4;1;4;3;4;44
+Rangpur;20;12007003;11602007003;Engineer Para;Billa Boshoty;8;45;45;4;1;4;1;1;1;2;4;2;1;1;3;1;2;3;3;34
+Rangpur;20;12007004;11602007004;Engineer Para;Tarak Boshoty;12;48;20;1;1;4;1;1;1;3;4;2;1;1;2;1;2;1;2;28
+Rangpur;20;12007005;11602007005;Engineer Para;Mona Boshoty;15;70;7;1;1;2;1;1;1;1;4;1;1;1;2;1;1;1;2;22
+Rangpur;20;12007006;11602007006;Engineer Para;Ripon Boshoty;5;29;30;1;1;4;1;1;1;1;4;2;1;2;2;1;2;2;2;28
+Rangpur;20;12008001;11602008001;Gumosto Para;Moushumi Boshoty;65;300;62;1;1;3;1;1;1;2;4;1;1;1;1;1;1;2;3;25
+Rangpur;20;12008002;11602008002;Gumosto Para;Chadni;10;45;25;1;1;4;1;1;1;2;4;2;1;1;2;1;1;2;2;27
+Rangpur;20;12008003;11602008003;Gumosto Para;Jahadul Boshoty;7;30;25;1;3;2;1;1;1;1;4;2;1;1;1;1;2;2;3;27
+Rangpur;20;12008004;11602008004;Gumosto Para;Topon Boshoty;15;64;50;1;1;2;1;1;1;1;1;1;1;1;1;1;1;1;1;17
+Rangpur;20;12008005;11602008005;Gumosto Para;Mohitos Boshoty;7;30;20;1;1;2;1;1;1;3;4;2;1;1;1;1;2;2;1;25
+Rangpur;20;12008006;11602008006;Gumosto Para;Dulal Boshoty;10;44;40;1;1;3;1;1;1;2;4;1;1;1;1;1;1;2;3;25
+Rangpur;20;12008007;11602008007;Gumosto Para;Alam Boshoty;6;30;20;1;1;1;1;1;1;1;4;2;1;1;1;1;2;2;2;23
+Rangpur;20;12008008;11602008008;Gumosto Para;Moja Boshoty;5;25;30;1;2;1;1;1;1;1;4;2;1;1;2;1;2;1;2;24
+Rangpur;20;12009001;11602009001;Thanar Mor Area;Shahadot;6;28;50;2;1;4;1;1;1;1;4;1;1;1;1;1;1;1;1;23
+Rangpur;20;12009002;11602009002;Thanar Mor Area;Romja;5;27;70;2;1;4;1;1;1;1;4;1;1;1;4;2;4;4;4;36
+Rangpur;20;12009003;11602009003;Thanar Mor Area;Khalek Harun;5;23;60;2;1;4;1;1;1;1;4;1;1;1;4;2;4;4;4;36
+Rangpur;20;12009004;11602009004;Thanar Mor Area;Ajij;14;77;60;1;1;4;1;1;1;1;4;1;1;1;2;1;2;1;1;24
+Rangpur;20;12009005;11602009005;Thanar Mor Area;Moynar Goli;6;27;30;2;1;4;1;1;1;1;4;1;1;1;1;1;1;1;1;23
+Rangpur;21;12101001;11602101001;Senpara;Rofik Boshoty;7;37;100;2;1;4;1;1;3;3;4;4;4;4;4;4;4;4;4;51
+Rangpur;21;12101002;11602101002;Senpara;Monji Boshoty;30;124;100;2;1;4;1;1;4;3;4;4;4;3;1;4;1;2;1;40
+Rangpur;21;12101003;11602101003;Senpara;Asadujjaman Milon Boshoty;11;46;100;2;1;4;1;1;3;3;4;4;4;3;1;2;2;2;1;38
+Rangpur;21;12101004;11602101004;Senpara;Muktijodha Oahidul Rahman;23;128;100;3;4;4;3;1;3;4;4;4;4;4;1;4;3;2;2;50
+Rangpur;21;12102001;11602102001;New Senpara;Boshir Uddain Boshoty;16;83;70;2;1;4;3;1;2;4;3;4;4;3;4;1;4;4;4;48
+Rangpur;21;12102002;11602102002;New Senpara;Late. Monshur Ali Boshoty;16;92;100;3;4;4;3;1;2;4;2;4;4;3;4;1;4;4;4;51
+Rangpur;21;12102003;11602102003;New Senpara;Md. Raja Boshoty;7;32;100;2;1;4;3;1;2;4;4;4;4;4;4;1;4;4;4;50
+Rangpur;21;12102004;11602102004;New Senpara;Abdus Samad Boshoty;10;44;100;1;1;4;1;1;3;3;4;3;3;4;4;1;4;4;4;45
+Rangpur;21;12102005;11602102005;New Senpara;Moklesur Rahman Vola Boshoty;8;32;100;4;4;4;1;1;3;4;4;4;4;4;4;2;4;4;4;55
+Rangpur;21;12102006;11602102006;New Senpara;Huduya Behari Boshoty;23;113;47;2;3;4;3;1;3;3;4;4;4;3;4;2;4;4;4;52
+Rangpur;21;12102007;11602102007;New Senpara;Late. Mithu Helper Boshoty;7;31;70;1;2;4;1;1;3;2;4;4;3;3;3;3;3;2;1;40
+Rangpur;21;12103001;11602103001;Hajipara Chamrapotti;Khalek;7;28;50;2;1;3;3;1;1;1;4;3;3;4;4;4;4;4;4;46
+Rangpur;21;12103002;11602103002;Hajipara Chamrapotti;Mohammad Boshoty;6;42;90;2;1;4;1;1;1;1;4;3;1;4;4;2;4;4;4;41
+Rangpur;21;12104001;11602104001;New Adoshopara;Bokul;11;50;35;2;3;3;4;1;1;1;3;3;1;4;2;1;2;1;2;34
+Rangpur;21;12104002;11602104002;New Adoshopara;Shobujer Bari;9;40;25;2;4;2;1;1;1;1;3;3;1;4;3;3;2;1;2;34
+Rangpur;21;12104003;11602104003;New Adoshopara;Afzaler Goli;6;25;50;2;1;4;3;1;3;3;4;2;2;4;4;4;4;4;4;49
+Rangpur;21;12105001;11602105001;Habibnagar;Mahamud (Bishur Mor);5;23;1;4;4;2;1;1;2;4;3;3;3;4;1;1;1;1;1;36
+Rangpur;21;12105002;11602105002;Habibnagar;Rajib Nagar Mehrab Yasin Boshoty;8;31;5;2;1;4;1;1;3;4;4;4;4;4;1;1;1;1;2;38
+Rangpur;21;12106001;11602106001;Weather Office Masterpara;Majon Miya Boshoty;5;20;14;2;1;4;1;1;3;1;4;4;4;4;4;2;4;4;4;47
+Rangpur;21;12107001;11602107001;Shantibag. College Road;21 No. Ward Rail Line Boshoty;80;470;40;2;1;4;1;1;1;2;4;3;3;3;1;1;1;2;1;31
+Rangpur;21;12107002;11602107002;Shantibag. College Road;Behind Of Electricity Office (Azgor Bari);12;58;10;1;1;4;1;1;2;1;4;3;3;4;4;2;4;4;4;43
+Rangpur;21;12108001;11602108001;Muchipotti, Shapla Chottor;Hazipara, Muchipotti;22;150;80;2;1;4;3;1;1;1;4;4;3;3;4;2;4;4;4;45
+Rangpur;21;12109001;11602109001;Karanjoya Road Mahalla;Sobehan Boshoty;16;96;50;1;1;4;1;1;1;1;3;3;3;2;1;1;2;2;1;28
+Rangpur;21;12109002;11602109002;Karanjoya Road Mahalla;Abu Taleb Boshoty;9;39;100;2;2;4;3;2;3;4;4;4;4;3;4;2;4;4;4;53
+Rangpur;21;12109003;11602109003;Karanjoya Road Mahalla;Manil Muchipotti Boshoty;19;96;48;1;1;4;1;1;2;1;1;3;3;1;4;1;4;4;4;36
+Rangpur;22;12201001;11602201001;Ganeshpur;South Ganeshpur/ Riaz Uddain Basty;8;40;82;1;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;37
+Rangpur;22;12201002;11602201002;Ganeshpur;Moddho Ganeshpur/ Dhakaia Bosty;30;150;70;3;1;4;1;1;1;4;4;3;1;1;4;2;4;4;4;42
+Rangpur;22;12201003;11602201003;Ganeshpur;Purbo Ganeshpur/ Jhasy Colony;50;225;80;2;1;4;1;1;1;1;4;3;2;2;4;3;4;4;4;41
+Rangpur;22;12201004;11602201004;Ganeshpur;Poschim Ganeshpur/ Shantipara Bosty;120;540;80;4;4;4;1;1;1;1;4;4;2;1;4;2;4;4;4;45
+Rangpur;22;12201005;11602201005;Ganeshpur;Ganeshpur Kusar Potti Basty;6;27;60;1;1;4;1;1;1;1;3;3;1;1;4;1;4;4;4;35
+Rangpur;22;12202001;11602202001;Kamarpara;Roth Mondirer Poschim Pashoborti Boshoty;40;160;60;4;3;4;1;1;2;4;3;3;2;1;4;2;4;4;4;46
+Rangpur;22;12202002;11602202002;Kamarpara;Rath Mondirer Purbo Parshoborti Boshoty;25;120;57;4;3;4;1;1;2;4;3;3;2;1;4;2;4;4;4;46
+Rangpur;22;12203001;11602203001;Bala Para;Bondhonpara Boshoty;45;210;62;2;1;4;1;1;2;4;4;3;1;1;4;1;4;4;4;41
+Rangpur;22;12203002;11602203002;Bala Para;Malekar Boshoty;13;52;30;2;1;4;1;1;1;4;4;3;1;1;1;1;1;2;1;29
+Rangpur;22;12203003;11602203003;Bala Para;Aminer Bari Boshoty;15;62;35;2;1;4;1;1;1;1;4;3;1;1;1;1;1;2;1;26
+Rangpur;22;12203004;11602203004;Bala Para;Balapara Torun Shonlogno Boshoty;17;68;62;2;1;4;1;1;1;4;4;3;1;1;4;1;4;4;4;40
+Rangpur;22;12203005;11602203005;Bala Para;Balapara Madrasha Ar Pashoborthi Boshoty;16;65;75;2;1;4;1;1;1;4;4;3;1;1;4;1;4;4;4;40
+Rangpur;22;12204001;11602204001;Uttor Babu Khan;Uttor Babu Khan Monjur Boshoty;14;75;30;2;1;4;1;1;1;1;4;4;1;1;4;1;4;4;4;38
+Rangpur;22;12204002;11602204002;Uttor Babu Khan;Uttor Babu Khan Eleyaser Boshoty;50;250;70;2;1;4;1;1;1;1;4;4;1;1;4;4;4;4;4;41
+Rangpur;22;12204003;11602204003;Uttor Babu Khan;Uttor Babu Khan Altab Boshoty;120;515;70;2;1;4;1;4;1;4;4;4;1;1;4;4;4;4;4;47
+Rangpur;22;12205004;11602205004;Poschim Babu Para;Argina Potti Boshoty;12;55;50;1;1;4;3;1;1;4;2;2;2;3;4;2;4;4;4;42
+Rangpur;22;12206005;11602206005;Moddho Babu Khan;Moddho Babu Khan Seyalutari Hak Para Boshoty;195;805;50;2;1;4;1;1;1;4;4;4;1;1;4;4;4;4;4;44
+Rangpur;22;12208001;11602208001;Dokkhin Babu Khan;Dokkhin Babu Khan Hapijul Bari Boshoty;35;135;20;2;1;4;1;1;1;1;4;4;1;1;4;1;4;4;4;38
+Rangpur;22;12208002;11602208002;Dokkhin Babu Khan;Dokkhin Babu Khan Dullal Boshoty;10;27;70;3;1;4;1;1;1;4;2;4;1;1;4;1;4;4;4;40
+Rangpur;23;12301001;11602301001;Jolkor;Jolkor;35;150;150;2;1;4;2;1;1;3;3;4;4;2;4;3;4;4;4;46
+Rangpur;23;12301002;11602301002;Jolkor;Shimultola;40;216;40;2;1;4;2;1;1;2;3;3;4;3;4;3;4;4;4;45
+Rangpur;23;12302001;11602302001;Horijonpolli;Super Colony;280;1200;50;2;1;4;1;1;1;1;3;3;3;1;1;1;1;3;1;28
+Rangpur;23;12302002;11602302002;Horijonpolli;Varta Bari;40;215;50;2;1;4;1;1;1;3;4;3;3;1;4;1;4;4;4;41
+Rangpur;23;12302003;11602302003;Horijonpolli;Deayani Bari;26;150;70;2;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;41
+Rangpur;23;12303001;11602303001;Masterpara;Poschim Master Para;60;225;40;2;1;4;2;1;1;4;3;3;4;3;4;1;4;4;4;45
+Rangpur;23;12303002;11602303002;Masterpara;Master Para;35;105;40;2;1;4;2;1;1;3;4;3;3;2;4;1;4;4;4;43
+Rangpur;23;12303003;11602303003;Masterpara;Dokkhin Master Para;50;275;30;2;1;4;1;1;1;4;4;3;4;2;4;1;4;4;4;44
+Rangpur;23;12304001;11602304001;Honumontola Mahall;Honumantola Boshoty-1;220;980;70;2;1;4;1;1;1;3;4;3;3;1;1;1;1;1;1;29
+Rangpur;23;12304002;11602304002;Honumontola Mahall;Honumantola Boshoty-2;125;560;70;2;1;4;1;1;1;3;3;3;3;1;1;1;1;1;1;28
+Rangpur;23;12305001;11602305001;Poschim Jummapara;Badol Tea Store;53;278;60;2;1;4;2;1;1;3;3;3;3;1;1;1;1;1;1;29
+Rangpur;23;12305002;11602305002;Poschim Jummapara;Marua Potti;50;255;50;2;1;4;2;1;1;2;3;3;3;1;1;1;1;1;1;28
+Rangpur;23;12306001;11602306001;Sadar Hospital Area;Hossain Ali;6;25;8;2;1;4;1;1;1;2;3;3;3;1;1;1;1;1;1;27
+Rangpur;23;12306002;11602306002;Sadar Hospital Area;Sweeper Colony;215;967;50;2;1;3;2;1;1;1;3;3;3;1;1;1;1;1;1;26
+Rangpur;23;12307001;11602307001;Bedh Potti;Nobabgonj Bazar Ar Vitor Ar Boshoty;30;167;23;2;1;4;1;1;1;2;4;3;4;1;1;1;1;1;1;29
+Rangpur;23;12309001;11602309001;Dokkhin Jummapara;Mohila Shilpo Kuti;11;45;55;2;1;1;3;1;1;4;4;2;1;1;1;1;1;1;1;26
+Rangpur;23;12310001;11602310001;Moddho Jummapara;Kenel Par Tacknikal Ar Boshoty;50;327;23;1;1;4;1;1;1;3;4;3;1;1;1;1;1;1;1;26
+Rangpur;23;12310002;11602310002;Moddho Jummapara;Bihari Potti;20;53;60;2;2;4;2;1;1;4;4;3;3;1;4;1;4;4;4;44
+Rangpur;23;12310003;11602310003;Moddho Jummapara;Jummapara School Ar Matha;80;420;60;2;1;4;3;1;1;4;3;3;1;1;1;1;1;1;1;29
+Rangpur;23;12311001;11602311001;Purbo Jummapara;Bamon Danga Gomidar Bari;30;135;25;2;1;4;1;1;1;4;4;3;1;1;4;2;4;4;4;41
+Rangpur;23;12312001;11602312001;New Jummapara;Pakar Matha;60;315;70;2;1;4;1;2;2;4;4;3;4;3;4;3;3;4;4;48
+Rangpur;23;12312002;11602312002;New Jummapara;Purbo Tary;80;380;70;2;1;4;1;2;2;3;3;3;4;2;4;2;4;4;4;45
+Rangpur;23;12312003;11602312003;New Jummapara;Hazir Khamar;50;240;50;2;1;4;1;1;1;3;3;3;4;2;4;3;4;4;4;44
+Rangpur;23;12312004;11602312004;New Jummapara;Maddrasha Ar Pichone;45;240;50;2;1;4;1;1;2;4;4;3;4;2;4;3;4;4;4;47
+Rangpur;24;12401001;11602401001;Tatipara;Dola Boshoty;120;500;21;2;2;4;3;3;1;4;4;3;4;3;4;2;4;4;4;51
+Rangpur;24;12401002;11602401002;Tatipara;Mimay Boshoty;50;190;18;2;1;4;3;1;1;4;4;3;4;2;4;1;4;4;4;46
+Rangpur;24;12401003;11602401003;Tatipara;Tawer Boshoty;230;1030;35;2;3;4;3;4;1;4;4;3;4;3;4;2;4;4;4;53
+Rangpur;24;12401004;11602401004;Tatipara;Shanti/ Powkot Boshoty;15;60;12;2;2;4;3;3;2;3;4;3;3;2;4;1;4;4;4;48
+Rangpur;24;12401005;11602401005;Tatipara;Munnar Boshoty;10;32;6;2;2;4;3;2;1;3;4;3;3;2;1;1;2;1;1;35
+Rangpur;24;12401006;11602401006;Tatipara;Lalchu Boshoty;8;32;12;3;2;4;3;2;2;3;4;3;4;2;4;2;4;4;4;50
+Rangpur;24;12401007;11602401007;Tatipara;Jamal Boshoty;9;35;20;3;2;4;3;3;2;3;4;3;3;2;4;1;4;4;4;49
+Rangpur;24;12402001;11602402001;Daspara;Jagotbondhu Boshoty;40;130;10;2;4;4;3;3;1;3;4;3;4;2;4;1;4;4;4;50
+Rangpur;24;12402002;11602402002;Daspara;Nazrul Boshoty;10;38;12;2;1;4;2;3;1;3;4;3;4;2;4;1;4;4;4;46
+Rangpur;24;12402003;11602402003;Daspara;Zadu Miya Boshoty;11;40;18;4;4;4;3;3;1;3;4;3;4;2;4;1;4;4;4;52
+Rangpur;24;12402004;11602402004;Daspara;Ahammad Boshoty;5;20;25;3;2;4;3;3;1;3;4;3;4;2;4;1;4;4;4;49
+Rangpur;24;12402005;11602402005;Daspara;Afzal Boshoty;12;45;30;3;2;4;3;3;1;3;4;3;4;2;4;1;4;4;4;49
+Rangpur;24;12402006;11602402006;Daspara;Mostofa Boshoty;6;23;15;2;1;4;3;3;1;3;4;3;4;2;4;1;4;4;4;47
+Rangpur;24;12402007;11602402007;Daspara;Kala Harun Boshoty;12;48;12;3;1;4;3;2;1;3;4;3;4;2;4;1;4;4;4;47
+Rangpur;24;12403001;11602403001;Bairagi Para;Gosh Boshoty;16;62;30;1;4;4;3;3;2;3;4;3;4;2;4;1;4;4;4;50
+Rangpur;24;12403002;11602403002;Bairagi Para;Khogan Boshoty;7;27;7;4;4;4;3;3;1;4;4;3;3;2;1;1;2;1;2;42
+Rangpur;24;12403003;11602403003;Bairagi Para;Dhapi Boshoty;18;72;28;2;1;4;3;3;1;3;4;3;4;2;4;3;4;4;4;49
+Rangpur;24;12403004;11602403004;Bairagi Para;Ratan Lal Boski Boshoty;11;42;40;4;4;4;3;3;2;3;4;3;4;2;4;3;4;4;4;55
+Rangpur;24;12403005;11602403005;Bairagi Para;Nural Boshoty;14;54;15;3;1;4;3;3;1;3;4;3;4;2;4;3;4;4;4;50
+Rangpur;24;12403006;11602403006;Bairagi Para;Sudir/ Ali Boshoty;17;68;25;3;1;4;3;3;2;3;4;3;4;2;4;3;4;4;4;51
+Rangpur;24;12403007;11602403007;Bairagi Para;Rajjak Boshoty;8;32;7;2;1;4;3;3;1;3;4;3;3;2;1;1;2;1;1;35
+Rangpur;24;12403008;11602403008;Bairagi Para;Shaheb Ali;6;24;9;4;1;4;3;3;1;3;4;3;3;2;1;1;2;1;1;37
+Rangpur;24;12404001;11602404001;Kamal Kachna;Monsur Boshoty;8;32;30;4;4;4;3;3;2;3;4;3;4;2;4;3;4;4;4;55
+Rangpur;24;12404002;11602404002;Kamal Kachna;Ajahar Boshoty;5;20;30;3;2;4;3;3;2;3;4;3;4;2;4;3;4;4;4;52
+Rangpur;24;12405001;11602405001;Gupttopara;Dr. Samsul;51;227;46;3;1;4;4;4;1;4;4;3;4;2;4;3;4;4;4;53
+Rangpur;24;12405002;11602405002;Gupttopara;Moynar Boshoty;15;83;24;2;3;4;3;1;1;1;4;4;4;1;1;1;1;1;1;33
+Rangpur;24;12405003;11602405003;Gupttopara;Abu Ali Potti;102;509;47;2;1;1;1;1;1;1;2;3;4;1;1;1;1;1;1;23
+Rangpur;24;12405004;11602405004;Gupttopara;Motor Malik Shomity;13;65;29;1;1;3;1;1;1;2;3;3;4;1;1;1;1;1;1;26
+Rangpur;24;12405006;11602405006;Gupttopara;Shonaly Foshol;7;41;57;2;1;4;1;1;1;1;4;4;4;2;4;2;4;4;4;43
+Rangpur;24;12405005;11602405005;Gupttopara;Muchi Potti;10;57;61;2;1;1;1;1;1;4;4;4;4;1;4;2;4;4;4;42
+Rangpur;24;12405007;11602405007;Gupttopara;Jamal Market;13;69;76;2;1;4;1;1;1;4;4;4;4;3;4;2;4;4;4;47
+Rangpur;24;12405008;11602405008;Gupttopara;Budu Babur Math;223;1025;60;2;1;4;1;1;1;1;4;3;4;1;1;1;1;1;1;28
+Rangpur;24;12406001;11602406001;Monthona;Bachi Bary;9;47;63;2;1;4;1;1;1;4;4;4;4;2;1;1;1;1;1;33
+Rangpur;25;12501001;11602501001;Shalbon Mistripara;Nure Al Madina Masjeed Ar Boshoty;27;93;13;2;3;4;1;1;3;4;4;3;1;4;4;1;4;4;4;47
+Rangpur;25;12501002;11602501002;Shalbon Mistripara;Mondir Purbo Goli Boshoty;25;103;20;3;1;4;1;1;2;2;4;4;1;3;4;3;4;4;4;45
+Rangpur;25;12501003;11602501003;Shalbon Mistripara;Bala Bari Boshoty;30;120;13;1;1;4;1;1;1;2;4;4;1;1;4;1;3;4;4;37
+Rangpur;25;12501004;11602501004;Shalbon Mistripara;Mokur Dola Boshoty;270;1080;22;2;3;4;1;1;1;4;4;4;2;1;4;1;4;4;4;44
+Rangpur;25;12501005;11602501005;Shalbon Mistripara;Sombai Pichone Dudur Goli Boshoty;100;402;18;2;1;4;1;1;2;4;4;4;1;2;4;4;4;4;4;46
+Rangpur;25;12502001;11602502001;New Shalbon;Kollash Math Boshoty;18;103;35;1;1;4;1;1;1;1;4;3;1;4;1;1;1;2;1;28
+Rangpur;25;12502002;11602502002;New Shalbon;Shalbon Mobazar Road Jaforer Boshoty;16;103;11;1;1;4;1;1;1;4;4;4;1;4;1;1;1;1;1;31
+Rangpur;25;12502003;11602502003;New Shalbon;Horin Press Boshoty;8;40;80;2;1;4;1;1;2;1;4;2;1;4;4;1;4;4;4;40
+Rangpur;25;12504001;11602504001;Purbo Shalbon;Beside Big Bridge Boshoty;8;35;20;1;1;4;1;1;1;4;3;4;1;4;2;1;1;1;1;31
+Rangpur;25;12504002;11602504002;Purbo Shalbon;Kherbari Boshoty Ar Purbo Boshoty;6;19;4;1;1;4;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Rangpur;25;12504003;11602504003;Purbo Shalbon;Kherbari Boshoty;800;2552;25;2;3;4;1;1;1;4;3;3;1;4;4;1;4;4;4;44
+Rangpur;25;12504004;11602504004;Purbo Shalbon;Purbo Shalbon Kherbari Boshoty;25;107;10;3;1;4;1;1;1;4;3;3;1;4;4;1;4;4;4;43
+Rangpur;25;12504005;11602504005;Purbo Shalbon;Bottola Hatiranga Bridge Beside;11;42;25;1;1;4;1;1;1;4;4;3;1;4;4;1;4;4;4;42
+Rangpur;25;12504006;11602504006;Purbo Shalbon;Bottola Kayomer Ar Boshoty;7;27;5;2;1;4;1;1;1;4;4;3;1;4;4;1;4;4;4;43
+Rangpur;25;12504007;11602504007;Purbo Shalbon;Bottola Kayom Para Boshoty;45;95;20;2;1;3;1;1;1;4;3;4;2;4;4;1;4;4;4;43
+Rangpur;25;12505001;11602505001;Shalbon Shahipara;Shalbon Sahipara Rokeya College Ar Pichone;50;205;25;2;1;4;1;1;3;1;4;4;1;4;3;1;3;3;4;40
+Rangpur;25;12506001;11602506001;Central Road Mahalla;Central Road City College Boshoty;60;305;115;1;1;4;1;1;2;1;4;4;2;4;2;2;2;2;1;34
+Rangpur;25;12507001;11602507001;Kamal Kachna;Beside Bottola Masjeed;8;31;19;3;1;4;1;1;1;4;4;3;1;4;4;1;4;4;4;44
+Rangpur;25;12507002;11602507002;Kamal Kachna;Darga Burir Jayga;10;58;5;2;1;4;1;1;1;1;4;3;1;3;1;1;1;1;1;27
+Rangpur;25;12507003;11602507003;Kamal Kachna;Nuton Para ASOD Goli-1;9;33;10;4;3;4;1;1;1;4;4;3;1;4;1;1;1;1;2;36
+Rangpur;25;12507004;11602507004;Kamal Kachna;Kamal Kachna ASOD Goli-2;8;25;3;4;4;4;1;1;1;4;3;3;1;4;1;1;1;1;1;35
+Rangpur;26;12601001;11602601001;Nurpur;Lovelu Islam Boshoty;280;1201;20;2;1;4;1;1;1;1;4;2;2;2;2;2;2;1;1;29
+Rangpur;26;12601002;11602601002;Nurpur;Maynis Slum;160;640;25;2;4;4;1;1;2;2;4;3;2;1;4;2;2;4;4;42
+Rangpur;26;12601003;11602601003;Nurpur;Pappus Slum;350;1750;40;2;1;4;1;1;2;2;4;4;2;1;1;3;1;1;2;32
+Rangpur;26;12601004;11602601004;Nurpur;Samad`s Slum;65;390;25;2;1;4;1;1;2;2;3;4;3;2;2;2;2;1;3;35
+Rangpur;26;12601005;11602601005;Nurpur;Nurpur Primary School;35;175;20;2;1;4;2;1;3;2;4;4;4;1;3;3;2;1;3;40
+Rangpur;26;12601006;11602601006;Nurpur;Babla Ar Boshoty;30;180;35;1;1;4;1;1;1;1;4;2;1;1;1;1;1;1;2;24
+Rangpur;26;12601007;11602601007;Nurpur;Jharuputty;61;340;50;3;3;4;1;1;1;3;4;3;4;2;4;2;4;4;4;47
+Rangpur;26;12601008;11602601008;Nurpur;Sornar Pas;90;450;35;1;1;4;1;1;1;1;4;3;3;2;3;2;3;1;2;33
+Rangpur;26;12601009;11602601009;Nurpur;Gyangriho School;70;350;45;2;1;4;1;1;2;3;4;3;1;2;2;2;3;2;1;34
+Rangpur;26;12603001;11602603001;Thikadarpara Jame Masque;Latif Contructor Slum;16;90;45;4;4;4;1;3;3;3;4;4;4;3;4;3;4;4;4;56
+Rangpur;26;12603002;11602603002;Thikadarpara Jame Masque;Pakhi Contructor;50;250;45;2;1;4;1;1;2;3;4;4;4;3;4;3;4;4;4;48
+Rangpur;26;12603003;11602603003;Thikadarpara Jame Masque;Becon Area;65;225;35;4;2;4;1;1;2;3;4;4;4;3;4;3;4;4;4;51
+Rangpur;26;12603004;11602603004;Thikadarpara Jame Masque;CNB Area;50;150;40;2;1;4;1;2;1;3;4;4;4;3;4;3;4;4;4;48
+Rangpur;26;12604001;11602604001;Mohadebpur;Popli;16;70;12;3;3;4;1;1;1;3;3;1;1;1;1;1;1;1;1;27
+Rangpur;26;12604002;11602604002;Mohadebpur;Laizu;86;265;15;2;1;4;1;1;1;4;3;1;1;1;1;1;1;1;1;25
+Rangpur;26;12604003;11602604003;Mohadebpur;S.O Boshoty;11;50;20;2;1;4;1;1;1;3;3;3;2;1;1;1;1;1;1;27
+Rangpur;26;12604004;11602604004;Mohadebpur;Sattar Sir Ar Boshoty;15;70;60;1;1;4;1;1;1;1;3;3;1;2;4;3;4;4;4;38
+Rangpur;26;12604005;11602604005;Mohadebpur;Santo;7;32;50;2;1;4;1;1;2;3;4;1;1;1;1;1;1;1;1;26
+Rangpur;26;12604006;11602604006;Mohadebpur;Mozibor;6;22;9;2;1;4;1;1;1;3;3;1;1;2;1;1;1;1;1;25
+Rangpur;26;12604007;11602604007;Mohadebpur;Lokman Para;30;160;70;1;1;4;1;1;1;2;2;1;1;1;1;1;1;1;1;21
+Rangpur;26;12604008;11602604008;Mohadebpur;Mokbul Doctor;40;250;20;4;3;4;1;1;2;4;3;1;1;2;1;1;1;1;1;31
+Rangpur;26;12604009;11602604009;Mohadebpur;Aher Ali;20;95;9;2;1;4;1;3;2;1;3;1;1;3;4;2;4;4;4;40
+Rangpur;26;12604010;11602604010;Mohadebpur;Hamid Ar Boshoty;60;315;15;2;1;4;1;3;2;3;3;3;1;1;3;3;3;1;3;37
+Rangpur;26;12604011;11602604011;Mohadebpur;Nodi;15;65;15;2;1;4;1;2;2;1;3;1;1;1;4;2;4;4;4;37
+Rangpur;26;12604012;11602604012;Mohadebpur;Nahid Ar Boshoty;35;150;20;2;3;4;1;4;3;2;2;1;1;1;1;1;1;1;1;29
+Rangpur;26;12605001;11602605001;Mondolpara;Juwal;300;1350;25;2;1;4;1;1;2;1;2;1;2;1;1;1;1;1;1;23
+Rangpur;26;12605002;11602605002;Mondolpara;Vandari;150;675;15;1;1;3;1;1;1;1;2;1;1;1;1;1;1;1;1;19
+Rangpur;26;12605003;11602605003;Mondolpara;Kalam Pukur;30;135;20;3;1;4;1;1;1;2;3;1;1;1;1;1;1;1;1;24
+Rangpur;26;12605004;11602605004;Mondolpara;Farida;200;900;30;2;1;4;1;1;1;1;3;2;1;1;4;4;4;4;4;38
+Rangpur;26;12605005;11602605005;Mondolpara;Mohasin;20;90;20;2;1;4;1;1;1;2;3;3;1;1;1;1;1;1;1;25
+Rangpur;26;12605006;11602605006;Mondolpara;Manna Mondol;35;155;27;2;1;4;1;1;1;1;3;1;1;1;1;1;1;1;1;22
+Rangpur;26;12605007;11602605007;Mondolpara;Rostom;40;180;25;2;1;4;2;3;2;2;4;1;1;3;1;1;1;1;1;30
+Rangpur;26;12606001;11602606001;Robertsongonj;Farista Hossiry;30;135;25;2;1;4;1;1;1;2;3;1;1;1;3;3;3;3;3;33
+Rangpur;26;12606002;11602606002;Robertsongonj;Horin;10;45;16;4;3;4;1;1;2;1;3;2;1;2;4;4;4;4;4;44
+Rangpur;26;12606003;11602606003;Robertsongonj;Hema;110;495;25;2;1;4;1;1;1;1;3;1;1;1;1;1;1;1;1;22
+Rangpur;26;12606004;11602606004;Robertsongonj;Talis;150;675;30;4;4;4;1;1;1;3;3;1;1;1;1;1;1;1;1;29
+Rangpur;26;12606005;11602606005;Robertsongonj;Mostofa;500;2250;35;2;3;4;1;1;1;1;3;1;1;1;1;1;1;1;1;24
+Rangpur;26;12606006;11602606006;Robertsongonj;Babla;30;140;30;2;1;4;1;1;2;1;3;1;1;1;4;4;4;4;4;38
+Rangpur;26;12606007;11602606007;Robertsongonj;Farida;15;65;20;2;1;3;1;1;1;1;3;1;1;1;1;1;1;1;1;21
+Rangpur;26;12606008;11602606008;Robertsongonj;Balal;30;135;25;2;3;3;1;1;1;1;3;1;1;1;1;1;1;1;1;23
+Rangpur;26;12607001;11602607001;Patbari Mahalla;Hamid Molla;12;53;80;3;2;3;1;1;2;3;2;3;3;3;4;1;4;4;4;43
+Rangpur;26;12607002;11602607002;Patbari Mahalla;Shafi;10;50;40;3;2;4;1;1;2;3;3;3;2;2;4;3;4;4;4;45
+Rangpur;26;12607003;11602607003;Patbari Mahalla;Parhbari Moshjid Rail;54;245;40;3;2;3;1;1;1;3;4;1;1;1;2;1;1;2;1;28
+Rangpur;26;12607004;11602607004;Patbari Mahalla;Dhakaiya Mahalla;44;140;40;3;2;3;1;1;2;3;2;3;2;3;4;1;4;4;4;42
+Rangpur;26;12608001;11602608001;T.B. Hospital Mahalla;Babu Dokandar;40;164;26;2;1;3;1;1;1;3;3;2;2;2;2;1;2;2;2;30
+Rangpur;26;12608002;11602608002;T.B. Hospital Mahalla;Tajhat T.B Hospital Boshoty;357;1505;28;2;1;3;1;1;1;3;3;2;2;2;2;1;2;2;2;30
+Rangpur;26;12609001;11602609001;Adorshopara;Adorshopara-1;133;666;50;3;2;4;1;1;2;1;3;2;2;2;2;3;2;2;2;34
+Rangpur;26;12609002;11602609002;Adorshopara;Adorshopara-2;125;523;50;3;2;4;1;1;2;1;3;2;2;2;2;3;2;2;2;34
+Rangpur;26;12609003;11602609003;Adorshopara;Adorshopara-3;109;478;50;3;2;4;1;1;2;1;3;2;2;2;2;3;2;2;2;34
+Rangpur;26;12610001;11602610001;Helal Jute Press Mahalla;Helal Jute Press Mahalla-1;103;435;17;2;1;3;1;1;1;1;2;3;2;2;1;1;1;1;1;24
+Rangpur;26;12610002;11602610002;Helal Jute Press Mahalla;Helal Jute Press Mahalla-2;82;215;48;3;2;3;3;1;1;3;3;2;2;3;1;1;1;2;2;33
+Rangpur;26;12611001;11602611001;Railway Bosoti;Railway Bosoti;1627;4837;24;2;1;3;1;1;1;1;2;3;1;1;1;1;1;2;1;23
+Rangpur;27;12701001;11602701001;Pirpur;Babu Ji;15;70;100;3;3;4;1;1;2;2;3;3;1;1;4;1;4;4;4;41
+Rangpur;27;12701002;11602701002;Pirpur;Golzar;9;40;100;3;1;3;1;1;3;1;2;2;2;1;4;3;4;4;4;39
+Rangpur;27;12701003;11602701003;Pirpur;Keramotiya Majar;12;50;30;1;1;4;1;1;2;1;3;1;1;1;4;2;4;4;4;35
+Rangpur;27;12701004;11602701004;Pirpur;Anamul;20;90;100;3;1;3;1;1;3;2;2;3;2;1;4;3;4;4;4;41
+Rangpur;27;12701005;11602701005;Pirpur;Humayun;21;95;50;1;1;3;1;1;3;2;3;3;1;1;4;3;4;4;4;39
+Rangpur;27;12701006;11602701006;Pirpur;Lokman;6;30;70;1;1;3;1;1;2;1;3;3;1;1;4;1;4;4;4;35
+Rangpur;27;12701007;11602701007;Pirpur;Sahajahan;10;45;100;2;1;4;1;1;2;2;2;3;1;1;4;2;4;4;4;38
+Rangpur;27;12701008;11602701008;Pirpur;Borhanul;30;135;70;1;1;2;1;1;2;1;2;3;1;1;4;2;4;4;4;34
+Rangpur;27;12701009;11602701009;Pirpur;Khokon;40;180;70;3;3;3;1;1;2;2;2;3;2;2;4;2;4;4;4;42
+Rangpur;27;12701010;11602701010;Pirpur;An Juman Hussain Masjeed;24;115;50;3;1;3;1;1;2;1;2;3;1;1;1;1;1;3;1;26
+Rangpur;27;12702001;11602702001;Aziz Nagar Colony;Ahad Brathers Ar Mor;25;70;50;2;2;4;1;2;2;2;2;3;4;2;4;2;4;4;4;44
+Rangpur;27;12702002;11602702002;Aziz Nagar Colony;Masjeed Ar Mor;12;55;50;2;1;3;1;1;2;2;3;3;3;1;1;3;3;2;1;32
+Rangpur;27;12702003;11602702003;Aziz Nagar Colony;Sakil Sabek Councilor;8;35;50;2;1;3;1;1;1;2;2;3;1;1;1;1;2;2;1;25
+Rangpur;27;12702004;11602702004;Aziz Nagar Colony;Liton Juwelars School Goli;13;60;50;4;3;3;1;1;1;2;2;3;1;1;1;2;3;2;1;31
+Rangpur;27;12702005;11602702005;Aziz Nagar Colony;Ajij Nagar Colony B Camo;7;32;50;2;1;3;1;1;1;2;3;3;1;1;1;1;1;2;1;25
+Rangpur;27;12702006;11602702006;Aziz Nagar Colony;Akram Councilor;10;45;50;2;1;4;1;1;1;3;3;3;1;1;3;3;3;2;3;35
+Rangpur;27;12702007;11602702007;Aziz Nagar Colony;Sahajadi Goli;10;48;50;2;3;3;1;1;1;2;2;3;1;1;1;1;2;2;1;27
+Rangpur;27;12702008;11602702008;Aziz Nagar Colony;Munna Store;8;38;90;2;1;3;1;1;1;3;3;3;2;1;1;3;2;2;1;30
+Rangpur;27;12702009;11602702009;Aziz Nagar Colony;Ajij Nagar C Camp;35;150;50;1;1;3;1;1;1;2;2;3;1;1;1;2;1;2;1;24
+Rangpur;27;12702010;11602702010;Aziz Nagar Colony;Kaiyum Goli;10;45;50;3;1;3;1;1;2;3;3;3;2;1;2;2;3;2;1;33
+Rangpur;27;12702011;11602702011;Aziz Nagar Colony;Nuruu Goli;15;65;60;3;1;4;1;1;1;3;3;3;1;1;2;3;3;2;1;33
+Rangpur;27;12703001;11602703001;Banani Para;Masjeed Mor;7;25;30;2;1;3;1;1;2;2;3;3;1;2;1;1;1;1;3;28
+Rangpur;27;12703002;11602703002;Banani Para;Anguri;10;45;30;2;1;3;1;1;2;3;2;1;1;1;2;2;3;2;3;30
+Rangpur;27;12703003;11602703003;Banani Para;Bonani A Camp;25;110;50;2;3;3;1;1;1;2;2;3;1;1;1;1;1;2;1;26
+Rangpur;27;12704001;11602704001;Khamar;Noyakhali Potti-1;35;150;50;3;1;3;1;1;1;1;2;3;1;1;3;1;3;4;4;33
+Rangpur;27;12704002;11602704002;Khamar;Noyakhali Potti-2;20;120;50;2;1;3;1;1;1;1;2;3;1;1;1;1;1;1;1;22
+Rangpur;27;12704003;11602704003;Khamar;Pan Walar Goli;25;130;45;2;1;3;1;1;1;2;3;3;2;1;1;1;3;2;3;30
+Rangpur;27;12705001;11602705001;Salfet Camp;Hasem Chairman;28;130;50;2;1;2;1;1;2;2;2;3;1;1;2;1;2;2;1;26
+Rangpur;27;12705002;11602705002;Salfet Camp;Akter Khori;27;125;50;2;1;3;1;1;2;1;2;3;1;1;2;1;2;1;1;25
+Rangpur;27;12705003;11602705003;Salfet Camp;Putul;20;95;50;2;1;3;1;1;2;2;2;3;1;1;2;1;2;1;1;26
+Rangpur;27;12706001;11602706001;Muslimpara;Tower;30;138;50;2;1;2;1;1;1;1;2;3;1;1;1;1;1;2;1;22
+Rangpur;27;12706002;11602706002;Muslimpara;Muslim Para Jame Masjeed;25;112;50;2;1;3;1;1;3;1;2;3;1;1;4;1;4;4;4;36
+Rangpur;27;12706003;11602706003;Muslimpara;Sabir Hossain;30;140;50;2;1;3;1;1;2;1;3;3;1;1;1;1;1;2;1;25
+Rangpur;27;12706004;11602706004;Muslimpara;Vutna Bari;27;124;100;2;1;3;1;1;3;2;3;3;2;2;4;3;4;4;4;42
+Rangpur;27;12706005;11602706005;Muslimpara;Imam Bara;22;100;50;2;1;3;1;1;3;2;3;3;1;1;4;2;4;4;4;39
+Rangpur;27;12706006;11602706006;Muslimpara;Pani Tanki;35;150;50;2;1;2;1;1;1;1;2;3;1;1;1;1;1;2;1;22
+Rangpur;27;12707001;11602707001;Ispahani 2 No Camp;Ispahani Camp No.2;10;45;40;2;1;2;1;1;2;1;2;3;1;1;1;1;1;2;3;25
+Rangpur;27;12707002;11602707002;Ispahani 2 No Camp;Vola;12;55;70;2;1;4;1;3;3;2;4;3;1;1;4;2;4;4;4;43
+Rangpur;27;12707003;11602707003;Ispahani 2 No Camp;Boknadia Jame Masjeed;20;90;60;2;1;3;1;1;2;3;3;3;2;1;4;2;4;4;4;40
+Rangpur;27;12708001;11602708001;Huda Camp;Binnu Hazi Bari;45;200;42;2;1;3;1;1;2;2;3;3;1;1;1;2;1;2;1;27
+Rangpur;27;12708002;11602708002;Huda Camp;Minar Monu;15;65;35;2;1;3;1;1;2;1;3;3;1;1;2;2;2;2;3;30
+Rangpur;27;12709001;11602709001;Churi Potti;Shimultola Lainpar;20;90;50;1;1;3;1;1;1;2;2;3;1;1;1;2;2;2;1;25
+Rangpur;27;12709002;11602709002;Churi Potti;Mahbuber Goli;30;135;45;2;1;3;1;1;2;2;3;3;2;1;2;2;2;3;3;33
+Rangpur;27;12709003;11602709003;Churi Potti;Raile Boshoty;40;175;50;1;1;3;1;1;1;1;1;3;1;1;1;1;1;2;1;21
+Rangpur;27;12709004;11602709004;Churi Potti;Churi Potti;30;130;50;2;1;3;1;1;1;1;1;3;1;1;1;1;2;2;1;23
+Rangpur;27;12710001;11602710001;Babu Para;Sordar Mahalla;20;90;75;2;1;4;1;1;2;1;2;2;1;1;4;2;4;4;4;36
+Rangpur;27;12710002;11602710002;Babu Para;Aslam Hazi;50;240;100;2;1;4;1;1;2;1;2;3;1;1;4;2;4;4;4;37
+Rangpur;27;12710003;11602710003;Babu Para;Munshi Potti;30;135;25;2;1;3;1;1;2;1;2;2;1;1;1;1;1;2;1;23
+Rangpur;27;12710004;11602710004;Babu Para;Monglur Bari;20;92;40;2;1;3;1;1;1;1;2;3;1;1;4;1;4;4;4;34
+Rangpur;27;12710008;11602710008;Babu Para;Rahatiner Goli;20;90;35;2;1;3;1;1;1;1;4;3;1;1;1;2;1;1;2;26
+Rangpur;27;12710005;11602710005;Babu Para;Nilar Bari;5;25;50;2;1;4;1;1;1;1;2;3;1;1;1;1;1;2;1;24
+Rangpur;27;12710006;11602710006;Babu Para;Sweeper Potti;7;30;45;2;1;4;1;1;1;1;1;2;2;1;1;1;1;2;1;23
+Rangpur;27;12710007;11602710007;Babu Para;Babu Sonar Bari;35;150;60;2;1;4;1;1;3;2;3;3;2;1;4;3;4;2;4;40
+Rangpur;28;12801001;11602801001;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Belal (Current Mistri);43;215;40;2;1;4;1;1;1;4;4;3;1;4;4;1;4;4;4;43
+Rangpur;28;12801002;11602801002;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Tuku (Ven Puller);33;165;41;2;1;4;1;1;1;4;4;3;4;1;4;1;4;4;4;43
+Rangpur;28;12801003;11602801003;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Shuku Mia (Dokandar);30;150;40;2;1;4;1;1;1;4;4;4;4;1;4;1;4;4;4;44
+Rangpur;28;12801004;11602801004;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Aziz Principle;15;75;60;3;2;4;1;1;1;4;4;4;4;1;2;3;2;4;4;44
+Rangpur;28;12801005;11602801005;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Lavlu Bakari;120;480;30;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Rangpur;28;12801006;11602801006;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Mohilur Driver;20;100;35;3;1;4;1;1;1;4;4;3;2;1;4;1;4;4;4;42
+Rangpur;28;12801007;11602801007;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Zelal Bepari;100;400;35;2;1;4;1;1;1;3;3;3;2;1;4;1;4;4;4;39
+Rangpur;28;12801008;11602801008;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Nesar Ahmed;20;100;25;2;1;4;1;1;1;4;4;3;4;1;4;4;4;4;4;46
+Rangpur;28;12801009;11602801009;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Romjan Dokander;20;120;30;3;1;4;1;1;1;3;3;2;2;1;4;1;4;4;4;39
+Rangpur;28;12801010;11602801010;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Roshid Dokander;50;350;35;3;1;4;1;1;1;4;3;3;3;1;4;1;4;4;4;42
+Rangpur;28;12801011;11602801011;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Amjad Master;35;175;45;4;4;4;1;1;1;4;4;4;4;1;4;2;4;4;4;50
+Rangpur;28;12801012;11602801012;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Nojrul Master;45;270;40;3;1;4;1;1;1;4;3;3;3;1;4;1;4;4;4;42
+Rangpur;28;12801013;11602801013;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Chalek Dokander;50;250;60;4;4;4;1;1;1;4;4;3;3;1;4;2;4;4;4;48
+Rangpur;28;12801014;11602801014;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Meri Quality School;35;140;50;4;4;4;1;1;1;4;4;3;4;1;4;3;3;4;4;49
+Rangpur;28;12801015;11602801015;Earshadnagar, Chokbazar, Moddho Asratpur, Court Para, Eidgahpara & Chiniapara;Chokbazar Koboresthan;50;250;50;4;4;4;1;1;2;4;4;4;4;1;4;3;4;4;4;52
+Rangpur;28;12802001;11602802001;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Popi Stor;20;100;30;1;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;39
+Rangpur;28;12802002;11602802002;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;DOFS;25;120;30;3;1;4;4;1;1;4;4;4;4;1;1;1;2;2;1;38
+Rangpur;28;12802003;11602802003;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Mukti Joddha Foyajar;50;250;40;2;1;2;2;1;1;1;4;4;4;1;1;1;1;2;2;30
+Rangpur;28;12802004;11602802004;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Kalipod;20;90;30;1;1;4;1;1;1;4;4;3;4;1;4;1;2;1;3;36
+Rangpur;28;12802005;11602802005;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Bellal Hotel;22;95;30;2;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;40
+Rangpur;28;12802006;11602802006;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Saiful Stor;140;750;30;2;3;4;1;1;1;2;2;3;4;1;1;1;1;1;1;29
+Rangpur;28;12802007;11602802007;Shajapur, Dhakaiya Para, Uttor Asratpur & Tajhata Ansari Mor;Sadek Ali Store;30;157;25;1;1;4;1;1;1;1;4;2;4;1;4;1;4;4;4;38
+Rangpur;28;12803001;11602803001;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Saban Factory;65;325;40;2;1;4;1;1;1;3;4;3;4;1;4;1;4;4;4;42
+Rangpur;28;12803002;11602803002;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Purbo Amlla Potti;13;51;43;2;1;4;1;1;1;4;4;3;4;1;4;1;4;4;4;43
+Rangpur;28;12803003;11602803003;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Helal Mudi Dokan;82;368;46;2;1;4;1;1;1;4;3;3;4;1;4;1;4;4;4;42
+Rangpur;28;12803004;11602803004;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Bokkho Badhi Hospital Pichon Pas;10;55;18;2;3;4;1;1;1;3;4;3;4;1;4;1;4;4;4;44
+Rangpur;28;12803005;11602803005;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Hasan;33;165;35;2;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;40
+Rangpur;28;12803006;11602803006;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Tajhat Puraton Jame Masjeed;19;76;55;2;2;4;1;1;1;3;4;3;4;1;4;1;4;4;4;43
+Rangpur;28;12803007;11602803007;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Abdul Baten;48;250;52;2;1;4;1;1;1;3;4;3;4;1;4;1;4;4;4;42
+Rangpur;28;12803008;11602803008;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Tajhat Dolapara;32;135;15;1;1;3;1;1;1;2;4;3;4;1;4;1;4;4;4;39
+Rangpur;28;12803009;11602803009;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Tajhat Baitul Salam Jame Masjeed;27;135;45;2;1;4;1;1;1;1;3;3;4;1;4;1;4;4;4;39
+Rangpur;28;12803010;11602803010;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Poltu Sir Godown (Hindu Para);46;207;57;2;1;4;1;1;1;4;4;3;4;1;1;1;1;2;2;33
+Rangpur;28;12803011;11602803011;Ansari Mor, Helal Press, Adorshopara, Lichu Bagan, Bihari Para, Mollahpara & Amlla Potti (Tajhat);Alhari Mor(Helal Prom);600;2429;34;2;1;4;1;1;1;2;3;3;4;1;1;1;1;1;1;28
+Rangpur;28;12804001;11602804001;Kherbari, Sultan Nagor, Lalbag & Shantibag;Railgate Par Boshoty;51;257;25;3;1;4;1;1;1;4;2;1;1;1;1;2;1;3;1;28
+Rangpur;28;12804002;11602804002;Kherbari, Sultan Nagor, Lalbag & Shantibag;Akbaria Masjeed;60;210;32;2;2;4;1;1;1;4;2;4;2;1;4;2;4;4;4;42
+Rangpur;28;12804003;11602804003;Kherbari, Sultan Nagor, Lalbag & Shantibag;Rishan Himadar;33;160;20;2;1;4;1;1;1;4;2;2;2;1;4;2;4;4;4;39
+Rangpur;28;12804004;11602804004;Kherbari, Sultan Nagor, Lalbag & Shantibag;Al Masjeed Chatrabash;28;141;27;2;1;4;1;1;1;4;2;2;2;1;4;3;4;4;4;40
+Rangpur;28;12804005;11602804005;Kherbari, Sultan Nagor, Lalbag & Shantibag;Kherbari Majar;29;141;29;2;3;4;1;1;1;4;2;2;2;1;4;3;4;4;4;42
+Rangpur;28;12804006;11602804006;Kherbari, Sultan Nagor, Lalbag & Shantibag;Aisa Store;59;315;38;2;2;4;1;1;1;4;3;2;4;1;4;3;4;4;4;44
+Rangpur;28;12804007;11602804007;Kherbari, Sultan Nagor, Lalbag & Shantibag;VIP Road;49;215;35;2;2;4;1;1;1;4;3;4;2;1;4;3;4;4;4;44
+Rangpur;28;12804008;11602804008;Kherbari, Sultan Nagor, Lalbag & Shantibag;Kherbari Puraton Masjeed;60;315;29;2;3;4;1;1;1;4;1;2;2;1;4;2;4;4;4;40
+Rangpur;28;12804009;11602804009;Kherbari, Sultan Nagor, Lalbag & Shantibag;Kherbari Eidgha Math;60;330;24;2;2;4;1;1;1;4;2;2;2;1;4;3;4;4;4;41
+Rangpur;28;12804010;11602804010;Kherbari, Sultan Nagor, Lalbag & Shantibag;Sultan Nagor Jame Masjeed;53;280;35;2;3;4;1;1;1;4;2;2;2;1;3;3;3;4;4;40
+Rangpur;28;12805001;11602805001;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Awrongzeb Boshoty;5;17;20;2;2;4;1;1;1;4;4;4;2;1;1;1;1;2;3;34
+Rangpur;28;12805002;11602805002;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Manik Ullah;6;21;11;2;2;4;1;1;1;4;4;4;2;1;1;1;1;2;3;34
+Rangpur;28;12805003;11602805003;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Sojid Kormochary;8;34;9;2;2;4;1;1;1;4;3;4;2;1;1;2;1;2;3;34
+Rangpur;28;12805004;11602805004;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Jolil Secritary;32;158;25;1;1;4;1;1;1;4;3;4;2;1;1;1;1;2;3;31
+Rangpur;28;12805005;11602805005;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Sadek;9;43;19;2;2;4;1;1;1;4;3;4;2;1;1;1;1;2;3;33
+Rangpur;28;12805006;11602805006;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Horijon Somprodhay;19;71;11;2;1;4;1;1;1;4;2;4;2;1;1;1;1;2;3;31
+Rangpur;28;12805007;11602805007;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Mamun Tary;35;163;20;3;2;4;1;1;1;4;2;3;2;1;2;1;2;2;2;33
+Rangpur;28;12805008;11602805008;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Darus Takuya Began Madrasha;27;122;40;3;2;4;1;1;1;4;4;4;4;1;4;4;4;4;4;49
+Rangpur;28;12805009;11602805009;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Baitul Mokarrom Masjeed;31;189;30;3;2;4;1;1;1;4;4;2;3;1;4;4;4;4;4;46
+Rangpur;28;12805010;11602805010;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Mollapara Jame Masjeed;49;261;39;3;2;4;1;1;1;4;3;4;2;1;4;4;4;4;4;46
+Rangpur;28;12805011;11602805011;College Para, Uttor Para, Mollapara, Al-Hazz Nagor, Mollapara & Alhaznagor;Munna Tary Shutki Godown;51;265;35;2;2;4;1;1;1;4;3;2;2;1;4;4;4;4;4;43
+Rangpur;29;12901001;11602901001;Kala Bari;Rangpurai Para;25;117;80;2;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;38
+Rangpur;29;12901002;11602901002;Kala Bari;Miya Para;17;105;80;2;1;4;1;1;2;1;4;3;3;4;4;4;4;4;4;46
+Rangpur;29;12901003;11602901003;Kala Bari;Dhakaya Para;35;185;40;1;1;3;1;1;2;1;4;4;3;1;4;4;4;4;4;42
+Rangpur;29;12901004;11602901004;Kala Bari;Chandur More-2;11;55;80;2;1;4;1;1;1;1;4;3;3;1;4;2;4;4;4;40
+Rangpur;29;12901005;11602901005;Kala Bari;Chandur More-3;13;42;80;2;1;1;1;1;2;1;4;3;3;2;4;2;4;4;4;39
+Rangpur;29;12901006;11602901006;Kala Bari;Poschim Para;85;275;65;1;1;4;1;1;1;1;4;3;3;1;3;1;3;2;3;33
+Rangpur;29;12901007;11602901007;Kala Bari;Uttor Kalabari-1;55;201;50;1;1;4;1;1;1;4;3;4;4;2;4;2;4;4;4;44
+Rangpur;29;12901008;11602901008;Kala Bari;Uttor Kalabari-2;11;55;60;1;1;4;1;1;2;3;3;3;3;2;4;4;4;4;4;44
+Rangpur;29;12901009;11602901009;Kala Bari;Line Gate;25;125;50;2;1;1;1;1;1;1;3;3;3;3;3;1;3;3;3;33
+Rangpur;29;12901010;11602901010;Kala Bari;Line Oper;14;55;40;1;1;1;1;1;1;1;3;3;3;2;3;1;4;4;4;34
+Rangpur;29;12902001;11602902001;Godasimla (Rat Bari);Rath Bari Jame Masjeed;120;503;50;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Rangpur;29;12902002;11602902002;Godasimla (Rat Bari);Rath Bari Mondir Par;57;287;80;1;1;2;1;1;1;4;4;4;3;1;4;1;4;4;4;40
+Rangpur;29;12902003;11602902003;Godasimla (Rat Bari);Rath Bari Mor;19;75;40;1;1;4;1;1;1;1;4;4;1;1;4;2;4;4;4;38
+Rangpur;29;12902004;11602902004;Godasimla (Rat Bari);Godashimla Scholl Par;60;303;60;1;1;1;1;1;1;1;4;2;2;1;4;1;4;4;4;33
+Rangpur;29;12902005;11602902005;Godasimla (Rat Bari);Chandure More;35;175;80;2;1;4;1;1;2;3;4;3;3;1;4;1;4;4;4;42
+Rangpur;29;12902006;11602902006;Godasimla (Rat Bari);Haji Para;80;351;80;2;1;4;1;1;4;3;4;4;4;4;4;3;4;4;4;51
+Rangpur;29;12902007;11602902007;Godasimla (Rat Bari);Godashimla (Hindu Para);17;100;50;1;1;4;1;1;1;1;4;3;1;4;4;1;4;4;4;39
+Rangpur;29;12902008;11602902008;Godasimla (Rat Bari);Rath Bari Basti;265;823;65;3;1;2;1;1;1;4;2;3;1;1;2;1;2;2;1;28
+Rangpur;29;12903001;11602903001;Khudro Rangpur;Brac School Sonlogno;250;1200;87;1;1;4;1;1;3;2;3;4;3;1;4;1;4;4;4;41
+Rangpur;29;12903002;11602903002;Khudro Rangpur;Khudro Rangpur-1;300;1200;100;1;1;3;1;1;3;1;3;3;3;1;4;1;4;4;4;38
+Rangpur;29;12903003;11602903003;Khudro Rangpur;Hayear Tari;250;900;100;1;1;4;1;1;3;1;3;4;3;1;4;1;4;4;4;40
+Rangpur;29;12903004;11602903004;Khudro Rangpur;Chondibari;200;800;120;1;1;3;1;1;3;1;3;4;3;1;3;2;4;4;4;39
+Rangpur;29;12903005;11602903005;Khudro Rangpur;Khontikar Tari;60;350;50;1;1;4;1;1;4;1;4;4;3;2;4;2;4;4;4;44
+Rangpur;29;12904001;11602904001;Goshaibari;Mollah Auto Rice Mills (Hindu Para-2);9;45;30;3;1;1;1;1;1;4;4;4;2;1;2;1;2;1;1;30
+Rangpur;29;12904002;11602904002;Goshaibari;Pakar Maatha;15;78;60;1;1;3;1;1;2;1;4;3;3;4;4;3;4;4;4;43
+Rangpur;29;12904003;11602904003;Goshaibari;Chondi Bari;20;102;75;2;1;4;1;1;1;1;4;4;3;3;4;2;4;4;4;43
+Rangpur;29;12904004;11602904004;Goshaibari;Hindu Para;20;103;70;1;1;4;1;1;1;1;4;3;2;2;2;1;3;1;1;29
+Rangpur;29;12904005;11602904005;Goshaibari;College Road;35;212;70;1;1;3;1;1;1;1;4;3;3;1;2;2;2;2;2;30
+Rangpur;29;12904006;11602904006;Goshaibari;College Pichon Get;60;315;80;1;1;3;1;1;2;1;4;4;3;3;4;1;4;4;4;41
+Rangpur;29;12905001;11602905001;Dewantuli;Dewantuli (Bosty);80;350;10;1;1;4;1;1;1;1;4;2;1;1;1;1;1;1;1;23
+Rangpur;29;12905002;11602905002;Dewantuli;Bottola;150;900;60;4;1;4;1;2;2;2;4;2;2;1;4;1;4;4;4;42
+Rangpur;29;12905003;11602905003;Dewantuli;Dewantuli-3;200;1000;50;1;1;4;1;2;2;2;4;4;3;1;3;1;3;3;3;38
+Rangpur;29;12905004;11602905004;Dewantuli;Boro Bary;100;300;80;1;1;4;1;1;2;2;4;2;3;1;3;1;3;2;3;34
+Rangpur;29;12905005;11602905005;Dewantuli;Dewantuli (Jame Masjeed);200;400;30;1;1;4;1;1;2;1;4;2;2;1;4;4;4;4;4;40
+Rangpur;29;12905006;11602905006;Dewantuli;Taqsar Digi;70;320;30;2;1;4;1;1;2;1;4;3;3;1;4;1;2;4;4;38
+Rangpur;29;12905007;11602905007;Dewantuli;Mondir Bari;70;320;40;2;1;4;1;1;2;1;4;2;2;1;4;1;4;4;4;38
+Rangpur;29;12906001;11602906001;Koshaituli;Mostafiz Er Boshoty;400;1667;80;2;1;4;1;1;1;2;4;4;3;1;4;2;4;4;4;42
+Rangpur;29;12906002;11602906002;Koshaituli;Mondot Para;41;237;80;2;1;4;1;1;1;3;3;2;2;2;4;3;4;4;4;41
+Rangpur;29;12906003;11602906003;Koshaituli;Abu Saleh;309;1550;80;1;1;4;1;1;1;3;2;2;2;2;4;2;4;4;4;38
+Rangpur;29;12906004;11602906004;Koshaituli;Jame Masjeed Sonlogno;109;577;80;1;1;4;1;1;1;3;2;2;2;2;4;1;4;4;4;37
+Rangpur;29;12906005;11602906005;Koshaituli;Boshir Mollah;152;490;80;1;1;4;1;1;1;1;2;2;2;2;4;1;4;4;4;35
+Rangpur;29;12907001;11602907001;Chack Bazar;New Chack Bazar;170;1000;40;1;1;3;1;1;3;3;3;4;2;2;1;1;1;3;3;33
+Rangpur;29;12908001;11602908001;Dhumkhatia;Taltola;50;200;100;3;1;4;1;2;4;4;4;4;4;3;4;3;4;4;4;53
+Rangpur;29;12908002;11602908002;Dhumkhatia;Mahigonj Tari;20;70;20;1;1;3;1;1;3;1;3;3;1;2;1;1;1;2;3;28
+Rangpur;29;12908003;11602908003;Dhumkhatia;Rajessor Mondir Aria Dhumkhatia;70;250;50;1;1;3;1;1;2;3;3;3;3;3;4;3;3;4;4;42
+Rangpur;29;12908004;11602908004;Dhumkhatia;Dhumkhatia Boshoty;250;1100;200;2;1;4;1;1;4;3;4;4;4;3;4;4;4;4;4;51
+Rangpur;29;12909001;11602909001;Mahiganj;Mahigonj Bottola;100;530;30;1;1;4;1;1;2;4;4;4;3;3;4;2;4;4;4;46
+Rangpur;29;12909002;11602909002;Mahiganj;Afan Ullah Road;50;250;150;2;3;4;2;1;3;4;4;4;4;3;4;3;4;4;4;53
+Rangpur;29;12909003;11602909003;Mahiganj;Paresnath Mondir Road;70;400;120;4;3;4;1;1;3;4;4;4;4;3;4;4;4;4;4;55
+Rangpur;29;12909004;11602909004;Mahiganj;Fakirtuli;50;250;200;2;1;4;1;1;3;4;4;4;4;3;4;1;4;4;4;48
+Rangpur;29;12909005;11602909005;Mahiganj;Chack Bazar;80;450;220;2;1;4;1;1;2;4;4;4;4;3;4;2;4;4;4;48
+Rangpur;29;12909006;11602909006;Mahiganj;Mahigonj Govt. Primary School Aria;20;60;50;1;1;4;1;1;4;3;4;4;3;3;4;2;4;4;4;47
+Rangpur;29;12909007;11602909007;Mahiganj;Mahigonj Bangobondhu Aria;80;400;200;2;3;4;1;1;2;3;4;4;4;3;4;3;4;4;4;50
+Rangpur;29;12909008;11602909008;Mahiganj;Shatiar Mor;20;85;75;2;3;4;1;1;2;3;4;4;4;3;4;3;4;4;4;50
+Rangpur;29;12909009;11602909009;Mahiganj;Chaul Potti;12;55;200;2;3;4;1;1;3;4;4;4;4;4;4;3;4;4;4;53
+Rangpur;29;12909010;11602909010;Mahiganj;Kobi Para;120;525;200;2;3;4;1;2;4;3;4;4;4;3;4;3;4;4;4;53
+Rangpur;29;12910001;11602910001;Fotehpur;Dhumkhatia -1;500;2000;25;1;1;4;1;1;2;1;4;2;4;1;1;1;1;1;3;29
+Rangpur;29;12910002;11602910002;Fotehpur;Akra;11;55;20;1;1;4;1;2;2;1;4;2;2;1;1;1;1;1;1;26
+Rangpur;29;12910003;11602910003;Fotehpur;Noya Khali Para;15;100;40;1;1;4;1;2;4;1;4;4;3;4;4;2;4;4;4;47
+Rangpur;29;12910004;11602910004;Fotehpur;Dhola Mia Bari;30;130;30;1;1;4;1;2;4;2;4;3;3;1;4;3;3;1;2;39
+Rangpur;29;12910005;11602910005;Fotehpur;Fotehpur (Hindu Para);300;1200;35;2;1;4;1;1;2;1;4;2;1;1;1;1;1;2;2;27
+Rangpur;29;12911001;11602911001;J.B Sen Road;Bamon Dongga-1;50;250;30;1;1;4;1;2;4;1;4;3;2;4;4;2;3;4;4;44
+Rangpur;29;12911002;11602911002;J.B Sen Road;Bamon Dongga-2;22;150;60;2;1;4;1;1;1;1;4;2;1;1;2;1;1;2;3;28
+Rangpur;29;12911003;11602911003;J.B Sen Road;J.B Sen Road;40;170;25;2;1;4;1;2;4;1;4;2;3;4;4;2;4;4;4;46
+Rangpur;29;12911004;11602911004;J.B Sen Road;Dimla Hindu Para;30;150;25;2;1;4;1;2;2;1;4;2;2;2;4;2;4;4;4;41
+Rangpur;29;12911005;11602911005;J.B Sen Road;Kanan Gotla Masjeed ar Par;16;72;30;2;1;4;1;1;2;1;1;3;3;3;4;1;4;4;4;39
+Rangpur;29;12912001;11602912001;Boro Rangpur (Dimla, Kanan Gotla);Kalibari;20;100;80;1;1;4;1;1;1;1;4;2;1;1;1;1;1;2;1;24
+Rangpur;29;12912002;11602912002;Boro Rangpur (Dimla, Kanan Gotla);Boro Rangpur;30;150;15;1;1;4;1;1;2;1;4;2;2;1;4;4;4;4;4;40
+Rangpur;29;12912003;11602912003;Boro Rangpur (Dimla, Kanan Gotla);Dimla Raj Bari;200;600;20;1;1;4;1;1;1;1;3;2;2;1;1;1;1;2;1;24
+Rangpur;29;12912004;11602912004;Boro Rangpur (Dimla, Kanan Gotla);Pastari;300;1200;30;2;1;4;1;1;2;1;4;2;2;1;1;2;2;3;3;32
+Rangpur;30;13001001;11603001001;Kutir Para;Joynal Sir Ar Boshoty;112;410;28;1;1;3;1;1;1;2;3;3;1;1;4;2;4;4;4;36
+Rangpur;30;13001002;11603001002;Kutir Para;Joynal Hazir Boshoty;185;725;35;1;1;3;1;1;1;2;3;4;1;1;4;4;4;4;4;39
+Rangpur;30;13001003;11603001003;Kutir Para;Haque Master Ar Boshoty;165;680;35;1;1;3;1;1;1;1;3;4;1;1;4;2;4;4;4;36
+Rangpur;30;13001004;11603001004;Kutir Para;Angur Miah Ar Boshoty;106;418;20;1;3;4;1;1;1;2;3;2;1;1;3;2;3;4;4;36
+Rangpur;30;13001005;11603001005;Kutir Para;Abul Miah Ar Boshoty;72;290;35;1;1;4;1;1;1;1;3;3;1;1;4;3;4;4;4;37
+Rangpur;30;13001006;11603001006;Kutir Para;Jahanggir Ar Boshoty;85;343;38;1;1;4;1;1;1;2;3;3;1;1;4;3;3;4;4;37
+Rangpur;30;13002001;11603002001;Botla;Roton Mia Ar Boshoty;93;392;68;1;1;4;1;1;1;2;3;3;1;2;3;2;4;4;4;37
+Rangpur;30;13002002;11603002002;Botla;Botta Bosty Road;27;106;12;4;1;1;1;1;1;2;1;1;1;1;1;1;1;2;1;21
+Rangpur;30;13003001;11603003001;Dokhiganj;Rashid Mia Ar Boshoty;118;452;50;2;1;4;1;1;1;1;3;1;1;1;4;2;4;4;4;35
+Rangpur;30;13003002;11603003002;Dokhiganj;Golgar Hossain Ar Boshoty;113;432;43;1;1;4;1;1;1;1;3;1;1;1;4;4;4;4;4;36
+Rangpur;30;13003003;11603003003;Dokhiganj;Sattar Mollah Ar Boshoty;48;210;37;1;1;4;1;1;1;1;3;1;1;1;4;4;4;4;4;36
+Rangpur;30;13004001;11603004001;West Khasbag;Charmathar More Halimer Bari;20;101;115;3;1;4;1;1;1;4;4;4;1;4;4;1;4;4;4;45
+Rangpur;30;13004002;11603004002;West Khasbag;West Khasbag Khoker Dokan Ar Boshoty;35;150;70;2;1;4;1;1;1;4;4;3;3;4;4;1;4;4;4;45
+Rangpur;30;13004003;11603004003;West Khasbag;Khabag Uccha  Briger Daner Goly Boshoty;141;503;90;3;1;4;1;1;1;3;4;3;1;1;4;1;4;4;4;40
+Rangpur;30;13005001;11603005001;East Khasbag;East Khasbag Montu Potty Boshoty;72;212;20;2;1;4;1;1;3;4;4;3;2;3;4;2;4;4;4;46
+Rangpur;30;13005002;11603005002;East Khasbag;East Khasbag Patla Potty Ar Boshoty;65;209;25;2;1;4;1;1;3;4;3;3;1;3;4;3;4;4;4;45
+Rangpur;30;13005003;11603005003;East Khasbag;East Khasbag Nodir Par Boshoty;52;223;18;1;1;4;1;1;3;4;3;3;1;3;4;3;4;4;4;44
+Rangpur;30;13006001;11603006001;G.L Roy Road;Sonibari Boshoty;316;1217;55;2;1;4;1;1;2;3;2;3;1;1;1;1;1;2;1;27
+Rangpur;30;13006002;11603006002;G.L Roy Road;Shawtal Adibashi Boshoty;48;252;30;1;1;2;1;1;1;1;3;3;1;3;1;1;1;2;1;24
+Rangpur;30;13006003;11603006003;G.L Roy Road;Shatmatha Rail Line Boshoty;75;318;10;1;1;3;1;1;1;1;1;2;1;1;1;1;1;2;1;20
+Rangpur;30;13006004;11603006004;G.L Roy Road;Shatmatha Seiper Colony Boshoty;66;225;50;1;2;4;1;1;1;4;3;1;1;3;1;1;1;2;2;29
+Rangpur;30;13007001;11603007001;Birvodro & Balatari;Birvodro Bala Tary;62;240;35;1;1;4;1;1;1;1;4;3;1;1;1;1;1;2;1;25
+Rangpur;30;13007002;11603007002;Birvodro & Balatari;Bala tary Kadir Vahiar Boshoty;6;23;12;3;1;4;1;1;4;4;4;4;1;4;4;1;4;4;4;48
+Rangpur;30;13007003;11603007003;Birvodro & Balatari;Birvodro Azam Comisonar Ar Bari;5;24;70;2;1;4;1;1;4;4;4;3;1;4;4;1;4;4;4;46
+Rangpur;30;13007004;11603007004;Birvodro & Balatari;Birvodro Mohesh Khali Zongjol Boshoty;30;122;25;2;1;4;1;1;1;1;4;3;1;3;4;1;2;4;4;37
+Rangpur;30;13008001;11603008001;Nachnia (Ambari);Nachnia Polli Boshoty;219;807;35;2;1;1;1;1;1;1;4;4;1;2;1;1;1;3;1;26
+Rangpur;30;13008002;11603008002;Nachnia (Ambari);Ambari Hafez Saheber Boshoty;69;305;110;2;1;4;1;1;1;2;3;3;1;4;4;1;4;4;4;40
+Rangpur;30;13008003;11603008003;Nachnia (Ambari);Nachnia Railgate Sultan Master Ar Boshoty;25;102;22;1;1;1;1;1;1;1;4;3;1;2;1;1;1;2;1;23
+Rangpur;30;13008004;11603008004;Nachnia (Ambari);Nachnia Mondol Ar Boshoty;60;130;102;2;1;4;1;1;1;2;4;4;1;4;4;1;4;4;4;42
+Rangpur;30;13008005;11603008005;Nachnia (Ambari);Nachnia Motin Miyar Boshoty;9;40;50;2;1;4;1;1;1;2;4;4;1;4;4;1;4;4;4;42
+Rangpur;31;13101001;11603101001;Kishamotbishu;Poschim Para;70;290;60;2;1;4;1;1;1;2;1;3;3;3;4;2;4;4;4;40
+Rangpur;31;13101002;11603101002;Kishamotbishu;Kishamotbishu, Purbo Para;200;700;100;2;1;4;1;2;4;2;1;3;3;3;2;2;3;4;4;41
+Rangpur;31;13101003;11603101003;Kishamotbishu;Gaibanda Para;50;250;60;2;1;4;1;1;1;2;1;3;3;3;4;2;4;4;4;40
+Rangpur;31;13101004;11603101004;Kishamotbishu;Nazir Digar Noya Para;100;450;80;2;1;4;1;1;1;2;1;3;3;3;4;2;4;4;4;40
+Rangpur;31;13102001;11603102001;Nazir Digar Poschim Para;Kola Para;150;700;50;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Rangpur;31;13102002;11603102002;Nazir Digar Poschim Para;Poschim Para;250;900;70;2;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;44
+Rangpur;31;13102003;11603102003;Nazir Digar Poschim Para;Chandu Member Ar Alaka;80;340;60;2;1;1;1;1;1;2;3;3;4;4;4;2;4;4;4;41
+Rangpur;31;13103001;11603103001;Nazir Digar Moddho;Indrar Mor;85;340;100;2;1;4;1;1;2;2;3;3;4;3;4;2;4;4;4;44
+Rangpur;31;13103002;11603103002;Nazir Digar Moddho;Doctor Para;65;260;100;1;1;4;1;1;2;2;4;3;4;3;4;2;4;4;4;44
+Rangpur;31;13103003;11603103003;Nazir Digar Moddho;Sorkar Para;55;220;100;1;1;4;1;1;2;2;3;3;3;3;4;1;4;4;4;41
+Rangpur;31;13103004;11603103004;Nazir Digar Moddho;Patari Bari;15;60;100;1;1;3;1;1;2;2;2;3;2;3;4;1;4;4;4;38
+Rangpur;31;13104001;11603104001;Nazir Digar Dokhin And Bidiban;Mather Par;35;140;100;2;1;3;1;1;2;2;3;3;3;3;4;2;4;4;4;42
+Rangpur;31;13104002;11603104002;Nazir Digar Dokhin And Bidiban;Masjeed Para;60;240;100;2;1;4;1;1;2;2;2;3;3;3;4;1;4;4;4;41
+Rangpur;31;13104003;11603104003;Nazir Digar Dokhin And Bidiban;Golam Mostofer Bari;30;120;100;2;1;4;1;1;2;2;3;3;3;3;4;1;4;4;4;42
+Rangpur;31;13104004;11603104004;Nazir Digar Dokhin And Bidiban;Bashur Bari;12;54;100;2;1;4;1;1;2;2;3;3;3;3;4;1;4;4;4;42
+Rangpur;31;13104005;11603104005;Nazir Digar Dokhin And Bidiban;Khasvita;10;40;100;2;1;3;1;1;1;1;2;3;2;3;1;1;1;2;1;26
+Rangpur;31;13104006;11603104006;Nazir Digar Dokhin And Bidiban;Biddiban;60;270;100;2;1;3;1;1;1;2;2;3;2;3;4;1;4;4;4;38
+Rangpur;31;13105001;11603105001;Purbo Nazir Digar;Shatghori Para;45;200;60;2;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;43
+Rangpur;31;13105002;11603105002;Purbo Nazir Digar;Mailanar Mor;50;220;50;2;1;4;1;1;2;2;3;3;2;3;4;1;4;4;4;41
+Rangpur;31;13105003;11603105003;Purbo Nazir Digar;Nazir Digar Tary;30;130;40;2;1;4;1;1;3;2;3;3;2;3;4;3;4;4;4;44
+Rangpur;31;13105004;11603105004;Purbo Nazir Digar;Vokram;35;150;40;2;1;4;1;1;2;2;3;2;2;3;4;1;4;4;4;40
+Rangpur;31;13106001;11603106001;Silimpur Moddhopara And Bharatpara;Bharatpara;110;500;90;2;1;4;1;1;1;1;3;3;3;3;4;2;4;4;4;41
+Rangpur;31;13106002;11603106002;Silimpur Moddhopara And Bharatpara;Milimpur;250;1100;120;2;1;4;1;1;1;1;3;3;3;3;4;3;4;4;4;42
+Rangpur;31;13106003;11603106003;Silimpur Moddhopara And Bharatpara;Munshir Tary;60;260;100;2;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;40
+Rangpur;31;13106004;11603106004;Silimpur Moddhopara And Bharatpara;Dangar Tary;50;260;105;2;1;4;1;1;1;1;3;3;3;3;4;2;4;4;4;41
+Rangpur;31;13107001;11603107001;Silimpur Dararpar;Dararpar;70;310;100;2;1;4;1;1;1;2;3;3;3;3;4;3;4;4;4;43
+Rangpur;31;13107002;11603107002;Silimpur Dararpar;Boro Bari Dararpar;90;400;95;2;1;4;1;1;1;2;3;3;4;4;4;2;4;4;4;44
+Rangpur;31;13107003;11603107003;Silimpur Dararpar;Uttor Tary Dararpar;50;220;85;2;1;4;1;1;1;2;4;2;4;3;4;2;4;4;4;43
+Rangpur;31;13107004;11603107004;Silimpur Dararpar;Boyej Ar Tary;55;240;75;2;1;4;1;1;1;2;2;3;3;3;4;2;4;4;4;41
+Rangpur;31;13107005;11603107005;Silimpur Dararpar;Gheghar Tary;25;110;40;2;1;4;1;1;1;2;3;3;2;3;4;4;4;4;4;43
+Rangpur;31;13108001;11603108001;Araji Dhormodas;Araji Dhormodas-1;90;380;70;2;1;4;1;1;2;2;2;3;3;4;4;2;4;4;4;43
+Rangpur;31;13108002;11603108002;Araji Dhormodas;Araji Dhormodas-2;70;290;70;1;1;4;1;1;2;2;2;3;3;4;4;2;4;4;4;42
+Rangpur;31;13108003;11603108003;Araji Dhormodas;Araji Dhormodas-3;80;320;60;1;1;4;1;1;2;2;2;3;3;4;4;2;4;4;4;42
+Rangpur;31;13108004;11603108004;Araji Dhormodas;Araji Dhormodas-4;40;170;60;1;1;4;1;1;2;2;2;3;3;4;4;2;4;4;4;42
+Rangpur;31;13108005;11603108005;Araji Dhormodas;Araji Dhormodas-5;50;210;60;2;1;4;1;1;2;2;2;3;3;4;4;2;4;4;4;43
+Rangpur;31;13109001;11603109001;Khamarpara;Purbo Para;40;160;80;2;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;44
+Rangpur;31;13109002;11603109002;Khamarpara;Khamarpara-1;60;250;80;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Rangpur;31;13109003;11603109003;Khamarpara;Khamarpara-2;90;370;70;1;1;4;1;1;2;2;4;3;3;3;3;2;4;4;4;42
+Rangpur;31;13110001;11603110001;Moddhopara, Hindupara, Zarbari;Moddhopara;60;260;100;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Rangpur;31;13110002;11603110002;Moddhopara, Hindupara, Zarbari;Zarbari;80;350;100;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Rangpur;31;13110003;11603110003;Moddhopara, Hindupara, Zarbari;Hindu Para;50;200;60;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Rangpur;31;13111001;11603111001;Sheikhpara, Shikhari Uttor, Dorarpara;Shekari Para Tary/ Madrasha Para;35;150;60;2;1;4;1;1;1;2;2;3;3;3;4;2;4;4;4;41
+Rangpur;31;13111002;11603111002;Sheikhpara, Shikhari Uttor, Dorarpara;Dhora Para;40;170;65;2;2;4;2;1;1;2;2;3;1;2;4;1;4;4;4;39
+Rangpur;31;13111003;11603111003;Sheikhpara, Shikhari Uttor, Dorarpara;Hijara Mor;50;210;60;2;1;4;1;1;1;2;4;3;4;1;4;1;4;4;4;41
+Rangpur;31;13111004;11603111004;Sheikhpara, Shikhari Uttor, Dorarpara;Moddho Shekh Para;40;170;65;2;1;4;1;1;1;2;3;3;4;4;4;1;4;4;4;43
+Rangpur;31;13112001;11603112001;Moddho And Vokram Sheikhpara;Shekhpara Koborsthan Mor;50;210;70;2;1;4;1;1;1;2;2;2;2;3;4;1;4;4;4;38
+Rangpur;31;13112002;11603112002;Moddho And Vokram Sheikhpara;Dokhin Tary;30;130;25;2;1;4;1;1;1;2;2;3;4;1;4;1;4;4;4;39
+Rangpur;31;13112003;11603112003;Moddho And Vokram Sheikhpara;Shekh School;80;335;70;2;1;4;1;1;1;2;2;3;4;1;4;1;4;4;4;39
+Rangpur;31;13112004;11603112004;Moddho And Vokram Sheikhpara;Vokram Para;60;250;70;2;1;4;1;1;1;2;2;3;4;1;4;1;4;4;4;39
+Rangpur;31;13113001;11603113001;Dokhin Sheikhpara;Dokhin Shekh Para;90;370;90;2;1;4;1;1;1;2;2;3;3;4;4;1;4;4;4;41
+Rangpur;32;13201001;11603201001;Boro Rangpur;Dimla Hori Mondir Boshoty;40;155;75;1;1;4;1;1;1;1;3;4;1;3;4;1;4;4;4;38
+Rangpur;32;13201002;11603201002;Boro Rangpur;Ohab Mia Bari Boshoty;50;245;120;1;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Rangpur;32;13201003;11603201003;Boro Rangpur;Hamit Mia Bari Boshoty;15;65;90;2;1;4;1;1;1;1;3;4;1;3;4;1;4;4;4;39
+Rangpur;32;13201004;11603201004;Boro Rangpur;Mohirir Barir Pashe Boshoty;35;155;90;2;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;39
+Rangpur;32;13201005;11603201005;Boro Rangpur;Moynar Bari Pash Boshoty;25;112;120;2;1;4;1;1;1;1;3;1;1;3;4;1;4;4;4;36
+Rangpur;32;13201006;11603201006;Boro Rangpur;Lutfor Master Barir Pase Boshoty;75;332;120;2;1;4;1;1;1;1;3;2;1;3;4;2;4;4;4;38
+Rangpur;32;13202001;11603202001;Arazi Tampat;Mukti Joddha Abdul Rowf Barir Boshoty;30;145;85;2;1;4;1;1;1;1;3;2;1;3;4;1;4;4;4;37
+Rangpur;32;13202002;11603202002;Arazi Tampat;Armi Abdul Mannan Ar Bari;30;145;120;2;1;4;1;1;1;1;3;2;1;3;4;1;4;4;4;37
+Rangpur;32;13202003;11603202003;Arazi Tampat;abdul Basar  er Bari Sonlogno Boshoty;40;165;130;2;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;39
+Rangpur;32;13202004;11603202004;Arazi Tampat;Mendir Bari Pashe Boshoty;30;130;100;2;1;4;1;1;1;1;3;2;1;3;4;1;4;4;4;37
+Rangpur;32;13203001;11603203001;Nagar Mirganj;Mirganj Unian Porishoba Ar Pichoner Boshoty;40;162;85;2;1;4;1;1;1;4;4;4;1;1;4;1;4;4;4;41
+Rangpur;32;13203002;11603203002;Nagar Mirganj;Kandura Telir Bari;45;195;100;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203003;11603203003;Nagar Mirganj;Kajol Baparir Bari Boshoty;15;65;90;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203004;11603203004;Nagar Mirganj;Foni Doctor Ar Bari Sonlogno Boshoty;15;65;100;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203005;11603203005;Nagar Mirganj;Mojibor Master Ar Bari Sonlog Boshoty;10;45;100;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203006;11603203006;Nagar Mirganj;Chaorman Puraton Bari Boshoty;25;125;120;2;1;4;1;1;3;1;3;3;1;3;4;1;4;4;4;40
+Rangpur;32;13203007;11603203007;Nagar Mirganj;Shamim Cncilor Ar Bari Sonlogno;30;135;110;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203008;11603203008;Nagar Mirganj;Pasari Bari Boshoty;15;62;120;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203009;11603203009;Nagar Mirganj;Moni Member ar Bari;35;156;120;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Rangpur;32;13203010;11603203010;Nagar Mirganj;Mtin BSC Bari Boshoty;45;185;110;2;1;4;1;1;1;1;3;2;1;3;4;1;4;4;4;37
+Rangpur;32;13204001;11603204001;Khudra Tempat & Taluktampat;Jalhaker Bari Boshoty;25;116;60;2;1;4;1;1;1;2;4;3;1;2;4;1;4;4;4;39
+Rangpur;32;13204002;11603204002;Khudra Tempat & Taluktampat;Badsha Nagor Boshoty;40;185;15;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;32;13204003;11603204003;Khudra Tempat & Taluktampat;Mollapara Rahmaner Bari Boshoty;30;132;75;1;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;37
+Rangpur;32;13204004;11603204004;Khudra Tempat & Taluktampat;Sardar Para Ismailer Bari Boshoty;8;36;12;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;32;13204005;11603204005;Khudra Tempat & Taluktampat;Sorayer tol Sagorpara Boshoty;80;380;100;1;2;4;1;1;1;3;4;3;1;1;4;1;4;4;4;39
+Rangpur;32;13204006;11603204006;Khudra Tempat & Taluktampat;Khurdatampat Moddho Para Bosoty;75;320;100;2;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;38
+Rangpur;32;13205001;11603205001;Dharmadas-1;Kuthipara Boshoty;42;192;70;2;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;38
+Rangpur;32;13205002;11603205002;Dharmadas-1;Dhumma Burar Bari Boshoty;23;105;80;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;32;13205003;11603205003;Dharmadas-1;Soleyar Bari Boshoty;7;31;75;1;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;37
+Rangpur;32;13205004;11603205004;Dharmadas-1;Safikul Mamar Bari Boshoty;18;85;80;2;2;4;1;1;1;2;4;3;1;1;4;1;4;4;4;39
+Rangpur;32;13205005;11603205005;Dharmadas-1;Konapara Baro Aulia Boshoty;18;82;30;1;1;4;1;1;1;1;4;2;1;2;4;1;4;4;4;36
+Rangpur;32;13205006;11603205006;Dharmadas-1;Kader Master Ar Bari Boshoty;12;55;70;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Rangpur;32;13205007;11603205007;Dharmadas-1;Mather Par Boshoty;17;80;55;2;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;37
+Rangpur;32;13206001;11603206001;Dharmadas-2;Muhammadpur Dharmadas Lakkhan Para Boshoty;20;87;95;2;1;4;1;1;1;2;4;3;1;3;4;1;4;4;4;40
+Rangpur;32;13206002;11603206002;Dharmadas-2;Lakkhan Para Atour Hazir Bari Boshoty;14;52;28;2;1;3;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;32;13206003;11603206003;Dharmadas-2;Muslim Para Nazrul Driver Bari Boshoty;41;129;115;1;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;32;13207001;11603207001;Dharmadas-3;Chowpara Lakkhan Para Boshoty;19;93;20;1;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Rangpur;32;13207002;11603207002;Dharmadas-3;Neza Hazir Boshoty;10;38;85;2;1;4;1;1;1;2;4;3;1;3;4;1;4;4;4;40
+Rangpur;32;13207003;11603207003;Dharmadas-3;Mogolerbag Santipara Boshoty;17;67;56;2;1;4;1;1;1;3;4;3;1;2;4;1;4;4;4;40
+Rangpur;32;13207004;11603207004;Dharmadas-3;Moholerbag Chowkider Para Boshoty;22;76;70;2;1;4;1;1;1;2;4;3;1;2;4;1;4;4;4;39
+Rangpur;33;13301001;11603301001;Kondro Rangpur;Teka Tare;120;500;150;2;1;4;1;1;2;2;4;4;4;4;4;2;4;4;4;47
+Rangpur;33;13301002;11603301002;Kondro Rangpur;Modho Para;80;360;60;2;2;3;1;1;1;1;2;3;3;3;4;2;4;4;4;40
+Rangpur;33;13301003;11603301003;Kondro Rangpur;Topar Tary;25;110;280;2;1;4;1;1;1;2;3;4;3;4;4;2;4;4;4;44
+Rangpur;33;13301004;11603301004;Kondro Rangpur;Tale Tary;40;170;200;2;1;4;1;1;1;2;2;3;2;3;4;1;4;4;4;39
+Rangpur;33;13301005;11603301005;Kondro Rangpur;Lichur Tola;30;140;200;2;1;3;1;1;1;2;3;3;4;4;4;1;4;4;4;42
+Rangpur;33;13301006;11603301006;Kondro Rangpur;NareCal Tol;40;200;170;2;1;4;1;1;1;2;2;2;3;4;4;1;4;4;4;40
+Rangpur;33;13301007;11603301007;Azizullah;Munshi Para;150;680;80;2;1;4;1;1;2;2;3;2;2;1;4;1;2;4;4;36
+Rangpur;33;13302001;11603302001;Arazi Mankhamar;Sore Ar Tol;60;270;130;3;1;4;1;1;2;2;4;3;2;4;4;1;4;4;4;44
+Rangpur;33;13302002;11603302002;Arazi Mankhamar;Jorindra Para;35;150;135;2;1;4;1;1;2;3;4;2;1;1;4;1;4;4;4;39
+Rangpur;33;13302003;11603302003;Arazi Mankhamar;Choto Rangpur;80;380;125;3;1;4;1;1;2;2;4;2;1;1;4;1;4;4;1;36
+Rangpur;33;13302005;11603302005;Arazi Mankhamar;Kha Bari;150;750;125;2;1;4;1;1;2;3;4;3;1;1;1;1;4;4;4;37
+Rangpur;33;13303001;11603303001;Mohindra;Kazi Sahab Bari;60;260;150;2;1;4;1;1;1;2;3;3;4;4;4;1;4;4;4;43
+Rangpur;33;13303002;11603303002;Mohindra;South Mohindra;150;700;150;2;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;43
+Rangpur;33;13303003;11603303003;Mohindra;South Mohindra School;35;150;120;2;2;4;1;1;1;2;3;4;4;4;4;2;4;4;4;46
+Rangpur;33;13303004;11603303004;Mohindra;Mohindra Modho Para;100;450;150;2;1;4;1;1;1;2;3;3;3;4;4;1;4;4;4;42
+Rangpur;33;13303005;11603303005;Mohindra;Sordar Tary-1;35;145;80;2;1;4;1;1;2;3;4;3;1;4;4;2;4;4;4;44
+Rangpur;33;13303006;11603303006;Mohindra;Sordar Tary-2;50;220;125;2;1;4;1;1;3;2;4;3;1;4;4;2;4;4;4;44
+Rangpur;33;13304001;11603304001;Bokchi;Pukurpar Primary School;30;145;80;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Rangpur;33;13304002;11603304002;Bokchi;Surjo Kumar Kali Mandir;15;70;100;2;1;4;1;1;2;1;4;3;1;1;4;2;4;4;4;39
+Rangpur;33;13304003;11603304003;Bokchi;Siraj Moddho Bokchi;15;70;100;2;1;4;1;1;3;1;4;3;1;2;4;3;4;4;4;42
+Rangpur;33;13304004;11603304004;Bokchi;Bokchi Bottola Bazar;25;115;100;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Rangpur;33;13304005;11603304005;Bokchi;Bokchi Khamar Mor;30;140;80;2;1;4;1;1;3;1;4;3;1;2;4;2;4;4;4;41
+Rangpur;33;13304006;11603304006;Bokchi;Dokhin Bokchi Amer Bagan;30;140;100;2;1;4;1;1;2;1;3;3;1;3;4;2;4;4;4;40
+Rangpur;33;13305001;11603305001;Azizullah;Topar Dokan;45;210;50;2;1;4;1;1;2;1;3;2;2;2;2;1;4;4;4;36
+Rangpur;33;13305002;11603305002;Azizullah;Tale Para;300;1300;89;2;1;4;1;1;1;1;4;2;2;2;4;1;4;4;4;38
+Rangpur;33;13305003;11603305003;Azizullah;Poschim Munchi Para;20;95;20;2;1;4;1;1;1;1;3;2;1;2;4;1;4;4;4;36
+Rangpur;33;13305004;11603305004;Azizullah;Mojal;35;160;30;2;1;4;1;1;1;1;3;2;1;2;4;1;4;4;4;36
+Rangpur;33;13305005;11603305005;Azizullah;Modikhana;200;910;95;2;1;4;1;1;1;1;3;2;2;2;4;1;4;4;4;37
+Rangpur;33;13305006;11603305006;Azizullah;Master Para;85;395;56;2;1;4;1;1;2;2;3;2;3;3;4;1;4;4;4;41
+Rangpur;33;13305007;11603305007;Azizullah;Tatary Para;250;1125;135;2;1;4;1;1;1;1;3;3;2;3;4;1;4;4;4;39
+Rangpur;33;13305008;11603305008;Azizullah;Shapara;110;498;67;2;1;4;1;1;2;2;2;2;2;2;4;1;4;4;4;38
+Rangpur;33;13305009;11603305009;Azizullah;Roju Ar Boshoty;90;410;85;2;1;4;1;1;1;2;3;2;2;2;4;1;4;4;4;38
+Rangpur;33;13306001;11603306001;Raji Khan;Uttor Raju Kha;70;320;30;2;1;4;1;1;1;1;3;3;2;2;4;1;4;4;4;38
+Rangpur;33;13306002;11603306002;Raji Khan;Motin;60;270;47;2;1;4;1;1;2;3;2;1;2;2;4;1;4;4;4;38
+Rangpur;33;13306003;11603306003;Raji Khan;Shaker Ali Member;80;380;95;2;1;4;1;1;1;1;3;2;2;2;4;1;4;4;4;37
+Rangpur;33;13306004;11603306004;Raji Khan;Raju Kha Masjeed;130;586;90;2;1;4;1;1;2;1;2;2;1;2;4;1;2;4;4;34
+Rangpur;33;13307001;11603307001;Mekura;Mekura Moddho Para;30;145;120;2;1;4;1;1;3;1;4;3;1;3;4;2;4;4;4;42
+Rangpur;33;13307002;11603307002;Mekura;Mekura Hat-1;30;150;100;2;1;4;1;1;2;1;4;3;1;2;4;2;4;4;4;40
+Rangpur;33;13307003;11603307003;Mekura;Mekura Boro Bari;40;155;200;2;1;4;1;1;2;1;4;3;1;2;4;2;4;4;4;40
+Rangpur;33;13307004;11603307004;Mekura;Mekura Adorshopara;30;140;80;2;1;4;1;1;3;1;4;3;1;3;4;2;4;4;4;42
+Rangpur;33;13307005;11603307005;Mekura;Mekura Baniapara-1;25;120;70;2;1;4;1;1;3;1;4;3;1;2;4;2;4;4;4;41
+Rangpur;33;13307006;11603307006;Mekura;Mekura Baniapara-2;70;320;110;2;1;4;1;1;3;1;4;3;1;2;4;2;4;4;4;41
+Rangpur;33;13307007;11603307007;Mekura;Mekura Hat-2;30;150;100;2;1;4;1;1;2;1;4;3;1;2;4;2;4;4;4;40
+Rangpur;33;13308001;11603308001;Hossennagar;Kha Para;85;385;95;2;1;4;1;1;1;2;3;2;1;1;4;1;4;4;4;36
+Rangpur;33;13308002;11603308002;Hossennagar;Moddho Para;60;270;45;2;2;4;1;1;1;1;2;1;2;3;4;1;3;4;4;36
+Rangpur;33;13308003;11603308003;Hossennagar;Foizan Member;70;310;38;1;1;4;1;1;1;1;2;2;1;2;4;1;4;4;4;34
+Rangpur;33;13308004;11603308004;Hossennagar;Kali Mandir;30;132;45;2;1;4;1;1;1;1;3;3;2;3;4;1;4;4;4;39
+Rangpur;33;13308005;11603308005;Hossennagar;Nodir Par;50;220;70;2;1;4;1;1;1;1;3;1;1;2;4;1;4;4;4;35
+Rangpur;33;13308006;11603308006;Hossennagar;Sri Sri Durga Mandir;20;90;25;2;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;38
+Rangpur;33;13308007;11603308007;Hossennagar;Bolaram Chokider;40;180;20;2;1;4;1;1;1;1;3;3;2;3;4;1;4;4;4;39
+Rangpur;33;13308008;11603308008;Hossennagar;Boiragi Para-1;70;315;30;2;1;4;1;1;2;1;4;2;2;2;4;1;4;4;4;39
+Rangpur;33;13308009;11603308009;Hossennagar;Boiragi Para-2;33;135;20;2;1;4;1;1;2;1;4;2;2;2;4;1;4;4;4;39
+Rangpur;33;13308010;11603308010;Hossennagar;Pach Para;200;900;53;2;1;4;1;1;1;1;3;2;1;2;4;1;4;4;4;36
+Rangpur;33;13308011;11603308011;Hossennagar;Dararpar;95;500;40;2;1;4;1;1;2;1;3;2;1;2;4;1;4;4;4;37
+Rangpur;33;13308012;11603308012;Hossennagar;Razzak;30;140;20;2;1;4;1;1;2;2;3;3;2;1;4;1;4;4;4;39
+Rangpur;33;13309001;11603309001;Taluk Raghu;Bosunia Para;50;235;80;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Rangpur;33;13309002;11603309002;Taluk Raghu;Patana Para Jame Masjeed;70;320;100;2;1;4;1;1;2;1;4;3;1;2;4;2;4;4;4;40
+Rangpur;33;13309003;11603309003;Taluk Raghu;Taluk Bogura Para;50;245;100;2;1;4;1;1;3;1;4;3;1;3;4;2;4;4;4;42
+Rangpur;33;13309004;11603309004;Taluk Raghu;Taluk Jame Masjeed;30;130;80;2;1;4;1;1;3;1;4;3;1;2;4;2;4;4;4;41
+Rangpur;33;13309005;11603309005;Taluk Raghu;Taluk Moddho Para;60;260;120;2;1;4;1;1;3;1;3;3;1;2;4;2;4;4;4;40

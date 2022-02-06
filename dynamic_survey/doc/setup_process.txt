@@ -1,0 +1,61 @@
+THIS DOC COVERS THE SETUP PROCESS OF  "surveydesign" APPLICATION IN ANY NEW BLACKWIDOW PROJECT.
+
+This app is mainly built with django, nodejs and angularjs. The app is compatible with python 3.5.2 and django 1.11.3.
+Though not tested yet but the app should work fine with higher versions of python and django. Angularjs version is 1.2.5.
+And the app is tested with node version 4.2.6.
+
+Step 1: Install the Survey Module with `pip install surveydesign` as like `blackwidow.core` library.
+
+Step 2: You need to install nodejs, nodejs-legacy and npm. Try the following commands:
+        sudo apt-get install nodejs
+        sudo apt-get install npm
+        sudo apt-get install nodejs-legacy
+
+
+Step 3: In the project's settings.py file include 'surveydesign', 'taggit' and 'reversion' inside the INSTALLED_APPS tuple.
+        For reference I have added 'surveydesign' in BW_APPS tuple inside:
+        'project_root'/config/apps.py file.
+
+        But 'taggit' and 'reversion' were added inside the INSTALLED_APPS tuple in the projects's settings.py file.
+
+Step 4: Now run the routine initialization commands as always in your project.
+        a. python manage.py bw_make_init
+        b. python manage.py bw_init_migrations
+        c. python manage.py makemigrations
+        d. python manage.py migrate
+        e. python manage.py bw_init_data
+
+
+
+
+Step 5: You are ready to go now. Run the server and you will find the survey design app in root_url/survey-design url.
+        For example if you run the project on 127.0.0.1:8000 go to the following link:
+        http://127.0.0.1:8000/survey-design
+
+        You are also supposed to get a link to the app named 'Survey Design' in the Survey sidebar of Admin module.
+        If you don't get this link in the sidebar or you want to show the sidebar link in some other module then
+        use the following method:
+        from surveydesign.utils.decorators import update_model_decorator
+        And use the function in following way:
+
+
+        ######       python Example Code Starts Here    ######
+
+        from blackwidow.engine.decorators.expose_model import expose_api
+        from blackwidow.engine.decorators.route_partial_routes import route
+        from blackwidow.engine.decorators.utility import is_object_context, has_status_data
+        from blackwidow.core.enums.modules_enum import ModuleEnum
+
+        from surveydesign.models import SurveyResponse
+        from surveydesign.utils.decrators import update_model_decorator
+
+        update_model_decorator(SurveyResponse, expose_api('survey-response'), is_object_context, has_status_data,
+                               route(route='survey-response', group='Logs', module=ModuleEnum.Settings,
+                                     display_name='Survey Response')
+                               )
+
+        ######       python Example Code Ends Here    ######
+
+
+
+

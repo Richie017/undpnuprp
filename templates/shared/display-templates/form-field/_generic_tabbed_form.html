@@ -1,0 +1,66 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+<ul class="form-tab">
+    {% for tab_name, tab_fields in form.Meta.tabs|name_value_pair %}
+        <li><a class="form-tab-links"
+               data-anchor="{{ tab_name|to_unified_lower_including_special }}">{{ tab_name }}</a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% for tab_name, tab_fields in form.Meta.tabs|name_value_pair:False %}
+    <div class="form-tab-content" id="{{ tab_name|to_unified_lower_including_special }}">
+        {% for child_form in form|tab_prefix_forms:tab_name %}
+            {% if child_form.render_table %}
+                {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% else %}
+                {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% endif %}
+        {% endfor %}
+
+
+        {% for group_name, form_fields in form|apply_fields_grouping|name_value_pair:False %}
+            {% if form.render_table %}
+                {% if group_name != '' %}
+                    <h6 class="header blue h6-text">{{ group_name }}</h6>
+                {% endif %}
+                {% for field in form_fields %}
+                    {% if field.name in tab_fields %}
+                        {% include 'shared/display-templates/form-field/_generic_table_form_field.html' %}
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                {% if group_name != '' %}
+                    <h6 class="header blue h6-text">{{ group_name }}</h6>
+                {% endif %}
+                <div class="col-sm-12 fbx-content-shop">
+                    <div class="fbz-product-content-left">
+                        {% if form.show_form_inline %}
+                            <ul class="list-inline"> {% endif %}
+                        {% for field in form_fields %}
+                            {% if field.name in tab_fields %}
+                                {% include 'shared/display-templates/form-field/_generic_form_field.html' %}
+                            {% endif %}
+                        {% endfor %}
+                        {% if form.show_form_inline %} </ul> {% endif %}
+                    </div>
+                    <!--//PRODUCT CONTENT LEFT-->
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        {% for child_form in form|tab_suffix_forms:tab_name %}
+            {% if child_form.render_table %}
+                {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% else %}
+                {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endfor %}
+
+{% if form.editable_tables %}
+    {% for editable_tables in form.editable_tables %}
+        {% include "common/tables/custom_table_editable_renderer.html" with table_data=editable_tables %}
+    {% endfor %}
+{% endif %}

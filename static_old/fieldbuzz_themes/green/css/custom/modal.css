@@ -1,0 +1,246 @@
+
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: black;
+    opacity: .8
+}
+
+.modal-backdrop.fade {
+    opacity: 0
+}
+
+.modal-backdrop.fade.in {
+    opacity: .8
+}
+
+.modal {
+    position: fixed;
+    top: 10%;
+    margin: 0 auto;
+    z-index: 1050;
+    width: auto;
+    *border: 1px solid #999;
+    -webkit-box-sizing: padding-box;
+    -moz-box-sizing: padding-box;
+    box-sizing: padding-box;
+    outline: 0
+}
+
+.modal.fade {
+    -webkit-transition: top .3s ease-out, top .3s ease-out;
+    -moz-transition: top .3s ease-out, top .3s ease-out;
+    -ms-transition: top .3s ease-out, top .3s ease-out;
+    -o-transition: top .3s ease-out, top .3s ease-out;
+    transition: top .3s ease-out, top .3s ease-out;
+    top: -25%
+}
+
+.modal.fade.in {
+    top: 10%
+}
+
+.modal-header {
+    padding: 9px 15px;
+    border-bottom: 1px solid #eee;
+    background-color: white;
+}
+
+.modal-header .close {
+    margin-top: 2px
+}
+
+.modal-header h3 {
+    margin: 0;
+    line-height: 30px
+}
+
+.modal-body {
+    position: relative;
+    overflow-y: auto;
+    max-height: 400px;
+    padding: 15px;
+    background-color: white;
+}
+
+.modal-form {
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.modal-footer {
+    padding: 14px 15px 15px;
+    margin-bottom: 0;
+    text-align: right;
+    background-color: #f4f4f4;
+    border-top: 1px solid #d1d1d1;
+    /*-webkit-border-radius: 0 0 4px 4px;*/
+    /*-moz-border-radius: 0 0 4px 4px;*/
+    /*border-radius: 0 0 4px 4px;*/
+    -webkit-box-shadow: 0 1px 0 white inset;
+    -moz-box-shadow: 0 1px 0 white inset;
+    box-shadow: 0 1px 0 white inset;
+    *zoom: 1;
+}
+
+.modal-footer:before {
+    display: table;
+    content: "";
+    line-height: 0
+}
+
+.modal-footer:after {
+    display: table;
+    content: "";
+    line-height: 0;
+    clear: both
+}
+
+.modal-footer .btn + .btn {
+    margin-left: 5px;
+    margin-bottom: 0
+}
+
+.modal-footer .btn-group .btn + .btn {
+    margin-left: -1px
+}
+
+.modal-footer .btn-block + .btn-block {
+    margin-left: 0
+}
+
+.modal-gallery .modal-image:hover:after {
+    content: '\203A';
+    left: auto;
+    right: 15px
+}
+
+.modal-single .modal-image:hover:before, .modal-single .modal-image:hover:after {
+    display: none
+}
+
+.modal-loading .modal-image {
+    background: url(../../img/loading-orange.gif) center no-repeat
+}
+
+.modal-gallery.fade .modal-image {
+    -webkit-transition: width .15s ease, height .15s ease;
+    -moz-transition: width .15s ease, height .15s ease;
+    -ms-transition: width .15s ease, height .15s ease;
+    -o-transition: width .15s ease, height .15s ease;
+    transition: width .15s ease, height .15s ease
+}
+
+.modal-gallery .modal-image * {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    border-radius: 4px
+}
+
+.modal-gallery.fade .modal-image * {
+    -webkit-transition: opacity .5s linear;
+    -moz-transition: opacity .5s linear;
+    -ms-transition: opacity .5s linear;
+    -o-transition: opacity .5s linear;
+    transition: opacity .5s linear
+}
+
+.modal-gallery .modal-image *.in {
+    opacity: 1
+}
+
+.modal-fullscreen {
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    overflow: hidden
+}
+
+.modal-fullscreen.modal-loading {
+    border: 0;
+    box-shadow: none
+}
+
+.modal-fullscreen .modal-body {
+    padding: 0
+}
+
+.modal-fullscreen .modal-header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    opacity: 0;
+    z-index: 2000
+}
+
+.modal-fullscreen .modal-footer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    opacity: 0;
+    z-index: 2000;
+    top: auto;
+    bottom: 0
+}
+
+.modal-fullscreen .close, .modal-fullscreen .modal-title {
+    color: white;
+    text-shadow: 0 0 2px rgba(33, 33, 33, 0.8)
+}
+
+.modal-fullscreen .modal-header:hover, .modal-fullscreen .modal-footer:hover {
+    opacity: 1
+}
+
+@media (max-width: 480px) {
+
+    .modal {
+        top: 10px;
+        left: 10px;
+        right: 10px
+    }
+
+    .modal-header .close {
+        padding: 10px;
+        margin: -10px
+    }
+}
+
+@media (max-width: 767px) {
+
+    .modal {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        right: 20px;
+        width: auto;
+        margin: 0
+    }
+
+    .modal.fade {
+        top: -100px
+    }
+
+    .modal.fade.in {
+        top: 20px
+    }
+}
+
+.ui-autocomplete {
+    z-index: 1100;
+    background-color: ghostwhite;
+}

@@ -1,0 +1,26 @@
+{% load i18n %}
+<form id="id_advanced_export_form" action="advanced-export/" method="GET">
+    <input type="hidden" name="search" value="1"/>
+    {% if form %}
+        {{ form }}
+    {% else %}
+        {% trans 'Click Start Export below to start' %}
+    {% endif %}
+</form>
+
+<script>
+    function loadSelect2() {
+        $('select').select2();
+    }
+    window.onload = loadSelect2();
+
+    $(".select2#id_report_type").change(function () {
+        var val = $(".select2#id_report_type").val();
+        if (val == "monthly"){
+        }
+        else {
+        }
+    });
+
+
+</script>

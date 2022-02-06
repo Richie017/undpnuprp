@@ -1,0 +1,50 @@
+<form action="" method="post" class="form-horizontal">
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+{% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+    {% for child_form in form.prefix_child_forms %}
+        {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+    {% endfor %}
+    {% for field in form %}
+        {% if field|is_hidden %}
+            {% render_field field|add_error_class:'input-validation-error' %}
+        {% elif field|is_datetime %}
+            <div class="control-group">
+                <label class="control-label" for="{{ form.prefix|get_prefix }}{{ field.name.lower }}">{{ field.label }}</label>
+                <div class="controls">
+                    <div class="input-append date datetimepicker">
+                        {% render_field field|add_error_class:'input-validation-error' %}
+                        <span class="add-on">
+                          <i data-time-icon="icon-time" data-date-icon="icon-calendar">
+                          </i>
+                        </span>
+                    </div>
+                    <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+                    {{ field.errors }}
+                </div>
+            </div>
+        {% elif field.name.lower == 'password' or field.name.lower == 'confirm_password' %}
+            <div class="control-group" style="clear: both;">
+                <label class="control-label" for="{{ form.prefix|get_prefix }}{{ field.name.lower }}">{{ field.label }}</label>
+                <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+                    <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+                    {{ field.errors }}
+                </div>
+            </div>
+        {% else %}
+            <div class="control-group">
+                <label class="control-label" for="{{ form.prefix|get_prefix }}{{ field.name.lower }}">{{ field.label }}</label>
+                <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+                    <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+                    {{ field.errors }}
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+    {% for child_form in form.suffix_child_forms %}
+        {% include 'shared/display-templates/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+    {% endfor %}
+{% endwith %}
+</form>
+
+<script src="{{STATIC_URL}}js/create-view.js?v=1.1.2"></script>

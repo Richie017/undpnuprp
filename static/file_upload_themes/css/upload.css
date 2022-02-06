@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+.preview img {
+    max-height: 50px;
+}
+
+.fileupload-buttonbar {
+    margin-top: 14px;
+}
+
+tr.template-upload > td > p.name {
+    margin-left: 5px;
+}
+
+tr.template-upload > td.upload-progress {
+    width: 100px;
+}
+
+tr.template-upload > td > p.size {
+    margin: 0 0 0;
+}
+
+tr.template-upload > td > div.progress {
+    height: 15px;
+    margin-bottom: 15px;
+}
+
+div.container {
+    width: inherit;
+}
+
+div.progress .fis-progress-bar {
+    background-color: #00a99d !important;
+}
+
+tr.template-upload > td.extra-field {
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr.template-upload > td.fade-in-1 {
+    width: 40%;
+}
+
+tr.template-upload > td.fade-in-1 input {
+    width: 220px;
+}
+
+tr.template-upload > td.fade-in-1 p {
+    display: inline;
+    color: red;
+    margin-left: 5px;
+}
+
+.disable_anchor {
+    pointer-events: none;
+    cursor: default;
+    color: #dddddd;
+}
+
+/*custom table css start*/
+
+.custom-data-table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.custom-data-table th, .custom-data-table td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 3px;
+}
+
+.custom-data-table tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.custom-data-table tr:hover {
+    background-color: #ddd;
+}
+
+.custom-data-table th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #00a99d;
+    color: white;
+}
+
+/*custom table css end*/

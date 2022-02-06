@@ -1,0 +1,13 @@
+<li class="{{ item.active }} {{ item.open }}">
+    <a href="{{ item.link }}">
+        <i class="icon-double-angle-right"></i>
+        {{ item.title }}
+    </a>
+    {% if item.items %}
+        <ul class="submenu" style="display: block">
+            {% for m in item.items %}
+                {% include 'shared/display-templates/_menu_item.html' with item=m %}
+            {% endfor %}
+        </ul>
+    {% endif %}
+</li>

@@ -1,0 +1,25 @@
+.document-tag-tall-note {
+    color: #7f8c8d;
+    font-size: 0.8em;
+    margin: 10px 0 5px;
+}
+
+.document-tag-link {
+    background: #00a99d;
+    color: #fff !important;
+    display: inline-block;
+    font-family: "Ubuntu", "Helvetica", "Arial", "FreeSans", sans-serif;
+    font-size: 11px;
+    line-height: 1.5em;
+    padding: 2px 8px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    text-decoration: none !important;
+    transition: all 0.75s ease-in-out 0s;
+}
+
+.document-tag-link:hover {
+    background: #07cec0;
+    color: #fff !important;
+    transition: all 0.25s ease-in-out 0s;
+}

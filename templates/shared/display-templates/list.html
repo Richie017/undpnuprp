@@ -1,0 +1,91 @@
+{% extends "shared/_viewport.html" %}
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ display_model|translate }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-7">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            {% for btn in manage_buttons %}
+                {% if btn.action_type == 'all-multi-action' %}
+                    <li>
+                        <a class="btn btn-medium manage-action {{ btn.action_type }} dropdown-toggle"
+                           data-toggle="dropdown" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}&nbsp;<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for submenuitem in btn.items %}
+                                <li><a data-url="{% url submenuitem.url_name %}{{ submenuitem.parameters }}"
+                                       href="{% url submenuitem.url_name %}{{ submenuitem.parameters }}">{{ submenuitem.name }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% else %}
+                    <li>
+                        <a class="manage-action  btn btn-medium {{ btn.action_type }}"
+                           disabled="true" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>
+                            <span>{{ btn.name }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+    </div> <!--//.COL-->
+{% endblock %}
+
+{% block content %}
+    <div class="fbx-table-common">
+        <div class="row-fluid">
+            <div class="pull-left search-filter" style="padding-top: 2px; margin-top: -5px; max-width: 75%;">
+                {% include  search_template with filters=searchables %}
+            </div>
+            <div class="pull-right item-in-total">
+                <strong>{{ count }}</strong> items in total
+            </div>
+        </div>
+        {% if enable_map == True %}
+            <ul id="ul-manage-tab" class="nav nav-tabs" style="margin-bottom: 0px;">
+                <li class="active">
+                    <a href="#manage-tab" data-toggle="tab">View as List</a>
+                </li>
+                <li>
+                    <a href="#map-tab" data-toggle="tab">View in Map</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div id="manage-tab" class="tab-pane active">
+                    {% include 'shared/display-templates/_generic_list.html' %}
+                </div>
+                <div id="map-tab" class="tab-pane">
+                    <script type="text/javascript">
+                        var mapData = {{ map_object_list|safe }};
+                    </script>
+                    {% include 'shared/display-templates/_generic_map.html' %}
+                </div>
+            </div>
+        {% else %}
+            {% include 'shared/display-templates/_generic_list.html' %}
+        {% endif %}
+    </div>
+{% endblock %}
+
+{% block childscripts %}
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/jquery.floatThead.min.js?v=1.1.0"></script>
+    {% if enable_map == True %}
+        <script src="{{ STATIC_URL }}js/map-view.js?v=1.1.0"></script>
+    {% endif %}
+{% endblock %}

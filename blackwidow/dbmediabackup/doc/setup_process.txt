@@ -1,0 +1,39 @@
+THIS DOC COVERS THE SETUP PROCESS OF  "dbmediabackup" APPLICATION IN ANY NEW PROJECT.
+
+DBMediaBackup Manager:
+This Django App provides methods to help backup and restore database and media files with Dropbox client storage.
+
+
+##Dropbox Account Setup##
+In order to backup/restore to Dropbox, first we need to create a Dropbox account and set it up to communicate
+with the "dbmediabackup" application. Nothing to worry, all instructions are given below:
+1. Login to Dropbox and navigate to Developers->MyApps
+	https://www.dropbox.com/developers/apps
+2. Click the button named "Create app" to create a new app on the Dropbox Platform.
+3. Choose an API from given options("Dropbox API" or "Dropbox Business API"). For reference I selected "Dropbox API".
+4. Choose the type of access you need from given options("App folder" or "Full Dropbox"). For reference I selected "App folder".
+5. Give an appropriate name of the app. For reference I named mine "BackupManager".
+6. After app is created, click on your created app. Note the button named "Generate".
+7. Click the button named "Generate" to generate oauth2_access_token, this value will need later.
+(By generating an access token, you will be able to make API calls for your own account without going through the authorization flow).
+
+
+##Setup Instructions of "DBMediaBackupManager" Application on New Project##
+1. First we need to install dependencies of "DBMediaBackupManager" application.
+To install dependencies please run following commands one by one from commandline:
+	pip install django-dbbackup
+	pip install dropbox
+	pip install pathlib2
+2. To register "dbmediabackup" application in new blackwidow project,
+please update INSTALLED_APPS tuple by "dbmediabackup" application.
+3. In project directory, please go to "config" directory.
+Copy "dbbackup_restore_config.py.example" to "dbbackup_restore_config.py".
+4. Open "dbbackup_restore_config.py" module and update "oauth2_access_token"
+by Dropbox Access Token that described earlier in "Dropbox Account Setup" section.
+
+
+##Postgresql Client Installation on Linux Host Server##
+If you only wish to connect to an external PostgreSQL server, do not install the main PostgreSQL package,
+but install the PostgreSQL client package instead. To do this, use the following command:
+	sudo apt-get install postgresql-client
+

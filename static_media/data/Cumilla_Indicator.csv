@@ -1,0 +1,554 @@
+City;Ward;Match_ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Cumilla;1;10101001;11400101001;Munsef Quarter;Nawab Ali;15;75;45;3;3;4;1;1;3;4;2;4;3;2;4;1;4;4;4;47
+Cumilla;1;10101002;11400101002;Munsef Quarter;Siraja Poddar;5;20;40;2;3;4;3;1;1;4;4;3;4;4;4;1;4;4;4;50
+Cumilla;1;10101003;11400101003;Munsef Quarter;Ali Hossain;5;20;7;2;3;4;4;4;4;1;4;3;3;4;4;3;4;3;3;53
+Cumilla;1;10101004;11400101004;Munsef Quarter;Koshai Potti;20;80;50;4;4;4;3;3;4;3;4;4;4;3;4;3;4;4;4;59
+Cumilla;1;10101005;11400101005;Munsef Quarter;Bashani Colony;12;60;30;2;4;4;3;3;4;4;4;3;3;4;3;3;4;3;3;54
+Cumilla;1;10102001;11400102001;Bishnupur Dokkhin;Masjeed Ul Falak Ar Purbo Diker Boshoty;20;100;20;2;2;4;1;3;4;2;4;3;4;4;4;2;4;4;4;51
+Cumilla;1;10103001;11400103001;Moulovipara-Vatpara Choumuhuni;Vatpara Chowmuhni;5;25;20;2;4;4;2;4;4;2;4;4;4;4;4;2;4;4;4;56
+Cumilla;1;10104001;11400104001;Vatpara Purbopara- Masterbari;Master Bari;40;300;200;2;3;4;1;1;2;1;3;3;2;3;1;3;1;3;3;36
+Cumilla;1;10104002;11400104002;Vatpara Purbopara- Masterbari;Shafrashi Bari;70;500;200;2;1;4;1;2;2;2;4;3;2;2;3;4;3;4;4;43
+Cumilla;1;10104003;11400104003;Vatpara Purbopara- Masterbari;Masjeed Goli;40;200;15;1;1;4;1;1;1;1;3;3;1;2;1;1;1;2;1;25
+Cumilla;1;10104004;11400104004;Vatpara Purbopara- Masterbari;Vander Bari;50;320;15;2;1;4;1;1;2;4;4;3;2;3;3;4;2;4;4;44
+Cumilla;1;10105001;11400105001;Vatpara Poschimpara;Galika Bari;18;120;300;3;1;4;3;3;2;3;4;3;1;2;4;2;4;4;4;47
+Cumilla;1;10105002;11400105002;Vatpara Poschimpara;Vatpara Poschimpara Koboresthan Road;15;90;25;3;1;4;1;1;3;3;4;3;2;3;1;1;1;2;2;35
+Cumilla;1;10105003;11400105003;Vatpara Poschimpara;Vatpara Poschimpara Notun Masjeed;20;120;40;2;1;4;1;1;2;3;4;3;2;3;3;3;3;4;4;43
+Cumilla;1;10105004;11400105004;Vatpara Poschimpara;Masjeed Goli;35;350;200;2;3;4;1;3;2;4;4;3;1;2;4;4;1;4;4;46
+Cumilla;2;10202001;11400202001;Mofijabad Colony;Bihari Colony;227;1169;48;2;3;4;2;1;1;4;4;3;3;1;1;1;1;1;1;33
+Cumilla;2;10203001;11400203001;Chotora Purbo Para;Hashem Miyar Bari;5;13;8;4;4;4;3;3;1;4;4;3;1;3;1;1;1;1;1;39
+Cumilla;2;10204001;11400204001;Moddhom Para;Anowar Contekdar Ar Bari;8;45;5;4;4;4;3;2;1;4;3;3;3;3;2;3;1;1;1;42
+Cumilla;2;10204002;11400204002;Moddhom Para;Maneger Ar Bari;5;15;200;2;4;4;3;1;3;4;4;2;4;2;1;1;1;1;1;38
+Cumilla;2;10205001;11400205001;D.C. Road;Usuf Miyar Bari;5;11;7;2;3;4;3;1;1;4;3;3;3;3;1;1;1;1;1;35
+Cumilla;2;10205002;11400205002;D.C. Road;Onu Miyar Bari;7;18;15;2;3;4;3;1;1;4;3;3;3;3;1;1;1;1;1;35
+Cumilla;2;10205003;11400205003;D.C. Road;Abdul Karim Sarak;7;56;40;2;1;4;1;1;1;4;4;3;3;4;4;3;4;4;4;47
+Cumilla;3;10301001;11400301001;Shashon Gacha;Rail Line Purbopash;210;945;38;2;1;3;1;1;1;2;2;2;1;2;1;2;1;2;1;25
+Cumilla;3;10301002;11400301002;Shashon Gacha;Rail Line Poschimpash;195;875;38;1;1;3;1;1;1;2;2;1;1;2;2;1;1;2;1;23
+Cumilla;3;10302001;11400302001;Race Course;Belayet Councilor Ar Boshoty;9;37;20;3;1;4;4;4;4;4;4;4;3;4;2;3;3;1;3;51
+Cumilla;3;10302002;11400302002;Race Course;Pescari Colony;7;33;25;2;1;4;4;1;2;4;3;3;1;3;3;1;3;1;3;39
+Cumilla;3;10302003;11400302003;Race Course;Choytora House;5;22;20;2;1;4;4;4;2;1;4;4;3;4;2;3;3;1;2;44
+Cumilla;3;10302004;11400302004;Race Course;Vuiya House;8;32;25;4;3;4;4;3;4;4;4;4;4;4;3;3;3;1;2;54
+Cumilla;3;10303001;11400303001;Race Course Dhanmondi;Khaleda Jiar Bari;12;51;20;3;2;4;2;1;3;3;3;3;2;4;4;3;4;1;4;46
+Cumilla;3;10303002;11400303002;Race Course Dhanmondi;Mahbub Miyar Bari;7;30;12;2;3;3;2;4;3;3;3;3;2;3;2;2;2;1;3;41
+Cumilla;3;10303003;11400303003;Race Course Dhanmondi;Kashem Miyar Boshoty;8;35;17;4;1;4;2;2;2;2;3;3;2;3;3;2;1;1;3;38
+Cumilla;3;10303004;11400303004;Race Course Dhanmondi;Johir Miyar Boshoty;6;27;15;2;1;4;4;2;2;3;3;3;2;3;3;1;1;2;2;38
+Cumilla;3;10305001;11400305001;Purbo Khaliyajury;Late Johal Miar Bari;9;38;5;3;3;4;1;1;2;4;4;4;4;4;3;1;2;1;1;42
+Cumilla;3;10305002;11400305002;Purbo Khaliyajury;Md. Ismail Jalarer Bari;10;42;20;4;3;4;2;1;3;4;4;4;3;4;2;2;3;1;1;45
+Cumilla;3;10305003;11400305003;Purbo Khaliyajury;Sorot Alir Bari Johora Khatuner Bari;5;22;120;3;3;4;2;1;1;3;4;2;1;4;4;1;4;4;4;45
+Cumilla;3;10305004;11400305004;Purbo Khaliyajury;Modon Maneger Ar Bari;10;45;10;4;1;4;1;1;1;1;4;4;3;4;1;1;1;1;1;33
+Cumilla;3;10305005;11400305005;Purbo Khaliyajury;Payar Miyar Bari;5;23;12;3;1;4;1;1;1;4;4;4;1;4;2;1;1;1;1;34
+Cumilla;3;10306001;11400306001;Uttor Kaliyajury;Yasin Comisonarer Bari;5;23;18;2;1;4;1;2;1;4;2;2;4;4;2;1;3;1;2;36
+Cumilla;3;10306002;11400306002;Uttor Kaliyajury;Romjan Alir Bari;6;30;6;4;3;4;1;2;2;1;4;2;2;4;1;2;3;1;1;37
+Cumilla;3;10306003;11400306003;Uttor Kaliyajury;Narayon Chandra Shil Ar Bari;250;1130;45;1;1;4;4;1;2;4;4;3;4;4;2;2;2;2;2;42
+Cumilla;4;10401001;11400401001;Islampur;Karjon Kutia North Gate Boshoty;7;27;110;1;3;4;3;4;1;4;4;4;4;3;4;1;4;4;4;52
+Cumilla;4;10401002;11400401002;Islampur;Sajukhalar Bari, Hazi Mosjeed Road Ar Boshoty;7;28;70;3;3;4;3;1;1;3;4;4;4;4;4;1;4;4;4;51
+Cumilla;4;10401003;11400401003;Islampur;Jahir Miyar Bari;5;25;90;1;4;4;2;1;1;4;4;3;1;4;4;1;4;4;4;46
+Cumilla;4;10402001;11400402001;Kaptan Bazar Bepari Pukur Par;Amir Ali Ar Boshoty;7;30;90;4;4;4;4;1;3;4;4;3;4;4;4;1;4;4;4;56
+Cumilla;4;10402002;11400402002;Kaptan Bazar Bepari Pukur Par;Forid Chairman Road, Sultan Villa, House-215/291;5;28;79;2;2;4;1;1;1;1;4;4;1;4;4;1;4;4;4;42
+Cumilla;4;10402003;11400402003;Kaptan Bazar Bepari Pukur Par;Hafez Commisonar Bari, Mazar Road Boshoty;5;19;10;1;2;4;1;4;1;2;4;3;1;3;1;1;1;1;1;31
+Cumilla;4;10402004;11400402004;Kaptan Bazar Bepari Pukur Par;Badshah Miyar Bari Boshoty;5;21;70;1;1;4;4;1;1;3;4;4;3;4;4;2;4;4;4;48
+Cumilla;4;10402005;11400402005;Kaptan Bazar Bepari Pukur Par;Bepari Pukur Par West Purbash West Road Boshoty;18;61;110;1;3;4;1;1;1;4;4;4;1;4;4;1;4;4;4;45
+Cumilla;4;10403001;11400403001;Kaptan Bazar Pukur Matha;Pukur Matha Kazi Bari Boshoty;13;61;12;2;2;4;2;2;1;2;4;3;1;4;1;1;1;1;2;33
+Cumilla;4;10403002;11400403002;Kaptan Bazar Pukur Matha;Pukur Matha Ailar Upor Iqbal Bari Boshoty;10;40;90;2;1;4;3;2;1;2;4;3;1;4;1;1;1;1;2;33
+Cumilla;4;10404001;11400404001;Kaptan Bazar Pukur Matha Purbo Par;Kaptan Bazar Pukur Matha Purbopara Sadaker Bari Boshoty;403;1791;100;1;1;4;1;1;1;1;3;3;1;1;4;1;4;4;4;35
+Cumilla;4;10405001;11400405001;Vatar Pukur Par;Nabab Miyar Bari Boshoty;190;395;100;1;1;4;1;1;3;3;3;4;2;4;4;1;4;4;4;44
+Cumilla;4;10405002;11400405002;Vatar Pukur Par;Ali Newaz Bari Boshoty;10;50;90;2;1;4;1;1;2;4;3;4;3;4;4;1;4;4;4;46
+Cumilla;4;10405003;11400405003;Vatar Pukur Par;Tamil Mayar Bari Boshoty;8;30;20;4;3;4;1;3;1;4;4;3;1;3;1;1;1;1;2;37
+Cumilla;4;10405004;11400405004;Vatar Pukur Par;Latif Miyar Bari Boshoty;6;30;110;2;3;4;1;1;3;4;4;3;1;4;4;1;4;4;4;47
+Cumilla;4;10405005;11400405005;Vatar Pukur Par;Harej Miyar Bari Boshoty-1;7;35;100;2;1;4;1;1;2;4;4;3;2;4;1;1;4;4;4;42
+Cumilla;4;10405006;11400405006;Vatar Pukur Par;Harej Miyar Bari Boshoty-2;8;38;80;2;1;4;1;1;2;4;4;3;1;3;4;2;4;4;4;44
+Cumilla;4;10405007;11400405007;Vatar Pukur Par;Talokdur Bari Boshoty;10;50;20;3;1;4;1;3;1;3;3;3;1;2;4;1;4;4;4;42
+Cumilla;4;10406001;11400406001;Paschim Kaptun Bazar(Jahan Nagar);Khalek Miyar Bari Bazar;11;60;15;3;1;4;1;1;1;1;4;3;2;4;3;2;2;2;1;35
+Cumilla;4;10406002;11400406002;Paschim Kaptun Bazar(Jahan Nagar);Jahan Nagar Boshoty;7;35;6;2;1;3;1;1;1;4;3;3;1;4;2;1;2;2;1;32
+Cumilla;4;10406003;11400406003;Paschim Kaptun Bazar(Jahan Nagar);Ailer Bari Boshoty;8;40;10;2;1;4;1;1;2;2;3;3;1;2;3;2;3;4;4;38
+Cumilla;4;10406004;11400406004;Paschim Kaptun Bazar(Jahan Nagar);Kutir Silpa Bari Boshoty;5;26;15;2;1;4;1;1;4;2;4;3;2;4;4;1;4;4;4;45
+Cumilla;4;10406005;11400406005;Paschim Kaptun Bazar(Jahan Nagar);Pat Gobasona Office Koborestha Road Boshoty;10;42;30;2;3;4;2;2;1;4;3;3;1;4;3;2;1;1;2;38
+Cumilla;5;10501001;11400501001;Rishipotti;Krishno Mondir;105;690;100;2;4;4;3;2;2;4;4;3;1;2;4;3;4;4;4;50
+Cumilla;5;10503001;11400503001;Uttor Gangchor;Mukti Abur Boshoty;11;50;80;2;1;4;3;4;2;4;4;2;1;2;4;2;4;4;4;47
+Cumilla;5;10503002;11400503002;Uttor Gangchor;Mondon Mia Bari;10;55;100;3;3;4;4;4;2;4;4;3;2;2;4;2;4;4;4;53
+Cumilla;5;10503003;11400503003;Uttor Gangchor;Kuddus Mia Bari;20;85;100;3;3;4;4;4;2;4;4;2;2;2;4;2;4;4;4;52
+Cumilla;5;10803001;11400803001;Kolitola To Board Office;Bagan Bari, Mali Bari;10;50;40;1;1;4;1;4;2;4;4;2;2;2;4;4;4;4;4;47
+Cumilla;5;10803002;11400803002;Kolitola To Board Office;Bagam Bari, Mokka Villa Goli;8;35;42;1;1;4;1;4;1;4;4;3;2;1;4;1;4;4;4;43
+Cumilla;5;10803003;11400803003;Kolitola To Board Office;Master Bari;26;120;60;2;1;4;1;1;1;4;4;2;2;1;1;1;1;1;1;28
+Cumilla;5;10503004;11400503004;Uttor Gangchor;Chor Mia Barir Road;100;450;110;3;2;4;4;4;2;4;4;2;2;2;4;2;4;4;4;51
+Cumilla;6;10601001;11400601001;Chandpur;Darul Insan Madrasha Boshoty;45;200;35;3;3;4;2;3;2;3;3;3;3;3;4;2;4;4;4;50
+Cumilla;6;10601002;11400601002;Chandpur;Sowdagar Bari;25;120;35;3;3;3;2;3;3;3;3;3;3;3;3;2;4;4;4;49
+Cumilla;6;10602001;11400602001;Shuvopur (Poschim);Boro Bari/ Billal Miyar Boshoty;20;90;30;3;3;4;2;2;2;2;2;3;3;4;4;2;4;4;4;48
+Cumilla;6;10602002;11400602002;Shuvopur (Poschim);Boro Bari/ Muslim Miyar Bari;22;100;35;3;1;4;2;2;2;4;2;3;3;4;4;2;4;4;4;48
+Cumilla;6;10602003;11400602003;Shuvopur (Poschim);Sowdagar Bari;40;170;50;3;1;4;2;2;2;4;2;3;4;3;4;2;4;4;4;48
+Cumilla;6;10603001;11400603001;Shuvopur (Uttor);Khalek Miyar Bari;20;95;50;3;1;4;2;3;2;2;2;3;3;3;1;1;1;4;3;38
+Cumilla;6;10603002;11400603002;Shuvopur (Uttor);Councilor Area;120;550;20;1;1;4;1;3;2;2;2;2;2;3;1;1;1;4;4;34
+Cumilla;6;10603003;11400603003;Shuvopur (Uttor);Khursid Miyar Colony;80;370;40;1;1;4;1;2;2;2;2;3;3;3;4;2;4;4;4;42
+Cumilla;6;10603004;11400603004;Shuvopur (Uttor);Ali Miyar Bari;150;730;40;3;1;4;2;2;2;3;2;3;4;3;4;2;4;4;4;47
+Cumilla;6;10604001;11400604001;Amir Dighi;Amir Dighi Purbo Par;8;37;30;3;3;4;1;2;2;3;2;3;3;3;4;2;4;4;4;47
+Cumilla;6;10604002;11400604002;Amir Dighi;Joinal Miyar Bari;5;30;35;3;3;4;2;1;2;3;3;3;3;4;4;2;4;4;4;49
+Cumilla;6;10604003;11400604003;Amir Dighi;Tolkona;15;65;35;3;3;4;2;2;2;2;3;3;3;3;4;2;4;4;4;48
+Cumilla;6;10604004;11400604004;Amir Dighi;Amir Dighir Uttor Par;75;350;40;3;1;4;1;2;1;2;2;2;3;3;2;1;2;2;2;33
+Cumilla;6;10605001;11400605001;Gorzan Khola Purbopara;Gorzan Khola Purbo Para-1;60;250;50;3;2;3;3;1;2;4;3;3;2;3;4;1;4;4;4;46
+Cumilla;6;10605002;11400605002;Gorzan Khola Purbopara;Gorzan Khola Purbo Para-2;6;30;100;4;3;4;2;4;3;4;4;2;2;4;4;2;4;4;4;54
+Cumilla;6;10606001;11400606001;Gorzan Khola Poschimpara;Pani Unnayan Board Ar Shamne;10;45;100;3;3;4;2;4;3;4;3;3;3;4;4;3;4;4;3;54
+Cumilla;6;10606002;11400606002;Gorzan Khola Poschimpara;Sordar Bari;9;40;100;1;3;4;4;4;3;3;3;3;3;4;4;4;4;4;4;55
+Cumilla;6;10606003;11400606003;Gorzan Khola Poschimpara;Gorzan Khola Rama Kando Profesor Goli;8;40;100;3;3;4;4;4;3;4;3;3;3;4;4;2;4;4;4;56
+Cumilla;6;10606004;11400606004;Gorzan Khola Poschimpara;Chandi Kala Bari;16;125;10;3;3;4;4;3;3;3;4;3;3;4;2;2;2;2;3;48
+Cumilla;6;10607001;11400607001;Jamtola;Jamil Ar Boshoty;20;90;40;1;3;4;1;2;2;2;3;3;3;3;4;2;4;4;4;45
+Cumilla;6;10607002;11400607002;Jamtola;Rishi Potti;80;350;35;3;3;4;2;3;3;3;3;3;3;4;4;2;4;4;4;52
+Cumilla;6;10608001;11400608001;Gangchor;Meher Ali Mazar;35;150;40;1;1;4;1;1;3;2;2;3;3;3;4;1;4;4;4;41
+Cumilla;6;10608002;11400608002;Gangchor;Malek Miya;15;70;20;1;1;4;1;3;4;3;2;3;3;2;3;1;4;4;4;43
+Cumilla;6;10608003;11400608003;Gangchor;Gangchor Mor;35;145;40;1;1;4;1;1;3;4;2;3;3;2;4;1;4;4;3;41
+Cumilla;7;10701001;11400701001;Ashoktola-1;Ashoktola Khan Bari Masjeed Golir Boshoty;16;74;20;3;4;4;3;1;1;4;4;4;1;4;1;1;1;1;2;39
+Cumilla;7;10701002;11400701002;Ashoktola-1;Ashoktola Feroj Khaner Barir Boshoty;7;30;30;3;4;4;3;1;1;4;4;4;4;4;1;1;1;1;2;42
+Cumilla;7;10701003;11400701003;Ashoktola-1;Ashoktola Deloyur Khaner Barir Boshoty;8;24;16;3;3;4;3;1;1;4;1;4;4;4;1;1;1;1;2;38
+Cumilla;7;10701004;11400701004;Ashoktola-1;Ashoktola Bisik Mor Boshoty;5;19;50;3;4;4;3;1;1;4;4;4;4;4;1;1;1;1;2;42
+Cumilla;7;10701005;11400701005;Ashoktola-1;Ashoktola Khan Bari Boshoty;9;25;50;3;4;4;3;1;1;4;4;4;3;4;4;4;4;4;4;55
+Cumilla;7;10702001;11400702001;Ashoktola-2;Ashoktola Masjeed Goli Tota Miyar Bari;7;30;50;2;1;4;1;1;4;4;1;4;4;3;4;1;4;4;4;46
+Cumilla;7;10702002;11400702002;Ashoktola-2;Ashoktola Masjeed Goli Boshoty;7;25;100;2;2;4;3;1;4;4;4;4;4;4;1;1;1;1;2;42
+Cumilla;7;10702003;11400702003;Ashoktola-2;Ashoktola Khan Barir Boshoty;10;34;20;4;1;4;3;3;4;4;4;4;3;3;4;1;4;4;4;54
+Cumilla;7;10702004;11400702004;Ashoktola-2;Ashoktola Late Monu Miyar Bari;5;19;300;4;1;4;3;1;1;4;4;3;4;4;4;1;4;4;4;50
+Cumilla;7;10702005;11400702005;Ashoktola-2;Ashoktola Aham Alir Bari;8;30;300;4;1;4;3;3;1;4;4;4;3;4;4;1;4;1;2;47
+Cumilla;7;10702006;11400702006;Ashoktola-2;Ashoktola Shekh Sadi Masjeed Ar Goli;5;25;50;4;3;4;3;1;1;4;4;4;4;3;4;1;4;4;4;52
+Cumilla;7;10702007;11400702007;Ashoktola-2;Ashoktola Ripon Miyar Boshoty;10;30;15;4;2;4;4;1;4;4;4;4;4;4;1;1;1;1;2;45
+Cumilla;7;10702008;11400702008;Ashoktola-2;Ashoktola Shohid Ullar Bari;5;23;25;4;1;4;3;1;1;4;4;4;4;4;4;1;1;1;2;43
+Cumilla;7;10703001;11400703001;BSCIC;BSCIC Jola Rice Mill Ar Shamner Boshoty;14;75;18;2;3;4;1;4;2;1;2;4;2;2;1;1;1;1;3;34
+Cumilla;7;10703002;11400703002;BSCIC;BSCIC Jolar Math Boshoty;10;65;20;2;1;3;1;1;2;2;2;2;2;4;1;1;1;1;2;28
+Cumilla;7;10703003;11400703003;BSCIC;BSCIC Auto Rice Mill Ar Shamner Boshoty;12;60;10;1;2;4;1;3;3;3;2;2;1;1;2;1;1;1;3;31
+Cumilla;7;10703004;11400703004;BSCIC;Stile Cpmpany BSCIC Shamner Boshoty;9;35;7;3;1;4;1;1;3;4;2;4;1;4;1;1;1;1;3;35
+Cumilla;7;10704001;11400704001;Paschimpara Gobindopur;Gobindopur Koborestha Ar Shamner Boshoty;5;20;10;1;2;4;1;1;1;1;1;4;2;3;1;1;1;1;3;28
+Cumilla;7;10705001;11400705001;Moddho Gobindopur;Gobindopur BSCIC Boshoty;5;22;10;2;1;4;1;1;2;3;1;4;2;4;1;1;1;1;1;30
+Cumilla;7;10705002;11400705002;Moddho Gobindopur;Gobindopur Khan Kashrif Boshoty;7;30;12;4;3;4;3;1;1;4;4;4;1;3;1;1;1;1;1;37
+Cumilla;7;10706001;11400706001;Purbo Gobindopur;Thakur Para Afjon Khan Barir Shamne Babu Miar Bari;23;99;10;3;3;4;3;1;1;4;4;4;1;1;1;1;1;1;1;34
+Cumilla;7;10706002;11400706002;Purbo Gobindopur;Thakur Para Kamaler Bari;40;195;12;4;4;4;4;1;1;4;4;4;1;2;1;1;1;1;1;38
+Cumilla;7;10706003;11400706003;Purbo Gobindopur;Dokkhin Thakur Para Gobindopur Uttor Para Boshoty;90;370;100;2;1;4;3;4;1;4;4;4;1;2;1;1;1;1;1;35
+Cumilla;7;10706004;11400706004;Purbo Gobindopur;Thakur Para Ashrom Bisik Mor Boshoty;42;162;9;4;3;4;4;4;1;4;4;4;1;2;1;1;1;1;1;40
+Cumilla;7;10706005;11400706005;Purbo Gobindopur;Gobindopur Khanka Masjeed Ar Shamner Boshoty;150;615;295;4;1;4;3;4;1;4;4;4;4;4;1;1;1;1;1;42
+Cumilla;8;10801001;11400801001;Boro Mosque To Tomchom Bridge (Dokkhin Thakurpara);Custome Godown-1;18;102;35;2;1;4;1;4;1;4;4;3;4;2;4;1;4;4;4;47
+Cumilla;8;10801002;11400801002;Boro Mosque To Tomchom Bridge (Dokkhin Thakurpara);Custome Godown-2;7;42;60;2;4;4;4;1;4;4;4;4;4;2;4;2;4;4;4;55
+Cumilla;8;10801003;11400801003;Boro Mosque To Tomchom Bridge (Dokkhin Thakurpara);Pal Bari;50;109;60;4;1;4;4;2;3;4;4;3;4;4;3;3;3;4;4;54
+Cumilla;8;10802001;11400802001;Residential To Bagam Bari (Uttor Thakurpara);Mali Bari;5;27;45;1;1;4;1;4;1;4;4;2;2;2;4;1;4;4;4;43
+Cumilla;8;10802002;11400802002;Residential To Bagam Bari (Uttor Thakurpara);Mihir Lane;30;125;45;4;3;4;2;1;2;4;4;2;3;2;1;1;1;1;1;36
+Cumilla;8;10805001;11400805001;Norabad To Rammala;Khan Colony;207;891;48;2;1;4;1;4;1;4;4;3;4;2;1;1;1;1;1;35
+Cumilla;8;10805002;11400805002;Norabad To Rammala;Minu Khaner Colony;21;145;49;2;1;4;1;2;1;3;4;3;3;2;1;1;1;1;1;31
+Cumilla;8;10805003;11400805003;Norabad To Rammala;Nonabad Colony;130;665;68;2;1;4;1;3;1;4;4;3;3;1;3;1;3;2;3;39
+Cumilla;9;10901001;11400901001;Abdul Kader Sarak Mahalla;Poschim Bagichaga O Primary School Masjeed Bari;7;28;20;1;3;4;1;1;1;1;4;4;1;4;4;1;4;4;4;42
+Cumilla;9;10901002;11400901002;Abdul Kader Sarak Mahalla;Bagichagao Abdul Kader Sarak Masjeed Bari;13;35;19;1;1;4;1;1;1;1;4;3;1;3;1;1;1;1;2;27
+Cumilla;9;10901003;11400901003;Abdul Kader Sarak Mahalla;VIP Boshoty;19;60;20;2;1;4;1;1;1;1;4;4;1;4;1;1;1;1;2;30
+Cumilla;9;10902001;11400902001;North Chowdhury Para;Lokhi Gobindomondit Notun Chowdhury Para;5;45;115;4;4;4;1;1;1;1;4;4;1;4;1;1;1;2;2;36
+Cumilla;9;10903001;11400903001;Dokkhin Bagichagao;Panir Tangki Pichoner Boshoty;6;24;40;1;4;4;4;2;2;4;4;4;1;3;4;1;4;4;4;50
+Cumilla;9;10903002;11400903002;Dokkhin Bagichagao;Sarnakuthir Boshoty;7;35;10;4;1;4;4;4;1;2;4;4;1;3;1;1;1;1;2;38
+Cumilla;9;10904001;11400904001;Sandor Bari Mahalla;Sordar Bari;20;100;40;4;4;4;4;3;1;4;4;4;1;1;4;1;4;4;4;51
+Cumilla;9;10906001;11400906001;Gazi Bari Station Road Mahalla;Monu Miyar Bari (Station Road);5;21;40;2;1;4;1;1;3;1;4;4;1;4;4;1;4;4;4;43
+Cumilla;10;11001001;11401001001;Shahid Shamsul Haque Road Jhautola;Cumilla Hospital Ar Shamner Boshoty;5;23;55;3;4;4;4;1;1;4;4;4;4;1;1;1;1;2;1;40
+Cumilla;10;11001002;11401001002;Shahid Shamsul Haque Road Jhautola;Pani Unnaya Board Boshoty;15;63;32;4;4;4;4;1;1;4;4;4;1;1;4;1;4;4;4;49
+Cumilla;10;11002001;11401002001;Dhormo Sagor Purbopar;Rokkha Kali Bari Boshoty;14;62;140;4;4;4;4;4;2;4;4;4;4;1;4;3;4;4;2;56
+Cumilla;10;11003001;11401003001;Bagichagao;Bagichagao Boro Masjeed Ar Boshoty;36;170;90;1;1;4;2;1;1;4;4;3;1;1;1;1;1;1;1;28
+Cumilla;10;11004001;11401004001;Ranirbazar & Tal Pukurpar;Doyamoy Mandirer Shamner Boshoty;5;29;100;1;1;4;3;1;1;4;4;3;1;1;1;1;1;2;1;30
+Cumilla;10;11004002;11401004002;Ranirbazar & Tal Pukurpar;Ranir Bazar Suiper Colony Boshoty;8;45;90;1;1;4;4;2;1;4;4;4;4;1;1;1;1;1;1;35
+Cumilla;10;11005001;11401005001;Najrul Avenue & Ramghat;Ramghat Jela Awamilig Office Ar Shamner Boshoty;10;45;40;1;1;4;3;1;3;4;4;3;3;3;1;1;1;2;1;36
+Cumilla;10;11005002;11401005002;Najrul Avenue & Ramghat;Tromar Shamer Mali Bari Boshoty;7;40;100;1;3;4;3;1;1;4;4;4;1;2;4;1;4;4;4;45
+Cumilla;11;11101001;11401101001;Yousef School Road (Darogabari);Mali Bari;5;25;48;2;1;4;1;1;1;4;4;4;3;4;4;4;4;4;4;49
+Cumilla;11;11101002;11401101002;Yousef School Road (Darogabari);Uttor Chortha;7;35;50;2;1;4;3;3;1;4;4;4;1;4;2;1;2;2;3;41
+Cumilla;11;11101003;11401101003;Yousef School Road (Darogabari);Uttor Chortha, Puraton Office;7;33;70;1;3;4;3;3;3;4;4;4;3;4;4;2;4;4;4;54
+Cumilla;11;11102001;11401102001;Sadar Hospital Road (Nimtoli);Kuddos Vila;9;40;70;2;1;4;2;2;3;1;4;4;4;4;4;3;4;4;4;50
+Cumilla;11;11102002;11401102002;Sadar Hospital Road (Nimtoli);Moddom Bari;5;22;70;4;3;4;1;4;4;1;3;3;3;4;4;1;4;4;4;51
+Cumilla;11;11102003;11401102003;Sadar Hospital Road (Nimtoli);Sowdagor Bari;9;42;60;2;1;4;3;2;3;1;4;4;3;4;4;3;4;4;4;50
+Cumilla;11;11102004;11401102004;Sadar Hospital Road (Nimtoli);Kazi Bari;6;29;65;2;1;4;3;4;2;1;4;4;3;4;4;3;4;4;4;51
+Cumilla;11;11102005;11401102005;Sadar Hospital Road (Nimtoli);Showfagor Bari;9;42;50;3;1;3;2;1;3;4;4;3;4;4;4;4;4;4;4;52
+Cumilla;11;11103001;11401103001;Womens College Road (Uttor Chortha);Durga Bari;5;25;50;2;1;4;1;4;2;4;4;4;3;4;2;4;4;4;4;51
+Cumilla;11;11105001;11401105001;Kandirpar (Ujir Dighir Par);Khokhon Comisonarer Bari;18;78;25;2;1;4;1;4;2;1;4;4;3;4;4;3;4;4;4;49
+Cumilla;11;11106001;11401106001;Munsef Bari / Deshwallipotti;Giyas Uddain (Doctor);7;33;30;2;1;4;4;4;2;1;4;4;1;3;2;1;2;1;2;38
+Cumilla;11;11106002;11401106002;Munsef Bari / Deshwallipotti;Blue Bird Golli;6;30;45;4;4;4;3;1;4;3;4;4;3;4;1;1;1;2;2;45
+Cumilla;12;11201001;11401201001;North Chortha;Malu Mistri;35;157;150;2;3;4;3;4;3;4;4;4;4;3;4;1;4;4;4;55
+Cumilla;12;11202001;11401202001;Bishnupur Dokkhin;Fulu Mia Bari;230;1037;1150;4;3;4;4;2;2;4;4;4;3;4;2;2;2;1;2;47
+Cumilla;12;11203001;11401203001;Reza Shah Paschim Pahlovi Mazar Road;Anu Mia Bari;12;55;150;4;4;4;4;3;2;4;3;3;4;2;2;1;2;1;2;45
+Cumilla;12;11204001;11401204001;North Chortha Telia Pukur Par Road;Totamiyar Bari;21;90;60;4;4;4;4;4;2;4;4;4;4;2;4;3;4;4;4;59
+Cumilla;12;11204002;11401204002;North Chortha Telia Pukur Par Road;Retu Master;23;140;150;4;4;4;4;3;2;3;4;3;4;2;4;2;4;4;4;55
+Cumilla;12;11204003;11401204003;North Chortha Telia Pukur Par Road;Gariwala Bari;90;406;150;4;4;4;4;2;3;4;4;4;4;3;4;2;4;4;4;58
+Cumilla;12;11204004;11401204004;North Chortha Telia Pukur Par Road;Manik Driber;35;157;70;4;4;4;4;1;1;3;4;3;2;3;4;2;4;4;4;51
+Cumilla;12;11205001;11401205001;Bejropur Nanua Dighir Road;Muradpur;7;22;40;4;4;4;1;1;1;4;4;1;1;2;4;2;4;4;4;45
+Cumilla;12;11205002;11401205002;Bejropur Nanua Dighir Road;Kuribari;8;33;120;4;4;4;3;1;2;4;4;1;1;3;4;2;4;4;4;49
+Cumilla;12;11205003;11401205003;Bejropur Nanua Dighir Road;Nanua Dighir Par;6;26;50;3;2;4;1;1;2;4;4;1;1;2;4;1;4;1;4;39
+Cumilla;12;11206001;11401206001;Digombori Tola;Bojropur;5;19;50;4;4;4;1;4;2;4;4;2;1;1;4;2;4;4;4;49
+Cumilla;12;11206002;11401206002;Digombori Tola;Gangguli Goli;7;21;55;4;2;4;2;1;2;4;4;2;1;2;4;2;4;4;4;46
+Cumilla;12;11206003;11401206003;Digombori Tola;Lokkhi Narayan Area;25;129;110;4;4;4;4;1;2;4;4;1;1;2;4;1;4;4;4;48
+Cumilla;12;11206004;11401206004;Digombori Tola;Azim Los Goli;15;80;75;4;4;4;4;2;2;4;3;2;1;2;4;1;4;4;4;49
+Cumilla;13;11304001;11401304001;South Chortha Chowmuhuni Road;South Chortha Bowbazar;10;38;50;4;4;4;4;2;3;4;3;2;2;4;4;2;4;4;4;54
+Cumilla;13;11304002;11401304002;South Chortha Chowmuhuni Road;Hafiz Bari- Syed Bari;20;85;50;4;3;4;2;3;3;4;4;3;2;4;4;2;4;4;4;54
+Cumilla;13;11304003;11401304003;South Chortha Chowmuhuni Road;Colony Para;20;85;50;4;4;4;3;3;3;4;3;2;2;4;4;2;4;4;4;54
+Cumilla;13;11305001;11401305001;Boro Pukur Par Road-EPZ Road;Modon Miyar Bari;8;37;75;4;4;4;3;3;3;4;4;4;2;4;4;2;4;4;4;57
+Cumilla;13;11306001;11401306001;Thira Pukur Par Road;Masjeed Golly;60;230;75;2;3;4;3;3;2;4;4;4;2;3;4;2;3;4;4;51
+Cumilla;13;11306002;11401306002;Thira Pukur Par Road;Vendar Golly;30;130;100;3;3;4;2;1;2;4;4;2;2;4;4;2;4;4;4;49
+Cumilla;13;11306003;11401306003;Thira Pukur Par Road;Panir Pump Golly;20;93;15;4;4;4;3;3;3;4;3;2;2;4;4;2;4;4;4;54
+Cumilla;13;11307001;11401307001;Jinar Pukur Par Road;Zinnat Alir Bari;15;72;100;4;4;4;3;2;3;4;4;2;2;4;4;2;4;4;4;54
+Cumilla;13;11307002;11401307002;Jinar Pukur Par Road;Kanu Sorddar Bari;8;31;50;4;4;4;2;2;3;4;4;3;2;4;4;1;4;4;4;53
+Cumilla;13;11307003;11401307003;Jinar Pukur Par Road;Jut Wala Fakir Bari;10;41;50;2;1;4;2;1;2;4;4;2;2;4;4;1;4;4;4;45
+Cumilla;13;11307004;11401307004;Jinar Pukur Par Road;Hindu Bari;8;32;50;2;2;4;3;2;4;4;4;3;2;3;4;1;4;4;4;50
+Cumilla;15;11501001;11401501001;Boyropur - Moulovipara;Molla Bari;26;122;101;2;1;4;1;1;3;1;3;3;2;3;3;4;4;4;4;43
+Cumilla;15;11501002;11401501002;Boyropur - Moulovipara;Baludhum Poschim Para;27;125;100;2;1;4;1;1;2;1;3;3;2;3;2;3;4;1;1;34
+Cumilla;15;11501003;11401501003;Boyropur - Moulovipara;Shaju Comisonarer Bari;18;92;100;2;1;4;1;1;3;2;3;4;4;3;4;4;4;4;4;48
+Cumilla;15;11501004;11401501004;Boyropur - Moulovipara;Muthi Sordar Bari;55;242;100;2;1;4;1;1;3;1;3;3;2;3;2;3;2;1;1;33
+Cumilla;15;11501005;11401501005;Boyropur - Moulovipara;Chotki Para-1;25;117;100;2;1;4;1;1;2;1;3;3;2;3;2;3;1;1;1;31
+Cumilla;15;11501006;11401501006;Boyropur - Moulovipara;Chotki Para-2;22;92;95;2;1;4;1;1;2;1;3;3;2;3;2;2;1;1;1;30
+Cumilla;15;11502001;11401502001;Kashiani Potti- Moulovipara (Partial);Chairman Goli;60;285;85;2;1;4;1;1;3;2;4;4;4;3;3;2;4;4;4;46
+Cumilla;15;11502002;11401502002;Kashiani Potti- Moulovipara (Partial);Bondropur Moulovipara (Tenu Mahajon Ar Bari);38;171;90;2;1;4;1;1;3;1;4;4;3;3;3;2;4;4;4;44
+Cumilla;15;11502003;11401502003;Kashiani Potti- Moulovipara (Partial);Bekari Bari;25;117;95;2;1;4;1;1;2;1;3;3;2;3;2;2;4;4;4;39
+Cumilla;15;11502004;11401502004;Kashiani Potti- Moulovipara (Partial);Moulovipara Ashek Miyar Bari;15;65;75;3;2;4;1;1;4;2;4;4;4;3;2;2;4;4;4;48
+Cumilla;15;11503001;11401503001;Moulovipara (Pirtial)- Muslim Colony;Muslim Colony;23;108;105;2;1;4;1;1;1;2;3;3;2;2;2;1;1;1;1;28
+Cumilla;15;11503002;11401503002;Moulovipara (Pirtial)- Muslim Colony;Badsha Bari;155;720;85;2;1;4;1;1;3;1;4;4;2;3;2;4;2;1;1;36
+Cumilla;15;11503003;11401503003;Moulovipara (Pirtial)- Muslim Colony;Midda Bari;11;45;100;2;1;4;1;1;2;1;3;4;3;3;2;3;1;1;1;33
+Cumilla;15;11503004;11401503004;Moulovipara (Pirtial)- Muslim Colony;Milo Mistery Bari;29;134;101;2;1;4;1;1;2;2;4;3;1;2;2;3;1;1;1;31
+Cumilla;15;11503005;11401503005;Moulovipara (Pirtial)- Muslim Colony;Chairman Goli;9;38;99;2;1;4;1;1;2;1;3;2;1;3;1;3;1;1;1;28
+Cumilla;15;11504001;11401504001;Baludom;Masjeed Ar Dokkhin Pashe;15;65;35;4;4;4;2;4;3;4;4;3;2;3;4;3;4;4;4;56
+Cumilla;15;11504002;11401504002;Baludom;Jabbar Miyar Bari;17;75;25;4;3;4;2;3;3;3;2;3;2;2;1;1;1;1;1;36
+Cumilla;15;11504003;11401504003;Baludom;Haruni Bari;8;35;20;4;4;3;2;3;3;3;3;2;2;3;1;1;1;1;1;37
+Cumilla;15;11504004;11401504004;Baludom;Sadek Miya Bari;9;40;30;4;4;4;2;3;3;4;3;3;2;3;1;1;1;1;1;40
+Cumilla;15;11504005;11401504005;Baludom;Mohoti Bari;13;57;35;4;4;4;2;3;3;3;3;3;3;3;4;3;4;4;4;54
+Cumilla;15;11504006;11401504006;Baludom;Akter Miyar Bari;7;30;18;4;4;4;2;3;3;3;3;3;2;3;1;1;1;1;1;39
+Cumilla;15;11505001;11401505001;Kotabil Gozar Mar Colony- Telikona Matha;Gozar Mar Colony-1;22;99;20;4;3;4;1;3;1;3;3;2;1;1;1;1;1;1;1;31
+Cumilla;15;11505002;11401505002;Kotabil Gozar Mar Colony- Telikona Matha;Gozar Mar Colony-2;20;90;24;4;3;4;1;3;1;3;3;2;1;1;1;1;1;1;1;31
+Cumilla;15;11505003;11401505003;Kotabil Gozar Mar Colony- Telikona Matha;Faruk Miyar Bari;32;142;20;4;3;4;1;3;2;3;3;3;2;2;1;1;1;1;1;35
+Cumilla;15;11505004;11401505004;Kotabil Gozar Mar Colony- Telikona Matha;Betor Bari (Purbo Pash);17;77;19;4;3;4;1;3;1;3;3;2;1;2;1;1;1;1;1;32
+Cumilla;15;11505005;11401505005;Kotabil Gozar Mar Colony- Telikona Matha;Betor Bari (Dokkhin);14;65;17;4;3;3;1;3;3;3;3;3;2;2;1;2;1;1;1;36
+Cumilla;15;11505006;11401505006;Kotabil Gozar Mar Colony- Telikona Matha;Rohim Boss Ar Bari;31;139;22;4;3;3;1;3;2;3;3;3;2;1;1;1;1;1;1;33
+Cumilla;15;11505007;11401505007;Kotabil Gozar Mar Colony- Telikona Matha;Lotib Miyar Bari;15;68;20;4;4;4;1;3;3;3;3;3;2;2;1;1;1;1;1;37
+Cumilla;15;11505008;11401505008;Kotabil Gozar Mar Colony- Telikona Matha;Beter Bari;9;40;17;4;3;4;1;3;3;3;3;3;2;2;2;2;2;1;1;39
+Cumilla;15;11505009;11401505009;Kotabil Gozar Mar Colony- Telikona Matha;Rongpurir Bari;6;30;30;4;4;4;2;3;3;3;3;3;2;3;4;3;4;4;4;53
+Cumilla;16;11601001;11401601001;Tikkar Chor Uttor;Tikkar Chor Poschim Boshoty;35;180;70;3;4;4;1;1;1;4;4;3;1;1;2;1;1;2;2;35
+Cumilla;16;11601002;11401601002;Tikkar Chor Uttor;Tikkar Chor Botir Miyar Road;35;180;55;3;3;4;1;1;1;4;4;3;2;1;4;2;4;4;4;45
+Cumilla;16;11601003;11401601003;Tikkar Chor Uttor;Tikkar Chor Masjeed Ar Pichon A;70;350;60;2;2;4;1;1;1;3;4;1;1;2;1;1;1;2;1;28
+Cumilla;16;11601004;11401601004;Tikkar Chor Uttor;Selina Apar Boshoty;25;120;20;2;1;4;1;1;1;2;4;1;1;2;1;1;1;2;1;26
+Cumilla;16;11601005;11401601005;Tikkar Chor Uttor;Tikkar Chor Sattar Miyar Bari;60;420;50;3;1;4;1;1;1;4;4;2;2;1;1;1;2;3;1;32
+Cumilla;16;11602001;11401602001;Tikkar Chor Dokkhin;Tikkar Chor Koboresthan Ar Pichoner Boshoty;50;230;70;2;2;4;1;1;1;4;4;3;1;1;4;2;4;4;4;42
+Cumilla;16;11602002;11401602002;Tikkar Chor Dokkhin;Tikkar Chor Mahomar Bari Ar Goli;80;450;80;1;1;4;1;1;1;4;4;3;1;1;4;1;4;4;4;39
+Cumilla;16;11602003;11401602003;Tikkar Chor Dokkhin;Tikkar Chor Usuf Miyar Barir Boshoty;15;60;40;2;2;4;1;1;1;4;4;3;1;1;3;1;4;4;4;40
+Cumilla;16;11602004;11401602004;Tikkar Chor Dokkhin;Tikkar Chor Ali Hossain Ar Barir Road Boshoty;40;170;70;3;3;4;1;1;1;4;3;3;1;1;4;2;4;4;4;43
+Cumilla;16;11602005;11401602005;Tikkar Chor Dokkhin;Tikkar Chor Siddik Miyar Barir Boshoty;60;350;80;3;3;4;1;1;1;2;4;3;1;1;4;1;4;4;4;41
+Cumilla;16;11603001;11401603001;Songraish Para to Shaheb Bari;Songraish Mugol Miyar Bari Goli;30;160;80;1;1;4;1;1;1;4;4;3;1;2;1;1;1;2;2;30
+Cumilla;16;11603002;11401603002;Songraish Para to Shaheb Bari;Songraish Rayhan Bepary Goli;50;140;60;1;3;4;1;1;1;4;4;2;2;1;4;1;4;4;4;41
+Cumilla;16;11603003;11401603003;Songraish Para to Shaheb Bari;Songraish Shabek Councilor Ar Bari;15;70;80;1;1;4;1;1;1;3;4;3;1;1;4;1;4;4;4;38
+Cumilla;16;11604001;11401604001;Ambor Ali Shah Mazar To Millon Shomiti;Ambor Ali Baba Mazar Ar Boshoty;145;635;64;1;3;4;1;1;1;4;4;3;1;1;4;1;4;4;4;41
+Cumilla;16;11604002;11401604002;Ambor Ali Shah Mazar To Millon Shomiti;Milon Shomiti Ar Boshoty;70;310;150;1;3;4;1;1;1;4;4;3;1;1;4;1;4;4;4;41
+Cumilla;16;11604003;11401604003;Ambor Ali Shah Mazar To Millon Shomiti;Sojnagar Bow Bazar Sadek Miyar Bari;50;280;50;1;1;4;1;1;1;3;4;4;1;2;2;1;1;1;2;30
+Cumilla;16;11605001;11401605001;Nobogram;Nobogram Lil Miya Bari;500;2520;35;1;1;4;1;2;1;4;4;3;1;1;4;1;4;4;4;40
+Cumilla;16;11606001;11401606001;Moddho Para To Gojupoddar Bari;Songrisha Primari School Ar Schmner Boshoty;350;1600;60;2;3;4;1;1;1;4;4;3;1;1;4;1;4;4;4;42
+Cumilla;16;11606002;11401606002;Moddho Para To Gojupoddar Bari;Gojupoddar Bari Boshoty;120;710;80;1;1;4;1;1;1;4;4;3;1;1;4;1;4;4;4;39
+Cumilla;16;11607001;11401607001;Shaleh School To Purbo Para;Mohon Mitar Bari;8;45;17;2;1;4;1;3;3;4;4;2;1;1;1;1;1;1;1;31
+Cumilla;16;11607002;11401607002;Shaleh School To Purbo Para;Fojlok Miyar Bari;15;60;22;1;1;4;1;1;1;1;2;2;1;2;4;1;4;4;4;34
+Cumilla;16;11607003;11401607003;Shaleh School To Purbo Para;Sultan Miyar Bari;15;70;25;1;1;4;1;1;1;1;3;2;1;2;4;3;4;4;4;37
+Cumilla;16;11607004;11401607004;Shaleh School To Purbo Para;Shenne Bari;15;85;50;1;1;4;1;1;1;1;3;3;1;2;4;1;4;4;4;36
+Cumilla;16;11607005;11401607005;Shaleh School To Purbo Para;Coler Pukur Uttor Poschimpar Boshoty;30;170;60;1;1;4;1;1;1;2;4;3;3;2;1;1;1;1;1;28
+Cumilla;16;11607006;11401607006;Shaleh School To Purbo Para;Coler Pukurer Bipored Pasher Boshoty;10;70;30;1;1;4;1;1;1;4;4;3;1;1;4;2;4;4;4;40
+Cumilla;16;11607007;11401607007;Shaleh School To Purbo Para;Coler Pukurer Purbo Para Boshoty;30;150;35;2;1;4;1;1;2;1;4;2;1;2;4;2;4;4;4;39
+Cumilla;16;11607008;11401607008;Shaleh School To Purbo Para;Songrisha Nurul Islamer Bari;20;100;35;4;1;2;1;1;1;4;4;2;1;2;4;2;4;4;4;41
+Cumilla;16;11608001;11401608001;Shaleh School To Purbo Para;Jamal Miyar Bari;15;80;35;4;1;4;1;1;1;4;3;2;1;2;4;2;4;4;4;42
+Cumilla;16;11608002;11401608002;Shaleh School To Purbo Para;Songrisha Boiragi Para Boshoty-1;30;250;50;4;4;4;1;4;2;4;4;3;2;2;4;2;4;4;4;52
+Cumilla;16;11608003;11401608003;Shaleh School To Purbo Para;Songrisha Boiragi Para Boshoty-2;30;150;50;3;1;4;1;1;2;4;4;2;1;2;4;2;4;4;4;43
+Cumilla;16;11608004;11401608004;Shaleh School To Purbo Para;Songrisha Noya Bari;15;150;45;4;4;4;1;1;1;4;4;2;1;2;4;2;4;4;4;46
+Cumilla;16;11608005;11401608005;Shaleh School To Purbo Para;Gausepark Masjeed Sonlogno Boshoty;30;150;50;4;1;4;1;4;2;1;3;3;1;3;4;2;4;4;4;45
+Cumilla;16;11608006;11401608006;Shaleh School To Purbo Para;Songrisha Gos Para;100;405;60;1;1;4;1;1;2;1;3;3;1;2;4;2;4;4;4;38
+Cumilla;17;11701001;11401701001;Ma Moni Talikoma - Bokhshi Nagar;Manik Miyar Bari;65;395;145;3;3;4;3;3;1;1;4;4;2;4;4;3;4;4;4;51
+Cumilla;17;11701002;11401701002;Ma Moni Talikoma - Bokhshi Nagar;Sowdagor Bari;176;905;135;4;3;4;1;1;1;4;4;4;2;4;4;2;4;4;4;50
+Cumilla;17;11702001;11401702001;Bokhshi Nagar-2 No. Muradpur;Pur Bari;160;820;165;2;3;4;3;3;1;4;4;4;4;2;4;1;4;4;4;51
+Cumilla;17;11702002;11401702002;Bokhshi Nagar-2 No. Muradpur;Razzak Miyar Bari;128;768;83;4;2;4;2;4;1;4;4;4;1;4;4;1;4;4;4;51
+Cumilla;17;11702003;11401702003;Bokhshi Nagar-2 No. Muradpur;Ali Miyar Bari;376;1835;146;2;3;4;3;3;1;4;4;4;1;3;4;1;4;4;4;49
+Cumilla;17;11702004;11401702004;Bokhshi Nagar-2 No. Muradpur;Gofur Miyar Bari;36;176;121;4;3;4;1;1;1;4;4;3;2;1;4;2;4;4;4;46
+Cumilla;17;11703001;11401703001;2 No. Muradpur Laskpur Par - Pathuriya Para;D.B. Goli;6;33;90;4;3;4;1;1;1;1;4;4;3;3;2;1;2;2;2;38
+Cumilla;17;11703002;11401703002;2 No. Muradpur Laskpur Par - Pathuriya Para;Chowdhury Para;620;3200;120;4;4;4;4;3;1;4;4;4;4;3;4;2;4;4;4;57
+Cumilla;17;11703003;11401703003;2 No. Muradpur Laskpur Par - Pathuriya Para;Roth Road;40;204;20;4;4;4;3;4;2;3;4;4;4;3;4;2;4;4;4;57
+Cumilla;17;11704001;11401704001;Pathuriya Para- Pal Para;Shambar Pukur Par;42;225;125;4;3;4;3;2;1;4;4;4;4;3;4;2;4;4;4;54
+Cumilla;17;11704002;11401704002;Pathuriya Para- Pal Para;Monir Miya Goli;22;115;135;4;3;4;3;2;1;2;4;4;3;3;4;1;4;4;4;50
+Cumilla;17;11704003;11401704003;Pathuriya Para- Pal Para;Bodir Goli;27;145;130;2;2;4;1;1;1;3;4;4;3;3;4;2;4;4;4;46
+Cumilla;17;11704004;11401704004;Pathuriya Para- Pal Para;Mostaqer Goli;12;57;30;4;4;4;1;1;1;2;4;4;3;3;4;1;4;4;4;48
+Cumilla;17;11706001;11401706001;Telikona Gobindo Pukur Par- Shapara Uttor;Gobindo Pukur Par;70;360;130;3;2;4;4;4;1;4;4;4;3;4;4;2;4;4;4;55
+Cumilla;17;11706002;11401706002;Telikona Gobindo Pukur Par- Shapara Uttor;Hindu Para;31;127;16;4;4;4;3;3;1;4;4;4;3;3;4;2;4;4;4;55
+Cumilla;17;11707001;11401707001;Bokhshi Nagar Uccha Rasta- Sujanagar Panir Tangki;Panir Tangki Suroj Miya Bari;32;162;70;4;2;4;2;3;1;4;4;3;3;3;4;1;4;4;4;50
+Cumilla;17;11708001;11401708001;Sujanagar Panir Tangki- Sujanagar Poschimpara;Shoipar Colony;95;585;60;3;2;4;2;2;1;4;4;3;4;3;4;1;4;4;4;49
+Cumilla;17;11708002;11401708002;Sujanagar Panir Tangki- Sujanagar Poschimpara;Nazrul Miar Colony;45;227;70;3;2;4;2;2;1;4;4;4;4;3;1;1;1;1;1;38
+Cumilla;17;11709001;11401709001;Sujanagar Poschimpara-  Sujanagar Purbopara;Hazi Bari;22;89;150;4;3;4;1;4;1;4;4;4;4;3;4;1;4;4;4;53
+Cumilla;17;11709002;11401709002;Sujanagar Poschimpara-  Sujanagar Purbopara;Kamar Bari;12;52;150;4;3;4;2;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11709003;11401709003;Sujanagar Poschimpara-  Sujanagar Purbopara;Charu Mia Bari;10;53;150;4;3;4;2;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11709004;11401709004;Sujanagar Poschimpara-  Sujanagar Purbopara;Haridon Bepari;7;35;180;4;3;4;2;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11709005;11401709005;Sujanagar Poschimpara-  Sujanagar Purbopara;Mahlom Mia Bari;20;105;180;4;4;4;1;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11709006;11401709006;Sujanagar Poschimpara-  Sujanagar Purbopara;Master Bari;20;102;180;4;4;4;1;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11709007;11401709007;Sujanagar Poschimpara-  Sujanagar Purbopara;Boro Bari;20;125;200;4;3;4;2;4;1;4;4;4;4;3;4;1;4;4;4;54
+Cumilla;17;11710001;11401710001;Telikona Gobindo Pukur Par- Shapara Dokkhin;Monu Miyar Bari;75;405;155;4;4;4;2;4;1;4;4;4;1;4;4;1;4;4;4;53
+Cumilla;17;11710002;11401710002;Telikona Gobindo Pukur Par- Shapara Dokkhin;Sorot Sahar Bari;48;315;176;2;4;4;3;3;2;4;4;4;4;4;4;1;4;4;4;55
+Cumilla;17;11710003;11401710003;Telikona Gobindo Pukur Par- Shapara Dokkhin;Komol Sahar Bari;160;822;155;4;4;4;2;1;2;4;4;3;3;4;4;1;4;4;4;52
+Cumilla;18;11801001;11401801001;Katabil;Robi Das Para;45;210;20;2;1;3;1;1;1;1;3;3;2;2;4;1;4;4;4;37
+Cumilla;18;11801002;11401801002;Katabil;Yeasin To Khayrun Nesa;55;235;80;2;1;3;1;1;2;1;3;3;2;2;4;1;4;4;4;38
+Cumilla;18;11801003;11401801003;Katabil;Katabil Masjeed  to R.M School;45;200;80;2;1;4;1;2;2;1;3;3;2;2;4;1;4;4;4;40
+Cumilla;18;11801004;11401801004;Katabil;Alomgirer Bari;25;120;14;2;1;4;1;1;2;1;2;3;2;2;4;2;4;4;4;39
+Cumilla;18;11801005;11401801005;Katabil;Aysha Bari;40;180;50;2;1;4;1;2;3;1;3;2;1;2;4;1;4;4;4;39
+Cumilla;18;11802001;11401802001;Hazrat Para;Alomgirer Boshoty;18;86;30;2;1;4;1;2;3;2;3;2;4;3;4;2;4;4;4;45
+Cumilla;18;11802002;11401802002;Hazrat Para;Mafiya er Boshoty;20;91;40;2;1;4;1;1;2;1;2;2;3;2;4;2;4;4;4;39
+Cumilla;18;11802003;11401802003;Hazrat Para;Jashim Er Boshoty;30;130;50;3;1;4;1;2;2;1;2;2;2;4;4;2;4;4;4;42
+Cumilla;18;11802004;11401802004;Hazrat Para;Ramjun Er Boshoty;35;155;60;2;1;3;1;2;2;1;3;2;2;3;4;2;4;4;4;40
+Cumilla;18;11803001;11401803001;Housing Estate;Hoghcost Colony;30;130;45;2;1;4;1;1;1;1;2;3;2;2;2;2;2;1;1;28
+Cumilla;18;11804001;11401804001;Nurpur Dokkhin (Purbo-Poschim);Ranu Mia Ar Bari;65;240;60;2;3;4;1;1;1;1;2;3;2;2;4;2;4;4;4;40
+Cumilla;18;11804002;11401804002;Nurpur Dokkhin (Purbo-Poschim);Charaliya Pukur Par;50;210;55;2;1;4;1;1;1;1;2;3;1;1;2;2;2;1;1;26
+Cumilla;18;11804003;11401804003;Nurpur Dokkhin (Purbo-Poschim);Masjeed Bari;60;270;50;2;2;4;1;1;1;1;2;3;3;2;4;2;4;4;4;40
+Cumilla;18;11804004;11401804004;Nurpur Dokkhin (Purbo-Poschim);Boro Bari To Shofik Miyar Bari;40;180;90;2;1;4;1;1;1;1;2;3;2;1;3;3;3;4;4;36
+Cumilla;18;11804005;11401804005;Nurpur Dokkhin (Purbo-Poschim);Mamun Mia Ar Bari;50;200;70;2;3;4;1;1;1;1;2;3;2;2;4;2;4;4;4;40
+Cumilla;18;11804006;11401804006;Nurpur Dokkhin (Purbo-Poschim);Mohuri Bari;30;130;80;2;3;4;1;1;1;1;2;3;2;1;4;3;4;4;4;40
+Cumilla;18;11805001;11401805001;Nurpur Uttor;Shokot Akbor To Nur Gate;20;88;40;3;3;4;1;2;1;1;2;3;1;2;3;3;3;1;1;34
+Cumilla;18;11805002;11401805002;Nurpur Uttor;Mofu Khondokar Godhirpukur;15;65;50;2;1;4;1;3;1;1;2;3;3;3;4;4;4;4;4;44
+Cumilla;18;11805003;11401805003;Nurpur Uttor;Janu Mondar Morog Bepari Bari;50;210;60;3;3;4;1;1;1;1;2;3;2;2;2;2;2;1;1;31
+Cumilla;18;11805004;11401805004;Nurpur Uttor;Gudir Pukur Par;50;210;70;2;1;4;1;1;1;1;2;3;2;2;2;2;2;1;1;28
+Cumilla;18;11805005;11401805005;Nurpur Uttor;Khili Kona, Sahajahan Miyar Bari;90;420;65;2;2;4;1;1;1;1;2;3;1;1;2;2;2;1;1;27
+Cumilla;18;11805006;11401805006;Nurpur Uttor;Nurpur Jame Masjeed;45;200;40;2;1;4;1;1;1;1;2;3;1;1;4;2;4;4;4;36
+Cumilla;18;11806001;11401806001;Purbo Gobindopur;Nopur Er Boshoty;40;180;60;2;1;4;1;1;2;1;2;3;2;2;4;2;4;4;4;39
+Cumilla;19;11901001;11401901001;Uttor Rosulpur (Dulipara) Purbopara;Shain Tailar;5;24;60;2;1;4;1;1;1;4;4;4;3;4;4;1;4;4;4;46
+Cumilla;19;11902001;11401902001;Dokkhin Rosulpur (Purbopara);Hazi Bari;5;22;80;3;1;4;1;1;3;2;4;4;4;3;4;3;4;4;4;49
+Cumilla;19;11902002;11401902002;Dokkhin Rosulpur (Purbopara);Kazi Bari;5;25;90;4;4;4;1;1;1;1;4;4;4;4;4;1;4;4;4;49
+Cumilla;19;11904001;11401904001;Rajapara 1,2,3;Abason-1;60;265;15;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11904002;11401904002;Rajapara 1,2,3;Abason-2;60;232;15;4;4;4;1;1;2;1;3;4;4;2;1;2;2;2;3;40
+Cumilla;19;11904003;11401904003;Rajapara 1,2,3;Abason-3;40;172;15;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11904004;11401904004;Rajapara 1,2,3;Babul Miyar Bari;5;23;30;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11906001;11401906001;Rajapara Dokkhin Para;Ayub Ali Bari;5;18;40;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11906002;11401906002;Rajapara Dokkhin Para;Tor Ali Dorbas Oil Bari;9;40;40;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11907001;11401907001;Rajapara Poschim Para;Kazi Bari;10;42;35;3;1;4;1;1;1;2;4;3;1;1;4;2;4;4;4;40
+Cumilla;19;11907002;11401907002;Rajapara Poschim Para;Latif Mia Bari;6;26;19;3;1;4;1;1;1;2;4;3;1;1;4;3;4;4;4;41
+Cumilla;19;11907003;11401907003;Rajapara Poschim Para;Dubo Mistri Bari;5;22;40;3;1;4;1;1;1;2;4;3;1;1;4;1;4;4;4;39
+Cumilla;19;11907004;11401907004;Rajapara Poschim Para;Rafiq Miya Bari;6;26;40;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11907005;11401907005;Rajapara Poschim Para;Harun Miya Bari;5;18;30;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11908001;11401908001;Noyapara;Sarabod Ali Bari;5;22;70;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11908002;11401908002;Noyapara;Abdul Majid Bari;5;25;70;3;1;4;1;1;1;2;1;3;1;1;4;2;4;4;4;37
+Cumilla;19;11909001;11401909001;Newra (Uttor);Kamla Bari;7;32;60;3;1;4;1;1;1;2;4;3;1;1;4;4;4;4;4;42
+Cumilla;19;11910001;11401910001;Newra (Dokkhin);Jahangir Miya Bari;10;45;70;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11910002;11401910002;Newra (Dokkhin);Sardar Bari;5;22;12;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11910003;11401910003;Newra (Dokkhin);Baksi Bari;7;30;70;4;4;4;1;1;2;1;3;4;4;2;2;1;2;2;3;40
+Cumilla;19;11910004;11401910004;Newra (Dokkhin);Abid Ali Bari;5;22;40;1;2;4;1;1;2;4;4;4;1;4;4;1;4;4;4;45
+Cumilla;19;11910005;11401910005;Newra (Dokkhin);Natun Bari;7;32;15;2;1;4;1;1;2;1;4;3;1;3;4;1;4;4;4;40
+Cumilla;20;12001001;11402001001;Laxminagar;Alamgirer Bari;12;54;60;1;1;4;1;1;1;4;4;4;4;1;4;1;4;4;4;43
+Cumilla;20;12001002;11402001002;Laxminagar;Jamaler Dokan;9;40;25;1;1;4;1;1;1;4;4;4;4;1;4;1;4;4;4;43
+Cumilla;20;12001003;11402001003;Laxminagar;Motin Store;12;54;150;3;2;4;1;1;1;4;4;4;4;1;4;1;4;4;4;46
+Cumilla;20;12002001;11402002001;Dishabond Paschimpara;Idrisher Dokan (Abashon Prokolpo);78;351;22;2;2;4;1;1;1;4;4;4;4;1;4;1;4;4;4;45
+Cumilla;20;12002002;11402002002;Dishabond Paschimpara;Shetu Miya Cha Dokan;82;369;22;2;2;4;1;1;1;4;4;4;4;1;4;1;4;4;4;45
+Cumilla;20;12002003;11402002003;Dishabond Paschimpara;Jaforer Dokan;25;112;25;4;1;4;1;1;1;4;4;4;4;1;4;1;4;4;4;46
+Cumilla;20;12002004;11402002004;Dishabond Paschimpara;Wahid Ar Dokan;10;45;26;4;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;48
+Cumilla;20;12002005;11402002005;Dishabond Paschimpara;Hazi Aiyub Ali Ar Boshoty;12;54;110;1;1;4;1;1;1;4;3;4;4;2;4;1;4;4;4;43
+Cumilla;20;12002006;11402002006;Dishabond Paschimpara;Dulal Hossain Ar Boshoty;20;90;30;1;1;4;1;1;1;4;3;4;4;2;4;1;4;4;4;43
+Cumilla;20;12002007;11402002007;Dishabond Paschimpara;Monir Hoser Ar Boshoty;7;31;100;1;2;4;1;1;1;4;4;4;4;1;4;1;4;4;4;44
+Cumilla;20;12003001;11402003001;Dishabond Purbo Para;Zakir Hossain Ar Boshoty;5;25;100;1;2;4;1;1;1;4;4;4;4;1;4;1;4;4;4;44
+Cumilla;20;12004001;11402004001;Kazipara Purbopara;Boro Bari;20;100;150;2;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;46
+Cumilla;20;12004002;11402004002;Kazipara Purbopara;Molla Bari;15;50;100;2;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;46
+Cumilla;20;12004003;11402004003;Kazipara Purbopara;Member Bari;100;400;150;4;2;4;1;1;1;4;4;4;4;3;4;2;4;4;4;50
+Cumilla;20;12004004;11402004004;Kazipara Purbopara;Masjeed Para;30;150;100;3;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;47
+Cumilla;20;12004005;11402004005;Kazipara Purbopara;Mukter Hosen Para;80;250;150;2;1;4;1;1;1;4;4;4;4;3;4;1;4;4;4;46
+Cumilla;20;12005001;11402005001;Kazipara Poschimpara;Uttor Bari;150;700;150;2;1;3;1;1;1;3;4;4;4;3;4;1;4;4;4;44
+Cumilla;20;12005002;11402005002;Kazipara Poschimpara;Comishonar Ar Bari;30;160;100;3;3;4;1;1;1;4;4;4;4;3;4;1;4;4;4;49
+Cumilla;20;12006001;11402006001;Unishar Moddompara;Hazi Bari;27;107;115;2;1;4;1;1;1;3;4;3;2;3;4;1;4;4;4;42
+Cumilla;20;12006002;11402006002;Unishar Moddompara;Purnopara;308;1232;135;2;1;4;1;1;1;4;4;3;2;3;4;1;4;4;4;43
+Cumilla;20;12007001;11402007001;Unishar Hindu Para;Hindu Para;330;1320;85;2;1;4;1;1;1;1;4;3;2;3;4;3;4;4;4;42
+Cumilla;20;12007002;11402007002;Unishar Hindu Para;Fakir Ar Bari;68;272;75;2;1;4;2;1;1;4;4;4;3;3;4;1;4;4;4;46
+Cumilla;21;12101001;11402101001;Shaktola (Uttor);Babul Driver;42;190;55;2;1;3;1;1;2;2;2;3;3;3;2;3;2;1;2;33
+Cumilla;21;12101002;11402101002;Shaktola (Uttor);Shaktola Sub Bari;48;208;40;2;1;2;2;1;2;1;2;2;2;2;2;2;1;2;2;28
+Cumilla;21;12101003;11402101003;Shaktola (Uttor);Gorib Hossain Bari;51;230;10;1;1;4;1;1;2;1;2;2;2;1;1;1;1;2;1;24
+Cumilla;21;12101004;11402101004;Shaktola (Uttor);Rail Line West Side;558;2622;12;1;1;4;1;1;1;1;3;2;2;2;1;1;1;2;2;26
+Cumilla;21;12102001;11402102001;Shaktola (Dokkhin);Jashim Bari;15;67;45;2;1;3;1;1;1;1;1;3;2;4;4;2;4;4;4;38
+Cumilla;21;12102002;11402102002;Shaktola (Dokkhin);Stuf Quarter;10;45;50;2;1;4;2;1;2;2;3;4;4;3;2;2;2;2;2;38
+Cumilla;21;12102003;11402102003;Shaktola (Dokkhin);Belayet Bari;19;105;18;2;1;2;1;1;2;1;2;2;3;2;2;1;2;1;2;27
+Cumilla;21;12102004;11402102004;Shaktola (Dokkhin);Purbo Kaitar Pukur;11;55;12;1;2;4;1;1;1;1;2;2;2;2;4;1;4;4;4;36
+Cumilla;21;12102005;11402102005;Shaktola (Dokkhin);Ayub Alir Bari;20;115;48;3;2;4;2;1;2;2;2;3;3;2;4;2;4;4;4;44
+Cumilla;21;12103001;11402103001;Jangalia;Forazi Bari;10;50;40;3;1;3;1;1;1;3;2;3;3;2;2;2;2;1;2;32
+Cumilla;21;12103002;11402103002;Jangalia;Sorder Bari;50;210;60;2;2;4;1;1;2;2;3;3;3;3;4;2;4;4;4;44
+Cumilla;21;12103003;11402103003;Jangalia;Wahad Ali;6;30;50;2;1;4;1;1;1;4;4;3;4;3;4;3;4;4;4;47
+Cumilla;21;12104001;11402104001;Ramnagar;Shorboth Ali;7;35;60;2;1;4;1;1;2;4;4;3;2;4;4;3;4;4;4;47
+Cumilla;21;12104002;11402104002;Ramnagar;Bochoni Bari;10;46;40;2;1;4;1;1;2;4;2;3;2;3;4;3;4;4;4;44
+Cumilla;21;12104003;11402104003;Ramnagar;Shiraj Member;5;23;60;2;1;4;1;1;2;4;4;3;2;4;4;3;4;4;4;47
+Cumilla;21;12104004;11402104004;Ramnagar;Ali Newaz Bari Boshoty;10;43;20;1;1;4;1;1;2;4;4;4;2;4;4;3;3;1;3;42
+Cumilla;21;12104005;11402104005;Ramnagar;Akther Bari;8;32;50;2;1;4;1;1;3;4;4;3;3;4;4;3;4;4;4;49
+Cumilla;21;12104006;11402104006;Ramnagar;Johir Bari;5;15;60;2;1;4;1;1;2;4;4;2;2;3;4;3;4;4;4;45
+Cumilla;21;12104007;11402104007;Ramnagar;Sohel Bari;4;15;60;3;1;4;1;1;3;4;4;3;2;4;4;3;4;4;4;49
+Cumilla;21;12105001;11402105001;Ashrafpur (Dokkhin);Hasan Mia Bari;9;21;80;4;3;4;3;1;2;4;4;3;3;3;4;3;4;4;4;53
+Cumilla;21;12106001;11402106001;Ashrafpur (Modho);Miazi;16;85;70;2;1;4;1;1;1;3;3;4;2;3;4;2;4;4;4;43
+Cumilla;21;12106002;11402106002;Ashrafpur (Modho);Eklam Bagan;13;38;65;2;3;4;3;1;2;4;4;4;3;2;4;3;4;4;4;51
+Cumilla;21;12106003;11402106003;Ashrafpur (Modho);Usuf Miyar Bari;29;230;100;4;4;4;3;1;1;4;4;3;3;3;4;3;4;4;4;53
+Cumilla;21;12106004;11402106004;Ashrafpur (Modho);Shadiq Miyar Bari;17;93;65;4;3;4;3;1;2;4;4;4;4;3;4;2;4;4;4;54
+Cumilla;21;12107001;11402107001;Ashrafpur (Uttor);Anower;14;63;70;4;4;4;3;1;3;4;4;4;1;4;4;2;4;4;4;54
+Cumilla;21;12107002;11402107002;Ashrafpur (Uttor);Sobian;8;31;65;4;4;4;3;1;3;4;4;4;3;4;4;2;4;4;4;56
+Cumilla;22;12201001;11402201001;Kochua- Doiara;Haji Bari;72;310;50;2;1;4;1;3;1;1;3;2;2;1;4;1;4;4;4;38
+Cumilla;22;12201002;11402201002;Kochua- Doiara;Abdul Sattar Bigiyar Bari;5;15;55;2;1;4;3;3;1;4;4;3;4;1;4;1;4;4;4;47
+Cumilla;22;12201003;11402201003;Kochua- Doiara;Mondar Bari;50;200;50;2;1;3;2;3;3;4;3;3;4;1;1;1;1;1;1;34
+Cumilla;22;12201004;11402201004;Kochua- Doiara;Julfunia Bari;20;90;50;1;1;4;1;2;1;3;4;3;3;1;1;1;1;1;1;29
+Cumilla;22;12201005;11402201005;Kochua- Doiara;Kochua Bosty;35;158;30;3;1;4;1;2;2;2;4;4;2;1;1;1;1;1;1;31
+Cumilla;22;12201006;11402201006;Kochua- Doiara;Doiara Dokkhin Para;70;315;50;2;1;4;1;3;1;4;4;3;4;1;4;1;4;4;4;45
+Cumilla;22;12201007;11402201007;Kochua- Doiara;Kala Miyar Bari;60;240;50;2;1;4;1;4;3;3;4;3;2;1;1;1;1;1;1;33
+Cumilla;22;12201008;11402201008;Kochua- Doiara;Sordar Bari;25;100;50;2;1;4;3;4;3;4;4;3;4;1;4;3;4;4;4;52
+Cumilla;22;12201009;11402201009;Kochua- Doiara;Vandari Bari;40;150;50;2;1;4;1;3;1;3;4;3;4;1;4;1;4;4;4;44
+Cumilla;22;12201010;11402201010;Kochua- Doiara;Nesariya Bari;42;189;10;2;1;4;1;1;1;1;2;2;2;1;1;1;1;1;1;23
+Cumilla;22;12201011;11402201011;Kochua- Doiara;Sohider Bari;39;123;47;2;1;4;1;1;1;3;4;3;3;1;4;2;4;4;4;42
+Cumilla;22;12201012;11402201012;Kochua- Doiara;Rezaul Member Bari;21;93;65;2;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;38
+Cumilla;22;12202001;11402202001;Durgapur- Laxmipur;Laxmipur Purbo Para;25;100;50;2;1;4;1;3;2;4;4;3;4;1;1;1;1;1;1;34
+Cumilla;22;12202002;11402202002;Durgapur- Laxmipur;Laxmipur Gajibari;40;160;50;2;1;4;1;3;3;2;4;3;4;1;4;1;4;4;4;45
+Cumilla;22;12202003;11402202003;Durgapur- Laxmipur;Durgapur Dokkhin Para;27;128;50;2;3;4;2;2;3;1;3;3;3;1;1;1;1;1;1;32
+Cumilla;22;12202004;11402202004;Durgapur- Laxmipur;Konar Bari Durgapur;40;150;55;2;3;4;1;3;2;4;3;3;4;1;4;1;4;4;4;47
+Cumilla;22;12202005;11402202005;Durgapur- Laxmipur;Jounal Miyar Bari;30;127;18;2;1;4;1;3;2;4;4;3;4;1;1;1;1;1;1;34
+Cumilla;22;12203001;11402203001;Sribollovpur (Poschim);Armi Hasemer Bari;20;86;50;2;3;4;1;1;2;4;4;3;3;1;1;1;1;1;1;33
+Cumilla;22;12203002;11402203002;Sribollovpur (Poschim);Motin Miyar Bari;9;39;50;2;1;4;1;1;1;1;1;3;2;1;1;1;1;1;1;23
+Cumilla;22;12203003;11402203003;Sribollovpur (Poschim);Abdur Rahmaner Bari;17;51;55;1;1;4;1;1;1;1;4;3;3;3;1;1;1;1;1;28
+Cumilla;22;12203004;11402203004;Sribollovpur (Poschim);Pandob Bari;16;75;50;2;1;4;1;1;1;4;4;3;3;1;4;1;4;4;4;42
+Cumilla;22;12203005;11402203005;Sribollovpur (Poschim);Sofik Miyar Bari;40;175;50;1;1;4;1;1;1;4;4;3;3;1;4;1;4;4;4;41
+Cumilla;22;12203006;11402203006;Sribollovpur (Poschim);Roich Uddain Ar Bari;37;165;50;2;4;4;1;1;1;2;4;3;2;1;4;1;4;4;4;42
+Cumilla;22;12203007;11402203007;Sribollovpur (Poschim);Ibrahim Miyar Bari;15;70;50;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Cumilla;22;12203008;11402203008;Sribollovpur (Poschim);Gosh Para;85;370;50;2;4;4;1;1;1;4;4;3;2;1;4;1;4;4;4;44
+Cumilla;22;12203009;11402203009;Sribollovpur (Poschim);Digir Par;32;140;50;2;1;4;1;1;1;2;4;2;2;1;1;1;1;1;1;26
+Cumilla;22;12204001;11402204001;Sribollovpur (Purbo);Nurl Hok Mondol Ar Bari;18;75;50;2;1;4;1;1;1;4;4;2;3;1;4;1;4;4;4;41
+Cumilla;22;12204002;11402204002;Sribollovpur (Purbo);Hazi Bari;25;130;60;4;4;4;1;1;1;4;4;3;2;1;4;2;4;4;4;47
+Cumilla;22;12204003;11402204003;Sribollovpur (Purbo);Sowdagar Bari;32;140;50;2;1;4;1;1;1;4;4;3;3;1;4;1;4;4;4;42
+Cumilla;22;12204004;11402204004;Sribollovpur (Purbo);Kazi Bari;21;80;50;4;4;4;1;1;2;4;1;3;2;1;1;1;1;1;1;32
+Cumilla;22;12204005;11402204005;Sribollovpur (Purbo);Hazi Najir Miyar Bari;57;220;50;2;4;4;1;1;1;4;4;3;3;1;4;2;4;4;4;46
+Cumilla;22;12204006;11402204006;Sribollovpur (Purbo);Debnath Bari;43;200;50;2;1;4;1;1;1;4;4;4;3;1;4;2;4;4;4;44
+Cumilla;22;12205001;11402205001;Uttor Rampur;Mazumder Bari;35;150;50;3;1;4;1;1;1;4;4;3;4;1;4;2;4;4;4;45
+Cumilla;22;12205002;11402205002;Uttor Rampur;Hazi Mojib Miyar Bari;30;125;50;2;4;4;1;1;1;1;4;3;2;1;4;2;4;4;4;42
+Cumilla;22;12205003;11402205003;Uttor Rampur;Sayed Alir Bari;25;110;50;2;4;4;1;1;1;4;4;3;3;1;4;1;4;4;4;45
+Cumilla;22;12205004;11402205004;Uttor Rampur;Anower Member Bari;45;190;50;2;4;4;1;1;1;4;4;2;2;1;4;2;4;4;4;44
+Cumilla;22;12205005;11402205005;Uttor Rampur;Purbopara Mazumber Bari;40;180;50;3;4;4;1;1;2;4;4;4;3;1;4;1;4;4;4;48
+Cumilla;22;12205006;11402205006;Uttor Rampur;Iqbal Vuiyar Bari;30;130;50;3;4;4;1;1;2;4;4;3;3;1;4;2;4;4;4;48
+Cumilla;22;12205007;11402205007;Uttor Rampur;Mannan Miyar Bari;25;130;50;2;2;4;1;1;1;4;4;3;2;1;4;1;4;4;4;42
+Cumilla;22;12206001;11402206001;Uttor Rampur (Dokkhin);Moklasur Rahman Ar Bari;15;68;100;3;4;4;1;1;1;4;4;3;3;1;4;1;4;4;4;46
+Cumilla;22;12206002;11402206002;Uttor Rampur (Dokkhin);Rokeya Begum Bari;12;50;100;3;4;4;1;1;1;3;4;3;3;1;4;1;4;4;4;45
+Cumilla;22;12206003;11402206003;Uttor Rampur (Dokkhin);Golam Hossain Bari;17;76;100;4;4;4;2;1;1;4;4;3;2;1;4;1;4;4;4;47
+Cumilla;22;12207001;11402207001;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Akter Saher Ar Bari;18;81;20;2;1;4;2;1;1;1;4;3;3;1;1;1;1;1;1;28
+Cumilla;22;12207002;11402207002;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Das Bari;26;117;100;2;3;4;1;1;1;3;4;3;2;1;4;1;4;4;4;42
+Cumilla;22;12207003;11402207003;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Ad. Anowar;41;185;100;2;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;40
+Cumilla;22;12207004;11402207004;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Asak Master;21;95;100;1;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;39
+Cumilla;22;12207005;11402207005;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Motin Miyar Bari;30;135;100;1;4;4;1;1;1;3;4;3;2;1;4;1;1;1;1;33
+Cumilla;22;12207006;11402207006;Uttor Hirapur- Mostofapur- Dokkhin Gopinathpur;Talukder Bari;16;72;100;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Cumilla;22;12208001;11402208001;Salmontpur - Bonodurgapur;Master Jakir;21;94;50;2;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;40
+Cumilla;22;12208002;11402208002;Salmontpur - Bonodurgapur;Tailors Shohel;12;54;100;1;1;4;1;1;1;3;4;3;2;1;4;1;4;4;4;39
+Cumilla;22;12208003;11402208003;Salmontpur - Bonodurgapur;Tajul Islam;20;90;100;1;1;3;1;1;1;2;4;3;3;1;4;1;4;4;4;38
+Cumilla;23;12301001;11402301001;Changini (North);Kolim Uddain;5;20;15;1;1;4;1;1;1;1;2;3;3;3;4;1;4;4;4;38
+Cumilla;23;12301002;11402301002;Changini (North);Sarafat Ali;5;15;20;2;1;4;1;1;1;1;4;4;3;3;4;1;4;4;4;42
+Cumilla;23;12301003;11402301003;Changini (North);Mozunder Puraton Boshoty;25;90;80;3;2;4;1;1;1;4;3;1;2;2;4;1;4;4;4;41
+Cumilla;23;12301004;11402301004;Changini (North);Mozunder Notun Boshoty;16;80;30;3;2;4;1;1;1;2;2;1;2;3;4;1;4;4;4;39
+Cumilla;23;12301005;11402301005;Changini (North);Bahar Bari;15;50;40;2;2;4;1;1;1;1;4;4;2;3;4;1;4;4;4;42
+Cumilla;23;12302001;11402302001;Nandanpur;Masjeed Ar Bari;5;25;70;3;2;4;1;1;2;2;3;3;3;3;4;2;4;4;4;45
+Cumilla;23;12303001;11402303001;Batabaria;Solu Sardar Bari;8;50;60;2;2;4;1;1;1;2;4;3;2;4;4;1;4;4;4;43
+Cumilla;23;12303002;11402303002;Batabaria;School Ar Bari;8;40;35;2;1;4;1;1;1;2;4;4;2;3;4;4;4;4;4;45
+Cumilla;23;12304001;11402304001;Monipur - Chandpur;Hujur Bari;15;35;40;2;2;4;1;1;1;1;4;3;3;4;4;1;4;4;4;43
+Cumilla;23;12304002;11402304002;Monipur - Chandpur;Shekh Bari;80;400;100;2;1;4;1;1;1;2;4;4;2;4;4;1;4;4;4;43
+Cumilla;23;12304003;11402304003;Monipur - Chandpur;Najimondol Ar Bari;15;40;50;2;2;4;1;1;1;1;4;3;3;4;4;1;4;4;4;43
+Cumilla;23;12305001;11402305001;Motfushkuruni;Sayed Bari;5;30;40;2;4;4;1;1;2;2;3;3;2;4;4;1;4;4;2;43
+Cumilla;23;12305002;11402305002;Motfushkuruni;Ali Akbor Bari;5;30;60;2;4;4;1;1;2;2;4;3;2;4;4;1;4;4;4;46
+Cumilla;23;12305003;11402305003;Motfushkuruni;Darga Bari;5;50;60;4;4;4;1;1;2;2;4;3;2;4;4;1;4;4;4;48
+Cumilla;23;12306001;11402306001;Joypur (North);Momin Bari;8;25;100;2;1;4;1;1;1;2;4;4;2;4;4;1;4;4;4;43
+Cumilla;23;12306002;11402306002;Joypur (North);Haji Rashed Bari;6;18;100;2;1;4;1;1;1;2;4;4;2;4;4;1;4;4;4;43
+Cumilla;23;12306003;11402306003;Joypur (North);Haji Bari;8;30;100;2;1;4;1;1;1;2;4;4;4;2;4;1;4;4;4;43
+Cumilla;23;12306004;11402306004;Joypur (North);Vhuiya Bari;80;300;100;2;1;4;1;1;1;4;4;4;4;2;4;1;4;4;4;45
+Cumilla;23;12306005;11402306005;Joypur (North);Sadek Miyar Bari;15;75;100;2;4;4;4;4;1;2;1;4;2;4;4;1;4;4;4;49
+Cumilla;23;12307001;11402307001;Changini (South);Notun Bari;7;35;30;2;2;4;1;1;1;2;4;4;3;4;4;2;4;4;4;46
+Cumilla;23;12307002;11402307002;Changini (South);Sordar Bari;40;200;100;2;2;4;1;1;1;2;4;3;3;4;4;1;4;4;4;44
+Cumilla;23;12307003;11402307003;Changini (South);Jharu Bari;20;90;100;2;2;4;1;1;1;2;4;4;3;4;4;4;4;4;4;48
+Cumilla;23;12308001;11402308001;Joypur (South);Hamid Bari;5;25;100;2;1;2;1;1;1;2;1;1;1;1;4;1;1;4;4;28
+Cumilla;23;12308002;11402308002;Joypur (South);Mannun Bari;12;60;100;2;1;2;2;1;1;1;1;2;2;1;4;2;2;1;3;28
+Cumilla;23;12308003;11402308003;Joypur (South);Smail Miyar Bari;16;75;150;2;1;2;1;1;2;1;1;2;1;2;2;2;2;1;3;26
+Cumilla;23;12308004;11402308004;Joypur (South);Hajez Amir Hossain Bari;8;42;100;1;1;2;1;1;1;1;1;1;1;1;2;1;2;1;2;20
+Cumilla;23;12308005;11402308005;Joypur (South);Member Bari;14;60;100;2;1;3;1;1;1;1;1;1;1;1;4;1;2;4;4;29
+Cumilla;24;12401001;11402401001;Salamanpur (South);Noyabari;90;530;40;3;2;4;1;1;2;1;2;4;4;2;4;2;4;4;4;44
+Cumilla;24;12401002;11402401002;Salamanpur (South);Dokkhin Para;50;350;150;2;1;4;1;1;2;1;4;3;1;3;4;2;4;4;4;41
+Cumilla;24;12401003;11402401003;Salamanpur (South);Murapara;150;750;150;3;2;4;1;1;2;4;4;4;3;3;4;2;4;4;4;49
+Cumilla;24;12401004;11402401004;Salamanpur (South);Khoilla Bari;25;115;130;3;2;4;1;1;3;4;3;3;3;3;4;3;4;4;4;49
+Cumilla;24;12401005;11402401005;Salamanpur (South);Gaine Bari;35;210;130;3;2;4;1;1;3;4;3;3;3;3;4;3;4;4;4;49
+Cumilla;24;12401006;11402401006;Salamanpur (South);Subedor Bari;30;141;120;3;2;4;1;1;2;1;3;4;2;2;4;2;4;4;4;43
+Cumilla;24;12402001;11402402001;Salamanpur (North);Arif Villa;7;28;50;2;1;4;4;1;2;1;3;4;4;2;4;2;4;4;4;46
+Cumilla;24;12402002;11402402002;Salamanpur (North);T.T.C. Purbopara;15;60;70;1;1;4;1;3;3;1;3;3;4;2;4;2;4;4;4;44
+Cumilla;24;12402003;11402402003;Salamanpur (North);Dighir Dokkhin Para;28;132;80;3;1;4;1;1;2;4;3;3;4;2;4;2;4;4;4;46
+Cumilla;24;12402004;11402402004;Salamanpur (North);Omo Ali Bari;30;180;70;3;1;4;1;3;3;4;3;3;4;2;4;2;4;4;4;49
+Cumilla;24;12402005;11402402005;Salamanpur (North);Khukon Doctor Bari;27;70;60;2;1;4;1;1;2;2;4;3;4;2;4;3;4;4;4;45
+Cumilla;24;12402006;11402402006;Salamanpur (North);Salmanpur Moddhom Para;50;237;90;3;2;4;1;1;2;4;4;3;4;2;4;3;4;4;4;49
+Cumilla;24;12403001;11402403001;South Baghmara & Phirojpur;Bhita Bari;10;28;50;3;2;4;3;2;3;4;4;3;3;3;4;3;4;4;4;53
+Cumilla;24;12403002;11402403002;South Baghmara & Phirojpur;Usman Hazi Bari;6;20;50;4;4;4;3;2;3;4;4;3;3;2;2;2;2;3;2;47
+Cumilla;24;12403003;11402403003;South Baghmara & Phirojpur;Dud Beparir Bari;10;50;90;4;3;4;3;3;2;3;3;3;4;2;4;3;4;4;4;53
+Cumilla;24;12403004;11402403004;South Baghmara & Phirojpur;Sahalom Bari;6;20;200;4;3;4;3;2;2;4;3;3;3;2;4;3;4;4;4;52
+Cumilla;24;12403005;11402403005;South Baghmara & Phirojpur;Charu Mistry;14;90;200;3;4;4;3;2;3;4;4;4;3;2;4;3;4;4;4;55
+Cumilla;24;12403006;11402403006;South Baghmara & Phirojpur;Tayjul Islam;7;21;100;4;3;4;3;2;2;3;3;4;3;2;4;3;4;4;4;52
+Cumilla;24;12403007;11402403007;South Baghmara & Phirojpur;Asmot Ali;15;70;100;4;3;4;3;2;2;3;3;4;3;2;4;3;4;4;4;52
+Cumilla;24;12403008;11402403008;South Baghmara & Phirojpur;Kamla Bari;200;350;50;1;1;4;1;1;3;4;4;3;4;2;4;3;4;4;4;47
+Cumilla;24;12403009;11402403009;South Baghmara & Phirojpur;Dorzi Bari;20;150;50;3;4;4;3;2;2;4;4;3;4;2;4;3;4;4;4;54
+Cumilla;24;12404001;11402404001;North Baghmara & Rampur;Amin Miya;6;28;20;4;2;4;3;1;3;3;2;3;3;2;2;2;2;1;2;39
+Cumilla;24;12404002;11402404002;North Baghmara & Rampur;Abdul Hakim;15;80;50;2;3;3;1;1;2;2;3;3;3;3;4;2;4;4;4;44
+Cumilla;24;12404003;11402404003;North Baghmara & Rampur;Pakhi Ar Boshoty;10;50;26;1;1;3;1;2;2;2;1;2;2;2;4;2;4;1;1;31
+Cumilla;24;12404004;11402404004;North Baghmara & Rampur;Ali Master Bari;10;50;25;1;1;3;1;3;3;1;3;2;3;2;2;1;2;1;2;31
+Cumilla;24;12405001;11402405001;Lalmi Mouza;Sohel Lal;5;28;25;1;1;3;1;2;1;1;1;2;2;3;2;1;1;1;2;25
+Cumilla;24;12405002;11402405002;Lalmi Mouza;Tripura Para;45;211;50;3;4;3;3;1;3;3;3;2;2;2;4;2;4;4;4;47
+Cumilla;25;12501001;11402501001;Laxipur (Loipura);Shourali Ar Boshoty;30;217;85;2;1;4;1;1;3;1;3;3;2;2;4;2;3;4;4;40
+Cumilla;25;12501002;11402501002;Laxipur (Loipura);Shofiq Maneger Ar Boshoty;12;62;75;2;1;4;1;1;2;1;2;3;3;2;4;2;4;4;4;40
+Cumilla;25;12501003;11402501003;Laxipur (Loipura);Dokkhin para;13;61;75;2;1;4;1;1;2;2;2;2;3;2;4;3;4;4;4;41
+Cumilla;25;12501004;11402501004;Laxipur (Loipura);Borobari Masjeed;5;24;40;2;3;4;1;1;2;2;2;3;3;3;4;2;4;4;4;44
+Cumilla;25;12502001;11402502001;Choto Dhormopur;Wahid Police Ar Boshoty;30;130;55;4;2;4;1;1;3;4;3;3;4;3;4;3;4;4;4;51
+Cumilla;25;12502002;11402502002;Choto Dhormopur;Grameen Tower;20;105;70;4;2;4;1;1;3;4;3;3;4;3;4;3;4;4;4;51
+Cumilla;25;12503001;11402503001;Doyapur;Abdul Samad ar Bpshoty;7;26;60;1;1;4;1;1;3;1;3;3;4;3;4;3;4;4;4;44
+Cumilla;25;12503002;11402503002;Doyapur;Rupok;20;102;60;1;3;4;1;1;2;4;3;3;3;3;4;2;4;4;4;46
+Cumilla;25;12503003;11402503003;Doyapur;Salam Ar Boshoty;35;150;60;3;2;4;1;1;3;4;3;3;4;3;4;3;4;4;4;50
+Cumilla;25;12503004;11402503004;Doyapur;Miru Miya Ar Boshoty;10;45;50;3;2;4;1;1;3;4;3;3;4;3;4;3;4;4;4;50
+Cumilla;25;12503005;11402503005;Doyapur;Sha Alom Ar Boshoty;5;27;45;2;1;4;1;1;2;3;2;2;2;2;4;2;4;4;4;40
+Cumilla;25;12504001;11402504001;Gram Chowara;Kholil Mazumder Ar Boshoty;30;151;70;1;1;4;1;1;1;1;2;3;4;3;4;1;4;4;4;39
+Cumilla;25;12504002;11402504002;Gram Chowara;Sumon Ar Boshoty;5;17;70;2;1;4;1;1;2;1;3;2;2;3;4;1;4;4;4;39
+Cumilla;25;12504003;11402504003;Gram Chowara;Mostafa Ar Boshoty;5;20;75;1;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;39
+Cumilla;25;12504004;11402504004;Gram Chowara;Chowdyri Para;30;150;80;1;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;42
+Cumilla;25;12504005;11402504005;Gram Chowara;Mosaraf Ar Boshoty;7;25;75;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Cumilla;25;12504006;11402504006;Gram Chowara;Uttor Para;15;80;70;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Cumilla;25;12504007;11402504007;Gram Chowara;Moddho Para;12;117;85;1;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;42
+Cumilla;25;12505001;11402505001;Kaliking Korpur (Kalinagar);Khorshed;30;181;75;1;1;4;1;1;3;1;3;2;3;2;4;2;4;4;4;40
+Cumilla;25;12505002;11402505002;Kaliking Korpur (Kalinagar);Rubi Coun Ar Boshoty;20;212;85;1;1;3;1;1;1;1;2;1;2;2;4;1;4;4;4;33
+Cumilla;25;12505003;11402505003;Kaliking Korpur (Kalinagar);Shopon Ar Boshoty;20;251;85;1;1;4;1;1;3;1;3;2;3;3;3;1;3;1;3;34
+Cumilla;25;12506001;11402506001;Dumuria;Jomiruddain Ar Boshoty;6;30;30;4;4;4;1;1;3;4;3;3;3;3;4;3;4;4;4;52
+Cumilla;25;12506002;11402506002;Dumuria;Johir Miya Ar Boshoty;20;90;60;2;4;4;1;1;3;4;3;3;3;3;4;3;4;4;4;50
+Cumilla;25;12506003;11402506003;Dumuria;Khokon Member Ar Boshoty;25;100;60;4;4;4;1;1;3;4;3;3;4;3;4;2;4;4;4;52
+Cumilla;25;12506004;11402506004;Dumuria;Sobhan Master Ar Boshoty;13;50;60;4;4;4;1;1;3;4;3;3;4;2;4;3;4;4;4;52
+Cumilla;25;12507001;11402507001;Tarapaia;Motaleb Chairman Ar Boshoty;10;45;50;3;4;4;1;1;3;3;3;3;4;3;4;2;4;4;4;50
+Cumilla;25;12507002;11402507002;Tarapaia;Ajad Ar Boshoty;13;50;50;2;4;4;1;1;2;4;3;3;4;3;4;3;4;4;4;50
+Cumilla;25;12507003;11402507003;Tarapaia;Masjeeder Shamner Boshoty;10;40;50;3;4;4;1;1;3;4;3;3;4;3;4;3;4;4;4;52
+Cumilla;26;12601001;11402601001;Dhonopur & Changini;Sordar Bari;37;150;75;2;2;4;1;1;2;1;2;1;1;3;4;2;4;4;4;38
+Cumilla;26;12601002;11402601002;Dhonopur & Changini;East Para;20;87;77;1;2;2;1;1;2;2;3;1;2;3;3;1;3;2;3;32
+Cumilla;26;12601003;11402601003;Dhonopur & Changini;Jamal Mia Bari;17;72;60;1;2;2;1;1;2;3;2;1;1;2;2;1;2;1;3;27
+Cumilla;26;12601004;11402601004;Dhonopur & Changini;South Para;37;150;75;2;2;3;1;1;2;2;2;1;1;3;3;3;2;1;3;32
+Cumilla;26;12602001;11402602001;Moheshpur & Rajendrapur;Poira Bari;10;44;57;2;3;4;1;1;2;4;2;3;3;3;4;2;4;4;4;46
+Cumilla;26;12602002;11402602002;Moheshpur & Rajendrapur;Kalamia Bari;10;47;71;1;2;3;2;2;1;2;3;3;4;3;1;2;4;4;4;41
+Cumilla;26;12602003;11402602003;Moheshpur & Rajendrapur;Vandari Bari;40;167;70;2;2;4;1;1;3;4;3;3;3;2;4;2;4;4;4;46
+Cumilla;26;12602004;11402602004;Moheshpur & Rajendrapur;Sordar Bari;40;170;70;1;1;4;1;1;2;1;2;1;1;3;4;1;4;4;4;35
+Cumilla;26;12602005;11402602005;Moheshpur & Rajendrapur;Masuk Miya Bari;29;127;70;1;1;4;1;1;2;2;3;2;2;3;4;2;4;4;4;40
+Cumilla;26;12602006;11402602006;Moheshpur & Rajendrapur;Gaini Bari;25;130;65;2;1;4;1;1;3;4;3;1;1;3;4;2;4;4;4;42
+Cumilla;26;12602007;11402602007;Moheshpur & Rajendrapur;Sardar Bari;25;120;77;3;3;4;1;1;3;3;3;2;2;3;4;2;4;4;4;46
+Cumilla;26;12603001;11402603001;Goalmothon & Kalikapur;Motaleb Miyar Bari;27;125;59;1;1;4;1;1;2;2;2;2;2;3;4;2;4;4;4;39
+Cumilla;26;12603002;11402603002;Goalmothon & Kalikapur;Torof Miya Bari;25;120;70;1;1;4;1;1;3;2;3;2;2;3;4;2;4;4;4;41
+Cumilla;26;12603003;11402603003;Goalmothon & Kalikapur;Vandari Bari;17;80;43;1;1;4;1;1;2;2;3;2;2;3;4;2;4;4;4;40
+Cumilla;26;12603004;11402603004;Goalmothon & Kalikapur;Patre Bari;6;25;30;2;1;4;1;1;3;2;3;2;2;3;4;2;4;4;4;42
+Cumilla;26;12603005;11402603005;Goalmothon & Kalikapur;Rohim Ali Bari;17;90;47;1;3;4;1;1;2;2;3;2;2;3;4;2;4;4;4;42
+Cumilla;26;12604001;11402604001;Bollovpur;Korban Ali Bari;20;92;30;2;1;4;1;1;1;1;2;3;3;3;4;1;4;4;4;39
+Cumilla;26;12604002;11402604002;Bollovpur;Roshid Driver Bari;37;170;35;2;1;4;1;1;1;1;2;2;2;4;4;1;4;4;4;38
+Cumilla;26;12604003;11402604003;Bollovpur;Hindu Para;22;105;49;1;3;4;1;1;2;2;3;2;2;3;4;1;4;4;4;41
+Cumilla;26;12604004;11402604004;Bollovpur;Milon Miya Bari;6;23;47;1;1;4;1;1;1;1;3;1;1;3;4;1;4;4;4;35
+Cumilla;26;12605001;11402605001;Boubondh;Maler Bari;20;110;70;2;3;3;1;3;4;4;2;4;3;2;3;2;3;3;3;45
+Cumilla;26;12605002;11402605002;Boubondh;Nasir Doctor Ar Bari;15;65;72;2;2;3;2;2;2;1;3;1;2;3;4;2;3;4;4;40
+Cumilla;26;12606001;11402606001;Dholeshar;Noabari;20;87;77;2;3;2;2;2;3;1;1;2;2;2;3;1;2;3;3;34
+Cumilla;26;12606002;11402606002;Dholeshar;Khandoker Bari;22;100;75;2;4;3;2;2;4;2;3;3;3;1;4;2;4;4;4;47
+Cumilla;26;12606003;11402606003;Dholeshar;School Bari;10;50;75;1;3;4;2;3;4;2;3;1;1;3;4;2;4;4;4;45
+Cumilla;26;12606004;11402606004;Dholeshar;West Para;12;40;70;2;1;3;4;3;2;2;3;3;3;2;4;3;4;4;4;47
+Cumilla;27;12701001;11402701001;Raypur;Ismail Patwary;7;35;35;2;1;4;1;1;1;2;3;3;3;4;4;1;4;4;4;42
+Cumilla;27;12701002;11402701002;Raypur;Ali Asraf;10;50;30;2;2;4;1;1;2;2;3;3;3;4;4;1;4;4;4;44
+Cumilla;27;12701003;11402701003;Raypur;Ohid Miya;10;45;35;2;2;4;1;1;1;2;2;3;3;4;4;4;4;4;4;45
+Cumilla;27;12701004;11402701004;Raypur;Mojibur Rahman;6;30;25;2;2;4;1;1;1;2;3;3;3;4;4;4;4;4;4;46
+Cumilla;27;12701005;11402701005;Raypur;Dudu Miyar Bari;12;55;35;2;2;4;1;1;1;1;2;2;2;4;4;4;4;4;4;42
+Cumilla;27;12701006;11402701006;Raypur;Razzak Miyar Bari;10;52;35;2;2;4;1;1;1;1;2;2;2;4;4;1;4;4;4;39
+Cumilla;27;12702001;11402702001;Shawratoli;Khan Bari;15;75;40;2;2;4;1;1;1;2;1;2;2;4;4;1;4;4;4;39
+Cumilla;27;12703001;11402703001;Pathankut;Tajul Islam;40;180;45;2;2;4;1;1;1;2;2;3;3;3;4;1;4;4;4;41
+Cumilla;27;12703002;11402703002;Pathankut;Abdul Rajjak;25;120;70;1;1;4;1;2;2;2;2;3;3;3;4;1;4;4;4;41
+Cumilla;27;12703003;11402703003;Pathankut;Manik Miya;45;200;60;1;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;42
+Cumilla;27;12704001;11402704001;Ullurchar;Kala Haji Bari;50;230;50;2;1;4;1;1;3;2;4;3;3;4;4;2;4;4;4;46
+Cumilla;27;12704002;11402704002;Ullurchar;Miker Shakantor Bari;22;100;30;2;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;43
+Cumilla;27;12704003;11402704003;Ullurchar;Nurol Islam;40;185;70;2;1;4;1;2;2;2;3;3;3;3;4;2;4;4;4;44
+Cumilla;27;12704004;11402704004;Ullurchar;Maulana Lutput Rhaman;60;270;50;2;2;4;2;2;2;2;2;3;3;4;4;2;4;4;4;46
+Cumilla;27;12705001;11402705001;Matiara;Megi Bari;60;300;50;3;1;4;1;1;2;3;3;1;1;3;4;2;3;4;4;40
+Cumilla;27;12705002;11402705002;Matiara;Sevo Sir;100;500;60;2;1;3;1;1;2;3;3;3;3;3;4;2;4;4;4;43
+Cumilla;27;12705003;11402705003;Matiara;Sarkar Bari;150;700;70;2;1;4;1;1;3;3;3;3;3;3;4;2;4;4;4;45
+Cumilla;27;12705004;11402705004;Matiara;Katiq Pal;100;480;30;2;1;3;1;1;1;2;3;2;2;4;4;1;4;4;4;39
+Cumilla;27;12706001;11402706001;Noagram;Asalot Mia;40;180;60;2;1;3;1;1;3;1;3;1;1;3;3;4;4;4;4;39
+Cumilla;27;12706002;11402706002;Noagram;Babuler Bari;45;200;70;2;1;3;1;1;2;1;3;1;1;3;4;4;3;4;4;38
+Cumilla;27;12706003;11402706003;Noagram;Forid Miyar Bari;50;240;35;2;1;3;1;1;1;1;3;1;2;1;4;4;3;4;4;36
+Cumilla;27;12707001;11402707001;Lokhipur;Rammaniko;50;230;20;1;1;4;1;1;1;3;1;3;3;3;4;1;4;4;4;39
+Cumilla;27;12707002;11402707002;Lokhipur;Faruk Sardar;70;320;50;1;1;3;1;1;3;3;3;3;3;3;4;2;4;4;4;43
+Cumilla;27;12707003;11402707003;Lokhipur;Yasin Miya;40;180;50;1;1;3;1;1;2;2;3;3;3;3;4;2;4;4;4;41
+Cumilla;27;12708001;11402708001;Dhuraitori;Uttor Dhuratori;35;160;70;2;3;3;1;1;3;3;3;3;3;3;4;2;4;4;4;46
+Cumilla;27;12708002;11402708002;Dhuraitori;Moddhom Dhuraitori;40;180;80;2;3;3;1;1;3;3;3;3;3;3;4;2;4;4;4;46
+Cumilla;27;12708003;11402708003;Dhuraitori;South Dhuraitori;60;290;70;2;1;4;3;2;2;3;1;3;3;3;4;2;3;4;4;44
+Cumilla;27;12709001;11402709001;Komlapur;Komolapur Uttor;60;260;50;2;1;4;1;1;2;1;3;1;3;3;4;2;4;4;4;40
+Cumilla;27;12709002;11402709002;Komlapur;Dokkhin Komalpur;120;540;80;2;1;3;1;1;3;3;3;1;1;3;4;2;3;4;4;39

@@ -1,0 +1,266 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "550px");
+
+
+        var _select2_script_html = '<script> \
+        function loadSelect2() { \
+            $(".select").select2(); \
+        }\
+        window.onload = loadSelect2;' + '<' + '/' + 'script>';
+
+
+        var vawgefm_reduction_initiatives_html = '<div class="row-fluid clearfix vawgefm_reduction_initiatives-formset-container"> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="vawgefm_reduction_initiatives-0-name_of_issue" style="width: 550px;">Name of the issue  </label> <div class="controls"><select class="select2 required" data-prefix="vawgefm_reduction_initiatives-0-" id="id_vawgefm_reduction_initiatives-0-name_of_issue" name="vawgefm_reduction_initiatives-0-name_of_issue" required=""> <option value="" selected="selected">Select One</option> <option value="Awareness Raising">Awareness Raising</option> <option value="Referral mechanism">Referral mechanism</option> <option value="Advocacy and Networking">Advocacy and Networking</option> <option value="Local Arbitration">Local Arbitration</option> <option value="Other">Other</option> </select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="vawgefm_reduction_initiatives-0-name_of_issue"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="vawgefm_reduction_initiatives-0-explanation_regarding_issue" style="width: 550px;">Explanation  </label> <div class="controls"><textarea class="required" cols="40" data-prefix="vawgefm_reduction_initiatives-0-" id="id_vawgefm_reduction_initiatives-0-explanation_regarding_issue" maxlength="128" name="vawgefm_reduction_initiatives-0-explanation_regarding_issue" rows="10" required=""></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="vawgefm_reduction_initiatives-0-explanation_regarding_issue"></span> </div></div><input id="id_vawgefm_reduction_initiatives-0-id" name="vawgefm_reduction_initiatives-0-id" type="hidden"> <input id="id_vawgefm_reduction_initiatives-0-step" name="vawgefm_reduction_initiatives-0-step" type="hidden"> <input id="id_vawgefm_reduction_initiatives-0-total_steps" name="vawgefm_reduction_initiatives-0-total_steps" type="hidden"> </div></div><div id="id_child_vawgefm_reduction_initiatives-0-attachment"> <h6 class="header blue h6-text">Attachment</h6> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="vawgefm_reduction_initiatives-0-attachment-file" style="width: 550px;">File </label> <div class="controls"><input data-prefix="vawgefm_reduction_initiatives-0-attachment-" id="id_vawgefm_reduction_initiatives-0-attachment-file" name="vawgefm_reduction_initiatives-0-attachment-file" type="file"> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="vawgefm_reduction_initiatives-0-attachment-file"></span> </div></div><input id="id_vawgefm_reduction_initiatives-0-attachment-description" name="vawgefm_reduction_initiatives-0-attachment-description" type="hidden"> <input id="id_vawgefm_reduction_initiatives-0-attachment-id" name="vawgefm_reduction_initiatives-0-attachment-id" type="hidden"> <input id="id_vawgefm_reduction_initiatives-0-attachment-step" name="vawgefm_reduction_initiatives-0-attachment-step" type="hidden"> <input id="id_vawgefm_reduction_initiatives-0-attachment-total_steps" name="vawgefm_reduction_initiatives-0-attachment-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="vawgefm_reduction_initiatives" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+        var safety_security_initiatives_html = '<div class="row-fluid clearfix safety_security_initiatives-formset-container"> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="safety_security_initiatives-0-name_of_issue" style="width: 550px;">Name of the issue  </label> <div class="controls"><select class="select2 required" data-prefix="safety_security_initiatives-0-" id="id_safety_security_initiatives-0-name_of_issue" name="safety_security_initiatives-0-name_of_issue" required=""><option value="" selected="selected">Select One</option><option value="Awareness Raising">Awareness Raising</option><option value="Advocacy and Networking">Advocacy and Networking</option><option value="Other">Other</option></select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="safety_security_initiatives-0-name_of_issue"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="safety_security_initiatives-0-explanation_regarding_issue" style="width: 550px;">Explanation  </label> <div class="controls"><textarea class="required" cols="40" data-prefix="safety_security_initiatives-0-" id="id_safety_security_initiatives-0-explanation_regarding_issue" maxlength="128" name="safety_security_initiatives-0-explanation_regarding_issue" rows="10" required=""></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="safety_security_initiatives-0-explanation_regarding_issue"></span> </div></div><input id="id_safety_security_initiatives-0-id" name="safety_security_initiatives-0-id" type="hidden"> <input id="id_safety_security_initiatives-0-step" name="safety_security_initiatives-0-step" type="hidden"> <input id="id_safety_security_initiatives-0-total_steps" name="safety_security_initiatives-0-total_steps" type="hidden"> </div></div><div id="id_child_safety_security_initiatives-0-attachment"> <h6 class="header blue h6-text">Attachment</h6> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="safety_security_initiatives-0-attachment-file" style="width: 550px;">File </label> <div class="controls"><input data-prefix="safety_security_initiatives-0-attachment-" id="id_safety_security_initiatives-0-attachment-file" name="safety_security_initiatives-0-attachment-file" type="file"> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="safety_security_initiatives-0-attachment-file"></span> </div></div><input id="id_safety_security_initiatives-0-attachment-description" name="safety_security_initiatives-0-attachment-description" type="hidden"> <input id="id_safety_security_initiatives-0-attachment-id" name="safety_security_initiatives-0-attachment-id" type="hidden"> <input id="id_safety_security_initiatives-0-attachment-step" name="safety_security_initiatives-0-attachment-step" type="hidden"> <input id="id_safety_security_initiatives-0-attachment-total_steps" name="safety_security_initiatives-0-attachment-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="safety_security_initiatives" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+        var awareness_raising_by_sccs_html = '<div class="row-fluid clearfix awareness_raising_by_sccs-formset-container"> <div class="col-sm-12 fbx-content-shop"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-campaign_date" style="width: 550px;">Date  </label> <div class="controls input-append date datetimepicker"> <input class="date-time-picker required" data-format="dd/MM/yyyy" id="id_awareness_raising_by_sccs-0-campaign_date" name="awareness_raising_by_sccs-0-campaign_date" readonly="True" type="text" required=""> <span class="add-on"> <i data-time-icon="icon-time" data-date-icon="icon-calendar" style="display: inline-block"></i> </span> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-campaign_date"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-activity_name" style="width: 550px;">Name of activity  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-activity_name" maxlength="128" name="awareness_raising_by_sccs-0-activity_name" type="text" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-activity_name"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-campaign_location_city" style="width: 550px;">Campaign city  </label> <div class="controls"> <select class="select2 required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-campaign_location_city" name="awareness_raising_by_sccs-0-campaign_location_city" width="220" required=""> <option value="" selected="selected">Select One</option> <option value="7933">Kushtia</option> <option value="2104">Chandpur</option> <option value="7826">Chittagong city corporation</option> <option value="2871">Mymensingh</option> <option value="9">Narayanganj</option> <option value="7831">010</option> <option value="7834">Sylhet City Corporation</option> <option value="7893">DNCC</option> <option value="3946">Khulna</option> <option value="7785">Dhaka North</option> <option value="6143">Barisal</option> </select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-campaign_location_city"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-campaign_location_ward" style="width: 550px;">Campaign location (word)  </label> <div class="controls"><input class="select2-input required" data-depends-on="campaign_location_city" data-depends-property="parent:id" data-prefix="awareness_raising_by_sccs-0-" data-url="/en/geography/?format=json&amp;search=1&amp;disable_pagination=1&amp;sort=name" id="id_awareness_raising_by_sccs-0-campaign_location_ward" name="awareness_raising_by_sccs-0-campaign_location_ward" type="text" width="220" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-campaign_location_ward"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_female_attending" style="width: 550px;">Number of female attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_female_attending" name="awareness_raising_by_sccs-0-number_of_female_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_female_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_male_attending" style="width: 550px;">Number of male attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_male_attending" name="awareness_raising_by_sccs-0-number_of_male_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_male_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_transgender_attending" style="width: 550px;">Number of transgender attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_transgender_attending" name="awareness_raising_by_sccs-0-number_of_transgender_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_transgender_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_pg_member_attending" style="width: 550px;">Number of PG member attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_pg_member_attending" name="awareness_raising_by_sccs-0-number_of_pg_member_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_pg_member_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_non_pg_member_attending" style="width: 550px;">Number of Non-PG member attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_non_pg_member_attending" name="awareness_raising_by_sccs-0-number_of_non_pg_member_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_non_pg_member_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-number_of_lgi_member_attending" style="width: 550px;">Number of LGI member attending  </label> <div class="controls"><input class="required" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-number_of_lgi_member_attending" name="awareness_raising_by_sccs-0-number_of_lgi_member_attending" type="number" value="0" required=""> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-number_of_lgi_member_attending"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-campaign_key_messages" style="width: 550px;">What were the key messages?  </label> <div class="controls"><textarea class="required" cols="40" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-campaign_key_messages" maxlength="2048" name="awareness_raising_by_sccs-0-campaign_key_messages" rows="10" required=""></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-campaign_key_messages"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-name_of_usage_method" style="width: 550px;">What method was used?  </label> <div class="controls"><textarea class="required" cols="40" data-prefix="awareness_raising_by_sccs-0-" id="id_awareness_raising_by_sccs-0-name_of_usage_method" maxlength="128" name="awareness_raising_by_sccs-0-name_of_usage_method" rows="10" required=""></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-name_of_usage_method"></span> </div></div><input id="id_awareness_raising_by_sccs-0-id" name="awareness_raising_by_sccs-0-id" type="hidden"> <input id="id_awareness_raising_by_sccs-0-step" name="awareness_raising_by_sccs-0-step" type="hidden"> <input id="id_awareness_raising_by_sccs-0-total_steps" name="awareness_raising_by_sccs-0-total_steps" type="hidden"> </div></div><div id="id_child_awareness_raising_by_sccs-0-attachment"> <h6 class="header blue h6-text">Attachment</h6> <div class="col-sm-12 fbx-content-shop"> <div class="fbz-product-content-left"> <div class="control-group"> <label class="col-md-6 control-label" for="awareness_raising_by_sccs-0-attachment-file" style="width: 550px;">File </label> <div class="controls"><input data-prefix="awareness_raising_by_sccs-0-attachment-" id="id_awareness_raising_by_sccs-0-attachment-file" name="awareness_raising_by_sccs-0-attachment-file" type="file"> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="awareness_raising_by_sccs-0-attachment-file"></span> </div></div><input id="id_awareness_raising_by_sccs-0-attachment-description" name="awareness_raising_by_sccs-0-attachment-description" type="hidden"> <input id="id_awareness_raising_by_sccs-0-attachment-id" name="awareness_raising_by_sccs-0-attachment-id" type="hidden"> <input id="id_awareness_raising_by_sccs-0-attachment-step" name="awareness_raising_by_sccs-0-attachment-step" type="hidden"> <input id="id_awareness_raising_by_sccs-0-attachment-total_steps" name="awareness_raising_by_sccs-0-attachment-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="awareness_raising_by_sccs" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+        var initial_explored_partnership_html = '<div class="row-fluid clearfix explored_partnerships-formset-container"> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="explored_partnerships-0-date_of_partnership" style="width: 550px;">Date </label> <div class="controls input-append date datetimepicker"> <input class="date-time-picker" data-format="dd/MM/yyyy" id="id_explored_partnerships-0-date_of_partnership" name="explored_partnerships-0-date_of_partnership" readonly="True" type="text" value="18/02/2019"> <span class="add-on"> <i data-time-icon="icon-time" data-date-icon="icon-calendar" style="display: inline-block" class="icon-calendar"></i> </span> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="explored_partnerships-0-date_of_partnership"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="explored_partnerships-0-is_partnerships_explored" style="width: 550px;">Partnerships explored (e.g. through meetings, letters etc)  </label> <div class="controls"><select class="select2 required valid" data-prefix="explored_partnerships-0-" id="id_explored_partnerships-0-is_partnerships_explored" name="explored_partnerships-0-is_partnerships_explored" required="" title="" style="width: 220px;"><option value="">Select One</option><option value="Yes">Yes</option><option value="No" selected="selected">No</option></select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="explored_partnerships-0-is_partnerships_explored"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="explored_partnerships-0-with_which_organisation" style="width: 550px;">With which organisation? </label> <div class="controls"><textarea cols="40" data-prefix="explored_partnerships-0-" id="id_explored_partnerships-0-with_which_organisation" maxlength="128" name="explored_partnerships-0-with_which_organisation" rows="10">Autem eiusmod voluptatem non eius facilis voluptatum aliquam</textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="explored_partnerships-0-with_which_organisation"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="explored_partnerships-0-partnership_related_to_what" style="width: 550px;">Partnership related to what? </label> <div class="controls"><textarea cols="40" data-prefix="explored_partnerships-0-" id="id_explored_partnerships-0-partnership_related_to_what" maxlength="128" name="explored_partnerships-0-partnership_related_to_what" rows="10">Quo ab molestiae ut in sint nostrud animi maxime omnis quis quasi eum et rerum velit minima similique</textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="explored_partnerships-0-partnership_related_to_what"></span> </div></div><input id="id_explored_partnerships-0-id" name="explored_partnerships-0-id" type="hidden" value="20"> <input id="id_explored_partnerships-0-step" name="explored_partnerships-0-step" type="hidden"> <input id="id_explored_partnerships-0-total_steps" name="explored_partnerships-0-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="explored_partnerships" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+        var initial_agreed_partnership_html = '<div class="row-fluid clearfix agreed_partnerships-formset-container"> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="agreed_partnerships-0-date_of_agreement" style="width: 550px;">Date </label> <div class="controls input-append date datetimepicker"> <input class="date-time-picker" data-format="dd/MM/yyyy" id="id_agreed_partnerships-0-date_of_agreement" name="agreed_partnerships-0-date_of_agreement" readonly="True" type="text"> <span class="add-on"> <i data-time-icon="icon-time" data-date-icon="icon-calendar" style="display: inline-block" class="icon-calendar"></i> </span> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="agreed_partnerships-0-date_of_agreement"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="agreed_partnerships-0-is_agreed_partnership" style="width: 550px;">Partnerships agreed?  </label> <div class="controls"><select class="select2 required" data-prefix="agreed_partnerships-0-" id="id_agreed_partnerships-0-is_agreed_partnership" name="agreed_partnerships-0-is_agreed_partnership" required="" title="" style="width: 220px;"><option value="">Select One</option><option value="Yes">Yes</option><option value="No" selected="selected">No</option></select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="agreed_partnerships-0-is_agreed_partnership"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="agreed_partnerships-0-with_which_organisation" style="width: 550px;">With which organisation? </label> <div class="controls"><textarea cols="40" data-prefix="agreed_partnerships-0-" id="id_agreed_partnerships-0-with_which_organisation" maxlength="128" name="agreed_partnerships-0-with_which_organisation" rows="10"></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="agreed_partnerships-0-with_which_organisation"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="agreed_partnerships-0-duration_of_agreement" style="width: 550px;">Duration of agreement? </label> <div class="controls"><input data-prefix="agreed_partnerships-0-" id="id_agreed_partnerships-0-duration_of_agreement" maxlength="1028" name="agreed_partnerships-0-duration_of_agreement" type="text"> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="agreed_partnerships-0-duration_of_agreement"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="agreed_partnerships-0-partnership_related_to_what" style="width: 550px;">Partnership related to what? </label> <div class="controls"><textarea cols="40" data-prefix="agreed_partnerships-0-" id="id_agreed_partnerships-0-partnership_related_to_what" maxlength="128" name="agreed_partnerships-0-partnership_related_to_what" rows="10"></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="agreed_partnerships-0-partnership_related_to_what"></span> </div></div><input id="id_agreed_partnerships-0-id" name="agreed_partnerships-0-id" type="hidden" value="19"> <input id="id_agreed_partnerships-0-step" name="agreed_partnerships-0-step" type="hidden"> <input id="id_agreed_partnerships-0-total_steps" name="agreed_partnerships-0-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="agreed_partnerships" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+        var initial_conducted_partnership_activities_html = '<div class="row-fluid clearfix activities_of_partnerships-formset-container"> <div class="col-sm-12 fbx-content-shop" style="padding-top: 0px;"> <div class="fbz-product-content-left"> <div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="activities_of_partnerships-0-date_of_activity" style="width: 550px;">Date of activity </label> <div class="controls input-append date datetimepicker"> <input class="date-time-picker" data-format="dd/MM/yyyy" id="id_activities_of_partnerships-0-date_of_activity" name="activities_of_partnerships-0-date_of_activity" readonly="True" type="text"> <span class="add-on"> <i data-time-icon="icon-time" data-date-icon="icon-calendar" style="display: inline-block" class="icon-calendar"></i> </span> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="activities_of_partnerships-0-date_of_activity"></span> </div></div><div class="control-group"> <label class="col-md-6 control-label" for="activities_of_partnerships-0-conducted_partnership_activities" style="width: 550px;">Partnership activities conducted?  </label> <div class="controls"><select class="select2 required" data-prefix="activities_of_partnerships-0-" id="id_activities_of_partnerships-0-conducted_partnership_activities" name="activities_of_partnerships-0-conducted_partnership_activities" required="" title="" style="width: 220px;"><option value="" selected="selected">Select One</option><option value="Yes">Yes</option><option value="No">No</option></select> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="activities_of_partnerships-0-conducted_partnership_activities"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="activities_of_partnerships-0-with_which_organisation" style="width: 550px;">With which organisation? </label> <div class="controls"><textarea cols="40" data-prefix="activities_of_partnerships-0-" id="id_activities_of_partnerships-0-with_which_organisation" maxlength="128" name="activities_of_partnerships-0-with_which_organisation" rows="10"></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="activities_of_partnerships-0-with_which_organisation"></span> </div></div><div class="control-group" style="display: none;"> <label class="col-md-6 control-label" for="activities_of_partnerships-0-explanation_of_the_activity" style="width: 550px;">Explanation of the activity </label> <div class="controls"><textarea cols="40" data-prefix="activities_of_partnerships-0-" id="id_activities_of_partnerships-0-explanation_of_the_activity" maxlength="1028" name="activities_of_partnerships-0-explanation_of_the_activity" rows="10"></textarea> <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="activities_of_partnerships-0-explanation_of_the_activity"></span> </div></div><input id="id_activities_of_partnerships-0-id" name="activities_of_partnerships-0-id" type="hidden"> <input id="id_activities_of_partnerships-0-step" name="activities_of_partnerships-0-step" type="hidden"> <input id="id_activities_of_partnerships-0-total_steps" name="activities_of_partnerships-0-total_steps" type="hidden"> </div></div>' + _select2_script_html + '<div class="span2"> <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right" data-prefix="activities_of_partnerships" type="button" style="margin-right: 67px; display: none;"> </button> </div></div>';
+
+
+        var show_form_border = function () {
+            $('.vawgefm_reduction_initiatives-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+            $('.safety_security_initiatives-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+            $('.awareness_raising_by_sccs-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px',
+                    'padding-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+            $('.explored_partnerships-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px',
+                    'padding-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+            $('.agreed_partnerships-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px',
+                    'padding-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+            $('.activities_of_partnerships-formset-container:not(:first)').each(function () {
+                $(this).css({
+                    'border-top': '3px solid #ccc',
+                    'margin-top': '10px',
+                    'padding-top': '10px'
+                });
+                $(this).find(".fbx-content-shop").css({'padding-top': '10px'});
+            });
+        };
+
+
+        // show/hide partnership explored
+        var hide_partnership_fields = function (id_partnership_with_others) {
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').hide();
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_partnership']")).parents('.control-group').hide();
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-partnership_related_to_what']")).parents('.control-group').hide();
+        };
+
+        var show_partnership_fields = function (id_partnership_with_others) {
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').show();
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_partnership']")).parents('.control-group').show();
+            $(id_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-partnership_related_to_what']")).parents('.control-group').show();
+        };
+
+
+        // show/hide agreed partnership
+
+        var hide_agreed_partnership_fields = function (id_agreed_partnership_with_others) {
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').hide();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_agreement']")).parents('.control-group').hide();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-duration_of_agreement']")).parents('.control-group').hide();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-partnership_related_to_what']")).parents('.control-group').hide();
+        };
+
+        var show_agreed_partnership_fields = function (id_agreed_partnership_with_others) {
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').show();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_agreement']")).parents('.control-group').show();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-duration_of_agreement']")).parents('.control-group').show();
+            $(id_agreed_partnership_with_others).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-partnership_related_to_what']")).parents('.control-group').show();
+        };
+
+        // show/hide activities of partnership
+
+        var hide_conducted_partnership_activities_fields = function (id_partnership_activities_fields_) {
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').hide();
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_activity']")).parents('.control-group').hide();
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-explanation_of_the_activity']")).parents('.control-group').hide();
+        };
+
+        var show_conducted_partnership_activities_fields = function (id_partnership_activities_fields_) {
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-with_which_organisation']")).parents('.control-group').show();
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-date_of_activity']")).parents('.control-group').show();
+            $(id_partnership_activities_fields_).closest('.fbz-product-content-left').find('div.controls').children(("[id$='-explanation_of_the_activity']")).parents('.control-group').show();
+        };
+
+        function showHideActivitySpecification() {
+            $("select[id$='activity_name']").each(function () {
+                if ($(this).val() === 'Others (Specify)')
+                    $(this).closest('.control-group').next().show();
+                else
+                    $(this).closest('.control-group').next().hide();
+            });
+        }
+
+        $(function () {
+            show_form_border();
+            showHideActivitySpecification();
+
+            $("select[id$='is_partnerships_explored']").each(function () {
+                var partnership_with_others = $(this).val();
+                if (partnership_with_others === 'No' || partnership_with_others === '') {
+                    hide_partnership_fields(this)
+                }
+            });
+
+            $("select[id$='is_agreed_partnership']").each(function () {
+                var agreed_partnership = $(this).val();
+                if (agreed_partnership === 'No' || agreed_partnership === '') {
+                    hide_agreed_partnership_fields(this)
+                }
+            });
+
+            $("select[id$='conducted_partnership_activities']").each(function () {
+                var conducted_partnership_activities = $(this).val();
+                if (conducted_partnership_activities === 'No' || conducted_partnership_activities === '') {
+                    hide_conducted_partnership_activities_fields(this)
+                }
+            });
+
+            $(document).on('click', '.btn-inline-addmore', function () {
+                show_form_border();
+                showHideActivitySpecification();
+
+                $("select[id$='is_partnerships_explored']").each(function () {
+                    var partnership_with_others = $(this).val();
+                    if (partnership_with_others === 'No' || partnership_with_others === '') {
+                        hide_partnership_fields(this)
+                    }
+                });
+
+                $("select[id$='is_agreed_partnership']").each(function () {
+                    var agreed_partnership = $(this).val();
+                    if (agreed_partnership === 'No' || agreed_partnership === '') {
+                        hide_agreed_partnership_fields(this)
+                    }
+                });
+
+                $("select[id$='conducted_partnership_activities']").each(function () {
+                    var conducted_partnership_activities = $(this).val();
+                    if (conducted_partnership_activities === 'No' || conducted_partnership_activities === '') {
+                        hide_conducted_partnership_activities_fields(this)
+                    }
+                });
+
+            });
+            // Update formsetDict so that child form with hidden fields will render in add more button click
+            for (var i = 0; i < formsetDict.length; i++) {
+                if (formsetDict[i].prefix === "explored_partnerships") {
+                    // formsetDict[i].html = initial_explored_partnership_html;
+                } else if (formsetDict[i].prefix === "agreed_partnerships") {
+                    // formsetDict[i].html = initial_agreed_partnership_html;
+                } else if (formsetDict[i].prefix === "activities_of_partnerships") {
+                    // formsetDict[i].html = initial_conducted_partnership_activities_html;
+                } else if (formsetDict[i].prefix === "vawgefm_reduction_initiatives") {
+                    // formsetDict[i].html = vawgefm_reduction_initiatives_html;
+                } else if (formsetDict[i].prefix === "safety_security_initiatives") {
+                    // formsetDict[i].html = safety_security_initiatives_html;
+                } else if (formsetDict[i].prefix === "awareness_raising_by_sccs") {
+                    // formsetDict[i].html = awareness_raising_by_sccs_html;
+                }
+            }
+        });
+
+        $('#partnership_between_nuprp___others').on('change', "select[id$='is_partnerships_explored']", function () {
+            var partnership_with_others = $(this).val();
+            if (partnership_with_others === 'Yes') {
+                show_partnership_fields(this)
+            } else {
+                hide_partnership_fields(this);
+            }
+        });
+
+        $('#partnership_between_nuprp___others').on('change', "select[id$='is_agreed_partnership']", function () {
+            var agreed_partnership = $(this).val();
+            if (agreed_partnership === 'Yes') {
+                show_agreed_partnership_fields(this);
+            } else {
+                hide_agreed_partnership_fields(this);
+            }
+        });
+
+        $('#partnership_between_nuprp___others').on('change', "select[id$='conducted_partnership_activities']", function () {
+            var conducted_partnership_activities = $(this).val();
+            if (conducted_partnership_activities === 'Yes') {
+                show_conducted_partnership_activities_fields(this);
+            } else {
+                hide_conducted_partnership_activities_fields(this);
+            }
+        });
+
+        $('#create_form').on('change', "select[id$='activity_name']", function () {
+            if ($(this).val() === 'Others (Specify)')
+                $(this).closest('.control-group').next().show();
+            else
+                $(this).closest('.control-group').next().hide();
+        });
+
+        $('#id_number_of_male, #id_number_of_female, #id_number_of_transsexual').change(function () {
+            var number_of_male = parseFloat($('#id_number_of_male').val());
+            var number_of_female = parseFloat($('#id_number_of_female').val());
+            var number_of_transsexual = parseFloat($('#id_number_of_transsexual').val());
+            var tot_number_of_people = number_of_male + number_of_female + number_of_transsexual;
+            $('#id_total_number_of_people').val(tot_number_of_people).trigger('change');
+        });
+
+        $('#id_function_of_scc-number_of_male, #id_function_of_scc-number_of_female, #id_function_of_scc-number_of_transsexual').change(function () {
+            var number_of_male = parseFloat($('#id_function_of_scc-number_of_male').val());
+            var number_of_female = parseFloat($('#id_function_of_scc-number_of_female').val());
+            var number_of_transsexual = parseFloat($('#id_function_of_scc-number_of_transsexual').val());
+            var tot_number_of_people = number_of_male + number_of_female + number_of_transsexual;
+            $('#id_function_of_scc-number_of_participants').val(tot_number_of_people).trigger('change');
+        });
+
+        //show/hide a field based on the value of other field
+        function showOthers(show, $selector) {
+            if (!show) {
+                $selector.closest('.control-group').hide(150);
+                $selector.val(0);
+            } else
+                $selector.closest('.control-group').show(150);
+        }
+
+        let $any_scc_bi_annual_meeting_held_till_date = $('#id_function_of_scc-any_scc_bi_annual_meeting_held_till_date');
+        let $how_many_scc_bi_annual_meeting_held_till_date = $('#id_function_of_scc-how_many_scc_bi_annual_meeting_held_till_date');
+        showOthers($any_scc_bi_annual_meeting_held_till_date.val() == 'Yes', $how_many_scc_bi_annual_meeting_held_till_date);
+        $any_scc_bi_annual_meeting_held_till_date.on('change', function () {
+            showOthers($any_scc_bi_annual_meeting_held_till_date.val() == 'Yes', $how_many_scc_bi_annual_meeting_held_till_date);
+        });
+    </script>
+{% endblock %}

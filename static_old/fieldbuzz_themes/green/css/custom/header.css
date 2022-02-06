@@ -1,0 +1,75 @@
+/********** author 'shamil' *********/
+
+#fbx-header ul.fbx-access li.fbx-accessitem a {
+    height: 83px;
+    padding-top: 15px;
+}
+
+#fbx-header ul li.fbx-menuitem a {
+    height: 83px;
+    /*width: 40px;*/
+    padding-top: 0px;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem a .fbx-icon {
+    width: 36px;
+    height: 38px;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem a span {
+    font-size: small;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem {
+    margin: 0 10px;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem a {
+    padding: 15px 10px 2px 10px;
+    min-width: 90px;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem a span {
+    /*display: block;*/
+    padding: 5px 0;
+}
+
+#fbx-header .fbx-access li.fbx-accessitem a span {
+    font-size: small;
+}
+
+#fbx-header .fbx-nav li.fbx-menuitem {
+    margin: 0;
+}
+
+@media (max-width: 1200px) {
+    #fbx-header .navbar-fbx {
+        margin-top: -3px;
+    }
+}
+
+#fbx-header .navbar-fbx .navbar-toggle {
+    background-color: #67817F;
+}
+
+.section-header .fbx-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fbx-title {
+    min-height: 25px;
+}
+
+.section-header .fbx-title h3 {
+    color: #00a99d;
+}
+
+#fbx-header ul.fbx-access li.fbx-accessitem a .fbx-icon {
+    height:28px;
+    width:30px;
+}
+
+#fbx-header ul.fbx-access li.fbx-accessitem a span {
+    top: -4%;
+}

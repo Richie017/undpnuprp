@@ -1,0 +1,346 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-6 col-md-6 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-5 col-md-5">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+        </ul>
+    </div>
+    <a class="btn btn-export btn-primary" style="display: none" href="javascript://" id="a_export_download"></a>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/plugins/tab-x/css/bootstrap-tabs-x.min.css"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/custom-reports.css"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/custom-tooltip.css"/>
+    <style>
+        .hastip {
+            cursor: pointer;
+            font-weight: 100;
+        }
+
+        .custom-data-table {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+        }
+
+        .custom-data-table th, .custom-data-table td {
+            border: 1px solid #ddd;
+        }
+
+        .custom-data-table tr:nth-child(even) {
+            background-color: #f2f2f2
+        }
+
+        .custom-data-table th {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-color: #00a99d;
+            color: white;
+        }
+
+        .custom-widget div span {
+            font-size: 10px;
+            font-weight: 600;
+
+        }
+
+        div.dt-buttons {
+            float: right;
+            margin-right: -2px;
+
+        }
+
+        .custom-widget h1 {
+            font-size: 16px;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+        <div class='tabs-x tabs-left tabs-krajee'>
+            <ul id="fis-tab" class="custom-col-3 col-md-3 col-sm-12 col-xs-12 nav nav-tabs" role="tablist">
+                <!-- Loop here -->
+                {% for ind in indicators %}
+                    <li {% if forloop.counter == 1 %}class="active"{% endif %} data-tab_id="{{ forloop.counter }}">
+                        <a href="#tab-{{ forloop.counter }}" role="tab" data-toggle="tab">
+                            {{ ind.name }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+            {% load widget_tweaks %}
+            {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            {% endwith %}
+            <div class="tab-content col-md-9 col-sm-12 col-xs-12" style="float: right;">
+                {% for ind in indicators %}
+                    <div class="tab-pane fade in col-md-12 {% if forloop.counter == 1 %}active{% endif %}"
+                         id="tab-{{ forloop.counter }}">
+                        {% for graph_type in ind.graph_types %}
+                            <div class="container-fluid report-container"
+                                 style="padding-left: 0; padding-right: 0;">
+                                <div id="report-view" class="span11">
+                                    <div class="col-lg-12 col-md-12 form-horizontal ">
+                                        <div class="row-fluid custom-row-fluid">
+                                            <div class="row-fluid">
+                                                {% if graph_type.type == "TABLE" %}
+                                                    <div class="custom-widget"
+                                                         style="padding: 25px;">
+                                                        <h1>{{ graph_type.title }}</h1>
+                                                        <table id="id_widget_{{ ind.indicator }}_{{ forloop.counter0 }}"
+                                                               data-indicator="{{ ind.indicator }}"
+                                                               data-graph_type="{{ graph_type.type }}"
+                                                               class="custom-data-table custom-widget-pane"
+                                                               cellspacing="0" width="100%">
+                                                        </table>
+                                                    </div>
+                                                {% else %}
+                                                    <div class="custom-widget">
+                                                        <br>
+                                                        <div id="id_widget_{{ ind.indicator }}_{{ forloop.counter0 }}"
+                                                             data-indicator="{{ ind.indicator }}"
+                                                             data-graph_type="{{ graph_type.type }}"
+                                                             style="margin-top: -40px; max-width: 100%;"
+                                                             class="custom-widget-pane">
+                                                        </div>
+                                                    </div>
+                                                {% endif %}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/tooltipsy.min.js"></script>
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/plugins/tab-x/js/bootstrap-tabs-x.min.js"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/highchart/highcharts.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/highchart/exporting.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/highchart/fieldbuzz_theme.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/highchart/initialize_graph.js?v=1.1.1"></script>
+
+    <!-- library for custom sorting in time manipulation-->
+    <script src="{{ STATIC_URL }}js/datatable/moment.min.js"></script>
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/report/date_range_picker/date_range_picker.js"></script>
+    <!-- Include Custom Handler For Date Range Picker -->
+    <script type="text/javascript"
+            src="{{ STATIC_URL }}js/report/date_range_picker/date_time_range_handler.js"></script>
+    <!-- Include Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/date_range_picker.css"/>
+    <!-- Include Custom Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/custom_date_range_picker.css"/>
+
+    <script src="{{ STATIC_URL }}js/sheetjs/xlsx.full.min.js?v=1.0.1"></script>
+    <script src="{{ STATIC_URL }}js/sheetjs/FileSaver.js?v=1.0.1"></script>
+
+
+    <script type="text/javascript">
+        widgets = [];
+
+        function loadReportData() {
+            widgets.forEach(function (element, index) {
+                $('#' + element).html("<div><h1>Loading...</h1><div class='alert alert-info' style='text-align: center;'>Please, wait for a moment.</div></div>");
+
+                var parameters = {
+                    type: $('#' + element).data('graph_type'),
+                    indicator: $('#' + element).data('indicator')
+                };
+
+                $.ajax({
+                    url: '?format=json',
+                    type: 'get',
+                    data: parameters,
+                    dataType: 'json',
+                    success: function (result) {
+                        var _data = result.data;
+                        if (_data == undefined || _data.length == 0) {
+                            $('#' + element).html("<div class='alert alert-info' style='height: 100%; text-align: center;'>No data available. </div>");
+
+                        } else if ($('#' + element).hasClass('custom-data-table')) {
+                            loadTableData(result, '#' + element);
+                        }
+                        else {
+                            $('#' + element).empty();
+                            if (result.options['is_html']) {
+                                $('#' + element).html(_data);
+                            }
+                            else {
+                                _drawSingleChart(result, element);
+                            }
+                        }
+                    },
+                    error: function (result) {
+
+                    }
+                });
+            });
+        }
+
+        $(function () {
+            $('#dashboard-refresh-btn').on("click", function () {
+                loadReportData();
+            });
+
+            $("ul.nav-tabs li").on("click", function () {
+                var tab_id = $(this).data("tab_id");
+                var $graph_widgets = $("#tab-" + tab_id + " div.custom-widget .custom-widget-pane");
+                widgets = [];
+                $graph_widgets.each(function () {
+                    widgets.push($(this).attr("id"));
+                });
+                loadReportData();
+            });
+            var $graph_widgets = $(".tab-pane.active div.custom-widget .custom-widget-pane");
+            $graph_widgets.each(function () {
+                widgets.push($(this).attr("id"));
+            });
+            loadReportData();
+        });
+
+        var loadTableData = function (result, tableSelector) {
+            var _splitable_column_decisions = [];
+            var _data = result.data;
+            var table_html_str = '';
+            var exportable_table_html_str = '';
+            var thead_str = '<thead>';
+            var exportable_thead_str = '<thead>';
+            var title = '';
+            for (var i = 0; i < _data[0].length; i++) {
+                var _table_column = _data[0][i];
+                if (typeof _data[0][i] === 'object' && _table_column.split === 'true') {
+                    _splitable_column_decisions.push(true);
+                    thead_str += '<th>' + _table_column.column_name + '</th>';
+                    exportable_thead_str += '<th>' + _table_column.column_name + '</th>';
+                    exportable_thead_str += '<th>' + _table_column.extra_column_name + '</th>';
+                } else {
+                    thead_str += '<th>' + _table_column + '</th>';
+                    exportable_thead_str += '<th>' + _table_column + '</th>';
+                    _splitable_column_decisions.push(false);
+                }
+            }
+            title = _data[0][0];
+            if (title == 'City Corporation') {
+                title = 'Mean HH Size of Cities';
+            }
+            else {
+                title = _data[0][0] + ' ' + 'by Indicator of Cities';
+            }
+
+            thead_str += '</thead>';
+            exportable_thead_str += '</thead>';
+
+            table_html_str += thead_str;
+            exportable_table_html_str += exportable_thead_str;
+
+            var tbody_str = '<tbody>';
+            var exportable_tbody_str = '<tbody>';
+
+            for (var i = 1; i < _data.length; i++) {
+                var row = _data[i];
+                tbody_str += '<tr>';
+                exportable_tbody_str += '<tr>';
+
+                for (var j = 0; j < row.length; j++) {
+                    var data = row[j];
+                    var splitable = _splitable_column_decisions[j];
+
+                    // preparing exportable table body
+                    if (splitable === true) {
+                        var re = /^(.+)%\s+\((.+)\)$/;
+                        var patterns = re.exec(data);
+                        // example data: "9% (1)"
+                        // split "9% (1)" to "9%" and "1"
+                        exportable_tbody_str += '<td>' + patterns[2] + '</td>';
+                        exportable_tbody_str += '<td>' + patterns[1] + '%' + '</td>';
+                    } else {
+                        exportable_tbody_str += '<td>' + data + '</td>';
+                    }
+                    tbody_str += '<td>' + data + '</td>';
+                }
+                tbody_str += '</tr>';
+                exportable_tbody_str += '</tr>';
+            }
+            tbody_str += '</tbody>';
+            exportable_tbody_str += '</tbody>';
+
+            table_html_str += tbody_str;
+            exportable_table_html_str += exportable_tbody_str;
+
+            if ($.fn.DataTable.isDataTable(tableSelector)) {
+                $(tableSelector).DataTable().clear().destroy();
+            }
+            $(tableSelector).html(table_html_str);
+
+            var _export_button_html = '<button class="btn generic-btn-style btn-small" ' +
+                'id="table-export-btn" style="float:right;padding:3px 12px">' +
+                'Export</button>';
+
+            $("#table-export-btn").remove();
+            $(tableSelector).parent().children('h1').append(_export_button_html);
+
+            $("#table-export-btn").on("click", function (e) {
+                var exportable_table = "<table id='exportable_table' style='display:none'>" + exportable_table_html_str + "</table>";
+                $(document).find('#exportable_table').remove();
+                $(tableSelector).parent().parent().parent().parent().append(exportable_table);
+                var _exportable_file_title = $(tableSelector).parent().parent().parent().parent().children('h1').children('b').html();
+                ExportAsExcel('exportable_table', _exportable_file_title)
+            });
+
+            $(tableSelector).DataTable({
+                dom: 'Bfrtip',
+                buttons: [],
+                searching: false,
+                "scrollX": true
+            });
+
+            $.fn.dataTable.ext.errMode = 'none';
+        };
+
+        var ExportAsExcel = function (exportable_element_id, content_title) {
+            export_table_to_excel(exportable_element_id, 'xlsx', content_title);
+
+            function s2ab(s) {
+                if (typeof ArrayBuffer !== 'undefined') {
+                    var buf = new ArrayBuffer(s.length);
+                    var view = new Uint8Array(buf);
+                    for (var i = 0; i != s.length; ++i) view[i] = s.charCodeAt(i) & 0xFF;
+                    return buf;
+                } else {
+                    var buf = new Array(s.length);
+                    for (var i = 0; i != s.length; ++i) buf[i] = s.charCodeAt(i) & 0xFF;
+                    return buf;
+                }
+            }
+
+            function export_table_to_excel(id, type, fn) {
+                var wb = XLSX.utils.table_to_book(document.getElementById(id), {sheet: "Sheet 1", raw: true});
+                var wbout = XLSX.write(wb, {bookType: type, bookSST: true, type: 'binary'});
+                console.log(fn);
+                var fname = fn + '.' + type || 'test.' + type;
+                try {
+                    saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
+                } catch (e) {
+                    if (typeof console !== 'undefined') console.log(e, wbout);
+                }
+                return wbout;
+            }
+        }
+    </script>
+{% endblock %}

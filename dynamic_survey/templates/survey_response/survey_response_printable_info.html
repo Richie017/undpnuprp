@@ -1,0 +1,105 @@
+{% load staticfiles %}
+<html>
+<head>
+    <title>Survey Response</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}" media="screen,projection">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/print.css' %}" media="print">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <style rel="stylesheet">
+        td {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="page">
+
+{#    <div id="wrapper-img" style="width:300px;margin:0 auto;">#}
+{#        <img src="{{ logo }}" alt="logo" style="width:100%;"/>#}
+{#    </div>#}
+
+    <header align="center" style="font-size: 200%">
+        <h3>Survey Response</h3>
+    </header>
+    <h3><strong>Client: </strong>{{ data.respondent_client.name }} </h3>
+    <h3><strong>Survey: </strong>{{ data.survey.name }} (Version: {{ data.survey.version }})</h3>
+    <h3><strong>Survey Time: </strong>{{ data.render_survey_time }} </h3>
+    <h3><strong>Created By: </strong>{{ data.created_by.name }}</h3>
+    <br>
+    <table border="1" cellspacing="10" cellpadding="10" id="second_table">
+        {% for section in model_meta.sections %}
+            <tr>
+                <td colspan="3"><h4>{{ section.name }}</h4></td>
+            </tr>
+            {% for key, question in section.questions.items %}
+                {% if question.question_type == "image" %}
+                    <tr>
+                        <td rowspan="2"><strong>{{ question.code }}</strong></td>
+                        <td rowspan="2">{{ question.question }}</td>
+                        <td>{{ question.answer }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ question.photo_description }}</td>
+
+                    </tr>
+                {% elif question.question_type == "grid_row" %}
+                    <tr>
+                        <td><strong>{{ question.code }}</strong></td>
+                        <td colspan="2"><strong>{{ question.question }}</strong></td>
+                    </tr>
+
+                    {% for child_question in question.grid_questions %}
+                        <tr>
+                            <td><strong>{{ child_question.code }}</strong></td>
+                            <td align="center">{{ child_question.question }}</td>
+                            <td>{{ child_question.answer }}</td>
+                        </tr>
+                    {% endfor %}
+                {% elif question.question_type == "dynamic_grid" %}
+                    <tr>
+                        <td><strong>{{ question.code }}</strong></td>
+                        <td colspan="2"><strong>{{ question.question }}</strong></td>
+                    </tr>
+
+                    {% for key, child_question in question.grid_questions.items %}
+                        <tr>
+                            <td><strong>{{ child_question.code }}</strong></td>
+                            <td align="center">{{ child_question.question }}</td>
+                            <td>{{ child_question.answer }}</td>
+                        </tr>
+                    {% endfor %}
+
+                {% else %}
+                    <tr>
+                        <td><strong>{{ question.code }}</strong></td>
+                        <td>{{ question.question }}</td>
+                        <td>{{ question.answer }}</td>
+                    </tr>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </table>
+    <div id="footer" style="padding-top: 25px">
+        <p style="font-size: 12px;float: right; padding-right: 3%">
+            Powered by:
+            <a style="color: #00a99d;">
+                <img width="77px" height="12px" style="margin-top: -3px"
+                        src="{{ STATIC_URL }}img/fis_logo.png?v=1.0.0"
+                        alt=""/>
+            </a>
+        </p>
+
+    </div>
+
+
+</div>
+<script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        window.print();
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+/********** author 'shamil' *********/
+
+#fbx-login .fbx-content .fbx-login-area {
+    border-radius: 0;
+}
+
+#fbx-login .fbx-content .fbx-login-area form .login-btn {
+    min-width: 80px;
+    padding-top: 12px;
+    padding-left: 45px;
+}
+
+.flash_message {
+}
+
+.signin .signin-wrapper {
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    border: 0;
+}
+
+#fbx-login .fbx-content {
+    padding: 9% 1% 0 1%;
+}
+
+@media (min-width: 768px) {
+    .col-sm-offset-3 {
+        margin-left: 30%;
+    }
+
+    .col-sm-6 {
+        width: 40%
+    }
+}
+
+#fbx-login .fbx-content .fbx-login-area {
+    padding: 5% 10% 5% 10%;
+}
+
+#fbx-login .fbx-content .fbx-logo p {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,112 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+<!-- Generic page styles -->
+<link rel="stylesheet" href="{{ STATIC_URL }}css/upload.css?v=1.1.0">
+<!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
+<link rel="stylesheet" href="{{ STATIC_URL }}css/jquery.fileupload-ui.css?v=1.1.0">
+<link rel="stylesheet" href="{{ STATIC_URL }}css/tag_suggestion.css?v=1.1.0">
+
+<div class="container">
+    <!-- The file upload form used as target for the file upload widget -->
+    <form id="fileupload" action="/file-uploader/" method="post" enctype="multipart/form-data">{% csrf_token %}
+        <div class="row fileupload-buttonbar">
+            <div class="col-lg-5">
+                <!-- The fileinput-button span is used to style the file input field as button -->
+                <span class="btn btn-success fileinput-button">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    <span>Add files...</span>
+                    <input type="file" name="file" multiple>
+                </span>
+                <button type="submit" class="btn btn-primary start" style="display: none">
+                    <i class="glyphicon glyphicon-upload"></i>
+                    <span>Start upload</span>
+                </button>
+                <button type="reset" class="btn btn-danger cancel" style="display: none">
+                    <i class="glyphicon glyphicon-ban-circle"></i>
+                    <span>Cancel upload</span>
+                </button>
+                <span class="fileupload-loading"></span>
+            </div>
+            <!-- The global progress information -->
+            <div class="col-lg-7 fileupload-progress fade">
+                <!-- The global progress bar -->
+                <div class="progress progress-striped active" role="progressbar" aria-valuemin="0"
+                     aria-valuemax="100">
+                    <div class="progress-bar fis-progress-bar progress-bar-success" style="width:0%;"></div>
+                </div>
+                <!-- The extended global progress information -->
+                <div class="progress-extended">&nbsp;</div>
+            </div>
+        </div>
+        <div class="no-border no-padding">
+            <div class="table-container">
+                <table role="presentation" class="table table-striped table-bordered table-condensed">
+                    <tbody class="files"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="template-upload-form" style="display: none">
+            {% for field in form %}
+                <div class="control-group" style="clear: both;">
+                    {% if field|is_hidden %}
+                    {% elif field|is_datetime %}
+                        <label class="col-md-6 col-xs-6 control-label">{{ field.label }}</label>
+                        <div class="controls input-append date datetimepicker">{% render_field field %}
+                            <span class="add-on">
+                                    <i data-time-icon="icon-time" data-date-icon="icon-calendar"
+                                       style="display: inline-block"></i>
+                                </span>
+                        </div>
+                    {% else %}
+                        <label class="col-md-6 col-xs-6 control-label">{{ field.label }}</label>
+                        <div class="controls">{% render_field field %}
+                            <p class="fade">This field is required</p>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="no-border no-padding">
+            <div class="table-container">
+                <table id="document-table" class="table table-striped table-bordered table-condensed">
+                    <thead>
+                    <tr style="display: none">
+                        <th class="selection"><input type="checkbox" class="checkbox checkalltoggle"
+                                                     name="checkall-toggle" data-checktoggler="checksingle"
+                                                     data-checktogglercontainer="checktogglercontainer"></th>
+                        <th>Document Name</th>
+                        <th>Document Size</th>
+                        <th>Document Type</th>
+                        <th>Download Link</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </form>
+    <br>
+</div>
+
+<!-- Including Upload Template -->
+{% include "_template_upload.html" %}
+
+<!-- The jQuery UI widget factory, can be omitted if jQuery UI is already included -->
+<script src="{{ STATIC_URL }}js/jquery.ui.widget.js?v=1.1.0"></script>
+<!-- The Templates plugin is included to render the upload/download listings -->
+<script src="{{ STATIC_URL }}js/tmpl.min.js?v=1.1.0"></script>
+<!-- The basic File Upload plugin -->
+<script src="{{ STATIC_URL }}js/jquery.fileupload.js?v=1.1.0"></script>
+<!-- The File Upload processing plugin -->
+<script src="{{ STATIC_URL }}js/jquery.fileupload-process.js?v=1.1.0"></script>
+<!-- The File Upload validation plugin -->
+<script src="{{ STATIC_URL }}js/jquery.fileupload-validate.js?v=1.1.0"></script>
+<!-- The File Upload user interface plugin -->
+<script src="{{ STATIC_URL }}js/jquery.fileupload-ui.js?v=1.1.0"></script>
+<!-- The main application script -->
+<script src="{{ STATIC_URL }}js/_partial_upload.js?v=1.1.1"></script>
+<script src="{{ STATIC_URL }}js/locale.js?v=1.1.0"></script>
+<script src="{{ STATIC_URL }}js/tag_suggestion.js?v=1.0.1"></script>

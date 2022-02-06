@@ -1,0 +1,111 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+
+{% if field|is_hidden %}
+    {% render_field field|add_error_class:'input-validation-error' %}
+{% elif field|is_datetime %}
+    {% if form.show_form_inline %}
+        <li>
+            <div class="control-group">
+                <label class="col-md-6 control-label"
+                       for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}
+
+                    {% if field.field.required %}
+                        <span class="text-danger mandatory-asterisk">&#x2731</span>
+                    {% endif %}
+
+                </label>
+
+                <div class="controls input-append date datetimepicker">
+                    {#                            <div class="">#}
+                    {% render_field field|add_error_class:'input-validation-error' %}
+                    <span class="add-on">
+                                      <i data-time-icon="icon-time" data-date-icon="icon-calendar"
+                                         style="display: inline-block"></i>
+                                    </span>
+                    {#                            </div>#}
+                    <span class="field-validation-valid" data-valmsg-replace="true"
+                          data-valmsg-for="
+                                                          {{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+                    {{ field.errors }}
+                </div>
+            </div>
+        </li>
+    {% else %}
+        <div class="control-group">
+            <label class="col-md-6 control-label"
+                   for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}
+                {% if field.field.required %}
+                    <span class="text-danger mandatory-asterisk">&#x2731</span>
+                {% endif %}
+            </label>
+
+            <div class="controls input-append date datetimepicker">
+                {#                            <div class="">#}
+                {% render_field field|add_error_class:'input-validation-error' %}
+                <span class="add-on">
+                                          <i data-time-icon="icon-time" data-date-icon="icon-calendar"
+                                             style="display: inline-block"></i>
+                                        </span>
+                {#                            </div>#}
+                <span class="field-validation-valid" data-valmsg-replace="true"
+                      data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+                {{ field.errors }}
+            </div>
+        </div>
+    {% endif %}
+{% elif field.name.lower == 'delete' %}
+{% elif field|is_range_input %}
+    <div class="control-group">
+        <label class="col-md-6 control-label"
+               for="{{ form.prefix|get_prefix }}{{ field.name.lower }}">{{ field.label }}
+            {% if field.field.required %}
+                <span class="text-danger mandatory-asterisk">&#x2731</span>
+            {% endif %}
+        </label>
+        <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+            <output for="{{ form.prefix|get_prefix }}{{ field.name.lower }}" onforminput="value =
+                                            {{ form.prefix|get_prefix }}{{ field.name.lower }}.valueAsNumber;"></output>
+            <span class="field-validation-valid" data-valmsg-replace="true"
+                  data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+            {{ field.errors }}
+        </div>
+    </div>
+
+{% elif field.name.lower == 'password' or field.name.lower == 'confirm_password' %}
+    {% if form.show_form_inline %}
+        <li> {% endif %}
+<div class="control-group" style="clear: both;">
+    <label class="col-md-6 col-xs-6 control-label"
+           for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}
+        {% if field.field.required %}
+            <span class="text-danger mandatory-asterisk">&#x2731</span>
+        {% endif %}
+    </label>
+
+    <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+        <span class="field-validation-valid" data-valmsg-replace="true"
+              data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+        {{ field.errors }}
+    </div>
+</div>
+{% if form.show_form_inline %} </li> {% endif %}
+{% else %}
+    {% if form.show_form_inline %}
+        <li> {% endif %}
+<div class="control-group">
+    <label class="col-md-6 control-label"
+           for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}
+        {% if field.field.required %}
+            <span class="text-danger mandatory-asterisk">&#x2731</span>
+        {% endif %}
+    </label>
+
+    <div class="controls">{% render_field field|add_error_class:'input-validation-error'|add_prefix:form.prefix %}
+        <span class="field-validation-valid" data-valmsg-replace="true"
+              data-valmsg-for="{{ form.prefix|get_prefix }}{{ field.name.lower }}"></span>
+        {{ field.errors }}
+    </div>
+</div>
+{% if form.show_form_inline %} </li> {% endif %}
+{% endif %}

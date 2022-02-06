@@ -1,0 +1,339 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ model_meta.model_name }}</h3>
+        </div>
+    </div>
+    {% if not form.Meta.render_tab %}
+        <div class="col-xs-12 col-sm-6 col-md-7">
+            <ul class=" list-inline text-right bfz-adminbtn-list">
+                <li>
+                    <a name="submit" id="submit_top" class="manage-button fbx-save btn">
+                        <i class="fbx-rightnav-save"></i>
+                        <span>&nbsp;Save</span>
+                    </a>
+                </li>
+                <li>
+                    <a name="cancel" class="manage-button btn" id="btn_cancel">
+                        <i class="fbx-rightnav-cancel"></i>
+                        <span>&nbsp;Cancel</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid" style="padding-left: 15px; padding-right:15px;">
+        {% if form.allow_encryption == False %}
+            <form id="creakhjhkjjdjhgdte_form" action="" method="post" class="form form-horizontal">
+        {% else %}
+            <form id="create_form" enctype="multipart/form-data" action="" method="post" class="form form-horizontal">
+        {% endif %}
+        {% csrf_token %}
+        {% include 'undp_nuprp/approvals/templates/crmif/_generic_form.html' with  form=form %}
+
+        <div class="col-sm-12 fbx-actionbtn fbx-content-shop">
+            <div class="fbz-product-content-left">
+                <div class="control-group">
+                    <label class="col-md-6 control-label"></label>
+                    <button id="save_item" class="btn fbx-save" type="submit" name="submit" value="Save">
+                        <i> </i>
+                        <span>Save</span>
+                    </button>
+                    <button class="btn btn-cancel fbx-cancel" type="reset" name="cancel" value="Cancel">
+                        <i> </i>
+                        <span>Cancel</span>
+                    </button>
+                    {% if form.Meta.render_tab %}
+                        <button type="button" class="tabbed-form-next btn fbx-next"><i> </i><span>Next</span>
+                        </button>
+                        <button type="button" class="tabbed-form-previous btn fbx-previous">
+                            <i> </i><span>Previous</span>
+                        </button>
+                    {% endif %}
+                </div>
+            </div>
+            <!--//PRODUCT CONTENT LEFT-->
+        </div>
+        <!--//.COL 6-->`
+        </form>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/create-view.js?v=1.1.5"></script>
+    <script type="text/javascript" src='http://maps.google.com/maps/api/js?libraries=places'></script>
+    <script src="{{ STATIC_URL }}assets/js/location-picker/locationpicker.jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/create-view-map.js?v=1.1.0"></script>
+
+    <script type="text/javascript">
+        var water_intervention_types = ['Deep Tubewell', 'Shallow Tubewell', 'Deepset Tubewell',
+            'Deep tubewell with submersible pump', 'Tubewell Platforms', 'Water Reservoirs', ];
+        var sanitation_intervations_type = ["Single pit latrine", "Twin pit latrine", "Community Latrine",
+            "Septic Tank"];
+        var mandatory_length_interventions_type = [
+            'Footpath', 'Road', 'Embankment cum Road', 'Stair',
+            'Drain and/or Culvert', 'Drain Slab and/or Road Slab',
+            'Culvert Railing', 'Crossing Bridge', "Bathroom"
+        ];
+
+        function single_pit_skip_logic(type_of_intervention, $this) {
+            if (type_of_intervention == 'Single pit latrine') {
+                $this.closest('.interventions-formset-container').find("div[id$='if_twin_pit_latrine_are_bottom_of_the_rings_more_than_two_meter']").closest('.control-group').hide();
+            } else {
+                $this.closest('.interventions-formset-container').find("div[id$='if_twin_pit_latrine_are_bottom_of_the_rings_more_than_two_meter']").closest('.control-group').show();
+            }
+        }
+
+        function showOthers(show, $selector) {
+            if (!show) {
+                $selector.closest('.control-group').hide(150);
+                $selector.closest('.control-group').find("textarea").val("");
+            } else
+                $selector.closest('.control-group').show(150);
+        }
+
+        let $contract_completion_status = $('#id_contract_completion_status'), $contract_completion_date=$('#id_contract_completion_date');
+            showOthers($contract_completion_status.val() == 'Completed', $contract_completion_date);
+
+            $contract_completion_status.on('change', function () {
+                showOthers($contract_completion_status.val() == 'Completed', $contract_completion_date);
+            });
+        
+        function showHideVariationOrderDependencies() {
+            $("select[id$='variation_order']").each(function () {
+                if ($(this).val() === 'Yes')
+                    $(this).closest('.control-group').next().show();
+                else
+                    $(this).closest('.control-group').next().hide();
+            });
+        }
+
+        var show_hide_intervention_func = function () {
+            $("[id$='type_of_intervention']").each(function () {
+                var type_of_intervention = $(this).val();
+                if (water_intervention_types.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").show();
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").hide();
+                } else if (sanitation_intervations_type.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").show();
+                    single_pit_skip_logic(type_of_intervention, $(this));
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").hide();
+                } else {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").hide();
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").hide();
+                }
+
+                if (mandatory_length_interventions_type.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.control-group').parent().find("[id$='length']").parent().parent().show();
+                } else {
+                    $(this).closest('.control-group').parent().find("[id$='length']").parent().parent().hide();
+                }
+            })
+        };
+
+        var show_hide_laboratory_field = function () {
+            $("select[id$='has_water_quality_been_checked_by_laboratory']").each(function () {
+                var laboratory_check = $(this).val();
+                if (laboratory_check === 'Yes') {
+                    var $scope = $(this).closest('.with_the_intervention').parent().find('.if_yes_are_the_following_parameters_in_line_with_the_reference_values');
+                    $scope.show();
+                    var $physical = $scope.find("select[id$='laboratory_for_physical']"),
+                        $chemical = $scope.find("select[id$='laboratory_for_chemical']"),
+                        $arsenic = $scope.find("select[id$='laboratory_for_arsenic']");
+                    if ($physical.val() === 'Yes') {
+                        $physical.closest('.control-group').next().show();
+                        $physical.closest('.control-group').next().next().show();
+                    } else {
+                        $physical.closest('.control-group').next().hide();
+                        $physical.closest('.control-group').next().next().hide();
+                    }
+                    if ($chemical.val() === 'Yes') {
+                        $chemical.closest('.control-group').nextAll().slice(0, 5).show();
+                    } else {
+                        $chemical.closest('.control-group').nextAll().slice(0, 5).hide();
+                    }
+                    if ($arsenic.val() === 'Yes') {
+                        $arsenic.closest('.control-group').next().show();
+                    } else {
+                        $arsenic.closest('.control-group').next().hide();
+                    }
+                } else {
+                    $(this).closest('.with_the_intervention').parent().find('.if_yes_are_the_following_parameters_in_line_with_the_reference_values').hide();
+                }
+            });
+        };
+
+
+        $(function () {
+            var show_form_border = function () {
+                $('.interventions-formset-container:not(:first)').css({
+                    'border-top': '5px solid #ccc',
+                    'margin-top': '5px',
+                    'padding-top': '10px'
+                })
+            };
+
+            $("#submit_top").on('click', function () {
+                $("#save_item").click();
+            });
+
+            $("#btn_cancel").on('click', function () {
+                history.go(-1);
+            });
+
+            $(".btn-cancel").on('click', function () {
+                history.go(-1);
+            });
+
+            $('.form-horizontal .control-label').css('width', '550px');
+
+            $(document).on('click', '.btn-inline-addmore', function () {
+                $('.form-horizontal .control-label').css('width', '550px');
+                show_hide_intervention_func();
+                show_form_border();
+                show_hide_laboratory_field();
+            });
+
+            show_hide_intervention_func();
+            show_form_border();
+            show_hide_laboratory_field();
+            showHideVariationOrderDependencies();
+
+            $('#interventions').on('change', "select[id$='type_of_intervention']", function () {
+                var type_of_intervention = $(this).val();
+                if (water_intervention_types.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").show();
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").hide();
+                } else if (sanitation_intervations_type.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").show();
+                    single_pit_skip_logic(type_of_intervention, $(this));
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").hide();
+                } else {
+                    $(this).closest('.interventions-formset-container').find("div[id$='_sanitary_interventions']").hide();
+                    $(this).closest('.interventions-formset-container').find("div[id$='_water_interventions']").hide();
+                }
+
+                if (mandatory_length_interventions_type.indexOf(type_of_intervention) > -1) {
+                    $(this).closest('.control-group').parent().find("[id$='length']").parent().parent().show();
+                } else {
+                    $(this).closest('.control-group').parent().find("[id$='length']").parent().parent().hide();
+                }
+            });
+            
+            $('#interventions').on('change', "select[id$='has_water_quality_been_checked_by_laboratory']", function () {
+                var laboratory_check = $(this).val();
+                if (laboratory_check === 'Yes') {
+                    var $scope = $(this).closest('.with_the_intervention').parent().find('.if_yes_are_the_following_parameters_in_line_with_the_reference_values');
+                    $scope.show();
+                    var $physical = $scope.find("select[id$='laboratory_for_physical']"),
+                        $chemical = $scope.find("select[id$='laboratory_for_chemical']"),
+                        $arsenic = $scope.find("select[id$='laboratory_for_arsenic']");
+                    if ($physical.val() === 'Yes') {
+                        $physical.closest('.control-group').next().show();
+                        $physical.closest('.control-group').next().next().show();
+                    } else {
+                        $physical.closest('.control-group').next().hide();
+                        $physical.closest('.control-group').next().next().hide();
+                    }
+                    if ($chemical.val() === 'Yes') {
+                        $chemical.closest('.control-group').nextAll().slice(0, 5).show();
+                    } else {
+                        $chemical.closest('.control-group').nextAll().slice(0, 5).hide();
+                    }
+                    if ($arsenic.val() === 'Yes') {
+                        $arsenic.closest('.control-group').next().show();
+                    } else {
+                        $arsenic.closest('.control-group').next().hide();
+                    }
+                } else {
+                    $(this).closest('.with_the_intervention').parent().find('.if_yes_are_the_following_parameters_in_line_with_the_reference_values').hide();
+                }
+            });
+
+            $('#interventions').on('change', "select[id$='laboratory_for_physical']", function () {
+                if ($(this).val() === 'Yes') {
+                    $(this).closest('.control-group').next().show();
+                    $(this).closest('.control-group').next().next().show();
+                } else {
+                    $(this).closest('.control-group').next().hide();
+                    $(this).closest('.control-group').next().next().hide();
+                }
+            });
+
+            $('#interventions').on('change', "select[id$='laboratory_for_chemical']", function () {
+                if ($(this).val() === 'Yes') {
+                    $(this).closest('.control-group').nextAll().slice(0, 5).show();
+                    var $arsenic = $(this).closest('.control-group').next().find('select');
+                    if ($arsenic.val() === 'Yes') {
+                        $arsenic.closest('.control-group').next().show();
+                    } else {
+                        $arsenic.closest('.control-group').next().hide();
+                    }
+                } else {
+                    $(this).closest('.control-group').nextAll().slice(0, 5).hide();
+                }
+            });
+
+            $('#interventions').on('change', "select[id$='laboratory_for_arsenic']", function () {
+                if ($(this).val() === 'Yes') {
+                    $(this).closest('.control-group').next().show();
+                } else {
+                    $(this).closest('.control-group').next().hide();
+                }
+            });
+
+            $('#interventions').on('change', "select[id$='variation_order']", function () {
+                if ($(this).val() == 'Yes')
+                    $(this).closest('.control-group').next().show();
+                else
+                    $(this).closest('.control-group').next().hide();
+            });
+        });
+    </script>
+
+    {% if 'alert-config/' in request.build_absolute_uri %}
+        <script type="text/javascript">
+            function model_descriptor() {
+                $(document).on('change', '.model-descriptor', function () {
+                    var mod_prop = $(this).closest('.form-horizontal').find('.model-property');
+                    console.log(mod_prop);
+                    var value = $(this).find(":selected").val();
+                    if (value.length > 0) {
+                        var url = "{% url 'model_descriptor' %}";
+                        $.ajax({
+                            url: url,
+                            type: "get",
+                            data: 'model_name=' + value,
+                            success: function (data) {
+                                mod_prop
+                                    .find('option')
+                                    .remove()
+                                    .end();
+                                $(data.property_list).each(function () {
+                                    var option = $('<option />');
+                                    option.attr('value', this).text(this);
+                                    $(mod_prop).append(option);
+                                });
+                                $(mod_prop).append($('<option />').attr('value', 'None').text('None'));
+                            }
+                        })
+                    }
+                });
+
+            }
+
+            $(window).load(function () {
+                model_descriptor();
+            });
+        </script>
+    {% endif %}
+{% endblock %}

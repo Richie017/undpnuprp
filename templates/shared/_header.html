@@ -1,0 +1,84 @@
+{% load i18n %}
+{% load blackwidow_filter %}
+<header>
+    <div id="fbx-header" class="fbx-header">
+        <nav class="navbar navbar-default navbar-fbx">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="row" style="height: 80px; ">
+                <div class="col-md-3 col-sm-3 col-xs-12">
+                    <div class="navbar-header custom_height">
+                        <a class="col-md-5 navbar-brand" href="/">
+{#                            <img class="img-responsive" id="logo_size"#}
+{#                                 src="{{ STATIC_URL }}fieldbuzz_themes/img/logo.png?v=1.1.2" alt="logo"/>#}
+                        </a>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                data-target="#navbar-collapse">
+                            {#                            <span class="sr-only">Toggle navigation</span>#}
+                            <a href="#" style="color: white"><i class="fa fa-bars"></i></a>
+                        </button>
+                    </div> <!--//.NAVBAR HEADER-->
+                </div> <!--//.COL 4 -->
+
+                <div class="col-md-9 col-sm-9 col-xs-12">
+
+                    <div id="navbar-collapse" class="collapse navbar-collapse">
+
+                        <ul class="nav navbar-nav fbx-nav">
+                            {% if not context.enable_js_menu_rendering %}
+                                {% for menuitem in context.menu %}
+                                    <li class="fbx-menuitem text-center {{ menuitem.active }}">
+                                        <a href="{{ menuitem.link }}">
+                                            {% if menuitem.title == "Reporting" %}
+                                                <i class="fbx-icon fbx-report"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Targets" %}
+                                                <i class="fbx-icon fbx-target"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Task Helper" %}
+                                                <i class="fbx-icon fbx-task"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Alerts" %}
+                                                <i class="fbx-icon fbx-alerts"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Execute" %}
+                                                <i class="fbx-icon fbx-task"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Administration" %}
+                                                <i class="fbx-icon fbx-admin"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Demo Intro" %}
+                                                <i class="fbx-icon fbx-admin"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Surveys" %}
+                                                <i class="fbx-icon fbx-report"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "DeviceManager" %}
+                                                <i class="fbx-icon fbx-device"></i>
+                                               <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Settings" %}
+                                                <i class="fbx-icon fbx-settings"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% elif menuitem.title == "Analysis" %}
+                                                <i class="fbx-icon fbx-target"></i>
+                                                <span>{{ context.module_titles|get_name:menuitem.title|translate }}</span>
+                                            {% endif %}
+                                        </a>
+                                    </li>
+                                {% endfor %}
+                            {% endif %}
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right fbx-access">
+                            <li class="fbx-accessitem">
+                                <a href="{% url 'bw_logout' %}">
+                                    <i class="fbx-icon fbx-logout"></i>
+                                    <span>{% trans 'Log Out' %}<br>({{ context.user.name }})</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div>
+            </div> <!--//.ROW-->
+        </nav>
+    </div><!--//.FBX HEADER -->
+</header><!-- *************  //HEADER END ************* -->

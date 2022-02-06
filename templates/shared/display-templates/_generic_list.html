@@ -1,0 +1,50 @@
+<div class="row-fluid" style="margin-left: 0;">
+    <div class="no-border no-padding">
+        {% load render_table from django_tables2 %}
+        {% render_table table %}
+    </div>
+</div>
+<script>
+    function loadTable() {
+        var $table = $('.table-container table');
+        $table.dataTable({
+            "bSort": false,
+            "bFilter": false,
+            "bInfo": false,
+            "bJQueryUI": false,
+            "bPaginate": false
+        });
+        $('#viewport').css('padding-bottom', '0px');
+        var _pagination_div = $('.form-inline.fbx-form.pagination').css('height', '40px');
+        var _window_height = $(window).height();
+        var _random_margin_height = 25;
+        var _other_than_table_height = $('#fbx-header').height()
+                + $('#section_header').height()
+                + $('.search-filter').height()
+                + _pagination_div.height()
+                + $('.pull-right:last').height()
+                + _random_margin_height;
+        var _table_height = $('.table-container .table').height();
+        var _table_container_height = _window_height - _other_than_table_height;
+        if (_table_height < _table_container_height) {
+            _table_container_height = _table_height;
+        }
+        $('.table-container').css({
+            "overflow": "auto",
+            "position": "relative",
+            "height": _table_container_height + "px"
+        });
+        $table.floatThead({
+                    position: 'absolute',
+                    scrollContainer: function ($table) {
+                        return $table.closest('.table-container');
+                    }
+                }
+        );
+        $('table.floatThead-table').css({
+            "background-color": "#e6e7e8"
+        });
+    }
+{#    window.onload = loadTable;#}
+</script>
+{% include 'shared/display-templates/_pagination.html' %}

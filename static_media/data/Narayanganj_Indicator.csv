@@ -1,0 +1,1885 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Narayanganj;1;670101001;;Purba Baten Para;Alim Uddin;16;50;5;2;1;4;1;1;4;1;1;4;3;3;4;1;4;;;34
+Narayanganj;1;670101002;;Purba Baten Para;Shafiq Para;30;150;10;2;1;4;1;1;4;2;3;4;4;4;4;1;4;;;39
+Narayanganj;1;670101003;;Purba Baten Para;Ashif Para;60;300;15;2;1;4;1;1;4;1;4;4;4;4;4;4;4;;;42
+Narayanganj;1;670101004;;Purba Baten Para;Shirina Para;30;120;7;2;1;4;1;1;4;1;3;4;3;3;4;4;4;;;39
+Narayanganj;1;670101005;;Purba Baten Para;Ali Ahmed;6;30;4;1;1;4;1;1;4;1;2;4;4;4;4;4;4;;;39
+Narayanganj;1;670102001;;Baten Para Mujib Bug Rahamat Nagor;Sunder Ali Chuna Factory;40;170;12;2;1;3;1;1;2;1;1;2;1;2;1;1;1;;;20
+Narayanganj;1;670102002;;Baten Para Mujib Bug Rahamat Nagor;Marjan Kinder Garten;17;90;9;2;2;3;1;1;2;1;2;1;3;1;4;2;4;;;29
+Narayanganj;1;670102003;;Baten Para Mujib Bug Rahamat Nagor;Milon Shaeb Bosoti;38;190;11;2;1;4;2;1;3;1;3;2;3;1;4;2;3;;;32
+Narayanganj;1;670102004;;Baten Para Mujib Bug Rahamat Nagor;Razzak;27;150;8;2;1;4;2;1;3;2;4;2;3;2;4;4;4;;;38
+Narayanganj;1;670102005;;Baten Para Mujib Bug Rahamat Nagor;Haji Amir Islam;39;195;13;1;1;3;2;1;1;1;2;2;3;2;4;4;4;;;31
+Narayanganj;1;670102006;;Baten Para Mujib Bug Rahamat Nagor;Motin Hujur;10;50;11;2;1;3;1;1;3;3;4;3;2;3;4;3;3;;;36
+Narayanganj;1;670103001;;Baten Para;Lutfar Molla;35;140;11;1;1;1;1;1;4;2;1;2;1;3;4;1;4;;;27
+Narayanganj;1;670103002;;Baten Para;Naya Bari;50;230;11;2;1;3;1;1;4;1;3;3;1;4;4;4;4;;;36
+Narayanganj;1;670103003;;Baten Para;Amir Prodhan;40;160;11;2;1;3;1;1;4;1;1;3;1;4;3;3;4;;;32
+Narayanganj;1;670103004;;Baten Para;Hasji Nawab Ali;20;80;11;1;1;3;1;1;3;1;3;3;1;4;4;3;4;;;33
+Narayanganj;1;670103005;;Baten Para;Talimul Ummah;22;88;11;1;1;3;1;1;3;1;3;3;1;4;4;4;4;;;34
+Narayanganj;1;670103006;;Baten Para;Matin Hujur;17;68;11;1;1;3;1;1;3;1;3;3;1;3;4;3;4;;;32
+Narayanganj;1;670104001;;Baten Para Taltola;Hazi Motelib Para;40;170;11;1;1;4;1;1;2;1;2;2;2;2;4;2;4;;;29
+Narayanganj;1;670104002;;Baten Para Taltola;Hazi Noor Mohammad;35;140;11;1;1;4;1;1;3;1;2;2;2;2;4;2;4;;;30
+Narayanganj;1;670104003;;Baten Para Taltola;Bahauddin;45;180;11;1;1;4;1;1;4;3;2;2;2;4;4;3;4;;;36
+Narayanganj;1;670104004;;Baten Para Taltola;Abdul Motin;40;160;11;1;1;4;1;1;3;1;3;2;2;3;4;3;4;;;33
+Narayanganj;1;670104005;;Baten Para Taltola;Komar Ali;30;120;11;1;1;3;1;1;3;1;3;2;2;3;4;2;4;;;31
+Narayanganj;1;670104006;;Baten Para Taltola;Abed Ali;18;72;11;1;1;3;1;1;3;1;3;2;2;4;4;3;4;;;33
+Narayanganj;1;670104007;;Baten Para Taltola;Alteb Ali;19;76;11;1;1;2;1;1;2;1;3;2;2;4;4;1;4;;;29
+Narayanganj;1;670105001;;Pinadi Momha Para;Pinadi School Paschim;90;370;11;1;1;4;1;1;3;1;3;2;1;3;4;2;4;;;31
+Narayanganj;1;670105002;;Pinadi Momha Para;Pinadi Sajiber Bari;103;408;11;1;1;4;1;1;3;1;3;1;1;3;4;3;4;;;31
+Narayanganj;1;670105003;;Pinadi Momha Para;Raseler Bari;50;260;11;1;1;4;2;4;1;1;1;4;2;3;3;4;2;;;33
+Narayanganj;1;670105004;;Pinadi Momha Para;Mosjid Road;70;320;11;1;1;4;1;1;3;1;4;1;1;4;4;1;4;;;31
+Narayanganj;1;670105005;;Pinadi Momha Para;Shiblur Bari;80;330;11;1;1;3;1;1;2;1;4;1;2;3;4;1;4;;;29
+Narayanganj;1;670105006;;Pinadi Momha Para;Alam Masterer Bari;80;380;11;1;1;4;1;1;2;1;4;2;1;3;4;2;4;;;31
+Narayanganj;1;670105007;;Pinadi Momha Para;Mostafer Bari;85;409;11;1;1;3;1;1;2;1;4;1;2;3;4;2;4;;;30
+Narayanganj;1;670106001;;Pinadi Nuton Mohalla;Advocate Harun Rashed;11;55;11;4;4;4;3;1;3;4;2;3;2;2;3;1;3;;;39
+Narayanganj;1;670106002;;Pinadi Nuton Mohalla;Jahidul Islam;18;94;11;4;4;4;3;1;4;4;4;3;3;3;3;3;4;;;47
+Narayanganj;1;670106003;;Pinadi Nuton Mohalla;Anower Hossen;32;161;11;3;3;4;4;1;4;3;4;3;3;4;3;3;3;;;45
+Narayanganj;1;670106004;;Pinadi Nuton Mohalla;Masud Mian;15;76;11;4;3;4;3;1;4;4;4;2;3;3;3;2;3;;;43
+Narayanganj;1;670106005;;Pinadi Nuton Mohalla;Gani Mianer Bari;41;205;11;3;3;4;3;1;3;4;4;2;1;3;3;2;3;;;39
+Narayanganj;1;670106006;;Pinadi Nuton Mohalla;Awel Sheb;20;110;11;2;3;4;3;1;4;4;2;2;2;4;3;2;3;;;39
+Narayanganj;1;670106007;;Pinadi Nuton Mohalla;SM Motaleb;13;40;11;2;2;4;4;1;4;4;4;3;3;3;4;3;4;;;45
+Narayanganj;1;670106008;;Pinadi Nuton Mohalla;Jaj Mian;5;22;11;4;4;3;3;1;4;3;3;3;2;3;3;2;3;;;41
+Narayanganj;1;670107001;;Pinadi Hira Jhill;Nazrul Bari;50;250;11;1;1;4;4;1;4;1;4;3;1;3;4;3;4;;;38
+Narayanganj;1;670107002;;Pinadi Hira Jhill;Sultana Chowdhori;85;250;11;2;4;3;4;1;4;1;4;3;2;4;4;4;4;;;44
+Narayanganj;1;670107003;;Pinadi Hira Jhill;Abu Taher;68;300;11;4;4;4;4;1;4;1;4;3;1;3;4;4;4;;;45
+Narayanganj;1;670107004;;Pinadi Hira Jhill;Hazi Abdul Latif;55;300;11;1;1;4;4;1;4;1;3;3;1;2;4;3;4;;;36
+Narayanganj;1;670107005;;Pinadi Hira Jhill;Iqbal Hossen;30;150;11;2;1;4;4;4;4;2;4;3;1;4;4;4;4;;;45
+Narayanganj;1;670107006;;Pinadi Hira Jhill;Rokshena;18;100;11;4;4;4;4;1;4;1;3;3;1;4;4;4;4;;;45
+Narayanganj;1;670107007;;Pinadi Hira Jhill;Kulsum;45;150;11;1;1;4;4;1;4;1;3;3;1;4;4;4;4;;;39
+Narayanganj;1;670108001;;Pinadi Purba CI Khola;Nuruddin Hazi Bari;61;244;11;2;1;4;1;1;2;2;2;3;1;2;1;2;4;;;28
+Narayanganj;1;670108002;;Pinadi Purba CI Khola;Chan Mian Bari;68;300;11;2;3;4;1;1;2;1;3;3;1;2;4;4;4;;;35
+Narayanganj;1;670108003;;Pinadi Purba CI Khola;DND Road;65;320;11;3;2;3;1;1;1;1;1;3;1;1;1;1;1;;;21
+Narayanganj;1;670108004;;Pinadi Purba CI Khola;Kalam Bari;12;45;11;2;1;4;1;1;3;1;3;4;1;4;4;4;4;;;37
+Narayanganj;1;670108005;;Pinadi Purba CI Khola;Karim Mistrier Bari;14;60;11;2;3;4;1;1;3;2;4;4;1;3;4;4;4;;;40
+Narayanganj;1;670108006;;Pinadi Purba CI Khola;Salim Bari;25;120;11;2;2;4;1;1;4;3;4;4;1;4;4;4;4;;;42
+Narayanganj;1;670108007;;Pinadi Purba CI Khola;Rakmot Ullah;30;120;11;2;1;3;1;1;3;1;3;4;1;3;4;4;4;;;35
+Narayanganj;1;670108008;;Pinadi Purba CI Khola;Mohit Vila;38;180;11;2;3;4;1;1;2;1;3;3;1;2;4;4;4;;;35
+Narayanganj;1;670108009;;Pinadi Purba CI Khola;Raber Barir Side;25;100;11;2;1;4;1;1;2;1;3;3;1;2;4;4;4;;;33
+Narayanganj;1;670108010;;Pinadi Purba CI Khola;Sanower Monjil side;10;50;11;2;1;4;1;1;2;1;3;4;1;3;4;4;4;;;35
+Narayanganj;1;670108011;;Pinadi Purba CI Khola;Boga Siddiker Bari;54;220;11;2;1;4;1;1;3;1;4;4;1;3;4;4;4;;;37
+Narayanganj;1;670108012;;Pinadi Purba CI Khola;Monju Mistry;40;180;11;2;3;4;1;1;3;1;3;4;1;3;4;4;4;;;38
+Narayanganj;1;670108013;;Pinadi Purba CI Khola;Salem Bari;22;110;11;1;2;4;1;1;3;4;4;4;1;3;4;4;4;;;40
+Narayanganj;1;670108014;;Pinadi Purba CI Khola;Mohit Vila;58;240;11;1;2;4;1;1;3;1;4;4;1;4;4;4;4;;;38
+Narayanganj;1;670108015;;Pinadi Purba CI Khola;Adbdur Rashed Mistry Bari;28;115;11;2;3;4;1;1;3;1;4;4;1;3;4;4;4;;;39
+Narayanganj;1;670108016;;Pinadi Purba CI Khola;Shafiq Ullah;25;120;11;2;1;4;1;1;3;2;4;4;1;3;4;4;4;;;38
+Narayanganj;1;670108017;;Pinadi Purba CI Khola;Jazia Liems Side;41;170;11;2;1;4;1;1;3;1;4;4;1;3;4;4;4;;;37
+Narayanganj;1;670108018;;Pinadi Purba CI Khola;Awel Mistry Bari;15;60;11;1;2;4;2;1;3;1;4;4;1;4;4;4;4;;;39
+Narayanganj;2;670201001;;Mijmiji Dhakin Para;Shaheda Begum Bari;15;55;11;1;2;2;1;1;2;2;2;1;1;2;3;1;4;;;25
+Narayanganj;2;670201002;;Mijmiji Dhakin Para;Halema Bari;15;45;11;1;1;2;1;1;1;3;2;1;2;3;3;1;4;;;26
+Narayanganj;2;670201003;;Mijmiji Dhakin Para;Joshna Bari;10;52;11;3;1;3;1;1;1;1;2;1;1;2;4;3;4;;;28
+Narayanganj;2;670201004;;Mijmiji Dhakin Para;Billal Bari;19;70;11;2;1;2;1;1;2;1;3;1;2;2;4;2;4;;;28
+Narayanganj;2;670201005;;Mijmiji Dhakin Para;Rokeya Begum Bari;4;15;11;1;1;1;1;1;1;1;3;1;2;3;4;2;4;;;26
+Narayanganj;2;670201006;;Mijmiji Dhakin Para;Hosna;14;52;11;1;1;3;1;1;2;1;2;1;3;3;4;2;4;;;29
+Narayanganj;2;670201007;;Mijmiji Dhakin Para;Aysha Bari;9;35;11;1;1;2;1;1;2;1;2;1;2;1;1;1;4;;;21
+Narayanganj;2;670201008;;Mijmiji Dhakin Para;Aleya Begum bari;15;70;11;3;1;3;1;1;2;1;2;1;2;2;4;4;4;;;31
+Narayanganj;2;670202001;;Mijmiji Dhakin Para Hazra Market;Marium bari;10;35;11;3;1;1;2;1;1;1;2;1;1;3;4;1;4;;;26
+Narayanganj;2;670202002;;Mijmiji Dhakin Para Hazra Market;Alamin Bari;5;26;11;1;1;3;1;2;3;1;2;1;1;2;4;2;4;;;28
+Narayanganj;2;670202003;;Mijmiji Dhakin Para Hazra Market;Khadija Bari;8;30;11;1;1;3;1;1;2;1;2;1;1;2;4;1;2;;;23
+Narayanganj;2;670202004;;Mijmiji Dhakin Para Hazra Market;Shirin Khanom Bari;20;70;11;2;1;3;1;1;2;1;2;1;1;2;4;2;4;;;27
+Narayanganj;2;670203001;;Mijmiji Paschim Para;Hazi Dudu Mian;9;60;11;3;4;4;2;1;3;1;4;3;4;4;4;4;4;;;45
+Narayanganj;2;670203002;;Mijmiji Paschim Para;Ismail Bhuian;8;45;11;2;1;3;1;1;2;1;3;4;2;3;4;4;4;;;35
+Narayanganj;2;670203003;;Mijmiji Paschim Para;Amjad;8;45;11;1;1;3;2;1;1;1;3;3;4;1;4;1;4;;;30
+Narayanganj;2;670203004;;Mijmiji Paschim Para;Motalib;8;36;11;2;1;3;1;1;1;1;2;3;1;4;4;2;4;;;30
+Narayanganj;2;670203005;;Mijmiji Paschim Para;Aminul Bari;5;29;11;2;1;3;2;1;3;1;4;4;4;3;4;4;4;;;40
+Narayanganj;2;670203006;;Mijmiji Paschim Para;Hossain Mian;6;27;11;2;1;3;1;1;1;1;2;4;1;1;3;1;4;;;26
+Narayanganj;2;670203007;;Mijmiji Paschim Para;Mostofa Mian;7;40;11;3;1;2;2;1;2;1;2;2;2;2;2;2;3;;;27
+Narayanganj;2;670203008;;Mijmiji Paschim Para;Hazi Abdul Halim Munsi;6;34;11;1;1;3;1;1;2;1;3;2;1;1;3;1;2;;;23
+Narayanganj;2;670203009;;Mijmiji Paschim Para;Ali Mian;10;49;11;2;1;3;2;1;2;1;3;3;3;1;3;1;2;;;28
+Narayanganj;2;670203010;;Mijmiji Paschim Para;Muslim Talukder;13;60;11;1;1;2;1;1;2;1;3;3;2;1;2;1;2;;;23
+Narayanganj;2;670203011;;Mijmiji Paschim Para;Akter Bhuian;11;60;11;1;1;4;2;1;2;1;3;4;1;2;3;1;3;;;29
+Narayanganj;2;670203012;;Mijmiji Paschim Para;Nurul Haque;9;40;11;2;1;3;1;1;2;1;2;2;2;1;3;4;3;;;28
+Narayanganj;2;670203013;;Mijmiji Paschim Para;Abdul Kasim Mian;6;30;11;2;1;3;1;1;2;1;2;1;1;2;2;1;3;;;23
+Narayanganj;2;670203014;;Mijmiji Paschim Para;Kabir Hossain;6;26;11;3;2;2;1;1;2;1;1;4;3;3;1;2;2;;;28
+Narayanganj;2;670203015;;Mijmiji Paschim Para;Mokteer Hossain;6;35;11;2;1;3;2;1;3;1;3;3;4;3;2;2;4;;;34
+Narayanganj;2;670204001;;Chowdhuri para and Pinadi;Asad Mian;7;30;11;3;1;3;1;1;1;3;4;2;4;2;4;3;3;;;35
+Narayanganj;2;670204002;;Chowdhuri para and Pinadi;Amir Hossain;13;60;11;1;1;1;1;1;1;3;1;2;3;2;2;3;3;;;25
+Narayanganj;2;670204003;;Chowdhuri para and Pinadi;Habibur Rahman;6;25;11;1;1;2;2;1;1;3;2;2;4;1;2;2;1;;;25
+Narayanganj;2;670204004;;Chowdhuri para and Pinadi;Anower ( santir Ma);6;30;11;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;2;670204005;;Chowdhuri para and Pinadi;Sukkur Ali;5;20;11;4;4;4;2;1;1;1;2;2;4;3;3;3;4;;;38
+Narayanganj;2;670204006;;Chowdhuri para and Pinadi;Poritos Sarker;5;20;11;1;1;2;1;1;1;1;2;3;3;2;2;2;1;;;23
+Narayanganj;2;670204007;;Chowdhuri para and Pinadi;Rawson Ara;5;15;11;2;1;4;2;1;1;3;3;4;3;3;4;4;2;;;37
+Narayanganj;2;670204008;;Chowdhuri para and Pinadi;Tajuddin Bhuian;6;36;11;4;3;4;2;1;1;2;3;3;4;3;4;4;4;;;42
+Narayanganj;2;670204009;;Chowdhuri para and Pinadi;Kamal Hossain;6;38;11;4;2;3;2;1;1;2;2;2;3;1;3;3;4;;;33
+Narayanganj;2;670205001;;Kanda Para;Joynal Mian;12;55;11;2;4;4;1;1;1;4;2;1;1;2;4;2;4;;;33
+Narayanganj;2;670205002;;Kanda Para;Ali Hossain;13;58;11;4;4;4;1;1;4;4;3;1;2;3;4;4;4;;;43
+Narayanganj;2;670205003;;Kanda Para;Nazimuddin;10;46;11;4;4;4;1;1;4;4;4;1;2;2;4;2;4;;;41
+Narayanganj;2;670205004;;Kanda Para;Farid Uddin;5;21;11;2;4;4;1;4;4;1;1;1;1;1;4;4;4;;;36
+Narayanganj;2;670205005;;Kanda Para;Prottasa School;15;72;11;1;1;4;1;1;1;1;4;1;2;2;4;2;4;;;29
+Narayanganj;2;670206001;;Saheb Para;Nazmuler Bari;6;30;11;3;2;4;4;1;4;1;4;3;3;4;4;2;4;;;43
+Narayanganj;2;670206002;;Saheb Para;Dud Mian;7;32;11;3;1;4;1;1;3;1;4;3;3;4;1;2;4;;;35
+Narayanganj;2;670206003;;Saheb Para;Makarer bari;55;176;11;4;4;4;3;1;4;1;3;3;3;4;4;1;4;;;43
+Narayanganj;2;670206004;;Saheb Para;Kamruler Bari;18;62;11;4;4;4;3;1;4;1;3;3;3;4;4;3;4;;;45
+Narayanganj;2;670206005;;Saheb Para;Rahimer Bari;14;65;11;4;4;4;2;1;1;1;2;3;3;4;4;2;4;;;39
+Narayanganj;2;670206006;;Saheb Para;Satter Bari;14;32;11;4;3;4;4;1;3;1;3;4;3;4;4;3;4;;;45
+Narayanganj;2;670206007;;Saheb Para;Jamal Mian;12;35;11;4;2;4;4;1;4;1;3;3;4;3;4;3;4;;;44
+Narayanganj;2;670206008;;Saheb Para;Rahima Begum;22;68;11;2;1;4;1;3;2;1;3;3;3;4;4;2;4;;;37
+Narayanganj;2;670206009;;Saheb Para;Matin;80;320;11;3;1;4;1;1;2;1;3;2;2;3;1;1;2;;;27
+Narayanganj;3;670301001;;Madani Nagor;Ikra commarce Clooege Purba side;50;210;11;2;1;4;2;1;2;1;4;4;3;4;4;1;4;;;37
+Narayanganj;3;670301002;;Madani Nagor;M.n madrasher Uttor;30;100;11;2;1;4;2;1;3;1;4;4;3;4;4;1;4;;;38
+Narayanganj;3;670301003;;Madani Nagor;Adresha S. Academi;60;300;11;2;1;4;2;1;1;2;4;4;1;3;4;1;4;;;34
+Narayanganj;3;670301004;;Madani Nagor;Al Amin Bidda pith;50;280;11;4;4;4;4;1;2;3;4;4;1;3;4;1;4;;;43
+Narayanganj;3;670301005;;Madani Nagor;Datch bangla dhakin Side;85;350;11;3;3;4;2;1;3;1;4;4;3;3;4;2;4;;;41
+Narayanganj;3;670302001;;Mukti Nagor;Sadek Mian;100;335;11;4;3;4;4;1;3;4;4;4;4;4;4;4;4;;;51
+Narayanganj;3;670302002;;Mukti Nagor;Chandu Mian;170;604;11;4;4;4;1;4;4;4;4;4;1;4;4;4;4;;;50
+Narayanganj;3;670302003;;Mukti Nagor;Adam Ali;140;573;11;4;4;4;1;1;4;1;4;2;2;4;4;4;4;;;43
+Narayanganj;3;670302004;;Mukti Nagor;Suman;80;232;11;4;4;4;2;2;4;4;3;4;2;4;4;4;4;;;49
+Narayanganj;3;670302005;;Mukti Nagor;Chora Zahid;105;408;11;4;3;4;4;4;2;4;3;3;4;2;4;3;4;;;48
+Narayanganj;3;670303001;;Nimai Kashari;Ratan Shaheb Bari;12;36;11;2;3;4;3;4;3;2;4;3;2;2;2;2;1;;;37
+Narayanganj;3;670303002;;Nimai Kashari;Pukur Pae;25;100;11;1;1;4;1;4;1;1;4;2;1;1;2;2;2;;;27
+Narayanganj;3;670303003;;Nimai Kashari;Liakat Mian;60;150;11;3;1;4;1;1;2;1;3;4;2;1;4;2;4;;;33
+Narayanganj;3;670303004;;Nimai Kashari;Mad. Nagor madrasa Paschim Paer;100;500;11;2;1;3;2;2;2;1;3;4;1;1;4;1;4;;;31
+Narayanganj;3;670304001;;Bug Mara;Bagmara Bazar Purba Side;40;190;11;2;4;4;4;1;2;1;4;4;1;1;4;1;4;;;37
+Narayanganj;3;670304002;;Bug Mara;London Menson;60;260;11;2;4;4;1;1;2;1;4;4;1;1;4;1;4;;;34
+Narayanganj;3;670304003;;Bug Mara;College Road;38;180;11;2;4;4;1;1;2;1;4;4;1;1;4;2;4;;;35
+Narayanganj;3;670305001;;Saner Per;Bhuian Bari;70;320;11;1;1;4;1;1;1;2;4;4;1;1;4;1;4;;;30
+Narayanganj;3;670305002;;Saner Per;Lithi Garments Paschim Per;180;800;11;3;1;4;2;1;1;1;4;4;1;1;1;1;1;;;26
+Narayanganj;3;670305003;;Saner Per;Lithi Gar. Uttor Side;200;1000;11;2;1;4;2;1;1;1;4;4;2;1;4;1;4;;;32
+Narayanganj;4;670401001;;Uttor Azimpur-Baganbari-Awlabon;Ajir Alir Bari;35;175;50;1;2;3;1;1;2;1;3;3;2;3;3;1;3;;;29
+Narayanganj;4;670401002;;Uttor Azimpur-Baganbari-Awlabon;Jamal Uddiner Bari;30;152;45;1;2;3;1;1;2;1;2;3;2;3;3;1;3;;;28
+Narayanganj;4;670401003;;Uttor Azimpur-Baganbari-Awlabon;Gias Uddiner Bari;45;218;50;1;1;3;1;1;1;1;3;3;2;3;4;1;3;;;28
+Narayanganj;4;670401004;;Uttor Azimpur-Baganbari-Awlabon;Awlabon;280;1375;50;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670401005;;Uttor Azimpur-Baganbari-Awlabon;Sukur Alir Bari;120;610;50;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670401006;;Uttor Azimpur-Baganbari-Awlabon;Nasir  Alir Bari;162;780;45;1;2;3;1;1;2;1;3;3;3;3;4;1;4;;;32
+Narayanganj;4;670402001;;Konapara;Monirer Bari;22;98;45;1;2;3;1;1;2;1;2;2;2;3;4;2;3;;;29
+Narayanganj;4;670402002;;Konapara;Asrafer Bari;15;70;50;1;2;3;1;1;2;1;3;3;2;3;4;1;3;;;30
+Narayanganj;4;670402003;;Konapara;Billaler Bari;20;91;45;1;2;3;1;1;1;1;3;3;2;3;4;2;4;;;31
+Narayanganj;4;670403001;;Nawabpara;Nearby Kayemer Bari;30;138;50;1;1;3;1;1;3;1;3;3;2;3;4;2;3;;;31
+Narayanganj;4;670403002;;Nawabpara;Ruhul Aminer Barir Pase;46;205;50;1;2;3;1;1;2;1;2;3;2;3;4;1;3;;;29
+Narayanganj;4;670403003;;Nawabpara;Rasider Bari;48;203;50;1;2;3;1;1;3;1;3;3;2;3;3;2;3;;;31
+Narayanganj;4;670404001;;Masua Para;Jitur Bari;50;278;40;1;2;3;1;1;2;1;2;3;2;3;3;1;3;;;28
+Narayanganj;4;670404002;;Masua Para;Saifuler Bari;48;205;50;1;2;3;1;1;3;1;2;2;3;3;3;2;3;;;30
+Narayanganj;4;670404003;;Masua Para;Kadirer Bari;42;190;40;1;2;3;1;1;2;1;3;1;2;3;3;2;3;;;28
+Narayanganj;4;670405001;;Ati;Kudduser bari;68;318;40;1;2;3;1;1;3;1;2;3;2;3;4;1;3;;;30
+Narayanganj;4;670405002;;Ati;Sumon Mahmuder Bari;50;240;40;1;2;3;1;1;3;1;2;3;2;3;4;1;3;;;30
+Narayanganj;4;670405003;;Ati;Kasemer bari;44;156;45;1;2;3;1;1;3;1;2;3;2;3;4;1;3;;;30
+Narayanganj;4;670405004;;Ati;Rajiber bari;30;122;45;1;2;3;1;1;3;1;2;2;3;3;4;1;3;;;30
+Narayanganj;4;670405005;;Ati;Raja Miar Bari;35;138;40;1;2;3;1;1;3;1;2;2;3;3;4;1;4;;;31
+Narayanganj;4;670405006;;Ati;Shah Alomer Bari;30;105;20;1;1;2;1;1;2;1;1;4;1;3;3;2;3;;;26
+Narayanganj;4;670408001;;Ati Bow bazar;Terminaler Pase;120;680;25;1;2;3;1;1;1;1;1;3;2;3;2;1;3;;;25
+Narayanganj;4;670408002;;Ati Bow bazar;Hobul Saheber Bari;42;178;50;1;2;3;1;1;2;1;2;4;2;3;3;1;4;;;30
+Narayanganj;4;670408003;;Ati Bow bazar;Amir Bandarir Bari colony;480;2360;50;1;2;3;1;1;2;1;2;2;2;3;3;1;3;;;27
+Narayanganj;4;670408004;;Ati Bow bazar;Karimer bari;62;235;40;1;2;3;1;1;2;1;2;3;2;3;3;1;3;;;28
+Narayanganj;4;670408005;;Ati Bow bazar;Haji Ahsan Ullah Kacha Bazarer Pase;77;390;40;1;2;3;1;1;1;1;2;2;2;3;3;1;3;;;26
+Narayanganj;4;670408006;;Ati Bow bazar;Main Saheber Bari;43;212;40;1;2;3;1;1;2;1;2;3;3;3;3;1;3;;;29
+Narayanganj;4;670408007;;Ati Bow bazar;Hanifer Bari;42;190;40;1;2;3;1;1;2;1;1;3;2;3;4;1;3;;;28
+Narayanganj;4;670409001;;Shimrail Techpara;Chandu Madborer bari;25;90;30;1;2;3;1;1;2;1;3;3;3;3;3;1;4;;;31
+Narayanganj;4;670409002;;Shimrail Techpara;osmaner bari;32;160;50;1;2;3;1;1;2;1;2;3;2;3;3;1;3;;;28
+Narayanganj;4;670409003;;Shimrail Techpara;G M S Colony;60;290;40;1;2;3;1;1;1;1;2;3;2;3;3;1;3;;;27
+Narayanganj;4;670410001;;Shimrail Boubazar;Haji Rahimer Bari;62;305;50;1;1;3;1;1;1;1;2;3;2;3;2;1;3;;;25
+Narayanganj;4;670410002;;Shimrail Boubazar;Abbas alir bari;65;320;40;1;1;3;1;1;1;1;1;3;2;3;3;1;3;;;25
+Narayanganj;4;670410003;;Shimrail Boubazar;Haji Jaliler bari (Molla sarak);130;610;45;1;1;3;1;1;1;1;1;3;2;3;3;1;3;;;25
+Narayanganj;4;670410004;;Shimrail Boubazar;Shisu kanon Schooler pase;80;370;50;1;2;3;1;1;2;1;4;3;2;3;4;1;4;;;32
+Narayanganj;4;670410005;;Shimrail Boubazar;Dabir Uddiner bari;25;218;45;1;1;3;1;1;1;1;1;3;2;3;3;1;3;;;25
+Narayanganj;4;670410006;;Shimrail Boubazar;Latifer Bari;71;355;50;1;2;3;1;1;1;1;2;3;2;3;3;1;3;;;27
+Narayanganj;4;670411001;;Shimrail Maidda para;Abul Hosener bari;7;20;50;1;1;4;1;1;1;1;1;2;2;3;4;1;4;;;27
+Narayanganj;4;670411002;;Shimrail Maidda para;Alom Khaner bari;27;86;55;1;2;1;1;1;3;1;4;4;2;3;4;1;4;;;32
+Narayanganj;4;670411003;;Shimrail Maidda para;Paras alir bari;14;50;18;1;2;3;1;1;2;1;4;3;2;3;4;1;3;;;31
+Narayanganj;4;670411004;;Shimrail Maidda para;Ratna and Ainal Hoqer Bari;15;55;45;1;2;3;1;1;1;1;3;3;2;3;4;1;3;;;29
+Narayanganj;4;670412001;;Shimrail Uttarpara;Sobhan Jamiderer bari;35;120;50;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670412002;;Shimrail Uttarpara;Hafij and Badsa miar bari;45;225;50;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670412003;;Shimrail Uttarpara;Selim Memberer Bari;29;150;50;1;2;3;1;1;1;1;3;3;2;3;4;1;4;;;30
+Narayanganj;4;670412004;;Shimrail Uttarpara;Lokman Membarer bari;41;205;50;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670412005;;Shimrail Uttarpara;Rani apar bari;21;126;45;1;2;3;1;1;1;1;3;3;2;3;3;1;3;;;28
+Narayanganj;4;670412006;;Shimrail Uttarpara;Rohomer bari Colony;70;360;50;1;2;3;1;1;2;1;2;3;2;3;3;1;3;;;28
+Narayanganj;4;670412007;;Shimrail Uttarpara;Jalil Madborer bari;35;175;50;1;2;3;1;1;2;1;2;3;2;4;4;1;3;;;30
+Narayanganj;4;670412008;;Shimrail Uttarpara;Kamal and Gofurer bari;50;300;50;1;2;3;1;1;1;1;1;3;2;3;3;1;3;;;26
+Narayanganj;5;670501001;;Sardar Para;Refuji;129;600;50;2;1;4;1;1;2;1;2;3;3;1;2;2;2;;;27
+Narayanganj;5;670501002;;Sardar Para;Rowshon Ali Buyiar Bari;50;250;70;2;1;4;1;1;2;1;2;3;3;1;2;2;2;;;27
+Narayanganj;5;670501003;;Sardar Para;Iqbal Shaheber bari;40;200;50;2;1;4;1;1;2;1;2;3;3;1;2;2;2;;;27
+Narayanganj;5;670501004;;Sardar Para;Molon Hossain Mattabarer  Shaheber Bari;80;500;70;2;1;4;1;1;2;1;2;3;3;1;2;2;2;;;27
+Narayanganj;5;670501005;;Sardar Para;Alhaj Md. Year Hossain;60;300;70;2;1;4;1;1;2;1;2;3;3;1;2;2;2;;;27
+Narayanganj;5;670502001;;Azibpur Dokkhin;Rail line to Sailo ghate;600;3000;18;2;3;4;1;1;1;1;4;3;3;1;1;1;1;;;27
+Narayanganj;5;670502002;;Azibpur Dokkhin;Hanifer Bari;60;300;52;4;4;4;1;1;1;4;4;3;4;1;4;4;4;;;43
+Narayanganj;5;670502003;;Azibpur Dokkhin;Kasem Saider bari;11;50;70;2;4;4;1;1;1;4;4;3;3;1;4;4;4;;;40
+Narayanganj;5;670502004;;Azibpur Dokkhin;Safi Uddiner bari;20;100;65;4;4;4;1;1;4;4;4;4;4;1;4;4;4;;;47
+Narayanganj;5;670502005;;Azibpur Dokkhin;Haji Abhul Hai Vila;40;200;62;4;4;4;1;1;2;4;4;3;3;1;2;3;2;;;38
+Narayanganj;5;670502006;;Azibpur Dokkhin;Rafiq Miar Bari;60;300;62;2;2;4;1;1;2;1;4;3;3;1;4;4;4;;;36
+Narayanganj;5;670502007;;Azibpur Dokkhin;Sukkor Alir Bari;50;250;70;4;4;4;1;1;2;4;3;3;3;1;4;3;4;;;41
+Narayanganj;5;670502008;;Azibpur Dokkhin;Neta Sala Uddin Bhaier Bari;150;750;65;2;4;4;1;1;2;2;2;3;3;1;4;3;4;;;36
+Narayanganj;5;670503001;;Umorpur;Haran Kormokerer Pukur par (Pasim);90;450;40;1;1;4;1;1;3;1;4;3;3;1;4;2;4;;;33
+Narayanganj;5;670503002;;Umorpur;haran Kormokerer Pukur par (Dakkin);80;400;60;1;1;4;1;1;3;1;4;3;2;1;4;3;4;;;33
+Narayanganj;5;670504001;;Umorpur Poschim;Rail Line Kangal Para;135;675;30;1;1;4;1;1;1;1;1;2;3;1;1;1;2;;;21
+Narayanganj;5;670504002;;Umorpur Poschim;Pathori para;60;300;60;1;1;4;1;1;3;1;2;4;4;4;3;4;4;;;37
+Narayanganj;5;670505001;;Kalabag Poschim (Sailo Road);Paschim Kalabag;82;410;40;1;1;3;2;1;3;1;2;3;3;2;4;1;2;;;29
+Narayanganj;5;670505002;;Kalabag Poschim (Sailo Road);Choudhuri Bari;60;300;45;1;1;4;1;1;2;1;3;3;2;1;4;3;4;;;31
+Narayanganj;5;670505003;;Kalabag Poschim (Sailo Road);Madrasa Road;56;280;40;1;1;4;1;1;2;1;4;3;1;1;4;3;4;;;31
+Narayanganj;5;670506001;;Hatkhola;Refuji Para;9;54;52;1;1;4;1;4;3;4;4;4;3;4;4;4;3;;;44
+Narayanganj;5;670506002;;Hatkhola;hatkhula;10;50;20;4;4;4;1;1;4;4;4;4;4;3;4;4;4;;;49
+Narayanganj;5;670507001;;Munshipara;Munsi Para;10;27;40;4;4;4;2;1;3;4;3;4;4;4;1;3;2;;;43
+Narayanganj;5;670507002;;Munshipara;Kalabag purbo;20;120;200;4;4;4;1;1;4;4;4;4;4;3;4;4;4;;;49
+Narayanganj;5;670508001;;Sailogate;Beparipara;102;550;200;4;4;4;1;1;4;4;4;4;4;3;4;4;4;;;49
+Narayanganj;5;670509001;;Sardar Bazar;Sardarbazar (kalabag Purbo);150;750;160;1;1;4;1;1;1;4;3;4;4;3;2;2;3;;;34
+Narayanganj;5;670511001;;Kalabag Purbo Madrasha Road;Kalabag;10;70;200;4;4;4;1;1;4;4;4;4;4;3;4;4;4;;;49
+Narayanganj;6;670601001;;Bagpara Padma Road;Almas Mollar bari;7;45;25;1;1;3;1;1;1;1;4;2;2;1;4;3;4;;;29
+Narayanganj;6;670601002;;Bagpara Padma Road;Sahalam Mridar Bari;5;25;20;2;4;3;1;1;1;1;4;2;2;1;4;4;4;;;34
+Narayanganj;6;670601003;;Bagpara Padma Road;Mamin Alir Bari;6;25;30;1;1;3;1;1;1;1;3;1;2;1;1;4;2;;;23
+Narayanganj;6;670601004;;Bagpara Padma Road;Najma Akter;7;30;8;2;1;4;1;1;1;1;3;4;2;1;4;1;4;;;30
+Narayanganj;6;670601005;;Bagpara Padma Road;Latu Kaji Bari;20;80;30;1;1;3;1;1;1;1;4;1;1;1;1;1;4;;;22
+Narayanganj;6;670601006;;Bagpara Padma Road;Raksuter bari;11;40;28;1;1;4;1;1;1;1;4;1;1;1;1;1;4;;;23
+Narayanganj;6;670601007;;Bagpara Padma Road;Mostofa bari;9;35;22;1;1;3;1;1;1;1;4;1;1;1;1;1;4;;;22
+Narayanganj;6;670601008;;Bagpara Padma Road;Akkas Miar Bari;35;160;60;2;1;4;2;1;1;1;1;2;1;4;1;1;4;;;26
+Narayanganj;6;670602001;;Mondal Para;Saidullar Bari;15;90;40;2;1;4;1;2;2;1;3;3;3;4;4;3;4;;;37
+Narayanganj;6;670603001;;Sonil Para Moonlight Purba & Paschim;Md. Shek Jalal Uddiner Bari;5;50;50;1;1;4;1;3;1;1;4;3;1;3;4;1;4;;;32
+Narayanganj;6;670603002;;Sonil Para Moonlight Purba & Paschim;Md. Nazir, Saida and Rabear bari;10;50;70;1;1;4;1;3;3;1;4;4;1;2;4;1;4;;;34
+Narayanganj;6;670603003;;Sonil Para Moonlight Purba & Paschim;Md. Billal Saheber Bari;8;40;40;2;1;3;1;3;4;1;4;4;1;2;4;1;4;;;35
+Narayanganj;6;670603004;;Sonil Para Moonlight Purba & Paschim;Supari walar bari;14;70;50;4;3;3;1;3;2;2;3;4;1;2;4;1;4;;;37
+Narayanganj;6;670603005;;Sonil Para Moonlight Purba & Paschim;Md. Abed Vila;9;45;60;4;1;4;1;4;1;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603006;;Sonil Para Moonlight Purba & Paschim;Md. Fajal Karim Mostofa;12;60;50;4;1;4;1;4;1;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603007;;Sonil Para Moonlight Purba & Paschim;Md. Jahur Ali Munshi;15;70;50;1;1;4;1;4;1;4;3;4;1;2;4;1;4;;;35
+Narayanganj;6;670603008;;Sonil Para Moonlight Purba & Paschim;Haji Abdur Rowson Ali;5;25;50;1;1;4;1;4;4;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603009;;Sonil Para Moonlight Purba & Paschim;Md. Gulam Mostofa Befari;7;35;50;4;1;4;1;4;1;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603010;;Sonil Para Moonlight Purba & Paschim;Dr. Haji Nurul Islamer Bari;18;90;20;4;1;4;1;3;1;4;4;4;1;2;4;1;4;;;38
+Narayanganj;6;670603011;;Sonil Para Moonlight Purba & Paschim;Md. Kalek Misrir Bari;18;90;17;4;1;4;1;3;1;4;4;4;1;2;4;1;4;;;38
+Narayanganj;6;670603012;;Sonil Para Moonlight Purba & Paschim;Tased Mulla;7;35;45;3;1;4;1;3;4;4;4;4;1;2;4;1;4;;;40
+Narayanganj;6;670603013;;Sonil Para Moonlight Purba & Paschim;Haji Md. Shukkur Ali;10;50;50;1;1;4;1;4;4;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603014;;Sonil Para Moonlight Purba & Paschim;Md. Jakir Mulla;8;40;45;1;1;4;1;4;3;4;4;4;1;2;4;1;4;;;38
+Narayanganj;6;670603015;;Sonil Para Moonlight Purba & Paschim;Md.Shafique Mulla;15;75;45;1;1;4;1;3;3;4;4;4;1;2;3;1;4;;;36
+Narayanganj;6;670603016;;Sonil Para Moonlight Purba & Paschim;Md. Deluar Saheb;6;30;40;4;1;4;1;3;1;2;3;3;1;3;4;1;4;;;35
+Narayanganj;6;670603017;;Sonil Para Moonlight Purba & Paschim;Hajrat Iman Ali;14;70;50;1;1;4;1;4;1;4;3;1;1;2;4;1;4;;;32
+Narayanganj;6;670603018;;Sonil Para Moonlight Purba & Paschim;Late Ataur Rahmaner Bari;12;60;40;2;1;4;1;3;1;2;4;3;1;3;4;1;4;;;34
+Narayanganj;6;670603019;;Sonil Para Moonlight Purba & Paschim;Md. Nurul Islam;6;30;20;4;2;3;1;4;1;4;4;4;1;2;4;1;4;;;39
+Narayanganj;6;670603020;;Sonil Para Moonlight Purba & Paschim;Kalam, Kasem, Hamid, Samad;8;40;45;1;1;3;1;3;1;2;3;4;1;2;4;1;4;;;31
+Narayanganj;6;670603021;;Sonil Para Moonlight Purba & Paschim;Kurban Ali, Hossen Sardar;15;75;45;1;1;3;1;4;1;2;4;4;1;2;4;1;4;;;33
+Narayanganj;6;670603022;;Sonil Para Moonlight Purba & Paschim;Rafikul Basar/Abul Basar;6;30;45;2;1;3;1;4;1;2;3;4;1;2;4;1;4;;;33
+Narayanganj;6;670603023;;Sonil Para Moonlight Purba & Paschim;Ali Member;8;40;50;1;1;3;1;2;1;2;4;4;1;2;4;1;4;;;31
+Narayanganj;6;670603024;;Sonil Para Moonlight Purba & Paschim;Md. Usman;7;35;50;1;1;3;1;4;1;4;3;4;1;2;4;1;4;;;34
+Narayanganj;6;670603025;;Sonil Para Moonlight Purba & Paschim;Md.Abdur Rahman;8;40;35;3;1;3;1;4;1;4;3;4;1;2;4;1;4;;;36
+Narayanganj;6;670603026;;Sonil Para Moonlight Purba & Paschim;Harun Rasid Prodan;6;30;50;1;1;3;1;4;4;2;3;4;1;2;4;1;4;;;35
+Narayanganj;6;670603027;;Sonil Para Moonlight Purba & Paschim;Abdul Aziz Mia;6;30;50;2;1;4;1;4;1;2;4;4;1;2;3;1;4;;;34
+Narayanganj;6;670603028;;Sonil Para Moonlight Purba & Paschim;Md. Hasmot Mia;7;35;50;3;1;3;1;4;3;4;3;4;1;2;4;1;4;;;38
+Narayanganj;6;670603029;;Sonil Para Moonlight Purba & Paschim;Abdul Mannan;6;30;45;1;1;3;1;4;1;4;3;4;1;2;4;1;4;;;34
+Narayanganj;6;670603030;;Sonil Para Moonlight Purba & Paschim;Lalchan Dalal and Sahabuddiner Bari;20;100;50;2;1;3;1;3;2;3;4;3;1;3;4;1;4;;;35
+Narayanganj;6;670604001;;Sumil Para Aail Para;Baira bari Uttar;18;80;57;1;1;4;1;1;2;1;2;1;3;1;2;4;4;;;28
+Narayanganj;6;670604002;;Sumil Para Aail Para;Makbul Hossain;17;60;20;2;4;3;1;1;2;1;2;2;3;3;4;2;4;;;34
+Narayanganj;6;670604003;;Sumil Para Aail Para;Salam;13;48;9;2;2;4;1;1;2;1;1;2;3;3;4;1;4;;;31
+Narayanganj;6;670604004;;Sumil Para Aail Para;Ainul Haqer Basa;15;60;60;2;2;3;1;1;3;1;2;2;2;4;4;1;4;;;32
+Narayanganj;6;670604005;;Sumil Para Aail Para;Deluar Sarder Beg;16;60;15;2;2;4;1;1;1;1;2;3;2;4;4;1;4;;;32
+Narayanganj;6;670604006;;Sumil Para Aail Para;Kalil Pagla (Anek Chand);20;80;10;1;2;4;1;1;1;1;2;2;3;4;4;1;4;;;31
+Narayanganj;6;670604007;;Sumil Para Aail Para;Md. Safiuddin;12;50;15;1;1;4;1;1;1;1;3;2;2;4;4;1;4;;;30
+Narayanganj;6;670604008;;Sumil Para Aail Para;Md.Akter Hossain;5;29;50;1;4;1;1;1;1;1;4;3;3;4;4;1;4;;;33
+Narayanganj;6;670604009;;Sumil Para Aail Para;Abdul Kadir;20;72;12;3;1;4;1;1;2;3;1;3;3;4;4;1;4;;;35
+Narayanganj;6;670604010;;Sumil Para Aail Para;Siraj Memberer Bari;16;52;70;3;3;4;1;1;1;2;2;2;2;4;4;4;4;;;37
+Narayanganj;6;670604011;;Sumil Para Aail Para;kalek Misrir Basati bari;27;90;35;2;3;4;1;1;1;2;1;3;3;2;4;1;4;;;32
+Narayanganj;6;670604012;;Sunil para -Ail Para;Safar Ali Buya Basati;38;105;50;1;1;4;1;1;1;2;2;2;2;3;3;2;4;;;29
+Narayanganj;6;670605001;;Sonamia Market Nuton Bazar;Md. Selim Kha;5;20;20;2;1;4;1;1;1;1;4;4;4;4;4;4;4;;;39
+Narayanganj;6;670605002;;Sonamia Market Nuton Bazar;Md. Sharif Uddin;5;20;20;2;1;4;1;1;2;2;4;2;4;4;4;4;4;;;39
+Narayanganj;6;670605003;;Sonamia Market Nuton Bazar;Milon (abdul Barek);12;50;20;2;1;4;1;1;2;1;2;4;4;4;4;4;4;;;38
+Narayanganj;6;670605004;;Sonamia Market Nuton Bazar;Salim Kha Bari;30;160;65;2;1;4;1;1;1;1;2;4;4;2;4;4;4;;;35
+Narayanganj;6;670605005;;Sonamia Market Nuton Bazar;Manik Khan;5;25;70;2;1;4;1;4;2;3;3;2;4;4;4;4;4;;;42
+Narayanganj;6;670605006;;Sonamia Market Nuton Bazar;Yunus Kha;6;20;60;2;1;4;1;4;4;2;3;4;4;1;4;4;4;;;42
+Narayanganj;6;670605007;;Sonamia Market Nuton Bazar;Amjad Buyia;5;20;15;2;1;3;1;1;1;2;2;3;1;2;4;1;4;;;28
+Narayanganj;6;670605008;;Sonamia Market Nuton Bazar;Ajim Kha;8;50;40;2;1;4;1;3;1;2;1;4;4;4;4;4;4;;;39
+Narayanganj;6;670605009;;Sonamia Market Nuton Bazar;Abdul Jamidar;15;70;60;2;1;4;1;4;2;2;4;4;4;4;4;4;4;;;44
+Narayanganj;6;670605010;;Sonamia Market Nuton Bazar;Nur Islam;10;40;60;2;1;4;1;4;4;2;4;4;4;4;4;4;4;;;46
+Narayanganj;6;670605011;;Sonamia Market Nuton Bazar;Rowshon Begum;13;60;3;2;1;4;1;2;4;2;4;4;4;4;4;4;4;;;44
+Narayanganj;6;670605012;;Sonamia Market Nuton Bazar;Jalu Mia;5;25;55;2;1;4;1;1;1;1;2;4;4;4;4;4;1;;;34
+Narayanganj;6;670606001;;Adamzi EPZ Behari Camp;3 No. Balur Mat 1;15;90;46;1;1;3;1;1;1;1;3;2;2;1;1;1;1;;;20
+Narayanganj;6;670606002;;Adamzi EPZ Behari Camp;3 No. Balur Mat 2;12;60;45;1;1;3;1;1;1;1;2;2;2;1;1;1;1;;;19
+Narayanganj;6;670606003;;Adamzi EPZ Behari Camp;3 No. Balur Mat 3;13;78;45;1;1;1;1;1;1;2;2;2;2;1;1;1;1;;;18
+Narayanganj;6;670606004;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor;20;140;45;1;1;3;1;1;1;2;2;2;2;1;1;1;1;;;20
+Narayanganj;6;670606005;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 2;20;140;45;1;1;3;1;1;1;1;2;2;2;1;1;1;1;;;19
+Narayanganj;6;670606006;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 3;20;120;45;1;1;3;1;1;1;1;2;2;2;1;1;1;1;;;19
+Narayanganj;6;670606007;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 4;20;160;45;1;1;1;1;1;1;1;2;1;2;1;1;1;1;;;16
+Narayanganj;6;670606008;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 5;25;150;45;1;1;2;1;1;1;1;2;1;2;1;1;1;1;;;17
+Narayanganj;6;670606009;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 6;24;192;45;1;1;1;1;1;1;1;2;2;2;1;1;1;1;;;17
+Narayanganj;6;670606010;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 7;22;154;45;1;1;1;1;1;2;1;2;1;2;1;1;2;1;;;18
+Narayanganj;6;670606011;;Adamzi EPZ Behari Camp;3. No.Balur Mat Tin Shed Ghor 8;21;126;45;1;1;1;1;1;1;1;2;2;1;1;1;1;2;;;17
+Narayanganj;6;670606012;;Adamzi EPZ Behari Camp;3  No. Balur Mat Tinshed Ghor 9;20;140;45;1;1;2;1;1;1;1;2;2;1;1;1;1;1;;;17
+Narayanganj;6;670606013;;Adamzi EPZ Behari Camp;3 No. Balur Mat Tinshed Ghor 10;22;176;45;1;1;1;1;1;1;1;2;2;2;1;1;1;1;;;17
+Narayanganj;6;670606014;;Adamzi EPZ Behari Camp;3 No. Balur Mat Masjid Alaka;15;90;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606015;;Adamzi EPZ Behari Camp;3 No. Balur Mat Natun Tinshed;20;120;45;1;1;2;1;1;1;1;2;1;2;1;1;1;1;;;17
+Narayanganj;6;670606016;;Adamzi EPZ Behari Camp;3 No. Balur Mat Natun Tinshed 2;25;150;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606017;;Adamzi EPZ Behari Camp;Sunil Para N Sector;30;180;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606018;;Adamzi EPZ Behari Camp;Sunil Para N Sector 2;35;210;40;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;6;670606019;;Adamzi EPZ Behari Camp;Sunil Para N Sector 3;25;175;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606020;;Adamzi EPZ Behari Camp;Sunil Para N Sector 4;30;180;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606021;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""A""";35;210;45;1;1;1;1;2;1;1;2;1;1;1;1;1;1;;;16
+Narayanganj;6;670606022;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""A"" 1";30;210;45;1;1;2;1;1;1;1;2;1;1;1;1;1;1;;;16
+Narayanganj;6;670606023;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""B""";30;180;45;1;1;1;1;1;2;1;2;2;1;1;1;1;1;;;17
+Narayanganj;6;670606024;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""B""";35;210;45;1;1;1;1;1;2;1;2;1;1;1;1;1;1;;;16
+Narayanganj;6;670606025;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""C""";30;180;45;1;1;1;1;1;1;1;1;1;1;1;1;1;2;;;15
+Narayanganj;6;670606026;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""D""";35;245;45;1;1;1;1;2;1;1;1;1;1;1;1;1;1;;;15
+Narayanganj;6;670606027;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""D""";30;210;45;1;1;1;1;1;1;1;1;1;2;1;1;1;1;;;15
+Narayanganj;6;670606028;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""E""";35;210;45;1;1;3;1;1;1;1;2;2;2;1;1;1;1;;;19
+Narayanganj;6;670606029;;Adamzi EPZ Behari Camp;"Sunil Para Sector "" F""";30;180;45;1;1;1;1;1;2;1;2;1;1;1;1;1;1;;;16
+Narayanganj;6;670606030;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""E""";35;210;45;1;1;1;1;1;2;1;2;1;2;1;1;1;1;;;17
+Narayanganj;6;670606031;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""G""";40;280;45;1;1;1;1;1;1;1;1;2;2;1;1;1;1;;;16
+Narayanganj;6;670606032;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""D""";80;200;45;1;1;1;1;1;1;1;1;1;2;1;1;1;1;;;15
+Narayanganj;6;670606033;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""DG""";35;210;45;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;6;670606034;;Adamzi EPZ Behari Camp;"Sunil Para Sector ""F"" 2";50;250;45;1;1;3;1;1;1;1;2;2;1;1;1;1;2;;;19
+Narayanganj;6;670606035;;Adamzi EPZ Behari Camp;"Sunil Para Sector "" H""";45;225;45;1;1;2;1;2;1;1;2;1;1;1;1;1;1;;;17
+Narayanganj;6;670607001;;Char Shimul Para;Abu Bakkar;6;30;52;1;4;3;1;1;2;1;1;1;2;1;4;3;1;;;26
+Narayanganj;6;670607002;;Char Shimul Para;Kadirer Bari;14;70;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607003;;Char Shimul Para;Deluar;10;50;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607004;;Char Shimul Para;Rasider Bari;7;42;52;1;4;3;1;1;1;1;1;1;4;1;4;3;1;;;27
+Narayanganj;6;670607005;;Char Shimul Para;Mujibor;8;56;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607006;;Char Shimul Para;Kowddon;10;50;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607007;;Char Shimul Para;Shamsul Haque;15;80;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607008;;Char Shimul Para;Ismailr bari;6;36;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607009;;Char Shimul Para;Muksed Ali;10;50;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607010;;Char Shimul Para;Musu;12;60;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607011;;Char Shimul Para;Moron;13;70;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607012;;Char Shimul Para;Runa;16;80;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607013;;Char Shimul Para;Tahar;16;80;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607014;;Char Shimul Para;Sumon Bari;14;70;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607015;;Char Shimul Para;Miju;16;80;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607016;;Char Shimul Para;Ismail;12;60;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;6;670607017;;Char Shimul Para;Ajhar;7;30;52;1;4;3;1;1;1;1;1;1;2;1;4;3;1;;;25
+Narayanganj;7;670702001;;Kadamtoli Uttar Moddha Para;Surhab babu;15;60;30;2;3;4;1;1;3;1;3;3;3;4;4;4;4;;;40
+Narayanganj;7;670702002;;Kadamtoli Uttar Moddha Para;Mamun;10;30;40;2;1;4;1;1;4;1;3;3;3;4;4;4;4;;;39
+Narayanganj;7;670702003;;Kadamtoli Uttar Moddha Para;Karam Ali;10;45;40;4;4;4;1;1;3;4;3;3;3;4;4;4;4;;;46
+Narayanganj;7;670702004;;Kadamtoli Uttar Moddha Para;Kasem Haji;10;40;35;2;4;4;1;1;4;3;4;3;3;4;4;4;4;;;45
+Narayanganj;7;670703001;;Kadomtoli College Para;Jalanir Bari;20;120;35;4;4;4;2;1;1;4;3;2;1;3;4;4;4;;;41
+Narayanganj;7;670703002;;Kadomtoli College Para;Sitokhar Bari;25;130;30;1;1;4;1;1;1;1;2;2;3;3;4;4;4;;;32
+Narayanganj;7;670703003;;Kadomtoli College Para;Amiskar Bari;15;80;30;2;1;4;1;1;3;1;3;3;3;4;4;4;4;;;38
+Narayanganj;7;670703004;;Kadomtoli College Para;Shamsur bari;25;120;35;1;1;4;1;1;3;1;3;3;3;3;3;3;3;;;33
+Narayanganj;7;670703005;;Kadomtoli College Para;Yusuf Sahaber bari;20;100;30;1;1;4;1;1;3;1;3;3;3;4;4;4;4;;;37
+Narayanganj;7;670703006;;Kadomtoli College Para;Shukur Khaner bari;25;120;30;1;1;4;1;1;3;1;3;3;3;4;4;4;3;;;36
+Narayanganj;7;670703007;;Kadomtoli College Para;Siddiq Mira bari;20;115;32;1;1;4;1;1;3;1;3;3;3;3;4;4;4;;;36
+Narayanganj;7;670703008;;Kadomtoli College Para;Poulkhar bari;15;100;35;1;1;4;1;1;3;1;3;3;3;4;4;4;4;;;37
+Narayanganj;7;670704001;;Kadomtoli Naya Para;Ramij Uddiner Bari;7;28;50;1;1;3;1;1;4;1;4;4;1;3;4;1;3;;;32
+Narayanganj;7;670704002;;Kadomtoli Naya Para;Ali nurere bari;9;42;30;1;4;3;4;1;4;1;4;4;1;3;4;1;3;;;38
+Narayanganj;7;670704003;;Kadomtoli Naya Para;Nurar Bari;7;27;15;1;1;3;4;1;4;1;4;4;1;3;4;1;3;;;35
+Narayanganj;7;670704004;;Kadomtoli Naya Para;Nasirer Bari;5;26;20;1;1;3;4;1;4;1;4;4;1;3;4;1;3;;;35
+Narayanganj;7;670704005;;Kadomtoli Naya Para;Dulal Miar Bari;5;27;40;1;1;3;4;1;4;1;4;3;1;3;4;1;3;;;34
+Narayanganj;7;670704006;;Kadomtoli Naya Para;Faruq Sarkerer bari;15;60;20;1;1;3;4;1;4;1;4;4;1;3;4;1;3;;;35
+Narayanganj;7;670705001;;Kadomtoli Dokkhin Naya Para;Kuddus Ali;30;120;35;1;1;3;1;1;2;1;3;4;3;1;3;4;2;;;30
+Narayanganj;7;670705002;;Kadomtoli Dokkhin Naya Para;Naju Mian;42;150;35;1;1;3;1;1;2;1;3;4;3;1;3;4;2;;;30
+Narayanganj;7;670705003;;Kadomtoli Dokkhin Naya Para;Afsar Uddin;45;160;45;1;1;3;1;1;2;1;2;3;4;1;2;2;2;;;26
+Narayanganj;7;670705004;;Kadomtoli Dokkhin Naya Para;Firoj Mian;29;135;35;1;1;3;1;1;2;1;3;4;3;1;2;2;2;;;27
+Narayanganj;7;670706001;;Kadomtoli Godnail Naya Para;Alhaj Siddiqur Rahmaner bari;8;30;5;1;1;3;1;1;1;1;4;1;1;1;2;1;1;;;20
+Narayanganj;7;670706002;;Kadomtoli Godnail Naya Para;Mokbul Hossain;16;60;12;2;1;4;1;1;3;1;4;4;1;1;4;3;4;;;34
+Narayanganj;7;670706003;;Kadomtoli Godnail Naya Para;Laldalan;7;20;60;2;1;4;1;1;1;1;4;1;1;1;1;1;1;;;21
+Narayanganj;7;670706004;;Kadomtoli Godnail Naya Para;Sahedali Munsi;6;50;12;2;1;3;1;1;1;1;4;1;1;1;1;1;1;;;20
+Narayanganj;7;670706005;;Kadomtoli Godnail Naya Para;Fatiq sardar;8;25;12;1;1;3;1;1;1;1;1;1;1;1;1;1;1;;;16
+Narayanganj;7;670706006;;Kadomtoli Godnail Naya Para;Fatema Manjil;8;20;22;1;1;3;1;1;1;1;4;1;1;1;1;1;1;;;19
+Narayanganj;7;670706007;;Kadomtoli Godnail Naya Para;Fajlul Haque;9;60;12;1;1;3;1;1;1;1;4;1;1;1;1;1;1;;;19
+Narayanganj;7;670707001;;Kadomtoli Moddho Poschim Para;Ayub Alir Bari;8;32;20;1;1;4;1;1;4;1;4;3;2;3;4;4;4;;;37
+Narayanganj;7;670707002;;Kadomtoli Moddho Poschim Para;Nabir Bari;20;120;20;1;1;4;1;1;4;1;4;2;1;3;4;4;4;;;35
+Narayanganj;7;670707003;;Kadomtoli Moddho Poschim Para;Farhader bari;8;40;15;1;1;4;1;1;4;1;4;3;2;3;4;4;4;;;37
+Narayanganj;7;670707004;;Kadomtoli Moddho Poschim Para;Jonider bari;22;110;20;1;1;4;1;4;4;1;4;4;1;4;2;4;4;;;39
+Narayanganj;7;670707005;;Kadomtoli Moddho Poschim Para;Rahimer bari;5;25;15;1;1;4;1;1;4;1;4;3;2;3;4;4;4;;;37
+Narayanganj;7;670708001;;Kadomtoli Uttor Poschim Para;Md Kabir;5;15;10;2;1;3;1;1;3;1;3;3;3;3;4;4;4;;;36
+Narayanganj;8;670801001;;Aail Para;Jalla Para Pull;12;60;75;1;1;4;1;4;4;1;4;4;4;4;4;4;4;;;44
+Narayanganj;8;670801002;;Aail Para;Samir Uddin;13;65;60;1;1;4;1;4;4;1;4;4;4;4;4;4;4;;;44
+Narayanganj;8;670801003;;Aail Para;Shajahan;30;150;40;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;8;670801004;;Aail Para;Jin Khushir Bari;25;125;30;4;4;4;1;4;4;1;3;3;3;3;2;4;3;;;43
+Narayanganj;8;670801005;;Aail Para;Enayet Nagar Bari Mosque Side;30;150;30;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;8;670801006;;Aail Para;Dulal Bari;15;75;10;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;8;670801007;;Aail Para;Enayet Nagar Kg School South;30;150;35;4;4;4;1;4;4;4;4;4;4;4;4;4;4;;;53
+Narayanganj;8;670801008;;Aail Para;Pearless School south Part;20;100;30;4;4;4;1;4;4;4;4;4;4;4;4;4;4;;;53
+Narayanganj;8;670801009;;Aail Para;Comilla Potti;40;200;26;4;4;4;1;4;4;3;3;4;4;3;4;4;4;;;50
+Narayanganj;8;670802001;;Enayet Nagar;Titas Gas;15;75;40;1;1;4;4;4;4;1;4;4;4;4;4;4;4;;;47
+Narayanganj;8;670802002;;Enayet Nagar;Purba enayet Nagar;382;2000;36;1;1;3;1;3;4;1;3;3;3;4;4;4;4;;;39
+Narayanganj;8;670802003;;Enayet Nagar;Matabbar Bari;40;200;32;1;1;4;1;3;4;1;2;4;4;1;4;3;4;;;37
+Narayanganj;8;670802004;;Enayet Nagar;Zulfikar;50;250;30;1;1;3;1;2;3;1;2;4;4;3;4;4;4;;;37
+Narayanganj;8;670802005;;Enayet Nagar;Jabbar Bekari;10;50;30;1;1;4;1;4;4;1;4;4;4;4;4;4;4;;;44
+Narayanganj;8;670802006;;Enayet Nagar;Mohasin;60;300;41;1;2;3;1;4;4;1;4;4;4;4;4;4;4;;;44
+Narayanganj;8;670802007;;Enayet Nagar;Chanel per rulling machine;10;50;40;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;8;670802008;;Enayet Nagar;Chanel per;15;75;40;1;1;4;1;4;4;1;4;4;4;3;4;2;4;;;41
+Narayanganj;8;670802009;;Enayet Nagar;Azizullah Member Bari;35;175;30;1;1;3;1;4;4;1;3;4;4;3;4;4;1;;;38
+Narayanganj;8;670802010;;Enayet Nagar;Ashek Ali;30;180;50;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;8;670803001;;Tat Khana;Sileter Bari;11;55;60;1;1;4;1;4;2;1;3;4;3;4;4;4;4;;;40
+Narayanganj;8;670803002;;Tat Khana;Hossen Khan;20;100;55;2;1;3;1;4;2;1;3;4;4;4;4;4;4;;;41
+Narayanganj;8;670803003;;Tat Khana;Alauddin;16;80;100;1;1;4;3;4;4;2;4;4;4;4;4;4;4;;;47
+Narayanganj;8;670803004;;Tat Khana;Kuddus;60;300;62;1;2;3;1;4;1;1;3;3;4;3;4;4;4;;;38
+Narayanganj;8;670803005;;Tat Khana;Hazrat member Bari;51;255;55;1;1;4;1;4;4;1;4;4;4;4;3;4;4;;;43
+Narayanganj;8;670803006;;Tat Khana;Jamir Ali;20;100;47;1;1;4;1;4;4;4;4;3;3;4;4;4;4;;;45
+Narayanganj;8;670803007;;Tat Khana;Iqbal;35;175;40;2;4;4;1;4;3;1;3;4;3;4;4;4;4;;;45
+Narayanganj;8;670803008;;Tat Khana;Jalla Pagler Math;20;100;42;1;1;3;1;4;4;2;4;3;3;4;4;4;4;;;42
+Narayanganj;8;670803009;;Tat Khana;Afser;29;145;43;1;1;4;1;4;4;4;4;4;3;4;4;4;4;;;46
+Narayanganj;8;670804001;;Bhuian Para;Molla Bari;7;35;55;4;1;4;1;4;1;1;4;4;4;3;4;3;4;;;42
+Narayanganj;8;670804002;;Bhuian Para;Rail Line;127;685;28;1;1;4;1;2;1;2;4;4;4;4;2;1;2;;;33
+Narayanganj;8;670804003;;Bhuian Para;Mukti zoddha Mohiuddin;20;80;75;2;1;4;1;4;1;1;3;4;4;4;4;3;4;;;40
+Narayanganj;8;670804004;;Bhuian Para;Omor Ali;13;40;75;2;1;4;1;4;1;1;3;4;4;4;4;3;4;;;40
+Narayanganj;8;670804005;;Bhuian Para;Haji Rob;6;26;99;2;1;3;1;1;1;1;4;4;4;4;4;1;4;;;35
+Narayanganj;8;670804006;;Bhuian Para;Amir Ali;22;80;80;2;1;4;1;4;4;1;1;4;4;4;2;4;3;;;39
+Narayanganj;8;670804007;;Bhuian Para;Cherag Ali;7;28;7;1;2;1;4;3;4;1;1;4;4;4;3;4;4;;;40
+Narayanganj;8;670804008;;Bhuian Para;Sentu;10;40;45;1;1;4;1;4;4;1;3;4;4;4;4;3;4;;;42
+Narayanganj;8;670804009;;Bhuian Para;Hasem;10;40;75;1;1;4;1;4;1;1;3;4;4;4;4;4;4;;;40
+Narayanganj;8;670804010;;Bhuian Para;Jaynal Abedin;10;38;70;2;1;4;1;4;1;1;3;4;4;4;4;4;4;;;41
+Narayanganj;8;670804011;;Bhuian Para;Karim;8;32;70;2;2;4;1;4;1;1;3;4;4;4;4;1;4;;;39
+Narayanganj;8;670804012;;Bhuian Para;Gazi;15;65;80;2;2;4;1;4;1;1;3;4;4;4;4;3;4;;;41
+Narayanganj;8;670805001;;Syed Para;Kafil Uddin Matbor;50;250;30;1;1;4;1;4;4;1;4;4;4;4;4;4;4;;;44
+Narayanganj;8;670805002;;Syed Para;Siddik Mohazan;25;125;60;1;1;3;1;4;4;1;3;4;4;4;3;4;3;;;40
+Narayanganj;8;670805003;;Syed Para;Kalam;37;185;50;1;1;4;1;4;2;1;4;3;3;4;3;3;4;;;38
+Narayanganj;8;670805004;;Syed Para;Khairul;25;125;30;1;1;4;1;3;4;1;3;3;2;4;4;2;4;;;37
+Narayanganj;8;670805005;;Syed Para;Batash Siraj;10;50;25;1;1;4;1;3;3;1;3;3;3;4;3;3;4;;;37
+Narayanganj;8;670805006;;Syed Para;Akber;25;125;25;1;1;3;1;3;3;1;2;4;4;3;3;4;4;;;37
+Narayanganj;8;670805007;;Syed Para;Forkan;42;210;25;1;1;4;1;4;3;1;2;3;3;3;4;4;4;;;38
+Narayanganj;8;670805008;;Syed Para;Vandari;20;100;35;1;1;3;1;3;3;1;2;3;2;4;3;3;4;;;34
+Narayanganj;8;670806001;;Santi Nagor;Hazrat ali;20;100;30;1;1;3;1;4;2;1;3;3;3;2;4;4;4;;;36
+Narayanganj;8;670806002;;Santi Nagor;Jannatul Ferdous;25;125;20;1;1;4;1;3;2;1;4;3;3;4;3;3;4;;;37
+Narayanganj;8;670806003;;Santi Nagor;Kamarer bari;40;200;25;1;1;3;1;4;2;1;4;4;4;4;3;4;4;;;40
+Narayanganj;8;670806004;;Santi Nagor;Razzak Daktar;40;200;35;1;1;4;1;4;3;1;3;4;4;4;4;4;4;;;42
+Narayanganj;8;670807001;;Modhugar;Nur Huda;12;49;26;1;2;3;1;3;2;1;3;3;2;1;4;4;4;;;34
+Narayanganj;8;670807002;;Modhugar;Noor Hossain;16;83;18;2;1;3;1;3;2;1;3;2;3;3;4;4;4;;;36
+Narayanganj;8;670807003;;Modhugar;Haider;21;89;13;1;1;3;1;3;3;1;4;2;3;3;3;2;1;;;31
+Narayanganj;8;670807004;;Modhugar;Kamal Hossain;7;23;13;3;1;3;2;3;4;1;3;3;2;3;3;3;4;;;38
+Narayanganj;8;670807005;;Modhugar;Momtaz;16;96;20;2;1;3;3;1;1;1;3;2;2;4;4;4;4;;;35
+Narayanganj;8;670807006;;Modhugar;Suraj;12;72;19;2;1;3;3;3;3;1;4;4;3;4;3;3;4;;;41
+Narayanganj;8;670807007;;Modhugar;Fajdul Haque;17;93;22;2;1;3;1;3;3;1;3;2;3;4;3;3;4;;;36
+Narayanganj;8;670807008;;Modhugar;Mokbul;32;156;28;1;1;3;1;1;3;1;3;3;3;4;3;2;2;;;31
+Narayanganj;8;670807009;;Modhugar;Dis Khokon;26;93;23;1;1;3;1;1;3;1;4;2;2;3;2;3;2;;;29
+Narayanganj;8;670807010;;Modhugar;Kashem;26;133;28;1;1;3;1;1;1;1;4;3;3;4;3;2;3;;;31
+Narayanganj;8;670807011;;Modhugar;Jabber;20;180;30;1;1;3;1;3;3;1;3;3;3;1;4;2;4;;;33
+Narayanganj;8;670807012;;Modhugar;Abed;19;130;26;2;1;3;1;3;2;1;3;3;1;4;3;3;4;;;34
+Narayanganj;8;670807013;;Modhugar;Ruma;9;56;12;1;1;3;1;3;3;1;4;2;3;3;3;4;4;;;36
+Narayanganj;8;670807014;;Modhugar;Alomgir;15;67;18;1;1;3;1;1;3;1;3;3;4;4;3;3;4;;;35
+Narayanganj;8;670807015;;Modhugar;Abu syed;13;75;15;1;1;3;1;3;3;1;3;4;2;3;4;4;4;;;37
+Narayanganj;8;670807016;;Modhugar;Siraj;8;45;13;3;1;3;1;3;4;1;4;3;3;4;4;4;4;;;42
+Narayanganj;8;670807017;;Modhugar;Kashem;9;55;9;4;3;3;1;3;4;3;4;4;4;4;4;4;4;;;49
+Narayanganj;8;670808001;;Modina Bug;Gazi kasem;23;79;31;2;2;3;1;2;2;1;3;2;3;4;4;4;4;;;37
+Narayanganj;8;670808002;;Modina Bug;Sumon Bhuian;18;73;23;4;4;3;2;3;2;1;3;4;3;4;4;4;4;;;45
+Narayanganj;8;670808003;;Modina Bug;Habu Howlader;16;75;19;1;1;3;1;1;2;1;2;3;2;4;3;4;4;;;32
+Narayanganj;8;670808004;;Modina Bug;Kazal Mian;16;70;18;2;4;3;1;3;3;1;3;4;3;4;3;4;4;;;42
+Narayanganj;8;670808005;;Modina Bug;lovely;22;93;21;4;4;3;1;3;3;1;3;3;3;4;3;4;4;;;43
+Narayanganj;8;670808006;;Modina Bug;Nurgish;8;45;13;1;1;3;1;1;2;1;3;3;2;3;2;3;3;;;29
+Narayanganj;8;670808007;;Modina Bug;Parvin;17;86;17;1;1;3;1;1;2;1;2;3;1;3;2;3;3;;;27
+Narayanganj;8;670808008;;Modina Bug;Niamat;6;25;13;1;1;3;1;1;3;1;3;2;2;4;3;4;4;;;33
+Narayanganj;8;670808009;;Modina Bug;Rahamot;24;28;27;1;1;3;1;1;3;1;3;2;2;4;3;4;4;;;33
+Narayanganj;8;670809001;;Dhan Kunda;vanger Pul;30;146;45;3;2;4;1;1;4;1;4;4;4;3;4;4;3;;;42
+Narayanganj;8;670809002;;Dhan Kunda;Golap Sir;10;40;25;2;1;4;1;4;4;1;4;4;4;3;4;4;4;;;44
+Narayanganj;8;670809003;;Dhan Kunda;Samol;8;32;16;2;1;4;1;1;2;1;3;4;4;4;4;4;4;;;39
+Narayanganj;8;670809004;;Dhan Kunda;Sazal & Labu;15;60;10;2;1;4;1;3;2;1;4;3;4;3;3;3;4;;;38
+Narayanganj;8;670810001;;Bari Para;Jalil Prodhan;18;60;60;1;2;4;1;4;4;1;4;4;4;4;4;4;4;;;45
+Narayanganj;8;670810002;;Bari Para;Dr. Salim;9;28;30;2;1;4;1;4;4;1;4;4;4;4;4;3;4;;;44
+Narayanganj;8;670810003;;Bari Para;Mohi Uddin;10;34;60;2;2;4;1;4;2;1;3;4;4;4;4;4;4;;;43
+Narayanganj;9;670901001;;Jhalkori Hospital Area;Mukti;50;200;5;2;1;3;1;1;4;1;4;2;4;4;4;2;4;;;37
+Narayanganj;9;670901002;;Jhalkori Hospital Area;Samsul Haque;10;100;15;2;1;2;1;1;4;1;4;4;4;4;2;2;3;;;35
+Narayanganj;9;670901003;;Jhalkori Hospital Area;Salam;20;80;25;1;1;1;1;1;4;1;4;2;4;4;4;2;4;;;34
+Narayanganj;9;670901004;;Jhalkori Hospital Area;Ghora Mara mosque;140;500;30;2;1;2;1;1;4;1;4;3;4;4;4;1;2;;;34
+Narayanganj;9;670901005;;Jhalkori Hospital Area;Rabbani -Babul Shaeb;115;700;20;2;1;2;1;1;4;1;2;4;4;4;4;1;4;;;35
+Narayanganj;9;670901006;;Jhalkori Hospital Area;Gasur Bari;75;300;20;2;1;2;1;1;4;1;3;3;4;2;3;3;4;;;34
+Narayanganj;9;670901007;;Jhalkori Hospital Area;Kibria;100;500;35;2;1;3;1;1;4;1;4;4;4;1;4;3;4;;;37
+Narayanganj;9;670902001;;Jhalkori Dhakin Para Koritola;Shahajahan;7;42;68;2;1;3;1;1;4;1;1;4;4;3;4;4;4;;;37
+Narayanganj;9;670902002;;Jhalkori Dhakin Para Koritola;Khorshed;15;70;39;2;1;3;1;1;1;2;2;1;3;3;3;4;4;;;31
+Narayanganj;9;670902003;;Jhalkori Dhakin Para Koritola;Sirajul Haque;20;130;70;2;1;3;1;1;3;1;2;1;4;3;4;4;4;;;34
+Narayanganj;9;670902004;;Jhalkori Dhakin Para Koritola;Golzer Hossain;6;36;70;2;1;3;1;1;4;1;3;4;4;3;4;4;4;;;39
+Narayanganj;9;670902005;;Jhalkori Dhakin Para Koritola;Shahanaz;15;100;42;4;2;4;3;1;4;3;1;3;4;3;4;4;4;;;44
+Narayanganj;9;670902006;;Jhalkori Dhakin Para Koritola;Rashid;10;60;75;2;1;2;1;1;1;3;1;1;4;2;4;4;4;;;31
+Narayanganj;9;670902007;;Jhalkori Dhakin Para Koritola;Dulal;20;100;70;2;1;3;1;1;4;1;2;4;4;3;4;4;4;;;38
+Narayanganj;9;670902008;;Jhalkori Dhakin Para Koritola;Safiuddin;12;100;61;2;1;3;1;1;2;1;3;1;4;2;4;4;4;;;33
+Narayanganj;9;670902009;;Jhalkori Dhakin Para Koritola;Aleya;8;50;45;2;1;3;1;1;4;1;1;4;4;4;4;4;4;;;38
+Narayanganj;9;670902010;;Jhalkori Dhakin Para Koritola;Nurbanu;10;50;98;1;1;2;1;1;2;2;2;4;4;3;3;4;4;;;34
+Narayanganj;9;670902011;;Jhalkori Dhakin Para Koritola;Amir;10;70;85;2;1;3;1;1;3;2;1;4;4;4;4;4;4;;;38
+Narayanganj;9;670902012;;Jhalkori Dhakin Para Koritola;Samor Ali;70;400;80;2;1;3;1;1;3;2;2;3;4;3;4;4;4;;;37
+Narayanganj;9;670902013;;Jhalkori Dhakin Para Koritola;Rabia;7;40;90;3;1;2;3;1;4;2;4;4;4;4;1;4;4;;;41
+Narayanganj;9;670902014;;Jhalkori Dhakin Para Koritola;Ranesa;10;60;65;4;2;4;3;1;3;2;2;1;4;4;1;4;4;;;39
+Narayanganj;9;670902015;;Jhalkori Dhakin Para Koritola;Saleha Khatun;50;50;68;2;1;2;1;1;2;3;1;2;4;3;2;4;3;;;31
+Narayanganj;9;670902016;;Jhalkori Dhakin Para Koritola;Khodega;12;60;80;2;2;3;3;3;2;2;1;1;2;2;4;4;4;;;35
+Narayanganj;9;670902017;;Jhalkori Dhakin Para Koritola;Saria Begum;6;35;65;2;1;3;1;1;2;2;2;2;4;2;4;4;4;;;34
+Narayanganj;9;670902018;;Jhalkori Dhakin Para Koritola;Khelek;10;60;70;2;1;3;1;1;2;2;1;3;4;3;4;4;4;;;35
+Narayanganj;9;670902019;;Jhalkori Dhakin Para Koritola;Lehasabi;9;45;80;2;1;3;1;1;1;2;2;4;4;3;3;4;4;;;35
+Narayanganj;9;670902020;;Jhalkori Dhakin Para Koritola;Sultan;15;100;75;2;1;3;1;1;2;2;1;4;4;3;2;4;3;;;33
+Narayanganj;9;670903001;;Ninter Para Modhughor;Delwer Hossain;20;120;45;4;1;2;1;1;1;3;1;1;3;3;2;2;3;;;28
+Narayanganj;9;670903002;;Ninter Para Modhughor;Taherun;10;40;40;2;1;1;1;1;1;2;1;1;3;3;3;4;4;;;28
+Narayanganj;9;670903003;;Ninter Para Modhughor;Aziz;22;130;85;4;4;4;1;1;4;4;1;4;4;4;4;4;4;;;47
+Narayanganj;9;670903004;;Ninter Para Modhughor;Abtab Dewan;30;150;45;2;1;3;1;1;1;1;2;2;4;2;4;4;4;;;32
+Narayanganj;9;670903005;;Ninter Para Modhughor;Halima;6;30;70;3;1;3;1;1;3;2;1;2;4;3;4;4;4;;;36
+Narayanganj;9;670903006;;Ninter Para Modhughor;Mazid;10;50;30;2;1;3;1;1;3;3;1;4;4;3;4;4;4;;;38
+Narayanganj;9;670903007;;Ninter Para Modhughor;Ambia;8;40;85;4;4;2;1;1;1;1;2;1;4;2;4;4;4;;;35
+Narayanganj;9;670903008;;Ninter Para Modhughor;Abtab Uddin;8;40;39;2;1;3;1;1;2;1;3;1;4;2;4;4;4;;;33
+Narayanganj;9;670903009;;Ninter Para Modhughor;Jamal Uddin;15;100;55;4;1;4;1;1;3;3;2;4;4;3;4;4;4;;;42
+Narayanganj;9;670903010;;Ninter Para Modhughor;Abtab Uddin;10;60;75;4;1;3;1;1;2;3;1;1;4;3;3;4;4;;;35
+Narayanganj;9;670904001;;Jhalkori Paschim Para;Abbas Ali;7;30;10;4;2;4;1;1;1;1;2;2;1;1;2;3;3;;;28
+Narayanganj;9;670904002;;Jhalkori Paschim Para;Rashid;12;50;25;4;4;4;4;1;3;4;4;2;1;2;3;1;2;;;39
+Narayanganj;9;670904003;;Jhalkori Paschim Para;Serazul;40;160;30;4;2;4;1;1;2;4;3;3;1;2;3;2;2;;;34
+Narayanganj;9;670904004;;Jhalkori Paschim Para;Abbas Ali;35;100;80;4;4;4;3;1;2;4;3;3;1;3;3;1;3;;;39
+Narayanganj;9;670904005;;Jhalkori Paschim Para;Jamir Ali;15;100;20;1;1;4;1;1;2;1;2;2;1;3;3;1;2;;;25
+Narayanganj;9;670904006;;Jhalkori Paschim Para;Hazi Sumsul;30;150;20;1;1;4;1;1;3;1;3;2;1;3;3;2;3;;;29
+Narayanganj;9;670904007;;Jhalkori Paschim Para;Gayen;30;200;80;1;2;4;1;1;2;1;4;2;1;1;3;3;3;;;29
+Narayanganj;9;670904008;;Jhalkori Paschim Para;Khalek;30;100;60;4;2;4;1;1;2;2;2;2;1;1;3;3;2;;;30
+Narayanganj;9;670904009;;Jhalkori Paschim Para;Hasan;50;200;80;4;4;4;4;1;2;4;3;2;1;3;3;3;2;;;40
+Narayanganj;9;670904010;;Jhalkori Paschim Para;Pondith Tola;80;200;100;1;1;4;1;1;2;1;2;2;1;1;1;2;1;;;21
+Narayanganj;9;670904011;;Jhalkori Paschim Para;Nesu Mian;50;300;80;1;1;4;1;1;1;1;2;2;1;1;3;3;3;;;25
+Narayanganj;9;670904012;;Jhalkori Paschim Para;Motamian;30;150;70;4;2;4;1;1;2;4;2;2;1;1;2;3;3;;;32
+Narayanganj;9;670904013;;Jhalkori Paschim Para;kolla bari;60;250;80;1;1;4;1;1;2;1;2;2;1;2;2;3;2;;;25
+Narayanganj;9;670904014;;Jhalkori Paschim Para;Bash bari;60;200;90;2;1;4;1;1;2;1;4;2;1;1;3;3;3;;;29
+Narayanganj;9;670905001;;Paschim Para Bristi Dhara;Anower Fakir;75;300;25;3;1;3;1;1;4;1;4;1;4;1;4;3;4;;;35
+Narayanganj;9;670905002;;Paschim Para Bristi Dhara;Sirot Ali;22;200;20;2;1;3;1;1;4;1;4;4;4;2;3;2;4;;;36
+Narayanganj;9;670905003;;Paschim Para Bristi Dhara;Sirat Ali;150;500;40;2;1;2;1;1;3;1;3;4;4;1;2;2;3;;;30
+Narayanganj;9;670905004;;Paschim Para Bristi Dhara;Mijan;10;100;6;1;1;2;1;1;4;1;4;4;4;1;4;3;4;;;35
+Narayanganj;9;670905005;;Paschim Para Bristi Dhara;Member Vinger dhakin;13;70;10;1;1;2;1;1;4;1;4;4;4;1;2;2;3;;;31
+Narayanganj;9;670905006;;Paschim Para Bristi Dhara;Helal Sikder;25;250;10;2;1;3;1;1;4;1;4;4;4;1;4;4;4;;;38
+Narayanganj;9;670905007;;Paschim Para Bristi Dhara;Bespa Miler Paschim side;12;100;10;2;1;3;1;1;4;1;4;4;4;1;4;3;4;;;37
+Narayanganj;9;670905008;;Paschim Para Bristi Dhara;Md. Hafiz Uddin;107;381;25;2;1;3;1;1;3;1;3;4;3;1;4;2;4;;;33
+Narayanganj;9;670906001;;Maiz Para;Chowdhori Bari;15;100;80;2;2;4;1;1;1;1;2;1;3;1;2;3;3;;;27
+Narayanganj;9;670906002;;Maiz Para;Hazi Kafil Uddin;5;30;80;2;1;4;1;1;2;1;4;2;1;4;3;4;3;;;33
+Narayanganj;9;670906003;;Maiz Para;koimus Ali;15;100;80;3;3;4;1;1;2;2;3;2;1;1;2;3;2;;;30
+Narayanganj;9;670906004;;Maiz Para;Mijuddin;40;150;60;2;1;4;1;1;2;1;2;2;1;2;3;3;2;;;27
+Narayanganj;9;670906005;;Maiz Para;Iman Sarder;60;200;80;2;1;4;1;1;2;1;2;2;1;1;1;3;3;;;25
+Narayanganj;9;670907001;;Uttar Para Khola Market;Jahir Hossin;15;91;20;2;1;2;1;1;3;1;3;4;3;2;4;4;4;;;35
+Narayanganj;9;670907002;;Uttar Para Khola Market;Jabbar;23;139;30;1;1;2;1;1;4;1;3;4;2;2;4;4;4;;;34
+Narayanganj;9;670907003;;Uttar Para Khola Market;Ayub;16;77;20;1;1;3;1;1;3;1;3;4;3;3;4;4;4;;;36
+Narayanganj;9;670907004;;Uttar Para Khola Market;Belayet;19;104;20;1;1;4;3;3;1;3;1;4;4;2;3;4;4;;;38
+Narayanganj;9;670907005;;Uttar Para Khola Market;Abdul aziz;54;226;18;1;1;3;1;1;3;1;3;4;3;3;4;4;4;;;36
+Narayanganj;9;670907006;;Uttar Para Khola Market;Shah;38;190;35;1;1;3;1;1;3;1;4;4;2;2;3;4;4;;;34
+Narayanganj;9;670907007;;Uttar Para Khola Market;Nurul Haque;17;66;20;1;1;3;1;1;4;1;4;4;4;4;2;3;3;;;36
+Narayanganj;9;670907008;;Uttar Para Khola Market;Aner Ali;35;120;30;2;1;3;1;1;3;1;3;3;3;3;4;4;4;;;36
+Narayanganj;9;670907009;;Uttar Para Khola Market;Akkas Ali;55;220;40;2;1;3;1;1;3;1;3;4;4;2;4;3;4;;;36
+Narayanganj;9;670907010;;Uttar Para Khola Market;Hazi suruj Ali;40;180;40;2;1;3;1;4;3;1;3;4;4;1;3;4;4;;;38
+Narayanganj;9;670907011;;Uttar Para Khola Market;Keramot;150;550;80;2;1;3;1;1;3;1;3;3;3;1;4;4;4;;;34
+Narayanganj;9;670907012;;Uttar Para Khola Market;Rakman;103;427;80;2;4;3;1;1;4;2;1;4;4;4;4;3;4;;;41
+Narayanganj;9;670907013;;Uttar Para Khola Market;Sanower;26;108;60;1;1;3;1;1;2;1;1;3;3;3;2;4;4;;;30
+Narayanganj;9;670908001;;Uttar Para Khola Market;Rahman Molla;10;49;2;1;1;2;1;1;2;1;3;2;3;1;4;1;4;;;27
+Narayanganj;9;670908002;;Uttar Para Khola Market;Tara Mian;12;77;5;1;1;2;1;1;3;1;2;2;3;1;4;4;4;;;30
+Narayanganj;10;671001001;;Pathan Toli;Dr. Ashraf;16;79;70;2;2;3;1;2;3;2;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671001002;;Pathan Toli;Mortoza;28;112;50;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001003;;Pathan Toli;Hazi ali Hossain;58;199;45;2;2;3;3;3;3;3;3;3;3;3;3;3;3;;;40
+Narayanganj;10;671001004;;Pathan Toli;Monir Hossain;26;89;50;2;2;3;3;3;3;3;3;3;3;3;3;2;3;;;39
+Narayanganj;10;671001005;;Pathan Toli;Jaman;31;88;35;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001006;;Pathan Toli;Abul Vari;47;159;50;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001007;;Pathan Toli;Noor Hossain;53;210;50;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001008;;Pathan Toli;Tamiz Uddin;36;128;45;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001009;;Pathan Toli;Farid Bhuian;42;140;35;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001010;;Pathan Toli;Mohiuddin;48;183;40;2;2;3;3;3;3;3;3;3;3;3;3;3;2;;;39
+Narayanganj;10;671001011;;Pathan Toli;Rab Bhuian;18;49;50;2;2;3;3;3;3;2;3;3;3;3;3;3;2;;;38
+Narayanganj;10;671001012;;Pathan Toli;Amzad Hossian;40;130;50;2;2;3;3;3;3;3;3;3;3;3;2;3;2;;;38
+Narayanganj;10;671001013;;Pathan Toli;Samsul;18;60;50;2;2;3;2;3;3;2;3;3;3;3;2;3;3;;;37
+Narayanganj;10;671001014;;Pathan Toli;Johar;49;171;60;2;2;3;2;3;2;1;3;3;3;3;3;2;3;;;35
+Narayanganj;10;671001015;;Pathan Toli;Latif;34;110;40;2;2;3;2;2;3;1;3;3;3;3;2;3;3;;;35
+Narayanganj;10;671001016;;Pathan Toli;Aziz;20;223;50;2;2;3;1;2;3;1;3;3;3;3;3;3;3;;;35
+Narayanganj;10;671001017;;Pathan Toli;Mukti;32;140;52;2;2;3;1;2;3;1;3;3;3;3;3;3;3;;;35
+Narayanganj;10;671001018;;Pathan Toli;Hazi Bari;30;128;45;2;2;3;1;2;3;2;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671002001;;Rasul Bug;Monowara;15;61;30;4;4;4;1;3;4;3;4;3;3;3;2;4;4;;;46
+Narayanganj;10;671002002;;Rasul Bug;Mohasin;13;50;30;1;1;3;1;3;3;3;3;3;3;3;2;4;4;;;37
+Narayanganj;10;671002003;;Rasul Bug;Shahiuddin;16;77;30;1;4;4;1;3;3;2;3;3;3;2;2;4;4;;;39
+Narayanganj;10;671002004;;Rasul Bug;Jalal;5;24;40;1;1;3;1;3;3;2;3;2;2;3;2;3;4;;;33
+Narayanganj;10;671002005;;Rasul Bug;Salim;11;45;40;4;4;3;1;3;3;1;3;1;3;2;2;3;4;;;37
+Narayanganj;10;671002006;;Rasul Bug;Shafiuddin;13;54;70;1;1;3;1;3;2;2;3;4;3;3;2;3;4;;;35
+Narayanganj;10;671002007;;Rasul Bug;Habib;10;29;20;1;2;3;1;3;2;1;2;2;2;3;2;2;4;;;30
+Narayanganj;10;671002008;;Rasul Bug;Amir;8;39;17;1;1;3;1;3;2;1;2;2;2;3;2;3;4;;;30
+Narayanganj;10;671002009;;Rasul Bug;Israfil Matabor;12;53;20;1;1;3;1;2;2;1;2;2;2;2;2;2;4;;;27
+Narayanganj;10;671002010;;Rasul Bug;Nabir Hossain;17;51;30;1;1;3;1;2;2;1;3;3;2;3;2;2;4;;;30
+Narayanganj;10;671002011;;Rasul Bug;Jalal;12;62;20;1;1;3;1;2;2;1;2;2;2;3;2;2;4;;;28
+Narayanganj;10;671002012;;Rasul Bug;rahim;14;46;25;1;1;3;1;1;2;1;2;2;2;3;2;2;4;;;27
+Narayanganj;10;671002013;;Rasul Bug;anower;12;61;20;1;1;3;1;2;2;1;2;2;2;3;2;2;4;;;28
+Narayanganj;10;671002014;;Rasul Bug;Chan Sharif;21;75;60;1;1;3;1;2;2;1;2;3;3;3;2;4;2;;;30
+Narayanganj;10;671002015;;Rasul Bug;Targen;12;61;60;1;1;3;1;2;2;1;2;3;3;3;2;2;4;;;30
+Narayanganj;10;671002016;;Rasul Bug;Yunush;14;47;30;1;1;3;1;2;2;1;3;2;2;3;2;2;4;;;29
+Narayanganj;10;671002017;;Rasul Bug;Mohabbed;20;81;40;1;1;3;1;2;2;1;2;4;2;2;2;2;4;;;29
+Narayanganj;10;671002018;;Rasul Bug;Monir;14;57;20;4;4;4;1;3;3;1;3;4;3;3;3;4;4;;;44
+Narayanganj;10;671002019;;Rasul Bug;rafiqul;7;15;20;4;2;3;1;3;3;1;3;2;3;3;3;4;4;;;39
+Narayanganj;10;671002020;;Rasul Bug;Rabiul;6;21;20;1;1;3;1;2;2;1;2;2;2;3;2;4;4;;;30
+Narayanganj;10;671002021;;Rasul Bug;Poru;12;63;20;1;1;3;1;1;2;1;2;2;3;1;2;4;2;;;26
+Narayanganj;10;671002022;;Rasul Bug;Howa;7;24;35;1;1;3;1;1;1;1;1;2;3;2;2;2;4;;;25
+Narayanganj;10;671002023;;Rasul Bug;Manik Chand;7;32;40;1;1;3;1;2;2;1;2;2;2;3;2;2;4;;;28
+Narayanganj;10;671002024;;Rasul Bug;Monower;8;45;40;1;1;3;1;1;1;1;1;2;2;3;1;2;4;;;24
+Narayanganj;10;671002025;;Rasul Bug;Mina;12;50;40;1;1;3;1;2;1;1;2;3;3;3;2;3;4;;;30
+Narayanganj;10;671002026;;Rasul Bug;Nazu;6;28;40;1;1;3;1;2;2;1;2;2;2;2;2;3;4;;;28
+Narayanganj;10;671002027;;Rasul Bug;Iman ali;8;42;40;1;1;3;1;2;2;1;1;4;2;2;2;2;3;;;27
+Narayanganj;10;671002028;;Rasul Bug;Mofizal;11;40;50;2;1;3;1;2;2;1;2;2;2;3;2;4;4;;;31
+Narayanganj;10;671002029;;Rasul Bug;Siddik;9;45;50;1;1;3;1;2;2;1;2;3;3;3;1;2;1;;;26
+Narayanganj;10;671002030;;Rasul Bug;Mazid;21;80;50;1;1;3;1;2;2;1;2;2;2;3;2;3;4;;;29
+Narayanganj;10;671002031;;Rasul Bug;Joshna;6;15;40;1;1;3;1;2;2;1;2;2;2;2;2;4;4;;;29
+Narayanganj;10;671002032;;Rasul Bug;Pagla Mian;13;60;50;1;2;3;2;2;2;1;2;2;2;2;3;4;4;;;32
+Narayanganj;10;671002033;;Rasul Bug;Mis Mohabbad;5;20;40;1;2;3;1;2;2;1;2;2;3;3;3;4;4;;;33
+Narayanganj;10;671002034;;Rasul Bug;Delwer;5;25;50;4;2;3;1;3;3;1;3;3;3;3;4;4;4;;;41
+Narayanganj;10;671002035;;Rasul Bug;Habib Mian;9;50;40;4;2;3;1;3;3;1;3;3;3;3;3;4;4;;;40
+Narayanganj;10;671002036;;Rasul Bug;Mofijal;7;36;50;1;2;3;1;1;1;1;2;3;3;3;1;1;1;;;24
+Narayanganj;10;671002037;;Rasul Bug;Delwer;10;55;20;1;2;2;1;2;2;1;2;2;2;3;1;1;1;;;23
+Narayanganj;10;671002038;;Rasul Bug;Keramot;7;22;20;1;2;3;1;2;1;1;2;2;3;3;1;1;1;;;24
+Narayanganj;10;671002039;;Rasul Bug;Nazrul;15;72;20;1;2;3;1;2;2;1;2;2;2;3;1;1;1;;;24
+Narayanganj;10;671002040;;Rasul Bug;Malek;8;23;20;1;2;3;1;2;1;1;2;2;2;3;1;1;1;;;23
+Narayanganj;10;671002041;;Rasul Bug;Moina Mian;10;45;30;2;2;3;1;2;1;1;2;2;2;3;1;1;1;;;24
+Narayanganj;10;671002042;;Rasul Bug;Shanaj;5;22;20;2;2;3;1;2;3;1;2;2;2;3;1;1;1;;;26
+Narayanganj;10;671002043;;Rasul Bug;Ali Akter;5;15;20;1;2;3;1;2;3;1;2;2;3;3;1;1;1;;;26
+Narayanganj;10;671003001;;Hazari Bug;Pagler Bari;12;62;100;1;1;2;1;1;1;1;2;2;3;2;4;4;4;;;29
+Narayanganj;10;671003002;;Hazari Bug;Shamol;8;50;100;1;1;3;1;1;1;1;1;2;2;2;4;4;4;;;28
+Narayanganj;10;671003003;;Hazari Bug;Shadhon Chandra;8;44;100;1;1;1;1;1;1;1;1;1;2;2;4;4;4;;;25
+Narayanganj;10;671003004;;Hazari Bug;Anower Hossen;9;40;80;1;1;3;1;1;2;1;2;2;1;2;4;4;4;;;29
+Narayanganj;10;671003005;;Hazari Bug;Profulla Chandra;5;30;100;1;1;1;1;1;1;1;2;2;2;2;4;4;4;;;27
+Narayanganj;10;671003006;;Hazari Bug;Bacchu Mian;8;42;50;2;1;3;1;1;1;1;2;2;2;2;4;4;4;;;30
+Narayanganj;10;671003007;;Hazari Bug;Punil Barmon;6;28;100;1;1;3;1;1;1;1;1;2;2;2;4;4;4;;;28
+Narayanganj;10;671003008;;Hazari Bug;Late Ramjan Ali;15;63;100;2;1;3;1;1;1;1;2;2;2;3;4;4;4;;;31
+Narayanganj;10;671003009;;Hazari Bug;Umesh Barmon;10;45;100;1;1;1;1;1;1;1;2;2;2;3;4;4;4;;;28
+Narayanganj;10;671003010;;Hazari Bug;Selim Parvez;12;40;100;1;1;2;1;1;1;1;2;2;2;3;4;4;4;;;29
+Narayanganj;10;671003011;;Hazari Bug;Nurnabi;12;49;80;4;2;3;1;3;3;1;2;4;3;3;4;4;4;;;41
+Narayanganj;10;671003012;;Hazari Bug;Raj Chandraw Barmon;7;26;100;1;1;3;1;1;1;1;2;1;2;2;4;4;4;;;28
+Narayanganj;10;671003013;;Hazari Bug;Gourango Barmon;6;31;100;1;3;3;1;1;2;1;2;3;2;3;4;4;4;;;34
+Narayanganj;10;671003014;;Hazari Bug;Basudeb;5;19;100;2;1;3;1;1;1;1;2;2;2;3;4;4;4;;;31
+Narayanganj;10;671003015;;Hazari Bug;Porimal;5;22;80;2;3;3;1;1;3;1;2;2;3;3;4;4;4;;;36
+Narayanganj;10;671003016;;Hazari Bug;Farid Mian;5;39;80;1;2;3;1;2;2;1;2;2;2;3;4;4;4;;;33
+Narayanganj;10;671003017;;Hazari Bug;Suresh;25;142;100;1;1;1;1;1;1;1;1;2;2;2;4;4;4;;;26
+Narayanganj;10;671003018;;Hazari Bug;Musleuddin;11;35;50;2;2;3;1;1;2;3;2;2;2;4;2;1;3;;;30
+Narayanganj;10;671003019;;Hazari Bug;Kalidesh;10;45;50;1;1;1;3;2;1;1;1;4;2;4;2;4;4;;;31
+Narayanganj;10;671003020;;Hazari Bug;Akrem Hossain;23;74;20;1;1;3;1;2;4;1;4;2;2;4;2;2;4;;;33
+Narayanganj;10;671003021;;Hazari Bug;Jashim Uddin;17;60;30;2;2;3;1;4;4;1;3;3;2;4;3;2;3;;;37
+Narayanganj;10;671003022;;Hazari Bug;Laxminarayn;53;340;90;2;1;1;2;1;1;2;1;2;3;2;1;1;1;;;21
+Narayanganj;10;671004001;;Arambagh;Late Sukur ali Bari;8;26;23;1;1;3;3;2;1;1;2;3;2;2;2;1;2;;;26
+Narayanganj;10;671004002;;Arambagh;Mukter Hosssain Bari;8;15;26;1;1;3;1;2;2;1;1;3;1;1;4;3;4;;;28
+Narayanganj;10;671004003;;Arambagh;Md. Abdul Hakim;6;13;26;1;1;3;1;2;4;1;2;3;1;1;4;2;4;;;30
+Narayanganj;10;671004004;;Arambagh;Md. Humayun Kabir;25;60;26;3;1;3;1;1;1;1;1;1;1;1;1;1;4;;;21
+Narayanganj;10;671004005;;Arambagh;Md. Nur Ali;22;55;26;2;1;3;1;1;1;1;1;1;1;1;1;1;3;;;19
+Narayanganj;10;671004006;;Arambagh;Md. Ripon;5;15;12;1;1;1;3;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004007;;Arambagh;Monowara;6;13;16;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004008;;Arambagh;Md. Borhan Uddin;10;25;26;1;1;3;1;1;1;1;2;3;2;1;4;2;4;;;27
+Narayanganj;10;671004009;;Arambagh;Md. Razzak;13;26;30;1;1;3;1;1;1;1;2;2;1;1;3;2;4;;;24
+Narayanganj;10;671004010;;Arambagh;Sultana;16;50;16;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004011;;Arambagh;Zioadul;12;36;30;1;1;3;1;1;2;1;1;3;1;1;1;1;3;;;21
+Narayanganj;10;671004012;;Arambagh;Md. Saukot Hossain;8;12;5;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004013;;Arambagh;Late Serajul Islam;14;50;53;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004014;;Arambagh;Late Ishaq Khan;9;40;60;1;1;3;3;3;3;3;3;3;3;3;3;3;4;;;39
+Narayanganj;10;671004015;;Arambagh;Late Samsul Haque Munshi;14;50;66;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004016;;Arambagh;Late Hafiz Uddin;8;25;66;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004017;;Arambagh;late Fazle Karim;25;60;66;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004018;;Arambagh;Mir Abul Hasem;30;50;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004019;;Arambagh;Late Monir Hossain;20;50;50;1;1;3;1;2;1;1;2;1;1;1;2;2;3;;;22
+Narayanganj;10;671004020;;Arambagh;Md. Zakir Hossain Gang;30;70;61;1;1;3;1;1;1;1;1;1;1;1;1;4;1;;;19
+Narayanganj;10;671004021;;Arambagh;Kazi Babul Ganj;51;250;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004022;;Arambagh;Monwara Begum;18;50;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004023;;Arambagh;Late Suruz Commender;10;40;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004024;;Arambagh;Late Sufia Begum Gang;17;50;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004025;;Arambagh;late Akkober Ali Mia Ganj;15;60;100;1;1;2;1;1;1;1;2;1;1;1;1;1;4;;;19
+Narayanganj;10;671004026;;Arambagh;Late Kumur Uddin Sarder;20;60;65;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004027;;Arambagh;Late Afuuddin Ganj;7;25;65;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004028;;Arambagh;Farham Ali Ganj;30;100;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004029;;Arambagh;Late RamVazan Rabidas;10;70;70;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004030;;Arambagh;Iddris Ganj;15;40;65;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004031;;Arambagh;Kamruzzaman Bulet;15;50;15;1;1;3;3;2;2;2;3;3;3;2;2;2;4;;;33
+Narayanganj;10;671004032;;Arambagh;Sardar Bari Ganj;15;60;65;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004033;;Arambagh;Late Samsul;7;25;70;1;1;3;1;2;2;2;2;2;2;2;2;2;4;;;28
+Narayanganj;10;671004034;;Arambagh;Shohel Mollah;12;40;10;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004035;;Arambagh;Amena Mollah;17;38;10;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004036;;Arambagh;Shanti;5;20;10;1;1;3;1;1;1;1;1;1;1;1;1;1;3;;;18
+Narayanganj;10;671004037;;Arambagh;Late Hamid Pathan;14;38;40;1;1;2;1;1;1;1;1;1;1;1;1;1;4;;;18
+Narayanganj;10;671004038;;Arambagh;late Pachar Bari;20;100;66;1;1;3;3;3;3;3;3;3;3;3;3;3;4;;;39
+Narayanganj;10;671004039;;Arambagh;Moral Bari;15;45;66;1;1;3;1;2;2;2;2;2;2;2;2;2;2;;;26
+Narayanganj;10;671004040;;Arambagh;Md. Sadi;5;20;11;1;1;3;1;3;3;1;3;1;1;1;3;2;4;;;28
+Narayanganj;10;671004041;;Arambagh;Late Mafizul;7;20;40;1;1;3;1;2;2;1;2;1;1;1;2;2;4;;;24
+Narayanganj;10;671004042;;Arambagh;Gulbadan Begum;6;20;20;1;1;1;1;1;1;1;1;1;1;1;1;1;4;;;17
+Narayanganj;10;671004043;;Arambagh;Ramzan Ganj;10;30;30;1;1;3;1;2;1;1;2;3;1;1;2;1;3;;;23
+Narayanganj;10;671004044;;Arambagh;Nur Mohammad;8;30;20;1;1;4;2;2;2;1;3;2;2;1;2;2;4;;;29
+Narayanganj;10;671004045;;Arambagh;Late Nurul Islam Sikder;7;25;50;1;1;2;1;2;2;3;2;3;3;3;3;4;4;;;34
+Narayanganj;10;671004046;;Arambagh;Late Hanif Sikder;18;60;45;1;1;4;1;2;2;3;2;3;3;3;3;3;4;;;35
+Narayanganj;10;671004047;;Arambagh;Md. Ali Hossain Pradhan;9;50;30;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004048;;Arambagh;Ali Hossain Kazi;8;30;15;1;1;1;1;1;1;1;1;1;1;1;1;1;3;;;16
+Narayanganj;10;671004049;;Arambagh;Late Abul Kashem;7;30;25;1;1;3;2;2;1;2;3;2;2;2;3;3;4;;;31
+Narayanganj;10;671004050;;Arambagh;Zahanara Begum Ganj;17;50;60;1;1;3;1;1;1;1;1;1;1;1;1;1;4;;;19
+Narayanganj;10;671004051;;Arambagh;Muzibur;7;21;61;1;1;3;1;3;3;1;3;3;3;3;3;3;4;;;35
+Narayanganj;10;671005001;;Mir Para;Mazar Wala Bari;10;35;95;4;4;4;3;2;4;1;2;3;3;4;4;2;4;;;44
+Narayanganj;10;671005002;;Mir Para;Rajader Bari;9;40;90;4;4;4;4;1;2;1;3;2;2;4;4;4;4;;;43
+Narayanganj;10;671005003;;Mir Para;Jamal;13;40;97;1;4;4;4;2;2;1;3;3;2;3;4;2;4;;;39
+Narayanganj;10;671005004;;Mir Para;Badal;7;36;97;2;4;4;2;2;4;3;3;3;3;2;4;2;4;;;42
+Narayanganj;10;671005005;;Mir Para;Motaleb;6;25;95;2;4;4;4;1;2;3;3;3;2;3;4;4;4;;;43
+Narayanganj;10;671005006;;Mir Para;Monirer Bari;7;22;90;4;4;4;3;1;3;2;3;2;2;2;4;2;4;;;40
+Narayanganj;10;671005007;;Mir Para;Anower Hossain;8;25;95;2;4;4;4;2;2;2;3;3;3;2;4;3;4;;;42
+Narayanganj;10;671005008;;Mir Para;Mazid Bari;17;75;97;1;1;4;3;2;2;1;3;3;2;1;2;1;2;;;28
+Narayanganj;10;671005009;;Mir Para;Baker Bari;17;72;95;3;3;4;2;2;3;2;3;2;2;3;4;3;4;;;40
+Narayanganj;10;671005010;;Mir Para;Mazid;18;55;900;1;1;4;2;1;1;1;3;2;2;1;3;1;2;;;25
+Narayanganj;10;671005011;;Mir Para;Alier Raj;16;49;95;1;4;2;2;2;1;1;3;3;3;4;4;2;4;;;36
+Narayanganj;10;671005012;;Mir Para;Fazal;11;49;90;1;3;3;2;2;2;3;3;2;2;3;4;2;4;;;36
+Narayanganj;10;671005013;;Mir Para;Emdad;14;62;98;2;4;4;2;2;3;2;2;2;2;3;4;4;4;;;40
+Narayanganj;10;671005014;;Mir Para;Masuda Apa;17;55;110;2;3;4;2;1;3;3;3;3;2;3;4;3;4;;;40
+Narayanganj;10;671005015;;Mir Para;Mazibar;20;62;95;1;2;4;2;1;3;1;2;2;2;3;4;2;4;;;33
+Narayanganj;10;671005016;;Mir Para;Ziadul;18;67;99;1;1;3;3;1;2;1;3;2;2;3;4;2;4;;;32
+Narayanganj;10;671005017;;Mir Para;Nur Islam;17;63;100;1;1;4;2;1;3;1;3;2;2;3;4;2;4;;;33
+Narayanganj;10;671005018;;Mir Para;Tipu;25;87;95;1;2;4;2;1;2;1;2;2;2;3;4;3;4;;;33
+Narayanganj;10;671005019;;Mir Para;Mosharaf;25;107;90;1;2;4;2;1;4;3;3;2;2;1;4;4;4;;;37
+Narayanganj;10;671005020;;Mir Para;Nabu Fakir;19;81;95;1;3;4;3;2;3;1;3;2;2;3;4;2;4;;;37
+Narayanganj;10;671005021;;Mir Para;Comissioner;25;78;102;1;1;4;3;2;3;2;3;2;2;3;4;4;4;;;38
+Narayanganj;10;671005022;;Mir Para;Moszider Back side;18;61;95;1;1;3;2;1;2;1;3;2;3;3;4;2;4;;;32
+Narayanganj;10;671005023;;Mir Para;Kheled;10;46;95;1;1;4;2;1;2;1;3;2;3;3;4;2;4;;;33
+Narayanganj;10;671005024;;Mir Para;Mohammad ali;10;34;98;1;1;4;2;1;3;1;3;2;2;3;4;2;4;;;33
+Narayanganj;10;671005025;;Mir Para;Shashi;20;85;91;1;2;4;2;2;3;2;3;2;2;2;3;2;4;;;34
+Narayanganj;10;671006001;;Bagpara;Ranudir Bari;8;25;20;1;1;3;2;2;1;1;3;2;3;2;2;2;2;;;27
+Narayanganj;10;671006002;;Bagpara;Mustafa Babuchi;5;16;20;1;2;3;1;3;2;3;2;2;2;3;1;2;2;;;29
+Narayanganj;10;671006003;;Bagpara;Store Officer Moqbul Hossain;17;75;20;1;2;3;1;3;3;1;2;2;2;1;1;2;2;;;26
+Narayanganj;10;671006004;;Bagpara;Badsha;33;130;20;1;2;3;1;3;2;3;2;2;3;2;1;1;1;;;27
+Narayanganj;10;671006005;;Bagpara;Sekender;38;134;20;1;2;3;1;3;2;3;1;3;3;3;1;1;1;;;28
+Narayanganj;10;671006006;;Bagpara;Sekender;29;110;20;1;2;3;1;3;3;2;2;3;3;2;1;1;1;;;28
+Narayanganj;10;671006007;;Bagpara;1 No Line;10;50;20;1;2;3;1;3;3;3;1;2;3;2;1;1;2;;;28
+Narayanganj;10;671006008;;Bagpara;Sekender;20;73;20;1;2;3;1;3;3;2;2;3;2;3;1;1;2;;;29
+Narayanganj;10;671006009;;Bagpara;Kamol Ram;19;105;20;1;2;3;1;2;2;2;3;2;3;2;1;1;2;;;27
+Narayanganj;10;671006010;;Bagpara;Zabbar Quarter;10;60;20;1;2;3;1;3;3;2;3;2;3;3;1;1;2;;;30
+Narayanganj;10;671006011;;Bagpara;Munsur Kazi;10;48;14;1;1;1;1;1;2;1;3;3;3;3;2;4;4;;;30
+Narayanganj;10;671006012;;Bagpara;Halim Kazi;15;70;25;2;1;3;1;1;3;1;3;3;3;3;2;4;4;;;34
+Narayanganj;10;671006013;;Bagpara;Monowarar Bari;5;15;1;2;1;3;1;3;3;1;3;3;3;4;4;4;4;;;39
+Narayanganj;10;671006014;;Bagpara;Sazu Kazi;5;15;25;1;1;4;1;1;3;4;3;3;4;3;4;4;4;;;40
+Narayanganj;10;671006015;;Bagpara;Jainal Abedin Dokandar;5;15;70;2;1;2;1;1;3;3;3;2;3;3;4;4;4;;;36
+Narayanganj;10;671006016;;Bagpara;Hazi Abdul Rab;5;10;70;1;1;2;1;1;3;1;3;3;3;3;4;4;4;;;34
+Narayanganj;10;671006017;;Bagpara;Ruhul Amin Sikder;5;15;70;2;1;2;1;1;3;1;3;3;4;3;4;4;4;;;36
+Narayanganj;10;671006018;;Bagpara;Dil Mohammad Dila;6;24;70;1;1;2;1;1;3;1;3;2;4;3;4;4;4;;;34
+Narayanganj;10;671006019;;Bagpara;Nur Islam Bhuyan;7;40;75;1;1;2;1;2;3;1;3;3;4;3;4;4;4;;;36
+Narayanganj;10;671006020;;Bagpara;Al Islam Bhuyan;7;35;80;4;2;2;1;2;3;1;3;4;3;3;4;4;4;;;40
+Narayanganj;10;671006021;;Bagpara;Hazi Md. Fazlul Haq Eng.;14;100;80;2;1;2;1;1;3;1;3;4;4;3;4;4;4;;;37
+Narayanganj;10;671006022;;Bagpara;Abul Kasem;8;50;80;1;1;2;1;1;3;1;3;3;3;3;4;4;4;;;34
+Narayanganj;10;671006023;;Bagpara;Mafiz Uddin;8;50;70;2;1;2;1;2;3;1;3;3;3;3;3;4;4;;;35
+Narayanganj;10;671006024;;Bagpara;Hasan Ali;10;55;80;1;2;3;1;2;3;1;3;3;3;3;3;4;4;;;36
+Narayanganj;10;671006025;;Bagpara;Ator Ali;5;13;90;1;2;3;1;2;3;1;3;3;3;3;3;4;4;;;36
+Narayanganj;10;671006026;;Bagpara;Gol Mohammad;6;18;90;1;2;3;1;2;3;1;3;3;3;3;2;4;4;;;35
+Narayanganj;10;671006027;;Bagpara;Setara Banu;10;48;80;1;2;2;1;2;3;1;3;3;3;3;2;4;4;;;34
+Narayanganj;10;671006028;;Bagpara;Shamim /Abul;10;48;80;1;2;3;1;2;3;1;3;3;3;3;3;4;4;;;36
+Narayanganj;10;671006029;;Bagpara;Shiraj-er-bari;5;15;90;1;2;3;1;2;3;1;3;3;3;3;2;4;4;;;35
+Narayanganj;10;671006030;;Bagpara;Nur Islam / Shahabuddin;10;45;80;1;2;3;1;2;3;1;3;3;3;3;2;4;4;;;35
+Narayanganj;10;671006031;;Bagpara;Golap Mia;12;55;80;1;2;3;1;2;3;1;3;3;3;3;3;4;4;;;36
+Narayanganj;10;671006032;;Bagpara;Nur Mohammad;15;65;80;1;2;3;1;2;3;1;3;2;3;3;2;4;4;;;34
+Narayanganj;10;671006033;;Bagpara;Firoz Neta;8;36;80;1;1;3;1;3;3;1;3;3;3;3;2;4;4;;;35
+Narayanganj;10;671006034;;Bagpara;Rafiq;12;65;80;1;2;3;1;2;3;1;3;3;3;3;2;4;4;;;35
+Narayanganj;10;671006035;;Bagpara;Jasim;7;30;80;1;1;3;1;2;2;1;3;3;3;3;2;4;4;;;33
+Narayanganj;10;671006036;;Bagpara;Rafiq;14;47;80;1;1;3;1;2;3;1;3;3;3;3;2;3;4;;;33
+Narayanganj;10;671007001;;Chittoranjan;Asharja Bari;23;100;80;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007002;;Chittoranjan;Chittaranjan Rail line;20;100;10;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007003;;Chittoranjan;Chittaranjan Rail line;20;100;55;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007004;;Chittoranjan;Shahin;20;100;22;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007005;;Chittoranjan;Pran Gopal Das;50;300;100;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007006;;Chittoranjan;Harijan Sweeper Colony;22;50;80;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007007;;Chittoranjan;Marjahan;20;70;60;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671007008;;Chittoranjan;Lekur Bari Ganj;12;35;35;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;10;671008001;;Samabaya Onchal;Samabaya;40;174;60;2;2;3;2;2;3;1;3;2;3;2;2;3;3;;;33
+Narayanganj;10;671008002;;Samabaya Onchal;Samabaya;12;58;15;1;2;3;2;2;3;1;3;3;3;3;3;2;3;;;34
+Narayanganj;10;671008003;;Samabaya Onchal;Somobaya;5;42;40;1;2;3;2;2;3;1;3;3;3;3;3;2;3;;;34
+Narayanganj;10;671009001;;Panir Kol;Dr. Ripon;30;89;22;2;2;3;2;2;3;1;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671009002;;Panir Kol;Gazi Bari;39;161;50;2;2;3;2;2;3;1;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671009003;;Panir Kol;Gazi mamun;41;151;40;2;2;3;2;2;3;1;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671009004;;Panir Kol;Karim;28;84;50;2;4;3;2;2;3;1;3;3;3;3;3;3;3;;;38
+Narayanganj;10;671009005;;Panir Kol;Hanif Bari;24;161;40;2;4;3;2;2;3;1;3;3;3;3;3;3;3;;;38
+Narayanganj;10;671009006;;Panir Kol;Kheleda;32;110;50;2;2;3;2;2;3;1;3;3;3;3;3;3;3;;;36
+Narayanganj;10;671009007;;Panir Kol;Nazimuddin;37;109;45;2;1;3;2;2;3;1;3;3;3;3;3;3;3;;;35
+Narayanganj;10;671009008;;Panir Kol;Wasa;18;105;40;2;4;3;2;2;3;1;3;2;3;3;3;2;3;;;36
+Narayanganj;10;671010001;;GMC;Altab Fakir;19;77;100;4;3;2;3;1;2;1;3;1;3;3;1;1;1;;;29
+Narayanganj;10;671010002;;GMC;Shapla Samittee;18;70;100;4;4;2;4;1;2;1;3;1;2;2;1;1;1;;;29
+Narayanganj;10;671010003;;GMC;Nizal Ali;11;54;12;4;4;4;3;2;4;3;3;2;3;3;1;3;3;;;42
+Narayanganj;10;671010004;;GMC;Master C . line;35;97;100;1;1;3;2;3;2;1;3;3;3;1;2;2;4;;;31
+Narayanganj;10;671010005;;GMC;A B Master Line;38;111;100;1;1;4;1;2;3;1;2;2;2;2;2;1;2;;;26
+Narayanganj;10;671010006;;GMC;Staff Line;17;64;100;3;1;3;1;2;3;1;3;2;2;3;3;3;2;;;32
+Narayanganj;10;671010007;;GMC;Rezia Begum;9;24;100;4;1;3;1;2;2;1;3;3;2;1;2;3;3;;;31
+Narayanganj;10;671010008;;GMC;Baser bhai;10;30;100;1;4;4;1;2;2;1;2;3;2;3;2;4;2;;;33
+Narayanganj;10;671010009;;GMC;Aman;7;30;100;2;4;4;1;3;3;1;3;3;3;2;2;4;2;;;37
+Narayanganj;10;671010010;;GMC;Kalam;16;59;100;2;4;4;3;2;1;2;3;2;2;2;1;3;1;;;32
+Narayanganj;10;671010011;;GMC;Jahir;6;22;100;3;3;4;2;2;2;2;3;2;2;3;1;2;1;;;32
+Narayanganj;10;671010012;;GMC;Mostafizur;7;26;97;1;2;4;2;2;2;2;3;2;2;2;2;3;1;;;30
+Narayanganj;10;671010013;;GMC;Babul;9;35;98;1;3;3;3;3;2;1;3;2;2;2;2;2;2;;;31
+Narayanganj;10;671010014;;GMC;Head Master;13;54;98;1;1;4;2;2;2;1;3;2;2;2;2;1;1;;;26
+Narayanganj;11;671101001;;Water works road;Md. Hasan;10;40;50;2;4;3;2;2;2;1;2;1;1;3;4;1;4;;;32
+Narayanganj;11;671101002;;Water works road;Giasuddin Prodhan;40;500;50;2;1;3;2;4;3;1;4;3;1;2;4;2;4;;;36
+Narayanganj;11;671101003;;Water works road;Md. Giasuddin;22;160;50;1;3;3;2;4;3;1;4;3;1;3;4;2;4;;;38
+Narayanganj;11;671101004;;Water works road;Abdus Salam;9;36;40;2;2;3;2;3;3;1;3;3;1;3;4;2;4;;;36
+Narayanganj;11;671101005;;Water works road;Abu Taher Mritun;5;20;50;2;1;3;2;3;3;1;4;3;1;3;4;2;4;;;36
+Narayanganj;11;671101006;;Water works road;Hakim Saheb;6;40;60;2;1;3;2;3;3;1;3;3;1;3;4;2;4;;;35
+Narayanganj;11;671101007;;Water works road;MD. Shahjahan;20;250;50;1;1;3;2;3;2;1;3;3;1;3;4;2;4;;;33
+Narayanganj;11;671101008;;Water works road;Amir Hossain;5;20;45;2;1;3;2;3;3;1;3;3;1;3;4;2;4;;;35
+Narayanganj;11;671101009;;Water works road;Mir Abul Hossain;8;30;56;2;1;3;2;3;3;1;4;3;1;2;4;2;4;;;35
+Narayanganj;11;671101010;;Water works road;Mohammad Shahidullah;10;35;45;2;1;3;2;3;3;2;4;3;1;2;4;1;4;;;35
+Narayanganj;11;671101011;;Water works road;Mohammad Faruk;25;380;42;2;1;3;2;3;3;1;4;3;1;2;4;1;4;;;34
+Narayanganj;11;671101012;;Water works road;Md. Babul Miah;30;200;51;2;1;3;2;2;3;1;4;3;1;3;4;1;4;;;34
+Narayanganj;11;671101013;;Water works road;Mohammad Swapan;15;50;40;2;1;3;2;3;2;1;4;3;1;3;3;1;4;;;33
+Narayanganj;11;671101014;;Water works road;Nur Mohammad Manju;40;200;60;1;2;3;1;4;2;1;2;3;1;3;2;1;4;;;30
+Narayanganj;11;671101015;;Water works road;Mahabub Alam;15;150;60;2;1;3;2;3;2;1;4;3;1;3;4;1;4;;;34
+Narayanganj;11;671101016;;Water works road;Abdul Halim Miah;20;300;50;2;1;3;2;3;2;1;4;3;1;3;4;1;4;;;34
+Narayanganj;11;671101017;;Water works road;Mohammad Selim;20;200;45;2;1;3;2;3;2;1;4;3;1;2;4;1;4;;;33
+Narayanganj;11;671101018;;Water works road;Ilias;10;50;40;2;1;3;2;2;1;1;4;3;1;2;4;1;4;;;31
+Narayanganj;11;671101019;;Water works road;Sakat Pagla;20;130;45;1;1;3;2;3;2;1;2;3;1;3;2;1;1;;;26
+Narayanganj;11;671102001;;Ishaka Road;Shahnewaj Bari;5;25;100;2;2;3;4;4;4;1;3;4;2;3;3;2;2;;;39
+Narayanganj;11;671102002;;Ishaka Road;Manju Kaderer Bari;9;50;10;2;2;4;4;4;4;4;4;4;3;4;3;2;2;;;46
+Narayanganj;11;671102003;;Ishaka Road;Moshiur Rahman Bosti;12;50;68;4;4;4;1;4;4;4;4;4;1;4;3;1;2;;;44
+Narayanganj;11;671103001;;Mokoraba Road -NogorKhan Road;Dorga Bari;6;21;50;4;4;4;4;4;1;4;4;3;4;4;1;1;1;;;43
+Narayanganj;11;671103002;;Mokoraba Road -NogorKhan Road;Abdul Rajjak;5;26;100;2;3;4;3;2;4;1;4;4;4;4;4;1;4;;;44
+Narayanganj;11;671103003;;Mokoraba Road -NogorKhan Road;Late Esan Huq;7;30;90;2;1;4;1;2;2;1;2;4;4;1;1;1;1;;;27
+Narayanganj;11;671103004;;Mokoraba Road -NogorKhan Road;Govt Quarter;21;110;70;4;4;4;4;4;4;2;4;3;4;4;4;1;4;;;50
+Narayanganj;11;671103005;;Mokoraba Road -NogorKhan Road;Jaman Saheber House;7;31;80;4;4;4;2;2;3;2;3;2;4;4;1;1;1;;;37
+Narayanganj;11;671103006;;Mokoraba Road -NogorKhan Road;Abdul Mojid;7;23;40;4;4;4;4;3;3;2;4;4;4;4;4;1;4;;;49
+Narayanganj;11;671103007;;Mokoraba Road -NogorKhan Road;Siraj/Jamal Saheber Bari;5;25;50;1;2;4;1;2;1;2;1;2;4;2;1;1;1;;;25
+Narayanganj;11;671103008;;Mokoraba Road -NogorKhan Road;Suvash Biswas;6;28;65;1;1;4;1;3;3;3;3;3;4;2;2;1;1;;;32
+Narayanganj;11;671103009;;Mokoraba Road -NogorKhan Road;Shamser/Jamsher Ali;9;28;90;2;2;4;3;3;2;3;3;2;3;3;1;1;1;;;33
+Narayanganj;11;671103010;;Mokoraba Road -NogorKhan Road;Madob Chakroborty;5;15;45;3;2;4;3;2;3;2;3;4;4;3;1;1;1;;;36
+Narayanganj;11;671103011;;Mokoraba Road -NogorKhan Road;Jahanara Begum;10;40;30;3;3;3;3;2;3;1;3;3;4;2;1;1;1;;;33
+Narayanganj;11;671103012;;Mokoraba Road -NogorKhan Road;Basonta Kumar Das;5;19;60;3;3;4;2;3;2;3;3;4;4;3;4;1;4;;;43
+Narayanganj;11;671103013;;Mokoraba Road -NogorKhan Road;Abdul Mannan;5;21;30;3;1;4;3;4;3;3;3;2;3;3;2;1;1;;;36
+Narayanganj;11;671103014;;Mokoraba Road -NogorKhan Road;Nur Islam er Bari;10;30;70;4;4;4;2;3;3;3;3;3;4;3;1;1;1;;;39
+Narayanganj;11;671103015;;Mokoraba Road -NogorKhan Road;Shani Bari;8;33;60;1;2;3;2;2;2;2;4;4;4;3;4;1;4;;;38
+Narayanganj;11;671103016;;Mokoraba Road -NogorKhan Road;Swapan Kumar Saha;8;40;70;4;2;3;2;4;3;3;3;4;4;3;2;1;2;;;40
+Narayanganj;11;671103017;;Mokoraba Road -NogorKhan Road;Mollah Bari;7;32;60;4;1;4;2;3;2;3;3;3;4;4;1;1;2;;;37
+Narayanganj;11;671103018;;Mokoraba Road -NogorKhan Road;Alinur Saheber Bari;6;25;80;1;2;4;1;3;3;1;4;3;4;4;1;1;1;;;33
+Narayanganj;11;671103019;;Mokoraba Road -NogorKhan Road;Nur Hossain;5;18;50;3;3;4;1;3;1;2;3;3;4;3;4;1;4;;;39
+Narayanganj;11;671103020;;Mokoraba Road -NogorKhan Road;Al-Islam;5;20;30;1;3;4;1;3;3;3;4;3;4;3;1;1;1;;;35
+Narayanganj;11;671103021;;Mokoraba Road -NogorKhan Road;Alom er Bari;5;17;40;4;3;4;3;4;4;3;4;4;4;4;1;1;1;;;44
+Narayanganj;11;671103022;;Mokoraba Road -NogorKhan Road;Shafi/Taher Saheber Bari;5;22;10;1;1;1;1;3;1;1;4;2;1;1;1;1;4;;;23
+Narayanganj;11;671103023;;Mokoraba Road -NogorKhan Road;Islam Saheb;9;37;20;3;2;4;2;3;4;3;4;3;4;3;1;1;1;;;38
+Narayanganj;11;671103024;;Mokoraba Road -NogorKhan Road;Fatema Bari;6;22;40;3;4;4;3;4;3;3;4;4;4;2;1;1;1;;;41
+Narayanganj;11;671103025;;Mokoraba Road -NogorKhan Road;Md Azad Hossain;5;15;35;4;2;4;3;3;4;1;4;3;4;3;1;1;1;;;38
+Narayanganj;11;671104001;;Khanpur Branch Road;Malek Baki;9;24;35;1;1;4;3;3;4;1;4;4;4;4;1;1;1;;;36
+Narayanganj;11;671104002;;Khanpur Branch Road;Shishu Miah Bari;9;43;75;1;1;4;3;3;4;1;3;2;4;4;2;2;1;;;35
+Narayanganj;11;671104003;;Khanpur Branch Road;13/19 Ibrahim Sardar;8;48;45;3;1;4;3;2;2;1;4;2;4;3;4;1;4;;;38
+Narayanganj;11;671104004;;Khanpur Branch Road;Monir Sultan;9;32;35;1;4;4;3;2;3;3;4;3;4;3;1;1;1;;;37
+Narayanganj;11;671104005;;Khanpur Branch Road;Abdul Karim;8;17;40;4;3;4;3;3;4;1;4;3;4;4;1;2;1;;;41
+Narayanganj;11;671104006;;Khanpur Branch Road;Nuruddin Bari;10;24;35;1;1;4;1;4;1;3;4;3;3;4;1;2;1;;;33
+Narayanganj;11;671104007;;Khanpur Branch Road;Azizul Huq Nannu;7;16;35;1;1;2;4;3;3;3;3;3;3;3;1;1;1;;;32
+Narayanganj;11;671104008;;Khanpur Branch Road;Salauddin Bari;6;20;45;1;1;4;3;3;4;3;3;3;4;3;1;2;3;;;38
+Narayanganj;11;671104009;;Khanpur Branch Road;Titur Bari;5;14;35;1;2;4;3;3;2;3;4;3;4;3;1;2;1;;;36
+Narayanganj;11;671104010;;Khanpur Branch Road;52/1 Chan Badsha;10;38;30;1;1;4;2;3;2;2;4;2;3;2;3;1;3;;;33
+Narayanganj;11;671104011;;Khanpur Branch Road;Ajmat Ali;5;25;30;1;1;3;1;3;3;3;3;2;4;4;4;2;1;;;35
+Narayanganj;11;671104012;;Khanpur Branch Road;Abdul Kuddus;10;50;50;1;1;4;1;3;1;2;3;3;3;3;2;1;1;;;29
+Narayanganj;11;671104013;;Khanpur Branch Road;Hossen Miah/Kutti/ Alim Mia;7;27;35;3;1;4;1;3;2;2;1;3;4;2;3;2;3;;;34
+Narayanganj;11;671104014;;Khanpur Branch Road;Md. Motaleb;5;16;35;3;1;4;1;3;3;1;4;3;4;2;2;1;1;;;33
+Narayanganj;11;671104015;;Khanpur Branch Road;Md. Abul Kashem;5;17;80;1;1;4;1;4;3;2;1;3;4;3;2;1;3;;;33
+Narayanganj;11;671104016;;Khanpur Branch Road;Abdul Kuddus;10;38;48;3;1;4;1;3;3;3;4;3;4;3;1;1;1;;;35
+Narayanganj;11;671104017;;Khanpur Branch Road;Iran Saheb/Imam Uddin;10;40;35;4;3;4;1;3;4;3;3;4;4;3;1;3;1;;;41
+Narayanganj;11;671104018;;Khanpur Branch Road;Afsar Uddin;5;19;35;1;1;4;1;3;1;3;4;3;4;3;4;1;1;;;34
+Narayanganj;11;671104019;;Khanpur Branch Road;Pokan Vandari;5;15;21;3;1;4;1;3;3;1;3;4;4;3;1;1;2;;;34
+Narayanganj;11;671104020;;Khanpur Branch Road;Delowar;6;31;50;1;1;4;1;3;3;1;3;3;4;3;3;1;3;;;34
+Narayanganj;11;671104021;;Khanpur Branch Road;Shahjahan;5;18;25;3;4;4;1;3;3;2;3;2;4;4;4;2;4;;;43
+Narayanganj;11;671104022;;Khanpur Branch Road;Ajmeri Vila;14;45;30;1;2;4;1;3;3;3;3;2;3;3;1;2;1;;;32
+Narayanganj;11;671104023;;Khanpur Branch Road;Mostafa;5;25;30;1;3;4;1;3;3;1;4;2;4;3;1;2;2;;;34
+Narayanganj;11;671104024;;Khanpur Branch Road;Md. Sohem;5;19;28;1;4;4;1;3;3;2;3;3;4;3;3;1;3;;;38
+Narayanganj;11;671104025;;Khanpur Branch Road;Salauddin/Jalal Uddin;13;50;70;1;1;4;1;3;3;1;4;3;4;3;2;2;2;;;34
+Narayanganj;11;671104026;;Khanpur Branch Road;Imam Uddin;15;54;50;4;3;4;1;3;3;2;3;3;4;3;1;2;2;;;38
+Narayanganj;11;671104027;;Khanpur Branch Road;Sultan Bari;7;50;35;1;1;4;1;3;3;1;3;4;4;3;4;2;3;;;37
+Narayanganj;11;671104028;;Khanpur Branch Road;Forhad Miar Bari;15;47;35;3;1;4;1;3;3;2;3;3;4;3;1;1;1;;;33
+Narayanganj;11;671104029;;Khanpur Branch Road;Babuler Bari;9;35;35;1;1;4;1;3;3;2;3;4;4;3;1;1;2;;;33
+Narayanganj;11;671105001;;Tolla;Selim Miar Bari;5;18;60;4;1;4;1;3;4;1;4;4;4;3;1;2;1;;;37
+Narayanganj;11;671105002;;Tolla;Shawkat er Bari;6;21;45;3;1;4;1;2;4;1;4;4;4;2;1;1;1;;;33
+Narayanganj;11;671105003;;Tolla;Samsur Bari;8;34;50;4;4;4;2;3;4;2;3;3;4;2;2;1;1;;;39
+Narayanganj;11;671105004;;Tolla;Basir Uddin;13;95;50;1;1;4;1;3;4;1;4;3;4;3;1;1;1;;;32
+Narayanganj;11;671105005;;Tolla;Foyez Ullah Mension;24;101;50;2;4;4;2;4;4;1;4;3;4;3;2;1;2;;;40
+Narayanganj;11;671105006;;Tolla;Jayeda Manjil;10;33;60;1;1;4;1;2;4;1;4;4;4;1;1;2;2;;;32
+Narayanganj;11;671105007;;Tolla;Hawladar Villa;5;21;55;2;1;4;1;3;4;1;4;4;4;2;1;2;1;;;34
+Narayanganj;11;671105008;;Tolla;Masur Bara Bari;5;31;40;4;1;4;1;4;4;3;4;4;4;2;1;1;1;;;38
+Narayanganj;11;671105009;;Tolla;Rustam er Bari;11;45;45;4;1;4;1;2;2;2;3;3;4;1;1;2;2;;;32
+Narayanganj;11;671105010;;Tolla;Anowar Ali Bari;5;20;60;4;4;4;1;3;4;1;4;4;4;2;1;2;1;;;39
+Narayanganj;11;671105011;;Tolla;Munshi Bari;6;18;80;4;1;4;1;4;1;1;4;3;1;1;1;3;2;;;31
+Narayanganj;11;671105012;;Tolla;Moti Miar Bari;6;18;45;2;1;4;1;3;4;1;4;4;4;1;1;1;1;;;32
+Narayanganj;11;671105013;;Tolla;Imam Saheber Bari;10;34;50;4;1;4;1;3;4;3;4;4;4;1;2;2;2;;;39
+Narayanganj;11;671105014;;Tolla;Suruj Miar Bari;17;55;70;4;1;4;2;3;3;1;4;3;4;3;3;3;1;;;39
+Narayanganj;11;671105015;;Tolla;Fojlar Bari;5;21;70;1;1;4;1;4;3;1;4;3;3;3;2;3;1;;;34
+Narayanganj;11;671105016;;Tolla;Falur Bari;7;23;60;1;1;4;2;3;4;2;4;3;4;3;2;3;1;;;37
+Narayanganj;11;671105017;;Tolla;Billal er Bari;5;23;60;2;4;4;2;4;4;2;4;3;4;3;2;2;1;;;41
+Narayanganj;11;671105018;;Tolla;Kalu Miar Bari;18;45;80;4;4;4;2;4;4;3;4;3;4;1;2;2;1;;;42
+Narayanganj;11;671105019;;Tolla;Palash er Bari;5;15;60;4;2;4;2;4;4;3;4;4;4;2;1;2;1;;;41
+Narayanganj;11;671105020;;Tolla;Bhulur Bari;5;15;60;4;4;4;2;4;4;2;4;4;4;3;2;2;1;;;44
+Narayanganj;11;671105021;;Tolla;Saidul Haq;7;22;65;1;1;4;2;4;4;3;4;3;4;3;1;2;4;;;40
+Narayanganj;11;671105022;;Tolla;Ojufar Bari;6;21;75;4;1;4;1;4;2;3;4;4;4;2;1;1;1;;;36
+Narayanganj;11;671105023;;Tolla;Abul Kasem Vila;7;20;12;4;1;4;1;4;3;3;4;4;3;3;2;2;1;;;39
+Narayanganj;11;671105024;;Tolla;Ohab Driver Bari;25;109;80;1;1;4;1;2;3;1;4;3;3;2;2;1;1;;;29
+Narayanganj;11;671105025;;Tolla;Jamal er Bari;8;24;45;1;4;4;1;3;3;3;4;3;4;3;1;1;1;;;36
+Narayanganj;11;671105026;;Tolla;Kasem Miar Bari;7;28;75;1;1;4;1;4;4;1;4;4;4;2;1;1;1;;;33
+Narayanganj;11;671105027;;Tolla;Dui Konna Vila;5;16;45;1;1;4;1;3;4;1;4;4;3;3;1;1;1;;;32
+Narayanganj;11;671105028;;Tolla;Nur Mohammad;12;45;60;1;1;4;1;4;3;1;4;2;3;2;1;1;1;;;29
+Narayanganj;11;671105029;;Tolla;Ibrahim er Bari;10;30;70;3;1;4;1;3;4;3;4;4;4;3;2;2;1;;;39
+Narayanganj;11;671105030;;Tolla;Hasan Miar Bari;12;42;50;1;1;4;2;3;4;2;4;3;4;3;1;1;1;;;34
+Narayanganj;11;671105031;;Tolla;Nur Hossain Miar Bari;13;48;80;1;1;4;2;3;4;1;4;4;4;3;1;1;1;;;34
+Narayanganj;11;671105032;;Tolla;Hazif Din Mohammad;1;53;50;1;1;4;1;4;3;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105033;;Tolla;Joynal Abedin er Bari;11;52;70;2;1;4;2;3;3;1;4;4;4;4;2;1;1;;;36
+Narayanganj;11;671105034;;Tolla;Aowal Munshir Bari;11;38;70;1;1;4;1;3;4;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105035;;Tolla;Abdur Rahmaner Bari;18;63;75;1;1;4;2;4;4;1;4;4;4;3;1;1;1;;;35
+Narayanganj;11;671105036;;Tolla;Jannat Vila;6;26;50;4;4;4;2;4;4;1;4;4;4;3;1;1;1;;;41
+Narayanganj;11;671105037;;Tolla;Baduruddin Bari;20;33;60;1;1;4;2;4;4;1;4;4;4;3;1;1;1;;;35
+Narayanganj;11;671105038;;Tolla;Ramjan Alir Bari;21;65;50;1;1;4;2;3;1;1;4;4;4;3;1;2;1;;;32
+Narayanganj;11;671105039;;Tolla;Tainus Mohajan;9;36;80;2;1;4;2;3;4;1;4;4;4;3;1;1;1;;;35
+Narayanganj;11;671105040;;Tolla;Hazrat Ali Master;8;27;65;1;2;4;1;4;4;4;4;4;4;3;1;1;1;;;38
+Narayanganj;11;671105041;;Tolla;Kasem Miar Bari;11;44;50;4;1;4;1;3;2;4;4;4;4;3;1;1;1;;;37
+Narayanganj;11;671105042;;Tolla;Motaleb Bari;21;77;70;4;1;4;1;3;1;3;4;3;4;1;1;1;1;;;32
+Narayanganj;11;671105043;;Tolla;Iman Ali;14;44;40;4;4;4;1;3;3;1;4;4;4;1;1;1;1;;;36
+Narayanganj;11;671105044;;Tolla;Rubel Vila;21;77;60;4;4;4;1;3;3;1;4;4;4;1;2;1;1;;;37
+Narayanganj;11;671105045;;Tolla;Chowdhury;10;56;80;1;4;4;1;3;3;3;4;4;4;3;1;1;1;;;37
+Narayanganj;11;671105046;;Tolla;Amir Mohajaner Bari;7;27;70;1;1;4;1;3;4;3;4;3;4;1;1;1;1;;;32
+Narayanganj;11;671105047;;Tolla;Mala Member Bari;8;18;95;4;4;4;1;1;4;4;4;4;1;2;1;1;1;;;36
+Narayanganj;11;671105048;;Tolla;Anowar Alir Bosti;20;90;120;4;1;4;1;4;4;4;4;4;1;1;1;1;1;;;35
+Narayanganj;11;671105049;;Tolla;Rahimer Bari;15;100;55;4;1;4;1;4;4;1;4;4;1;4;3;2;2;;;39
+Narayanganj;11;671105050;;Tolla;Younus Alir Bosti;8;40;115;4;4;4;4;4;4;1;4;4;1;3;4;2;4;;;47
+Narayanganj;11;671105051;;Tolla;Farid Member Bari;8;32;50;4;4;4;4;4;4;1;4;4;1;1;3;1;2;;;41
+Narayanganj;11;671105052;;Tolla;Abdul Mohajan Bosti;13;40;50;1;1;4;1;4;3;1;2;3;1;2;2;1;1;;;27
+Narayanganj;11;671105053;;Tolla;Abdul Mohajan Bosti;6;25;50;1;1;3;1;4;2;1;3;3;1;2;2;1;2;;;27
+Narayanganj;11;671105054;;Tolla;Jakir Miar Bosti;8;25;50;1;1;3;1;4;2;1;3;3;1;2;2;1;2;;;27
+Narayanganj;11;671105055;;Tolla;Tainus Mohajan;10;40;50;1;1;3;1;4;1;1;3;3;1;1;3;1;2;;;26
+Narayanganj;11;671105056;;Tolla;Panna Chowdhury Bosti;10;27;60;2;2;4;1;4;1;4;2;3;1;4;2;1;2;;;33
+Narayanganj;11;671105057;;Tolla;Kawsar Chowdhury Bosti;7;35;60;2;2;4;1;4;4;4;4;3;1;4;2;2;2;;;39
+Narayanganj;11;671105058;;Tolla;Siraj Miar Bosti;9;40;60;1;1;4;1;4;4;4;4;3;1;4;4;1;4;;;40
+Narayanganj;11;671105059;;Tolla;Chandon Chowdhury;8;35;50;4;4;4;1;4;4;4;4;3;1;3;3;2;4;;;45
+Narayanganj;11;671105060;;Tolla;Mannan Miar Bosti;7;37;8;3;2;4;1;4;4;4;3;2;1;4;3;2;2;;;39
+Narayanganj;11;671105061;;Tolla;Etir Bosti;5;17;11;1;2;4;1;4;4;4;4;2;1;4;4;1;2;;;38
+Narayanganj;11;671105062;;Tolla;Sadhon Chowdhury Bosti;5;19;13;3;2;4;1;4;4;4;4;4;1;4;2;2;2;;;41
+Narayanganj;11;671105063;;Tolla;Mamun Chowdhury Bosti;7;40;60;1;1;4;1;4;4;4;4;3;1;4;2;1;2;;;36
+Narayanganj;11;671105064;;Tolla;Sadek Miar Bosti;3;45;35;2;2;4;1;4;1;4;4;3;1;4;3;1;2;;;36
+Narayanganj;11;671105065;;Tolla;Ripon Miar Bari;5;20;100;1;1;4;1;4;4;4;4;3;1;3;3;1;2;;;36
+Narayanganj;11;671105066;;Tolla;Shahid Miar Bari;13;62;3;2;1;4;1;4;4;4;2;3;1;3;1;1;1;;;32
+Narayanganj;11;671105067;;Tolla;Mastaner Majar Bosti;7;23;40;1;1;4;1;4;1;1;2;3;1;4;1;1;1;;;26
+Narayanganj;11;671105068;;Tolla;Samsul Alamer Bosti;15;60;90;2;1;3;1;4;4;4;4;4;1;4;2;1;2;;;37
+Narayanganj;11;671105069;;Tolla;Mahbub Alamer Bosti;13;31;90;1;1;4;1;4;4;4;2;4;1;4;3;1;2;;;36
+Narayanganj;11;671105070;;Tolla;Ali Asgarh Bari;17;55;95;1;2;4;1;4;4;4;4;4;1;4;2;1;2;;;38
+Narayanganj;11;671105071;;Tolla;Rakib Miar Bari;5;20;40;4;4;4;3;4;4;2;4;2;4;1;4;3;3;;;46
+Narayanganj;11;671105072;;Tolla;Khoka Mohajaner Bosti;8;34;100;1;1;4;2;3;3;1;2;4;2;3;3;1;4;;;34
+Narayanganj;11;671105073;;Tolla;Jamal Hossain Bosti;8;30;50;2;1;3;3;3;1;2;2;3;2;1;3;1;2;;;29
+Narayanganj;11;671105074;;Tolla;Kasem Miar Bari;7;22;70;1;3;4;1;3;2;1;3;3;4;2;3;2;4;;;36
+Narayanganj;11;671105075;;Tolla;Nur Mohammad Bosti;5;24;60;1;3;4;1;3;2;1;2;1;2;1;3;1;4;;;29
+Narayanganj;11;671105076;;Tolla;Joynal Abedin Bosti;5;18;35;1;1;4;1;4;1;1;4;2;1;4;1;1;1;;;27
+Narayanganj;11;671105077;;Tolla;Gias Uddin Bosti;14;52;50;1;1;4;2;4;3;1;3;4;1;4;3;1;2;;;34
+Narayanganj;11;671105078;;Tolla;Anu Balar Bosti;5;31;80;4;4;4;4;3;3;4;4;4;1;4;3;2;3;;;47
+Narayanganj;11;671105079;;Tolla;Kasem Miar Bosti;9;40;60;1;1;4;1;4;3;1;3;3;1;2;3;2;2;;;31
+Narayanganj;11;671105080;;Tolla;Firoj Miar Bosti;22;100;80;1;2;3;1;3;2;1;3;3;1;2;3;1;2;;;28
+Narayanganj;11;671105081;;Tolla;Aziz Miar Bosti;14;50;80;1;2;3;1;3;2;1;3;3;1;2;2;2;2;;;28
+Narayanganj;11;671105082;;Tolla;Habibur Rahman Bosti;13;55;8;2;1;3;1;4;3;1;3;4;1;4;3;1;2;;;33
+Narayanganj;11;671105083;;Tolla;Parveen Bosti;11;55;50;1;1;3;1;2;2;1;2;4;1;4;2;1;2;;;27
+Narayanganj;11;671105084;;Tolla;Raja Miar Bosti;12;65;80;3;2;4;1;4;2;1;3;4;1;4;3;1;2;;;35
+Narayanganj;11;671105085;;Tolla;Kalu Miar Bosti;13;55;90;2;4;4;1;4;3;1;4;3;1;4;3;1;2;;;37
+Narayanganj;11;671105086;;Tolla;Abdul Hamid Bosti;6;25;50;2;4;4;1;4;3;4;3;2;1;4;3;1;2;;;38
+Narayanganj;11;671105087;;Tolla;Shahidullah Hazi Bosti;28;135;70;2;2;4;1;4;3;4;3;3;1;4;3;1;2;;;37
+Narayanganj;11;671105088;;Tolla;Selinar Bosti;5;10;50;2;4;4;1;4;3;1;4;2;1;4;3;2;2;;;37
+Narayanganj;11;671105089;;Tolla;Abdul Motaliber Bosti;5;17;40;1;1;3;1;4;1;1;3;3;1;4;1;1;1;;;26
+Narayanganj;11;671105090;;Tolla;Aleyar Bosti;5;25;25;1;1;3;1;4;1;1;3;4;1;4;1;1;1;;;27
+Narayanganj;11;671105091;;Tolla;Salmar Bosti;14;70;20;1;1;3;1;4;1;1;3;2;1;1;1;1;1;;;22
+Narayanganj;11;671105092;;Tolla;Arman Bosti;9;22;26;1;1;3;1;4;1;1;3;2;1;4;1;1;1;;;25
+Narayanganj;11;671105093;;Tolla;Masuder Bosti;9;40;60;1;1;3;1;4;1;1;3;4;1;4;2;1;2;;;29
+Narayanganj;11;671105094;;Tolla;Mahbub Kazir Bosti;9;23;30;1;1;4;1;4;1;1;4;2;1;3;1;1;1;;;26
+Narayanganj;11;671105095;;Tolla;Mintu Miar Bosti;11;40;60;1;1;3;1;3;3;1;2;4;1;4;3;2;2;;;31
+Narayanganj;11;671105096;;Tolla;Abdul Azizer Bosti;6;30;22;1;1;3;1;4;3;3;3;3;1;4;3;2;2;;;34
+Narayanganj;11;671105097;;Tolla;Nazim Uddin Bosti;12;40;120;1;1;4;1;2;3;1;3;4;1;4;3;1;2;;;31
+Narayanganj;11;671105098;;Tolla;Tolla Rail Liner;28;100;80;4;1;4;1;3;3;1;4;3;3;3;1;1;1;;;33
+Narayanganj;11;671105099;;Tolla;Alim Miar Bari;22;75;70;2;1;4;1;3;3;1;3;3;3;1;1;1;1;;;28
+Narayanganj;11;671105100;;Tolla;Rabiulder Bari;15;46;70;1;1;4;1;1;1;1;4;3;4;1;1;1;1;;;25
+Narayanganj;11;671105101;;Tolla;Lechu Mohajaner Bari;7;22;80;1;1;4;1;1;1;1;3;3;3;4;1;1;1;;;26
+Narayanganj;11;671105102;;Tolla;Lechu Mohajaner Bari;10;33;80;1;1;4;1;2;1;1;4;4;4;3;1;1;1;;;29
+Narayanganj;11;671105103;;Tolla;Daroga Bari;44;164;50;2;2;4;1;2;4;1;3;3;3;2;4;4;2;;;37
+Narayanganj;11;671105104;;Tolla;Mukter Bari;23;88;80;1;1;4;1;2;4;1;4;4;4;4;2;2;1;;;35
+Narayanganj;11;671105105;;Tolla;Ismail er Bari;5;28;70;1;1;4;1;2;3;1;4;4;4;3;1;1;1;;;31
+Narayanganj;11;671105106;;Tolla;Jobbar er Bari;12;41;70;1;1;4;1;3;1;2;4;4;4;3;1;1;1;;;31
+Narayanganj;11;671105107;;Tolla;Munnar Bari;12;52;32;4;1;4;1;2;2;3;4;4;4;4;1;1;1;;;36
+Narayanganj;11;671105108;;Tolla;Khalil Miar Bari;9;31;11;4;4;4;3;3;4;4;4;4;4;4;1;1;1;;;45
+Narayanganj;11;671105109;;Tolla;Almas er Goli;20;69;80;4;4;4;1;3;3;1;4;4;4;4;1;1;1;;;39
+Narayanganj;11;671105110;;Tolla;Jakir er Bari;8;31;70;4;1;4;1;3;2;3;4;4;4;2;1;1;1;;;35
+Narayanganj;11;671105111;;Tolla;Bepari Bari;8;36;60;1;4;4;1;3;2;3;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105112;;Tolla;Imran Bari;9;40;80;1;1;4;1;3;2;1;4;4;4;3;1;1;1;;;31
+Narayanganj;11;671105113;;Tolla;Aowal er Bari;7;34;80;1;1;4;1;3;3;1;4;4;4;4;1;1;1;;;33
+Narayanganj;11;671105114;;Tolla;Aman Ullah Khan;12;51;75;1;1;4;1;2;1;1;4;4;4;4;1;1;1;;;30
+Narayanganj;11;671105115;;Tolla;Malik Miar Bari;12;38;60;4;4;4;2;3;3;4;4;4;4;4;1;1;1;;;43
+Narayanganj;11;671105116;;Tolla;Mithur Bari;14;47;50;1;1;4;2;2;3;1;4;4;4;4;1;1;1;;;33
+Narayanganj;11;671105117;;Tolla;Jaman er Bari;14;56;60;2;1;4;1;3;3;1;3;4;3;3;2;1;1;;;32
+Narayanganj;11;671105118;;Tolla;Abdul Khaleque;6;19;50;2;2;4;2;3;3;2;3;4;4;4;1;1;1;;;36
+Narayanganj;11;671105119;;Tolla;Nur Alam;9;20;46;3;2;1;1;3;3;1;2;3;4;4;4;1;1;;;33
+Narayanganj;11;671105120;;Tolla;Kazi Rasidud Jaman ujjal;21;90;50;1;1;4;1;3;1;3;1;2;4;3;4;2;1;;;31
+Narayanganj;11;671105121;;Tolla;Jane Alam;5;18;46;3;2;1;1;3;3;1;3;2;4;3;3;1;1;;;31
+Narayanganj;11;671105122;;Tolla;Jannat Vila Julekha;6;26;50;3;3;3;1;3;3;1;2;1;3;1;4;1;1;;;30
+Narayanganj;11;671105123;;Tolla;Rokhsana/Rojina;5;15;46;2;2;1;1;2;2;1;2;2;4;3;4;1;1;;;28
+Narayanganj;11;671105124;;Tolla;Mokter Hossain;9;39;70;4;4;4;3;3;4;3;4;4;4;4;1;1;1;;;44
+Narayanganj;11;671105125;;Tolla;Amjad Hossain Bari;7;30;60;4;4;4;2;3;4;3;4;4;4;4;1;1;1;;;43
+Narayanganj;11;671105126;;Tolla;Hazi Helal Uddin Vila;10;38;60;2;4;4;2;3;4;4;4;3;4;4;1;1;1;;;41
+Narayanganj;11;671105127;;Tolla;Matrichaya;9;27;50;4;4;4;3;3;3;4;4;4;4;4;1;1;1;;;44
+Narayanganj;11;671105128;;Tolla;Sahidullar Bari;11;31;45;1;1;4;3;3;4;3;4;4;4;3;1;1;1;;;37
+Narayanganj;11;671105129;;Tolla;Imran Hossain Bosti;9;24;50;4;4;4;2;3;4;1;4;4;4;3;1;1;1;;;40
+Narayanganj;11;671105130;;Tolla;Rakib Vila;6;23;60;4;4;4;2;3;4;1;4;4;4;3;1;1;1;;;40
+Narayanganj;11;671105131;;Tolla;Selim Vila;6;12;50;1;1;4;2;3;3;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105132;;Tolla;Setara Manjil;12;41;45;4;4;4;3;3;4;1;4;4;4;3;1;1;1;;;41
+Narayanganj;11;671105133;;Tolla;Md. Mohiuddin Bari;10;33;60;4;4;4;2;3;4;1;4;4;4;3;1;1;1;;;40
+Narayanganj;11;671105134;;Tolla;Rabiya Manjil;19;75;70;4;4;4;2;3;3;1;4;4;4;3;1;1;1;;;39
+Narayanganj;11;671105135;;Tolla;Mobarak Bari;9;33;60;1;1;4;2;3;3;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105136;;Tolla;Apon Nibash;11;25;80;4;4;4;3;3;4;1;4;4;4;3;1;1;1;;;41
+Narayanganj;11;671105137;;Tolla;Shorafat Ali Bari;19;64;75;1;1;4;3;3;3;3;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105138;;Tolla;Motahar Hossain Bari;9;39;55;4;4;4;2;3;2;4;3;4;4;3;1;1;1;;;40
+Narayanganj;11;671105139;;Tolla;Nur Mohammad;14;43;80;4;4;4;3;4;4;1;4;4;4;3;1;1;1;;;42
+Narayanganj;11;671105140;;Tolla;Julhar Bari;21;72;50;4;4;4;3;3;3;1;4;4;4;3;1;1;1;;;40
+Narayanganj;11;671105141;;Tolla;Dr. Saheb Alir Bari;8;34;80;1;1;4;1;3;3;1;4;4;4;3;1;1;1;;;32
+Narayanganj;11;671105142;;Tolla;Hakim Saheber Goli;12;39;70;4;4;4;2;3;4;1;4;4;4;3;1;1;1;;;40
+Narayanganj;11;671105143;;Tolla;Dewan Bari;15;46;70;1;1;4;2;3;3;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105144;;Tolla;Nazir Saheber Goli;9;45;80;1;1;4;3;3;2;1;4;4;4;3;1;1;1;;;33
+Narayanganj;11;671105145;;Tolla;Sibil Saheber Bari;9;36;80;1;1;4;1;2;2;1;4;4;4;2;1;1;1;;;29
+Narayanganj;11;671105146;;Tolla;Vasanir Bari;8;26;70;2;1;4;2;3;3;1;4;4;4;3;1;1;1;;;34
+Narayanganj;11;671105147;;Tolla;Miah Bari;16;61;80;1;1;4;2;3;3;4;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105148;;Tolla;Selim er Bari;10;25;50;1;4;4;2;3;2;4;4;4;4;3;1;1;1;;;38
+Narayanganj;11;671105149;;Tolla;Golam Mostafa;13;43;50;4;4;4;2;3;4;4;4;4;4;3;1;1;1;;;43
+Narayanganj;11;671105150;;Tolla;Mir Abdul Member;10;42;80;1;4;4;1;3;3;1;4;4;4;3;1;1;1;;;35
+Narayanganj;11;671105151;;Tolla;Mollah Bari;14;48;70;1;1;4;2;3;3;4;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105152;;Tolla;Darus Salam;7;19;30;1;3;4;2;3;3;3;4;4;4;4;1;1;1;;;38
+Narayanganj;11;671105153;;Tolla;Shahin Vila;9;38;60;1;1;4;1;3;3;4;4;4;4;3;1;1;1;;;35
+Narayanganj;11;671105154;;Tolla;Baitun Nahar;10;38;50;4;4;4;2;3;3;1;4;3;3;1;1;1;1;;;35
+Narayanganj;11;671105155;;Tolla;Abul Kashem;14;60;80;4;1;4;2;3;3;1;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105156;;Tolla;Humayun Kabir;15;59;70;1;4;4;1;3;3;2;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105157;;Tolla;Azizul Haq er Bari;19;86;80;1;1;4;1;3;1;2;4;4;4;2;1;1;1;;;30
+Narayanganj;11;671105158;;Tolla;Samsul Haq Bari;7;19;20;4;4;4;2;3;4;1;4;4;4;4;1;1;1;;;41
+Narayanganj;11;671105159;;Tolla;Rustam er Bari;12;60;80;1;1;4;2;3;4;3;4;4;4;3;1;1;1;;;36
+Narayanganj;11;671105160;;Tolla;Killar Bari;19;73;80;4;1;4;2;3;4;1;4;3;4;4;1;1;1;;;37
+Narayanganj;11;671105161;;Tolla;Md. Moqbul Hossain;7;26;80;1;1;4;1;2;4;1;3;3;4;3;1;1;1;;;30
+Narayanganj;11;671105162;;Tolla;Mukter Hossain;7;20;40;1;1;4;1;3;3;1;4;4;3;4;1;1;1;;;32
+Narayanganj;11;671105163;;Tolla;Ali Hossain Bari;14;45;45;1;3;4;1;4;3;1;3;3;4;3;1;1;1;;;33
+Narayanganj;11;671105164;;Tolla;Firuja Begum er Bari;24;72;90;2;1;4;1;3;2;1;2;4;4;3;1;1;1;;;30
+Narayanganj;11;671105165;;Tolla;Mukul er Bari;12;36;80;3;4;4;1;4;3;4;3;3;4;1;1;1;1;;;37
+Narayanganj;11;671105166;;Tolla;Farukder Bari;11;36;60;4;4;4;1;4;4;4;3;3;4;1;1;1;1;;;39
+Narayanganj;11;671105167;;Tolla;Khaleque er Bari;21;63;60;1;1;4;1;4;1;3;3;4;4;1;1;1;1;;;30
+Narayanganj;11;671105168;;Tolla;Abul Hasem er Bari;17;59;90;1;1;4;1;4;2;1;3;3;3;1;1;1;1;;;27
+Narayanganj;11;671105169;;Tolla;Shahid er Bari;26;80;70;3;4;4;1;4;4;1;4;4;4;1;1;1;1;;;37
+Narayanganj;11;671105170;;Tolla;Mojibor er Bari;28;99;80;3;3;4;1;4;3;1;3;4;4;1;1;1;1;;;34
+Narayanganj;11;671105171;;Tolla;Mojibor Miar Bari;15;51;50;2;1;4;1;4;3;1;3;4;4;1;1;1;1;;;31
+Narayanganj;11;671105172;;Tolla;Ahammad Billah er Bari;11;36;70;4;4;4;1;4;4;1;3;4;4;4;1;1;1;;;40
+Narayanganj;11;671105173;;Tolla;Hamid Billah;8;25;50;1;1;4;1;4;3;1;3;3;4;1;1;1;1;;;29
+Narayanganj;11;671105174;;Tolla;Hosneara Manjil;14;44;50;1;1;4;1;4;3;1;3;4;4;1;1;1;1;;;30
+Narayanganj;11;671105175;;Tolla;Ruhul Amin;8;23;30;1;1;4;1;3;4;1;4;4;4;1;1;1;1;;;31
+Narayanganj;11;671105176;;Tolla;Kajoler Bari;9;22;50;1;1;4;1;4;2;1;3;4;3;1;1;1;1;;;28
+Narayanganj;11;671106001;;New Hajigonj;Ambiar Bosti;20;45;100;2;1;3;1;1;2;1;1;1;1;1;3;1;4;;;23
+Narayanganj;11;671106002;;New Hajigonj;Shahor Banur Bosti;8;30;100;2;1;3;1;1;2;1;1;1;1;1;3;1;4;;;23
+Narayanganj;11;671106003;;New Hajigonj;Sanur Bari;20;40;60;1;1;3;1;1;2;1;1;1;1;1;3;1;4;;;22
+Narayanganj;11;671106004;;New Hajigonj;Aziz Miar Bari;30;100;60;1;1;3;1;1;2;1;1;1;1;1;1;1;4;;;20
+Narayanganj;11;671106005;;New Hajigonj;Meher Alir Bosti;100;250;100;1;1;3;1;1;2;1;1;1;1;1;3;1;4;;;22
+Narayanganj;11;671106006;;New Hajigonj;Salmar Bosti;6;25;50;2;1;3;1;2;2;1;3;3;1;1;3;1;4;;;28
+Narayanganj;11;671106007;;New Hajigonj;Railway Daler Bosti;35;150;100;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;11;671106008;;New Hajigonj;Md. Kamal Miah;6;30;50;2;1;3;2;2;3;1;2;3;1;2;3;1;4;;;30
+Narayanganj;11;671106009;;New Hajigonj;Mijaner Bosti;6;35;55;2;1;3;2;1;2;1;3;3;1;1;3;1;4;;;28
+Narayanganj;11;671106010;;New Hajigonj;Nur alam;16;100;53;1;2;3;2;1;2;1;4;3;1;1;2;1;4;;;28
+Narayanganj;11;671106011;;New Hajigonj;Late Shahjahan;15;100;50;1;1;3;2;1;1;1;4;3;1;1;3;1;4;;;27
+Narayanganj;11;671106012;;New Hajigonj;Md. Abul Hossain Hasu;21;120;60;2;1;3;1;1;1;1;4;3;1;1;2;1;4;;;26
+Narayanganj;11;671106013;;New Hajigonj;Khaja Shahabuddin;8;35;65;2;1;3;2;3;2;1;4;3;1;1;1;1;4;;;29
+Narayanganj;11;671106014;;New Hajigonj;Manik Miah;9;40;70;2;1;3;2;1;2;1;3;3;1;2;1;1;4;;;27
+Narayanganj;11;671106015;;New Hajigonj;Mohammad Pori Banu;6;30;62;2;1;3;2;1;1;1;1;3;1;1;2;1;4;;;24
+Narayanganj;11;671106016;;New Hajigonj;Sree Kishan Ghosh;6;21;60;2;1;3;2;2;2;1;2;3;1;2;2;1;4;;;28
+Narayanganj;11;671106017;;New Hajigonj;Md. Jakir Hossain;5;30;50;2;2;3;1;2;3;1;2;3;1;1;2;1;4;;;28
+Narayanganj;11;671106018;;New Hajigonj;Shahalam;8;40;45;2;1;3;2;2;2;1;2;1;1;1;2;1;4;;;25
+Narayanganj;11;671106019;;New Hajigonj;Late Golap Chan;30;40;52;2;1;3;2;2;2;1;2;1;1;1;3;1;4;;;26
+Narayanganj;11;671106020;;New Hajigonj;Mokter Hossain;10;50;56;2;1;3;2;2;2;1;2;3;1;1;2;1;4;;;27
+Narayanganj;11;671106021;;New Hajigonj;Delowar Hossain;5;20;50;2;1;3;2;3;2;1;2;1;1;1;2;2;4;;;27
+Narayanganj;11;671106022;;New Hajigonj;Md. Kazi Idris Ali;10;60;70;2;1;3;2;2;1;1;2;2;1;1;1;1;4;;;24
+Narayanganj;11;671106023;;New Hajigonj;Raju Ahmed;10;35;34;2;1;2;1;2;1;1;2;3;1;2;1;1;4;;;24
+Narayanganj;11;671106024;;New Hajigonj;Md. Taijul Islam;5;25;35;2;1;3;2;2;1;1;2;3;1;1;1;1;1;;;22
+Narayanganj;11;671106025;;New Hajigonj;Mobarak Hossain;7;35;60;2;1;3;2;3;2;1;2;1;1;2;1;2;4;;;27
+Narayanganj;11;671106026;;New Hajigonj;Mohiuddin;5;25;65;2;1;3;2;2;1;1;2;1;1;1;2;1;4;;;24
+Narayanganj;11;671106027;;New Hajigonj;Late Akor Mohajan;6;45;70;1;1;3;2;2;2;1;2;3;1;4;2;1;4;;;29
+Narayanganj;11;671106028;;New Hajigonj;Md. Fakrul Kawser Likhan;14;100;38;2;3;3;2;4;3;1;4;3;1;1;4;1;4;;;36
+Narayanganj;11;671106029;;New Hajigonj;Nur Nabi Chowdhury;5;20;50;2;4;3;2;1;1;1;1;1;1;1;2;1;4;;;25
+Narayanganj;11;671106030;;New Hajigonj;Abdus Sattar Moron;5;25;50;1;1;3;2;2;2;1;1;3;1;1;3;1;4;;;26
+Narayanganj;12;671201001;;Khanpur;Hakkapatri Kayeser Bari;25;125;100;2;1;3;4;1;4;1;4;3;3;4;4;4;4;;;42
+Narayanganj;12;671201002;;Khanpur;Hakkapatri;24;120;100;1;1;4;4;1;4;1;4;4;2;4;4;2;4;;;40
+Narayanganj;12;671201003;;Khanpur;Nuruddiner bari;21;100;100;4;4;4;4;4;4;4;4;1;4;4;1;4;4;;;50
+Narayanganj;12;671201004;;Khanpur;Khanpur Bou Bazar Keya muddiner bari;6;30;100;4;4;4;4;4;4;4;4;4;1;4;4;4;4;;;53
+Narayanganj;12;671201005;;Khanpur;Khanpur Aloner Bari;10;30;200;1;1;4;4;4;4;4;4;3;1;4;4;2;4;;;44
+Narayanganj;12;671201006;;Khanpur;Khanpur Renur bari;6;30;20;1;1;4;4;4;4;4;4;3;1;4;4;1;4;;;43
+Narayanganj;12;671201007;;Khanpur;Khanpur Nurar Bari;10;50;200;1;1;4;4;4;4;4;4;3;1;4;4;1;4;;;43
+Narayanganj;12;671201008;;Khanpur;Khanpur Sharpuddin Paschim para;35;170;200;1;1;4;4;4;4;4;4;3;1;4;4;2;4;;;44
+Narayanganj;12;671201009;;Khanpur;Khanpur bassu miar bari;9;31;200;1;1;4;4;4;4;4;4;1;1;4;4;4;4;;;44
+Narayanganj;12;671201010;;Khanpur;Selim Miar Bari;5;23;26;4;4;4;4;4;4;4;4;1;1;4;4;4;3;;;49
+Narayanganj;12;671201011;;Khanpur;Nasir Miar bari;13;55;150;4;4;4;4;4;4;4;4;4;1;4;4;4;3;;;52
+Narayanganj;12;671201012;;Khanpur;Badsha Miar bari;15;60;150;4;1;4;4;4;4;4;4;3;1;4;4;4;3;;;48
+Narayanganj;12;671201013;;Khanpur;Amjader bari;8;33;100;4;4;4;4;4;4;4;4;3;1;4;4;4;4;;;52
+Narayanganj;12;671201014;;Khanpur;Nijar bari;18;112;100;4;4;4;4;4;4;4;4;4;2;4;4;3;4;;;53
+Narayanganj;12;671201015;;Khanpur;Akil Uddiner Bari;18;115;100;4;4;4;4;4;4;4;4;4;1;4;4;4;3;;;52
+Narayanganj;12;671201016;;Khanpur;Bada Miar Bari;10;40;100;4;4;4;4;4;4;4;4;3;1;4;4;4;3;;;51
+Narayanganj;12;671201017;;Khanpur;Rahmaner Bari;20;80;100;4;4;4;4;4;4;4;4;3;1;4;4;4;3;;;51
+Narayanganj;12;671201018;;Khanpur;Amraner Bari;17;68;150;4;4;4;4;4;4;4;4;4;2;4;4;4;4;;;54
+Narayanganj;12;671201019;;Khanpur;Manju Jabed Miar Bari;44;176;150;4;4;4;4;4;4;4;4;4;2;4;4;4;3;;;53
+Narayanganj;12;671202001;;Don Chamber;Motilal Chowhaner bari;11;50;140;1;1;4;4;3;4;2;4;3;3;2;4;3;4;;;42
+Narayanganj;12;671202002;;Don Chamber;Golam Moula shaheber bari;5;22;90;1;1;2;1;2;1;2;4;3;3;2;2;1;4;;;29
+Narayanganj;12;671202003;;Don Chamber;Dulal Chowhan bari;6;32;150;1;1;4;3;3;4;2;4;4;3;3;4;3;4;;;43
+Narayanganj;12;671202004;;Don Chamber;Jituder bari;14;50;100;1;1;4;1;3;4;1;4;3;3;3;4;2;4;;;38
+Narayanganj;12;671202005;;Don Chamber;Minara apa Barir Pase;42;160;80;2;1;4;2;3;3;2;3;3;3;3;4;2;4;;;39
+Narayanganj;12;671202006;;Don Chamber;Moura Patri;80;500;100;1;1;4;1;3;3;1;3;2;2;2;4;2;4;;;33
+Narayanganj;12;671203001;;New Khanpur Bank Kolony;Danesh Miar Bari;40;200;100;3;2;3;2;3;2;2;2;3;2;3;3;1;4;;;35
+Narayanganj;12;671203002;;New Khanpur Bank Kolony;Akkas Alir Macth;35;175;80;4;2;3;2;3;2;3;3;3;3;3;4;2;4;;;41
+Narayanganj;12;671203003;;New Khanpur Bank Kolony;Rashid Miar Bari;11;42;70;1;1;4;2;4;4;4;4;4;4;4;1;3;4;;;44
+Narayanganj;12;671203004;;New Khanpur Bank Kolony;Yakuber Bari;15;32;80;2;3;3;3;4;3;4;4;4;3;3;4;3;4;;;47
+Narayanganj;12;671203005;;New Khanpur Bank Kolony;Bhuya Bari;20;80;100;1;1;4;2;4;1;4;4;4;4;3;3;4;4;;;43
+Narayanganj;12;671203006;;New Khanpur Bank Kolony;Bank Colony Masjid Goli;60;240;100;3;2;4;3;4;3;3;4;4;4;4;4;4;4;;;50
+Narayanganj;12;671203007;;New Khanpur Bank Kolony;Panna Apar Goli;8;32;145;3;3;4;4;4;3;4;4;3;4;4;4;3;4;;;51
+Narayanganj;12;671204001;;Mission Para;Debit Miar Barir Pase;32;150;80;2;2;4;3;3;3;3;4;3;3;3;4;3;4;;;44
+Narayanganj;12;671204002;;Mission Para;Sona Miar Barir Pase;7;16;60;2;2;4;2;3;2;4;3;3;2;3;3;1;3;;;37
+Narayanganj;12;671204003;;Mission Para;Missionpara Mesjider pase;6;35;80;3;4;4;2;3;3;4;4;3;3;3;3;2;3;;;44
+Narayanganj;12;671204004;;Mission Para;Ripon Linkonder Barir para;42;130;100;1;1;4;2;3;2;3;3;3;3;3;4;2;4;;;38
+Narayanganj;12;671204005;;Mission Para;Batenmiar Bari;9;50;40;2;2;4;1;3;3;2;3;3;2;3;2;2;4;;;36
+Narayanganj;12;671204006;;Mission Para;Misonpara;5;15;100;3;3;4;4;3;4;3;4;3;3;3;4;2;4;;;47
+Narayanganj;12;671205001;;Bage Jannat;Haji Md. Tuta Miar Bari;23;70;18;3;3;4;3;3;4;4;4;3;2;3;4;2;4;;;46
+Narayanganj;12;671206001;;Uttar Chasara;Hamed Shaheber Bari;13;34;80;1;1;1;1;4;3;4;4;4;4;4;4;4;4;;;43
+Narayanganj;12;671206002;;Uttar Chasara;Mesjider Pisone Sabbir saheber bari;22;65;95;3;1;4;3;3;3;4;3;4;4;4;4;1;4;;;45
+Narayanganj;12;671206003;;Uttar Chasara;Ram babur Pokur par;7;33;100;3;4;4;4;4;4;3;4;4;3;4;3;4;4;;;52
+Narayanganj;12;671206004;;Uttar Chasara;Ram babu pokur par choto mesjid;57;281;105;3;2;4;2;4;3;4;4;4;4;4;4;2;4;;;48
+Narayanganj;12;671206005;;Uttar Chasara;Choklet Factory;120;685;100;3;2;4;3;4;3;4;4;4;4;3;4;3;4;;;49
+Narayanganj;12;671207001;;Chanmari Mouri Patri;Commanderbari;70;500;70;1;1;3;1;1;1;1;2;2;2;3;3;2;3;;;26
+Narayanganj;12;671207002;;Chanmari Mouri Patri;Maoura patri Bot tola;60;400;50;2;1;3;1;1;1;1;2;1;2;3;3;2;3;;;26
+Narayanganj;12;671207003;;Chanmari Mouri Patri;Sruti Biddaypat;80;700;70;1;1;3;2;1;1;2;1;1;2;2;3;3;2;;;25
+Narayanganj;12;671207004;;Chanmari Mouri Patri;Secson Bari;30;150;25;1;1;2;1;1;1;1;2;1;1;2;2;1;2;;;19
+Narayanganj;12;671207005;;Chanmari Mouri Patri;Chasara Rail Line Basti;55;300;25;2;1;2;1;1;1;1;1;1;2;2;1;1;2;;;19
+Narayanganj;12;671207006;;Chanmari Mouri Patri;New Chasara;26;78;36;2;2;3;2;3;2;4;4;3;1;3;2;2;2;;;35
+Narayanganj;12;671208001;;Jamtola Hyder Ali Road;New Chasara 2;25;100;50;2;2;2;2;1;2;2;3;3;2;3;2;1;2;;;29
+Narayanganj;12;671209001;;Isdair;Philkhana Road;35;150;100;2;1;4;1;4;3;3;3;3;3;2;3;2;3;;;37
+Narayanganj;12;671209002;;Isdair;Philkhana Swper Colony;37;170;70;2;1;3;1;4;3;3;3;3;3;3;4;2;3;;;38
+Narayanganj;12;671209003;;Isdair;Larki Jaman Shaheber Bari;8;35;70;2;4;4;4;4;4;2;3;3;2;2;3;3;4;;;44
+Narayanganj;12;671209004;;Isdair;Golam Mostafa;12;36;70;2;4;4;4;4;4;2;3;3;2;2;3;3;4;;;44
+Narayanganj;12;671209005;;Isdair;Khanika Manjil;6;23;70;1;1;4;3;4;4;2;4;3;3;4;3;2;4;;;42
+Narayanganj;12;671209006;;Isdair;Isdair Uttar para basati;1500;6000;37;1;1;2;1;1;1;1;2;2;2;1;1;1;1;;;18
+Narayanganj;12;671210001;;North Khanpur Sardarpara;Seloon Miar Bari;24;130;50;1;1;4;4;4;4;1;4;1;1;3;4;3;1;;;36
+Narayanganj;12;671210002;;North Khanpur Sardarpara;Dulal Miar Bari;35;172;50;1;1;4;4;4;4;1;4;1;1;3;4;3;3;;;38
+Narayanganj;12;671210003;;North Khanpur Sardarpara;Sahabuddiner Bari;7;41;26;1;1;4;4;4;1;4;4;3;1;4;4;1;3;;;39
+Narayanganj;12;671210004;;North Khanpur Sardarpara;Asabuddiner Bari;9;46;26;1;1;4;4;4;1;4;4;3;1;4;4;1;3;;;39
+Narayanganj;12;671210005;;North Khanpur Sardarpara;Kamaler Bari;14;70;26;1;1;4;4;4;1;4;4;3;1;4;4;1;3;;;39
+Narayanganj;12;671210006;;North Khanpur Sardarpara;Deluarer bari;15;75;26;1;1;4;4;4;1;4;4;3;1;4;4;1;3;;;39
+Narayanganj;12;671210007;;North Khanpur Sardarpara;Farid Miar Bari;25;120;26;1;1;4;4;4;1;4;4;3;1;4;4;1;3;;;39
+Narayanganj;12;671210008;;North Khanpur Sardarpara;Sarjahaner Bari;11;54;200;1;1;4;4;1;1;1;4;3;1;4;4;1;3;;;33
+Narayanganj;12;671210009;;North Khanpur Sardarpara;Basannair Bari;100;502;200;1;1;4;4;1;4;1;4;3;2;4;4;3;3;;;39
+Narayanganj;12;671210010;;North Khanpur Sardarpara;Khanpur Jasim Miar Bari;17;98;30;4;4;4;4;4;4;4;4;3;1;4;4;4;3;;;51
+Narayanganj;12;671210011;;North Khanpur Sardarpara;Hakim Nur Mohammader Bari;14;61;35;4;4;4;4;4;4;4;4;3;1;4;4;1;3;;;48
+Narayanganj;12;671210012;;North Khanpur Sardarpara;Nur Mohammad Nizam Uddin;19;82;20;1;1;4;1;4;4;1;4;3;3;4;4;3;4;;;41
+Narayanganj;12;671210013;;North Khanpur Sardarpara;Mahmud Sarderer Bari;13;52;15;4;1;4;1;4;4;1;3;3;2;4;4;4;3;;;42
+Narayanganj;12;671211001;;Ishaka Road Kaji Para;Kazipara Mitoder Bari;25;110;150;1;1;3;4;4;4;1;4;4;3;4;1;4;4;;;42
+Narayanganj;12;671211002;;Ishaka Road Kaji Para;Kazipara Robiner bari;17;72;100;2;1;3;4;4;4;1;4;3;1;4;3;4;4;;;42
+Narayanganj;12;671211003;;Ishaka Road Kaji Para;Ishaka Road Kazi para;250;1000;100;2;1;3;4;4;4;1;4;4;4;4;4;4;4;;;47
+Narayanganj;13;671301001;;Masdair;Toymur Bhaier Pasher Goli;22;100;45;2;2;4;4;4;4;4;4;4;4;4;4;4;4;;;52
+Narayanganj;13;671301002;;Masdair;Kandu Miar Bari;145;580;80;4;4;4;1;3;3;1;3;4;4;3;4;4;4;;;46
+Narayanganj;13;671301003;;Masdair;Zainal Baparir Goli;50;250;50;4;4;4;2;2;4;2;4;4;4;3;4;4;4;;;49
+Narayanganj;13;671301004;;Masdair;Gudara Ghater Mor;64;270;50;4;4;4;1;2;3;1;4;4;4;3;3;4;4;;;45
+Narayanganj;13;671301005;;Masdair;Shona Miar Bari;22;90;30;2;2;4;2;2;4;2;4;4;4;3;4;4;4;;;45
+Narayanganj;13;671301006;;Masdair;Shahabuddin Kakar Garage;50;250;30;2;4;4;2;1;3;1;4;4;4;4;4;4;4;;;45
+Narayanganj;13;671301007;;Masdair;Tarkari Walar Bari;15;75;30;2;2;4;2;1;3;1;3;4;4;3;4;3;3;;;39
+Narayanganj;13;671302001;;Dakkin Jamtola;Mostafa Shaheber Bashati;5;20;40;1;1;4;1;4;4;1;3;4;4;4;4;4;4;;;43
+Narayanganj;13;671302002;;Dakkin Jamtola;Lal Mia Sarderer Meyer Bari;5;20;30;2;1;4;1;4;4;1;3;4;4;3;4;2;4;;;41
+Narayanganj;13;671302003;;Dakkin Jamtola;Dakkhin Jamtala;8;32;30;4;4;4;4;4;3;4;1;4;4;4;4;3;4;;;51
+Narayanganj;13;671302004;;Dakkin Jamtola;Shantee Neer;12;40;10;4;4;4;4;3;4;4;4;4;4;2;4;4;4;;;53
+Narayanganj;13;671302005;;Dakkin Jamtola;Rock Shaheber Bari;36;144;10;1;1;4;1;4;1;1;4;4;4;2;4;4;4;;;39
+Narayanganj;13;671302006;;Dakkin Jamtola;Mohin Shaheber Bari;14;56;10;1;1;4;1;1;1;1;4;4;4;4;4;4;4;;;38
+Narayanganj;13;671302007;;Dakkin Jamtola;Lutfar Shaheber Bari;7;28;15;1;1;4;1;3;2;1;2;3;4;2;3;3;4;;;34
+Narayanganj;13;671302008;;Dakkin Jamtola;Afir Doctorer Bari;20;80;30;1;1;4;1;3;4;1;4;4;4;2;4;4;4;;;41
+Narayanganj;13;671303001;;Chasara Balur Mat;Balur Math Bosti;26;90;40;2;1;1;1;1;1;1;3;3;3;1;1;1;3;;;23
+Narayanganj;13;671304001;;Golachipa;Galachipa Rail Line Moshjid;6;21;40;4;4;4;4;4;4;3;4;4;4;4;4;4;4;;;55
+Narayanganj;13;671304002;;Golachipa;Fucas Goli;9;35;19;4;4;4;3;3;3;3;4;4;4;3;4;3;4;;;50
+Narayanganj;13;671304003;;Golachipa;Abdul Jobbarer Bari;33;111;100;4;4;4;3;2;2;4;4;3;4;3;3;2;4;;;46
+Narayanganj;13;671304004;;Golachipa;Aminul Bhaier Bari;15;56;20;2;4;4;3;3;2;3;4;4;4;3;4;2;4;;;46
+Narayanganj;13;671304005;;Golachipa;Pora Bari Goli;42;112;40;4;4;4;2;3;4;4;3;3;4;3;3;3;4;;;48
+Narayanganj;13;671304006;;Golachipa;Chaer Dokan Goli;14;45;40;4;4;4;4;3;3;2;4;4;4;3;4;3;4;;;50
+Narayanganj;13;671304007;;Golachipa;Rupar Bari;90;270;50;2;3;4;2;2;2;3;3;3;4;3;4;3;1;;;39
+Narayanganj;13;671304008;;Golachipa;Club Goli;14;49;30;2;1;4;1;3;1;1;4;3;4;2;4;2;4;;;36
+Narayanganj;13;671304009;;Golachipa;Dhali Bari Goli;15;58;27;2;3;4;4;3;3;1;3;2;4;3;3;3;4;;;42
+Narayanganj;13;671304010;;Golachipa;Kuri Para Loknath Mondir;50;208;50;2;1;4;1;4;2;2;4;4;4;3;4;2;4;;;41
+Narayanganj;13;671304011;;Golachipa;Notun Moshjid Goli;22;67;32;3;4;4;2;3;3;3;3;3;4;2;4;4;4;;;46
+Narayanganj;13;671304012;;Golachipa;Apel Shahin Goli;26;84;30;4;4;4;3;4;3;3;3;3;4;2;4;4;4;;;49
+Narayanganj;13;671304013;;Golachipa;Samad Miar Bari;21;58;30;4;4;4;2;3;3;3;3;3;4;1;4;4;4;;;46
+Narayanganj;13;671304014;;Golachipa;Firuz Miar Bari;28;88;35;2;1;4;2;3;3;2;3;3;4;2;3;3;4;;;39
+Narayanganj;13;671304015;;Golachipa;Mohila Madrasar Goli;23;68;35;2;1;4;2;3;3;3;3;3;4;2;3;3;4;;;40
+Narayanganj;13;671305001;;Amla para;Dargah Bari;60;300;80;4;3;4;4;1;2;2;2;4;4;4;4;2;4;;;44
+Narayanganj;13;671305002;;Amla para;Sheel Bari;8;32;25;4;4;4;3;2;3;2;4;4;4;2;4;3;1;;;44
+Narayanganj;13;671307001;;Kumudini para;Kumudini Bagan Dokkhin;350;2750;100;2;1;4;1;4;1;1;3;3;1;1;1;1;1;;;25
+Narayanganj;13;671307002;;Kumudini para;Uttor Kumudini Bagan;245;2500;100;2;3;4;1;4;1;1;3;2;1;1;1;1;1;;;26
+Narayanganj;13;671307003;;Kumudini para;Metro Haller Goli;40;180;50;2;3;4;1;1;3;1;4;4;4;3;4;3;4;;;41
+Narayanganj;13;671308001;;Gurapara;Ghora Para WASA Goli;20;70;40;2;1;4;4;3;2;1;3;4;3;3;2;3;3;;;38
+Narayanganj;13;671308002;;Gurapara;Masum Baburchir Bari-1;11;44;40;2;1;4;1;4;1;4;3;4;3;3;4;3;4;;;41
+Narayanganj;13;671308003;;Gurapara;Masum Baburchir Bari-2;10;45;40;2;1;4;1;4;2;1;4;3;3;4;4;3;4;;;40
+Narayanganj;13;671308004;;Gurapara;Kazi Bari Goli;44;112;40;4;4;4;4;4;3;3;4;4;4;4;4;3;3;;;52
+Narayanganj;13;671308005;;Gurapara;WASA Goli;12;58;45;4;4;4;4;4;3;4;3;3;4;3;4;3;3;;;50
+Narayanganj;13;671308006;;Gurapara;D N Road;12;56;30;4;4;4;4;3;4;4;3;4;4;3;4;2;4;;;51
+Narayanganj;13;671308007;;Gurapara;Decoratorer Dokan;9;33;40;4;4;4;3;4;3;4;3;4;4;3;3;2;4;;;49
+Narayanganj;13;671309001;;Msuapara;Girls Schooler Pichone;10;50;60;4;1;3;1;1;1;1;1;4;4;1;1;4;1;;;28
+Narayanganj;13;671309002;;Msuapara;Madrasar Pichone;5;25;65;2;4;3;4;1;4;1;2;4;2;4;4;2;4;;;41
+Narayanganj;13;671309003;;Msuapara;Madrasar Uttor;10;40;40;4;4;4;4;2;2;1;1;1;1;4;4;2;4;;;38
+Narayanganj;13;671309004;;Msuapara;Aktar Sardar Bari;30;120;40;4;1;4;1;1;4;1;1;2;1;4;4;1;4;;;33
+Narayanganj;13;671309005;;Msuapara;Muchi Para;32;220;25;1;1;2;1;1;1;1;2;4;3;4;1;1;4;;;27
+Narayanganj;13;671310001;;Allama Iqbal Road;F M Goli (Uttor Dik);9;36;25;4;4;4;4;3;4;4;4;4;4;3;4;3;4;;;53
+Narayanganj;13;671310002;;Allama Iqbal Road;F M Goli (Dokkhin Dik);7;22;20;4;4;4;4;3;3;4;3;4;3;3;4;3;3;;;49
+Narayanganj;13;671310003;;Allama Iqbal Road;Moshjid Goli;20;65;30;4;4;4;4;3;4;4;4;4;4;3;4;3;4;;;53
+Narayanganj;14;671401001;;Panir Tanki Shaha Para;Akramer Bosti;47;172;50;2;1;4;2;3;3;4;2;2;2;2;3;2;3;;;35
+Narayanganj;14;671401002;;Panir Tanki Shaha Para;Shawpon er Bosti;32;124;50;2;1;4;2;3;3;4;2;2;2;2;3;2;3;;;35
+Narayanganj;14;671401003;;Panir Tanki Shaha Para;Mafiar Bari;20;78;50;2;1;4;2;3;3;4;2;2;2;2;3;2;3;;;35
+Narayanganj;14;671401004;;Panir Tanki Shaha Para;Sumir Bari;39;141;50;2;2;4;2;3;3;4;2;2;2;2;3;2;3;;;36
+Narayanganj;14;671401005;;Panir Tanki Shaha Para;Hazroter Bosti;57;240;50;2;1;4;2;1;2;1;2;2;2;2;2;3;3;;;29
+Narayanganj;14;671401006;;Panir Tanki Shaha Para;Hoq Saheber Bari;43;163;50;3;1;4;2;2;3;1;2;2;2;3;3;2;4;;;34
+Narayanganj;14;671402001;;Santi Bagh;Jhony er Bosti;35;156;45;2;1;4;2;2;3;1;2;2;2;3;3;2;3;;;32
+Narayanganj;14;671402002;;Santi Bagh;Chanaullah er Bosti;14;51;45;2;1;4;2;2;3;1;2;2;2;3;3;2;3;;;32
+Narayanganj;14;671402003;;Santi Bagh;Mojibor er Bosti;13;44;50;2;2;4;2;3;3;4;2;2;2;3;3;2;4;;;38
+Narayanganj;14;671403001;;Bazna Para;Safi Uddin er Bosti;57;256;50;2;3;4;2;3;3;4;2;2;2;2;3;1;3;;;36
+Narayanganj;14;671403002;;Bazna Para;Membarer Bosti;61;192;50;2;3;4;4;2;3;2;2;2;2;1;3;1;4;;;35
+Narayanganj;14;671403003;;Bazna Para;Ukiler Bosti;39;141;50;3;4;4;2;3;3;1;2;2;2;2;3;1;3;;;35
+Narayanganj;14;671403004;;Bazna Para;Mijiborer Bosti;58;231;50;2;1;3;1;2;1;2;1;2;2;1;2;1;1;;;22
+Narayanganj;14;671403005;;Bazna Para;Maleker Bosti;27;129;50;2;1;2;2;1;2;1;2;2;2;2;2;1;4;;;26
+Narayanganj;14;671403006;;Bazna Para;Abdul Miar Bosti;35;167;50;4;1;3;2;2;2;2;2;2;2;2;2;1;2;;;29
+Narayanganj;14;671403007;;Bazna Para;Faridar Bosti;43;166;50;2;3;4;2;3;3;4;3;2;2;2;3;1;3;;;37
+Narayanganj;14;671403008;;Bazna Para;Saheber Bosti;43;171;50;2;1;3;2;1;2;1;2;1;2;1;1;1;2;;;22
+Narayanganj;14;671403009;;Bazna Para;Badsha er Bosti;39;169;50;2;1;3;2;2;3;1;2;2;2;3;3;1;3;;;30
+Narayanganj;14;671403010;;Bazna Para;Shah Alam er Bosti;43;194;50;2;1;3;2;2;3;1;2;2;2;3;3;1;3;;;30
+Narayanganj;14;671404001;;Data Sorak;Sirajer Bosti;31;131;45;2;1;3;2;2;3;1;2;2;2;3;2;1;3;;;29
+Narayanganj;14;671404002;;Data Sorak;Ali Hossen er Bosti;26;115;45;2;1;4;2;2;3;2;2;2;2;3;3;1;3;;;32
+Narayanganj;14;671404003;;Data Sorak;Mister Bari Bosti;19;70;45;2;2;4;2;2;3;1;2;2;2;3;3;1;3;;;32
+Narayanganj;14;671404004;;Data Sorak;Rahim Mollah er Bosti;27;81;45;2;1;4;1;2;3;1;2;2;2;3;3;1;3;;;30
+Narayanganj;14;671404005;;Data Sorak;Delowar er Bari;25;109;45;4;2;4;2;2;3;2;2;2;2;3;3;1;3;;;35
+Narayanganj;14;671405001;;Lichu Bagan;Rob Miar Bosti;31;104;45;3;3;4;2;2;3;2;2;2;2;3;3;2;3;;;36
+Narayanganj;14;671405002;;Lichu Bagan;Jahanara;17;57;47;2;2;4;2;2;2;2;2;2;2;2;3;1;2;;;30
+Narayanganj;14;671405003;;Lichu Bagan;Monir er Bosti;36;158;45;2;2;4;2;2;3;2;2;3;2;3;3;1;3;;;34
+Narayanganj;14;671405004;;Lichu Bagan;Chowdhury Bari;19;77;50;2;1;4;2;2;3;3;2;2;2;3;2;1;4;;;33
+Narayanganj;14;671405005;;Lichu Bagan;Anis er Bosti;40;154;45;2;1;4;2;2;3;2;2;2;2;2;3;1;3;;;31
+Narayanganj;14;671406001;;Paschim Dewbhog Bhuinapara;Nirmal Bosoti;70;280;65;3;3;3;2;2;2;3;2;2;2;3;3;2;2;;;34
+Narayanganj;14;671406002;;Paschim Dewbhog Bhuinapara;Tara Mianh;60;240;65;3;3;3;2;2;3;3;2;2;2;3;2;2;2;;;34
+Narayanganj;14;671406003;;Paschim Dewbhog Bhuinapara;Dr. Ayub Mianh;65;260;55;3;3;3;2;2;2;3;2;2;2;3;3;2;2;;;34
+Narayanganj;14;671406004;;Paschim Dewbhog Bhuinapara;Amina Bosoti;201;804;50;3;3;3;2;2;2;3;2;2;2;3;3;2;2;;;34
+Narayanganj;14;671406005;;Paschim Dewbhog Bhuinapara;Momataz Bosoti;245;980;48;2;3;2;3;3;2;2;2;3;2;3;3;2;2;;;34
+Narayanganj;14;671406006;;Paschim Dewbhog Bhuinapara;Hiru Bosoti;305;1220;45;3;3;3;2;2;2;3;2;2;2;3;3;2;2;;;34
+Narayanganj;14;671407001;;Jeous Pukur;Tapon/Babul Miah;96;344;60;2;1;4;2;2;3;3;2;3;2;2;3;2;3;;;34
+Narayanganj;14;671407002;;Jeous Pukur;Rahman Saheb/Jamini Mohon Dey;107;428;70;2;1;4;2;3;2;3;2;3;2;2;3;2;3;;;34
+Narayanganj;14;671407003;;Jeous Pukur;Rashid /Kartick Chandra Dey;90;370;70;2;1;4;2;2;3;3;2;2;2;2;2;3;3;;;33
+Narayanganj;14;671407004;;Jeous Pukur;Rita Rani Dey/Chittaranjan Modok;40;165;65;2;1;4;2;2;2;3;3;3;2;2;3;2;3;;;34
+Narayanganj;14;671407005;;Jeous Pukur;Gouranga Modok/Anil Banik;34;137;60;2;1;4;2;3;2;3;3;3;2;2;3;2;3;;;35
+Narayanganj;14;671408001;;Dewbhog Elen Road;Lakhan Dey/Gonesh Saha;95;387;80;2;2;4;2;2;2;3;2;3;2;2;3;1;3;;;33
+Narayanganj;14;671408002;;Dewbhog Elen Road;Noresh Shil/Madop Paul;49;232;70;2;2;4;2;2;3;3;2;3;2;2;2;2;3;;;34
+Narayanganj;14;671408003;;Dewbhog Elen Road;Kalachan Devnath/Elu Saha;67;275;65;2;2;4;2;2;3;3;3;3;2;2;3;2;3;;;36
+Narayanganj;14;671408004;;Dewbhog Elen Road;Hanif/Sankor Saha;64;266;65;2;2;4;2;2;2;3;3;3;2;2;3;2;3;;;35
+Narayanganj;14;671408005;;Dewbhog Elen Road;Anna Ghosh/Ma Vila;20;88;70;2;2;4;2;2;2;3;2;3;2;2;2;2;3;;;33
+Narayanganj;14;671408006;;Dewbhog Elen Road;Kamrul-4/Titur Bari;65;268;70;2;2;4;2;2;2;3;3;3;2;2;3;2;3;;;35
+Narayanganj;14;671409001;;Goal Para;Masum Miar Shashur Bari;10;46;48;2;3;4;1;2;1;3;2;2;2;2;3;2;4;;;33
+Narayanganj;14;671409002;;Goal Para;Ad. Pritam Saheber Bari;5;28;62;2;1;4;2;2;1;4;2;2;2;3;3;2;4;;;34
+Narayanganj;14;671409003;;Goal Para;Mirja Alomgir;20;91;50;2;1;4;1;2;1;4;3;2;2;3;3;3;4;;;35
+Narayanganj;14;671409004;;Goal Para;Delowar Goli to Mona Ghosh;319;1200;100;1;1;4;1;1;1;3;3;3;2;3;4;3;4;;;34
+Narayanganj;14;671409005;;Goal Para;Delowar Goli to Mona Ghosh;300;1076;100;1;1;4;1;1;1;3;3;3;2;3;4;3;4;;;34
+Narayanganj;14;671409006;;Goal Para;Delowar Goli to Mona Ghosh;500;2200;100;1;1;4;1;1;1;3;3;3;2;3;4;3;4;;;34
+Narayanganj;14;671409007;;Goal Para;Soleman er Bosti;500;2000;100;2;1;4;2;1;1;3;2;3;2;2;3;3;4;;;33
+Narayanganj;14;671409008;;Goal Para;Nil Komol to Masum;86;344;68;2;1;4;1;1;1;3;2;3;3;3;3;3;4;;;34
+Narayanganj;14;671409009;;Goal Para;Masum er Dish Line;38;190;62;2;1;4;2;1;1;3;3;3;2;3;3;3;3;;;34
+Narayanganj;14;671409010;;Goal Para;Jalani to Ranjan Dey;52;208;40;1;1;4;1;1;1;3;3;2;2;2;3;2;3;;;29
+Narayanganj;14;671410001;;Nandi Para;Motin Mollah Bosti;30;120;37;1;1;4;2;1;1;3;3;3;2;3;3;2;4;;;33
+Narayanganj;14;671410002;;Nandi Para;Kaja Monir Goli Bosti;43;172;56;2;1;4;2;1;1;3;3;3;3;3;4;3;4;;;37
+Narayanganj;14;671410003;;Nandi Para;Ohidul Haq Bosti;39;156;50;1;1;4;1;2;1;3;2;3;2;3;3;2;4;;;32
+Narayanganj;14;671410004;;Nandi Para;Beauti Bosti;82;328;42;1;1;4;2;2;1;3;3;3;2;3;3;2;4;;;34
+Narayanganj;14;671410005;;Nandi Para;Safiuddin Bosti;54;216;51;3;4;4;3;2;1;4;3;3;3;3;3;2;3;;;41
+Narayanganj;14;671410006;;Nandi Para;Pilu Saheber Goli;77;308;41;1;1;4;1;1;1;3;3;3;3;3;3;3;4;;;34
+Narayanganj;14;671411001;;Nuton  Palpara;Probir/Manjuri Bosti;6;24;1;4;4;4;4;2;2;3;3;3;3;3;3;3;4;;;45
+Narayanganj;14;671411002;;Nuton  Palpara;Uposhi+Sheli Bosti;29;110;29;4;1;4;4;2;2;3;3;3;3;3;3;3;3;;;41
+Narayanganj;14;671411003;;Nuton  Palpara;Apu/Pataton/Sattya Saha Bosti;35;130;30;4;4;4;3;2;3;4;3;3;3;3;4;2;4;;;46
+Narayanganj;14;671411004;;Nuton  Palpara;Ripon+Rana Bosti;22;67;70;4;4;4;4;2;2;4;3;3;3;3;3;2;3;;;44
+Narayanganj;14;671411005;;Nuton  Palpara;Hare Krishna-Babul Bosti;9;42;50;1;3;4;2;2;2;3;3;3;3;3;4;3;4;;;40
+Narayanganj;14;671411006;;Nuton  Palpara;Arun+Bhulu Bosti;10;35;100;1;4;4;4;1;2;4;3;2;3;3;4;3;4;;;42
+Narayanganj;14;671411007;;Nuton  Palpara;Bosthi Bosti;65;248;50;1;1;4;1;1;1;3;2;2;2;2;1;2;3;;;26
+Narayanganj;14;671412001;;Ukil Para;Monir Saheber Goli Bosti;32;95;38;1;1;4;3;2;2;3;3;3;3;3;3;3;3;;;37
+Narayanganj;15;671501001;;Shirajuddoula Road-Shayesta Khan Road;1 No Railway Machine Colony;111;555;100;2;1;4;1;1;1;1;4;1;1;1;1;1;1;;;21
+Narayanganj;15;671502001;;Shanaton Pal Lane-Dipu Bazar-Zumla Road;Fakir Tola;42;210;100;4;4;4;3;4;4;4;4;4;4;4;4;3;4;;;54
+Narayanganj;15;671502002;;Shanaton Pal Lane-Dipu Bazar-Zumla Road;Hasem Kashemer Bari;5;30;30;4;4;4;4;4;4;4;4;4;4;4;4;3;4;;;55
+Narayanganj;15;671503001;;Shahid Sohrawardi Road-Layel Tank Road;Doridro Vandar;6;23;150;3;1;4;1;4;1;4;4;4;1;3;1;4;1;;;36
+Narayanganj;15;671505001;;Uttor Reli Bagan;Uttor Reli Bagan;67;768;200;4;4;4;1;4;1;3;2;1;1;1;1;1;3;;;31
+Narayanganj;15;671506001;;Dokkhin Reli Bagan;Dokkhin Reli Bagan;528;2640;120;4;1;4;1;4;1;2;4;3;1;1;1;1;1;;;29
+Narayanganj;15;671508001;;Sweeper Colony (Tan Bazar City Colony);Sweeper Colony (Tan Bazar City Colony);187;720;100;4;4;4;3;3;2;2;2;4;2;3;3;4;3;;;43
+Narayanganj;15;671509001;;Mohin Ganguly Road-PM Roy Road-MM Roy;Mina Bazar Sweeper Colony;6;35;40;3;3;4;3;4;4;4;3;4;1;2;4;4;4;;;47
+Narayanganj;15;671510001;;Bongshal-RK Mitro Road-Mondol Para Pole;Komol Sha Bari;5;22;15;4;4;4;4;4;4;4;4;4;2;4;4;1;4;;;51
+Narayanganj;15;671510002;;Bongshal-RK Mitro Road-Mondol Para Pole;Horipado Sutrodhar Bari;5;16;15;1;1;4;1;4;4;4;4;4;1;4;4;1;4;;;41
+Narayanganj;15;671510003;;Bongshal-RK Mitro Road-Mondol Para Pole;Boddho Miar Bari;6;24;44;4;1;4;1;1;1;1;4;3;1;4;4;1;3;;;33
+Narayanganj;15;671510004;;Bongshal-RK Mitro Road-Mondol Para Pole;Abdul Rober Bari;5;19;42;1;1;4;1;4;1;1;4;1;1;4;4;1;4;;;32
+Narayanganj;15;671510005;;Bongshal-RK Mitro Road-Mondol Para Pole;Haider Alir Bari;6;25;16;4;4;4;4;4;4;4;4;3;1;4;4;4;4;;;52
+Narayanganj;15;671510006;;Bongshal-RK Mitro Road-Mondol Para Pole;Bhola Ghosh Bari;7;26;6;3;3;4;4;3;4;4;4;4;3;3;4;4;4;;;51
+Narayanganj;15;671510007;;Bongshal-RK Mitro Road-Mondol Para Pole;Mosle Uddin Khondakar Biddut Bari;5;16;52;4;2;4;4;3;3;4;4;3;2;4;4;3;3;;;47
+Narayanganj;15;671510008;;Bongshal-RK Mitro Road-Mondol Para Pole;Billal Miah Bari;5;16;54;4;4;4;3;2;1;4;4;4;2;4;4;3;4;;;47
+Narayanganj;15;671510009;;Bongshal-RK Mitro Road-Mondol Para Pole;Mainuddin Munshi Bari;5;25;58;4;4;4;4;4;4;4;4;3;1;4;4;1;4;;;49
+Narayanganj;15;671511001;;B. Das Road-RK Das-Old Bank Road-Choto Bhagobanganj;Boyl Khana;19;57;52;1;3;1;1;1;1;1;1;4;1;4;1;1;2;;;23
+Narayanganj;15;671513001;;New Jhimkhana;Rail Colony;630;2050;45;2;1;4;1;1;1;1;3;2;4;2;1;1;3;;;27
+Narayanganj;15;671513002;;New Jhimkhana;Soleman Miar Bari;620;2500;47;4;3;1;3;1;1;1;4;4;4;1;1;1;3;;;32
+Narayanganj;15;671513003;;New Jhimkhana;Daspara Soleman Miar Bari;90;250;15;2;1;4;2;1;1;1;1;2;4;1;1;1;3;;;25
+Narayanganj;15;671513004;;New Jhimkhana;Ali Akbarer Bari;201;800;34;2;1;3;1;1;1;1;1;2;1;1;1;1;1;;;18
+Narayanganj;15;671513005;;New Jhimkhana;Mojibor Miar Bari;57;230;36;1;1;3;1;1;1;1;1;3;1;2;2;1;4;;;23
+Narayanganj;16;671601001;;1 No Baburail;Rishi Bari;528;2610;120;1;3;4;1;1;1;2;1;1;2;2;1;1;3;;;24
+Narayanganj;16;671601002;;1 No Baburail;Baburchi Bari;50;250;100;1;1;2;1;1;2;1;3;3;1;1;2;2;2;;;23
+Narayanganj;16;671601003;;1 No Baburail;Late Motaleb Saheber Bari;100;300;100;2;1;2;1;1;3;1;3;3;1;1;3;2;1;;;25
+Narayanganj;16;671601004;;1 No Baburail;Gafur Saheber Bari;30;150;120;1;1;2;1;1;1;1;1;3;1;1;1;1;2;;;18
+Narayanganj;16;671601005;;1 No Baburail;Rahman Saheber Bari;102;400;30;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;16;671602001;;2 No Baburail;Md. Monir Bhaier Bari;5;14;125;4;2;4;3;2;4;4;2;3;4;3;4;3;4;;;46
+Narayanganj;16;671602002;;2 No Baburail;Md. Shahdat Bhaier Bari;10;25;44;4;4;4;3;4;4;4;2;4;4;4;3;3;4;;;51
+Narayanganj;16;671602003;;2 No Baburail;Shukkur Miar Bari;6;27;130;4;2;4;3;4;2;4;2;4;3;4;4;4;4;;;48
+Narayanganj;16;671602004;;2 No Baburail;Yousuf/Khorsheder Bari;5;14;75;4;4;4;3;2;4;4;3;4;3;4;4;1;4;;;48
+Narayanganj;16;671602005;;2 No Baburail;Fikir/Alauddin er Bari;11;31;135;4;4;4;3;4;3;4;3;2;4;4;4;4;2;;;49
+Narayanganj;16;671602006;;2 No Baburail;Abu Hosser er Bari;17;42;55;4;4;4;4;4;4;4;2;4;3;4;4;4;4;;;53
+Narayanganj;16;671602007;;2 No Baburail;Rouf Saheber Bari;13;48;160;4;2;4;3;4;2;4;4;4;4;4;4;4;4;;;51
+Narayanganj;16;671602008;;2 No Baburail;Sultan Miar Bari;5;15;108;4;4;4;3;2;4;4;3;3;4;4;4;4;4;;;51
+Narayanganj;16;671602009;;2 No Baburail;Kala Miar Bari;5;18;140;4;2;4;3;4;3;4;3;4;4;4;4;4;4;;;51
+Narayanganj;16;671602010;;2 No Baburail;Miraj Miar Bari;5;16;110;3;3;4;3;3;4;4;2;4;4;4;4;4;4;;;50
+Narayanganj;16;671602011;;2 No Baburail;Geda Miar Bari;26;78;6;4;2;4;3;4;3;4;3;4;4;4;4;4;4;;;51
+Narayanganj;16;671602012;;2 No Baburail;Oshman Miar Bari;8;16;100;4;2;4;3;4;4;4;2;4;3;4;4;4;4;;;50
+Narayanganj;16;671602013;;2 No Baburail;Borkot Miar Bari;10;30;150;4;2;4;3;4;3;4;3;4;3;4;4;3;4;;;49
+Narayanganj;16;671602014;;2 No Baburail;Jona Miar Bari;10;30;115;4;2;4;2;3;3;4;3;4;3;4;4;4;4;;;48
+Narayanganj;16;671602015;;2 No Baburail;Late Hossen Miar Bari;9;39;150;4;2;4;3;4;2;4;3;4;3;4;4;4;4;;;49
+Narayanganj;16;671602016;;2 No Baburail;Ferdaus Obaid Sumaner Bari;20;100;12;4;4;4;3;4;4;4;3;4;4;4;4;3;4;;;53
+Narayanganj;16;671603001;;Dewbogh Part-1;Joynal Abedin;24;80;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603002;;Dewbogh Part-1;Chan Ostagar er Bari;26;90;80;3;1;2;3;3;3;4;2;3;4;3;4;2;4;;;41
+Narayanganj;16;671603003;;Dewbogh Part-1;Tamij Miar Bari;7;60;99;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603004;;Dewbogh Part-1;Bulu Miar Bari;16;80;110;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603005;;Dewbogh Part-1;Sardar Bari;16;75;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603006;;Dewbogh Part-1;Badruddin Gang Bari;14;66;150;3;1;2;3;3;4;4;2;3;4;3;2;4;4;;;42
+Narayanganj;16;671603007;;Dewbogh Part-1;Almas Ali;19;60;150;3;1;3;2;4;4;4;3;3;4;3;2;4;4;;;44
+Narayanganj;16;671603008;;Dewbogh Part-1;Mofizur Islam er Bari;20;82;100;3;2;3;2;4;4;4;3;3;4;3;2;4;4;;;45
+Narayanganj;16;671603009;;Dewbogh Part-1;Tofazzal;25;110;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603010;;Dewbogh Part-1;Samsul;6;30;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603011;;Dewbogh Part-1;Fakir Miah;5;18;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603012;;Dewbogh Part-1;Misir Ali;8;32;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603013;;Dewbogh Part-1;Mosjid Bari;12;40;45;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603014;;Dewbogh Part-1;Salim Miah;5;27;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603015;;Dewbogh Part-1;Kadir Miah;9;38;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603016;;Dewbogh Part-1;Chan Miah;30;120;100;2;1;4;1;1;1;4;3;3;4;3;4;1;4;;;36
+Narayanganj;16;671603017;;Dewbogh Part-1;Innat Ali Ostagar;28;105;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671603018;;Dewbogh Part-1;Dorbesh Ali;19;90;100;3;1;4;2;2;3;4;3;3;4;3;4;2;4;;;42
+Narayanganj;16;671604001;;Dewbogh Part-2;Md. Rasel;24;98;90;3;1;4;1;1;4;1;3;3;1;3;4;4;4;;;37
+Narayanganj;16;671604002;;Dewbogh Part-2;Hasan Sardar;5;32;110;1;1;4;2;1;2;4;4;1;1;4;4;1;4;;;34
+Narayanganj;16;671604003;;Dewbogh Part-2;Safaruddin (Sobra);9;27;70;4;1;4;2;1;3;4;4;3;1;3;4;3;4;;;41
+Narayanganj;16;671604004;;Dewbogh Part-2;Md. Chanda Miar;6;23;105;4;3;4;2;1;4;4;4;3;1;3;4;4;4;;;45
+Narayanganj;16;671604005;;Dewbogh Part-2;Romij Uddin;5;10;135;1;4;4;1;1;4;1;3;3;1;3;3;4;4;;;37
+Narayanganj;16;671604006;;Dewbogh Part-2;Sajahan;6;11;95;1;1;4;1;1;4;1;1;3;1;3;4;4;4;;;33
+Narayanganj;16;671604007;;Dewbogh Part-2;Munsur Miah;13;52;140;2;3;4;1;1;4;1;3;3;1;3;4;4;4;;;38
+Narayanganj;16;671604008;;Dewbogh Part-2;Juel Miah;11;41;75;1;1;2;1;1;1;1;3;1;3;3;4;4;4;;;30
+Narayanganj;16;671604009;;Dewbogh Part-2;Jaman;6;29;105;3;2;4;1;2;2;2;3;3;3;2;4;3;4;;;38
+Narayanganj;16;671604010;;Dewbogh Part-2;Late Mona Miah;4;10;140;3;1;4;1;1;1;1;3;3;1;3;4;4;4;;;34
+Narayanganj;16;671604011;;Dewbogh Part-2;Delowar Miah;8;38;135;2;1;4;1;1;1;1;1;3;1;3;4;4;4;;;31
+Narayanganj;16;671604012;;Dewbogh Part-2;Idris Miah;10;42;145;3;1;4;1;1;1;1;1;2;1;3;4;3;3;;;29
+Narayanganj;16;671604013;;Dewbogh Part-2;Momtaz Uddin (Sanghelu);16;48;80;3;1;3;1;1;1;1;1;1;1;3;4;4;4;;;29
+Narayanganj;16;671604014;;Dewbogh Part-2;Nura Miah;5;17;80;3;1;3;1;1;1;1;1;1;3;1;4;4;1;;;26
+Narayanganj;16;671604015;;Dewbogh Part-2;Billal Miah;10;40;70;3;1;4;1;1;1;1;1;1;1;3;4;4;4;;;30
+Narayanganj;16;671605001;;Zimkhana;Korban Ali (Kanu);500;2000;45;3;3;4;4;1;1;2;2;2;1;1;1;1;1;;;27
+Narayanganj;16;671605002;;Zimkhana;Nur Islam;280;2500;45;3;3;4;4;1;1;2;2;2;1;1;1;1;1;;;27
+Narayanganj;16;671606001;;Bapari Para;Vasai Mohram Bari;20;100;40;2;2;4;1;2;2;4;2;3;1;3;4;2;4;;;36
+Narayanganj;16;671606002;;Bapari Para;Chara Bari;16;90;14;1;1;2;1;2;2;1;2;2;2;3;1;1;1;;;22
+Narayanganj;16;671606003;;Bapari Para;Shah Alam;20;150;20;2;1;4;1;2;3;4;3;3;1;3;3;1;4;;;35
+Narayanganj;16;671606004;;Bapari Para;Salamat Miah;15;60;30;4;3;3;1;2;3;4;3;2;2;2;4;3;4;;;40
+Narayanganj;16;671606005;;Bapari Para;Mojid Khondakar;25;100;25;1;1;4;1;3;1;1;4;3;1;4;4;1;4;;;33
+Narayanganj;16;671606006;;Bapari Para;Shabjahan Mollick;14;50;18;1;1;4;1;2;2;1;4;2;3;4;4;2;4;;;35
+Narayanganj;16;671606007;;Bapari Para;Jahangir Alam (GS);6;24;20;1;1;4;1;2;1;1;3;3;2;4;4;3;4;;;34
+Narayanganj;16;671606008;;Bapari Para;Chan Miah;40;200;20;1;1;3;1;2;2;1;2;3;3;4;1;2;4;;;30
+Narayanganj;16;671607001;;Boro Dewbogh;Diptir Bari;13;85;7;2;1;1;1;2;1;1;1;2;2;1;2;2;2;;;21
+Narayanganj;16;671607002;;Boro Dewbogh;Kolponar Bari;11;30;10;1;1;3;2;1;2;1;2;3;2;2;2;1;2;;;25
+Narayanganj;16;671607003;;Boro Dewbogh;Motaleb Miar Bari;5;18;15;1;1;2;1;2;3;1;3;3;2;3;3;3;4;;;32
+Narayanganj;16;671607004;;Boro Dewbogh;Mantu Miar Bari;7;27;6;2;2;2;1;1;1;3;2;1;3;3;1;1;4;;;27
+Narayanganj;16;671607005;;Boro Dewbogh;Badsha Hazir Bari;11;50;30;3;3;4;1;3;2;3;3;1;3;3;1;1;4;;;35
+Narayanganj;16;671607006;;Boro Dewbogh;Late Shah Alam Bari;7;28;11;2;1;2;1;2;1;2;1;2;2;1;2;1;4;;;24
+Narayanganj;16;671607007;;Boro Dewbogh;Nuruddin;10;45;20;2;3;2;1;3;2;3;3;3;3;3;3;2;3;;;36
+Narayanganj;16;671607008;;Boro Dewbogh;Ahunnahor Bari;8;24;50;2;3;3;1;2;3;3;3;3;3;3;3;3;2;;;37
+Narayanganj;16;671607009;;Boro Dewbogh;Late Bachhu Miah;5;20;42;3;3;3;1;2;2;3;3;3;4;4;3;3;3;;;40
+Narayanganj;16;671607010;;Boro Dewbogh;Mohammed Ali;11;44;18;2;2;2;1;2;1;2;1;3;2;3;2;2;4;;;29
+Narayanganj;16;671607011;;Boro Dewbogh;Paltu Miar (Alir Bari);5;17;6;2;1;3;1;2;2;3;2;2;2;3;2;1;2;;;28
+Narayanganj;16;671607012;;Boro Dewbogh;Shovar Bari;9;37;15;2;1;2;1;1;2;1;2;2;2;1;1;1;2;;;21
+Narayanganj;16;671607013;;Boro Dewbogh;Kadir Master+Ashraf;7;28;25;3;1;2;2;1;1;2;2;2;2;2;2;1;3;;;26
+Narayanganj;16;671607014;;Boro Dewbogh;Khalil Member;11;44;6;3;2;3;1;2;2;3;2;2;3;3;2;1;3;;;32
+Narayanganj;16;671607015;;Boro Dewbogh;Kanu Miah Bari;19;70;10;1;1;2;1;1;2;1;2;2;2;3;2;1;3;;;24
+Narayanganj;16;671607016;;Boro Dewbogh;Md. Sayed Ali (Mannan Miah);9;44;35;2;2;2;2;1;1;1;3;2;3;3;2;2;3;;;29
+Narayanganj;17;671701001;;Aham Hatta Jallarpar;Yakub Hazir Bari;60;140;30;2;1;4;1;3;2;3;3;2;1;2;4;4;4;;;36
+Narayanganj;17;671701002;;Aham Hatta Jallarpar;Shahid Khaner Bari;23;70;150;2;3;4;1;4;3;4;3;2;2;2;4;4;4;;;42
+Narayanganj;17;671701003;;Aham Hatta Jallarpar;Ashraf Miar Bari;10;27;15;2;3;4;1;4;2;4;3;3;2;1;4;4;4;;;41
+Narayanganj;17;671701004;;Aham Hatta Jallarpar;Romiz Mollar Bari;50;240;100;2;2;4;1;3;4;4;3;2;1;3;2;4;4;;;39
+Narayanganj;17;671701005;;Aham Hatta Jallarpar;Khaza Mohiuddin;40;150;81;3;3;4;1;4;2;4;2;2;2;2;4;4;4;;;41
+Narayanganj;17;671701006;;Aham Hatta Jallarpar;Masud Mia;38;170;25;2;2;4;1;4;2;4;3;3;1;2;4;4;4;;;40
+Narayanganj;17;671701007;;Aham Hatta Jallarpar;Rashid Mia;25;150;18;2;1;4;1;4;4;4;2;2;2;1;4;4;4;;;39
+Narayanganj;17;671701008;;Aham Hatta Jallarpar;Saeed Paglar Bari;19;65;20;2;3;4;1;4;2;4;3;4;2;1;4;4;4;;;42
+Narayanganj;17;671701009;;Aham Hatta Jallarpar;Md. Shadhin;27;135;150;2;1;4;1;4;2;4;3;3;1;2;4;4;4;;;39
+Narayanganj;17;671701010;;Aham Hatta Jallarpar;Dr. High;45;270;15;2;2;4;1;4;2;4;3;2;1;2;4;4;4;;;39
+Narayanganj;17;671701011;;Aham Hatta Jallarpar;Surhab Mia;25;120;60;2;1;4;1;4;3;4;2;2;1;2;4;4;4;;;38
+Narayanganj;17;671702001;;Shahsuja Road Pull to Moin Vila;Barobari;38;161;100;2;4;4;2;3;3;2;4;2;1;1;3;1;2;;;34
+Narayanganj;17;671702002;;Shahsuja Road Pull to Moin Vila;Nasir Mollar Bari;36;150;60;2;2;4;1;3;3;2;3;2;1;1;1;1;2;;;28
+Narayanganj;17;671702003;;Shahsuja Road Pull to Moin Vila;Masum Nager Bari;54;241;150;1;2;4;1;3;3;2;3;3;1;2;2;1;2;;;30
+Narayanganj;17;671702004;;Shahsuja Road Pull to Moin Vila;Amzaz Hossener Bari;6;27;100;2;2;4;1;3;2;2;3;2;1;4;3;1;4;;;34
+Narayanganj;17;671702005;;Shahsuja Road Pull to Moin Vila;Mashjid Goli;18;65;100;4;4;4;1;3;3;3;3;2;1;3;1;1;2;;;35
+Narayanganj;17;671702006;;Shahsuja Road Pull to Moin Vila;Saeed Huzurer Bari;23;95;150;2;2;4;1;3;2;2;3;2;1;3;1;1;2;;;29
+Narayanganj;17;671702007;;Shahsuja Road Pull to Moin Vila;Chairman Bari;5;24;150;4;2;4;2;3;3;3;3;2;1;4;3;1;4;;;39
+Narayanganj;17;671702008;;Shahsuja Road Pull to Moin Vila;Shahadat Miar Bari;6;30;100;4;2;4;2;3;3;2;3;2;1;3;1;1;2;;;33
+Narayanganj;17;671702009;;Shahsuja Road Pull to Moin Vila;Gaga Miar Bari;23;113;150;2;1;4;4;3;2;1;3;2;1;3;1;1;2;;;30
+Narayanganj;17;671702010;;Shahsuja Road Pull to Moin Vila;Arman Miar Bari;7;35;150;2;2;4;3;3;3;2;3;2;1;4;3;1;4;;;37
+Narayanganj;17;671702011;;Shahsuja Road Pull to Moin Vila;Oli Commissioner Goli;60;291;150;3;1;4;2;1;3;2;3;2;1;3;3;1;3;;;32
+Narayanganj;17;671702012;;Shahsuja Road Pull to Moin Vila;Golap Miar Bari;35;160;150;3;4;3;2;3;4;2;3;3;1;3;3;1;2;;;37
+Narayanganj;17;671702013;;Shahsuja Road Pull to Moin Vila;Khoka Miar Bari;30;150;100;4;4;4;3;3;2;2;3;2;1;3;2;1;2;;;36
+Narayanganj;17;671702014;;Shahsuja Road Pull to Moin Vila;Abu Miar Goli;21;97;150;2;4;3;2;3;2;2;3;2;1;3;1;1;2;;;31
+Narayanganj;17;671703001;;Shahsuja Road Moin Vila to Big Gorosthan;Sentu Miar Goli;38;140;150;2;4;4;1;3;3;2;3;2;1;3;2;2;2;;;34
+Narayanganj;17;671703002;;Shahsuja Road Moin Vila to Big Gorosthan;Komol Miar Bari;35;150;100;4;4;3;1;1;3;2;4;2;1;2;2;1;2;;;32
+Narayanganj;17;671703003;;Shahsuja Road Moin Vila to Big Gorosthan;Anwar Alir Bari;38;158;100;3;2;3;1;3;2;2;3;2;1;1;2;1;2;;;28
+Narayanganj;17;671703004;;Shahsuja Road Moin Vila to Big Gorosthan;Sardar Goli;80;350;150;3;2;4;1;3;3;2;3;2;1;1;3;2;3;;;33
+Narayanganj;17;671703005;;Shahsuja Road Moin Vila to Big Gorosthan;Shofi Hazir Bari;25;120;100;1;1;4;2;3;3;2;4;3;1;3;3;1;3;;;34
+Narayanganj;17;671703006;;Shahsuja Road Moin Vila to Big Gorosthan;Baro Mashjid Goli;15;55;100;2;1;4;2;3;3;2;3;2;1;3;4;1;4;;;35
+Narayanganj;17;671703007;;Shahsuja Road Moin Vila to Big Gorosthan;Dewan Bari;21;100;150;4;4;3;2;2;3;2;3;2;1;3;3;2;3;;;37
+Narayanganj;17;671703008;;Shahsuja Road Moin Vila to Big Gorosthan;Reizoddi Bepari Bari;27;115;100;3;2;3;1;1;1;2;3;2;1;3;1;1;2;;;26
+Narayanganj;17;671703009;;Shahsuja Road Moin Vila to Big Gorosthan;Islam Hazir Bari;10;45;10;3;2;3;1;4;3;2;3;2;1;3;1;1;2;;;31
+Narayanganj;17;671703010;;Shahsuja Road Moin Vila to Big Gorosthan;Nuruddin Dewan Bari;30;150;20;3;2;4;1;3;3;3;3;2;1;4;1;1;2;;;33
+Narayanganj;17;671704001;;Nayapara;Md. Mohishiner Bari;15;60;150;4;4;4;2;4;4;4;3;1;1;4;4;4;4;;;47
+Narayanganj;17;671704002;;Nayapara;Md. Mozibur Rahman Bari;55;140;150;4;4;4;4;4;4;1;2;2;2;3;4;4;4;;;46
+Narayanganj;17;671704003;;Nayapara;Renur Bari;55;220;150;4;4;4;4;4;3;4;3;3;1;3;4;4;4;;;49
+Narayanganj;17;671704004;;Nayapara;Md. Selim Miar Bari;64;350;150;3;1;4;1;4;1;4;3;2;1;1;4;4;4;;;37
+Narayanganj;17;671704005;;Nayapara;Kajol Bhaier Bari;50;300;150;4;1;4;1;4;2;4;2;2;2;3;4;4;4;;;41
+Narayanganj;17;671704006;;Nayapara;Mintu Bhaier Bari;19;88;150;1;1;4;1;4;4;1;4;3;2;3;4;4;4;;;40
+Narayanganj;17;671704007;;Nayapara;Mobarak Miar Bari;61;250;50;4;1;4;1;4;4;4;4;2;2;3;4;4;4;;;45
+Narayanganj;17;671704008;;Nayapara;Maulana Kutub Miar Bari;45;210;150;1;1;4;1;4;2;1;2;2;2;3;4;4;4;;;35
+Narayanganj;17;671704009;;Nayapara;Md. Nur Alam Miar Bari;28;41;15;4;1;4;1;4;2;4;3;2;1;3;4;4;4;;;41
+Narayanganj;17;671704010;;Nayapara;Bisha Miar Bari;45;140;150;1;1;4;1;4;2;4;4;3;2;3;4;4;4;;;41
+Narayanganj;17;671704011;;Nayapara;Md. Sattar Miar Bari;38;139;150;4;1;4;1;4;2;4;3;2;2;3;4;4;4;;;42
+Narayanganj;17;671704012;;Nayapara;Palash Miar Bari;25;115;50;1;1;4;1;4;3;4;4;2;1;3;4;4;4;;;40
+Narayanganj;17;671704013;;Nayapara;Md. Liton Miar Bari;15;60;22;4;4;4;1;4;3;4;4;2;1;3;4;4;4;;;46
+Narayanganj;17;671705001;;Bau Bazar to Bhuiyan Para Mosque;Suman Obaider Bari;15;56;11;3;4;4;1;1;3;1;4;4;3;3;4;4;2;;;41
+Narayanganj;17;671705002;;Bau Bazar to Bhuiyan Para Mosque;Shamsul Hoque Saheber bari;14;89;12;3;4;4;1;1;4;1;4;4;3;3;3;4;2;;;41
+Narayanganj;17;671705003;;Bau Bazar to Bhuiyan Para Mosque;Ilias Miar Bari;11;48;20;3;4;4;3;4;4;4;4;4;1;2;1;3;3;;;44
+Narayanganj;17;671706001;;Paikpara Boro Koborsthan to Shantinagar;Adom Ali;20;60;20;1;1;3;1;1;3;1;3;2;1;2;2;3;4;;;28
+Narayanganj;17;671706002;;Paikpara Boro Koborsthan to Shantinagar;Murad Miar Bari;20;105;20;1;1;4;1;3;1;1;1;1;1;1;4;3;4;;;27
+Narayanganj;17;671706003;;Paikpara Boro Koborsthan to Shantinagar;Moonsur Bepari;40;160;15;1;1;4;1;4;1;1;3;1;1;1;1;2;1;;;23
+Narayanganj;17;671706004;;Paikpara Boro Koborsthan to Shantinagar;Elahi Sarkar;62;300;20;1;1;4;1;1;1;1;3;1;1;1;4;3;4;;;27
+Narayanganj;17;671706005;;Paikpara Boro Koborsthan to Shantinagar;Elahi Sarkar;55;250;25;1;1;4;4;3;1;1;1;1;1;1;1;3;4;;;27
+Narayanganj;17;671706006;;Paikpara Boro Koborsthan to Shantinagar;Monjur Miah;12;60;15;4;4;4;1;3;3;1;3;1;2;2;4;2;4;;;38
+Narayanganj;17;671706007;;Paikpara Boro Koborsthan to Shantinagar;Mokter Miah;14;65;15;4;4;4;1;4;3;1;2;3;3;3;3;1;4;;;40
+Narayanganj;17;671706008;;Paikpara Boro Koborsthan to Shantinagar;Nur Hossain;10;50;15;4;4;4;1;4;4;1;3;3;4;2;4;3;4;;;45
+Narayanganj;17;671706009;;Paikpara Boro Koborsthan to Shantinagar;Mirja Farid;65;300;17;1;1;4;1;1;2;1;1;1;1;1;1;3;1;;;20
+Narayanganj;17;671707001;;Nama Para;Namapara Masjider Sathe;9;39;44;3;4;4;2;2;4;1;4;4;4;3;4;4;4;;;47
+Narayanganj;17;671707002;;Nama Para;Namapara;40;159;45;2;4;4;2;3;4;1;4;4;2;2;4;3;4;;;43
+Narayanganj;17;671707003;;Nama Para;Namapara (Majar Goli);58;220;46;4;4;4;2;3;4;2;4;3;3;3;4;3;4;;;47
+Narayanganj;17;671707004;;Nama Para;Namapara (Majar Goli);60;272;50;1;4;4;2;2;3;2;4;3;3;2;4;4;4;;;42
+Narayanganj;17;671707005;;Nama Para;Namapara;61;328;50;4;4;4;2;4;4;2;4;4;3;2;4;3;4;;;48
+Narayanganj;17;671707006;;Nama Para;Namapara Khankar Pichone;40;168;40;2;1;4;2;3;4;2;4;3;3;3;4;3;4;;;42
+Narayanganj;17;671708001;;Bhuiyan Para to Koroitala;Yakub Bhuiyer Bari;11;53;32;1;4;4;1;4;3;3;4;4;1;3;1;4;3;;;40
+Narayanganj;17;671708002;;Bhuiyan Para to Koroitala;Kalu Bhuiyer Puraton Bari;15;69;35;3;1;4;3;4;3;4;4;3;1;1;1;2;3;;;37
+Narayanganj;17;671708003;;Bhuiyan Para to Koroitala;Mithu Bhaier Bari;9;35;25;3;1;4;1;4;3;4;4;3;2;2;1;1;2;;;35
+Narayanganj;17;671708004;;Bhuiyan Para to Koroitala;Anis Bhuiyan Bari;15;66;25;3;1;4;1;1;1;4;4;3;1;1;1;1;2;;;28
+Narayanganj;17;671709001;;Rishipara to Kaderia Nagar;Muddad Beparir Bari;57;182;11;2;4;4;2;3;4;1;3;3;2;2;4;3;4;;;41
+Narayanganj;17;671709002;;Rishipara to Kaderia Nagar;Robi Hazir Bari;97;369;18;2;4;4;2;3;4;1;3;3;2;2;4;3;4;;;41
+Narayanganj;17;671709003;;Rishipara to Kaderia Nagar;Khokan Miar Bari;63;251;12;2;4;4;2;3;4;1;3;3;2;3;4;3;4;;;42
+Narayanganj;17;671709004;;Rishipara to Kaderia Nagar;Muzahider Bari;35;150;11;2;4;4;1;3;3;1;3;4;2;1;4;4;4;;;40
+Narayanganj;17;671709005;;Rishipara to Kaderia Nagar;Razzak Saheber Bari;39;159;11;2;4;4;2;2;4;1;3;4;2;2;4;4;4;;;42
+Narayanganj;17;671710001;;Choto Koborsthan to Adarshanagar;Mollah Bari;10;50;30;1;1;4;1;2;2;1;3;1;2;1;4;3;4;;;30
+Narayanganj;17;671710002;;Choto Koborsthan to Adarshanagar;Rashid Mia Bari;20;120;20;1;1;4;1;2;1;4;3;2;2;4;1;3;4;;;33
+Narayanganj;17;671710003;;Choto Koborsthan to Adarshanagar;Alhaz Fakir Chan Bhuiyan;10;50;15;4;4;4;1;3;3;2;2;3;4;3;4;3;4;;;44
+Narayanganj;17;671710004;;Choto Koborsthan to Adarshanagar;Josim Miah Bari;5;30;20;4;3;4;1;3;4;4;3;3;3;4;4;3;4;;;47
+Narayanganj;17;671710005;;Choto Koborsthan to Adarshanagar;Ripon Bhuiyan Bari;25;150;20;3;1;4;1;3;2;1;2;2;1;3;2;1;3;;;29
+Narayanganj;17;671710006;;Choto Koborsthan to Adarshanagar;Josim Mridha Bari;35;220;20;4;3;4;1;3;3;1;3;3;2;3;4;1;4;;;39
+Narayanganj;17;671710007;;Choto Koborsthan to Adarshanagar;Dil Mohammad Gedo Mia;40;250;20;1;1;4;1;2;2;1;3;3;2;3;4;3;4;;;34
+Narayanganj;17;671710008;;Choto Koborsthan to Adarshanagar;Abdul Ali Bari;25;120;25;1;1;4;2;2;2;1;3;2;1;2;4;3;4;;;32
+Narayanganj;18;671801001;;Deara;Malek Miar Bari to Maniker Bari;19;101;60;1;4;4;1;1;2;3;3;2;2;3;4;4;4;;;38
+Narayanganj;18;671801002;;Deara;Manik Mia To Chan Miar bari;38;131;50;1;4;4;1;1;2;3;3;2;2;3;4;4;4;;;38
+Narayanganj;18;671801003;;Deara;Chan Miar Bari to;25;114;70;1;4;4;1;1;2;3;3;2;2;3;4;4;4;;;38
+Narayanganj;18;671801004;;Deara;kadir paglar bari to Rahmatullar bari;36;130;48;1;4;4;1;1;2;3;3;2;3;3;4;4;4;;;39
+Narayanganj;18;671801005;;Deara;Rahmat ullah to Ratansikderer bari;37;154;50;1;1;4;1;1;2;3;3;2;3;3;4;4;4;;;36
+Narayanganj;18;671801006;;Deara;Ratan Sikderer Bari to Mahmudullar bari;65;155;40;1;1;3;1;1;2;1;2;3;2;3;4;4;4;;;32
+Narayanganj;18;671801007;;Deara;Mahmud ullar to amdad miar bari;40;151;51;1;1;3;1;1;2;1;2;3;2;3;4;4;4;;;32
+Narayanganj;18;671801008;;Deara;Amdad Miar bari to Bhuya bari;45;153;40;1;1;3;1;1;2;1;2;2;3;3;4;3;4;;;31
+Narayanganj;18;671801009;;Deara;Bjuya bari to Jusnar bari;52;175;55;1;1;3;1;1;2;1;2;3;2;3;4;3;4;;;31
+Narayanganj;18;671801010;;Deara;Juel Miar Bari to Kajoler bari;32;100;42;1;4;4;1;1;2;3;3;3;3;3;4;4;4;;;40
+Narayanganj;18;671801011;;Deara;Kajol Miar bari to Idris Miar bari;40;138;70;1;4;4;1;1;2;3;3;2;3;3;4;4;4;;;39
+Narayanganj;18;671801012;;Deara;Idris Miar Bari to Basanir bari;30;100;70;1;4;4;1;1;2;3;3;2;3;3;4;4;4;;;39
+Narayanganj;18;671801013;;Deara;Basanir Bari to Mijan Miar Bari;30;115;65;1;4;4;1;1;2;3;3;2;3;3;4;2;4;;;37
+Narayanganj;18;671801014;;Deara;Basanir Bari to Bulo Miar Bari;22;153;44;1;1;3;1;1;2;1;2;2;3;3;4;4;4;;;32
+Narayanganj;18;671801015;;Deara;Bulu miar bari to Rusir Bari;30;100;48;1;1;3;1;1;2;3;3;2;3;3;4;4;4;;;35
+Narayanganj;18;671801016;;Deara;Rusir Bari to Alamgir Bari;25;94;70;1;1;3;1;1;2;3;3;2;3;3;4;4;4;;;35
+Narayanganj;18;671801017;;Deara;Alamgirer Bari Sukurer Bari;20;71;50;1;1;3;1;3;1;1;1;3;3;3;4;4;4;;;33
+Narayanganj;18;671801018;;Deara;Sukurer bari to Mamuner bari;15;48;70;1;1;3;1;1;3;2;3;3;2;3;4;4;4;;;35
+Narayanganj;18;671801019;;Deara;Mamuner bari to ali asgorere bari;13;48;40;1;1;3;1;1;3;2;3;3;3;3;4;4;4;;;36
+Narayanganj;18;671802001;;Shahid Nagar;Mamatag begumer bari to chan miar bari;22;79;60;2;2;4;1;4;3;2;3;3;3;4;4;4;4;;;43
+Narayanganj;18;671802002;;Shahid Nagar;Shamsul haqer bari to Ailalir bari;36;80;60;2;1;4;1;3;2;2;3;3;1;4;4;3;4;;;37
+Narayanganj;18;671802003;;Shahid Nagar;Babul dewaner bari to Nur Miar bari;32;120;40;2;2;4;1;2;3;3;3;2;2;4;4;2;4;;;38
+Narayanganj;18;671802004;;Shahid Nagar;Anowar Hosener bari Sanwar Hosener bari;32;111;40;2;1;4;1;3;3;3;2;3;3;4;4;1;4;;;38
+Narayanganj;18;671802005;;Shahid Nagar;Sajer bari;44;167;30;2;2;4;1;3;2;3;2;1;1;4;4;3;4;;;36
+Narayanganj;18;671802006;;Shahid Nagar;Jannater bari to Jaed alir bari;50;165;42;2;1;4;1;3;3;3;2;3;3;4;4;1;4;;;38
+Narayanganj;18;671802007;;Shahid Nagar;Firoj Mattaber bari;48;167;53;2;1;4;1;2;3;3;2;3;3;4;3;1;4;;;36
+Narayanganj;18;671802008;;Shahid Nagar;Late Sharif Hossener bari;61;229;35;2;1;4;1;3;3;3;2;3;3;4;4;1;4;;;38
+Narayanganj;18;671802009;;Shahid Nagar;Pashcimer 2 nong goli;22;80;55;2;3;4;1;1;4;4;3;3;2;3;4;2;1;;;37
+Narayanganj;18;671802010;;Shahid Nagar;Pashcimer 2 nong goli (2);29;93;48;2;4;4;1;1;4;4;4;2;2;3;1;1;1;;;34
+Narayanganj;18;671802011;;Shahid Nagar;Pashcimer 2 nong goli (3);48;95;50;2;4;4;3;1;2;3;4;2;2;3;1;1;1;;;33
+Narayanganj;18;671802012;;Shahid Nagar;Pashcimer 2 nong goli (4);43;143;44;2;2;4;1;1;4;4;4;2;2;2;1;2;1;;;32
+Narayanganj;18;671802013;;Shahid Nagar;Pashcimer 2 nong goli (5);42;66;50;3;3;4;1;1;4;4;3;2;3;2;1;1;1;;;33
+Narayanganj;18;671802014;;Shahid Nagar;Pashcimer 2 nong goli (6);66;235;47;2;3;4;1;4;4;4;4;3;2;3;1;1;1;;;37
+Narayanganj;18;671802015;;Shahid Nagar;Pashcimer 2 nong goli (7);86;204;30;2;3;4;1;1;4;4;4;1;3;3;1;1;1;;;33
+Narayanganj;18;671802016;;Shahid Nagar;Pashcimer 2 nong goli (8);66;311;51;2;3;3;1;1;4;4;3;2;3;3;1;1;1;;;32
+Narayanganj;18;671802017;;Shahid Nagar;Hira Daktarer bari;77;462;40;1;4;4;1;1;2;1;2;2;3;4;2;1;1;;;29
+Narayanganj;18;671802018;;Shahid Nagar;Nazmar bari;50;266;64;2;1;4;1;1;4;3;2;2;3;1;1;1;1;;;27
+Narayanganj;18;671802019;;Shahid Nagar;Seterar bari;155;478;40;2;4;4;1;1;2;4;2;2;2;1;1;1;1;;;28
+Narayanganj;18;671802020;;Shahid Nagar;Tota member er bari;62;372;50;2;4;4;1;1;3;4;2;2;2;1;1;1;1;;;29
+Narayanganj;18;671802021;;Shahid Nagar;Badal miar bari;45;238;28;2;1;4;1;1;2;4;2;2;2;1;1;1;2;;;26
+Narayanganj;18;671802022;;Shahid Nagar;Babuler bari teke kalur bari;52;119;30;4;4;4;3;3;3;3;1;1;4;2;1;2;2;;;37
+Narayanganj;18;671802023;;Shahid Nagar;Mistor bari teke;50;196;29;1;1;4;3;3;2;3;1;4;2;4;3;2;1;;;34
+Narayanganj;18;671802024;;Shahid Nagar;Songsad miar bari;60;209;50;4;4;4;1;3;4;2;2;4;4;3;2;2;1;;;40
+Narayanganj;18;671802025;;Shahid Nagar;Akter Hosener bari;55;195;3;4;4;4;1;3;4;2;2;4;4;3;2;2;1;;;40
+Narayanganj;18;671802026;;Shahid Nagar;Amirere Bari Teke Touhider bari;93;292;20;4;4;4;1;1;3;3;2;4;3;2;4;2;4;;;41
+Narayanganj;18;671802027;;Shahid Nagar;Jalteser bari teke Akterer bari;69;192;30;4;4;4;2;1;3;3;3;4;2;4;1;2;1;;;38
+Narayanganj;18;671802028;;Shahid Nagar;Hasaner bari teke sajeder bari;30;86;20;4;4;4;3;3;3;3;1;4;2;4;1;2;1;;;39
+Narayanganj;18;671802029;;Shahid Nagar;batener bari teke jahangirere bari;50;167;40;4;4;4;3;3;3;3;1;4;2;4;1;2;1;;;39
+Narayanganj;18;671803001;;Al-Amin Nagar;Mashjid road 1 no. goli;70;280;20;2;2;3;1;1;3;1;3;2;2;1;1;1;1;;;24
+Narayanganj;18;671803002;;Al-Amin Nagar;Mashjid road 2 no. goli;400;1500;7;2;1;2;4;1;2;1;2;2;1;1;1;1;1;;;22
+Narayanganj;18;671803003;;Al-Amin Nagar;Mashjid road 3 no. goli;50;200;10;2;1;3;1;1;3;1;2;2;2;1;1;1;1;;;22
+Narayanganj;18;671803004;;Al-Amin Nagar;Mashjid road 4 no. goli;300;1300;18;2;1;2;1;1;3;1;2;2;2;1;1;1;1;;;21
+Narayanganj;18;671803005;;Al-Amin Nagar;Purbo dike bridger shathe goli;300;1500;25;2;1;2;1;1;2;1;2;2;2;1;1;1;1;;;20
+Narayanganj;18;671803006;;Al-Amin Nagar;Rashid Sardar goli;220;800;18;2;1;4;1;1;2;1;2;2;2;1;1;1;1;;;22
+Narayanganj;18;671803007;;Al-Amin Nagar;Bakkar goli;250;900;15;2;1;2;1;1;2;1;2;2;2;1;1;1;1;;;20
+Narayanganj;18;671803008;;Al-Amin Nagar;Muslim Mia goli;10;200;15;2;1;4;1;1;2;1;3;2;3;4;3;4;4;;;35
+Narayanganj;18;671803009;;Al-Amin Nagar;JMC 1 no. goli;200;800;13;2;1;3;2;1;2;1;2;2;3;1;4;4;4;;;32
+Narayanganj;18;671803010;;Al-Amin Nagar;Bhashani goli;40;180;15;2;1;3;1;1;2;1;1;2;3;3;4;4;4;;;32
+Narayanganj;18;671803011;;Al-Amin Nagar;Baraf Kal goli;70;335;25;2;1;3;2;1;3;1;3;2;2;4;4;4;4;;;36
+Narayanganj;18;671803012;;Al-Amin Nagar;Barosha goli;35;205;10;2;1;2;1;1;2;1;3;3;2;4;4;4;4;;;34
+Narayanganj;18;671803013;;Al-Amin Nagar;Noushad goli;30;170;10;2;1;2;1;1;3;1;2;3;2;4;4;3;4;;;33
+Narayanganj;18;671803014;;Al-Amin Nagar;Shukum Math;42;250;30;1;1;2;1;1;1;1;2;3;1;1;1;1;2;;;19
+Narayanganj;18;671804001;;Muslim Nagar;Rafiq Miar Bari;5;17;14;4;4;4;3;4;4;1;4;3;3;4;4;4;4;;;50
+Narayanganj;18;671804002;;Muslim Nagar;Miadir Bari;11;46;8;2;2;4;1;1;4;1;4;4;3;4;4;4;4;;;42
+Narayanganj;18;671804003;;Muslim Nagar;Tutul Miar Bari;15;55;8;2;2;4;1;1;2;1;3;3;3;4;4;3;4;;;37
+Narayanganj;18;671804004;;Muslim Nagar;Delwar Matbar;13;56;10;2;2;4;2;1;2;1;3;3;2;4;4;3;4;;;29
+Narayanganj;18;671804005;;Muslim Nagar;Shahid Miar Bari;29;52;20;2;2;4;1;1;4;1;4;3;4;3;4;3;4;;;40
+Narayanganj;18;671804006;;Muslim Nagar;Rashed Newaz Bacchu;26;100;40;4;4;4;4;4;4;1;2;3;3;4;4;3;4;;;48
+Narayanganj;18;671804007;;Muslim Nagar;Zaher Mia Bari;27;57;16;4;1;4;1;2;1;1;1;3;3;4;4;3;4;;;36
+Narayanganj;18;671804008;;Muslim Nagar;Md. Osman Gani Bari;24;87;30;4;4;4;1;2;4;1;4;4;3;4;4;4;4;;;47
+Narayanganj;18;671804009;;Muslim Nagar;Khorshed Mia-er-Bari;46;117;50;1;1;4;1;1;2;1;2;3;3;4;4;3;4;;;34
+Narayanganj;18;671804010;;Muslim Nagar;Alu Patahan;41;93;50;1;1;4;1;2;1;1;4;3;3;4;4;2;4;;;35
+Narayanganj;18;671804011;;Muslim Nagar;Ali Mia Bari;49;114;2;1;1;4;1;2;4;1;3;2;2;4;4;3;4;;;36
+Narayanganj;18;671804012;;Muslim Nagar;Mongal Mia er-Bari;32;96;35;1;1;4;1;2;4;4;1;3;3;3;4;3;4;;;38
+Narayanganj;18;671804013;;Muslim Nagar;Delwar Sir er Bari;100;205;25;1;1;4;1;1;1;1;3;2;2;4;4;3;4;;;32
+Narayanganj;18;671804014;;Muslim Nagar;Jewl Sir er Bari;28;30;15;1;1;4;1;1;2;1;4;2;2;4;4;3;4;;;34
+Narayanganj;18;671804015;;Muslim Nagar;Shahid Miar Bari;19;40;10;1;1;1;1;1;1;1;3;2;3;2;4;3;4;;;28
+Narayanganj;18;671804016;;Muslim Nagar;Elahi Bari;50;84;20;1;1;4;1;3;2;1;2;2;3;4;4;2;4;;;34
+Narayanganj;18;671804017;;Muslim Nagar;Monir Mia Bari;47;90;15;4;4;4;4;4;4;1;2;2;3;4;4;3;4;;;47
+Narayanganj;18;671805001;;S.G Road;Sitolaxma Kadam Tali;30;100;8;3;4;4;1;3;4;4;2;3;3;1;4;4;4;;;44
+Narayanganj;18;671805002;;S.G Road;Kadam Toli Moszider pichoney;5;25;60;1;1;3;1;1;1;4;1;3;1;4;4;4;4;;;33
+Narayanganj;18;671805003;;S.G Road;Hakim Fakirer Bari;8;37;16;2;1;4;1;3;4;3;2;2;2;4;4;4;4;;;40
+Narayanganj;18;671806001;;Tamak Potti (S.G Road);Sitolaxma Kumuddin;50;248;50;2;3;3;1;2;3;4;2;4;2;3;1;2;2;;;34
+Narayanganj;18;671806002;;Tamak Potti (S.G Road);Chirer Mil;20;96;15;3;1;4;1;4;4;4;3;3;2;4;4;4;3;;;44
+Narayanganj;18;671806003;;Tamak Potti (S.G Road);Tamak polli 1 no. potti;25;110;50;2;1;4;1;4;4;4;3;3;3;4;4;4;4;;;45
+Narayanganj;18;671806004;;Tamak Potti (S.G Road);Tamak potti 2 no. golli;18;72;20;4;4;4;4;1;3;4;2;2;1;4;4;4;4;;;45
+Narayanganj;18;671806005;;Tamak Potti (S.G Road);Tamak potti das para;40;160;80;4;2;4;2;2;2;1;2;2;2;3;4;1;4;;;35
+Narayanganj;18;671806006;;Tamak Potti (S.G Road);Hazi Goli;100;378;35;2;1;4;4;4;4;4;2;2;2;1;4;4;4;;;42
+Narayanganj;18;671806007;;Tamak Potti (S.G Road);Kumudni Paschim Bagan;50;225;45;1;4;4;1;1;2;1;2;2;2;1;1;2;2;;;26
+Narayanganj;18;671807001;;Uttar Nalua;Nasriner Bari to Falan mier Bari;30;121;90;4;4;4;4;3;3;4;4;3;3;3;4;3;4;;;50
+Narayanganj;18;671807002;;Uttar Nalua;Iqbal mier Bari-Kala mier Bari;29;111;60;2;4;4;4;4;3;3;4;3;3;4;4;3;4;;;49
+Narayanganj;18;671807003;;Uttar Nalua;Moti mier Bari;20;85;70;2;2;4;2;3;3;3;3;2;3;4;4;2;4;;;41
+Narayanganj;18;671807004;;Uttar Nalua;Kabir mier Bari -Asher Bari;14;50;70;4;2;4;2;4;3;1;4;3;3;4;4;3;4;;;45
+Narayanganj;18;671807005;;Uttar Nalua;Nilufer Bari;17;64;60;2;2;4;2;4;3;3;4;3;3;4;4;3;4;;;45
+Narayanganj;18;671807006;;Uttar Nalua;Mutaleb mier Bari;14;66;50;2;2;4;2;4;3;3;3;3;3;4;4;3;4;;;44
+Narayanganj;18;671808001;;Maddhya Nalua;Hazrat Alir Bari;11;49;60;1;2;4;1;4;4;4;4;3;4;3;4;3;4;;;45
+Narayanganj;18;671808002;;Maddhya Nalua;Mukul Miar Bari;12;42;60;2;2;4;2;4;4;4;4;3;4;4;4;1;4;;;46
+Narayanganj;18;671808003;;Maddhya Nalua;Mostafa Miar Bari;6;22;60;2;2;4;3;4;4;4;3;3;4;4;4;3;4;;;48
+Narayanganj;18;671808004;;Maddhya Nalua;Mukti Begum er Bari;10;28;60;2;2;4;2;1;4;2;1;3;1;4;4;3;4;;;37
+Narayanganj;18;671808005;;Maddhya Nalua;Jamai Bari;11;47;60;2;1;4;2;4;4;3;4;1;4;4;4;4;4;;;45
+Narayanganj;18;671808006;;Maddhya Nalua;Nekbal Miar Bari;14;61;60;1;2;4;2;4;4;4;3;3;1;4;4;2;4;;;42
+Narayanganj;18;671808007;;Maddhya Nalua;Alauddin Miar Bari;6;25;60;2;1;4;2;4;4;3;4;3;1;4;4;3;4;;;43
+Narayanganj;18;671808008;;Maddhya Nalua;Sohel Miar Bari;8;30;60;2;1;4;2;4;4;4;4;3;2;4;4;4;4;;;46
+Narayanganj;18;671808009;;Maddhya Nalua;Rony Miar Bari;9;48;77;2;2;4;1;4;4;3;4;3;2;4;4;3;4;;;44
+Narayanganj;18;671808010;;Maddhya Nalua;Raj Bari;26;79;70;1;2;4;3;4;2;3;4;2;1;4;4;2;4;;;40
+Narayanganj;18;671808011;;Maddhya Nalua;Pannar Bari;32;122;6;2;2;4;1;4;3;3;3;3;1;4;4;1;4;;;39
+Narayanganj;18;671809001;;Dokhin Nalua;Munna Bhaier Bari;63;215;69;4;4;4;2;2;4;4;3;3;3;3;4;2;4;;;46
+Narayanganj;18;671809002;;Dokhin Nalua;Naruddin Shikhar Galli;45;180;69;2;4;4;2;3;3;3;3;3;3;4;4;4;4;;;46
+Narayanganj;18;671809003;;Dokhin Nalua;Kamal Miar Bari;55;174;69;2;2;4;2;3;3;1;3;3;3;4;4;3;4;;;41
+Narayanganj;18;671809004;;Dokhin Nalua;Halim Gazir Golli;125;238;69;2;1;4;1;3;3;1;2;3;3;4;4;4;4;;;39
+Narayanganj;18;671809005;;Dokhin Nalua;Nazir Miar Bari;107;329;69;3;3;4;1;3;3;1;3;3;3;3;4;4;4;;;42
+Narayanganj;18;671809006;;Dokhin Nalua;Babul Hazir Bari;137;265;69;4;4;4;1;3;3;1;2;3;3;3;3;3;4;;;41
+Narayanganj;18;671809007;;Dokhin Nalua;Hakim Munshir Bari;82;314;69;2;4;4;1;3;3;1;2;2;2;3;3;3;4;;;37
+Narayanganj;18;671809008;;Dokhin Nalua;Hakim Munshir Bari;32;117;64;2;1;4;1;3;4;2;3;3;2;3;4;3;4;;;39
+Narayanganj;18;671809009;;Dokhin Nalua;Rojir Bari;36;109;64;4;2;4;2;3;3;2;2;2;3;3;4;3;4;;;41
+Narayanganj;18;671810001;;B. K. Road;B.K. Road Das Para;98;362;150;2;4;4;1;1;4;1;2;2;2;3;4;4;4;;;38
+Narayanganj;18;671811001;;Rishir Parar Math;Rishir Parar Math;7;35;40;3;2;4;2;2;4;1;2;1;1;1;1;1;1;;;26
+Narayanganj;18;671811002;;Rishir Parar Math;Rishir Parar Math;70;350;45;2;1;4;2;3;2;1;2;3;1;1;1;1;1;;;25
+Narayanganj;18;671811003;;Rishir Parar Math;Rishir Parar Math;11;66;50;2;1;4;2;4;4;1;2;2;1;1;1;1;1;;;27
+Narayanganj;18;671811004;;Rishir Parar Math;Rishir Parar Math;14;77;42;2;1;4;2;1;4;1;1;3;1;1;1;1;1;;;24
+Narayanganj;18;671811005;;Rishir Parar Math;Rishir Parar Math;14;98;44;2;1;4;2;1;4;1;1;3;1;4;1;1;1;;;27
+Narayanganj;18;671811006;;Rishir Parar Math;Rishir Parar Math;46;276;48;2;1;4;1;1;4;1;1;3;1;3;1;1;1;;;25
+Narayanganj;18;671811007;;Rishir Parar Math;Rishir Parar Math;43;258;35;2;1;4;2;1;4;1;2;3;3;2;1;4;1;;;31
+Narayanganj;18;671811008;;Rishir Parar Math;Rishir Parar Math;50;350;47;2;1;4;1;1;4;1;1;3;2;3;1;1;1;;;26
+Narayanganj;18;671812001;;Jomidhari Katchari Golli;Katchari Golli;20;70;45;2;1;4;1;4;1;1;3;3;1;3;1;1;1;;;27
+Narayanganj;18;671812002;;Katchari Golli;Katchari Golli;6;40;30;4;3;4;1;4;4;1;4;2;2;3;1;1;4;;;38
+Narayanganj;18;671812003;;Katchari Golli;Katchari Golli;25;70;50;4;4;4;1;4;4;4;4;4;3;4;4;3;4;;;51
+Narayanganj;18;671812004;;Katchari Golli;Katchari Golli;28;75;100;3;4;4;1;4;4;4;3;4;4;3;4;3;4;;;49
+Narayanganj;18;671812005;;Katchari Golli;Katchari Golli;15;40;50;4;1;4;1;4;4;1;3;4;3;3;4;2;4;;;42
+Narayanganj;18;671812006;;Katchari Golli;Katchari Golli;20;65;40;2;1;4;1;4;4;1;3;3;2;3;4;1;4;;;37
+Narayanganj;18;671812007;;Katchari Golli;Katchari Golli;26;130;42;1;1;4;1;4;4;1;4;3;2;4;4;1;4;;;38
+Narayanganj;19;671901001;;Islampur;Puran Madbar Bari;5;18;50;4;4;4;1;4;1;4;3;3;4;4;4;3;4;;;47
+Narayanganj;19;671901002;;Islampur;Altap Miar Bari;7;27;60;4;1;4;1;3;1;1;3;3;4;4;4;3;4;;;40
+Narayanganj;19;671901003;;Islampur;Shiraj Mahajan-er  Bari;5;13;10;1;1;4;1;3;1;1;4;4;4;3;4;3;4;;;38
+Narayanganj;19;671902001;;Uttar Lakhyar Char;Nur Islam and Gang.;6;29;45;4;4;4;1;3;3;4;2;1;2;4;4;2;4;;;42
+Narayanganj;19;671902002;;Uttar Lakhyar Char;Alamin Raj Mistri & Gang.;6;26;45;2;1;4;1;2;2;4;3;3;2;4;4;2;4;;;38
+Narayanganj;19;671902003;;Uttar Lakhyar Char;Badal Mia;4;18;65;4;4;4;1;4;1;4;4;2;1;4;4;2;4;;;43
+Narayanganj;19;671902004;;Uttar Lakhyar Char;Sahanur Dewan;4;21;78;2;4;4;1;4;1;4;2;3;1;4;4;2;4;;;40
+Narayanganj;19;671902005;;Uttar Lakhyar Char;Hossain Mia;5;17;60;2;1;4;1;3;1;1;2;1;1;4;4;2;4;;;31
+Narayanganj;19;671902006;;Uttar Lakhyar Char;Mohitan Muslim;6;20;100;2;4;4;1;4;3;1;1;3;1;4;4;2;4;;;38
+Narayanganj;19;671903001;;Dakkhin Lakhyar Char;Parin & Gang;5;22;45;3;1;4;1;4;3;3;4;2;2;4;4;2;4;;;41
+Narayanganj;19;671903002;;Dakkhin Lakhyar Char;Sharif & Gang.;5;23;48;3;1;4;1;4;3;4;3;1;1;4;4;2;4;;;39
+Narayanganj;19;671903003;;Dakkhin Lakhyar Char;Anwar & Gang.;5;29;45;4;1;4;1;4;2;4;2;1;1;4;4;2;4;;;38
+Narayanganj;19;671903004;;Dakkhin Lakhyar Char;Pier & Ganj;5;19;55;4;4;4;1;4;2;4;3;1;1;4;4;2;4;;;42
+Narayanganj;19;671904001;;PM Road;Khelak Miar Bari;5;25;6;1;1;4;1;2;1;1;4;4;4;4;3;2;4;;;36
+Narayanganj;19;671904002;;PM Road;Tarek and gong;5;25;10;4;4;3;1;1;1;1;2;3;4;4;3;2;4;;;37
+Narayanganj;19;671905001;;Shantinagar;Kamal gong;4;21;22;1;1;1;1;1;1;1;3;2;1;2;1;1;1;;;18
+Narayanganj;19;671905002;;Shantinagar;Mokter hossain;5;23;30;1;1;3;1;1;1;1;3;2;1;1;1;1;1;;;19
+Narayanganj;19;671905003;;Shantinagar;Jahir;6;24;20;1;2;3;1;2;1;1;2;2;1;2;1;1;1;;;21
+Narayanganj;19;671905004;;Shantinagar;Altap hossain;4;25;20;1;1;3;1;1;1;1;2;1;1;2;1;2;1;;;19
+Narayanganj;19;671905005;;Shantinagar;Khorsheda;5;25;21;1;1;1;1;1;1;1;2;1;1;1;1;1;1;;;15
+Narayanganj;19;671905006;;Shantinagar;Dil mohammad;6;24;20;1;1;3;1;1;1;1;2;1;1;1;1;1;1;;;17
+Narayanganj;19;671905007;;Shantinagar;Sharif;5;22;22;1;1;1;1;1;1;1;2;1;1;2;1;1;1;;;16
+Narayanganj;19;671905008;;Shantinagar;Shahazan;4;14;18;1;1;2;1;1;1;1;2;1;1;2;1;1;1;;;17
+Narayanganj;19;671905009;;Shantinagar;Abul Kashem;8;36;22;1;1;3;1;1;1;1;3;1;1;1;1;1;1;;;18
+Narayanganj;19;671905010;;Shantinagar;Mohiuddin;8;30;20;1;1;2;1;1;1;1;2;1;1;2;1;1;1;;;17
+Narayanganj;19;671905011;;Shantinagar;Setara Begum;4;12;15;1;1;1;1;1;1;1;1;1;1;1;1;1;1;;;14
+Narayanganj;19;671906001;;MN Goshal Road;Ziaur Rahaman;11;50;1;4;4;4;1;4;3;4;3;4;3;4;3;1;4;;;46
+Narayanganj;19;671906002;;MN Goshal Road;Joynal Gong;5;24;15;4;4;4;1;4;3;4;3;4;4;4;4;1;4;;;48
+Narayanganj;19;671906003;;MN Goshal Road;Nur islam gong;6;18;20;4;4;4;1;4;4;4;3;4;4;4;3;1;4;;;48
+Narayanganj;19;671906004;;MN Goshal Road;Falil Gong;21;85;40;4;4;4;1;4;4;4;3;4;4;4;4;1;4;;;49
+Narayanganj;19;671906005;;MN Goshal Road;Liton Gong;6;23;12;4;4;4;1;4;4;4;3;3;3;4;1;1;4;;;44
+Narayanganj;19;671906006;;MN Goshal Road;Arman gong;12;40;6;4;4;4;1;4;4;4;3;3;3;4;4;1;4;;;47
+Narayanganj;19;671907001;;Farazikanda-Part-01;Malek gong;5;23;25;2;2;4;1;1;3;3;3;4;3;4;4;1;2;;;37
+Narayanganj;19;671907002;;Farazikanda-Part-01;Julfikar gong;7;26;10;2;2;4;1;1;3;3;4;3;3;4;4;1;3;;;38
+Narayanganj;19;671907003;;Farazikanda-Part-01;Babu;8;24;10;1;2;4;1;1;3;2;2;3;3;4;4;1;2;;;33
+Narayanganj;19;671907004;;Farazikanda-Part-01;Usuf;5;24;25;1;2;4;1;1;3;2;3;3;4;4;4;3;4;;;39
+Narayanganj;19;671907005;;Farazikanda-Part-01;Hossen;5;19;20;1;2;4;1;1;3;3;3;4;4;4;4;3;4;;;41
+Narayanganj;19;671907006;;Farazikanda-Part-01;Delwer;5;16;30;1;2;4;1;1;3;1;3;4;4;4;4;3;4;;;39
+Narayanganj;19;671907007;;Farazikanda-Part-01;Kamal Badsha;5;13;30;1;2;4;1;1;3;1;3;4;4;4;3;4;3;;;38
+Narayanganj;19;671907008;;Farazikanda-Part-01;Alomgir;11;46;15;3;2;4;1;1;2;2;3;3;3;4;4;1;4;;;37
+Narayanganj;20;672001001;;Darisonakanda;Uzzal Pathener Bari;4;16;30;1;3;3;1;1;1;1;2;1;1;1;2;1;1;;;20
+Narayanganj;20;672001002;;Darisonakanda;Azzimullaher Bari;5;17;30;2;3;2;1;2;2;2;2;1;2;2;2;1;1;;;25
+Narayanganj;20;672001003;;Darisonakanda;Chan Badsher Bari;4;21;20;3;3;3;1;1;2;1;2;1;2;2;2;1;1;;;25
+Narayanganj;20;672001004;;Darisonakanda;Ali Mianer Bosoti;6;23;10;2;3;3;1;2;2;1;3;1;1;1;2;1;1;;;24
+Narayanganj;20;672001005;;Darisonakanda;Hazi Malek sheber Bari;11;44;15;2;2;4;1;1;2;3;2;1;1;1;1;1;1;;;23
+Narayanganj;20;672001006;;Darisonakanda;Gofurer Bari goli;8;33;20;2;3;3;1;1;1;3;1;1;1;1;1;1;1;;;21
+Narayanganj;20;672001007;;Darisonakanda;Monir hossener dokan attached goli;6;21;20;2;3;3;1;1;1;3;1;1;1;1;1;1;1;;;21
+Narayanganj;20;672002001;;FaraziKanda;Prodhen Bari;7;33;25;3;1;4;1;3;2;2;3;1;2;3;2;3;2;;;32
+Narayanganj;20;672002002;;FaraziKanda;Sarker Bari;13;47;20;3;2;4;1;2;2;1;3;1;1;3;3;2;3;;;31
+Narayanganj;20;672002003;;FaraziKanda;Miazi Bari;26;112;35;1;1;3;1;1;1;1;3;2;3;3;4;3;4;;;31
+Narayanganj;20;672002004;;FaraziKanda;Mondal Bari;12;46;35;1;1;3;1;2;2;2;1;1;1;1;1;1;1;;;19
+Narayanganj;20;672002005;;FaraziKanda;Muzahider Bari;4;15;10;2;2;3;1;1;1;1;1;1;1;1;1;1;1;;;18
+Narayanganj;20;672002006;;FaraziKanda;Dali Bari;4;15;15;2;2;3;1;1;1;1;2;1;1;1;1;1;1;;;19
+Narayanganj;20;672002007;;FaraziKanda;Towlad Sheber Bari;4;11;10;2;2;2;1;1;2;1;1;1;1;1;1;1;1;;;18
+Narayanganj;20;672002008;;FaraziKanda;Chokider Bari;10;48;20;3;3;3;1;1;1;1;2;1;1;1;1;1;1;;;21
+Narayanganj;20;672003001;;Hazipur;Mohammad Shohel;4;27;20;2;1;1;1;1;1;1;1;2;2;3;1;1;1;;;19
+Narayanganj;20;672003002;;Hazipur;Abedullah Bari;5;24;17;1;1;2;1;1;1;1;4;2;2;2;1;1;1;;;21
+Narayanganj;20;672003003;;Hazipur;Rahamat ullah Bari;7;32;20;1;1;3;1;1;1;1;2;2;1;2;3;1;2;;;22
+Narayanganj;20;672003004;;Hazipur;Mamuner Bari;5;20;20;2;1;2;2;1;1;1;2;1;1;2;1;1;1;;;19
+Narayanganj;20;672004001;;Mahamud Nagar;Khaza Companir Bari;35;175;20;1;2;3;1;1;1;1;2;3;3;1;1;2;1;;;23
+Narayanganj;20;672004002;;Mahamud Nagar;Sadek shaheb vita;24;115;15;1;4;2;1;1;1;2;2;3;2;2;1;1;1;;;24
+Narayanganj;20;672005001;;Dockyard;Mather Bari;7;30;15;1;1;3;1;1;1;1;2;2;1;3;1;1;2;;;21
+Narayanganj;20;672005002;;Dockyard;Sarwar Jute mills;6;35;10;1;1;2;1;1;3;1;4;2;2;2;3;2;2;;;27
+Narayanganj;20;672005003;;Dockyard;kazim uddin bari;13;60;20;3;1;2;1;1;1;4;2;1;3;2;3;1;2;;;27
+Narayanganj;20;672005004;;Dockyard;zahanera begumer bari;16;65;20;2;1;4;1;3;3;1;3;4;4;3;1;2;2;;;34
+Narayanganj;20;672005005;;Dockyard;Alawddiner Bari;10;55;8;3;1;3;1;2;1;1;1;1;1;2;2;1;2;;;22
+Narayanganj;20;672005006;;Dockyard;Sonakanda Hat bari;7;55;18;2;1;3;1;2;1;1;2;3;2;3;2;1;2;;;26
+Narayanganj;20;672005007;;Dockyard;Dock Bari;8;50;10;1;1;3;1;1;1;1;2;3;4;3;1;1;2;;;25
+Narayanganj;20;672006001;;Beparipara;habez miner bari;7;29;30;1;2;3;1;1;1;1;2;3;2;1;4;2;4;;;28
+Narayanganj;20;672006002;;Beparipara;Tohack Mianer Bari;6;24;20;1;1;3;1;1;1;1;2;3;3;3;3;3;2;;;28
+Narayanganj;20;672006003;;Beparipara;Din Islam Moger Bari;5;23;50;1;2;3;1;1;1;1;2;3;3;3;2;3;2;;;28
+Narayanganj;20;672006004;;Beparipara;Hasem Kasem mianer Bari;10;52;25;1;2;3;1;1;1;1;2;3;3;3;4;2;4;;;31
+Narayanganj;20;672007001;;Sonakanda;Khalil Para Dhakin Pashim;5;30;50;3;1;4;1;4;1;1;4;3;2;3;4;4;4;;;39
+Narayanganj;20;672007002;;Sonakanda;Khalil Para Uttor;5;23;5;1;1;4;1;1;1;1;4;3;1;1;2;1;2;;;24
+Narayanganj;20;672007003;;Sonakanda;Khalil Para Dhakin;20;100;8;1;1;4;1;1;1;1;4;3;1;1;2;1;2;;;24
+Narayanganj;20;672007004;;Sonakanda;Liku Para Purba;4;13;30;1;1;3;3;1;4;4;4;1;2;4;4;4;4;;;40
+Narayanganj;20;672007005;;Sonakanda;Lickupara Paschim;4;12;7;1;1;4;1;3;4;1;4;3;2;4;4;1;4;;;37
+Narayanganj;20;672007006;;Sonakanda;Liku Para North;6;25;4;4;1;1;3;4;2;1;1;4;3;4;4;4;4;;;40
+Narayanganj;21;672101001;;Shahi Mosjid;Bangladesh Para;40;150;38;1;3;3;2;3;3;3;3;4;3;3;4;4;4;;;43
+Narayanganj;21;672101002;;Shahi Mosjid;Mohiuddiner Bari Shanlagno;10;50;40;1;2;4;2;3;4;1;4;4;4;3;4;4;4;;;44
+Narayanganj;21;672101003;;Shahi Mosjid;Saleh Nagar Bangladesh Para;60;285;40;4;4;4;2;2;2;3;3;2;2;2;3;4;3;;;40
+Narayanganj;21;672102001;;Datta Bari Hafezi Bag;Babul Miar Bari;5;20;42;3;1;3;2;1;1;1;1;2;1;1;1;4;3;;;25
+Narayanganj;21;672102002;;Datta Bari Hafezi Bag;Datta Bari  Baro Goli;95;495;40;1;4;3;1;1;1;2;2;1;1;1;2;3;2;;;25
+Narayanganj;21;672102003;;Datta Bari Hafezi Bag;Monir Miar Bari;15;40;45;4;4;4;4;3;3;4;3;2;3;3;4;4;3;;;48
+Narayanganj;21;672102004;;Datta Bari Hafezi Bag;Ashraf Miar Pichoner Goli;29;150;40;4;3;3;2;1;1;2;2;2;1;2;2;3;3;;;31
+Narayanganj;21;672102005;;Datta Bari Hafezi Bag;Sikder Schooler Pichoner Goli;8;35;40;4;4;3;2;3;1;3;2;2;2;2;3;3;3;;;37
+Narayanganj;21;672102006;;Datta Bari Hafezi Bag;Dr. Habu Miar Bari;15;70;45;1;2;4;1;3;2;1;3;3;2;2;4;3;3;;;34
+Narayanganj;21;672102007;;Datta Bari Hafezi Bag;Hafezi Bagh;150;785;40;4;1;3;1;2;1;1;2;2;1;2;2;3;3;;;28
+Narayanganj;21;672103001;;Salehnagar;Mazar Raod;75;350;50;2;1;4;2;1;3;4;2;2;1;1;4;2;4;;;33
+Narayanganj;21;672103002;;Salehnagar;Notun Moshjid;200;1000;50;3;2;4;2;2;3;4;3;3;3;2;4;2;4;;;41
+Narayanganj;21;672103003;;Salehnagar;Shikdar Bari;180;800;50;4;3;4;2;1;3;4;2;2;2;3;3;2;4;;;39
+Narayanganj;21;672104001;;Baroi Para;Raton Babur Bari;15;60;45;3;4;4;1;4;2;2;3;3;3;3;4;4;4;;;44
+Narayanganj;21;672104002;;Baroi Para;Mojibar Bhaier Goli;20;115;50;1;2;4;2;3;2;1;2;3;1;3;4;4;4;;;36
+Narayanganj;21;672104003;;Baroi Para;Abul Bashar;60;300;50;1;1;4;1;1;1;1;2;3;1;3;4;4;4;;;31
+Narayanganj;21;672104004;;Baroi Para;Abdul Kadir Miar Golli;80;450;40;1;1;4;1;1;1;1;2;3;1;2;4;4;4;;;30
+Narayanganj;21;672104005;;Baroi Para;Moshjider Paschim Part;6;30;30;4;4;4;2;3;3;2;4;3;3;3;3;4;4;;;46
+Narayanganj;21;672105001;;Enayet Nagar;Rishi Para;120;600;60;4;4;4;1;2;4;2;2;4;3;1;4;3;3;;;41
+Narayanganj;21;672105002;;Enayet Nagar;Anijal Miah;9;54;62;2;2;4;1;1;4;1;2;2;2;3;4;4;4;;;36
+Narayanganj;21;672105003;;Enayet Nagar;Khukon Miah;14;56;50;1;1;4;1;1;3;1;2;2;2;1;4;4;4;;;31
+Narayanganj;21;672105004;;Enayet Nagar;Shahin-1;15;75;40;2;2;4;1;3;4;2;3;3;4;3;4;4;4;;;43
+Narayanganj;21;672105005;;Enayet Nagar;Shahin-2;10;45;20;2;2;4;1;2;4;1;2;3;3;2;4;4;2;;;36
+Narayanganj;21;672106001;;koborshtan Road Enayet Nagar;Babul Sheikh;8;35;15;1;1;4;1;1;4;1;3;4;4;3;4;4;4;;;39
+Narayanganj;21;672106002;;koborshtan Road Enayet Nagar;Azizuler Bari;30;149;55;4;4;4;1;4;4;1;2;3;3;2;3;3;4;;;42
+Narayanganj;21;672106003;;koborshtan Road Enayet Nagar;Rasel;10;50;50;2;1;4;1;2;4;1;3;3;4;4;3;4;4;;;40
+Narayanganj;21;672106004;;koborshtan Road Enayet Nagar;Roni;8;34;50;4;4;4;1;4;4;4;4;3;4;3;4;4;4;;;51
+Narayanganj;21;672106005;;koborshtan Road Enayet Nagar;Sentu;8;40;50;2;2;4;1;4;4;2;4;3;4;3;4;4;4;;;45
+Narayanganj;21;672106006;;koborshtan Road Enayet Nagar;Morshed;9;36;50;2;2;4;1;4;4;2;3;3;3;4;4;4;4;;;44
+Narayanganj;21;672106007;;koborshtan Road Enayet Nagar;Taijul;14;72;40;2;2;4;1;3;4;1;4;3;3;3;4;4;4;;;42
+Narayanganj;21;672106008;;koborshtan Road Enayet Nagar;Jalal Ahammad;6;30;15;1;1;3;1;1;4;1;3;2;3;2;4;3;4;;;33
+Narayanganj;21;672106009;;koborshtan Road Enayet Nagar;Bisha;9;40;15;2;1;3;1;1;4;1;3;3;4;2;4;4;4;;;37
+Narayanganj;21;672107001;;Chowdhury Para;Amir Miar Bari;7;32;48;4;4;4;2;3;3;4;2;2;2;3;4;2;4;;;43
+Narayanganj;21;672107002;;Chowdhury Para;Md. Awlad Hossain;6;23;40;4;4;4;2;4;4;3;4;2;2;3;4;3;4;;;47
+Narayanganj;21;672107003;;Chowdhury Para;Md. Rossy Bhaier Bari;11;42;42;4;4;4;2;4;4;4;4;2;2;2;4;3;4;;;47
+Narayanganj;21;672107004;;Chowdhury Para;Md. Sahalom Bhaier Bari;15;50;44;4;4;4;2;4;4;4;4;2;2;2;4;3;4;;;47
+Narayanganj;21;672107005;;Chowdhury Para;Late Chan Shawdagar;6;20;45;4;4;4;2;4;4;4;2;2;2;2;4;1;4;;;43
+Narayanganj;21;672108001;;Rupali Abashik Area;Rupali Tribeni Khalpar;50;240;20;1;1;4;2;3;3;3;3;3;2;2;3;4;4;;;38
+Narayanganj;21;672109001;;Dokkhin Shahi Mosjid;Suman;10;50;18;1;2;4;2;1;1;1;2;3;1;2;1;1;3;;;25
+Narayanganj;21;672109002;;Dokkhin Shahi Mosjid;Babul;80;450;50;1;2;4;2;4;2;1;2;3;1;3;4;3;4;;;36
+Narayanganj;21;672110001;;Babu Para;Lalji Akhra Golli;110;500;40;1;4;4;1;4;2;1;2;3;1;2;4;4;4;;;37
+Narayanganj;21;672110002;;Babu Para;Brindabon Akhrar Golli;140;600;40;1;4;4;1;4;2;1;2;3;1;2;4;4;4;;;37
+Narayanganj;22;672201001;;Thakurpara;Selim;30;160;28;4;1;4;1;3;1;1;3;3;4;1;1;2;4;;;33
+Narayanganj;22;672201002;;Thakurpara;Rajer gong;17;130;55;3;1;1;3;3;1;1;3;3;3;1;1;3;3;;;30
+Narayanganj;22;672201003;;Thakurpara;Fatema gong;30;160;40;1;1;4;3;1;1;1;3;3;4;1;1;2;3;;;29
+Narayanganj;22;672201004;;Thakurpara;Ahemad Basoti;18;160;65;4;1;4;1;3;1;1;3;3;4;1;1;2;3;;;32
+Narayanganj;22;672201005;;Thakurpara;Motaher bosti;9;70;50;1;1;4;4;3;1;1;3;3;1;1;1;2;3;;;29
+Narayanganj;22;672202001;;Koat para;Abu Sufian;5;30;15;1;1;4;1;2;4;1;3;4;1;1;4;2;4;;;33
+Narayanganj;22;672202002;;Koat para;Raju Ahmed;6;23;15;1;1;4;1;2;4;1;3;2;1;1;4;2;4;;;31
+Narayanganj;22;672202003;;Koat para;Shafiq;8;27;15;3;4;1;4;4;4;1;3;3;1;2;2;2;1;;;35
+Narayanganj;22;672202004;;Koat para;Rasel;7;35;15;1;1;4;1;2;4;1;3;2;1;1;4;2;4;;;31
+Narayanganj;22;672203001;;Shalper Chalk;Anowar Mir;30;150;10;1;1;4;1;3;4;1;4;3;2;1;4;2;4;;;35
+Narayanganj;22;672203002;;Shalper Chalk;Jainal;4;20;10;1;4;3;2;4;3;2;3;4;3;3;2;4;3;;;41
+Narayanganj;22;672203003;;Shalper Chalk;Malek;4;15;10;1;3;4;2;2;1;4;3;3;2;3;1;4;4;;;37
+Narayanganj;22;672203004;;Shalper Chalk;Afzal Hossain;5;29;10;2;3;2;4;3;2;1;3;3;2;4;4;1;3;;;37
+Narayanganj;22;672204001;;Willson Road;Molla Bari Dighir Per;100;400;20;2;3;4;4;4;4;1;4;4;4;3;4;4;3;;;48
+Narayanganj;22;672204002;;Willson Road;Babor Khan Road;60;250;25;2;1;3;2;4;2;2;3;3;4;3;4;1;3;;;37
+Narayanganj;22;672204003;;Willson Road;Mianh Baro Bosti;200;800;36;2;3;4;2;4;3;2;3;3;4;3;4;2;3;;;42
+Narayanganj;22;672204004;;Willson Road;Bhuian Bari;70;285;35;4;3;4;4;4;3;3;4;4;4;3;4;3;4;;;51
+Narayanganj;22;672204005;;Willson Road;Patni Bari;35;185;30;1;1;2;1;2;1;1;1;3;3;4;1;1;1;;;23
+Narayanganj;22;672204006;;Willson Road;Khan Bari;50;205;26;2;1;4;4;3;4;2;3;3;4;3;4;4;3;;;44
+Narayanganj;22;672204007;;Willson Road;Jele Para;18;95;30;4;4;4;4;4;3;4;4;4;4;3;4;1;3;;;50
+Narayanganj;22;672205001;;Bandar Colony;Rashed bosti;45;160;35;1;1;4;1;4;1;1;4;4;1;1;1;1;4;;;29
+Narayanganj;22;672205002;;Bandar Colony;Jalal Bari Bosti;15;80;25;1;1;4;1;4;1;4;4;4;2;4;1;4;2;;;37
+Narayanganj;22;672205003;;Bandar Colony;Abbas bosti;30;110;30;4;1;4;1;4;1;4;4;4;4;4;2;4;4;;;45
+Narayanganj;22;672205004;;Bandar Colony;Latif Bosti;40;150;45;1;1;4;1;4;1;4;4;4;2;4;4;1;2;;;37
+Narayanganj;22;672205005;;Bandar Colony;Kamaler  Bari;60;200;45;1;4;4;1;4;1;4;4;2;3;1;1;4;4;;;38
+Narayanganj;22;672206001;;HM Sen Road;Ataur Rahman Bosti;70;280;40;2;1;4;1;4;2;1;3;3;4;3;4;3;4;;;39
+Narayanganj;22;672206002;;HM Sen Road;Rafique Gong Bosti;65;160;34;2;1;4;2;3;2;1;4;3;4;3;4;3;4;;;40
+Narayanganj;22;672206003;;HM Sen Road;Harun bosti;70;300;35;4;4;4;4;4;3;2;4;3;4;4;4;3;4;;;51
+Narayanganj;22;672206004;;HM Sen Road;Shaha buddin gong;40;120;37;4;4;4;2;3;3;3;3;3;4;3;4;2;4;;;46
+Narayanganj;22;672206005;;HM Sen Road;Quddus Mianh & master Para;30;150;38;4;4;4;2;4;3;1;4;3;4;3;4;2;3;;;45
+Narayanganj;22;672207001;;SS Shah Road;Babu Para;30;100;20;2;3;3;3;2;2;4;4;3;3;2;3;1;2;;;37
+Narayanganj;22;672207002;;SS Shah Road;Hazrat Ali;18;75;20;3;2;4;4;3;3;4;3;3;2;3;4;2;3;;;43
+Narayanganj;22;672208001;;Reli Amain R/A;Raly Bagan;125;500;30;1;1;3;2;2;1;1;2;1;2;3;2;3;2;;;26
+Narayanganj;22;672208002;;Reli Amain R/A;Raly Bagan -02;20;100;15;3;3;3;4;3;3;3;3;3;3;4;4;3;4;;;46
+Narayanganj;22;672209001;;Leazers R/A;Ledger -01 Bosti;230;920;13;2;3;4;2;4;4;2;4;3;4;3;4;4;3;;;46
+Narayanganj;22;672209002;;Leazers R/A;Ledger -02 Bosti;160;650;13;2;1;4;2;4;3;1;4;4;4;3;4;4;3;;;43
+Narayanganj;22;672209003;;Leazers R/A;Khan Bari;25;110;35;2;3;4;2;4;3;2;3;3;4;3;4;3;3;;;43
+Narayanganj;23;672301001;;Ikrampur Ispahani;Jelepara Mondir;52;220;11;1;1;4;1;1;2;1;2;3;2;4;4;1;4;;;31
+Narayanganj;23;672301002;;Ikrampur Ispahani;Mokter Hossain Bosoti;20;80;11;2;3;4;3;4;3;2;3;3;3;2;1;1;4;;;38
+Narayanganj;23;672301003;;Ikrampur Ispahani;Sona Mian;30;95;11;1;1;4;2;3;4;1;4;3;3;2;4;4;4;;;40
+Narayanganj;23;672301004;;Ikrampur Ispahani;Dulal Mian;30;110;11;1;1;4;1;4;3;2;4;4;4;3;4;3;4;;;42
+Narayanganj;23;672302001;;Shalper Chalk;Kadam Ali;9;34;11;1;1;4;1;1;2;1;4;3;3;3;4;2;4;;;34
+Narayanganj;23;672302002;;Shalper Chalk;Prodhan Sheb;9;38;11;3;1;4;1;1;1;1;4;3;3;4;1;1;1;;;29
+Narayanganj;23;672302003;;Shalper Chalk;Amir Hossain;28;130;11;1;1;4;1;1;2;1;4;3;3;3;3;2;4;;;33
+Narayanganj;23;672302004;;Shalper Chalk;Abdul Khan Bosoti;8;37;11;1;1;4;1;1;1;1;4;3;3;3;1;1;4;;;29
+Narayanganj;23;672303001;;Pourashova Math Para;College Purbangso;80;220;11;3;2;4;4;2;3;4;3;2;3;4;4;4;4;;;46
+Narayanganj;23;672303002;;Pourashova Math Para;Suiper Colony;45;188;11;2;1;4;1;4;2;3;2;3;3;3;2;2;1;;;33
+Narayanganj;23;672303003;;Pourashova Math Para;Jabbar Mian;38;96;11;2;1;4;1;2;2;1;2;3;3;4;4;4;4;;;37
+Narayanganj;23;672303004;;Pourashova Math Para;Chaker bari;22;104;11;1;1;4;1;1;3;1;3;3;2;3;4;2;4;;;33
+Narayanganj;23;672303005;;Pourashova Math Para;Tofazzal Mian;21;102;11;1;1;4;1;1;1;1;3;4;3;1;1;1;4;;;27
+Narayanganj;23;672303006;;Pourashova Math Para;Nasir Saddaer;16;60;11;1;1;4;1;1;3;1;4;3;3;3;4;3;4;;;36
+Narayanganj;23;672304001;;Bug Bari Road;Hazi Siraj Uddin;32;108;11;3;2;4;1;4;2;4;3;3;3;1;4;3;4;;;41
+Narayanganj;23;672304002;;Bug Bari Road;Pacher Bug;48;160;11;1;1;4;1;4;1;1;3;3;3;2;3;3;4;;;34
+Narayanganj;23;672304003;;Bug Bari Road;Bugbari istern attach;30;102;11;2;2;4;2;3;2;3;3;3;3;3;4;3;4;;;41
+Narayanganj;23;672304004;;Bug Bari Road;Purba Para;28;105;11;1;1;4;1;1;3;2;3;3;4;3;4;3;4;;;37
+Narayanganj;23;672305001;;Nabiganj Dargha;Kamal Shop;35;130;11;1;1;4;1;1;1;3;3;3;3;1;2;2;2;;;28
+Narayanganj;23;672305002;;Nabiganj Dargha;Chowdhori Bari;28;104;11;4;4;4;3;4;4;4;2;2;2;4;2;1;2;;;42
+Narayanganj;23;672305003;;Nabiganj Dargha;Khedem Para;24;112;11;4;4;4;1;3;2;4;4;3;3;4;4;2;4;;;46
+Narayanganj;23;672305004;;Nabiganj Dargha;Mukul Chairmen;40;130;11;4;2;4;2;4;3;4;4;3;3;3;4;3;4;;;47
+Narayanganj;23;672305005;;Nabiganj Dargha;Jahangir Neta;55;200;11;4;4;1;4;4;4;4;4;3;3;3;4;3;4;;;49
+Narayanganj;23;672306001;;Pur Para Rail Line;Nazir Mian;20;90;11;2;1;3;1;1;3;1;4;3;3;3;4;3;4;;;36
+Narayanganj;23;672306002;;Pur Para Rail Line;Chan Badser Bari;18;80;11;2;1;3;1;1;3;1;4;4;4;3;4;2;4;;;37
+Narayanganj;23;672306003;;Pur Para Rail Line;Nasir Mian Bari;15;90;11;3;1;3;2;1;3;1;4;4;4;3;4;4;4;;;41
+Narayanganj;23;672306004;;Pur Para Rail Line;Talim Mian Bari;8;30;11;3;1;3;1;1;3;1;4;4;4;3;4;4;4;;;40
+Narayanganj;24;672401001;;Dewly Chowra Para;Based Sarder;15;70;11;1;1;3;1;1;3;1;3;3;2;3;4;4;4;;;34
+Narayanganj;24;672401002;;Dewly Chowra Para;Raja Mian;50;200;11;1;1;3;1;1;2;1;2;3;1;3;4;4;3;;;30
+Narayanganj;24;672401003;;Dewly Chowra Para;Ismail;50;180;11;2;1;3;1;1;2;1;3;3;1;3;4;4;3;;;32
+Narayanganj;24;672401004;;Dewly Chowra Para;Kaium / Nazir Bosoti;25;87;11;1;2;3;1;1;2;1;3;3;1;3;4;4;4;;;33
+Narayanganj;24;672401005;;Dewly Chowra Para;Tikka Bosoti;10;68;11;2;2;3;1;1;2;1;4;3;1;3;4;4;3;;;34
+Narayanganj;24;672401006;;Dewly Chowra Para;Abdul Halim;150;543;11;1;1;3;1;1;2;1;3;3;1;3;4;4;4;;;32
+Narayanganj;24;672401007;;Dewly Chowra Para;Awal Bosoti;350;1285;11;1;1;3;1;1;3;1;3;3;1;3;4;4;4;;;33
+Narayanganj;24;672401008;;Dewly Chowra Para;Tazel;20;70;11;1;1;3;1;1;2;1;3;3;1;3;4;4;3;;;31
+Narayanganj;24;672402001;;Bokter Kandi;Hazi Rashed Bari;25;80;11;2;1;3;1;3;3;1;3;3;1;2;4;3;3;;;33
+Narayanganj;24;672402002;;Bokter Kandi;Arif Bari;30;95;11;1;1;3;1;2;3;1;3;3;3;1;3;3;3;;;31
+Narayanganj;24;672402003;;Bokter Kandi;Hazi Ayub Bari;72;255;11;1;1;3;1;2;2;1;3;3;2;1;4;4;4;;;32
+Narayanganj;24;672402004;;Bokter Kandi;Rahom Ali;25;80;11;1;1;3;1;3;1;1;3;3;1;1;3;1;3;;;26
+Narayanganj;24;672402005;;Bokter Kandi;Hatem Ali;20;65;11;1;1;3;1;2;3;1;3;2;2;2;3;4;4;;;32
+Narayanganj;24;672402006;;Bokter Kandi;Moklesur;27;110;11;1;1;3;1;2;3;1;2;2;2;3;3;4;4;;;32
+Narayanganj;24;672402007;;Bokter Kandi;Yunus Mian;30;105;11;1;1;3;1;2;3;1;3;3;3;3;3;4;3;;;34
+Narayanganj;24;672403001;;Amirabad;Mokbul  Bari;10;50;11;1;2;4;1;4;3;1;3;3;3;2;3;3;1;;;34
+Narayanganj;24;672403002;;Amirabad;Rubel Sirer Bari;17;60;11;4;4;4;1;4;3;1;4;3;3;4;2;3;2;;;42
+Narayanganj;24;672403003;;Amirabad;Malek member bari;21;107;11;1;1;4;1;4;3;1;3;3;3;3;4;2;4;;;37
+Narayanganj;24;672403004;;Amirabad;Yasin Hujurer Bari;20;47;11;1;2;4;1;4;3;1;4;3;3;3;4;2;4;;;39
+Narayanganj;24;672403005;;Amirabad;Khage Mian Bari;12;46;11;4;4;4;1;4;4;1;3;3;3;3;4;2;4;;;44
+Narayanganj;24;672404001;;Uttor Norda;Tulu Miar Bari;16;68;11;1;1;4;1;4;4;1;4;4;3;4;4;2;4;;;41
+Narayanganj;24;672404002;;Uttor Norda;Naya Bari;8;31;11;2;2;2;1;1;2;1;2;3;3;3;1;1;1;;;25
+Narayanganj;24;672404003;;Uttor Norda;Mohiuddin  Bari;10;45;11;1;1;4;1;4;4;1;4;2;2;4;4;2;4;;;38
+Narayanganj;24;672404004;;Uttor Norda;babul Mian;19;94;11;1;1;4;1;4;4;1;2;3;3;4;4;2;4;;;38
+Narayanganj;24;672404005;;Uttor Norda;Zakir Mian;18;67;11;1;1;4;1;4;3;1;4;3;3;4;4;1;4;;;38
+Narayanganj;24;672404006;;Uttor Norda;Joynal Mian;26;120;11;3;1;4;1;4;3;1;4;3;3;4;4;3;4;;;42
+Narayanganj;24;672404007;;Uttor Norda;Amjad  Bari;16;64;11;1;1;4;1;1;4;1;3;4;3;4;4;3;4;;;38
+Narayanganj;24;672404008;;Uttor Norda;Fakir Chand;11;39;11;1;2;4;1;4;4;1;4;2;3;4;4;3;4;;;41
+Narayanganj;24;672404009;;Uttor Norda;Habibur;11;37;11;1;2;4;1;4;4;1;4;2;3;4;4;3;4;;;41
+Narayanganj;24;672404010;;Uttor Norda;Safi Uddin;8;30;11;1;2;4;1;4;3;1;4;2;2;4;4;2;4;;;38
+Narayanganj;24;672405001;;Kaitha Khal;Rezaul Fakir;20;69;11;1;2;4;1;1;2;1;2;2;2;4;2;3;3;;;30
+Narayanganj;24;672405002;;Kaitha Khal;Ashan Ullah;12;68;11;2;1;4;1;4;4;1;3;3;3;4;4;3;4;;;41
+Narayanganj;24;672405003;;Kaitha Khal;Falu Abbas Uddin;28;99;11;1;4;4;1;4;4;1;4;3;3;1;4;3;4;;;41
+Narayanganj;24;672405004;;Kaitha Khal;Aynul Haque;22;91;11;4;4;4;1;4;3;1;4;3;3;1;4;3;4;;;43
+Narayanganj;24;672405005;;Kaitha Khal;PataPati Purba;25;78;11;1;1;4;1;4;3;1;3;3;3;4;4;3;4;;;39
+Narayanganj;24;672406001;;Norda;Azgor Ali;20;80;11;1;1;3;1;1;3;1;3;2;2;1;4;1;2;;;26
+Narayanganj;24;672406002;;Norda;Ali Nuru;20;100;11;1;1;4;1;1;2;1;3;2;2;1;4;1;4;;;28
+Narayanganj;24;672406003;;Norda;Kiron Mian;22;100;11;1;1;3;1;1;2;1;3;2;2;1;4;1;4;;;27
+Narayanganj;24;672406004;;Norda;Ali Hossain;52;223;11;1;1;3;1;1;1;1;3;2;2;1;4;1;4;;;26
+Narayanganj;24;672407001;;Nabi Gonj;Malek Mohazener Bari;30;150;11;1;1;3;1;1;2;1;3;3;1;3;4;4;3;;;31
+Narayanganj;24;672407002;;Nabi Gonj;Khanker Bari;15;80;11;3;1;3;1;1;2;1;4;3;2;3;4;4;3;;;35
+Narayanganj;24;672407003;;Nabi Gonj;Raton Koloni Helener Bari;15;80;11;3;1;3;1;1;2;1;4;3;2;3;4;4;3;;;35
+Narayanganj;24;672407004;;Nabi Gonj;Uttar Para Murseder Bari;20;100;11;1;1;3;1;1;3;1;3;3;1;3;4;4;3;;;32
+Narayanganj;24;672407005;;Nabi Gonj;Karim Komercial;50;300;11;1;1;3;1;1;2;1;3;3;1;4;4;2;3;;;30
+Narayanganj;24;672407006;;Nabi Gonj;Vilar Bari;40;200;11;3;1;4;1;1;1;1;4;3;2;1;4;4;3;;;33
+Narayanganj;24;672407007;;Nabi Gonj;Jamal kazir Bari;20;100;11;3;1;3;1;1;2;1;4;3;2;3;4;4;3;;;35
+Narayanganj;24;672407008;;Nabi Gonj;Chini Bober Bari;10;60;11;1;1;3;1;1;3;1;4;3;2;3;4;4;3;;;34
+Narayanganj;24;672407009;;Nabi Gonj;Rawshon Bug;50;200;11;3;1;3;1;1;2;1;4;3;1;2;4;4;3;;;33
+Narayanganj;24;672407010;;Nabi Gonj;Rowsen der Laker Bari;10;60;11;3;1;3;1;1;2;1;4;3;2;3;4;4;3;;;35
+Narayanganj;24;672408001;;Zia Road;Hanif Hazir Bari;133;594;11;2;1;3;1;4;3;1;3;3;2;3;4;3;3;;;36
+Narayanganj;24;672408002;;Zia Road;Nasir Mian Bari;83;321;11;3;2;3;2;2;3;2;3;4;3;3;3;4;4;;;41
+Narayanganj;24;672408003;;Zia Road;Daibari;33;137;11;2;1;3;3;4;2;3;1;3;2;2;3;2;3;;;34
+Narayanganj;24;672408004;;Zia Road;Amanul Mian Bari;46;210;11;3;1;3;2;2;3;2;3;4;3;3;3;4;4;;;40
+Narayanganj;24;672408005;;Zia Road;Mirtu Mian Matbarer Bari;46;211;11;1;3;3;2;3;3;3;4;4;3;3;4;4;4;;;44
+Narayanganj;24;672408006;;Zia Road;Zabber Dalaler bari;53;271;11;2;1;2;2;2;3;3;3;4;4;3;3;4;4;;;40
+Narayanganj;24;672408007;;Zia Road;Anju Member Bari;31;143;11;2;1;2;2;3;4;2;4;4;3;3;4;4;4;;;42
+Narayanganj;24;672408008;;Zia Road;Rab Mian Bari;32;138;11;2;1;2;2;2;3;1;2;3;2;2;2;3;2;;;29
+Narayanganj;25;672501001;;Chowra Para;Hazi aowlad Hossain;25;120;11;2;1;3;1;1;1;1;4;3;3;1;3;3;4;;;31
+Narayanganj;25;672501002;;Chowra Para;kuyum Bari;20;80;11;2;1;3;2;3;2;3;3;4;2;3;4;4;4;;;40
+Narayanganj;25;672501003;;Chowra Para;Tara Mian;6;24;11;1;1;3;1;2;1;1;3;4;3;2;3;4;4;;;33
+Narayanganj;25;672501004;;Chowra Para;Foysul Hossain;6;20;11;2;1;3;1;2;2;1;2;1;2;1;4;1;3;;;26
+Narayanganj;25;672502001;;Dhakin Laxkon Khola Madresha Road Dhakin Part;Shoel Soud;10;42;11;2;1;4;1;4;1;1;4;3;1;4;1;1;4;;;32
+Narayanganj;25;672502002;;Dhakin Laxkon Khola Madresha Road Dhakin Part;Sadhu Mian bari;5;17;11;2;1;4;1;4;1;1;4;1;1;4;4;1;4;;;33
+Narayanganj;25;672502003;;Dhakin Laxkon Khola Madresha Road Dhakin Part;Tukun er Bosoti;9;40;11;1;1;4;1;4;1;1;4;3;4;4;4;1;4;;;37
+Narayanganj;25;672502004;;Dhakin Laxkon Khola Madresha Road Dhakin Part;Gius Uddin Bosoti;8;30;11;2;1;4;1;4;1;1;4;1;4;4;4;1;4;;;36
+Narayanganj;25;672502005;;Dhakin Laxkon Khola Madresha Road Dhakin Part;Hamid Ullah bari;7;35;11;1;1;4;1;4;1;1;4;1;4;4;4;1;4;;;35
+Narayanganj;25;672503001;;Dhakin Laxkon Khola Madresha Road Uttar Part;Kamal Pasa;22;100;11;2;1;3;2;3;2;2;3;2;2;3;1;4;4;;;34
+Narayanganj;25;672503002;;Dhakin Laxkon Khola Madresha Road Uttar Part;Abdul majid;14;70;11;2;1;3;1;1;1;1;2;3;2;1;4;4;4;;;30
+Narayanganj;25;672503003;;Dhakin Laxkon Khola Madresha Road Uttar Part;Jamal Sheb;20;120;11;2;1;3;1;1;2;1;3;3;2;2;3;4;3;;;31
+Narayanganj;25;672503004;;Dhakin Laxkon Khola Madresha Road Uttar Part;Monu Bosoti;38;152;11;3;3;4;2;3;3;3;3;2;2;3;3;4;4;;;42
+Narayanganj;25;672503005;;Dhakin Laxkon Khola Madresha Road Uttar Part;Salimullah;30;120;11;3;4;3;2;3;3;2;3;3;2;3;4;4;4;;;43
+Narayanganj;25;672503006;;Dhakin Laxkon Khola Madresha Road Uttar Part;Nasir Uddin;10;50;11;1;1;3;1;1;1;1;2;2;2;3;3;4;4;;;29
+Narayanganj;25;672503007;;Dhakin Laxkon Khola Madresha Road Uttar Part;Saha Buddin;9;40;11;1;1;3;1;1;2;1;3;2;2;3;3;4;4;;;31
+Narayanganj;25;672503008;;Dhakin Laxkon Khola Madresha Road Uttar Part;Hira Bhai;40;160;11;1;2;3;1;3;2;1;3;1;2;3;3;4;4;;;33
+Narayanganj;25;672504001;;Uttor Dhakin Khola Dhakin Part;Mostafizur Bosoti;12;54;11;1;1;4;1;2;1;1;4;3;4;4;4;4;4;;;38
+Narayanganj;25;672504002;;Uttor Dhakin Khola Dhakin Part;Amir Hossain Bosoti;10;40;11;1;4;3;1;4;4;1;4;4;4;4;4;4;4;;;46
+Narayanganj;25;672504003;;Uttor Dhakin Khola Dhakin Part;Shahidulla;9;36;11;4;4;4;1;4;1;1;4;4;4;3;4;4;4;;;46
+Narayanganj;25;672505001;;Uttor Dhakin Khola Uttar Part;Zabir Hossain;5;27;11;2;2;3;1;3;2;3;3;2;1;2;3;3;3;;;33
+Narayanganj;25;672505002;;Uttor Dhakin Khola Uttar Part;Delwer Hossain Bosoti;5;26;11;1;1;1;1;3;1;1;2;2;1;2;3;2;3;;;24
+Narayanganj;25;672505003;;Uttor Dhakin Khola Uttar Part;Sadek Bosoti;5;25;11;1;1;1;1;1;2;1;2;1;2;1;2;3;3;;;22
+Narayanganj;25;672505004;;Uttor Dhakin Khola Uttar Part;Rohmat Bosoti;5;26;11;1;2;1;1;2;1;1;3;2;1;1;3;3;3;;;25
+Narayanganj;25;672505005;;Uttor Dhakin Khola Uttar Part;Monir Hossain;5;25;11;2;1;2;1;3;1;1;3;2;2;3;2;3;3;;;29
+Narayanganj;25;672505006;;Uttor Dhakin Khola Uttar Part;Abdul hakim;10;102;11;1;1;4;1;4;1;2;2;2;2;1;3;3;2;;;29
+Narayanganj;26;672601001;;Ktirbond;Dr. Mannaner bari;13;52;15;4;4;4;2;1;1;4;2;3;4;3;1;1;1;;;35
+Narayanganj;26;672601002;;Ktirbond;Amborderbari;15;60;20;3;4;4;4;1;1;4;1;1;4;1;1;1;1;;;31
+Narayanganj;26;672601003;;Ktirbond;Muntaj Uddiner Bari;22;110;22;4;4;4;4;1;1;4;1;1;4;1;4;1;1;;;35
+Narayanganj;26;672602001;;Bagan bari 1 no Dhakeshori Bongon;Gandhi Bari;22;100;100;1;1;3;1;1;1;1;4;4;4;1;4;1;4;;;31
+Narayanganj;26;672602002;;Bagan bari 1 no Dhakeshori Bongon;Baganbari;50;300;100;1;1;3;1;1;1;1;4;4;4;3;1;2;4;;;31
+Narayanganj;26;672602003;;Bagan bari 1 no Dhakeshori Bongon;Mandir para;70;500;76;1;1;3;1;1;1;1;4;4;4;1;1;1;2;;;26
+Narayanganj;26;672603001;;Ramnagar;Safar Buiyar bari;12;48;6;3;1;3;1;1;4;4;1;1;4;1;1;1;1;;;27
+Narayanganj;26;672603002;;Ramnagar;Mohammad Ullar bari;6;25;10;3;2;4;1;1;4;4;3;2;3;1;1;1;1;;;31
+Narayanganj;26;672603003;;Ramnagar;Sadur bari Nadirpar;6;36;15;1;1;3;1;1;1;4;3;1;3;1;4;2;4;;;30
+Narayanganj;26;672603004;;Ramnagar;Mona Miar Bari;6;48;17;1;1;4;1;1;1;4;4;2;3;1;4;2;4;;;33
+Narayanganj;26;672603005;;Ramnagar;Rahimer bari (decorator);15;90;20;3;1;3;1;1;1;4;3;1;3;1;4;4;4;;;34
+Narayanganj;26;672603006;;Ramnagar;Hasem Miar Bari;7;35;25;3;1;3;1;1;1;4;1;4;3;1;4;3;4;;;34
+Narayanganj;26;672603007;;Ramnagar;Mofij Misrir Bari;16;80;25;1;1;3;1;1;1;4;4;2;3;1;4;4;4;;;34
+Narayanganj;26;672603008;;Ramnagar;Ismail Mia;7;28;30;1;1;3;1;1;3;1;3;4;4;3;4;4;4;;;37
+Narayanganj;26;672603009;;Ramnagar;Shahilar bari;12;48;25;1;1;4;1;1;1;4;1;3;4;1;4;4;4;;;34
+Narayanganj;26;672603010;;Ramnagar;Loinal Munsir bari;8;40;10;1;1;3;1;1;2;4;3;4;3;1;4;4;4;;;36
+Narayanganj;26;672604001;;Sonachora;Ali Akbor saheber bari;15;100;25;1;1;3;1;1;1;1;4;4;4;3;3;2;4;;;33
+Narayanganj;26;672604002;;Sonachora;Late Jobbar Moulabir bari;13;31;80;1;1;3;1;1;1;1;4;4;4;2;4;1;4;;;32
+Narayanganj;26;672604003;;Sonachora;Amir Miar Bari;40;200;100;2;1;3;1;1;1;1;3;4;4;1;1;1;4;;;28
+Narayanganj;26;672604004;;Sonachora;Kabir Hosener bari;15;75;100;1;1;3;1;1;1;1;4;4;4;3;4;1;4;;;33
+Narayanganj;26;672605001;;Sonachora Bag;Late Saidur Rahmaner basa;8;22;15;1;1;3;1;1;1;1;4;4;4;4;4;3;4;;;36
+Narayanganj;26;672605002;;Sonachora Bag;Basu Miar Bari;9;32;66;1;1;3;1;1;1;1;4;4;4;4;4;1;4;;;34
+Narayanganj;26;672605003;;Sonachora Bag;Sobhan Kabirajer bari;13;60;80;1;1;3;1;1;1;1;4;4;4;3;3;1;4;;;32
+Narayanganj;26;672605004;;Sonachora Bag;Loha Miar Bari;6;26;50;3;1;4;1;1;1;4;4;4;4;4;4;1;4;;;40
+Narayanganj;26;672605005;;Sonachora Bag;Dakkin Sonachora;14;64;18;1;1;3;1;1;1;2;4;4;4;2;4;2;4;;;34
+Narayanganj;26;672605006;;Sonachora Bag;Abul Kasem and Motin Miar bari;12;50;65;1;1;3;1;1;1;1;4;4;4;1;3;1;4;;;30
+Narayanganj;27;672701001;;Kuripara;Abdul Jalil Miah;7;35;13;1;1;3;1;1;3;1;4;3;1;3;2;1;2;;;27
+Narayanganj;27;672701002;;Kuripara;Safar Uddin;20;100;40;1;1;3;1;1;3;1;4;4;4;3;4;1;1;;;32
+Narayanganj;27;672701003;;Kuripara;Belayetullah;12;70;40;3;1;3;1;1;4;1;4;3;4;2;4;4;4;;;39
+Narayanganj;27;672701004;;Kuripara;Salu Mia;8;42;42;1;2;3;1;1;2;1;4;3;4;2;4;2;4;;;34
+Narayanganj;27;672701005;;Kuripara;Mutalib Miah;13;65;42;2;1;3;1;1;2;1;4;3;1;3;3;4;4;;;33
+Narayanganj;27;672702001;;Lalkarbagh;Md. Jahirul;10;50;100;2;3;3;1;1;2;1;2;1;2;1;3;1;2;;;25
+Narayanganj;27;672702002;;Lalkarbagh;Md.Mustafa;13;56;120;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702003;;Lalkarbagh;Ali Ahmmed;22;85;140;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702004;;Lalkarbagh;Md.Sahab Uddin;20;59;80;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702005;;Lalkarbagh;Md.Kamal Hossain;25;96;100;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702006;;Lalkarbagh;Md.Aynal Hossain;16;60;150;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702007;;Lalkarbagh;Md. Ali Hossain;20;70;120;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702008;;Lalkarbagh;Md.Bahauddin;13;54;130;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672702009;;Lalkarbagh;Md.Masum;22;90;130;1;1;3;1;1;2;1;2;1;2;1;3;1;2;;;22
+Narayanganj;27;672703001;;Chapatoli;Itterpul Uttar paser bari;10;50;30;3;4;4;1;1;1;4;4;2;3;1;1;1;4;;;34
+Narayanganj;27;672703002;;Chapatoli;Tamu Beparir barir pase;7;35;25;3;1;4;1;1;1;1;3;2;2;1;3;1;4;;;28
+Narayanganj;27;672703003;;Chapatoli;Chapatoli Schooler Dakkin Pase;60;300;50;1;1;3;1;1;1;1;3;2;2;1;3;4;4;;;28
+Narayanganj;27;672703004;;Chapatoli;Chairmen barir Dakkin Pase;10;50;50;3;1;3;1;1;1;1;1;2;2;1;1;1;3;;;22
+Narayanganj;27;672703005;;Chapatoli;Chourasta Masjider Paser bari;6;30;40;3;1;3;1;1;1;1;2;2;2;3;1;1;1;;;23
+Narayanganj;27;672703006;;Chapatoli;Muga Sala Uddiner bari;80;400;50;3;1;4;1;1;1;1;2;2;1;1;3;4;4;;;29
+Narayanganj;27;672704001;;Horipur;Horipur Bhuya Bari;40;120;9;3;1;4;1;1;2;2;3;2;3;4;2;1;4;;;33
+Narayanganj;27;672704002;;Horipur;Horipur Mapdar Bari;45;100;20;2;1;4;1;1;4;1;4;4;3;3;2;2;4;;;36
+Narayanganj;27;672704003;;Horipur;Horipur Hajrat Ali;35;90;20;1;1;4;1;1;4;1;3;3;4;2;2;2;4;;;33
+Narayanganj;27;672704004;;Horipur;Horipur Siraj Daktarer Bari;45;150;50;4;2;4;1;1;2;2;3;2;3;4;2;1;4;;;35
+Narayanganj;27;672704005;;Horipur;Horipur Idris Ali bir Mukti Judda;30;180;8;1;1;3;1;1;2;1;3;4;4;4;2;2;4;;;33
+Narayanganj;27;672705001;;Fulhar;Bat tala Sarensar bagh;67;268;40;3;3;3;4;1;3;3;4;3;2;3;3;4;4;;;43
+Narayanganj;27;672705002;;Fulhar;Fulhar Sarensar bag;62;208;40;3;3;3;2;4;4;1;2;1;4;4;1;1;3;;;36
+Narayanganj;27;672705003;;Fulhar;Fulhar Maidda para;42;168;100;4;4;4;2;2;1;1;3;3;2;1;3;3;3;;;36
+Narayanganj;27;672705004;;Fulhar;Fulhar Market bari;82;328;100;3;2;3;1;1;1;1;2;4;2;3;3;2;1;;;29
+Narayanganj;27;672705005;;Fulhar;Chairmen barir;69;376;100;4;3;3;4;4;1;1;3;3;2;1;1;3;3;;;36
+Narayanganj;27;672706001;;Muradpur;Muradpur Dakkin;46;220;60;2;1;4;1;1;4;1;4;4;4;3;3;4;4;;;40
+Narayanganj;27;672706002;;Muradpur;Bhuya Bari;27;135;120;2;1;3;1;1;3;1;4;2;3;1;1;4;3;;;30
+Narayanganj;27;672706003;;Muradpur;Kamur Bari;20;150;12;2;1;4;1;1;4;1;4;4;4;3;3;3;3;;;38
+Narayanganj;27;672706004;;Muradpur;Masjidpara;30;115;65;1;1;4;1;1;4;1;4;1;1;3;1;4;4;;;31
+Narayanganj;27;672706005;;Muradpur;Jamtali Bari;22;112;70;1;2;4;1;1;4;1;4;4;4;3;3;4;2;;;38
+Narayanganj;27;672706006;;Muradpur;Murad Pur Uttarpara;24;117;100;2;1;4;1;1;4;1;4;4;3;3;4;4;4;;;40
+Narayanganj;27;672707001;;Bongo Shason;Nuru Miar Bari;20;60;75;1;2;3;1;1;2;1;2;2;3;4;3;4;4;;;33
+Narayanganj;27;672707002;;Bongo Shason;Sala Uddin Miar bari;20;80;70;2;1;3;1;1;3;1;2;2;3;4;3;1;4;;;31
+Narayanganj;27;672707003;;Bongo Shason;Hasemer Bari;28;100;75;1;2;3;1;1;2;1;2;1;2;4;3;4;4;;;31
+Narayanganj;27;672707004;;Bongo Shason;Abul Hasem;15;70;29;2;2;3;1;1;4;1;2;4;4;4;2;4;4;;;38
+Narayanganj;27;672707005;;Bongo Shason;Rob Munsir Bari;15;50;46;2;2;3;1;1;2;1;2;2;2;4;3;4;4;;;33
+Narayanganj;27;672707006;;Bongo Shason;Ismail bari;17;40;29;2;2;3;1;1;2;1;2;2;2;4;3;4;4;;;33
+Narayanganj;27;672707007;;Bongo Shason;Abul Mia;40;150;77;2;2;3;1;1;2;1;2;2;2;4;3;4;4;;;33
+Narayanganj;27;672707008;;Bongo Shason;Yakub Mia;10;38;42;2;2;3;1;1;2;1;2;2;2;4;3;4;4;;;33
+Narayanganj;27;672707009;;Bongo Shason;Hasan Munsir Bari;35;130;32;2;2;3;1;1;2;1;2;2;2;4;3;4;4;;;33
+Narayanganj;27;672708001;;Nagirgonj;Najirganj najir bari;35;200;23;3;2;3;1;1;2;1;2;2;1;3;3;3;4;;;31

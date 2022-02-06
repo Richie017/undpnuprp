@@ -1,0 +1,158 @@
+
+#main-nav ul li ul {
+    width: 180px;
+    top: 28px;
+    padding-bottom: 10px;
+    border-top: solid 0px #ccc;
+}
+
+#main-nav ul li ul li a {
+    height: auto;
+    padding: 8px 10px;
+}
+
+#main-nav ul li a {
+    color: #404040;
+    display: block;
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+#main-nav ul li {
+    border-radius: 0;
+    min-width: 0px;
+}
+
+
+#main-nav ul li .active {
+    border-radius: 0;
+}
+
+
+.dashboard-wrapper .main-container {
+    background: none repeat scroll 0 0 #f6f6f6;
+    border-top-width: 2px;
+    padding: 0px 15px 5px 15px;
+}
+
+
+.left-sidebar {
+    width: 190px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0 0;
+}
+
+
+.left-sidebar .content .accordion .accordion-group .accordion-body .accordion-inner {
+    padding: 0;
+}
+
+
+.left-sidebar .signups li, .left-sidebar .left-menuitems li,
+.left-sidebar .chats li, .left-sidebar .inbox li,
+.left-sidebar .payments li, .left-sidebar .staff li,
+.left-sidebar .contents li {
+    border-bottom: 1px solid #e6e6e6;
+    cursor: default;
+    display: block;
+    padding: 6px 6px 6px 6px;
+    text-align: right;
+}
+
+
+.left-sidebar .signups li, .left-sidebar .left-menuitems li, .left-sidebar .chats li, .left-sidebar .inbox li, .left-sidebar .payments li, .left-sidebar .staff li, .left-sidebar .contents li {
+    background-color: #555;
+    border-bottom: 1px solid #4f4f4f;
+}
+
+
+.left-sidebar .left-menuitems li a{
+    color: #eee;
+}
+
+
+.left-sidebar ul li.active {
+    background-color: #f6f6f6;
+    /*border-bottom: 1px solid #428bca;*/
+    border-bottom: 1px solid #f6f6f6;
+    color: white;
+}
+
+.left-sidebar .content {
+    background: none repeat scroll 0 0 #333;
+    border-radius: 0px;
+}
+
+.left-sidebar ul li.section {
+    border-top: 1px solid #999;
+}
+
+.left-sidebar .content .accordion .accordion-group {
+    border-color: #555;
+}
+
+.left-sidebar .user-details .user-img img {
+    border: none;
+    height: 30px;
+    width: auto;
+}
+
+#main-nav ul li ul {
+    -webkit-transition: display 1s linear 2s; /* For Safari 3.1 to 6.0 */
+    transition: display 1s linear 2s;
+}
+
+.left-sidebar .content .accordion .accordion-group .accordion-heading a {
+    color: #eee;
+}
+
+/*------------------------------------*/
+
+#new-multiple ul li {
+    background: none repeat scroll 0 0 #428bca;
+    border-bottom: 1px solid #4e92cd;
+    border-radius: 0;
+    color: white;
+    display: block;
+    float: none;
+    margin-right: 0;
+}
+
+#new-multiple ul li:hover {
+    background: none repeat scroll 0 0 #3071a9;
+}
+
+#new-multiple ul li .active {
+    border-radius: 0;
+}
+#new-multiple ul li .active {
+    background: none repeat scroll 0 0 #428bca;
+    border-radius: 2px 2px 0 0;
+    color: white;
+}
+#new-multiple ul li a {
+    color: white;
+    display: block;
+    font-size: 12px;
+    height: 18px;
+    line-height: 18px;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.left-sidebar .content .accordion .accordion-group .accordion-body .accordion-inner {
+    font-size: 10px;
+}
+
+[data-icon]:before {
+    font-size: 12px;
+}
+
+header #mini-nav li a [data-icon]:before {
+    vertical-align: inherit;
+}

@@ -1,0 +1,95 @@
+{% extends "shared/_layout.html" %}
+{% load i18n %}
+{% block viewport %}
+    {% load blackwidow_filter %}
+    {% include "shared/_header.html" %}
+    <div class="container-fluid">
+        {% include "shared/_leftmenu.html" %}
+        <div class="dashboard-wrapper">
+            {% include "shared/_topmenu.html" %}
+            <div class="main-container">
+                <div class="page-header">
+                    {% block header %}
+                    {% endblock %}
+                </div><!--/.page-header-->
+                <div class="row-fluid">
+                    <div class="flash_message hide">
+                        {% if messages %}
+                            <ul class="messages">
+                                {% for message in messages %}
+                                    <li{% if message.tags %} class="alert alert-{{ message.tags }}"{% endif %}>
+                                        {{ message|remove_quote }}
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row-fluid">
+                    {% block content %}
+                    {% endblock %}
+                </div><!--/.page-content-->
+            </div>
+        </div><!--/.main-content-->
+    </div><!--/.main-container-->
+    <div tabindex="-1" class="modal hide fade" id="global-modal-form" style="display: none;" aria-hidden="true">
+        <div class="modal-header">
+            <button data-dismiss="modal" class="close" type="button">×</button>
+            <h4 class="blue bigger" align="center">Add</h4>
+        </div>
+        <div class="modal-body overflow-visible" style="min-height: 150px;">
+
+        </div>
+
+        <div class="modal-footer">
+            <button data-dismiss="modal" class="btn btn-small btn-cancel">
+                <i class="icon-remove"></i>
+                Cancel
+            </button>
+
+            <button data-dismiss="modal" class="btn btn-small btn-primary btn-ok">
+                <i class="icon-ok"></i>
+                Save
+            </button>
+        </div>
+    </div>
+    <div class="loader">
+        <img src="{{ STATIC_URL }}assets/images/ajax-loader.gif?v=1.1.0"/>
+        <p>Processing ...</p>
+    </div>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block scripts %}
+    {#    -------------- theme upgrade ---------------------------#}
+    <script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-template/jquery.loadTemplate-1.4.4.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery-template/jquery.loadTemplate-1.4.4.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/moment.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/validation/jquery.validate.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/validation/jquery.validate.unobtrusive.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/bootstrap.js?v=1.1.0"></script>
+
+    <script src="{{ STATIC_URL }}assets/js/chosen.jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/date-time/bootstrap-datepicker.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/date-time/bootstrap-timepicker.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/jquery.qrcode.js?v=1.1.0"></script>
+    <!-- Flot charts -->
+    <script src="{{ STATIC_URL }}assets/js/qrcode.js?v=1.1.0"></script>
+    <!-- Google Visualization JS -->
+    {% block childscripts %}
+    {% endblock %}
+
+    {% block childscripts2 %}
+    {% endblock %}
+    <script type="text/javascript">
+        $(function () {
+            $(".loader").fadeOut('fast');
+            $("body").unload(function () {
+                $(".loader").fadeIn();
+            });
+        });
+    </script>
+{% endblock %}

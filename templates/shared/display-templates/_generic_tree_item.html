@@ -1,0 +1,11 @@
+<li class="child">
+    <span>{{ item.display_name }}</span>
+    <a href="javascript://">{{ item.route_url }}</a>
+    {% if item.prefetched_items %}
+        <ul class="child">
+        {% for nested_item in item.prefetched_items %}
+            {% include 'shared/display-templates/_generic_tree_item.html' with item=nested_item %}
+        {% endfor %}
+        </ul>
+    {% endif %}
+</li>

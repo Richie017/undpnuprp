@@ -1,0 +1,336 @@
+body {
+    background: none repeat scroll 0 0 #1a1a1a;
+    font-size: 12px;
+    font-family: cailbri,tahoma,verdana,arial,sans-serif;
+}
+
+.manage-action {
+    margin: 5px;
+}
+
+.chzn-container-single .chzn-single {
+    height: 28px;
+}
+
+.btn {
+    font-size: 12px;
+}
+
+.dashboard-wrapper .main-container .page-header {
+    border-bottom: 1px solid #ccc;
+    padding: 0px 0 2px;
+}
+
+h1 small {
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+table th.selection{
+    width: 13px;
+    padding-top: 3px;
+}
+
+.selection input[type='checkbox']{
+    margin-top: 0px;
+}
+
+.creation_flag{
+    width: 60px;
+}
+
+.chzn-container-single .chzn-single {
+    line-height: 28px;
+}
+
+.chzn-container-single .chzn-single div {
+    top: 3px;
+}
+
+.pagination .row-fluid .span3 {
+    padding: 7px 0 0;
+}
+
+.pagination .row-fluid .span8 {
+    text-align: right;
+    padding-top: 3px;
+}
+
+.pagination {
+    margin: 0 0 20px;
+}
+
+ul.pagination{
+    display: none;
+}
+
+.form-horizontal{
+    padding-top: 20px;
+}
+
+th.date_created, th.last_updated{
+    width: 150px;
+}
+
+th.code, th.code{
+    width: 70px;
+}
+
+
+.dropdown-menu li > a {
+    font-size: 12px;
+}
+
+
+#main-nav ul li .active {
+    background: none repeat scroll 0 0 #428bca;
+    border-radius: 2px 2px 0 0;
+    color: white;
+}
+
+
+
+.left-sidebar h6{
+    font-weight: normal;
+}
+
+#myTab{
+    margin-bottom: 0px;
+}
+
+
+.left-sidebar .signups li a, .left-sidebar .clients li a, .left-sidebar .chats li a, .left-sidebar .inbox li a, .left-sidebar .payments li a, .left-sidebar .staff li a, .left-sidebar .contents li a {
+    color: #000;
+}
+
+.left-sidebar ul li.active a{
+    color: #428bca;
+}
+
+
+
+
+.left-sidebar .content {
+    min-height: 0px;
+}
+#main-nav ul li {
+    background: none repeat scroll 0 0 #ddd;
+}
+
+
+.profile-info-value {
+    /*margin-left: 150px;*/
+}
+
+.profile-info-name {
+    /*width: 150px;*/
+}
+
+.icon-spinner-live{
+     background-image: url("../assets/images/ajax-loader.gif");
+     background-size: 100% 100%;
+     background-position: 0;
+ }
+
+a.loading {
+    background-image: url("../assets/images/ajax-loader.gif");
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: auto 20px;
+    padding-left: 23px !important;
+}
+
+.nav-tabs > li > a {
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.table-condensed th {
+    padding: 3px 8px;
+}
+
+.wide-modal{
+    margin-left: -45%;
+    width: 90%;
+}
+
+.tab-content {
+    padding: 10px 5px;
+}
+
+td.code a{
+    color: cornflowerblue;
+}
+
+td.code a:hover{
+    text-decoration: underline;
+}
+
+.table th.asc {
+    background: url("../img/sorting_asc.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+    cursor: pointer;
+}
+.table th.desc {
+    background: url("../img/sorting_desc.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+    cursor: pointer;
+}
+
+.loader {
+    background-color: #fff;
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    padding-top: 20%;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 999999999;
+}
+
+.error{
+    color: red;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    background-image: none;
+}
+
+.chzn-container {
+    font-size: 12px;
+}
+
+.dashboard-wrapper .main-container {
+    border-radius: 0;
+}
+
+
+.bootstrap-datetimepicker-widget ul li, .bootstrap-datetimepicker-widget ul li:active, .bootstrap-datetimepicker-widget ul li:focus{
+    background-color: transparent !important;
+    color: #000 !important;
+}
+
+.bootstrap-datetimepicker-widget ul{
+    border: solid 1px #ccc;
+}
+
+.btn-group > .btn + .btn {
+    margin-left: 0;
+}
+
+tr .render_view, tr .render_create, tr .render_edit, tr .render_delete, tr .render_object_access, tr .render_module_access{
+    width: 200px;
+    text-align: center;
+}
+
+.bootstrap-datetimepicker-widget{
+    z-index: 99999999999999999;
+}
+
+.map-container{
+    height: 600px;
+    margin-bottom: 50px;
+    border: solid 2px #ccc;
+}
+
+img{
+    max-width: none;
+}
+
+#legend{
+    background-color: #fff;
+    height: auto;
+    padding: 0 10px 10px;
+    width: 168px;
+    opacity: 0.90;
+    box-shadow: #ccc;
+}
+
+#legend h2{
+    font-size: 14px;
+    font-family: "Courier New", courier, monospace;
+}
+
+
+#legend ul li{
+    padding: 2px 0px;
+}
+
+.dropdown-menu li > a {
+    font-size: 11px;
+}
+.dropdown-menu li > a {
+    padding: 1px 10px;
+}
+
+.level2-accordion .accordion-heading{
+    background-color: #777;
+}
+
+.level2-accordion .accordion-heading a{
+    padding: 5px 10px !important;
+    font-size: 11px !important;
+}
+
+.level2-accordion .accordion-heading a.collapsed i.icon-arrow-right-2,
+.level2-accordion .accordion-heading a i.icon-arrow-down-2{
+    display: inline-block;
+}
+
+.level2-accordion .accordion-heading a i.icon-arrow-right-2,
+.level2-accordion .accordion-heading a.collapsed i.icon-arrow-down-2{
+    display: none;
+}
+
+#stacktrace hr{
+    margin: 0px;
+    border: none;
+    height: 1px;
+}
+
+#stacktrace hr:nth-child(2n + 1){
+    border-bottom: solid 1px #eee;
+    margin: 10px 0;
+}
+
+.inline-link{
+    color: #336199;
+}
+
+.inline-link:hover {
+    text-decoration: underline;
+}
+
+.btn-inline-remove-search{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    margin-left: 10px;
+    padding: 3px 12px;
+}
+
+div.search-item-container{
+    background-color: #ddd;
+    color: #111;
+    text-shadow: none;
+}
+
+table.table tbody tr td.actions{
+    width: 100px;
+    /*background-color: #94d0ff;*/
+}
+
+.field-description{
+    color: #999;
+    display: block;
+    font-style: italic;
+}
+
+.thumbnail-border{
+    padding: 3px;
+    margin: 0 0 6px 0;
+    border: 3px double #00a99d;
+}

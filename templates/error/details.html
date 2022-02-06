@@ -1,0 +1,90 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ model_meta.properties|get_name }}</h3>
+            {#            <small>Details</small>#}
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-7">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+            {% for a in details_link_config %}
+                <li>
+                    {% if a.name == 'Print' %}
+                        {% if model_meta.properties|get_name != 'Import File Queue' %}
+                            <a class="{{ a.classes }} manage-button btn"
+                               onclick="window.open(this.href, 'Print', 'width=800, height=600, left=24, top=24, scrollbars, resizable'); return false;"
+                               href="{% url a.url_name data.id %}">
+                                <i class="fbx-rightnav-print"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% endif %}
+
+                    {% elif a.name == 'Reset Password' %}
+                        {% if request.c_user.is_super or request.c_user.id == data.id %}
+                            <a class="{{ a.classes }} manage-button btn load-reset-modal load-ajax=1"
+                               href="{% url a.url_name data.id %}" data-id="{{ data.id }}">
+                                <i class="fbx-rightnav-resetpass"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% endif %}
+                    {% else %}
+                        <a class="{{ a.classes }} manage-button btn" href="{% url a.url_name data.id %}">
+                            <i class="fbx-rightnav-edit"></i>
+                            <span>&nbsp;{{ a.name }}</span>
+                        </a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix">
+        <div class="profile-user-info profile-user-info-striped span12">
+            {% for prop, value in model_meta.properties|name_value_pair %}
+                {% if prop|lower != 'stacktrace' %}
+                    <div class="profile-info-row col-md-6 col-sm-8" style="display: inline-block;">
+                        <div class="profile-info-name col-md-5 col-sm-7"
+                             style="text-align: left; width: 30%;">
+                            <span>{{ prop }}</span>
+                        </div>
+                        <div class="profile-info-value col-md-5 col-sm-7">
+                            <span id="username">{{ value|safe }}</span>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="clearfix" style="padding-top: 20px">
+        <div class="tabbable">
+            <ul id="myTab" class="nav nav-tabs">
+                <li class="active">
+                    <a class="loading" href="#stacktrace" data-toggle="tab">
+                        Stacktrace
+                    </a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane in active tab-ajax" id="stacktrace">
+                    {{ model_meta.properties|get_name:'stacktrace'|safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/details-tabs.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+{% endblock %}

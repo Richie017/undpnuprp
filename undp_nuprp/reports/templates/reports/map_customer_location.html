@@ -1,0 +1,299 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+    </div>
+
+    <div class="col-sm-4">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-7 map-info">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right load-map-button generic-btn-style">Update Map</button>
+                </h1>
+            </li>
+        </ul>
+    </div> <!--//.COL-->
+{% endblock %}
+
+
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <div class="" style="padding: 0;">
+            <form class="col-md-12 col-sm-12">
+                <div class="custom-col-12 col-md-12 col-sm-12" style="padding: 5px 0 0 0;">
+                {% for field in parameters.G1 %}
+                    {% if field|is_datetime %}
+                        <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                            <label for="datetimepicker1">{{ field.label }}</label>
+                            <div class='col-md-12 col-sm-12 input-append date datetimepicker controls' id='datetimepicker1'
+                                    style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                            </div>
+                        </div>
+                    {% else %}
+                    {% if field.label == 'Select Zone/Area' %}
+                        <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                    {% else %}
+                        <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                    {% endif %}
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+                            <div class="col-md-12 col-sm-12 controls"
+                                    style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+
+                </div>
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+                        <div class="col-md-12 col-sm-12 controls list-unstyled map-list" style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    </div>
+                {% endfor %}
+            </form>
+        </div> <!--//.COL 3-->
+
+        <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+            <div class="col-md-12  col-sm-12" style="padding-left: 0;">
+                <span id="map-title" class="text-left" ></span>
+                <div id="map-view" class="row-fluid map-container"
+                     style="margin: 0; padding: 0; position: relative"></div>
+                <div id="legend">
+                    <h2>Legend</h2>
+                    <ul>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/distrib2.svg?v=1.1.0" /> Distributor
+                        </li>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/apared.svg?v=1.1.0" /> Modern Trade
+                        </li>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/apagreen.svg?v=1.1.0" /> Distribution CNG
+                        </li>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/hubicon.svg?v=1.1.0" /> Urban Shop
+                        </li>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/survey.svg?v=1.1.0" /> Rural Shop
+                        </li>
+                        <li>
+                            <img style="max-width: 24px;" src="{{ STATIC_URL }}img/other_activities.svg?v=1.1.0" /> Sales Lady
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div> <!--//.COL-->
+    {% endwith %}
+{% endblock %}
+
+
+{% block childscripts2 %}
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            var map = null;
+            var center = {lat: 23.0, lng: 90.0};
+            var markers = [];
+            var infowindows = [];
+            var icons = [];
+
+            var img = new Image();
+            //img.src = "/static/img/visituser.svg";
+            img.src = "/static/img/distrib2.svg";
+            img.src = "/static/img/apared.svg";
+            img.src = "/static/img/apagreen.svg";
+            //img.src = "/static/img/shop.svg";
+            function initialize(center) {
+                var mapOptions = {
+                    center: center,
+                    zoom: 10
+                };
+
+                return new google.maps.Map(document.getElementById('map-view'), mapOptions);
+            }
+
+
+            function update_map(data, action_callback) {
+                $.ajax({
+                    url: '?format=json',
+                    type: 'get',
+                    data: data,
+                    dataType: 'json',
+                    success: function(result){
+                            action_callback(result);
+                            $('body,html').animate({scrollTop: document.body.scrollHeight}, 1000);
+                            if (result != null) {
+                                $("#map-title").html(result.title);
+                                for (var i = 0; i < markers.length; i++){
+                                    markers[i].setMap(null);
+                                }
+                                markers = [];
+                                icons = [];
+                                infowindows = [];
+                                var bounds = new google.maps.LatLngBounds();
+                                var center = {lat: 23, lng: 90};
+                                for (var i = 0; i < result.items.length; i++) {
+                                    var data = result.items[i];
+                                    var lat = data.latitude;
+                                    var lng = data.longitude;
+                                    var myLatLng = new google.maps.LatLng(lat, lng);
+                                    icons[i] = {
+                                        url: get_icon(data.type),
+                                        scaledSize: new google.maps.Size(20, 30),
+                                        origin: new google.maps.Point(0, 0),
+                                        anchor: new google.maps.Point(12, 12)
+                                    };
+                                    markers[i] = new google.maps.Marker({
+                                        position: myLatLng,
+                                        title: data.title,
+                                        icon: icons[i]
+                                    });
+                                    infowindows[i] = "<div style='color: " + get_color(data.type) + ";'>" + data.name +"<br/>";
+                                    if(data.phone != '') {
+                                        infowindows[i] += "<div><b>Phone:</b> "+ data.phone +"</div>";
+                                    }
+                                    infowindows[i] += "</div>";
+
+                                    bounds.extend(markers[i].position);
+
+                                    center.lat = (center.lat * i + lat) / (i + 1);
+                                    center.lng = (center.lng * i + lng) / (i + 1);
+                                }
+                                if (result.items.length > 0){
+                                    map.setCenter(bounds.getCenter());
+                                } else {
+                                    bounds.extend(new google.maps.LatLng(22, 90));
+                                    bounds.extend(new google.maps.LatLng(23, 90));
+                                    map.setCenter(center)
+                                }
+                                map.fitBounds(bounds);
+                                setTimeout(function() {
+                                    for (var i = 0; i < markers.length; i++) {
+                                        markers[i].setMap(map);
+                                        attachMessage(map, markers[i], infowindows[i]);
+                                    }
+                                }, 1000);
+                            }
+                    },
+                    error: function(ad){
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    }
+                })
+            }
+
+
+            function attachMessage(map, marker, message) {
+                var infowindow = new google.maps.InfoWindow(
+                        {
+                            content: message,
+                            size: new google.maps.Size(50,50)
+                        });
+                google.maps.event.addListener(marker, 'click', function() {
+                    infowindow.open(map, marker);
+                });
+            }
+
+            function get_icon(value){
+                switch(value) {
+                    case 'distributor':
+                        return '/static/img/distrib2.svg';
+                    case 'modern_trade':
+                        return '/static/img/apared.svg';
+                    case 'distribution_cng':
+                        return '/static/img/apagreen.svg';
+                    case 'rural_shop':
+                        return '/static/img/survey.svg';
+                    case 'urban_shop':
+                        return '/static/img/hubicon.svg';
+                    case 'sales_lady':
+                        return '/static/img/other_activities.svg';
+                    default:
+                        return '/static/img/distrib2.svg';
+                }
+            }
+
+            function get_color(value){
+                switch(value) {
+                    case 'distributor':
+                        return '#0000ff';
+                    case 'modern_trade':
+                        return '#000000';
+                    case 'distribution_cng':
+                        return '#ff0000';
+                    case 'rural_shop':
+                        return '#009933';
+                    case 'urban_shop':
+                        return '#A3007A';
+                    case 'sales_lady':
+                        return '#A3007A';
+                    default:
+                        return '#0000ff';
+                    }
+            }
+
+            $(function(){
+                resizeDiv();
+                $(".date-selector").datepicker({
+                    format: 'dd-mm-yyyy'
+                });
+                $(".datetimepicker").datetimepicker({
+                    pick12HourFormat: true,
+                    pickTime: false
+                });
+
+                map = initialize(center);
+                map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('legend'));
+
+                //load map data
+                $(".map-info").on('click', '.load-map-button', function(){
+                    var tthis = this;
+                    $(tthis).removeClass('generic-btn-style').addClass('generic-danger-btn-style').html('Please wait... Updating Map');
+                    var parameters = {
+                        clients: $("#id_distributor").val(),
+                        shops: $("#id_shops").val()
+                    };
+                    update_map(parameters, function(result) {
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    });
+                });
+            });
+
+            var parameters = {
+                clients: $("#id_distributor").val(),
+                shops: $("#id_shops").val()
+            };
+            update_map(parameters, function(result) {});
+
+            window.onresize = function(event) {
+                resizeDiv();
+            };
+
+            function resizeDiv() {
+                var window_height = $(window).height();
+                var title_height = $("#map-title").height();
+                var vph = window_height - title_height * 1.5;
+                $('#map-view').css({'height': vph + 'px'});
+            }
+        });
+    </script>
+{% endblock %}

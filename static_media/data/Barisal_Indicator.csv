@@ -1,0 +1,1408 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Barisal;18;61801002;10401801002;Mollik Road;Sohed Sentu Sarak (2);60;300;40;2;1;4;1;4;4;1;4;4;4;2;3;3;4;4;4;49
+Barisal;18;61801003;10401801003;Mollik Road;Usuf Vela;13;65;65;2;3;4;2;4;2;3;3;3;4;3;4;2;4;4;4;51
+Barisal;18;61801001;10401801001;Mollik Road;Sohed Sentu Sarak (1);7;35;50;2;1;4;1;3;4;1;3;4;4;3;4;2;4;4;4;48
+Barisal;18;61801005;10401801005;Mollik Road;Khan Manjel;15;75;70;4;1;3;3;3;3;4;4;3;3;3;3;3;3;4;4;51
+Barisal;18;61801004;10401801004;Mollik Road;Hamid Monjel;100;500;36;2;1;4;1;4;4;4;4;4;4;2;3;3;4;4;4;52
+Barisal;18;61802001;10401802001;Shrinath Chaterji Len;Serajul Sir Ar Bari;9;45;50;2;1;4;2;1;3;2;4;3;4;2;4;2;4;4;4;46
+Barisal;18;61802002;10401802002;Shrinath Chaterji Len;Doito Bari;10;50;40;1;1;4;2;1;3;1;3;3;3;3;4;2;4;4;4;43
+Barisal;18;61802004;10401802004;Shrinath Chaterji Len;Khan Manjel Sarak;13;65;30;2;1;4;2;1;2;1;3;3;4;3;4;2;4;4;4;44
+Barisal;18;61802005;10401802005;Shrinath Chaterji Len;Puran Bari;10;50;30;2;1;4;2;3;4;2;3;3;3;3;4;2;4;4;4;48
+Barisal;18;61802003;10401802003;Shrinath Chaterji Len;Sufeya Lain;12;60;40;2;1;4;2;3;2;1;3;3;4;2;4;1;4;4;4;44
+Barisal;18;61803001;10401803001;BM School Road oh Len Uttor;Sahera Manson;15;75;40;2;1;4;2;1;3;2;3;4;4;4;4;1;4;4;4;47
+Barisal;18;61803002;10401803002;BM School Road oh Len Uttor;Soref Monjel;8;40;10;4;3;3;2;3;4;4;3;4;4;4;4;3;4;4;4;57
+Barisal;18;61803003;10401803003;BM School Road oh Len Uttor;Khokon Miyar Bari;15;75;20;2;1;4;1;3;4;1;3;3;4;2;4;1;4;4;4;45
+Barisal;18;61804001;10401804001;BM School Road oh Len Dokkhin;Aftab Manjel;6;30;10;2;1;4;1;4;2;1;4;3;4;2;4;1;4;4;4;45
+Barisal;18;61804002;10401804002;BM School Road oh Len Dokkhin;Rob Miyar Goli;5;25;15;2;1;4;1;4;3;1;3;3;4;2;4;4;4;4;4;48
+Barisal;18;61806001;10401806001;Alekanda Uttor;Quarter;18;90;20;2;1;4;2;4;3;1;3;3;4;2;3;2;3;2;3;42
+Barisal;18;61807001;10401807001;Adom Ali Hazi Goli;Halem Miyar Bari;16;80;35;2;1;4;1;3;4;2;3;4;4;3;4;3;4;4;4;50
+Barisal;18;61807002;10401807002;Adom Ali Hazi Goli;Mission;8;40;30;2;1;4;2;4;4;3;4;4;4;3;4;4;4;4;4;55
+Barisal;18;61807003;10401807003;Adom Ali Hazi Goli;Khola Bari;15;75;47;1;1;3;1;2;2;1;3;3;4;2;3;1;2;3;2;34
+Barisal;18;61807004;10401807004;Adom Ali Hazi Goli;Nannu Miyar Bari;9;45;47;2;1;4;1;3;4;2;4;4;4;3;4;3;4;4;4;51
+Barisal;18;61807005;10401807005;Adom Ali Hazi Goli;Sobhan Miyar Bari;12;60;47;1;1;4;1;3;4;1;4;3;4;2;4;4;4;4;4;48
+Barisal;18;61808006;10401808006;Nobogram Road Bottola - Passport Office;Adom Ani Golli;9;45;70;4;1;4;3;3;4;1;3;3;3;3;2;3;3;4;4;48
+Barisal;18;61808005;10401808005;Nobogram Road Bottola - Passport Office;Mi Muktejodda Moheuddain Ahmed Sarak;10;50;25;1;2;4;1;3;3;3;4;4;1;2;2;1;3;3;3;40
+Barisal;18;61808004;10401808004;Nobogram Road Bottola - Passport Office;Notun Mejor M.A Jolil Sarak;9;45;10;1;2;4;1;3;3;3;4;4;4;2;2;1;3;3;3;43
+Barisal;18;61808003;10401808003;Nobogram Road Bottola - Passport Office;Notun Major M.A Jolil Sarak;8;40;10;2;1;2;1;3;3;1;2;3;3;2;2;1;2;3;3;34
+Barisal;18;61808002;10401808002;Nobogram Road Bottola - Passport Office;Puraton Major M.A Jolil Sarak;6;30;47;1;1;2;1;1;3;1;2;3;4;2;4;4;4;4;4;41
+Barisal;18;61808008;10401808008;Nobogram Road Bottola - Passport Office;Litu Miyar Bari;10;50;30;2;1;4;1;3;3;1;3;4;4;3;4;2;4;4;4;47
+Barisal;18;61808007;10401808007;Nobogram Road Bottola - Passport Office;Safeya Kotay;9;45;30;2;1;4;2;2;4;4;3;3;4;3;4;2;4;4;4;50
+Barisal;18;61808001;10401808001;Nobogram Road Bottola - Passport Office;Puraton Major M.A Jolil Sarak;8;40;15;1;1;2;1;1;4;1;2;3;3;2;4;4;4;4;4;41
+Barisal;18;61809001;10401809001;Shrinath Dokkhin;Karuna Bate Sir Ar Bari;12;60;55;2;1;4;1;1;2;1;3;3;4;2;3;1;3;1;1;33
+Barisal;18;61809003;10401809003;Shrinath Dokkhin;Molla Bari;7;35;30;2;1;4;2;4;3;1;3;3;4;2;4;4;4;4;4;49
+Barisal;18;61809002;10401809002;Shrinath Dokkhin;Faruk Sarak Ar Pashe;14;70;50;1;1;4;2;3;3;1;3;3;4;2;4;2;4;4;4;45
+Barisal;15;61501008;10401501008;Nobogram Dokshin;New Estor kular Road;80;400;110;2;1;4;2;3;2;1;3;3;3;2;4;1;4;1;3;39
+Barisal;15;61501007;10401501007;Nobogram Dokshin;Amer Ali Khar Bari;50;250;90;1;1;4;3;3;3;1;3;3;4;2;4;2;4;4;4;46
+Barisal;15;61501006;10401501006;Nobogram Dokshin;Asraf Sarak Ar Kache;95;475;60;1;1;4;2;4;3;2;3;4;4;2;4;2;4;4;4;48
+Barisal;15;61501005;10401501005;Nobogram Dokshin;Raju Miyar Pul Rosheder Bari;115;575;100;2;1;4;3;3;2;2;3;3;3;2;4;2;4;4;4;46
+Barisal;15;61501003;10401501003;Nobogram Dokshin;Anayara Vela;75;375;60;1;1;4;1;4;3;1;2;3;4;2;3;2;3;1;3;38
+Barisal;15;61501002;10401501002;Nobogram Dokshin;Soref Ar Bari;45;125;70;1;1;4;1;3;3;1;3;3;4;2;4;1;4;4;4;43
+Barisal;15;61501004;10401501004;Nobogram Dokshin;Khomsor Bari;15;45;90;1;1;4;1;4;3;1;3;3;4;2;4;2;4;4;4;45
+Barisal;15;61501001;10401501001;Nobogram Dokshin;Kader Sekdar Bari;15;45;35;2;1;4;2;3;3;1;4;3;4;2;4;1;4;4;4;46
+Barisal;15;61502001;10401502001;Munsur Quarter;Rajjak Miyar Bari;15;45;30;3;1;4;2;4;3;1;4;3;4;2;4;2;4;4;4;49
+Barisal;15;61502004;10401502004;Munsur Quarter;Wahab Enganeyar Bari;9;45;40;2;1;4;3;4;3;1;3;3;4;2;4;2;4;4;4;48
+Barisal;15;61502005;10401502005;Munsur Quarter;Bagan Bari;20;100;50;1;1;4;1;1;2;1;3;4;3;2;4;1;4;4;4;40
+Barisal;15;61502002;10401502002;Munsur Quarter;Usuf Miyar Bari;8;40;15;2;1;4;1;3;2;1;3;3;4;2;4;2;4;4;4;44
+Barisal;15;61502003;10401502003;Munsur Quarter;Munsur Quarter She Matha;15;75;40;2;1;4;1;2;2;1;3;3;4;2;4;2;4;4;4;43
+Barisal;15;61502006;10401502006;Munsur Quarter;Rajub Vela;15;45;30;2;1;4;2;4;3;1;3;4;4;2;4;2;4;4;4;48
+Barisal;15;61502007;10401502007;Munsur Quarter;Shopna Manjel;17;85;40;2;1;4;2;3;2;1;4;4;4;2;4;3;4;4;4;48
+Barisal;15;61502008;10401502008;Munsur Quarter;Sekdar Bari;14;70;50;2;1;4;1;2;3;1;3;3;4;2;4;1;4;4;4;43
+Barisal;15;61503004;10401503004;New Sarkular Road;Bagan Bari;70;350;80;2;1;4;2;2;2;1;3;3;4;2;3;1;3;1;3;37
+Barisal;15;61503005;10401503005;New Sarkular Road;Sekdar BAri;55;275;80;2;1;4;2;3;2;1;4;3;3;2;2;1;3;1;2;36
+Barisal;15;61503001;10401503001;New Sarkular Road;Mohra Bari;17;85;70;3;1;4;2;3;2;1;3;3;4;2;3;1;3;1;3;39
+Barisal;15;61503003;10401503003;New Sarkular Road;Peskar Bari;38;190;70;2;1;4;2;2;2;1;3;3;4;2;3;1;3;1;3;37
+Barisal;15;61503002;10401503002;New Sarkular Road;Gaji Bari;230;1150;80;2;1;4;2;3;2;1;3;3;3;2;4;1;3;1;3;38
+Barisal;15;61504002;10401504002;Forester Bari;Oi Forester Bari;40;200;35;3;3;4;2;3;2;2;3;3;4;2;3;2;3;1;3;43
+Barisal;15;61504001;10401504001;Forester Bari;Soiyad Manjel;35;175;28;3;3;4;3;4;2;2;4;3;3;2;3;1;3;1;3;44
+Barisal;15;61505006;10401505006;Hazrat Kalu Shah Road Poschim;Khalifa Bari;15;75;65;3;1;4;1;3;2;1;4;3;4;2;3;2;3;1;3;40
+Barisal;15;61505005;10401505005;Hazrat Kalu Shah Road Poschim;Molla Bari;15;75;50;3;1;4;1;4;2;1;3;3;4;2;3;2;3;1;3;40
+Barisal;15;61505002;10401505002;Hazrat Kalu Shah Road Poschim;Kobiraj Bari Uttor Pash;9;45;35;2;1;4;3;3;3;2;3;3;4;3;4;2;3;1;3;44
+Barisal;15;61505001;10401505001;Hazrat Kalu Shah Road Poschim;Koberaj Bari;12;60;70;1;1;4;2;3;2;1;3;3;3;2;3;2;2;1;3;36
+Barisal;15;61505003;10401505003;Hazrat Kalu Shah Road Poschim;Kobiraj Bari Dokkhin Pash;8;40;35;2;1;3;2;2;2;1;3;3;4;2;2;2;3;1;3;36
+Barisal;15;61505004;10401505004;Hazrat Kalu Shah Road Poschim;Kaji School Ar Pichone;13;65;17;2;1;3;2;4;3;1;4;2;3;2;2;2;2;1;3;37
+Barisal;15;61506006;10401506006;Hazrat Kalu Shah Road Purbo;Madrasha Ar Pichine;7;35;7;2;1;4;1;2;3;1;3;3;4;2;2;2;2;3;3;38
+Barisal;15;61506004;10401506004;Hazrat Kalu Shah Road Purbo;Alenkanda School Ar Pichone;12;60;27;3;1;4;2;3;3;3;3;3;4;2;2;3;3;1;3;43
+Barisal;15;61506001;10401506001;Hazrat Kalu Shah Road Purbo;Shetu Manjel;14;50;60;2;1;4;2;4;3;1;4;3;4;3;4;2;4;4;4;49
+Barisal;15;61506002;10401506002;Hazrat Kalu Shah Road Purbo;Chowdory Quatej;7;35;45;2;1;4;2;3;3;1;3;4;3;3;4;3;4;4;4;48
+Barisal;15;61506005;10401506005;Hazrat Kalu Shah Road Purbo;Kalam Hereyer Bashar Pichone;10;50;13;2;1;4;2;3;2;2;3;3;4;3;3;2;2;1;1;38
+Barisal;15;61506003;10401506003;Hazrat Kalu Shah Road Purbo;Alek School Ar Dane;5;25;5;3;1;4;3;2;2;1;3;4;4;2;3;2;2;1;1;38
+Barisal;15;61507001;10401507001;Polytecnic Road;Alekanda Sekdar Bari;35;175;40;2;1;4;2;2;3;1;4;3;4;2;3;2;3;1;3;40
+Barisal;15;61507002;10401507002;Polytecnic Road;Babu Miyar Bari;15;75;35;3;3;4;2;3;2;2;4;3;4;3;4;2;4;4;4;51
+Barisal;15;61507003;10401507003;Polytecnic Road;Josef Odekary Bari;15;75;70;3;3;4;3;3;3;1;4;3;4;2;4;2;4;4;4;51
+Barisal;15;61507004;10401507004;Polytecnic Road;Faruk Alom Majumder Bari;20;100;25;2;1;4;2;3;3;1;3;3;4;2;4;4;4;4;4;48
+Barisal;15;61508001;10401508001;Amir Kutir;Amer Quter Horejan Colony;95;475;90;1;1;3;1;2;2;2;3;3;4;2;4;2;3;3;1;37
+Barisal;15;61508002;10401508002;Amir Kutir;Kola Bagan;65;325;80;2;1;3;2;2;3;2;3;3;4;2;4;3;4;4;4;46
+Barisal;15;61508003;10401508003;Amir Kutir;Bir Muntejodda Moheuddain Sarak;115;575;90;2;1;4;2;4;3;3;3;3;4;2;4;2;4;1;3;45
+Barisal;15;61508005;10401508005;Amir Kutir;Mer Bari;65;325;80;2;1;4;2;4;3;3;4;3;4;2;4;2;4;4;4;50
+Barisal;15;61508004;10401508004;Amir Kutir;Pole Tacknecal Road Primary School;35;175;60;2;1;4;2;3;3;1;4;3;4;2;4;2;4;4;4;47
+Barisal;15;61508007;10401508007;Amir Kutir;Mehraj Manjel;55;275;50;2;1;4;2;4;3;1;3;3;4;2;4;2;4;4;4;47
+Barisal;15;61508006;10401508006;Amir Kutir;Nerala Complex;50;250;50;4;4;4;2;4;3;3;4;3;4;2;4;2;4;4;4;55
+Barisal;17;61701001;10401701001;Fokir Bari Bari - Sadar Road;Sodor Bari;22;110;70;2;1;4;1;1;1;4;3;4;4;3;3;1;4;4;4;44
+Barisal;17;61701005;10401701005;Fokir Bari Bari - Sadar Road;Janean Preser Utor Pashe;12;60;70;1;3;4;1;1;2;4;3;3;2;3;2;3;4;4;4;44
+Barisal;17;61701003;10401701003;Fokir Bari Bari - Sadar Road;Dahler Bari;15;75;25;2;1;4;1;1;2;4;3;3;1;3;1;2;4;1;2;35
+Barisal;17;61701002;10401701002;Fokir Bari Bari - Sadar Road;Babur Pukur Ar Purbo Pashe;17;85;40;3;1;4;1;1;2;4;4;3;2;4;1;1;4;1;2;38
+Barisal;17;61702005;10401702005;Anamilen Kali Bari - Rakhal Bari;Sodor Road, City College Ar Pichone;20;100;30;1;1;4;1;1;3;2;3;3;4;4;1;3;4;4;4;43
+Barisal;17;61702004;10401702004;Anamilen Kali Bari - Rakhal Bari;Fokir Bari Road Matry Chaya Kanon School Ar Pichone;8;40;5;1;1;4;1;1;3;1;3;2;4;3;4;3;4;4;4;43
+Barisal;17;61702003;10401702003;Anamilen Kali Bari - Rakhal Bari;Fokir Bari Road Rakhan Babu Sarak, Rakhan Babu Pikurer Poschim Pashe;7;35;50;1;1;4;1;1;3;1;2;2;4;2;4;2;4;4;4;40
+Barisal;17;61702002;10401702002;Anamilen Kali Bari - Rakhal Bari;Fokir Bari Road, Rakhan Babu Sarak Comisonar Ar Barir Uttor Pashe;15;75;70;1;1;4;1;1;1;4;4;3;2;2;1;1;4;1;2;33
+Barisal;17;61702001;10401702001;Anamilen Kali Bari - Rakhal Bari;Kali Road Rakhal Babu Sarak;15;75;70;1;1;4;1;1;1;4;3;3;2;3;1;1;4;1;2;33
+Barisal;17;61702007;10401702007;Anamilen Kali Bari - Rakhal Bari;Kali Bari Road, Udayane Kaber Bepored Pashe;7;35;80;2;1;4;1;1;3;1;3;2;4;3;3;4;4;4;4;44
+Barisal;17;61702006;10401702006;Anamilen Kali Bari - Rakhal Bari;Kali Bari Road, Kali Monderer Bepored Pashe;10;50;120;1;1;4;1;4;3;1;3;2;4;2;3;2;4;4;4;43
+Barisal;17;61703001;10401703001;Agorpur Len Batar Goli - dokkhinanchal Goli;Dokhin Onchol Goli;5;30;40;3;3;4;2;2;1;4;3;2;3;4;4;2;4;4;4;49
+Barisal;17;61703002;10401703002;Agorpur Len Batar Goli - dokkhinanchal Goli;Dokkhin Onchol Goli, Daigonestick Ar Uttor Pashe;15;90;60;2;1;4;1;1;1;3;3;1;1;3;1;1;4;1;2;30
+Barisal;17;61703007;10401703007;Agorpur Len Batar Goli - dokkhinanchal Goli;Alomger Miyar Bari;5;30;40;2;1;4;1;2;2;4;4;3;3;3;2;1;4;4;2;42
+Barisal;17;61703008;10401703008;Agorpur Len Batar Goli - dokkhinanchal Goli;Gaji Bari;5;30;60;2;3;4;1;3;3;4;4;3;3;3;1;3;4;1;2;44
+Barisal;17;61703005;10401703005;Agorpur Len Batar Goli - dokkhinanchal Goli;Sohel Mansion Ar Pichone;6;40;20;2;1;4;1;1;2;1;4;3;3;3;3;4;4;4;4;44
+Barisal;17;61703006;10401703006;Agorpur Len Batar Goli - dokkhinanchal Goli;Agorpur Log, Nehal Miyar Bari;7;50;40;2;1;3;2;2;2;3;4;2;3;3;3;3;4;4;2;43
+Barisal;17;61703004;10401703004;Agorpur Len Batar Goli - dokkhinanchal Goli;Dotto Vobon Pelender Bari;13;75;40;2;1;4;1;1;1;1;4;3;3;3;2;1;4;1;2;34
+Barisal;17;61703003;10401703003;Agorpur Len Batar Goli - dokkhinanchal Goli;Agorpur Road, S Club Ar Uttor Pashe;40;300;60;1;1;4;1;1;3;4;4;2;4;4;4;3;4;4;4;48
+Barisal;17;61703009;10401703009;Agorpur Len Batar Goli - dokkhinanchal Goli;Taltola Kali Monder;5;25;75;2;3;4;2;1;2;2;4;3;2;3;2;2;4;4;2;42
+Barisal;17;61704003;10401704003;Bogra Road - Uttor Alekanda - Peshkar Bari;Muonu Miyar Bari;13;65;15;1;1;4;1;1;1;2;3;3;2;3;4;3;4;4;4;41
+Barisal;17;61704002;10401704002;Bogra Road - Uttor Alekanda - Peshkar Bari;Rabeya Vela;5;26;20;2;1;4;3;1;2;3;4;3;2;3;1;2;4;1;2;38
+Barisal;17;61704001;10401704001;Bogra Road - Uttor Alekanda - Peshkar Bari;Sufeya Manjel;5;25;25;2;1;4;1;2;1;4;2;2;2;4;2;1;4;1;2;35
+Barisal;17;61704004;10401704004;Bogra Road - Uttor Alekanda - Peshkar Bari;Lokas Compount, Bemagarer Dokkhin Pashe;5;50;50;1;1;4;1;1;2;2;4;3;4;3;2;1;4;1;2;36
+Barisal;17;61704007;10401704007;Bogra Road - Uttor Alekanda - Peshkar Bari;Sonaly Bank Ar Poschim Pashe;5;40;20;2;3;4;1;4;1;4;2;4;4;3;1;2;4;1;2;42
+Barisal;17;61704006;10401704006;Bogra Road - Uttor Alekanda - Peshkar Bari;4s Tawer Ar Uttor Pashe;6;30;40;1;2;4;1;4;1;4;1;4;1;3;1;1;4;1;2;35
+Barisal;17;61704008;10401704008;Bogra Road - Uttor Alekanda - Peshkar Bari;Raju Vaiyer Bari;9;60;30;1;1;4;4;4;1;4;2;3;4;1;3;1;4;1;2;40
+Barisal;17;61705001;10401705001;Bogra Road - Opsonin - Esshor Bosu Road - Sadar Road;Peshkar Bari Tahmen Vilar Pashe;9;45;35;1;1;4;1;3;3;4;4;4;3;4;3;3;4;4;4;50
+Barisal;17;61705004;10401705004;Bogra Road - Opsonin - Esshor Bosu Road - Sadar Road;Edin Clinik Ar Bepored Pashe;5;30;40;1;4;4;4;4;1;4;3;3;1;3;1;1;4;1;2;41
+Barisal;17;61705005;10401705005;Bogra Road - Opsonin - Esshor Bosu Road - Sadar Road;Delbag Ar Pashe;15;75;40;1;1;4;1;4;2;4;3;3;4;1;4;3;4;1;2;42
+Barisal;17;61705002;10401705002;Bogra Road - Opsonin - Esshor Bosu Road - Sadar Road;Peshkar Bari Sifa Beparir Colony;8;40;80;1;1;4;4;3;1;1;4;2;2;4;1;1;4;1;2;36
+Barisal;17;61705003;10401705003;Bogra Road - Opsonin - Esshor Bosu Road - Sadar Road;Bangladesh Bank Ar Uttor Pashe;6;30;66;1;1;4;4;4;4;4;3;4;4;3;1;1;4;1;2;45
+Barisal;17;61706001;10401706001;Uttor Alekanda - Dilbag - Dinbondhu - Peshkar Bari;Delbag Voboner Bepored Pashe;11;55;40;3;1;4;2;3;2;4;4;4;4;4;4;4;4;4;4;55
+Barisal;17;61706002;10401706002;Uttor Alekanda - Dilbag - Dinbondhu - Peshkar Bari;Lamesa Voboner Pichone;8;40;35;3;1;4;2;3;3;4;4;4;4;4;4;4;4;4;4;56
+Barisal;17;61707001;10401707001;Mollik Road - Bogra Road - Fokir Bari;Saud Bangol Clinik Ar Pashe;10;50;15;2;4;4;1;1;2;3;4;3;2;3;2;4;4;4;4;47
+Barisal;17;61707002;10401707002;Mollik Road - Bogra Road - Fokir Bari;Sri Sri Gore Math Ar Vetore;11;55;50;2;1;4;2;1;1;4;3;1;1;4;1;1;4;1;2;33
+Barisal;17;61707004;10401707004;Mollik Road - Bogra Road - Fokir Bari;Mohela College Ar Dokkhin Pashe;8;40;100;1;1;4;1;1;1;4;4;3;2;3;4;3;4;4;4;44
+Barisal;17;61707003;10401707003;Mollik Road - Bogra Road - Fokir Bari;Kobiraj Bari;9;45;15;2;1;4;1;3;1;1;4;3;2;4;1;1;4;1;2;35
+Barisal;17;61708004;10401708004;Fakir Bari Road - Mollik Road - Kali Bari Road;Fokir Bari Road, Masjeed Ar Pichone;20;100;100;1;1;4;4;1;2;1;3;3;4;3;3;2;4;1;2;39
+Barisal;17;61708003;10401708003;Fakir Bari Road - Mollik Road - Kali Bari Road;Mollik Road, Police Club Ar Purbo Pashe;20;100;80;2;1;4;1;2;3;4;3;4;4;3;1;1;4;1;2;40
+Barisal;17;61708005;10401708005;Fakir Bari Road - Mollik Road - Kali Bari Road;Fokir Bari Club Ar Lili Velar Poschim Pashe;15;75;50;1;1;4;1;4;2;4;2;3;4;3;4;1;4;4;4;46
+Barisal;17;61708006;10401708006;Fakir Bari Road - Mollik Road - Kali Bari Road;Kaji Monjeler Poschim Pashe;25;125;20;1;1;4;4;4;3;4;3;4;4;3;4;4;4;1;2;50
+Barisal;17;61708002;10401708002;Fakir Bari Road - Mollik Road - Kali Bari Road;Sorkary Primary Bedaloy Ar Beppored Pashe;12;60;80;3;1;4;1;1;3;4;4;3;2;4;1;1;4;1;2;39
+Barisal;17;61708001;10401708001;Fakir Bari Road - Mollik Road - Kali Bari Road;Kali Bari Road Jogdate Mander Ar Poschim Pashe;7;35;50;1;1;4;1;1;1;4;4;4;4;4;1;1;4;1;2;38
+Barisal;3;60301001;10400301001;Uttor Motasar;Mohrap Har Bari;104;446;100;2;1;3;1;1;1;1;4;2;2;3;3;1;4;4;4;37
+Barisal;3;60301002;10400301002;Uttor Motasar;Habeb Har Bari;48;203;100;2;1;3;1;1;1;1;4;2;2;3;3;1;4;4;4;37
+Barisal;3;60301003;10400301003;Uttor Motasar;Arj Ali Ghoda;92;370;100;2;1;3;1;1;1;1;4;2;2;3;4;1;4;4;4;38
+Barisal;3;60301004;10400301004;Uttor Motasar;Hemahet Har Bari;55;185;100;2;1;3;1;1;2;1;4;2;2;3;4;2;4;4;4;40
+Barisal;3;60301007;10400301007;Uttor Motasar;Ranir Bari;110;405;100;2;1;3;1;1;1;1;4;2;2;2;4;1;4;4;4;37
+Barisal;3;60301008;10400301008;Uttor Motasar;Soref Bari;75;225;100;2;1;2;1;1;2;1;4;3;2;2;4;2;4;4;4;39
+Barisal;3;60301006;10400301006;Uttor Motasar;Dedar Bari;35;165;100;2;1;1;1;1;1;1;4;2;2;1;4;1;4;4;4;34
+Barisal;3;60301005;10400301005;Uttor Motasar;Samem Hawladarer Bari;195;780;100;2;1;1;1;1;1;1;4;1;2;2;4;1;4;4;4;34
+Barisal;3;60301009;10400301009;Uttor Motasar;Rofek Sekdar;76;310;100;2;1;2;1;1;2;1;4;2;2;2;4;2;4;4;4;38
+Barisal;3;60302002;10400302002;Poschim Motasar;Forkan Khan Bari;35;165;80;1;1;2;1;1;2;1;3;2;3;2;4;2;4;4;4;37
+Barisal;3;60303001;10400303001;Motasar Colony;Samsu Miyar Bari;98;405;40;1;1;1;1;1;1;1;4;4;2;4;4;1;4;4;4;38
+Barisal;3;60303002;10400303002;Motasar Colony;Kobir Har;75;269;40;1;1;1;1;1;1;1;4;1;2;3;1;4;4;4;4;34
+Barisal;3;60304001;10400304001;Puran Para;Meched Hak Bari;115;560;120;1;1;1;1;1;1;1;4;1;1;4;4;4;4;4;4;37
+Barisal;3;60304002;10400304002;Puran Para;Chokedar Bari;310;1535;140;2;1;4;1;1;1;1;4;1;2;4;4;4;4;4;4;42
+Barisal;3;60304003;10400304003;Puran Para;Khan Bari;180;720;125;2;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;43
+Barisal;3;60304007;10400304007;Puran Para;Mir Bari;150;580;180;2;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;43
+Barisal;3;60304004;10400304004;Puran Para;Wayes Munse Bari;225;880;140;1;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;42
+Barisal;3;60304006;10400304006;Puran Para;Loskor Bari;120;475;180;1;1;4;1;1;1;1;3;3;2;4;4;4;4;4;4;42
+Barisal;3;60304005;10400304005;Puran Para;Mollik Bari;80;282;110;2;1;4;1;1;1;1;4;4;3;4;4;4;4;4;4;46
+Barisal;3;60305001;10400305001;Moddho Puran Para;Mudha Bari;250;950;150;2;1;4;1;1;1;1;4;1;2;3;4;4;4;4;4;41
+Barisal;3;60305002;10400305002;Moddho Puran Para;Jahanger Membat Bari;150;590;200;1;1;4;1;1;1;1;4;1;1;3;4;4;1;4;4;36
+Barisal;3;60305003;10400305003;Moddho Puran Para;Goni Hak Bari;120;470;150;2;1;4;1;1;1;1;4;1;2;3;4;4;4;4;4;41
+Barisal;3;60305004;10400305004;Moddho Puran Para;Canna Khai Bari;30;115;150;2;1;4;1;1;3;3;4;3;4;2;4;1;4;4;4;45
+Barisal;3;60305005;10400305005;Moddho Puran Para;Kudu Membarer Bari;150;590;120;2;1;4;1;1;1;4;4;3;4;2;4;1;4;4;4;44
+Barisal;3;60305006;10400305006;Moddho Puran Para;Khala Khan Bari;205;845;150;2;1;4;1;1;1;4;4;3;3;3;4;1;4;4;4;44
+Barisal;3;60306001;10400306001;Hosnabad;Salem Miyar Bari;55;275;100;2;1;2;1;1;1;1;3;1;3;2;4;1;4;4;4;35
+Barisal;3;60306002;10400306002;Hosnabad;Moyla Khola;50;210;21;2;3;3;1;1;1;1;3;3;3;2;4;1;4;4;4;40
+Barisal;3;60306003;10400306003;Hosnabad;Mollik Bari;100;490;80;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Barisal;3;60306004;10400306004;Hosnabad;Kerani Bari;225;920;170;2;1;2;1;1;1;2;2;3;4;2;4;3;4;4;4;40
+Barisal;3;60306005;10400306005;Hosnabad;Malek Membarer Bari;20;120;50;1;1;2;1;1;1;1;2;3;3;1;2;2;4;4;4;33
+Barisal;3;60306006;10400306006;Hosnabad;Khan Bari;25;140;35;2;1;2;1;1;1;2;2;4;3;3;1;2;4;2;4;35
+Barisal;3;60306007;10400306007;Hosnabad;Kholil Der Bari;200;420;105;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;3;60306008;10400306008;Hosnabad;Alomger Miyar Bari;30;160;70;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;3;60307004;10400307004;Gauyarsar;Ali ajem khar bari;200;1020;40;2;1;4;1;4;1;4;4;1;2;4;4;4;4;4;4;48
+Barisal;3;60307005;10400307005;Gauyarsar;Talukdar Bari;250;950;200;2;1;4;1;2;1;4;4;1;1;4;4;4;4;4;4;45
+Barisal;3;60307003;10400307003;Gauyarsar;Shap maye3r Vbari;60;300;160;1;1;4;1;2;4;4;4;3;4;3;4;2;4;4;4;49
+Barisal;3;60307002;10400307002;Gauyarsar;Sofig uddi Hang;180;720;110;3;1;4;1;1;3;4;4;3;4;3;4;2;4;4;4;49
+Barisal;3;60307007;10400307007;Gauyarsar;Khalifa bari;250;1240;100;2;1;1;1;4;1;4;4;1;1;4;4;4;4;4;4;44
+Barisal;3;60307001;10400307001;Gauyarsar;Khan bari;150;750;105;2;1;4;1;1;1;1;3;3;4;3;4;2;4;4;3;41
+Barisal;3;60307006;10400307006;Gauyarsar;Mira bari;115;190;120;2;1;3;1;1;1;3;4;3;4;3;4;2;4;4;4;44
+Barisal;3;60307008;10400307008;Gauyarsar;Molla bari;200;1020;150;2;1;4;1;1;1;1;4;4;3;2;4;1;4;4;4;41
+Barisal;3;60307009;10400307009;Gauyarsar;chodon fakir bari;300;1500;200;2;1;4;1;1;1;4;3;1;3;3;4;2;4;4;4;42
+Barisal;3;60308002;10400308002;Vatikhana;Gazi bari;60;310;55;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Barisal;3;60308001;10400308001;Vatikhana;Shombik bari;250;1250;60;3;1;4;1;3;3;4;3;1;4;2;4;4;4;4;4;49
+Barisal;3;60309009;10400309009;Sordar Para;Armer bari;50;270;30;2;2;3;1;1;3;1;3;3;2;3;3;1;3;4;4;39
+Barisal;3;60309006;10400309006;Sordar Para;Babulder bari;75;370;240;1;1;3;1;1;3;1;4;3;3;3;3;3;2;4;4;40
+Barisal;3;60309005;10400309005;Sordar Para;Meher ali miyar bari;145;715;160;2;1;4;1;1;2;1;2;2;3;3;3;2;2;4;4;37
+Barisal;3;60309008;10400309008;Sordar Para;Munsur dokansder;40;250;150;2;2;3;1;1;3;1;2;3;2;2;3;2;4;4;4;39
+Barisal;3;60309007;10400309007;Sordar Para;Mashjid songlogno majher bari;150;1020;250;2;1;3;1;1;3;1;4;3;2;3;4;2;3;3;3;39
+Barisal;3;60309004;10400309004;Sordar Para;Khalel dokqander bari;200;1060;200;1;1;4;1;1;1;1;4;4;3;3;4;2;4;4;4;42
+Barisal;3;60309001;10400309001;Sordar Para;Rasta mor;75;198;30;1;1;2;2;2;2;3;3;2;3;2;4;2;4;4;4;41
+Barisal;3;60309002;10400309002;Sordar Para;Sajahan kontraktor bari;150;758;200;2;1;4;1;2;2;3;3;3;4;3;4;2;4;4;4;46
+Barisal;3;60309003;10400309003;Sordar Para;Fernichar bellaler bari;200;1020;40;1;1;4;1;1;1;1;4;2;3;2;4;1;4;4;4;38
+Barisal;3;60310008;10400310008;Purbo Puran Para;Malek hang bari;54;210;100;2;1;4;1;1;1;1;4;3;4;2;4;3;4;4;4;43
+Barisal;3;60310001;10400310001;Purbo Puran Para;Shukkur hang bari;115;460;130;2;1;4;1;1;1;1;2;3;3;1;4;1;4;4;4;37
+Barisal;3;60310002;10400310002;Purbo Puran Para;Rari bari;300;1500;250;1;1;2;1;1;1;2;3;3;3;1;4;1;4;4;4;36
+Barisal;3;60310003;10400310003;Purbo Puran Para;Choferuddiner bari;100;450;120;1;2;1;1;1;1;1;2;3;2;3;3;2;3;4;4;34
+Barisal;3;60310004;10400310004;Purbo Puran Para;Ansar mredha bari;75;525;200;2;1;2;1;1;3;1;4;1;1;3;3;2;2;4;4;35
+Barisal;3;60310005;10400310005;Purbo Puran Para;Munsi bari;100;500;150;2;2;2;1;1;2;1;2;2;2;3;3;2;2;4;4;35
+Barisal;3;60310007;10400310007;Purbo Puran Para;Hang bari;75;305;90;1;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;37
+Barisal;3;60310006;10400310006;Purbo Puran Para;Saalem sikdar bari;150;750;140;2;1;3;1;1;4;1;3;2;3;3;4;4;4;4;4;44
+Barisal;3;60310009;10400310009;Purbo Puran Para;Bor sereniabad collager pichone;30;150;25;2;1;4;1;1;2;1;4;4;4;2;4;3;4;4;4;45
+Barisal;1;60101001;10400101001;Sordar Sarak;Hawladar Bari;150;750;100;1;1;4;1;2;2;1;3;3;3;2;4;1;4;4;4;40
+Barisal;1;60101002;10400101002;Sordar Sarak;Jahanger Bari;40;200;20;1;1;3;2;2;2;1;3;4;4;1;4;1;4;4;1;38
+Barisal;1;60101003;10400101003;Sordar Sarak;Akon Bari;270;1000;100;1;1;2;1;1;2;1;3;4;4;2;4;1;4;4;4;39
+Barisal;1;60101004;10400101004;Sordar Sarak;Sekandar Hawlader Bari;60;300;100;1;1;2;1;2;3;1;3;4;4;1;4;1;4;4;4;40
+Barisal;1;60101005;10400101005;Sordar Sarak;Sahjahan Sordarer Bari;30;150;100;1;1;2;1;3;2;1;3;4;4;2;4;1;4;4;4;41
+Barisal;1;60101006;10400101006;Sordar Sarak;Altaf sordarer Bari;60;300;100;1;1;2;1;2;2;1;3;4;4;1;4;1;4;4;4;39
+Barisal;1;60101007;10400101007;Sordar Sarak;Bir Muktejodda Sajahan Sordarer Bari;80;400;100;1;1;4;1;2;3;1;3;4;4;1;4;1;4;4;4;42
+Barisal;1;60101008;10400101008;Sordar Sarak;Dr. Bari;15;75;30;1;1;4;1;2;3;1;3;4;4;1;4;3;4;4;2;42
+Barisal;1;60101009;10400101009;Sordar Sarak;Jomedar Bari;100;500;70;1;1;4;1;1;2;1;3;4;4;1;4;4;4;4;2;41
+Barisal;1;60102001;10400102001;Uttor Kawniya Khan Bari;Durga Bari;8;40;200;4;3;4;1;4;4;1;4;4;1;2;4;4;2;4;4;50
+Barisal;1;60102008;10400102008;Uttor Kawniya Khan Bari;Hawladar Bari;45;225;100;1;1;4;1;2;3;3;3;1;3;1;4;2;4;4;2;39
+Barisal;1;60102007;10400102007;Uttor Kawniya Khan Bari;Moina Moteder Bari;165;825;70;1;1;4;1;3;3;1;3;4;4;1;4;2;4;4;2;42
+Barisal;1;60102002;10400102002;Uttor Kawniya Khan Bari;Sordar Bari;35;175;150;4;1;4;1;1;3;4;3;4;3;1;4;4;4;4;2;47
+Barisal;1;60102006;10400102006;Uttor Kawniya Khan Bari;Khan Bari;140;700;250;1;1;4;1;3;2;3;3;1;3;1;4;1;4;4;3;39
+Barisal;1;60102009;10400102009;Uttor Kawniya Khan Bari;Kanchon Hawlader Bari;60;300;200;1;1;2;1;3;3;1;3;4;4;1;3;1;4;4;2;38
+Barisal;1;60102010;10400102010;Uttor Kawniya Khan Bari;Khan Bari;100;500;200;1;1;4;1;1;3;3;3;4;3;1;3;1;3;4;2;38
+Barisal;1;60102005;10400102005;Uttor Kawniya Khan Bari;Gaji Bari;18;90;70;1;1;4;1;2;3;1;3;4;4;1;4;4;4;4;2;43
+Barisal;1;60102004;10400102004;Uttor Kawniya Khan Bari;Chokedar Bari;170;850;200;1;1;4;1;3;3;3;3;1;3;1;4;2;4;4;2;40
+Barisal;1;60102003;10400102003;Uttor Kawniya Khan Bari;Basu Miyar Bari;35;175;150;1;1;4;1;2;2;2;4;4;3;1;4;1;4;1;3;38
+Barisal;1;60103001;10400103001;Bisikkhalpar;Khalpar;26;130;20;1;1;3;1;1;2;1;3;1;3;1;1;1;1;2;1;24
+Barisal;1;60103002;10400103002;Bisikkhalpar;Khal Par 2;60;300;20;1;1;2;1;1;2;1;3;4;4;1;1;1;1;4;1;29
+Barisal;1;60103003;10400103003;Bisikkhalpar;Khal Par 3;22;110;20;1;1;2;1;1;3;2;1;4;4;1;1;1;1;2;1;27
+Barisal;1;60103004;10400103004;Bisikkhalpar;Khal Par 4;60;150;20;1;1;4;1;1;3;1;3;4;4;1;1;1;1;2;1;30
+Barisal;1;60104001;10400104001;Bisik Road Mirabari;Dr. Bari;20;100;40;1;1;2;1;2;2;1;3;4;4;1;4;1;4;4;4;39
+Barisal;1;60104002;10400104002;Bisik Road Mirabari;Mir Bari;150;750;200;1;1;2;1;2;2;1;3;4;4;1;4;1;4;4;4;39
+Barisal;1;60104003;10400104003;Bisik Road Mirabari;MuDha Bari;15;75;40;1;2;3;1;2;2;3;3;2;4;1;4;1;4;4;2;39
+Barisal;1;60104004;10400104004;Bisik Road Mirabari;Vhom Bari;36;180;100;1;1;2;1;1;1;1;3;4;4;1;1;1;1;3;1;27
+Barisal;1;60105001;10400105001;Hajera Khatun School;Khorseder Bari;22;150;90;1;1;4;3;1;2;2;3;1;1;1;3;3;4;2;4;36
+Barisal;1;60105002;10400105002;Hajera Khatun School;Arif Khan;25;100;90;2;2;4;2;1;1;2;3;2;3;1;2;1;3;2;4;35
+Barisal;1;60105003;10400105003;Hajera Khatun School;Litu Miyar Bari;23;250;90;1;1;3;2;2;1;2;1;2;2;1;3;1;2;2;4;30
+Barisal;1;60105004;10400105004;Hajera Khatun School;Monu Delarer Bari;30;150;90;1;1;2;2;1;1;2;2;1;2;1;3;2;4;2;4;31
+Barisal;1;60105005;10400105005;Hajera Khatun School;Rob Miyar Bari;26;130;80;2;3;4;2;2;2;2;2;1;2;1;3;1;3;2;3;35
+Barisal;1;60105006;10400105006;Hajera Khatun School;Harun Vaiyer Bari;75;350;50;2;1;2;1;3;2;2;1;1;2;1;3;3;3;2;4;33
+Barisal;1;60105007;10400105007;Hajera Khatun School;Soide Masjeed Sarak;25;125;60;1;1;2;1;2;2;2;3;1;2;2;2;1;3;2;4;31
+Barisal;1;60105008;10400105008;Hajera Khatun School;Sobuder Bari;25;150;70;3;2;2;2;2;2;2;2;1;3;2;4;1;1;4;4;37
+Barisal;1;60105009;10400105009;Hajera Khatun School;Babul Hawladar;30;150;90;1;2;2;2;2;2;2;2;2;3;1;2;1;3;4;4;35
+Barisal;1;60106007;10400106007;Shadur Battala;Mosharof Miyar Bari;10;50;50;2;1;3;1;1;1;2;2;1;1;1;4;1;4;4;4;33
+Barisal;1;60106006;10400106006;Shadur Battala;Contractar Ar Bari;28;260;100;2;2;3;1;2;2;4;3;2;2;1;2;3;4;3;4;40
+Barisal;1;60106005;10400106005;Shadur Battala;Mahatab Sekdar;23;150;90;4;4;4;4;1;1;4;4;2;2;1;3;2;4;2;4;46
+Barisal;1;60106003;10400106003;Shadur Battala;Salem Ar Bari;9;60;90;2;2;2;2;1;1;2;2;2;3;3;3;1;3;3;4;36
+Barisal;1;60106004;10400106004;Shadur Battala;Seberder Bari;7;30;90;1;2;2;2;1;2;4;3;2;3;2;3;1;4;2;4;38
+Barisal;1;60106002;10400106002;Shadur Battala;Nejam Mollar Bari;107;500;100;3;1;3;1;2;3;4;3;2;2;2;4;3;4;4;4;45
+Barisal;1;60106001;10400106001;Shadur Battala;Soiyab Der Bari;54;275;100;3;1;3;1;3;1;4;2;2;2;1;3;2;3;3;4;38
+Barisal;1;60107001;10400107001;Howladar Sarak;Badon Molla;50;250;90;1;1;2;1;2;2;3;3;2;3;1;4;1;4;4;4;38
+Barisal;1;60107002;10400107002;Howladar Sarak;Bojlu Miyar Bari;20;150;50;1;1;3;1;1;2;2;1;2;2;1;4;1;4;4;4;34
+Barisal;1;60107003;10400107003;Howladar Sarak;Halemar Bari;40;275;90;2;1;2;1;1;2;3;3;1;2;1;4;1;4;3;3;34
+Barisal;1;60107006;10400107006;Howladar Sarak;Noya Miyar Bari;25;150;50;1;1;2;1;1;1;2;2;2;3;1;2;1;2;3;3;28
+Barisal;1;60107005;10400107005;Howladar Sarak;Kalu Miyar Bari;24;120;40;1;1;2;1;1;2;2;3;2;2;1;3;1;3;3;3;31
+Barisal;1;60107004;10400107004;Howladar Sarak;Kobirer Bari;30;150;100;1;1;3;1;1;2;2;2;2;2;1;3;4;4;3;3;35
+Barisal;1;60107007;10400107007;Howladar Sarak;Dulal Miyar Bari;29;150;40;1;1;2;1;1;1;3;2;1;2;1;4;1;4;3;3;31
+Barisal;1;60107008;10400107008;Howladar Sarak;Riyaj;48;250;50;1;1;2;1;1;2;2;2;1;2;1;3;1;3;3;3;29
+Barisal;1;60107009;10400107009;Howladar Sarak;Foker Bari;27;150;60;1;1;2;1;2;1;4;2;1;2;1;4;1;4;1;1;29
+Barisal;1;60108001;10400108001;Lakutia;Jel Bagan;15;150;100;1;1;2;1;2;2;2;2;2;3;1;2;1;3;2;3;30
+Barisal;1;60108002;10400108002;Lakutia;Mudha Bari;25;90;80;1;1;2;1;1;1;1;2;1;3;1;3;1;3;4;4;30
+Barisal;1;60108003;10400108003;Lakutia;Sentuder Bari;30;120;50;2;1;1;1;1;1;1;3;1;2;1;1;1;2;4;4;27
+Barisal;1;60108005;10400108005;Lakutia;Satheder Bari;40;200;100;1;1;1;1;1;1;2;2;1;3;1;1;1;4;4;4;29
+Barisal;1;60108006;10400108006;Lakutia;Membarer Bari;35;180;50;2;1;2;1;1;1;1;2;1;1;1;1;1;2;2;4;24
+Barisal;1;60108004;10400108004;Lakutia;Talukdar Bari;50;250;50;1;1;1;1;1;2;1;2;1;3;1;1;1;3;4;4;28
+Barisal;1;60108007;10400108007;Lakutia;Odokho Usuf Khan Sarak;60;300;70;1;1;1;1;1;1;2;2;1;3;1;1;1;3;2;3;25
+Barisal;1;60108008;10400108008;Lakutia;Amir Khan Ar Bari;26;125;90;1;1;2;1;1;2;2;2;2;2;1;3;1;3;3;3;30
+Barisal;1;60108009;10400108009;Lakutia;Rojider Bari;50;250;100;1;1;2;1;1;1;2;2;1;1;1;2;1;3;3;3;26
+Barisal;1;60108010;10400108010;Lakutia;Anoyar Khan Bari;59;300;90;1;1;1;1;1;2;2;2;2;2;1;1;1;3;4;4;29
+Barisal;1;60108011;10400108011;Lakutia;Sattar Kosay Ar Bari;50;250;50;1;1;2;1;1;2;3;2;1;1;1;3;1;3;4;4;31
+Barisal;8;60801003;10400801003;Charge Ward;Sri Sri Sone Deber Mander;15;75;50;2;1;3;1;1;2;1;2;2;2;3;2;4;4;4;4;38
+Barisal;8;60801001;10400801001;Charge Ward;Karagarer Purbo - Dokkhn Pash;35;175;5;1;1;4;1;1;1;4;4;2;4;4;4;3;4;2;3;43
+Barisal;8;60801002;10400801002;Charge Ward;Karagar Ar Dokkhin Pashe;30;150;5;1;1;4;1;1;2;4;4;4;4;4;3;2;4;2;3;44
+Barisal;8;60802002;10400802002;Charge Ward;Karagar Ar Vetore Purbo Pash;15;75;5;1;1;4;1;2;1;4;4;2;4;4;4;3;4;2;3;44
+Barisal;8;60802001;10400802001;Charge Ward;Karadanda Alaka Uttor Pashe;30;150;5;1;1;4;1;2;1;4;4;2;4;4;1;1;4;2;3;39
+Barisal;8;60803007;10400803007;Bazar Road North;Shekh Bari;10;50;110;3;3;4;2;3;2;4;3;3;4;3;4;4;4;4;4;54
+Barisal;8;60803008;10400803008;Bazar Road North;Sekdar Bari;5;30;10;3;1;4;1;2;3;3;3;3;4;2;4;3;4;4;4;48
+Barisal;8;60803005;10400803005;Bazar Road North;Rohem Vela;6;30;60;2;1;4;1;2;3;2;2;3;3;2;4;3;4;4;4;44
+Barisal;8;60803003;10400803003;Bazar Road North;Sochendas Bari;10;50;110;2;1;4;1;1;3;2;3;3;3;3;4;3;4;4;4;45
+Barisal;8;60803006;10400803006;Bazar Road North;Sekdar Bari;14;55;70;2;1;4;1;1;2;1;2;2;3;3;4;2;4;4;4;40
+Barisal;8;60803004;10400803004;Bazar Road North;Mobarok Miyar Bari;10;25;110;2;1;4;1;2;2;3;2;3;3;3;3;3;4;4;4;44
+Barisal;8;60803002;10400803002;Bazar Road North;Raja Miya;22;110;110;4;1;4;1;2;1;3;3;3;2;3;1;2;4;1;2;37
+Barisal;8;60803001;10400803001;Bazar Road North;Baitul Salam Masjeed Ar Purbo Pashe;15;75;100;1;1;4;1;2;2;1;3;3;2;2;1;3;4;1;2;33
+Barisal;8;60804001;10400804001;Bazar Road South;Muhammad Mantion Uttor Pashe;6;30;70;4;4;4;2;4;1;1;3;4;4;4;4;4;4;4;4;55
+Barisal;8;60805002;10400805002;Doptor Khana;Selim Comisonar At Barir Pichone;15;75;35;2;3;4;1;2;4;1;4;4;4;3;4;4;4;4;4;52
+Barisal;8;60805001;10400805001;Doptor Khana;Selim Comisonar Ar Goli;25;125;25;2;3;4;4;1;4;4;4;4;4;4;1;3;4;1;2;49
+Barisal;8;60805005;10400805005;Doptor Khana;Mudha Bari;20;100;20;1;1;3;1;1;1;1;1;4;3;4;4;2;4;4;4;39
+Barisal;8;60805004;10400805004;Doptor Khana;Cristin Bari;5;25;15;1;1;3;1;1;1;1;4;4;2;4;4;1;4;4;4;40
+Barisal;8;60805003;10400805003;Doptor Khana;Soiyod Manjel;5;25;5;1;1;3;1;1;1;1;3;4;2;4;4;1;4;4;4;39
+Barisal;8;60805006;10400805006;Doptor Khana;Anemesh Gosh Bari;30;150;20;1;1;3;1;1;1;3;2;4;2;4;4;4;4;4;4;43
+Barisal;8;60806002;10400806002;Shaw Road;Rajjak Cheyar Man Ar Bari;5;25;12;2;1;4;4;1;1;1;4;1;2;4;4;2;4;1;2;38
+Barisal;8;60806001;10400806001;Shaw Road;Malek Hajir Bari;8;40;30;4;1;4;4;4;4;1;4;2;4;4;3;2;4;1;2;48
+Barisal;8;60806003;10400806003;Shaw Road;Taher Manjel;25;125;25;1;1;3;1;1;1;2;3;4;3;4;4;2;4;4;4;42
+Barisal;8;60806004;10400806004;Shaw Road;Fojol Miyar Bari;6;30;10;1;1;3;1;2;2;3;3;4;3;4;4;3;4;4;4;46
+Barisal;6;60601002;10400601002;Kola Potty Colony;Kosai Khana;400;2000;40;2;1;2;1;1;2;1;2;2;2;1;1;1;4;2;3;28
+Barisal;6;60601001;10400601001;Kola Potty Colony;Kolapotti Colony;300;1500;40;2;1;2;1;1;1;2;2;2;2;1;1;1;4;4;4;31
+Barisal;6;60601003;10400601003;Kola Potty Colony;Selvar Potti;30;200;50;1;1;2;1;2;2;1;2;2;2;1;1;1;4;4;4;31
+Barisal;6;60602001;10400602001;Gagon Gali;Gogon Goli;50;250;50;2;1;2;1;3;2;3;2;2;2;1;1;1;4;4;4;35
+Barisal;6;60602006;10400602006;Gagon Gali;Alir Goli;300;1500;70;2;1;2;1;2;2;1;2;3;3;2;1;1;4;1;3;31
+Barisal;6;60602003;10400602003;Gagon Gali;School Goli;50;250;40;1;1;2;1;3;2;2;3;3;3;2;1;4;4;4;4;40
+Barisal;6;60602005;10400602005;Gagon Gali;Gosh Goli;50;250;70;2;1;2;1;1;2;1;2;3;4;2;1;2;4;4;4;36
+Barisal;6;60602004;10400602004;Gagon Gali;Gogon Goli Bazzar;400;2000;100;2;1;2;1;1;1;2;2;2;2;2;1;2;4;4;4;33
+Barisal;6;60602002;10400602002;Gagon Gali;Madbor Goli;50;250;50;3;1;3;1;2;2;3;2;2;2;1;1;2;4;4;4;37
+Barisal;6;60603004;10400603004;Hat Khola;Hari Monder Ar Pichone;20;100;40;2;1;4;3;4;3;1;3;3;4;2;4;2;4;4;4;48
+Barisal;6;60603003;10400603003;Hat Khola;Kader Miyar Bari;80;400;40;2;1;4;1;2;2;1;3;3;4;2;4;2;4;4;4;43
+Barisal;6;60603002;10400603002;Hat Khola;Gopal Das Doftor Khana;50;300;40;2;1;2;1;3;2;1;3;3;4;2;4;2;4;4;4;42
+Barisal;6;60603001;10400603001;Hat Khola;M.A.P Goli;350;1750;50;1;1;2;2;3;3;2;2;2;3;1;1;2;4;2;2;33
+Barisal;6;60604002;10400604002;Shishu Park Colony;Chormonai Tolar Ghat;105;525;40;1;1;2;1;1;1;1;2;3;2;1;2;1;4;2;1;26
+Barisal;6;60604001;10400604001;Shishu Park Colony;Sishu Park Colony;450;2250;40;1;1;2;1;1;1;1;2;1;2;1;1;1;4;2;1;23
+Barisal;6;60604003;10400604003;Shishu Park Colony;Harks Market;102;520;35;2;1;4;2;3;2;1;4;4;4;2;4;3;4;4;4;48
+Barisal;6;60604004;10400604004;Shishu Park Colony;New Sodor Ghat Purbo Pash;50;250;30;2;1;4;1;2;3;1;3;3;4;2;4;1;4;4;4;43
+Barisal;6;60605001;10400605001;Amanatganj;Sadesh Ali Man;200;1000;100;1;1;2;2;1;1;1;2;1;3;2;1;1;4;2;3;28
+Barisal;6;60605002;10400605002;Amanatganj;Daroga Bari;100;500;60;2;1;2;1;2;2;1;2;1;2;1;1;1;4;4;4;31
+Barisal;6;60605003;10400605003;Amanatganj;Beltola Bazzar;400;2000;80;1;1;2;1;1;2;2;2;2;2;1;1;1;4;4;4;31
+Barisal;6;60605004;10400605004;Amanatganj;Anatullar School Sarak;300;1500;80;2;1;4;2;2;2;1;3;3;4;2;3;1;3;1;3;37
+Barisal;6;60606008;10400606008;Uttar Amanatganj;Murar Bari;20;100;90;4;1;4;1;3;4;1;4;3;4;2;4;3;4;4;4;50
+Barisal;6;60606007;10400606007;Uttar Amanatganj;Shekdar Para;40;200;90;1;1;4;1;1;3;1;4;3;2;3;4;1;4;4;4;41
+Barisal;6;60606006;10400606006;Uttar Amanatganj;BB AD College;60;300;100;2;1;4;1;1;2;2;4;4;2;3;4;4;4;4;4;46
+Barisal;6;60606005;10400606005;Uttar Amanatganj;Noya Bari;40;200;120;3;1;4;1;1;4;4;4;4;2;3;4;1;4;4;4;48
+Barisal;6;60606004;10400606004;Uttar Amanatganj;Mulshe Pres Ar Uttor Pash;40;200;230;2;1;4;2;3;2;1;3;3;3;2;3;2;2;1;3;37
+Barisal;6;60606003;10400606003;Uttar Amanatganj;Contracter Bari;60;300;120;1;1;2;1;1;2;2;4;3;4;2;4;1;4;1;3;36
+Barisal;6;60606002;10400606002;Uttar Amanatganj;Somser Ali Sekdar;50;250;120;2;1;4;2;2;2;1;4;2;1;2;4;1;4;4;3;39
+Barisal;6;60606001;10400606001;Uttar Amanatganj;Beltola Bazar Poltuder Bari;60;300;60;2;1;2;1;1;2;1;3;2;3;2;4;1;4;4;4;37
+Barisal;5;60501001;10400501001;1 No Gusshogram Nurnagor Mahalla;1 No. Road;115;460;34;1;1;4;1;4;2;1;2;3;2;3;1;1;4;1;2;33
+Barisal;5;60501002;10400501002;1 No Gusshogram Nurnagor Mahalla;2 No. Road;285;1140;34;4;3;3;1;1;2;2;2;3;3;1;4;3;4;4;4;44
+Barisal;5;60502001;10400502001;2 No Gusshogram  Mahalla;2 No. Road;219;1222;33;1;1;4;1;2;3;4;4;3;4;3;4;1;4;4;4;47
+Barisal;5;60502002;10400502002;2 No Gusshogram  Mahalla;Islam Nagar;110;550;33;1;1;4;3;3;1;4;3;1;4;4;4;1;4;4;2;44
+Barisal;5;60503001;10400503001;3 No Gusshogram  Mahalla;Jayapara Comisonar;730;3650;40;1;1;4;4;4;1;4;4;1;4;4;4;1;4;4;4;49
+Barisal;5;60504001;10400504001;4 No Gusshogram  Mahalla;Masjeed Goli;150;750;40;2;2;3;1;1;1;3;2;2;2;2;1;1;2;2;2;29
+Barisal;5;60504002;10400504002;4 No Gusshogram  Mahalla;Moyarar Bari;250;1200;40;4;1;4;1;1;4;4;3;4;4;4;4;4;4;4;3;53
+Barisal;5;60505001;10400505001;5 No Gusshogram  Mahalla;5 No. Gachu Gram;392;1568;33;4;2;4;3;2;4;1;4;3;4;3;4;2;4;1;2;47
+Barisal;5;60506002;10400506002;6 No Gusshogram  Mahalla;Nodir Poschim Par;150;750;40;2;1;4;2;1;2;1;4;3;4;3;4;2;4;4;4;45
+Barisal;5;60506001;10400506001;6 No Gusshogram  Mahalla;Masjeed Ar Dokkhin Pash;503;2515;40;2;2;4;3;2;4;1;4;3;4;3;2;2;3;1;3;43
+Barisal;5;60507001;10400507001;7 No Gusshogram  Uttar Mahalla;Puleshen Foram Theke Purbo;750;3750;32;1;1;2;1;1;2;4;3;3;3;3;3;1;3;4;4;39
+Barisal;5;60508001;10400508001;8 No Gusshogram  Dokshin Mahalla;Puleshen Foram Theke Dokkhin;729;3645;32;4;2;4;2;4;4;1;4;4;4;3;3;3;4;1;3;50
+Barisal;5;60509003;10400509003;Motinpur Mahalla;Khali Mather Pashe;102;459;35;2;3;4;1;1;1;1;4;3;3;4;3;1;3;1;2;37
+Barisal;5;60509001;10400509001;Motinpur Mahalla;Puleshen Foram Theke Paschim;250;1165;20;4;1;3;1;1;2;4;2;1;1;4;4;4;4;1;3;40
+Barisal;5;60509002;10400509002;Motinpur Mahalla;Konu Vai Bari;202;1010;40;2;3;4;1;1;4;3;4;4;3;4;4;1;4;4;4;50
+Barisal;5;60509004;10400509004;Motinpur Mahalla;Dolil Uddain;150;750;40;2;1;4;1;2;4;1;4;3;3;2;4;2;4;4;4;45
+Barisal;5;60510003;10400510003;Polashpur Uttar;Rajjak Miyar Bari;230;1150;45;2;1;3;1;2;3;2;3;3;2;1;4;1;4;4;4;40
+Barisal;5;60510001;10400510001;Polashpur Uttar;Asrab Miyar Bari;120;600;40;2;1;2;1;2;3;2;3;3;2;1;4;4;4;4;4;42
+Barisal;5;60510002;10400510002;Polashpur Uttar;Kader Miyar Mabir Goli;300;1500;45;3;3;3;2;2;3;2;3;3;2;1;4;1;4;4;4;44
+Barisal;5;60511001;10400511001;Polashpur Dokshin;Hanef Miyar Alaka;500;2500;50;2;1;4;4;1;4;4;4;4;3;3;4;3;4;4;4;53
+Barisal;5;60512001;10400512001;Mohammadpur;Muhammad Pur;482;1928;33;2;4;4;4;4;4;4;4;4;4;3;4;2;4;4;4;59
+Barisal;20;62001006;10402001006;Boddho Para;Masjeed Comitir Bari;10;50;40;2;4;4;4;4;3;4;3;1;4;4;4;1;4;4;4;54
+Barisal;20;62001007;10402001007;Boddho Para;Iran Bag Sonlogno;6;30;35;2;4;4;2;4;2;4;3;1;4;3;4;2;4;4;4;51
+Barisal;20;62001003;10402001003;Boddho Para;C And B Road;35;175;70;1;1;4;1;4;3;4;3;3;4;4;4;2;4;4;4;50
+Barisal;20;62001004;10402001004;Boddho Para;Hawladar Bari;20;100;75;2;3;4;4;4;2;4;3;1;4;4;4;2;4;4;4;53
+Barisal;20;62001001;10402001001;Boddho Para;Kalmegleg College Road;40;200;45;2;1;4;3;3;3;1;3;3;4;3;4;2;4;1;1;42
+Barisal;20;62001008;10402001008;Boddho Para;Cownselar Karjoloy Sonlogno;10;50;45;2;4;4;1;4;2;4;3;3;4;3;4;3;4;4;4;53
+Barisal;20;62001002;10402001002;Boddho Para;Nothullabad Bazar Sonlogno;11;55;35;2;1;4;2;3;3;1;3;4;4;3;4;2;4;4;4;48
+Barisal;20;62001005;10402001005;Boddho Para;Rawshan Vela;15;75;45;1;4;4;4;4;2;4;3;1;4;4;4;1;4;4;4;52
+Barisal;20;62002002;10402002002;B.M Clg Road Modhu Miyar Pole;Hawladar Bari;10;50;70;2;1;4;2;1;3;1;3;3;4;2;4;2;4;4;4;44
+Barisal;20;62002001;10402002001;B.M Clg Road Modhu Miyar Pole;Pablic Library Sonlogno;6;30;50;2;1;4;4;4;4;1;4;4;4;2;4;4;4;1;3;50
+Barisal;20;62003001;10402003001;B.M Clg Road Shobhan Miyar Pole;Mownuddain Miyar Bari;12;60;70;2;1;4;2;2;3;1;3;4;4;2;3;1;3;4;4;43
+Barisal;20;62003002;10402003002;B.M Clg Road Shobhan Miyar Pole;Talveta 1 No. O 2 No. Goli;25;125;20;2;1;4;2;4;3;1;3;3;4;2;4;1;4;4;4;46
+Barisal;20;62003003;10402003003;B.M Clg Road Shobhan Miyar Pole;Profesor Goli;10;50;35;2;4;4;4;4;2;4;3;2;4;4;4;3;4;4;4;56
+Barisal;20;62003004;10402003004;B.M Clg Road Shobhan Miyar Pole;Sobahan Miyar Bari;6;30;40;2;4;4;4;4;3;4;3;3;4;4;4;3;4;4;4;58
+Barisal;20;62003005;10402003005;B.M Clg Road Shobhan Miyar Pole;Talveta Golir Kache;7;35;37;2;4;4;4;4;3;4;3;2;4;4;4;3;4;4;4;57
+Barisal;20;62004001;10402004001;B.M College Mahalla;Muslim Mohol;10;50;35;2;1;4;1;3;2;1;4;4;4;2;4;1;4;2;3;42
+Barisal;20;62004002;10402004002;B.M College Mahalla;Muslim Moholla;7;35;35;2;1;4;1;4;3;1;3;3;4;2;4;1;4;2;1;40
+Barisal;20;62005001;10402005001;College Avenue Mahalla;Colleag Road Cristain Colony;35;175;45;2;1;4;1;1;2;1;2;3;4;3;4;1;4;2;3;38
+Barisal;20;62005002;10402005002;College Avenue Mahalla;Usuf Molla Bari;20;100;60;1;1;4;2;2;2;1;3;3;4;2;4;2;4;4;4;43
+Barisal;20;62005003;10402005003;College Avenue Mahalla;Rajjak Hawladar Bari;15;75;55;2;4;4;4;4;3;4;3;3;4;3;4;2;4;4;4;56
+Barisal;20;62006001;10402006001;College Row Gorosthan Mahalla;Manek Muktar Lain;18;90;80;2;1;4;2;4;2;1;3;4;4;3;4;2;4;4;4;48
+Barisal;20;62006003;10402006003;College Row Gorosthan Mahalla;Goruesthan Road Masjeed Ar Kache;12;60;45;2;1;4;1;4;3;4;4;4;4;4;4;2;4;4;4;53
+Barisal;20;62006002;10402006002;College Row Gorosthan Mahalla;Goruesthan Road;32;160;50;2;1;4;2;1;2;1;3;3;3;1;1;1;4;1;3;33
+Barisal;20;62006004;10402006004;College Row Gorosthan Mahalla;College Camestry Farmacy Camp;13;65;50;3;1;4;1;1;3;4;4;4;4;4;4;2;4;4;4;51
+Barisal;20;62006005;10402006005;College Row Gorosthan Mahalla;College Road B.N College 1 No. Gate;21;105;45;3;1;4;4;4;2;4;4;4;4;4;4;3;4;4;4;57
+Barisal;20;62006006;10402006006;College Row Gorosthan Mahalla;Lechu Sarak;23;115;45;1;1;4;1;1;2;4;4;1;1;3;2;2;4;1;2;34
+Barisal;28;62801001;10402801001;Purbo Chadutpur;Glober Uneon City;150;650;70;1;1;3;1;2;3;4;2;3;4;2;3;3;3;4;4;43
+Barisal;28;62801002;10402801002;Purbo Chadutpur;Al Helaleyal Masjeed;200;700;80;1;1;3;1;3;3;4;4;4;2;4;3;3;4;4;4;48
+Barisal;28;62801005;10402801005;Purbo Chadutpur;Sekdar Bari;80;240;50;2;1;3;2;1;2;1;3;3;3;2;3;1;4;1;2;34
+Barisal;28;62801004;10402801004;Purbo Chadutpur;Khisary 1 No. Goli;90;360;75;2;1;4;2;1;2;1;3;3;4;2;4;2;4;4;4;43
+Barisal;28;62801003;10402801003;Purbo Chadutpur;Khesary 2 No. Goli;80;330;60;1;1;4;2;1;2;1;3;3;4;2;4;2;4;3;3;40
+Barisal;28;62802001;10402802001;Poschim Chadutpur;Fokir Bari;50;190;100;2;1;4;1;1;3;1;4;2;3;3;3;4;4;4;4;44
+Barisal;28;62802002;10402802002;Poschim Chadutpur;Jolil Kha Bari;34;135;70;2;1;4;1;2;3;2;4;2;4;3;4;4;4;4;4;48
+Barisal;28;62802003;10402802003;Poschim Chadutpur;Parer Bari;30;100;80;1;1;4;1;1;3;2;4;2;4;3;3;3;4;4;4;44
+Barisal;28;62802004;10402802004;Poschim Chadutpur;Rob Master;60;240;42;2;1;4;1;3;2;2;4;4;1;3;4;4;2;4;2;43
+Barisal;28;62802005;10402802005;Poschim Chadutpur;Alir Bata Goli;20;75;15;2;1;4;2;4;3;2;4;2;3;1;1;4;3;2;4;42
+Barisal;28;62802007;10402802007;Poschim Chadutpur;Kaji Bari;30;125;95;3;1;4;3;4;2;4;4;3;2;1;4;4;3;2;4;48
+Barisal;28;62802006;10402802006;Poschim Chadutpur;Fored Kha;50;230;50;3;1;4;3;4;2;3;4;3;2;1;4;4;3;2;4;47
+Barisal;28;62803004;10402803004;Uttar Chadutpur;Atem Khana;18;95;65;1;1;4;1;3;3;4;4;4;2;4;4;4;4;4;4;51
+Barisal;28;62803005;10402803005;Uttar Chadutpur;Chowdory Bari;9;54;80;1;1;4;1;2;4;4;4;4;2;4;4;4;4;4;4;51
+Barisal;28;62803008;10402803008;Uttar Chadutpur;Dr. Bari;12;80;75;1;1;4;1;2;3;2;4;4;2;4;4;3;4;4;4;47
+Barisal;28;62803003;10402803003;Uttar Chadutpur;Jamaddar Bari;10;42;75;1;1;4;1;1;4;4;4;2;2;4;4;1;4;4;4;45
+Barisal;28;62803007;10402803007;Uttar Chadutpur;Munse Bari;8;38;50;1;1;4;1;2;3;2;4;4;2;4;4;3;4;4;4;47
+Barisal;28;62803006;10402803006;Uttar Chadutpur;Pal Bari;22;100;100;1;1;4;1;2;3;4;4;4;2;4;4;4;4;4;4;50
+Barisal;28;62803002;10402803002;Uttar Chadutpur;Miyaj Bari -2;13;80;65;2;1;4;1;4;4;4;3;3;2;4;4;4;4;4;4;52
+Barisal;28;62803001;10402803001;Uttar Chadutpur;Mieyaje Bari;9;45;60;2;1;4;1;4;3;2;4;4;4;4;4;2;4;4;4;51
+Barisal;28;62803011;10402803011;Uttar Chadutpur;Hawaldar Bari;150;600;45;1;1;4;1;4;4;2;4;3;2;2;4;3;4;4;3;46
+Barisal;28;62803013;10402803013;Uttar Chadutpur;Mira Bari;30;120;46;1;1;4;1;2;4;2;4;2;2;1;4;3;4;3;3;41
+Barisal;28;62803010;10402803010;Uttar Chadutpur;Khalifa BAri;15;65;60;1;1;4;1;1;2;2;4;3;2;2;4;3;4;4;3;41
+Barisal;28;62803009;10402803009;Uttar Chadutpur;Kaji Bari;40;200;60;1;1;4;1;2;2;2;4;3;2;2;4;4;4;4;3;43
+Barisal;28;62803012;10402803012;Uttar Chadutpur;Mowlobi Bazar;10;40;45;1;1;4;1;2;4;2;4;3;3;2;4;3;4;1;4;43
+Barisal;28;62804001;10402804001;Haripasha;Sajahan Fokir Bari;30;155;70;1;1;4;1;1;2;1;4;1;4;2;4;3;4;1;4;38
+Barisal;28;62804002;10402804002;Haripasha;Mote Kaji;65;270;65;1;1;4;1;1;2;1;4;2;4;2;3;2;4;3;4;39
+Barisal;28;62804003;10402804003;Haripasha;Moslem Saref Bari;25;90;40;1;1;4;1;1;2;1;4;3;4;2;3;3;4;3;4;41
+Barisal;28;62804005;10402804005;Haripasha;Kudghata;20;70;35;1;1;4;1;1;3;4;4;3;3;3;3;3;4;4;4;46
+Barisal;28;62804004;10402804004;Haripasha;Molla Bari;30;120;30;1;1;4;1;1;3;2;4;3;3;2;3;3;4;4;3;42
+Barisal;28;62804006;10402804006;Haripasha;Mohanagar College Road;30;110;70;1;1;4;1;1;3;2;4;2;2;1;3;3;4;4;4;40
+Barisal;28;62805007;10402805007;Nabojagoroni;Maletery Babul;23;115;70;1;1;3;1;1;4;3;2;2;3;1;4;3;1;4;4;38
+Barisal;28;62805001;10402805001;Nabojagoroni;Hawlader Bari;30;160;72;3;1;4;1;1;3;3;2;1;4;2;3;1;4;4;3;40
+Barisal;28;62805002;10402805002;Nabojagoroni;Madbor Bari;10;40;52;3;1;4;1;1;3;3;3;4;4;3;4;3;4;4;4;49
+Barisal;28;62805003;10402805003;Nabojagoroni;Moktar Bari;15;75;80;4;1;4;1;1;4;3;4;3;4;3;4;3;4;4;4;51
+Barisal;28;62805006;10402805006;Nabojagoroni;Talukdar Bari;12;70;75;3;1;3;1;1;2;1;2;2;2;1;1;1;1;4;4;30
+Barisal;28;62805005;10402805005;Nabojagoroni;Chowdory Bari;30;150;70;2;1;4;1;1;3;1;3;2;3;1;4;2;4;4;4;40
+Barisal;28;62805004;10402805004;Nabojagoroni;Gaji Bari;40;200;70;1;1;4;1;1;3;2;4;2;3;1;4;3;4;4;4;42
+Barisal;28;62806001;10402806001;Dokshin Diapara;Joinal Hawlader;40;200;80;4;1;3;1;1;3;1;2;3;2;3;3;1;1;4;4;37
+Barisal;28;62806002;10402806002;Dokshin Diapara;Akon Bari;10;52;100;1;1;3;1;1;3;1;2;1;3;2;4;1;4;4;4;36
+Barisal;28;62806003;10402806003;Dokshin Diapara;Bnde Ali Miyar Bari;40;200;115;1;3;3;1;1;3;3;1;2;2;1;3;2;2;4;4;36
+Barisal;28;62806004;10402806004;Dokshin Diapara;Saheb Ali Kha;50;300;125;1;1;3;2;1;3;4;1;2;3;1;1;3;4;4;4;38
+Barisal;28;62806005;10402806005;Dokshin Diapara;Boro Bari;60;360;150;1;3;3;1;1;3;4;1;2;3;1;3;2;2;4;4;38
+Barisal;28;62806006;10402806006;Dokshin Diapara;Baneyar Veta;60;300;80;1;3;3;1;1;3;3;1;2;3;1;3;2;2;4;4;37
+Barisal;28;62806007;10402806007;Dokshin Diapara;Bohom Ali Kha;50;250;100;1;3;3;1;1;3;1;1;2;3;1;3;2;2;4;4;35
+Barisal;28;62807006;10402807006;Moddho Diapara;Husamun Counselar;40;200;150;3;1;3;1;1;4;3;1;2;3;1;3;3;4;4;4;41
+Barisal;28;62807007;10402807007;Moddho Diapara;Maji Bari;40;205;100;1;1;4;1;2;1;4;2;2;3;1;4;1;4;4;4;39
+Barisal;28;62807008;10402807008;Moddho Diapara;Chokedar Bari;28;130;150;1;1;3;1;1;4;4;3;2;3;3;1;1;4;4;4;40
+Barisal;28;62807001;10402807001;Moddho Diapara;Barijar Khat Khola;30;300;125;1;1;3;1;1;3;2;3;3;2;3;1;3;4;4;4;39
+Barisal;28;62807002;10402807002;Moddho Diapara;Lotef Jomadar;12;60;25;1;1;3;1;2;1;2;3;3;2;3;3;1;3;4;4;37
+Barisal;28;62807003;10402807003;Moddho Diapara;Sekdar Bari;20;200;200;1;1;3;2;3;2;1;2;3;2;3;1;3;1;4;4;36
+Barisal;28;62807004;10402807004;Moddho Diapara;Kader Sekdar;10;45;20;1;1;3;1;3;1;3;2;2;3;1;1;3;4;4;4;37
+Barisal;28;62807005;10402807005;Moddho Diapara;Rustom Ali Kha;15;65;100;1;1;3;1;2;2;4;1;2;2;1;1;1;4;4;4;34
+Barisal;19;61901005;10401901005;Natun Bazar Poschim;Jobbar ali khan lane;22;108;80;2;1;3;1;1;2;1;2;3;2;2;2;1;2;4;4;33
+Barisal;19;61901004;10401901004;Natun Bazar Poschim;Shah jahan comissionar bari;12;62;82;2;1;3;1;1;2;1;2;2;3;3;3;1;3;4;4;36
+Barisal;19;61901003;10401901003;Natun Bazar Poschim;Bender bari;37;177;100;2;1;3;1;2;2;1;2;2;1;2;4;1;4;4;4;36
+Barisal;19;61901002;10401901002;Natun Bazar Poschim;Shoshan ghat;147;729;47;1;1;1;1;1;1;1;1;3;3;1;1;1;1;3;1;22
+Barisal;19;61901001;10401901001;Natun Bazar Poschim;Mredha bari;17;86;80;1;3;2;2;1;1;2;1;3;2;2;2;2;2;1;4;31
+Barisal;19;61902001;10401902001;Haspatal Road Uttar;Tarek Kumar Lain;4;30;34;2;3;4;1;1;1;2;3;4;2;2;3;1;4;1;1;35
+Barisal;19;61902002;10401902002;Haspatal Road Uttar;Gupto Bari;5;25;25;2;4;4;1;2;2;3;4;4;3;3;4;1;4;1;3;45
+Barisal;19;61902004;10401902004;Haspatal Road Uttar;Jawtola 3No. Goli Simar Bari;24;70;50;2;2;3;1;1;3;1;4;3;3;4;3;2;2;4;4;42
+Barisal;19;61902005;10401902005;Haspatal Road Uttar;Jawtola 3 No. Goli Nanar Math;8;29;15;2;1;3;1;1;3;1;3;3;2;3;3;3;1;1;4;35
+Barisal;19;61902006;10401902006;Haspatal Road Uttar;Jawtola 1 No. Goli Noyon Bari;17;80;75;2;1;3;1;1;2;1;3;3;3;2;2;1;3;1;3;32
+Barisal;19;61902003;10401902003;Haspatal Road Uttar;Jawtola 3 No. Goli;7;37;60;1;1;3;1;1;2;1;4;2;3;3;3;1;2;4;4;36
+Barisal;19;61902007;10401902007;Haspatal Road Uttar;Jawtola 1 No. Goli Kobir Miyar Bari;5;20;25;1;1;3;1;1;2;1;4;2;3;3;3;1;2;4;3;35
+Barisal;19;61902008;10401902008;Haspatal Road Uttar;Tatolar Math Kindar Garden Ar Pichone;50;250;90;2;1;3;1;1;2;1;3;3;2;3;3;2;4;4;3;38
+Barisal;19;61902009;10401902009;Haspatal Road Uttar;Beshas Bari;30;140;50;1;1;3;1;1;1;1;2;3;2;3;3;1;1;4;4;32
+Barisal;19;61902010;10401902010;Haspatal Road Uttar;Gaju Vela;26;130;70;2;1;4;1;2;3;1;4;4;3;3;3;2;3;4;4;44
+Barisal;19;61903001;10401903001;Najir Mahalla;Jasem Vai Der Bari;10;50;70;1;2;4;4;3;3;3;3;3;3;1;4;1;4;1;1;41
+Barisal;19;61903002;10401903002;Najir Mahalla;Chowdory Bari;12;60;40;2;2;4;4;2;3;3;3;4;3;2;4;2;4;1;1;44
+Barisal;19;61903003;10401903003;Najir Mahalla;Dhakai Ya Bari;8;35;60;3;2;4;1;1;3;1;2;2;3;3;2;4;4;4;4;43
+Barisal;19;61903005;10401903005;Najir Mahalla;Costa Bari;10;50;70;2;1;3;1;2;3;1;2;1;2;2;3;3;2;4;4;36
+Barisal;19;61903004;10401903004;Najir Mahalla;Bows Bari;35;175;65;2;2;3;1;1;2;1;3;3;2;3;2;1;2;4;4;36
+Barisal;19;61904008;10401904008;Kali Bari Road Uttar;Deroj Miyar Bari;15;85;70;1;1;4;1;4;2;4;4;4;4;3;4;2;4;4;3;49
+Barisal;19;61904001;10401904001;Kali Bari Road Uttar;Solal Chondro Das Goli;30;150;70;2;4;4;2;3;3;3;4;3;2;3;4;3;4;4;4;52
+Barisal;19;61904002;10401904002;Kali Bari Road Uttar;Bepllab Char Goli;30;150;50;3;2;4;2;1;4;1;3;3;2;3;1;4;4;4;4;45
+Barisal;19;61904003;10401904003;Kali Bari Road Uttar;Hospital Road;30;150;100;1;1;2;1;1;2;1;2;2;1;2;1;1;1;4;4;27
+Barisal;19;61904004;10401904004;Kali Bari Road Uttar;Alokder Bari;35;180;70;2;1;2;1;1;3;1;2;2;2;3;2;1;3;4;4;34
+Barisal;19;61904005;10401904005;Kali Bari Road Uttar;Majebur Rahman Bari;35;175;60;2;2;3;1;1;3;1;2;3;2;3;2;2;3;1;3;34
+Barisal;19;61904007;10401904007;Kali Bari Road Uttar;Anoyar Miyar Bari;37;185;60;2;1;3;1;1;1;1;3;3;2;3;2;1;2;4;4;34
+Barisal;19;61904006;10401904006;Kali Bari Road Uttar;Abu Rajja Miyar Goli;35;175;70;2;1;2;1;1;3;1;3;3;3;2;4;1;3;4;4;38
+Barisal;19;61905001;10401905001;Kali Bari Road Poschim;Vulu Vai Bari;8;42;70;2;1;3;2;3;3;2;2;2;2;3;3;4;4;4;4;44
+Barisal;19;61905002;10401905002;Kali Bari Road Poschim;Tarek Vai Bari;7;34;60;2;3;3;3;3;3;2;3;2;2;2;3;3;3;4;4;45
+Barisal;19;61905003;10401905003;Kali Bari Road Poschim;Ali Ajogor Rana;12;59;70;1;2;4;1;4;4;4;4;4;4;4;4;3;4;1;3;51
+Barisal;19;61905004;10401905004;Kali Bari Road Poschim;Borisal College Ar Pichone;17;79;80;1;1;4;1;4;4;4;4;4;4;4;4;4;2;4;4;53
+Barisal;19;61905005;10401905005;Kali Bari Road Poschim;Feroj Quatej;5;27;60;1;1;4;1;4;4;4;4;4;4;4;4;2;4;1;3;49
+Barisal;19;61905006;10401905006;Kali Bari Road Poschim;Thokar Garaj;12;62;70;1;1;4;1;4;1;4;4;1;2;4;4;1;4;4;3;43
+Barisal;19;61905007;10401905007;Kali Bari Road Poschim;Gaji Milnayot Dokkhjin Bari;8;51;60;1;1;4;1;4;2;4;4;4;4;3;4;2;4;4;3;49
+Barisal;19;61905008;10401905008;Kali Bari Road Poschim;Mudul Humayon Bari;29;160;90;1;1;4;1;4;4;4;4;2;4;3;4;1;4;1;3;45
+Barisal;19;61906005;10401906005;Natun Bazar College Road;Kaji Babur Bari;17;83;100;2;1;4;1;4;2;4;3;2;4;4;4;2;4;4;4;49
+Barisal;19;61906006;10401906006;Natun Bazar College Road;Roton Dar Goli;21;109;90;2;1;4;2;4;2;4;3;3;4;4;4;2;4;4;4;51
+Barisal;19;61906008;10401906008;Natun Bazar College Road;Kalomder Golli;45;224;70;2;1;4;4;4;2;4;3;3;4;4;4;2;4;4;4;53
+Barisal;19;61906007;10401906007;Natun Bazar College Road;Delu Mohol Bari;44;220;80;2;1;4;4;4;2;4;3;3;4;4;4;2;4;4;4;53
+Barisal;19;61906002;10401906002;Natun Bazar College Road;Mali Bari;16;865;80;2;2;3;2;2;3;2;2;2;2;3;3;1;3;2;2;36
+Barisal;19;61906001;10401906001;Natun Bazar College Road;Ali Sarak Pablic School;66;330;90;2;3;3;1;2;2;1;3;1;2;2;4;3;3;1;2;35
+Barisal;19;61906004;10401906004;Natun Bazar College Road;Badol Comisonar ar Bari;12;58;86;4;4;4;2;3;2;1;2;4;4;3;4;3;4;4;4;52
+Barisal;19;61906003;10401906003;Natun Bazar College Road;Mostofa Vai Ar Bari;21;112;100;1;4;4;2;3;2;1;2;4;4;3;4;3;4;4;4;49
+Barisal;21;62101002;10402101002;College Avenie Dokkhin - TTC Len;Hawalder Bari;8;40;80;2;1;3;2;3;3;1;4;3;4;3;4;3;4;4;4;48
+Barisal;21;62101003;10402101003;College Avenie Dokkhin - TTC Len;Raja Miyar Bari;20;100;100;2;1;4;2;3;3;1;3;4;3;3;4;3;4;4;4;48
+Barisal;21;62101001;10402101001;College Avenie Dokkhin - TTC Len;HoSne Ara Manjel;8;65;100;2;1;4;2;2;3;1;4;3;4;2;4;1;4;1;3;41
+Barisal;21;62101004;10402101004;College Avenie Dokkhin - TTC Len;Rajjak Hawladar Bari;13;65;25;1;1;4;1;3;2;1;3;4;4;2;4;2;3;1;1;37
+Barisal;21;62102005;10402102005;TTC Len Dokkhin - Gorstan Road;Hatem Ali College Uttor Ghate Sonlogno;8;40;100;2;1;3;2;2;3;2;3;3;4;3;4;3;4;4;4;47
+Barisal;21;62102006;10402102006;TTC Len Dokkhin - Gorstan Road;Bonchaya Girls School Ar Pichone;15;75;60;2;3;4;3;3;3;1;4;3;4;2;4;2;4;4;4;50
+Barisal;21;62102003;10402102003;TTC Len Dokkhin - Gorstan Road;Provate Goli Road;10;50;80;3;3;4;3;3;3;1;4;3;4;2;4;3;4;3;3;50
+Barisal;21;62102004;10402102004;TTC Len Dokkhin - Gorstan Road;Dulal Miyar Bari;15;75;100;2;1;4;2;2;3;1;4;3;4;2;3;2;3;1;3;40
+Barisal;21;62102002;10402102002;TTC Len Dokkhin - Gorstan Road;Soiyod Bari;25;125;100;4;3;4;4;3;4;4;4;4;3;4;4;3;4;4;4;60
+Barisal;21;62102001;10402102001;TTC Len Dokkhin - Gorstan Road;Bashed Miyar Bari;7;28;80;3;1;4;2;3;3;3;3;3;4;2;2;3;3;1;3;43
+Barisal;21;62103006;10402103006;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Jagorony Kinder Garnden;17;5;27;1;1;4;2;4;3;3;4;3;4;2;4;2;4;4;4;49
+Barisal;21;62103005;10402103005;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Dev Kumal Lain Hindu Bari;17;85;35;1;1;4;2;3;3;1;3;3;4;2;3;2;3;4;4;43
+Barisal;21;62103004;10402103004;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Roshid Miyar Bari;15;75;18;1;1;4;1;1;2;3;3;3;4;2;1;1;3;1;3;34
+Barisal;21;62103002;10402103002;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Sordar Bari;17;85;40;2;1;4;1;1;2;1;3;3;4;2;3;1;3;1;3;35
+Barisal;21;62103001;10402103001;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Nannu Vela Sonlogno;12;60;35;4;4;4;2;3;4;4;2;3;4;4;3;2;3;1;2;49
+Barisal;21;62103003;10402103003;Hatem Ali College Chomatha - Karim Kuthir Mosjid Goli;Nahar Barir Kach;10;50;7;1;1;4;1;3;2;2;3;3;4;2;2;2;3;4;4;41
+Barisal;21;62104001;10402104001;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Ful Bon;9;45;50;2;1;4;2;2;3;2;4;4;4;3;4;2;4;4;4;49
+Barisal;21;62104002;10402104002;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Miya Bari;8;40;100;2;1;4;2;3;3;1;4;3;4;2;4;2;4;4;4;47
+Barisal;21;62104003;10402104003;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Hawaldar Bari;15;75;90;1;1;4;1;1;2;1;3;3;4;1;4;1;4;1;3;35
+Barisal;21;62104004;10402104004;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Nerjor Bari;7;35;80;2;1;4;2;1;2;1;3;3;4;2;4;1;4;1;3;38
+Barisal;21;62104005;10402104005;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Sekdar Bari;68;340;100;2;1;4;1;1;2;1;3;3;4;2;4;2;4;1;3;38
+Barisal;21;62104006;10402104006;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Talukdar Bari;12;60;50;2;1;4;2;1;1;1;2;3;4;3;3;2;3;1;3;36
+Barisal;21;62104008;10402104008;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Kalam Sekdarer Bari;15;75;100;2;1;4;2;2;2;1;3;3;4;2;4;1;4;1;3;39
+Barisal;21;62104007;10402104007;Karim Kuthir Mosjid Goli Purbo - Passport Goli;Salauddain Miyar Bari;10;50;70;2;1;1;1;2;3;1;2;3;2;2;4;2;4;4;4;38
+Barisal;21;62105001;10402105001;Muslim Gorstam Alaka (Oxford Mission);Gosh Bari;45;225;100;2;2;4;2;1;3;1;4;3;4;3;4;3;4;4;4;48
+Barisal;21;62105002;10402105002;Muslim Gorstam Alaka (Oxford Mission);Bashtola Jab Registar Bari;12;60;35;2;1;4;2;2;4;3;4;3;4;2;4;3;4;4;4;50
+Barisal;21;62105003;10402105003;Muslim Gorstam Alaka (Oxford Mission);Sagor Miyar Bari;8;40;80;1;1;4;2;1;2;1;3;3;4;2;3;2;3;1;3;36
+Barisal;21;62105004;10402105004;Muslim Gorstam Alaka (Oxford Mission);Madrashar Purbo Pashe;25;125;70;2;1;4;1;1;3;1;3;3;4;2;4;2;4;1;3;39
+Barisal;21;62105005;10402105005;Muslim Gorstam Alaka (Oxford Mission);Anjuman Quarter;12;60;28;4;4;4;2;1;4;1;4;3;4;2;4;3;3;1;3;47
+Barisal;21;62105006;10402105006;Muslim Gorstam Alaka (Oxford Mission);Kachema Bad Khanka Rasta;17;85;80;2;1;4;2;1;3;1;4;3;4;2;4;1;4;1;3;40
+Barisal;21;62105007;10402105007;Muslim Gorstam Alaka (Oxford Mission);Bopa Barir Moor;15;75;45;2;1;4;2;1;2;1;3;3;4;2;4;2;4;1;3;39
+Barisal;21;62106002;10402106002;TTC Len Purbo - Lichu Shah Road Poschim;Lutfar Vela Sonlogno;8;40;13;1;1;4;2;3;3;2;3;3;4;2;3;2;3;3;3;42
+Barisal;21;62106001;10402106001;TTC Len Purbo - Lichu Shah Road Poschim;Girls Garden Asoceation Ar Sonlogno;20;100;28;2;1;4;2;2;3;3;3;3;2;2;3;2;3;3;3;41
+Barisal;21;62106004;10402106004;TTC Len Purbo - Lichu Shah Road Poschim;Raja Miyar Bari TTC Purbo;15;75;28;2;1;4;2;1;1;1;3;3;4;2;4;1;4;4;4;41
+Barisal;21;62106003;10402106003;TTC Len Purbo - Lichu Shah Road Poschim;Suporna Manson Ar Kache;9;45;20;2;1;4;1;1;1;1;3;3;4;2;4;2;4;1;3;37
+Barisal;21;62107004;10402107004;Lichu Shah Road - Gorstan Road;Protekha Villa;7;35;12;2;1;4;2;3;2;1;2;3;3;2;3;1;3;4;4;40
+Barisal;21;62107005;10402107005;Lichu Shah Road - Gorstan Road;Robe Nend College;10;50;15;2;1;4;2;3;2;1;3;3;4;2;3;2;3;3;3;41
+Barisal;21;62107006;10402107006;Lichu Shah Road - Gorstan Road;Dhopa Barir Moor;10;50;25;2;3;4;2;4;3;1;3;3;4;2;2;1;2;1;3;40
+Barisal;21;62107003;10402107003;Lichu Shah Road - Gorstan Road;Goroesthan Road Par School Ar Pichone;16;80;26;2;2;4;2;1;1;1;3;3;4;2;4;1;4;1;3;38
+Barisal;21;62107001;10402107001;Lichu Shah Road - Gorstan Road;Abdur ob Mansion Sonlogno;13;65;20;2;1;4;2;3;3;2;3;3;4;2;2;1;3;3;3;41
+Barisal;21;62107002;10402107002;Lichu Shah Road - Gorstan Road;Afjal Velar Pichone;12;60;18;1;1;4;2;3;2;1;3;3;4;2;3;2;3;2;3;39
+Barisal;9;60901001;10400901001;Enayet Rahman Road Mahalla;Fol Potti;45;270;500;2;1;4;1;1;2;4;2;4;4;1;4;2;4;4;4;44
+Barisal;9;60902001;10400902001;Girja Mahalla Sompurno;Adalot Para;25;160;200;2;1;4;1;1;1;4;3;4;2;4;2;2;4;4;1;40
+Barisal;9;60903001;10400903001;Poddaboti Chawkbazar;Purbo Padma Boti;27;162;70;2;4;4;2;1;4;4;3;3;4;4;4;2;4;4;4;53
+Barisal;9;60904003;10400904003;Katpotty Road;Dokkhin Kat Potti;40;200;70;2;3;4;3;1;3;2;4;3;4;3;4;3;4;4;4;51
+Barisal;9;60904002;10400904002;Katpotty Road;Motelal Kochuri;5;25;60;4;2;4;4;2;2;4;4;3;4;4;4;2;4;4;4;55
+Barisal;9;60904001;10400904001;Katpotty Road;Gobendo Babur Hauli;15;75;50;2;3;4;4;3;3;3;4;4;4;3;4;3;4;4;4;56
+Barisal;9;60904004;10400904004;Katpotty Road;Thana Pukur Purbo Par;25;125;55;4;4;4;3;3;3;3;4;3;4;4;4;2;4;4;4;57
+Barisal;9;60905001;10400905001;Rasul Pur;Rosulpur;3000;15000;15;1;1;2;1;1;1;4;1;2;3;1;1;1;1;3;3;27
+Barisal;12;61201005;10401201005;Amtola - Medical College Len;Sordar Housing;5;30;30;4;4;4;4;3;1;4;1;4;4;4;3;4;4;1;2;51
+Barisal;12;61201004;10401201004;Amtola - Medical College Len;Osman Ghas Sarak;6;36;20;4;4;4;4;4;3;2;3;2;4;3;1;1;4;1;2;46
+Barisal;12;61201001;10401201001;Amtola - Medical College Len;Amtola Pubane Bari;50;350;150;4;1;4;4;4;4;4;3;4;4;4;4;3;4;4;4;59
+Barisal;12;61201002;10401201002;Amtola - Medical College Len;Arman Khan Sarak;40;160;130;4;4;4;4;4;4;4;3;3;4;1;4;4;4;4;4;59
+Barisal;12;61201003;10401201003;Amtola - Medical College Len;Arman Khan Sarak, Hawladar Bari;50;200;100;1;1;4;4;2;4;4;4;4;4;4;4;4;4;4;4;56
+Barisal;12;61202002;10401202002;Charer Bari;Chorer Bari;245;1500;60;2;3;4;1;3;3;3;3;3;3;3;3;1;4;4;4;47
+Barisal;12;61202001;10401202001;Charer Bari;30 Govcaiul Khaler Par;12;60;20;1;1;1;1;1;1;1;2;3;3;2;1;1;1;2;1;23
+Barisal;12;61202003;10401202003;Charer Bari;30 Govaiul;24;112;20;3;2;4;2;3;3;3;4;4;4;4;3;2;3;2;1;47
+Barisal;12;61202004;10401202004;Charer Bari;Dojarde Colony Khal Par;30;150;25;2;1;4;1;1;1;1;3;3;4;3;1;1;1;2;1;30
+Barisal;12;61203001;10401203001;Trish Godown/Ofda Colony;Bomon Bari 30 Godaun;5;20;15;1;1;1;1;1;1;1;3;3;4;4;1;1;4;1;4;32
+Barisal;12;61203002;10401203002;Trish Godown/Ofda Colony;Jamal Khan Ar Bari;13;60;13;2;2;4;1;1;4;4;3;4;4;4;4;4;4;1;3;49
+Barisal;12;61203003;10401203003;Trish Godown/Ofda Colony;Wahab Khan Ar Bari;5;25;50;4;1;4;1;1;1;3;2;3;4;4;4;2;4;1;3;42
+Barisal;12;61204001;10401204001;BDS Khristan Colony;B.G.S Cristin Colony;155;620;50;3;3;4;2;1;3;2;3;3;4;4;2;2;2;1;3;42
+Barisal;27;62701001;10402701001;Diya Para;Netai Bari;5;25;80;1;1;3;1;1;4;2;2;1;2;3;3;1;4;4;4;37
+Barisal;27;62702005;10402702005;Koromza;Roshed Chair Man;20;95;75;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702006;10402702006;Koromza;Manek Mola;35;185;90;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702007;10402702007;Koromza;Akekol Khalifa Bari;35;140;90;1;1;4;1;2;2;1;3;3;3;2;4;1;4;4;4;40
+Barisal;27;62702008;10402702008;Koromza;Motleb Haji Bari;30;100;80;1;1;3;2;2;2;1;3;4;4;1;4;1;4;4;1;38
+Barisal;27;62702009;10402702009;Koromza;Babu Talukdar;40;200;90;1;1;2;1;1;2;1;3;4;4;2;4;1;4;4;4;39
+Barisal;27;62702011;10402702011;Koromza;Momman Khan Bari;40;200;900;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702012;10402702012;Koromza;Rajjak Khalifa;28;140;86;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702010;10402702010;Koromza;Khalefa Sordar Bari;28;196;90;1;1;2;1;2;3;1;3;4;4;1;4;1;4;4;4;40
+Barisal;27;62702013;10402702013;Koromza;Haladar Bari;30;150;50;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702004;10402702004;Koromza;Nuddaun Han;15;75;65;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702002;10402702002;Koromza;Saheb Kha;20;120;85;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702003;10402702003;Koromza;Soref Chowdory;20;130;90;1;1;3;1;1;2;1;3;2;2;2;1;1;4;4;4;33
+Barisal;27;62702001;10402702001;Koromza;Manek Chokedar Bari;18;90;80;1;1;3;1;1;2;4;3;2;2;1;1;1;4;4;4;35
+Barisal;27;62703001;10402703001;Uttor Defuliya;Moner Talukdar Ar Bari;10;50;50;1;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;31
+Barisal;27;62703002;10402703002;Uttor Defuliya;Akas Police;8;40;50;1;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;31
+Barisal;27;62703003;10402703003;Uttor Defuliya;Abu Kalam;35;175;30;1;1;2;1;1;1;1;2;1;1;3;4;1;4;4;4;32
+Barisal;27;62703004;10402703004;Uttor Defuliya;Moner Hawladar;20;100;50;2;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;32
+Barisal;27;62703005;10402703005;Uttor Defuliya;Moslem Khan;30;150;60;1;1;1;1;1;1;1;2;3;1;3;4;1;4;4;4;33
+Barisal;27;62703006;10402703006;Uttor Defuliya;Sobhan Hawladar;17;85;30;2;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;32
+Barisal;27;62703007;10402703007;Uttor Defuliya;Selim Gaji;25;125;60;1;1;1;1;1;1;1;2;1;3;1;4;1;4;4;4;31
+Barisal;27;62703008;10402703008;Uttor Defuliya;Sohuddain Han;30;150;60;2;1;1;1;1;1;1;2;3;1;3;4;1;4;4;4;34
+Barisal;27;62703009;10402703009;Uttor Defuliya;Mojnu Khan;18;90;50;2;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;32
+Barisal;27;62703010;10402703010;Uttor Defuliya;Badsha Han;5;30;50;1;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;31
+Barisal;27;62704006;10402704006;Poschim Defuliya;Amir Ali Khan Bari;60;300;60;2;1;3;1;1;1;1;3;1;1;3;3;1;4;4;4;34
+Barisal;27;62704007;10402704007;Poschim Defuliya;Rahman Alir Bari;60;300;50;1;1;3;1;1;1;1;3;3;1;3;1;1;4;4;4;33
+Barisal;27;62704008;10402704008;Poschim Defuliya;Sojab Khan Bari;45;275;50;2;1;3;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Barisal;27;62704011;10402704011;Poschim Defuliya;Mintu Han;20;15;50;2;1;3;1;1;1;2;4;1;1;1;4;1;4;2;4;33
+Barisal;27;62704009;10402704009;Poschim Defuliya;Miyaj Kan Bari;14;70;60;2;1;3;1;1;1;1;3;1;1;3;1;1;4;4;4;32
+Barisal;27;62704012;10402704012;Poschim Defuliya;Sattar Khan Bari;30;150;60;2;1;3;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Barisal;27;62704005;10402704005;Poschim Defuliya;Kalam Mollar Bari;55;259;60;2;1;2;3;1;1;1;3;1;1;3;4;1;4;4;4;36
+Barisal;27;62704004;10402704004;Poschim Defuliya;Asrab Alom Miyar Bari;45;205;60;3;1;1;1;1;1;1;3;1;1;3;4;1;4;4;4;34
+Barisal;27;62704003;10402704003;Poschim Defuliya;Kasem Miyar Bari;55;275;60;2;1;3;1;3;1;1;1;1;1;3;4;1;4;4;4;35
+Barisal;27;62704002;10402704002;Poschim Defuliya;Somekhar Bari;20;100;60;2;1;3;1;1;1;1;3;1;1;3;4;1;4;4;4;35
+Barisal;27;62704001;10402704001;Poschim Defuliya;Abul Hossain Kaji;20;100;60;2;1;3;1;1;1;1;3;1;1;3;4;1;4;4;4;35
+Barisal;27;62704014;10402704014;Poschim Defuliya;Ajahar Khan;55;250;60;2;1;3;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Barisal;27;62704013;10402704013;Poschim Defuliya;Robban Khan;47;235;70;2;1;3;1;1;1;1;3;1;1;4;4;1;4;4;4;36
+Barisal;27;62704010;10402704010;Poschim Defuliya;Ali Ahmod;25;125;60;2;1;3;1;1;1;1;4;3;1;3;3;1;4;4;4;37
+Barisal;27;62705005;10402705005;Purbo Defuliya;Mannan Han;42;250;60;2;1;3;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Barisal;27;62705006;10402705006;Purbo Defuliya;Barek Han;50;255;53;2;1;3;1;1;1;4;4;2;2;1;4;1;4;3;4;38
+Barisal;27;62705007;10402705007;Purbo Defuliya;Burjuk Ali Sekdar;45;225;55;2;1;4;1;1;1;4;3;2;2;2;4;1;4;4;4;40
+Barisal;27;62705009;10402705009;Purbo Defuliya;Forkan Han;50;250;50;2;1;3;1;1;1;4;3;2;3;2;4;1;4;2;4;38
+Barisal;27;62705010;10402705010;Purbo Defuliya;Khokon Shek;15;75;50;2;1;3;1;1;1;4;3;2;2;1;4;1;4;2;4;36
+Barisal;27;62705003;10402705003;Purbo Defuliya;Khalek Han;20;150;60;2;1;3;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Barisal;27;62705002;10402705002;Purbo Defuliya;Soguddain Han;30;200;60;2;1;3;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Barisal;27;62705001;10402705001;Purbo Defuliya;Sekende Han;29;150;60;2;1;3;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Barisal;27;62705011;10402705011;Purbo Defuliya;Shepon Khalifa;15;75;40;2;1;3;1;1;1;4;3;2;2;1;4;1;4;3;4;37
+Barisal;27;62705008;10402705008;Purbo Defuliya;Jolil Han;10;50;35;2;1;4;1;1;1;2;4;2;3;3;4;1;4;3;4;40
+Barisal;27;62705004;10402705004;Purbo Defuliya;Al Tafraj;22;120;52;2;1;3;1;1;1;1;3;3;1;3;3;4;4;4;4;39
+Barisal;27;62706006;10402706006;IndroKathi;Wohab Sordar;20;125;40;1;1;1;1;1;1;2;2;2;2;1;4;1;4;3;3;30
+Barisal;27;62706004;10402706004;IndroKathi;Kabil Kha;30;105;50;1;1;1;1;2;1;1;1;1;1;3;4;1;4;4;4;31
+Barisal;27;62706005;10402706005;IndroKathi;Soiyod Mofarep;75;350;60;2;1;1;1;1;1;1;1;1;1;3;4;1;4;4;4;31
+Barisal;27;62706007;10402706007;IndroKathi;Rofik Han;6;35;20;1;1;2;1;1;1;2;2;2;3;1;4;1;4;3;3;32
+Barisal;27;62706010;10402706010;IndroKathi;Nur Islam Han;27;150;20;1;1;1;2;2;1;4;2;1;2;1;4;1;4;1;1;29
+Barisal;27;62706008;10402706008;IndroKathi;Sujjad Khan;40;250;40;1;1;2;1;1;1;3;2;1;2;1;4;1;4;3;3;31
+Barisal;27;62706011;10402706011;IndroKathi;Sultan Master;30;150;60;2;1;3;1;1;1;2;2;2;3;1;4;1;4;2;3;33
+Barisal;27;62706009;10402706009;IndroKathi;Loutfor Kaji;20;100;25;2;1;2;1;1;1;2;3;1;2;1;4;1;4;3;3;32
+Barisal;27;62706012;10402706012;IndroKathi;Sohrup Han;30;100;50;2;1;3;1;1;1;1;2;1;3;1;4;1;4;4;4;34
+Barisal;27;62706013;10402706013;IndroKathi;Beren Haldar;10;50;60;2;1;3;1;1;1;1;2;1;2;1;4;1;4;4;4;33
+Barisal;27;62706001;10402706001;IndroKathi;Jahnager Han;32;100;60;2;1;2;1;1;1;1;1;1;1;3;3;1;4;4;4;31
+Barisal;27;62706002;10402706002;IndroKathi;Jasim Han;20;100;50;2;1;2;1;1;1;1;2;3;1;3;4;4;4;4;4;38
+Barisal;27;62706003;10402706003;IndroKathi;Nur Islam Khalifa;15;47;40;2;1;2;1;1;1;1;2;1;1;3;4;1;4;4;4;33
+Barisal;27;62706014;10402706014;IndroKathi;Prodip Sorkar;20;100;60;2;1;3;1;1;1;1;2;1;3;1;4;1;4;4;4;34
+Barisal;27;62707008;10402707008;Dokkhin Ruiya;Rani Chowdory Ar Bari;5;25;109;2;1;2;1;1;2;1;2;2;2;3;4;4;4;4;4;39
+Barisal;27;62707001;10402707001;Dokkhin Ruiya;Al-Amin Bari;80;446;100;2;1;3;1;1;2;1;1;3;2;3;3;1;4;4;4;36
+Barisal;27;62707002;10402707002;Dokkhin Ruiya;Bacchu Talukdar Ar Bari;17;120;105;2;1;3;1;1;2;1;2;3;2;3;3;4;4;4;4;40
+Barisal;27;62707003;10402707003;Dokkhin Ruiya;Md. Sumon Han Ar Bari;8;40;90;1;1;3;1;1;2;1;2;3;2;3;4;4;4;4;4;40
+Barisal;27;62707004;10402707004;Dokkhin Ruiya;Farok Han Ar Bari;7;35;105;2;1;3;1;1;2;1;2;2;2;3;4;4;4;4;4;40
+Barisal;27;62707005;10402707005;Dokkhin Ruiya;Moner Han Ar Bari;7;50;90;2;1;3;1;1;2;1;2;2;2;3;4;4;4;4;4;40
+Barisal;27;62707006;10402707006;Dokkhin Ruiya;Kholil Membar Ar Bari;10;50;100;2;1;3;1;1;2;2;2;2;2;1;4;4;4;4;4;39
+Barisal;27;62707007;10402707007;Dokkhin Ruiya;Md. Jakir Ar Bari;10;37;100;3;1;3;1;1;2;3;2;1;1;1;4;4;4;4;4;39
+Barisal;27;62707009;10402707009;Dokkhin Ruiya;Md. Badol Han Ar Bari;7;38;110;2;1;3;1;1;2;1;2;2;2;3;4;4;4;4;4;40
+Barisal;27;62708001;10402708001;Uttor Ruiya;Mintu Talukdar Ar Bari;29;120;80;2;1;2;1;1;1;1;2;2;2;3;2;1;4;4;4;33
+Barisal;27;62708002;10402708002;Uttor Ruiya;Rasheda Membarer Bari;10;50;90;2;1;3;1;1;1;1;2;3;2;3;3;3;4;4;4;38
+Barisal;27;62708006;10402708006;Uttor Ruiya;Ajij Membarer Bari;17;90;120;2;1;3;1;1;2;1;1;3;2;2;3;4;4;4;4;38
+Barisal;27;62708005;10402708005;Uttor Ruiya;Shamol Ghopramer Bari;12;60;100;2;1;2;1;1;1;1;1;2;2;2;2;4;4;4;4;34
+Barisal;27;62708008;10402708008;Uttor Ruiya;Mahnun Ar Bari;23;115;50;2;1;2;1;1;2;1;1;2;2;1;4;4;4;4;4;36
+Barisal;27;62708007;10402708007;Uttor Ruiya;Kamal Sekdarer Bari;65;325;50;2;1;2;1;1;1;1;1;2;2;2;3;4;4;4;4;35
+Barisal;27;62708014;10402708014;Uttor Ruiya;Md. Goni Han;40;200;80;3;1;3;1;1;1;1;2;2;3;2;4;4;4;4;4;40
+Barisal;27;62708015;10402708015;Uttor Ruiya;Md. Jakir Han Ar Bari;22;110;70;2;1;2;1;1;2;1;2;2;2;2;4;4;4;4;4;38
+Barisal;27;62708013;10402708013;Uttor Ruiya;Md. Manek Han Ar Bari;30;150;70;2;1;2;1;1;2;1;2;2;3;2;4;4;4;4;4;39
+Barisal;27;62708012;10402708012;Uttor Ruiya;Md. Kalek Han Ar Bari;30;155;80;2;1;1;1;1;1;1;2;2;2;2;4;4;4;4;4;36
+Barisal;27;62708011;10402708011;Uttor Ruiya;Md. Mahmud Ar Bari;21;105;60;2;1;3;1;1;2;2;2;2;2;2;4;4;4;4;4;40
+Barisal;27;62708009;10402708009;Uttor Ruiya;Babul Mollar Bari;23;115;65;2;1;3;1;1;2;2;2;2;2;2;4;4;4;4;4;40
+Barisal;27;62708010;10402708010;Uttor Ruiya;Md. Selim Han Ar Bari;15;75;60;1;1;2;1;1;2;2;1;2;2;3;4;4;4;4;4;38
+Barisal;27;62708004;10402708004;Uttor Ruiya;Md. Geyas Ar Bari;17;85;70;2;1;3;2;1;2;1;2;2;2;1;3;3;4;4;4;37
+Barisal;27;62708003;10402708003;Uttor Ruiya;Abul Mollar Bari;15;75;100;2;1;1;1;1;1;1;4;1;2;2;4;1;4;4;4;34
+Barisal;4;60401007;10400401007;Ulal Gani;Molla bari;22;110;150;4;3;4;3;1;4;4;4;4;4;4;4;2;4;4;4;57
+Barisal;4;60401006;10400401006;Ulal Gani;Bishash bari;12;60;150;2;1;4;1;3;4;1;4;4;4;4;4;2;4;4;4;50
+Barisal;4;60401005;10400401005;Ulal Gani;Hawlader bari;22;110;150;3;3;4;3;1;2;4;3;3;3;4;4;2;4;4;4;51
+Barisal;4;60401004;10400401004;Ulal Gani;Hawlader bari/Conducter bari;13;65;120;1;1;4;3;1;1;3;4;3;2;3;4;2;4;3;3;42
+Barisal;4;60401003;10400401003;Ulal Gani;Ponchat bari;10;50;100;3;4;4;4;4;4;4;4;3;3;4;4;2;4;4;4;59
+Barisal;4;60401002;10400401002;Ulal Gani;Nazir bari/Burir bari;8;40;125;3;1;3;1;2;2;3;3;2;3;1;4;2;4;4;4;42
+Barisal;4;60401001;10400401001;Ulal Gani;Gazi bari;12;60;150;2;1;3;1;3;2;4;2;3;3;1;4;3;4;4;4;44
+Barisal;4;60403004;10400403004;Rokeya Amin Dokshin;Munse Bari;16;80;140;3;3;4;2;1;1;3;4;4;3;4;3;1;4;1;2;43
+Barisal;4;60403003;10400403003;Rokeya Amin Dokshin;Khan Bari;15;75;150;2;1;3;3;1;1;1;2;3;2;1;3;1;4;2;2;32
+Barisal;4;60403002;10400403002;Rokeya Amin Dokshin;Khalifa Bari;12;60;140;3;2;4;2;2;3;4;3;3;3;1;4;3;4;4;4;49
+Barisal;4;60403010;10400403010;Rokeya Amin Dokshin;Dalan Bari;20;100;200;2;3;4;2;1;1;2;4;3;2;3;4;1;3;2;1;38
+Barisal;4;60403009;10400403009;Rokeya Amin Dokshin;Shikdar bari;15;75;100;4;4;4;3;3;4;4;4;3;3;4;4;3;4;2;1;54
+Barisal;4;60403008;10400403008;Rokeya Amin Dokshin;Talukdar Bari;14;70;120;2;3;4;2;3;4;4;4;3;3;4;2;1;4;4;4;51
+Barisal;4;60403007;10400403007;Rokeya Amin Dokshin;Shekdar Bari;20;100;100;4;1;4;3;1;4;4;4;4;3;4;4;3;4;4;2;53
+Barisal;4;60403006;10400403006;Rokeya Amin Dokshin;Munse Bari;25;110;100;2;1;3;3;1;1;1;2;3;2;1;3;1;4;2;2;32
+Barisal;4;60403005;10400403005;Rokeya Amin Dokshin;Hawladar Bari;12;60;125;4;1;3;2;2;3;4;4;3;2;4;2;3;4;1;2;44
+Barisal;4;60403001;10400403001;Rokeya Amin Dokshin;Puran bari;12;60;130;1;1;4;2;3;3;3;3;3;3;1;4;3;4;4;4;46
+Barisal;4;60404002;10400404002;Al Madani-Madrasa Road;Madani Masjeed Purbo Pash;10;50;40;2;1;4;1;3;3;4;4;3;1;2;2;4;4;4;4;46
+Barisal;4;60404001;10400404001;Al Madani-Madrasa Road;Uttor Aman Tagon Vati Khala Sarak;90;380;100;2;1;4;1;2;2;3;3;2;3;3;3;1;3;3;2;38
+Barisal;4;60404003;10400404003;Al Madani-Madrasa Road;School Ar Dokhin Pashe;22;190;60;3;2;4;2;1;3;4;4;3;2;1;3;3;3;4;2;44
+Barisal;4;60404004;10400404004;Al Madani-Madrasa Road;Anoyar Master Bari;35;175;30;1;1;4;2;4;3;2;4;1;4;3;3;1;3;3;2;41
+Barisal;4;60404005;10400404005;Al Madani-Madrasa Road;Kerani Bari;10;50;30;1;1;4;1;1;3;4;3;3;4;3;2;3;4;1;2;40
+Barisal;4;60404006;10400404006;Al Madani-Madrasa Road;Bank Moper Bari;7;35;30;1;4;4;1;1;4;4;3;3;4;3;3;3;4;1;2;45
+Barisal;4;60404007;10400404007;Al Madani-Madrasa Road;Cawniya Thana Sonlogno;25;120;25;1;1;4;1;1;1;1;4;3;1;3;3;1;4;1;2;32
+Barisal;4;60404011;10400404011;Al Madani-Madrasa Road;Madrano;50;245;60;1;1;4;1;4;1;1;4;2;3;4;4;2;4;4;4;44
+Barisal;4;60404010;10400404010;Al Madani-Madrasa Road;Haned Megher Bari;25;110;40;2;1;4;1;3;2;1;4;2;3;4;4;2;4;4;4;45
+Barisal;4;60404009;10400404009;Al Madani-Madrasa Road;Modena Dokkhin Pash;7;35;25;4;2;4;1;1;2;4;4;4;3;3;1;1;4;2;2;42
+Barisal;4;60404008;10400404008;Al Madani-Madrasa Road;Vate Khana Pirbo Pash;10;45;20;1;1;1;1;1;1;1;3;3;1;3;1;1;3;1;1;24
+Barisal;4;60405004;10400405004;New Vatikhana Uttar Purbo;Deger Purbo Pash;40;200;25;1;1;3;1;2;2;1;3;2;2;1;3;2;4;4;4;36
+Barisal;4;60405005;10400405005;New Vatikhana Uttar Purbo;Vateghara Purbo Pash;135;550;60;1;1;4;1;2;2;2;3;3;1;1;3;3;3;3;3;36
+Barisal;4;60405006;10400405006;New Vatikhana Uttar Purbo;Vateghana Jhora Masjeed Ar Purbo Pash;20;85;15;2;1;3;1;1;2;1;2;3;2;1;4;3;3;4;3;36
+Barisal;4;60405001;10400405001;New Vatikhana Uttar Purbo;Sahjahan Miyar Goli;30;150;40;3;1;4;1;4;3;4;4;4;4;3;4;4;4;4;4;55
+Barisal;4;60405002;10400405002;New Vatikhana Uttar Purbo;Vati Ghana Bazzar Ar Purbo Pash;70;350;65;4;1;4;1;3;3;4;4;3;4;1;3;3;3;4;4;49
+Barisal;4;60405003;10400405003;New Vatikhana Uttar Purbo;Kaki Bari;200;1000;70;1;1;3;1;1;1;1;2;1;1;1;2;2;3;1;3;25
+Barisal;4;60406002;10400406002;New Vatikhana Uttar Poschim;Kader Sarak;50;230;50;4;1;4;1;3;3;4;4;3;3;3;4;3;4;4;4;52
+Barisal;4;60406003;10400406003;New Vatikhana Uttar Poschim;Jhap;104;510;60;1;1;3;1;1;2;2;2;2;2;1;3;4;3;4;3;35
+Barisal;4;60406001;10400406001;New Vatikhana Uttar Poschim;Madrasha Compound;25;115;30;3;1;4;1;3;3;4;4;4;3;3;4;4;4;4;4;53
+Barisal;4;60406004;10400406004;New Vatikhana Uttar Poschim;Nuru Hujurer Bari;30;130;50;1;1;4;1;1;2;1;4;3;3;1;4;3;3;4;3;39
+Barisal;4;60406005;10400406005;New Vatikhana Uttar Poschim;New Bateghana Prodhan Sarak;130;610;70;1;1;4;1;1;3;1;4;2;2;2;3;3;3;4;3;38
+Barisal;4;60406006;10400406006;New Vatikhana Uttar Poschim;Sahjahan Miyar Goli;30;140;30;1;1;3;1;1;2;1;3;3;2;1;3;3;3;4;3;35
+Barisal;4;60407006;10400407006;New Vatikhana Dokshin;Soiwd Arif Ar Bari;35;175;60;3;1;4;1;1;1;2;3;3;2;4;3;4;3;4;4;43
+Barisal;4;60407005;10400407005;New Vatikhana Dokshin;Rofeya Mema And Badon Miyar Bari;40;200;60;3;1;4;1;1;1;1;3;3;2;3;2;4;3;4;4;40
+Barisal;4;60407004;10400407004;New Vatikhana Dokshin;Akra Bari;50;250;60;1;1;2;1;1;2;1;3;2;2;2;3;3;3;4;4;35
+Barisal;4;60407003;10400407003;New Vatikhana Dokshin;Gorong Shep Bari;20;100;40;1;1;3;1;3;3;1;3;3;2;1;3;2;3;4;4;38
+Barisal;4;60407002;10400407002;New Vatikhana Dokshin;Daroga Bari;25;125;40;2;1;4;3;4;4;3;4;3;4;4;4;1;4;1;3;49
+Barisal;4;60407001;10400407001;New Vatikhana Dokshin;Sorkar Bari;20;100;50;1;1;4;3;2;2;1;4;3;4;4;4;1;4;1;3;42
+Barisal;4;60408001;10400408001;Shaw Road Uttar Poschim;Haji Bari;100;500;60;2;1;4;3;3;4;3;4;3;4;2;4;1;4;4;3;49
+Barisal;4;60408002;10400408002;Shaw Road Uttar Poschim;Tara Miyar Bari;80;400;60;2;1;4;3;3;4;3;4;3;4;2;4;1;4;4;3;49
+Barisal;4;60408003;10400408003;Shaw Road Uttar Poschim;Mayar Bari;100;500;50;3;1;4;1;1;2;2;3;3;2;3;2;4;3;4;4;42
+Barisal;4;60408004;10400408004;Shaw Road Uttar Poschim;Vhate Sodor/ Dulu Miyara Bari;70;370;50;3;1;4;1;1;1;2;3;3;3;3;3;4;3;4;4;43
+Barisal;4;60408005;10400408005;Shaw Road Uttar Poschim;Ketas Bari;60;300;60;2;1;3;1;1;2;1;2;3;2;2;4;4;4;4;4;40
+Barisal;4;60409001;10400409001;Shaw Road Uttar Purbo;Sonal I Moor;17;90;60;4;4;4;3;4;4;3;4;3;4;2;4;2;4;4;4;57
+Barisal;4;60409002;10400409002;Shaw Road Uttar Purbo;Rohem Bepary Bari;40;200;70;2;1;4;3;3;4;3;4;3;4;4;4;1;4;1;3;48
+Barisal;4;60409003;10400409003;Shaw Road Uttar Purbo;Usuf Miyar Bari;20;100;60;3;1;3;1;1;3;1;2;4;2;2;4;3;4;4;4;42
+Barisal;4;60409005;10400409005;Shaw Road Uttar Purbo;Jamunamek Sarak;40;200;60;2;1;3;1;1;1;1;1;3;2;1;2;2;4;4;4;33
+Barisal;4;60409004;10400409004;Shaw Road Uttar Purbo;Vuiya Vari;50;250;70;3;2;4;2;2;3;2;3;3;3;3;4;2;4;3;4;47
+Barisal;30;63001001;10403001001;Koladema Khana Bari;Fojol Ali Sardar;42;210;62;1;1;4;1;1;2;1;3;2;2;3;4;3;4;4;4;40
+Barisal;30;63001002;10403001002;Koladema Khana Bari;Noyon Bari;26;130;60;1;1;4;1;1;1;1;4;4;4;4;4;3;4;4;4;45
+Barisal;30;63001003;10403001003;Koladema Khana Bari;Chokedar Bari;42;210;60;1;1;4;1;1;2;1;3;2;2;4;4;3;4;4;4;41
+Barisal;30;63001004;10403001004;Koladema Khana Bari;Karikar Bari;40;20;65;1;1;1;1;2;2;3;3;4;3;4;4;3;4;4;4;44
+Barisal;30;63001005;10403001005;Koladema Khana Bari;Asrab Khan;42;210;80;1;1;1;1;1;1;3;3;3;2;3;3;3;3;4;4;37
+Barisal;30;63001006;10403001006;Koladema Khana Bari;Fored Khan;39;195;70;1;1;1;1;1;2;3;3;3;2;3;3;3;3;4;4;38
+Barisal;30;63002006;10403002006;Uttar Koladema;Selim Chaprashe;31;155;100;2;1;1;1;1;1;2;3;3;2;2;2;2;3;4;4;34
+Barisal;30;63002005;10403002005;Uttar Koladema;Rofek Kaji;22;110;100;2;1;1;1;1;1;2;3;3;2;3;2;2;3;4;4;35
+Barisal;30;63002004;10403002004;Uttar Koladema;Noyon Han;34;170;100;2;1;3;2;1;1;3;3;3;2;2;2;2;2;4;4;37
+Barisal;30;63002001;10403002001;Uttar Koladema;Jafor Mir Bari;32;160;100;1;1;4;1;1;1;1;4;2;2;3;4;2;4;4;4;39
+Barisal;30;63002002;10403002002;Uttar Koladema;Badhsa Han;30;150;100;2;1;3;1;1;1;1;4;2;1;3;4;3;4;4;4;39
+Barisal;30;63002003;10403002003;Uttar Koladema;Moslem Khan;41;205;100;2;1;3;2;2;2;2;3;3;2;2;4;4;2;4;4;42
+Barisal;30;63003006;10403003006;Dokshin Koladema;Soref/Munse/Han Bari;73;365;62;2;2;3;2;1;3;2;3;3;2;2;3;4;3;4;4;43
+Barisal;30;63003008;10403003008;Dokshin Koladema;Fokir Bari;67;335;55;2;1;3;2;3;2;2;3;3;2;3;2;4;3;4;4;43
+Barisal;30;63003001;10403003001;Dokshin Koladema;Han Bari;25;125;70;1;1;4;1;1;1;1;3;2;1;3;3;4;4;4;4;38
+Barisal;30;63003003;10403003003;Dokshin Koladema;Sardar Bari;45;225;52;2;1;4;1;3;2;2;3;3;3;2;2;2;3;4;4;41
+Barisal;30;63003004;10403003004;Dokshin Koladema;Majer Bari;44;220;75;2;1;3;1;3;3;2;3;3;3;2;4;2;3;4;4;43
+Barisal;30;63003007;10403003007;Dokshin Koladema;Kha Jahan;64;320;70;2;2;3;2;1;2;2;3;3;2;3;3;4;3;4;4;43
+Barisal;30;63003005;10403003005;Dokshin Koladema;Sajahan Malek;49;245;70;2;1;3;1;2;3;2;3;3;2;2;4;4;3;4;4;43
+Barisal;30;63003002;10403003002;Dokshin Koladema;Kaji Bari;24;120;72;2;2;4;1;1;1;1;3;1;1;1;3;4;4;4;4;37
+Barisal;30;63004005;10403004005;Gonpara Kashipur Chawmatha;Bogar Bari;20;100;70;1;1;2;2;1;1;4;1;1;1;1;2;1;1;2;1;23
+Barisal;30;63004006;10403004006;Gonpara Kashipur Chawmatha;Moslem Khan;25;125;60;2;3;4;1;1;1;4;2;1;1;1;3;3;3;4;4;38
+Barisal;30;63004007;10403004007;Gonpara Kashipur Chawmatha;Jalal Sordar;20;100;40;2;1;3;1;1;1;4;2;1;1;1;2;2;3;2;4;31
+Barisal;30;63004009;10403004009;Gonpara Kashipur Chawmatha;Manager Seli Beparer Bari;25;125;67;2;1;4;2;1;2;4;1;1;1;1;2;2;3;3;3;33
+Barisal;30;63004003;10403004003;Gonpara Kashipur Chawmatha;Nur Dr. Bari;20;100;60;1;1;4;1;1;1;1;2;2;3;3;2;4;4;4;4;38
+Barisal;30;63004002;10403004002;Gonpara Kashipur Chawmatha;Jalal Maje;25;125;70;1;1;4;1;1;3;1;2;1;3;3;1;3;4;4;4;37
+Barisal;30;63004001;10403004001;Gonpara Kashipur Chawmatha;Kashipur Girls School;20;100;60;1;1;4;1;1;3;1;2;3;1;3;4;2;4;4;4;39
+Barisal;30;63004004;10403004004;Gonpara Kashipur Chawmatha;Md. Abul Hossain Molla;20;100;40;1;1;4;2;2;2;3;4;2;2;2;3;4;4;4;4;44
+Barisal;30;63005001;10403005001;Narayan Kathi;Munsur Maji;25;125;80;2;1;4;1;2;3;4;2;3;2;4;4;3;4;4;3;46
+Barisal;30;63005002;10403005002;Narayan Kathi;Nurul Islam;25;125;80;1;1;4;1;2;2;1;2;3;1;2;3;3;4;3;4;37
+Barisal;30;63005003;10403005003;Narayan Kathi;Alom Master Ar Bari;20;100;60;1;1;4;1;2;2;4;3;1;1;2;4;2;4;4;4;40
+Barisal;30;63005007;10403005007;Narayan Kathi;Moner Jaman Talukdar Ar Bari;25;125;60;1;2;4;2;2;2;4;4;4;2;1;4;1;4;4;4;45
+Barisal;30;63005006;10403005006;Narayan Kathi;Jomedar Bari;25;125;70;1;1;3;2;3;3;1;4;3;4;3;4;3;4;4;4;47
+Barisal;30;63005004;10403005004;Narayan Kathi;Abulder Bari;10;50;67;1;1;4;1;3;2;4;2;1;1;1;4;2;4;4;4;39
+Barisal;30;63005005;10403005005;Narayan Kathi;Sahen Comisonar Ar Bari;20;100;70;1;1;4;2;2;3;1;4;3;4;2;4;3;4;4;4;46
+Barisal;30;63006009;10403006009;Dokshin Gonpara;Madbar Bari;35;175;40;1;1;4;1;1;2;3;3;3;3;3;4;3;4;4;4;44
+Barisal;30;63006008;10403006008;Dokshin Gonpara;Khokon / Alo Kha Bari;40;200;60;3;3;4;4;2;4;4;2;2;3;3;3;2;3;1;4;47
+Barisal;30;63006006;10403006006;Dokshin Gonpara;Sekdar BAri;25;125;70;3;1;4;3;1;4;4;4;3;3;3;2;2;3;1;4;45
+Barisal;30;63006007;10403006007;Dokshin Gonpara;Sattar/ Rostun Ukil Bari;35;175;60;3;3;4;4;2;4;4;2;2;3;3;3;2;2;1;4;46
+Barisal;30;63006001;10403006001;Dokshin Gonpara;Anuder Bari;25;125;60;1;1;3;1;1;2;3;2;3;3;2;2;3;4;4;4;39
+Barisal;30;63006005;10403006005;Dokshin Gonpara;Dulal Molla Bari;25;125;50;1;1;4;1;2;2;4;2;2;2;3;3;3;3;4;4;41
+Barisal;30;63006003;10403006003;Dokshin Gonpara;Fotuyar/ Molla Bari;30;150;60;1;1;4;1;2;1;4;2;3;2;3;2;2;3;1;2;34
+Barisal;30;63006004;10403006004;Dokshin Gonpara;Goyal Bari;25;125;60;1;3;4;1;1;2;4;2;1;1;1;4;3;4;4;3;39
+Barisal;30;63007006;10403007006;Purbo Chutha;Jasim Khan;25;130;70;1;1;3;1;1;1;1;3;3;1;1;3;3;4;4;4;35
+Barisal;30;63007005;10403007005;Purbo Chutha;Selim Bari;25;125;60;1;1;4;1;1;2;1;3;3;2;2;3;4;4;4;4;40
+Barisal;30;63007004;10403007004;Purbo Chutha;Noyab Ali;25;125;65;4;2;4;1;1;3;1;4;3;2;2;3;4;4;4;4;46
+Barisal;30;63007007;10403007007;Purbo Chutha;Dulal Haji;11;55;55;1;1;4;1;1;3;1;4;2;3;2;4;4;4;4;4;43
+Barisal;30;63007008;10403007008;Purbo Chutha;Mokles;10;50;55;1;2;4;1;1;3;1;3;2;2;2;3;4;4;4;4;41
+Barisal;30;63007009;10403007009;Purbo Chutha;Khalek Han;5;25;35;1;1;4;1;1;1;2;3;2;2;2;3;3;4;4;4;38
+Barisal;30;63007003;10403007003;Purbo Chutha;Khalek Molla;15;75;60;1;1;3;1;1;2;1;3;3;3;1;4;2;4;4;4;38
+Barisal;30;63007002;10403007002;Purbo Chutha;Jounal Munshe Bari;7;35;100;1;1;3;1;1;3;1;4;4;1;3;4;4;4;4;4;43
+Barisal;30;63007001;10403007001;Purbo Chutha;Masum Bella;10;50;50;1;1;3;1;1;2;1;2;3;1;2;3;2;4;4;4;35
+Barisal;30;63008001;10403008001;Uttar Chutha;Hanef Han;5;25;50;1;2;4;1;1;2;2;3;1;1;1;3;4;4;4;4;38
+Barisal;30;63008002;10403008002;Uttar Chutha;Wahab;10;50;50;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Barisal;30;63008003;10403008003;Uttar Chutha;Rohim;40;200;70;1;1;4;1;1;2;2;4;3;2;3;4;2;4;4;4;42
+Barisal;30;63008004;10403008004;Uttar Chutha;Sohed/Hasem Bari;7;35;30;1;1;3;1;1;2;1;4;2;2;2;4;2;4;4;4;38
+Barisal;30;63008005;10403008005;Uttar Chutha;Foisal Han;18;90;70;1;2;4;1;1;3;3;4;3;2;2;3;4;4;4;4;45
+Barisal;30;63008006;10403008006;Uttar Chutha;Rased Comisonar Bari;15;125;70;1;2;4;1;2;3;2;4;2;2;2;2;3;4;4;4;42
+Barisal;30;63009007;10403009007;Poschim Chutha;Kaji BAri;15;75;60;1;2;4;1;1;2;1;4;4;2;3;4;2;4;4;4;43
+Barisal;30;63009006;10403009006;Poschim Chutha;Nur Alom;15;75;50;1;2;4;1;1;2;1;3;3;2;2;4;3;4;4;4;41
+Barisal;30;63009005;10403009005;Poschim Chutha;Mollek Bari;20;100;65;1;1;3;1;1;2;1;4;3;1;2;4;4;4;4;4;40
+Barisal;30;63009004;10403009004;Poschim Chutha;Chap Rashe Bari;25;125;65;1;1;4;1;2;2;1;3;3;1;2;4;3;4;4;4;40
+Barisal;30;63009003;10403009003;Poschim Chutha;Talukdar Bari;33;165;65;1;1;3;1;1;2;1;4;2;4;2;4;1;4;4;4;39
+Barisal;30;63009002;10403009002;Poschim Chutha;Haji Bepary;25;125;60;4;1;4;1;1;2;1;3;3;1;2;4;1;4;4;4;40
+Barisal;30;63009001;10403009001;Poschim Chutha;Abdul Roshed Bepary;17;85;55;1;1;3;1;1;2;1;3;3;1;1;4;1;4;4;4;35
+Barisal;2;60201001;10400201001;Sardar Bari-Kalakhan Bari;Basher Hat Dr. Bari;50;260;100;1;1;3;1;1;2;1;3;3;2;2;3;2;4;4;3;36
+Barisal;2;60201002;10400201002;Sardar Bari-Kalakhan Bari;Kalakhar Bari;70;300;150;1;1;3;1;2;2;2;2;3;2;2;2;2;4;1;3;33
+Barisal;2;60201003;10400201003;Sardar Bari-Kalakhan Bari;Balu Miyar Bari;60;300;80;2;1;3;1;2;2;2;2;3;2;2;3;2;4;1;3;35
+Barisal;2;60201004;10400201004;Sardar Bari-Kalakhan Bari;Hawladar Bari;95;400;120;2;1;3;1;2;2;2;2;3;2;2;3;3;4;4;3;39
+Barisal;2;60201005;10400201005;Sardar Bari-Kalakhan Bari;Beger Bari;100;500;120;2;1;3;1;1;2;2;2;3;2;2;3;2;3;4;3;36
+Barisal;2;60201006;10400201006;Sardar Bari-Kalakhan Bari;Sordarer Bari;50;200;80;2;1;3;1;2;2;2;3;3;2;2;3;3;4;4;3;40
+Barisal;2;60201007;10400201007;Sardar Bari-Kalakhan Bari;Harun Sekdar Bari;80;400;120;2;1;3;1;1;2;2;2;3;2;2;3;2;4;4;3;37
+Barisal;2;60202001;10400202001;Kawnia Prothom Gali-Dighir Par;Naser Bari;30;150;160;2;2;3;1;2;2;2;3;3;3;2;3;3;4;1;4;40
+Barisal;2;60202002;10400202002;Kawnia Prothom Gali-Dighir Par;Cauneya Cristin Colony;70;350;120;1;1;1;1;1;2;2;2;2;2;1;1;1;1;3;3;25
+Barisal;2;60202003;10400202003;Kawnia Prothom Gali-Dighir Par;Dagulu Miyar Bari;35;180;80;2;1;3;1;1;2;2;3;3;3;2;2;3;4;4;4;40
+Barisal;2;60202005;10400202005;Kawnia Prothom Gali-Dighir Par;Caunselar Degir Par;30;150;60;2;1;3;1;1;2;2;2;3;2;2;2;3;4;1;3;34
+Barisal;2;60202004;10400202004;Kawnia Prothom Gali-Dighir Par;Baby Ukil Ar Bari;60;260;80;2;1;2;1;1;2;2;2;3;2;2;3;1;4;4;3;35
+Barisal;2;60202007;10400202007;Kawnia Prothom Gali-Dighir Par;Peskar Bari;35;180;80;2;2;3;2;2;2;4;3;3;3;3;3;2;4;4;4;46
+Barisal;2;60202006;10400202006;Kawnia Prothom Gali-Dighir Par;Comisonaner Bari Ar Pichone;25;130;60;2;1;3;1;2;2;2;2;3;3;2;3;2;4;4;3;39
+Barisal;2;60203008;10400203008;Prothom Gali-Janukisingh Road;Hasan Vela;20;150;80;1;1;3;2;2;2;3;3;2;3;1;4;1;4;4;4;40
+Barisal;2;60203007;10400203007;Prothom Gali-Janukisingh Road;Babul Miyar Bari;10;40;60;4;4;3;2;3;1;1;2;2;2;1;4;1;4;4;4;42
+Barisal;2;60203009;10400203009;Prothom Gali-Janukisingh Road;Monu Miyar Bari;10;60;60;1;1;3;1;2;1;4;2;1;3;1;3;1;3;4;4;35
+Barisal;2;60203010;10400203010;Prothom Gali-Janukisingh Road;Mote Mohol;10;30;50;4;4;4;4;2;1;4;2;2;2;1;4;1;4;4;4;47
+Barisal;2;60203011;10400203011;Prothom Gali-Janukisingh Road;Munshe Abu Miyar Goli;50;250;100;1;1;4;2;2;2;3;3;2;2;1;4;1;4;4;4;40
+Barisal;2;60203004;10400203004;Prothom Gali-Janukisingh Road;Khalifa Bari;25;150;90;1;1;3;1;1;2;4;2;2;3;1;3;1;4;4;4;37
+Barisal;2;60203003;10400203003;Prothom Gali-Janukisingh Road;Seddek Miyar Bari;20;100;100;1;1;2;1;1;1;2;2;2;2;1;4;1;4;4;4;33
+Barisal;2;60203002;10400203002;Prothom Gali-Janukisingh Road;Horejon Potti;100;500;90;1;1;2;2;2;1;2;2;2;2;1;1;1;1;2;2;25
+Barisal;2;60203001;10400203001;Prothom Gali-Janukisingh Road;Mainul Islam;50;200;70;1;1;2;1;2;1;2;2;2;2;1;4;1;4;4;4;34
+Barisal;2;60203005;10400203005;Prothom Gali-Janukisingh Road;Mohuri Bari;50;230;90;1;1;4;1;2;1;2;2;2;3;1;4;1;4;4;4;37
+Barisal;2;60203006;10400203006;Prothom Gali-Janukisingh Road;Molla Bari;18;80;100;1;1;3;1;3;4;1;2;2;3;1;4;1;4;4;4;39
+Barisal;2;60204008;10400204008;Monosha Bari-Club Road-Branch Road;Halem Miyar BAri;45;200;80;1;1;1;2;2;1;3;2;2;3;1;4;1;3;4;4;35
+Barisal;2;60204009;10400204009;Monosha Bari-Club Road-Branch Road;Khalifa Vuiyar Bari;100;500;80;1;1;1;1;2;1;4;2;2;2;1;3;1;4;4;4;34
+Barisal;2;60204010;10400204010;Monosha Bari-Club Road-Branch Road;Hemayet Miyar Bari;20;100;80;1;1;3;1;2;1;3;2;2;3;1;4;1;4;4;4;37
+Barisal;2;60204011;10400204011;Monosha Bari-Club Road-Branch Road;Profesor Bari;40;200;100;1;1;4;1;2;1;4;2;2;3;1;4;1;4;4;4;39
+Barisal;2;60204012;10400204012;Monosha Bari-Club Road-Branch Road;Badsha Miyar Goli;50;250;80;1;1;2;1;1;1;4;2;2;3;3;4;1;4;4;4;38
+Barisal;2;60204007;10400204007;Monosha Bari-Club Road-Branch Road;Heru Sir Ar Bari;50;300;80;1;1;3;1;2;1;4;2;2;4;3;3;1;4;4;4;40
+Barisal;2;60204006;10400204006;Monosha Bari-Club Road-Branch Road;Mallik Bari Goli;150;650;90;1;1;4;2;1;1;4;2;2;3;1;4;1;4;4;4;39
+Barisal;2;60204013;10400204013;Monosha Bari-Club Road-Branch Road;Mukhaje Bari;150;700;100;1;1;1;1;1;1;2;2;2;2;1;3;1;3;2;2;26
+Barisal;2;60204003;10400204003;Monosha Bari-Club Road-Branch Road;Club Road Napet Potti;150;700;100;1;1;2;2;2;1;3;2;2;3;1;4;1;4;4;4;37
+Barisal;2;60204004;10400204004;Monosha Bari-Club Road-Branch Road;Babul Moshe Ar Bari;50;200;100;1;1;1;2;1;1;1;2;2;3;1;4;1;4;4;4;33
+Barisal;2;60204005;10400204005;Monosha Bari-Club Road-Branch Road;Sahjahan Miyar Bari;30;150;100;1;1;3;2;2;1;2;3;2;2;1;4;1;3;4;4;36
+Barisal;2;60204001;10400204001;Monosha Bari-Club Road-Branch Road;Nemol Kuter;50;200;80;1;1;4;2;2;1;4;2;2;3;1;4;1;4;4;4;40
+Barisal;2;60204002;10400204002;Monosha Bari-Club Road-Branch Road;Akon Vela;30;150;200;1;1;4;2;2;1;4;2;2;3;1;4;1;3;4;4;39
+Barisal;2;60205001;10400205001;Amin Bari;Tuhender Bari;35;175;60;1;1;3;1;1;2;1;2;3;2;2;4;2;4;4;3;36
+Barisal;2;60205002;10400205002;Amin Bari;Bacchuder Bari;20;100;120;1;1;3;2;2;4;2;1;3;2;2;2;2;4;4;3;38
+Barisal;2;60205003;10400205003;Amin Bari;Palbari;60;300;100;1;2;3;1;1;2;2;3;2;3;2;2;1;4;4;4;37
+Barisal;2;60205004;10400205004;Amin Bari;Amin Bari;70;350;140;2;1;3;2;2;2;2;3;2;2;2;1;2;2;2;3;33
+Barisal;2;60205006;10400205006;Amin Bari;Kashem Ukil Ar Bari;15;75;90;2;1;3;2;1;2;2;3;3;2;2;3;2;2;2;3;35
+Barisal;2;60205005;10400205005;Amin Bari;Jelebarir Poler Poschim Pashe;20;100;120;1;1;3;1;2;2;2;3;2;3;3;3;3;2;2;3;36
+Barisal;2;60206007;10400206007;Jele Bari;Kashem Mohol;15;75;70;1;1;4;2;2;1;4;2;2;3;1;4;2;4;4;4;41
+Barisal;2;60206006;10400206006;Jele Bari;Sohrah Miyar Bari;70;350;80;2;1;4;2;4;3;4;3;3;3;3;4;3;4;4;4;51
+Barisal;2;60206005;10400206005;Jele Bari;Thakul Bari;15;80;100;1;1;1;1;1;1;4;2;2;2;1;4;1;1;2;3;28
+Barisal;2;60206004;10400206004;Jele Bari;Haji Bari;45;200;90;1;1;2;2;1;1;4;2;2;3;1;4;4;4;4;4;40
+Barisal;2;60206003;10400206003;Jele Bari;Munal Bormon;45;230;70;1;1;2;1;2;1;4;2;2;3;1;4;1;4;4;4;37
+Barisal;2;60206002;10400206002;Jele Bari;Mojebor Miyar Bari;40;200;70;1;1;1;1;2;2;1;2;2;3;1;3;1;3;4;4;32
+Barisal;2;60206001;10400206001;Jele Bari;Babul Das;50;200;70;1;1;2;1;1;2;2;2;2;3;1;4;1;4;4;4;35
+Barisal;7;60701001;10400701001;Barman Road;Rajjak Khan;85;425;100;1;1;4;1;1;2;1;3;3;4;1;4;1;4;1;3;35
+Barisal;7;60701002;10400701002;Barman Road;Mole Bari;75;375;90;2;1;4;2;1;2;1;3;3;4;2;4;1;4;1;3;38
+Barisal;7;60701003;10400701003;Barman Road;Napet Bari;90;450;90;2;1;4;1;1;2;1;3;3;4;2;4;2;4;1;3;38
+Barisal;7;60701004;10400701004;Barman Road;Mama Khokon Bari;75;375;100;2;1;4;2;3;3;1;3;3;4;2;3;1;3;1;1;37
+Barisal;7;60701005;10400701005;Barman Road;Banrjo Road Talukdar Bari;30;150;90;1;1;3;2;1;3;1;3;3;2;2;2;1;3;4;4;36
+Barisal;7;60702002;10400702002;Saha Para Mahalla;Nanna Khalifar Bari;110;550;100;1;1;3;1;1;2;1;3;2;4;2;4;1;4;4;4;38
+Barisal;7;60702001;10400702001;Saha Para Mahalla;Ghol Bari;35;175;100;2;1;3;1;1;2;1;3;3;4;2;4;1;4;1;3;36
+Barisal;7;60702003;10400702003;Saha Para Mahalla;Sekdar Bari;25;125;27;1;1;3;1;1;1;1;3;3;4;2;3;1;3;1;3;32
+Barisal;7;60702004;10400702004;Saha Para Mahalla;Soiyod Bari;36;160;50;1;1;4;2;1;2;1;3;3;4;2;3;2;3;1;3;36
+Barisal;7;60703001;10400703001;Chondra Para Mahalla;Asmot Master Bari;120;600;70;1;1;4;1;1;2;1;3;3;4;2;3;2;4;1;3;36
+Barisal;7;60703002;10400703002;Chondra Para Mahalla;Sobhan Beshas Bari;35;175;45;1;1;4;1;1;2;1;3;3;4;2;4;2;4;1;3;37
+Barisal;7;60703007;10400703007;Chondra Para Mahalla;Forkan Miyar Bari;60;300;65;2;1;4;1;1;1;1;3;3;4;2;4;2;4;1;3;37
+Barisal;7;60703003;10400703003;Chondra Para Mahalla;Chondro Para Bos Bari;75;375;100;1;1;4;1;1;2;1;3;3;4;2;4;1;4;1;3;36
+Barisal;7;60703004;10400703004;Chondra Para Mahalla;Chondro Para Chturo Miyar Bari;50;250;80;2;1;4;2;1;2;1;3;3;4;2;4;2;4;1;3;39
+Barisal;7;60703005;10400703005;Chondra Para Mahalla;Rajjak Miyar Bari;60;300;90;2;1;4;2;1;2;1;3;3;4;3;4;1;4;4;4;43
+Barisal;7;60703006;10400703006;Chondra Para Mahalla;Talukdar Bari;70;350;80;2;1;4;2;1;2;1;3;3;4;3;4;2;4;1;2;39
+Barisal;7;60704003;10400704003;Section Road Mahalla;Enganeyar Honufar Bari;95;475;80;2;1;4;1;1;2;1;3;3;4;2;4;1;4;4;4;41
+Barisal;7;60704002;10400704002;Section Road Mahalla;Kashem Manjel;50;250;80;2;1;4;2;1;2;1;3;3;3;2;4;1;4;4;4;41
+Barisal;7;60704001;10400704001;Section Road Mahalla;Selim Ar Bari;75;375;80;2;1;4;2;1;1;1;3;3;4;2;4;1;4;4;4;41
+Barisal;7;60705003;10400705003;Pantho Road Mahalla;Kamal Sir Ar Bari;25;125;45;2;1;4;2;1;2;1;3;4;4;2;4;1;4;1;3;39
+Barisal;7;60705004;10400705004;Pantho Road Mahalla;Haji Bari;115;575;50;1;1;4;1;1;1;1;2;3;4;2;4;1;4;1;3;34
+Barisal;7;60705002;10400705002;Pantho Road Mahalla;Monju Miya Bari;25;125;60;1;1;4;2;1;1;1;3;3;3;2;4;1;4;4;4;39
+Barisal;7;60705001;10400705001;Pantho Road Mahalla;Dhakaiya Bari;100;500;70;1;1;4;1;1;1;1;3;3;4;2;4;1;4;1;3;35
+Barisal;7;60705005;10400705005;Pantho Road Mahalla;Pahu Sarak Moholla;175;875;60;2;1;4;2;1;2;1;3;3;4;2;4;1;4;1;3;38
+Barisal;7;60706003;10400706003;Soap Factory Mahalla;Dr. Bari;75;375;65;2;1;4;2;1;2;1;3;3;4;2;4;2;4;4;4;43
+Barisal;7;60706002;10400706002;Soap Factory Mahalla;Fored Miyar Bari;45;225;45;1;1;4;2;1;2;1;3;3;4;2;4;2;4;3;3;40
+Barisal;7;60706001;10400706001;Soap Factory Mahalla;Mote Master Ar Bari;40;200;45;1;1;4;1;1;1;1;3;3;4;2;4;2;4;1;3;36
+Barisal;7;60706004;10400706004;Soap Factory Mahalla;Member Bari;100;500;70;2;1;3;2;1;2;1;3;3;3;2;3;1;4;1;2;34
+Barisal;7;60706005;10400706005;Soap Factory Mahalla;T.N.O Saheber Bari;175;875;75;2;1;4;2;1;2;1;3;3;4;1;3;2;3;3;2;37
+Barisal;7;60707007;10400707007;Choto Miyar Gali;Choto Miyar Bari;45;225;70;2;1;4;1;1;2;1;3;3;4;2;4;2;4;4;4;42
+Barisal;7;60707005;10400707005;Choto Miyar Gali;Kamaler Bari;25;125;40;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Barisal;7;60707004;10400707004;Choto Miyar Gali;Peskar Bari;55;275;70;2;1;4;1;1;1;1;3;3;4;2;3;1;3;1;3;34
+Barisal;7;60707006;10400707006;Choto Miyar Gali;Salam B.D.E Ar Bari;25;125;25;1;1;4;1;1;2;1;3;3;4;2;3;2;4;1;3;36
+Barisal;7;60707008;10400707008;Choto Miyar Gali;Monju Miyar Bari;25;125;30;1;1;4;1;1;1;1;3;3;4;2;4;1;4;4;4;39
+Barisal;7;60707003;10400707003;Choto Miyar Gali;Jahamger Miyar Bari;45;225;50;2;1;1;1;1;1;1;3;3;4;1;3;1;3;2;2;30
+Barisal;7;60707002;10400707002;Choto Miyar Gali;Anoyara Hospital Goli;50;250;40;2;1;1;2;1;2;1;3;3;4;2;3;1;3;2;3;34
+Barisal;7;60707001;10400707001;Choto Miyar Gali;Ahna Garden Goli;60;300;30;1;1;4;1;1;1;1;3;3;4;2;3;1;3;1;3;33
+Barisal;7;60707010;10400707010;Choto Miyar Gali;Sohane Abasoner Goli;16;80;25;2;1;4;1;1;2;1;3;3;4;2;4;2;4;4;4;42
+Barisal;7;60707009;10400707009;Choto Miyar Gali;Khandakar Bari;15;75;40;2;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;40
+Barisal;4;60402001;10400402001;Rokeya Amin Uttar;Mashjid bari;16;80;100;2;1;4;1;1;2;4;4;4;3;2;4;2;4;4;4;46
+Barisal;4;60402002;10400402002;Rokeya Amin Uttar;Shikdar bari;93;65;100;1;1;4;1;2;2;4;4;3;1;1;4;4;4;4;4;44
+Barisal;4;60402006;10400402006;Rokeya Amin Uttar;Sareng bari;10;50;100;2;1;3;1;1;1;1;2;3;1;1;1;1;4;2;1;26
+Barisal;4;60402007;10400402007;Rokeya Amin Uttar;Shikdar bari;12;60;100;1;1;3;1;1;1;1;3;3;1;2;2;1;4;2;1;28
+Barisal;4;60402008;10400402008;Rokeya Amin Uttar;Shorif bari;22;110;120;4;3;4;1;1;1;4;3;3;3;4;2;2;4;2;2;43
+Barisal;4;60402005;10400402005;Rokeya Amin Uttar;Supur company;35;160;60;4;2;4;1;1;1;2;3;3;2;2;2;1;4;2;1;35
+Barisal;4;60402004;10400402004;Rokeya Amin Uttar;Foragi bari;20;100;100;2;4;2;1;2;2;4;2;4;4;4;4;3;4;2;3;47
+Barisal;4;60402003;10400402003;Rokeya Amin Uttar;Molla bari;16;80;100;1;1;4;2;1;4;4;3;4;4;4;4;1;4;2;3;46
+Barisal;24;62401005;10402401005;Jia Nagor;Amjed Bari;100;500;100;1;1;4;1;1;2;1;2;1;1;2;4;4;4;4;4;37
+Barisal;24;62401004;10402401004;Jia Nagor;Madecal Housing;100;500;12;4;1;4;1;1;3;4;4;3;3;4;4;2;4;4;4;50
+Barisal;24;62401002;10402401002;Jia Nagor;Durani Bari;250;1165;120;1;1;4;1;1;1;1;3;1;1;4;1;1;4;4;4;33
+Barisal;24;62401001;10402401001;Jia Nagor;Muhammad Ali;200;1200;120;4;1;4;1;1;1;2;3;3;4;2;4;2;4;4;4;44
+Barisal;24;62401003;10402401003;Jia Nagor;Ranader Bari;100;500;120;4;1;4;1;1;1;2;3;3;4;2;4;2;4;4;4;44
+Barisal;24;62402005;10402402005;Hamid Khan and A Wahed Road Mahalla;Ayaj Uddain Sarak;150;690;120;2;1;4;1;1;1;1;2;3;4;3;3;2;4;3;4;39
+Barisal;24;62402001;10402402001;Hamid Khan and A Wahed Road Mahalla;Ar Hamin Khan;200;992;120;2;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;42
+Barisal;24;62402002;10402402002;Hamid Khan and A Wahed Road Mahalla;Khan Sarak;300;1380;90;2;1;3;1;2;1;4;2;3;3;3;2;4;4;4;4;43
+Barisal;24;62402003;10402402003;Hamid Khan and A Wahed Road Mahalla;Wahed Sarak;80;368;100;2;2;4;2;3;1;4;1;3;3;1;1;4;2;4;4;41
+Barisal;24;62402007;10402402007;Hamid Khan and A Wahed Road Mahalla;Golap Ali Bari;250;1150;120;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Barisal;24;62402006;10402402006;Hamid Khan and A Wahed Road Mahalla;Muda Bari;200;920;130;2;1;4;1;1;1;1;3;3;4;3;4;2;4;1;4;39
+Barisal;24;62402004;10402402004;Hamid Khan and A Wahed Road Mahalla;Akef Ali Sarak;130;598;90;2;3;4;1;1;1;1;3;3;4;3;4;2;4;3;4;43
+Barisal;24;62402008;10402402008;Hamid Khan and A Wahed Road Mahalla;Karal Bari;250;1150;130;2;1;4;1;3;1;1;2;3;4;3;1;4;4;4;4;42
+Barisal;24;62403007;10402403007;Gawsia Sere Bangla Nagor;Medha BAri;280;1288;95;2;1;4;1;1;3;1;3;3;4;3;2;4;4;4;4;44
+Barisal;24;62403005;10402403005;Gawsia Sere Bangla Nagor;Burir Bari;180;828;75;1;1;3;2;1;2;2;2;2;1;3;2;1;3;3;4;33
+Barisal;24;62403004;10402403004;Gawsia Sere Bangla Nagor;Khondokar Bari;200;1000;95;1;1;4;2;3;2;3;2;2;3;3;3;4;4;4;4;45
+Barisal;24;62403003;10402403003;Gawsia Sere Bangla Nagor;Fokir Bari;200;920;100;2;1;4;1;1;2;1;3;2;4;3;4;2;4;4;4;42
+Barisal;24;62403006;10402403006;Gawsia Sere Bangla Nagor;Vuiya Bari;185;850;100;2;1;4;2;1;2;4;3;3;4;3;4;2;4;4;4;47
+Barisal;24;62403002;10402403002;Gawsia Sere Bangla Nagor;Khan Bari;280;1288;80;2;1;4;1;2;3;3;3;3;4;2;4;2;4;3;4;45
+Barisal;24;62403001;10402403001;Gawsia Sere Bangla Nagor;Sere Bangla Sarak;200;920;90;1;1;4;4;2;1;4;4;3;3;2;4;4;4;4;4;49
+Barisal;24;62404005;10402404005;Dhan Gobeshona Mridha Bari;Khan Bari;300;1398;120;2;1;4;1;4;2;1;1;3;4;3;3;4;4;4;4;45
+Barisal;24;62404006;10402404006;Dhan Gobeshona Mridha Bari;Dofadar Bari;350;1631;95;2;1;4;1;1;2;1;3;3;4;3;3;2;4;4;4;42
+Barisal;24;62404001;10402404001;Dhan Gobeshona Mridha Bari;Karal Bari;350;1700;90;2;1;4;2;1;4;1;3;2;3;4;1;2;4;4;4;42
+Barisal;24;62404004;10402404004;Dhan Gobeshona Mridha Bari;Hatem Kha Bari;250;1165;95;2;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;42
+Barisal;24;62404003;10402404003;Dhan Gobeshona Mridha Bari;Golam Ali Bari;280;1304;100;2;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;43
+Barisal;24;62404002;10402404002;Dhan Gobeshona Mridha Bari;Contracter Bari;60;300;90;2;1;4;2;1;4;1;1;2;3;4;2;4;4;4;4;43
+Barisal;24;62405001;10402405001;Lal Dighir Par;Haider Bari;100;466;100;1;1;3;1;1;1;2;3;1;4;2;1;2;4;2;4;33
+Barisal;24;62405002;10402405002;Lal Dighir Par;Junu;90;414;100;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62405003;10402405003;Lal Dighir Par;Babu Khan Bari;80;368;200;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62405004;10402405004;Lal Dighir Par;Sultan Mir;100;466;200;1;1;3;2;1;1;2;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62405005;10402405005;Lal Dighir Par;Asaf Gaji;150;699;200;1;1;3;1;1;1;2;3;1;1;2;4;1;4;4;4;34
+Barisal;24;62406005;10402406005;Comissioner Mahalla;Jahangir Bari;50;250;100;1;1;2;1;1;2;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62406001;10402406001;Comissioner Mahalla;Kodom Alir Bari;300;1500;120;1;1;4;1;1;1;3;3;1;2;3;4;1;4;4;4;38
+Barisal;24;62406003;10402406003;Comissioner Mahalla;Counselar Bari;150;750;120;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62406004;10402406004;Comissioner Mahalla;Muhammad Ali;175;875;100;1;1;3;1;1;1;3;3;1;2;2;4;1;4;4;4;36
+Barisal;24;62406002;10402406002;Comissioner Mahalla;Surana Bari;100;500;100;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62406007;10402406007;Comissioner Mahalla;Sorkar Bari;150;750;80;1;1;3;1;1;1;4;3;1;2;2;4;1;4;4;4;37
+Barisal;24;62406006;10402406006;Comissioner Mahalla;Nantur Bari;100;600;100;1;1;2;1;1;1;3;3;1;2;3;4;1;4;4;4;36
+Barisal;24;62407003;10402407003;Molla Road Mahalla;Bojlu Gaji;250;1150;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62407004;10402407004;Molla Road Mahalla;Bacchu Gaji;100;500;200;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62407005;10402407005;Molla Road Mahalla;Jontu Klhalifa;280;1288;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62407001;10402407001;Molla Road Mahalla;Sah Alom Soref;280;1304;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62407002;10402407002;Molla Road Mahalla;Moner Molla;300;1398;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62408005;10402408005;Dokshin Rupatoli;Sundor Khan Ar Bari;200;800;100;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;24;62408004;10402408004;Dokshin Rupatoli;Salauddain;280;1304;200;1;1;3;1;1;1;3;3;1;1;2;4;1;4;4;4;35
+Barisal;24;62408003;10402408003;Dokshin Rupatoli;Siraj Uddain Khan;225;1048;200;1;1;3;1;1;1;3;3;1;2;3;4;1;4;4;4;37
+Barisal;24;62408002;10402408002;Dokshin Rupatoli;Sahjahan Hawlada r;250;1165;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;24;62408001;10402408001;Dokshin Rupatoli;Usuf Ali Khan;300;1398;200;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;23;62301001;10402301001;Nolidaser Pool - Thakur Bari Pool;Chaprase Bari;9;58;100;2;1;4;1;1;2;1;4;3;2;4;4;3;4;4;4;44
+Barisal;23;62301002;10402301002;Nolidaser Pool - Thakur Bari Pool;Hawladar Bari;7;300;100;2;1;4;1;2;3;1;4;3;2;4;4;2;4;4;4;45
+Barisal;23;62301003;10402301003;Nolidaser Pool - Thakur Bari Pool;Mollik Bari;13;65;100;1;1;4;1;2;3;2;4;3;2;3;4;3;4;4;2;43
+Barisal;23;62301004;10402301004;Nolidaser Pool - Thakur Bari Pool;Rakhaler Dokan;12;65;30;2;1;4;1;4;3;4;4;2;2;4;4;4;4;1;2;46
+Barisal;23;62301005;10402301005;Nolidaser Pool - Thakur Bari Pool;Shadeyal Bari;12;65;60;4;1;4;1;1;3;3;4;3;2;3;4;3;4;1;2;43
+Barisal;23;62301006;10402301006;Nolidaser Pool - Thakur Bari Pool;Gaji Bari;26;150;60;2;1;4;1;1;2;2;4;3;2;3;4;2;4;4;4;43
+Barisal;23;62301007;10402301007;Nolidaser Pool - Thakur Bari Pool;Sonel Master Bari;10;50;70;2;1;4;1;2;3;2;3;3;4;3;4;3;4;1;2;42
+Barisal;23;62301008;10402301008;Nolidaser Pool - Thakur Bari Pool;Thakur Bari;15;90;40;2;1;4;1;1;3;1;4;3;4;4;4;2;4;1;2;41
+Barisal;23;62301009;10402301009;Nolidaser Pool - Thakur Bari Pool;Kaji Bari;7;42;50;1;1;4;1;1;4;3;4;3;2;4;4;3;4;4;4;47
+Barisal;23;62302005;10402302005;Shikdar Para - Branch Road;Tamak Ala Bari;32;325;35;1;1;4;1;2;3;2;3;3;2;3;4;1;4;4;4;42
+Barisal;23;62302007;10402302007;Shikdar Para - Branch Road;Chap Rashe Bari;8;40;50;1;1;3;1;1;3;3;3;3;2;3;4;3;4;4;4;43
+Barisal;23;62302008;10402302008;Shikdar Para - Branch Road;Soref Bari;13;70;60;2;1;4;1;1;3;4;3;4;4;4;4;4;4;4;4;51
+Barisal;23;62302009;10402302009;Shikdar Para - Branch Road;Akon Bari;20;110;80;1;1;3;1;2;3;3;4;3;3;3;4;2;4;4;4;45
+Barisal;23;62302010;10402302010;Shikdar Para - Branch Road;Sekdar Bari;23;140;120;1;1;4;1;2;3;3;4;2;2;3;4;2;4;4;4;44
+Barisal;23;62302004;10402302004;Shikdar Para - Branch Road;Deghir Par;30;210;35;2;1;3;1;1;2;1;2;3;2;3;4;2;1;4;4;36
+Barisal;23;62302003;10402302003;Shikdar Para - Branch Road;Hawlader Bari;15;80;30;1;1;4;1;4;2;1;4;3;2;4;4;1;4;4;4;44
+Barisal;23;62302002;10402302002;Shikdar Para - Branch Road;Sordar Bari;6;45;30;1;1;4;1;1;1;1;4;4;1;1;4;4;4;4;4;40
+Barisal;23;62302001;10402302001;Shikdar Para - Branch Road;Enganeyar Bari;16;70;20;1;1;4;1;4;4;4;4;4;4;3;4;4;4;1;2;49
+Barisal;23;62302006;10402302006;Shikdar Para - Branch Road;Khan Bari;12;90;100;3;1;4;1;1;3;4;4;4;3;3;4;4;4;4;4;51
+Barisal;23;62303001;10402303001;Sardar Para - Branch Road;Hawldarer Bari;60;310;45;3;1;4;1;2;2;4;3;3;4;3;4;2;4;4;4;48
+Barisal;23;62303002;10402303002;Sardar Para - Branch Road;Sodar Bari;50;250;80;3;1;4;1;3;2;1;2;3;2;4;4;2;4;1;2;39
+Barisal;23;62303008;10402303008;Sardar Para - Branch Road;Khan Bari;20;80;100;3;1;4;1;2;2;4;3;3;4;3;4;2;4;4;4;48
+Barisal;23;62303007;10402303007;Sardar Para - Branch Road;Khan Bari;55;280;35;2;1;4;1;4;3;1;3;3;4;3;4;2;4;1;2;42
+Barisal;23;62303003;10402303003;Sardar Para - Branch Road;Sodra Par;25;130;150;3;1;4;1;3;2;4;3;3;2;3;4;2;4;4;4;47
+Barisal;23;62303006;10402303006;Sardar Para - Branch Road;Sekdar Bari;10;60;60;2;1;4;1;2;2;4;2;4;4;3;4;2;4;1;2;42
+Barisal;23;62303005;10402303005;Sardar Para - Branch Road;Munsi Bari;80;360;46;3;1;4;1;1;1;4;3;3;2;4;4;2;4;1;2;40
+Barisal;23;62303004;10402303004;Sardar Para - Branch Road;Hawlader Bari;25;150;150;3;1;4;1;1;1;4;3;4;4;4;4;2;4;1;2;43
+Barisal;23;62304008;10402304008;Kerani Bari - Thana Council;Thana Counselar Purbo;25;125;25;4;3;4;1;3;2;4;3;3;4;3;4;2;4;4;4;52
+Barisal;23;62304007;10402304007;Kerani Bari - Thana Council;Thana Counselar Purbo;40;160;30;2;3;4;1;2;2;4;3;3;4;3;4;2;4;4;4;49
+Barisal;23;62304006;10402304006;Kerani Bari - Thana Council;Chorer Bari;80;400;80;2;1;4;1;3;3;4;3;3;4;3;4;3;4;4;4;50
+Barisal;23;62304001;10402304001;Kerani Bari - Thana Council;Khalifa Bari;60;350;80;3;1;4;1;2;2;4;3;3;4;3;4;2;4;4;4;48
+Barisal;23;62304003;10402304003;Kerani Bari - Thana Council;Boro Bari;110;496;40;3;1;4;1;3;3;4;3;3;4;3;4;2;4;4;4;50
+Barisal;23;62304002;10402304002;Kerani Bari - Thana Council;Gaji Bari;25;110;55;4;1;4;3;3;3;4;3;3;4;3;4;3;4;4;4;54
+Barisal;23;62304004;10402304004;Kerani Bari - Thana Council;Sekdar Bari;10;60;70;3;1;4;1;3;3;4;4;3;4;3;4;2;4;1;2;46
+Barisal;23;62304005;10402304005;Kerani Bari - Thana Council;Sodar Bari;12;50;80;2;1;4;1;3;2;1;4;3;4;1;4;2;4;4;4;44
+Barisal;23;62304009;10402304009;Kerani Bari - Thana Council;Thana Counselar Paschim;20;115;30;3;1;4;1;3;2;3;3;3;4;3;4;3;4;4;4;49
+Barisal;23;62305017;10402305017;Islam Para - Sardar Bari Road;Sodorob Bari;60;305;80;3;1;4;1;2;2;4;3;3;4;3;4;2;4;4;4;48
+Barisal;23;62305016;10402305016;Islam Para - Sardar Bari Road;Sodorob Bari;80;400;7;3;1;4;1;2;2;2;3;2;1;3;4;2;4;3;4;41
+Barisal;23;62305009;10402305009;Islam Para - Sardar Bari Road;Uttor Sagori Adorsho P. B.;80;400;80;3;1;4;1;2;3;1;3;3;4;3;4;2;4;1;4;43
+Barisal;23;62305007;10402305007;Islam Para - Sardar Bari Road;Mohuri Bari;50;225;60;3;1;4;1;3;2;1;3;3;4;3;4;3;4;3;4;46
+Barisal;23;62305011;10402305011;Islam Para - Sardar Bari Road;Mira Bari Paschim;10;50;100;3;1;4;1;2;2;1;3;3;4;3;4;2;4;4;4;45
+Barisal;23;62305008;10402305008;Islam Para - Sardar Bari Road;Khan Bari;40;200;50;3;1;4;1;2;2;1;3;3;4;3;4;2;4;3;4;44
+Barisal;23;62305012;10402305012;Islam Para - Sardar Bari Road;Mira Bari Paschim;60;300;80;3;1;4;1;2;3;4;3;3;3;2;4;2;4;4;4;47
+Barisal;23;62305013;10402305013;Islam Para - Sardar Bari Road;Molliek Bari Paschim;60;330;80;3;1;4;1;2;4;3;2;3;4;2;4;2;4;3;4;46
+Barisal;23;62305010;10402305010;Islam Para - Sardar Bari Road;Tosen Bag;25;130;80;3;1;4;1;2;2;1;3;3;4;3;4;2;4;4;4;45
+Barisal;23;62305006;10402305006;Islam Para - Sardar Bari Road;Mollik Bari;50;250;200;3;1;4;1;2;2;4;3;3;3;1;4;2;4;4;4;45
+Barisal;23;62305005;10402305005;Islam Para - Sardar Bari Road;Mollik Bari;10;55;150;3;1;4;1;2;2;4;3;3;3;3;4;2;4;4;4;47
+Barisal;23;62305003;10402305003;Islam Para - Sardar Bari Road;Hujurer Bari;40;125;60;3;3;4;1;2;3;2;3;2;4;1;4;2;4;4;4;46
+Barisal;23;62305001;10402305001;Islam Para - Sardar Bari Road;Munsi Bari;35;170;20;3;1;4;1;3;2;4;3;3;4;3;4;2;4;4;4;49
+Barisal;23;62305002;10402305002;Islam Para - Sardar Bari Road;Mollik Bari;60;300;90;3;1;4;1;3;3;3;3;3;4;2;4;3;4;4;4;49
+Barisal;23;62305004;10402305004;Islam Para - Sardar Bari Road;Millik Bari;30;155;200;3;1;4;1;2;3;3;3;2;3;2;4;3;4;4;4;46
+Barisal;23;62305014;10402305014;Islam Para - Sardar Bari Road;Sodobar Bari;70;350;60;3;1;4;1;2;2;1;2;2;4;3;4;2;4;4;4;43
+Barisal;23;62305015;10402305015;Islam Para - Sardar Bari Road;Sodorob Bari;70;350;80;3;1;4;1;2;2;3;3;3;4;3;4;2;4;4;4;47
+Barisal;23;62306007;10402306007;Sardar Bari - Poschim Sagordi;Khan Bari;100;500;80;3;1;4;1;2;3;1;3;3;4;3;4;3;4;4;4;47
+Barisal;23;62306006;10402306006;Sardar Bari - Poschim Sagordi;Beshah Bari;70;350;55;3;1;4;1;2;2;1;2;3;4;3;2;2;4;4;4;42
+Barisal;23;62306005;10402306005;Sardar Bari - Poschim Sagordi;Hawlader Bari;60;325;100;3;1;4;1;2;2;1;3;3;4;3;4;2;4;4;4;45
+Barisal;23;62306008;10402306008;Sardar Bari - Poschim Sagordi;Khan Bari;70;380;50;3;1;4;1;2;2;2;3;1;4;2;4;2;4;2;4;41
+Barisal;23;62306004;10402306004;Sardar Bari - Poschim Sagordi;Nomosudo Para;80;360;26;3;1;4;1;2;2;1;2;3;4;3;4;2;4;4;4;44
+Barisal;23;62306009;10402306009;Sardar Bari - Poschim Sagordi;Mira Bari;60;225;45;3;1;4;1;2;2;2;3;1;1;3;4;2;4;4;4;41
+Barisal;23;62306003;10402306003;Sardar Bari - Poschim Sagordi;Dimer Bari;8;26;34;2;1;4;1;3;4;2;4;3;4;3;4;2;4;4;4;49
+Barisal;23;62306002;10402306002;Sardar Bari - Poschim Sagordi;Hawladar Bari;25;130;80;3;1;4;1;1;2;2;3;4;4;2;4;2;4;4;4;45
+Barisal;23;62306001;10402306001;Sardar Bari - Poschim Sagordi;Soref Bari;70;355;80;3;1;4;1;3;2;4;3;3;4;3;4;2;4;4;4;49
+Barisal;23;62307002;10402307002;Thakur Bari Pool - Ghoramir Bari Pool;Tiakhali Purbo Pash;16;90;30;2;3;4;1;1;3;1;4;4;4;4;4;4;4;4;4;51
+Barisal;23;62307003;10402307003;Thakur Bari Pool - Ghoramir Bari Pool;Alhelal Jamemasjeed;48;170;150;2;1;4;1;1;2;3;3;3;3;3;4;2;4;4;4;44
+Barisal;23;62307006;10402307006;Thakur Bari Pool - Ghoramir Bari Pool;Hawlader Bari;24;135;180;2;1;4;1;3;3;4;4;4;4;4;4;4;4;4;4;54
+Barisal;23;62307007;10402307007;Thakur Bari Pool - Ghoramir Bari Pool;Sekdar Bari;22;130;150;2;1;4;1;3;3;1;4;3;3;3;4;2;4;4;4;46
+Barisal;23;62307011;10402307011;Thakur Bari Pool - Ghoramir Bari Pool;Eyar Uddain Khalifa Sarak;12;70;30;4;1;4;1;3;3;2;4;1;1;3;4;4;4;4;4;47
+Barisal;23;62307010;10402307010;Thakur Bari Pool - Ghoramir Bari Pool;Mamur Masjeed Sarak;14;75;25;4;1;4;3;1;3;4;4;1;2;2;4;4;4;4;4;49
+Barisal;23;62307009;10402307009;Thakur Bari Pool - Ghoramir Bari Pool;Maji Bari;35;180;125;3;1;4;1;1;1;1;4;3;4;4;4;4;4;4;4;47
+Barisal;23;62307008;10402307008;Thakur Bari Pool - Ghoramir Bari Pool;Fokir Bari;12;60;130;2;2;4;2;2;3;4;4;2;4;4;4;4;4;4;4;53
+Barisal;23;62307001;10402307001;Thakur Bari Pool - Ghoramir Bari Pool;Thakur Barir Pol;13;85;300;2;1;4;1;1;2;2;4;4;4;4;4;1;4;4;4;46
+Barisal;23;62307005;10402307005;Thakur Bari Pool - Ghoramir Bari Pool;Pagda Bari;14;120;140;2;1;3;1;2;3;3;4;1;1;3;4;4;4;4;4;44
+Barisal;23;62307004;10402307004;Thakur Bari Pool - Ghoramir Bari Pool;Sorkar Bari;9;45;120;1;1;4;1;1;1;3;3;1;2;3;4;1;4;4;4;38
+Barisal;23;62308002;10402308002;Josim Uddin Bari - Taz Kuthi;Khaja Maenudddain Sarak;9;50;25;2;1;4;1;2;4;1;4;2;2;2;4;4;4;4;4;45
+Barisal;23;62308003;10402308003;Josim Uddin Bari - Taz Kuthi;Pada Barir Purbo Pash;8;45;80;2;2;3;1;2;3;1;4;2;2;2;4;4;4;4;4;44
+Barisal;23;62308005;10402308005;Josim Uddin Bari - Taz Kuthi;Fokior Bari;14;85;120;2;1;4;1;1;2;1;4;4;4;4;3;4;4;4;4;47
+Barisal;23;62308001;10402308001;Josim Uddin Bari - Taz Kuthi;Majumdar Bari;24;130;100;2;1;4;1;1;1;2;4;1;1;3;4;4;4;4;4;41
+Barisal;23;62308007;10402308007;Josim Uddin Bari - Taz Kuthi;Molla Sarak;18;100;60;4;1;4;1;2;2;4;4;2;4;4;4;3;4;4;4;51
+Barisal;23;62308006;10402308006;Josim Uddin Bari - Taz Kuthi;Fokir Bari School Ar Poschim Pashe;22;120;25;2;1;4;1;2;2;3;4;3;4;4;4;4;4;4;4;50
+Barisal;23;62308008;10402308008;Josim Uddin Bari - Taz Kuthi;Molla Sarak;12;65;150;4;1;4;1;3;3;3;4;1;1;2;4;4;4;4;4;47
+Barisal;23;62308004;10402308004;Josim Uddin Bari - Taz Kuthi;Sorkar Barir Porer Bari;6;30;100;1;1;4;1;1;4;1;3;4;4;4;4;4;4;4;4;48
+Barisal;23;62309001;10402309001;Eyakub Ali Road - Hossen Ali Road;Lordar Bari;6;30;250;2;1;4;1;4;4;4;4;4;4;4;4;4;4;4;4;56
+Barisal;23;62309002;10402309002;Eyakub Ali Road - Hossen Ali Road;Beshah Bari;14;75;150;3;1;4;1;3;4;4;4;3;4;4;4;4;4;4;4;55
+Barisal;23;62309003;10402309003;Eyakub Ali Road - Hossen Ali Road;Kumar Bari;12;70;50;4;1;4;1;4;4;4;4;4;4;4;4;3;4;4;4;57
+Barisal;23;62309004;10402309004;Eyakub Ali Road - Hossen Ali Road;Hawlader Bari;30;180;50;4;1;4;1;1;3;3;4;4;4;4;4;4;4;4;4;53
+Barisal;23;62309005;10402309005;Eyakub Ali Road - Hossen Ali Road;Hawlader Bari;14;70;25;2;1;4;1;2;3;4;4;4;4;2;4;3;4;4;4;50
+Barisal;23;62309006;10402309006;Eyakub Ali Road - Hossen Ali Road;Hawlader Bari (3rd Part);14;70;50;2;1;4;1;4;4;3;4;4;4;4;4;3;4;4;4;54
+Barisal;23;62309007;10402309007;Eyakub Ali Road - Hossen Ali Road;Hawlader Bari (Pichoner Onsho);6;30;45;2;1;4;2;1;3;2;4;3;4;2;4;2;4;4;4;46
+Barisal;23;62309008;10402309008;Eyakub Ali Road - Hossen Ali Road;Maji Bari;14;75;40;2;1;4;1;2;3;4;4;4;4;4;4;4;4;4;4;53
+Barisal;23;62309009;10402309009;Eyakub Ali Road - Hossen Ali Road;Holer Ali Sarak;16;95;25;3;1;4;1;3;3;4;4;4;4;4;4;4;4;4;4;55
+Barisal;23;62309010;10402309010;Eyakub Ali Road - Hossen Ali Road;Holer Ali Sarak 1st Part;12;60;25;3;1;4;1;2;3;4;4;4;4;4;4;4;4;4;4;54
+Barisal;23;62310001;10402310001;Dokkhin Sagordi - Modina Mosjid Road- Hamid Khan Road;Kumar Bari;140;700;80;2;1;4;1;3;3;3;3;3;4;2;4;2;4;4;4;47
+Barisal;23;62310002;10402310002;Dokkhin Sagordi - Modina Mosjid Road- Hamid Khan Road;Dr. Bari;120;620;120;2;1;4;1;3;3;3;4;3;4;3;4;3;4;4;4;50
+Barisal;23;62310003;10402310003;Dokkhin Sagordi - Modina Mosjid Road- Hamid Khan Road;Bankrm Vilar Ses Part;80;350;70;2;1;4;1;3;4;4;4;4;4;4;4;4;4;4;4;55
+Barisal;23;62311001;10402311001;Hamid Khan Road - Eyakub Ali Road;Haji Abdul Lotef Sarak;9;46;80;2;4;4;4;3;3;3;4;3;4;3;4;3;4;4;4;56
+Barisal;23;62311002;10402311002;Hamid Khan Road - Eyakub Ali Road;Madena Masjeed;25;130;180;2;1;4;1;1;3;3;4;3;4;3;4;4;4;4;4;49
+Barisal;23;62311003;10402311003;Hamid Khan Road - Eyakub Ali Road;Esha Kha;123;650;200;3;4;4;4;3;3;4;4;3;4;4;4;3;4;4;4;59
+Barisal;23;62311004;10402311004;Hamid Khan Road - Eyakub Ali Road;Soref Bari;60;350;180;2;3;4;4;3;3;1;4;3;4;2;3;4;4;2;3;49
+Barisal;23;62311006;10402311006;Hamid Khan Road - Eyakub Ali Road;Napet Para;55;260;150;2;1;4;4;3;2;3;4;4;4;3;4;3;4;4;4;53
+Barisal;23;62311005;10402311005;Hamid Khan Road - Eyakub Ali Road;Hakem Han;70;480;184;2;3;4;4;3;3;2;4;4;4;3;4;4;4;4;4;56
+Barisal;13;61301010;10401301010;Shikdar Para Dokkhin;Sayeed Sekdarer Bari;20;103;70;1;1;4;1;4;3;4;3;3;4;4;4;4;4;4;4;52
+Barisal;13;61301009;10401301009;Shikdar Para Dokkhin;Munse Bari;40;200;60;1;1;4;1;2;3;4;3;3;4;3;4;4;4;4;4;49
+Barisal;13;61301008;10401301008;Shikdar Para Dokkhin;Rob Miyar Bari;10;50;40;1;1;4;1;4;3;1;3;3;4;2;4;4;4;4;4;47
+Barisal;13;61301007;10401301007;Shikdar Para Dokkhin;Boro Bari;20;110;80;2;1;4;1;2;3;4;2;3;3;2;4;3;4;4;3;45
+Barisal;13;61301006;10401301006;Shikdar Para Dokkhin;Usuf Sekdarer Bari;30;170;80;2;1;4;1;1;2;1;2;3;4;3;4;3;4;2;4;41
+Barisal;13;61301005;10401301005;Shikdar Para Dokkhin;Manik Sekdar Bari;40;200;60;2;1;4;1;1;2;4;2;3;4;2;2;3;4;1;4;40
+Barisal;13;61301002;10401301002;Shikdar Para Dokkhin;Anondo Ice Crime Factory;7;35;22;4;1;4;1;1;1;1;4;4;1;3;4;4;4;4;4;45
+Barisal;13;61301001;10401301001;Shikdar Para Dokkhin;Hemat Uddain Ar Bari;7;65;25;2;2;4;1;1;1;1;4;4;4;4;4;4;4;1;2;43
+Barisal;13;61301004;10401301004;Shikdar Para Dokkhin;Abul Kalam;25;125;50;2;4;4;1;3;2;1;2;3;4;2;1;4;4;1;2;40
+Barisal;13;61301003;10401301003;Shikdar Para Dokkhin;Jalal Enganeyar Ar Bari;10;75;10;4;3;4;1;1;3;1;4;3;4;3;4;4;4;1;2;46
+Barisal;13;61302007;10401302007;Shikdar Para Uttor;Momen Sekdar;20;100;70;2;1;4;1;1;3;1;3;2;4;3;3;4;4;4;4;44
+Barisal;13;61302008;10401302008;Shikdar Para Uttor;Rana Se3kdar Ar Bari;50;260;60;2;1;4;1;1;3;4;2;2;4;3;4;3;4;3;4;45
+Barisal;13;61302009;10401302009;Shikdar Para Uttor;Babul Kha;25;125;80;2;1;4;1;4;3;4;4;3;4;4;3;3;4;4;4;52
+Barisal;13;61302010;10401302010;Shikdar Para Uttor;Ripon;7;35;50;1;1;4;1;1;3;4;4;2;4;4;4;3;4;4;4;48
+Barisal;13;61302004;10401302004;Shikdar Para Uttor;Helal Ar Bari;8;45;50;1;1;4;1;1;3;1;3;2;4;3;4;3;4;4;4;43
+Barisal;13;61302003;10401302003;Shikdar Para Uttor;Riyaj Uddain;25;125;25;1;1;4;1;1;3;1;2;2;4;2;4;2;4;4;4;40
+Barisal;13;61302002;10401302002;Shikdar Para Uttor;Md. Salmsul Hok Ar Bari;50;250;90;1;1;4;1;3;2;1;4;3;4;4;4;4;4;4;4;48
+Barisal;13;61302005;10401302005;Shikdar Para Uttor;Jabbar Sekdar;30;170;70;1;1;4;1;1;3;2;3;3;4;4;1;3;4;4;4;43
+Barisal;13;61302006;10401302006;Shikdar Para Uttor;Tarek Bari;20;100;80;1;1;4;1;4;3;1;3;2;4;2;3;2;4;4;4;43
+Barisal;13;61302001;10401302001;Shikdar Para Uttor;Harun Bari;10;60;10;1;1;4;1;4;3;1;3;3;4;3;4;2;4;3;4;45
+Barisal;13;61303001;10401303001;Sarak oh Jonopoth and Somaj Seba;Kalu Kha Ar Bari;20;100;10;2;1;4;1;1;1;1;4;3;3;3;2;1;4;1;2;34
+Barisal;13;61303002;10401303002;Sarak oh Jonopoth and Somaj Seba;Khan Sarak;25;120;20;2;1;4;1;1;2;1;4;3;3;3;3;4;4;4;4;44
+Barisal;13;61303003;10401303003;Sarak oh Jonopoth and Somaj Seba;Aktar Uddain Ar Bari;6;25;10;2;1;3;2;2;2;3;4;2;3;3;3;3;4;4;2;43
+Barisal;13;61303004;10401303004;Sarak oh Jonopoth and Somaj Seba;Mamun Kha Bari;6;22;10;2;1;4;1;2;2;4;4;3;3;3;2;1;4;4;2;42
+Barisal;13;61304001;10401304001;Khan Sarak;Seyam Vila;15;45;20;2;3;4;1;3;3;4;4;3;3;3;1;3;4;1;2;44
+Barisal;13;61304002;10401304002;Khan Sarak;Khan Sarak Fored Khar Bari;5;20;10;2;3;4;2;1;2;2;4;3;2;3;2;2;4;4;2;42
+Barisal;13;61304003;10401304003;Khan Sarak;Kalu Kha Bari;8;35;50;2;1;4;1;2;2;4;4;3;2;3;4;1;4;4;4;45
+Barisal;13;61304004;10401304004;Khan Sarak;Ajij Sekdarer Bari;25;120;50;1;1;4;1;4;2;4;4;3;2;3;2;3;4;1;2;41
+Barisal;13;61304005;10401304005;Khan Sarak;Khan Sarak Mayer Achol;5;30;50;1;2;4;1;1;1;2;3;3;2;3;4;3;4;4;4;42
+Barisal;13;61304006;10401304006;Khan Sarak;Khan Sarak Johur Kajir Bari;9;40;10;1;1;4;1;1;2;2;4;3;4;3;2;1;4;1;2;36
+Barisal;13;61304007;10401304007;Khan Sarak;Khan Sarak Bagar Bari;10;45;20;2;1;4;1;1;4;1;4;3;4;4;2;1;4;1;2;39
+Barisal;13;61304008;10401304008;Khan Sarak;Montu Kha Ar Bari;5;20;10;1;2;4;1;4;1;4;1;4;1;3;1;1;4;1;2;35
+Barisal;13;61304009;10401304009;Khan Sarak;Anis Miyar Bari;9;45;20;2;3;4;1;4;1;4;2;4;4;3;1;2;4;1;2;42
+Barisal;13;61305001;10401305001;Alekanda Kazi Para;Dokkhin Alekander Khan Dabad Colony;30;150;50;1;1;4;4;4;1;4;2;3;4;1;3;1;4;1;2;40
+Barisal;13;61305002;10401305002;Alekanda Kazi Para;Bukbela Sarak;10;50;10;3;4;4;4;4;3;4;3;3;4;3;2;4;4;1;2;52
+Barisal;13;61305003;10401305003;Alekanda Kazi Para;Khokon Mukate Bari;8;40;100;2;1;4;1;4;3;1;4;1;1;3;4;2;4;4;4;43
+Barisal;13;61305004;10401305004;Alekanda Kazi Para;Maruf Khaner Bari;7;42;20;1;1;4;4;4;4;4;3;4;4;3;1;1;4;1;2;45
+Barisal;13;61305005;10401305005;Alekanda Kazi Para;Khalek Enganeyar Ar Bari;6;30;10;1;4;4;4;4;1;4;3;3;1;3;1;1;4;1;2;41
+Barisal;13;61305006;10401305006;Alekanda Kazi Para;Khondoker Bari;7;42;15;1;1;4;1;4;2;4;3;3;4;1;4;3;4;1;2;42
+Barisal;13;61305007;10401305007;Alekanda Kazi Para;Masud Khondoker;20;100;30;1;1;4;1;4;3;2;2;4;4;2;1;3;4;1;2;39
+Barisal;13;61305008;10401305008;Alekanda Kazi Para;Khondokar Bari;20;100;50;1;4;4;1;4;2;4;3;3;2;3;1;3;4;1;2;42
+Barisal;13;61305009;10401305009;Alekanda Kazi Para;Kaji Para Masjeed;30;140;40;2;4;4;1;3;1;1;4;3;4;3;4;1;4;1;2;42
+Barisal;13;61305012;10401305012;Alekanda Kazi Para;Sekdar Bari;10;45;20;4;1;4;1;4;4;1;4;3;4;4;4;3;4;4;4;53
+Barisal;13;61305011;10401305011;Alekanda Kazi Para;Sekdar Bari;30;155;50;4;1;4;1;4;2;4;3;3;4;3;4;3;4;4;4;52
+Barisal;13;61305010;10401305010;Alekanda Kazi Para;Kaji Para Khal Par;7;50;10;4;1;4;4;4;1;4;2;3;4;1;3;1;4;1;2;43
+Barisal;13;61306005;10401306005;Jomir Khan Sarak and Bypass Dengu Sarder Road;Alir Bari;10;50;15;1;1;4;1;4;2;4;2;3;4;3;4;1;4;4;4;46
+Barisal;13;61306006;10401306006;Jomir Khan Sarak and Bypass Dengu Sarder Road;Soref Bari;20;100;100;1;1;4;4;4;3;4;3;4;4;3;4;4;4;1;2;50
+Barisal;13;61306004;10401306004;Jomir Khan Sarak and Bypass Dengu Sarder Road;Rohmany Hawlader Ar Bari;20;103;10;1;1;4;4;1;2;1;3;3;4;3;3;2;4;1;2;39
+Barisal;13;61306001;10401306001;Jomir Khan Sarak and Bypass Dengu Sarder Road;Khan Barir Bepored;16;90;60;1;1;4;4;3;2;4;3;2;4;3;1;1;4;1;2;40
+Barisal;13;61306002;10401306002;Jomir Khan Sarak and Bypass Dengu Sarder Road;Nur Jahan Manjel Sarak;25;90;80;4;1;4;4;3;1;4;4;4;4;3;2;1;4;1;3;47
+Barisal;13;61306003;10401306003;Jomir Khan Sarak and Bypass Dengu Sarder Road;Korom Ali Hok Bari;7;42;100;2;1;4;4;4;3;4;4;3;4;4;4;4;4;4;4;57
+Barisal;13;61307005;10401307005;Noriya High School - Amtola Park;Nureya School;150;750;100;4;4;4;4;4;2;4;3;2;4;4;4;3;4;1;4;55
+Barisal;13;61307001;10401307001;Noriya High School - Amtola Park;Soneter Bari;6;30;100;1;1;4;4;4;4;4;3;4;4;3;4;2;4;1;2;49
+Barisal;13;61307002;10401307002;Noriya High School - Amtola Park;Khaleker Bari;5;25;8;4;1;4;4;3;1;4;3;1;1;2;1;1;4;1;2;37
+Barisal;13;61307003;10401307003;Noriya High School - Amtola Park;Munsur Ar Bari;12;60;10;4;1;4;4;4;2;4;4;3;4;3;1;2;4;1;2;47
+Barisal;13;61307004;10401307004;Noriya High School - Amtola Park;Haji Bari;20;100;100;1;1;4;1;1;1;4;4;4;4;3;1;1;4;1;2;37
+Barisal;13;61307006;10401307006;Noriya High School - Amtola Park;Sultan Khan Bari;6;30;100;1;1;4;4;4;4;4;4;3;4;4;4;4;4;4;4;57
+Barisal;10;61001001;10401001001;Court compound - Hotel Alina;Sethor Dash;30;150;100;3;4;4;4;1;4;4;4;4;4;3;2;1;3;1;2;48
+Barisal;10;61001002;10401001002;Court compound - Hotel Alina;Abdul Moteb Sordarer Bari;28;140;100;1;1;3;2;1;2;3;3;3;2;3;2;1;4;2;2;35
+Barisal;10;61001003;10401001003;Court compound - Hotel Alina;Fojlul Hok Abenew Colony;10;50;15;1;1;4;2;1;4;4;3;4;4;4;4;1;4;2;3;46
+Barisal;10;61002001;10401002001;Jordan Road Bypass - Club Road;Datar Khal C And B Staff Quarter;18;100;20;4;3;4;1;4;4;4;4;4;4;4;4;2;4;2;3;55
+Barisal;10;61003001;10401003001;Bhumi office - Marine Workshop;Vatar Khal Eidgha Math 1 No. Goli Uttor Pashe;175;855;70;4;2;4;1;1;1;2;3;3;2;2;2;1;4;2;1;35
+Barisal;10;61003002;10401003002;Bhumi office - Marine Workshop;Vatar Khal Eidgha Math 1 No. Goli Purbo Pashe;400;2000;70;2;1;3;1;1;1;1;2;3;1;1;1;1;4;2;1;26
+Barisal;10;61003003;10401003003;Bhumi office - Marine Workshop;Vatar Khal Eidgha Math 1 No. Goli Dokkhin Pashe;250;1250;70;1;1;3;1;1;1;1;3;3;1;2;2;1;4;2;1;28
+Barisal;10;61003004;10401003004;Bhumi office - Marine Workshop;Vimi Math, Sahe Masjeed Dokkhin Pashe;10;50;50;4;3;4;1;1;1;4;3;3;3;4;2;2;4;2;2;43
+Barisal;10;61005001;10401005001;Marine Workshop - Planet Park;Castol Borof Kol Namar Chor;140;700;20;2;3;3;2;1;1;1;3;3;2;3;2;1;3;2;2;34
+Barisal;10;61005002;10401005002;Marine Workshop - Planet Park;Castol Borof Kol Jame Masjeed;96;480;60;3;1;3;2;1;3;1;4;4;2;2;3;1;3;2;2;37
+Barisal;10;61005004;10401005004;Marine Workshop - Planet Park;Seba Colony Ar Pichone;7;35;45;3;3;4;2;1;1;3;4;4;3;4;3;1;4;1;2;43
+Barisal;10;61005005;10401005005;Marine Workshop - Planet Park;Castol Boprof Kol Sarbeyab Bari;10;50;17;4;1;3;2;2;3;4;4;3;2;4;2;3;4;1;2;44
+Barisal;10;61005003;10401005003;Marine Workshop - Planet Park;Castol Borof Kol Jame Masjeed;5;250;30;2;1;3;3;1;1;1;2;3;2;1;3;1;4;2;2;32
+Barisal;10;61005006;10401005006;Marine Workshop - Planet Park;Castol Borof Kol Jame Masjeed;15;75;30;2;1;3;3;1;1;1;2;3;2;1;3;1;4;2;2;32
+Barisal;10;61006001;10401006001;Poline Line Road - Belspark;Am Bagan D.C Bas Vobon Ar Dokkhin Pashe;25;125;30;4;1;4;3;1;4;4;4;4;3;4;4;3;4;4;2;53
+Barisal;10;61006002;10401006002;Poline Line Road - Belspark;Jobbar Miyar Golir Mathai Kaji Bari;10;50;60;2;3;4;2;3;4;4;4;3;3;4;2;1;4;4;4;51
+Barisal;10;61006003;10401006003;Poline Line Road - Belspark;Joj Ar Barir Puyrbo Pash;5;25;20;4;4;4;3;3;4;4;4;3;3;4;4;3;4;2;1;54
+Barisal;10;61007001;10401007001;Razzak Srity Colony;Alomger Miyar Goli;125;560;45;2;3;4;2;1;1;2;4;3;2;3;4;1;3;2;1;38
+Barisal;10;61007002;10401007002;Razzak Srity Colony;K.,D.C Arob Kaji;130;600;450;1;1;4;2;1;2;3;4;2;3;3;3;1;3;3;2;38
+Barisal;10;61007003;10401007003;Razzak Srity Colony;Madrasha Ghorer Uttor O Dokkhin Pashe;200;1000;45;2;1;4;2;1;2;4;4;2;3;3;2;1;3;3;2;39
+Barisal;10;61007004;10401007004;Razzak Srity Colony;Rajjak Srity Coloni;127;760;45;3;2;4;2;1;3;3;4;2;4;3;3;3;3;3;2;45
+Barisal;10;61007005;10401007005;Razzak Srity Colony;K.D.C Masjeed Ar Pichone;40;220;45;1;1;4;2;4;3;2;4;1;4;3;3;1;3;3;2;41
+Barisal;10;61007006;10401007006;Razzak Srity Colony;Nodir Par/Samsu Miyar Bari;25;125;25;1;1;4;1;1;3;4;3;3;4;3;2;3;4;1;2;40
+Barisal;10;61007007;10401007007;Razzak Srity Colony;K.D.C National Somel Ar Poschim Pashe;18;90;25;1;4;4;1;1;4;4;3;3;4;3;3;3;4;1;2;45
+Barisal;10;61007008;10401007008;Razzak Srity Colony;K.D.C Doger Pashe;20;100;30;1;1;4;1;1;1;1;4;3;1;3;3;1;4;1;2;32
+Barisal;10;61008002;10401008002;Tinkona Pukur - Bottola Kheya Ghat;Islamiya Hospital;10;50;25;4;2;4;1;1;2;4;4;4;3;3;1;1;4;2;2;42
+Barisal;10;61008001;10401008001;Tinkona Pukur - Bottola Kheya Ghat;Charmari Destiny;20;100;20;1;1;1;1;1;1;1;3;3;1;3;1;1;3;1;1;24
+Barisal;10;61008003;10401008003;Tinkona Pukur - Bottola Kheya Ghat;Hotel Green Park Ar Uttor Pash;20;85;50;2;1;4;1;3;2;1;4;2;3;4;4;2;4;4;4;45
+Barisal;10;61008004;10401008004;Tinkona Pukur - Bottola Kheya Ghat;Cristin Para;8;40;50;1;1;4;1;4;1;1;4;2;3;4;4;2;4;4;4;44
+Barisal;14;61401006;10401401006;Khadem Hossen Sarak - New House Len;Khalek Hossain Sorok;7;30;30;1;1;4;1;4;4;4;4;4;4;4;4;2;4;1;3;49
+Barisal;14;61401001;10401401001;Khadem Hossen Sarak - New House Len;Sahajahaner Bari;20;75;30;1;1;4;1;4;2;4;4;4;4;3;4;2;4;4;3;49
+Barisal;14;61401002;10401401002;Khadem Hossen Sarak - New House Len;Ale Kanda School Ar Shamne;18;75;20;1;1;4;2;4;4;4;4;4;4;4;4;2;4;4;3;53
+Barisal;14;61401003;10401401003;Khadem Hossen Sarak - New House Len;Asraful Coching Senter Ar Goli;6;25;30;1;1;4;2;1;2;4;4;4;4;4;4;2;4;1;3;45
+Barisal;14;61401004;10401401004;Khadem Hossen Sarak - New House Len;Asraful Coching Senter Ar Golir Mathai;5;20;27;1;2;4;1;4;4;4;4;4;4;4;4;3;4;1;3;51
+Barisal;14;61401005;10401401005;Khadem Hossen Sarak - New House Len;Kalu Sha Rani Vobon Ar Pashe;5;20;45;1;1;4;1;4;4;4;4;4;4;4;4;4;2;4;4;53
+Barisal;14;61402001;10401402001;Refuge Colony - Khan Bari - Gazi Bari Mosjid Dokkhin;Mokbul Enganeyar Lain;15;60;100;1;1;4;1;4;1;4;4;1;2;4;4;1;4;4;3;43
+Barisal;14;61402003;10401402003;Refuge Colony - Khan Bari - Gazi Bari Mosjid Dokkhin;Khalom Hossain Sorok;6;30;40;1;1;4;1;4;4;4;4;2;4;3;4;1;4;1;3;45
+Barisal;14;61402004;10401402004;Refuge Colony - Khan Bari - Gazi Bari Mosjid Dokkhin;Khalom Hossain Sosrok;10;50;30;1;1;4;1;4;4;4;4;2;4;3;4;1;4;1;3;45
+Barisal;14;61402002;10401402002;Refuge Colony - Khan Bari - Gazi Bari Mosjid Dokkhin;New House Road;25;100;30;1;1;4;1;4;2;4;4;4;4;3;4;2;4;4;3;49
+Barisal;14;61403011;10401403011;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Kacha Market Polasher Bari;50;150;50;2;3;4;4;4;2;4;3;1;4;4;4;2;4;4;4;53
+Barisal;14;61403010;10401403010;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Sahhed Peer Bari;50;150;50;1;1;4;1;4;3;4;3;3;4;4;4;2;4;4;4;50
+Barisal;14;61403009;10401403009;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Muyen Vaiyer Bari;30;150;50;2;4;4;4;4;3;4;3;3;4;4;4;2;4;4;4;57
+Barisal;14;61403012;10401403012;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Ejuder Karkhana;20;100;50;1;4;4;4;4;2;4;3;1;4;4;4;1;4;4;4;52
+Barisal;14;61403008;10401403008;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Eid Gayer Pasher Goli;25;125;50;1;1;4;1;1;1;1;4;3;1;1;4;1;4;4;4;36
+Barisal;14;61403007;10401403007;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Masjeed Ar Bepored Pashe;15;75;50;2;1;4;4;4;2;4;3;3;4;4;4;2;4;4;4;53
+Barisal;14;61403006;10401403006;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Masjeed Ar Pashe;50;250;50;2;1;4;4;4;2;4;3;3;4;4;4;2;4;4;4;53
+Barisal;14;61403005;10401403005;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Khursheda Vela;30;150;50;2;1;4;2;4;2;4;3;3;4;4;4;2;4;4;4;51
+Barisal;14;61403004;10401403004;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Sekander Hunur Bari;50;250;50;2;1;4;1;4;2;4;3;2;4;4;4;2;4;4;4;49
+Barisal;14;61403002;10401403002;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Mohed Bari;30;150;100;1;4;4;2;3;2;1;2;4;4;3;4;3;4;4;4;49
+Barisal;14;61403003;10401403003;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Mohela Bari Poscherm Pash;10;50;50;4;4;4;2;3;2;1;2;4;4;3;4;3;4;4;4;52
+Barisal;14;61403001;10401403001;Gazi Bari Mosjid Uttor- Circular Road - Kazi Para Sonjog Sarak;Korim Khan Bari;40;200;60;2;1;4;1;4;2;4;3;3;3;3;4;2;4;4;4;48
+Barisal;14;61404009;10401404009;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Noya lahor bari koborer pashe;25;125;50;2;4;4;4;4;3;4;3;3;4;4;4;3;4;4;4;58
+Barisal;14;61404010;10401404010;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Mira bari kalushahr majar;15;75;50;2;4;4;4;4;3;4;3;2;4;4;4;3;4;4;4;57
+Barisal;14;61404004;10401404004;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Motu monjil;70;350;50;2;4;4;4;4;2;4;3;2;4;3;4;3;4;4;4;55
+Barisal;14;61404005;10401404005;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Shikdar bari;30;150;50;2;4;4;4;4;3;4;3;2;4;4;4;3;4;4;4;57
+Barisal;14;61404006;10401404006;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Mintur dokan;40;200;5;2;4;4;2;4;3;4;3;2;4;3;4;2;4;4;4;53
+Barisal;14;61404007;10401404007;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Roha alir bari;30;150;50;2;4;4;4;4;2;4;3;2;4;4;4;2;4;4;4;55
+Barisal;14;61404003;10401404003;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Raj Bari Rosher Miyar Bari;50;250;50;2;4;4;1;4;2;4;3;3;4;3;4;3;4;4;4;53
+Barisal;14;61404002;10401404002;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Raj Bari;70;350;50;2;4;4;2;4;2;4;3;1;4;3;4;2;4;4;4;51
+Barisal;14;61404001;10401404001;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Sobhar Meyar Dokan;60;300;50;2;4;4;4;4;3;4;3;1;4;4;4;1;4;4;4;54
+Barisal;14;61404008;10401404008;Kazi Para Sonjog Sarak - Kazi Bari Mosjid;Dulamul kaha bari;25;125;50;2;4;4;4;4;2;4;3;2;4;4;4;3;4;4;4;56
+Barisal;14;61405001;10401405001;Kazi Para Mosjid - Khal Par (Mira Barir Pool);Dokkhin alokanda moti khondokar bari;10;50;100;1;1;4;4;1;1;4;4;3;1;2;4;1;4;4;4;43
+Barisal;14;61405002;10401405002;Kazi Para Mosjid - Khal Par (Mira Barir Pool);Osman kobirer bari;10;50;10;1;1;4;4;2;1;4;2;2;1;2;1;1;4;1;2;33
+Barisal;14;61405003;10401405003;Kazi Para Mosjid - Khal Par (Mira Barir Pool);Poyak jib bari;20;100;20;1;1;4;1;1;1;1;3;3;2;2;2;2;4;1;2;31
+Barisal;14;61405005;10401405005;Kazi Para Mosjid - Khal Par (Mira Barir Pool);Kalushah sorok mira bari majarer;6;30;100;2;4;4;4;4;3;4;3;3;4;3;4;2;4;4;4;56
+Barisal;14;61405004;10401405004;Kazi Para Mosjid - Khal Par (Mira Barir Pool);Kalushah sorok mira bari majarer poshim ongsho;10;50;30;1;4;4;4;1;1;4;3;3;2;3;1;3;4;1;2;41
+Barisal;14;61406004;10401406004;Chomatha Bazar - Abdur Rahim Sarak;Choumatha bazar er pashe khan bari;17;85;40;3;1;4;1;1;3;4;4;4;4;4;4;2;4;4;4;51
+Barisal;14;61406003;10401406003;Chomatha Bazar - Abdur Rahim Sarak;Alom nibas saiful bari;16;80;100;2;1;4;1;4;3;4;4;4;4;4;4;2;4;4;4;53
+Barisal;14;61406005;10401406005;Chomatha Bazar - Abdur Rahim Sarak;Jora godaun kholifa bari;27;135;100;3;1;4;4;4;2;4;4;4;4;4;4;3;4;4;4;57
+Barisal;14;61406001;10401406001;Chomatha Bazar - Abdur Rahim Sarak;Abdur rahim sorok hawlader bari;6;30;100;1;1;4;1;4;4;4;4;4;4;4;4;2;4;4;4;53
+Barisal;14;61406002;10401406002;Chomatha Bazar - Abdur Rahim Sarak;Mashjider pashe hawlader bari;15;75;100;1;1;4;1;4;4;4;4;4;4;4;4;1;4;4;4;52
+Barisal;14;61407005;10401407005;C & B 1 No. Pool - Abdur Rahim Sarak;Khan Dakar Lonch AR Uttor Pashe;5;25;50;1;1;4;3;3;1;4;3;1;4;4;4;1;4;4;2;44
+Barisal;14;61407006;10401407006;C & B 1 No. Pool - Abdur Rahim Sarak;Thana Cauncelar Ar Shamne;5;25;50;1;1;4;4;4;1;4;4;1;4;4;4;1;4;4;4;49
+Barisal;14;61407001;10401407001;C & B 1 No. Pool - Abdur Rahim Sarak;Puraton Masjeed Khan Bari;15;75;20;1;1;4;1;1;2;4;4;1;1;3;2;2;4;1;2;34
+Barisal;14;61407003;10401407003;C & B 1 No. Pool - Abdur Rahim Sarak;Rohim Sarak Khan Para;15;50;40;2;1;4;4;4;4;4;4;4;4;4;4;1;4;4;4;56
+Barisal;14;61407002;10401407002;C & B 1 No. Pool - Abdur Rahim Sarak;Kha Barir Pashe Puraton Masjeer Ar Uttor Pasha;16;80;20;1;1;4;1;4;2;1;2;3;2;3;1;1;4;1;2;33
+Barisal;14;61407004;10401407004;C & B 1 No. Pool - Abdur Rahim Sarak;Abdur Rahman Sarak Haji Bari;9;45;100;1;1;4;1;2;3;4;4;3;4;3;4;1;4;4;4;47
+Barisal;25;62501002;10402501002;Uttor Rupatoli;Mira Bari;45;200;20;1;1;4;1;2;2;1;3;2;2;1;3;2;3;4;3;35
+Barisal;25;62501003;10402501003;Uttor Rupatoli;Badsahe O Baburche Bari;95;400;25;1;1;3;1;1;1;1;2;1;1;1;2;2;3;1;3;25
+Barisal;25;62501001;10402501001;Uttor Rupatoli;Napet Para;108;432;30;1;1;3;1;1;2;1;2;3;2;1;2;3;3;1;3;30
+Barisal;25;62501004;10402501004;Uttor Rupatoli;Muhammadeya Lain;50;250;50;1;1;3;1;2;2;1;3;2;2;1;3;2;4;4;4;36
+Barisal;25;62502003;10402502003;A Oyahed School Area;Parer Bari;100;400;50;1;1;3;1;1;2;2;3;4;2;1;3;3;3;4;3;37
+Barisal;25;62502002;10402502002;A Oyahed School Area;Vuiya Sarak;90;360;50;2;1;3;1;1;2;1;2;3;2;1;4;3;3;4;3;36
+Barisal;25;62502004;10402502004;A Oyahed School Area;Muslim Para;60;240;50;1;1;3;1;3;3;2;3;3;2;1;3;3;4;4;3;40
+Barisal;25;62502001;10402502001;A Oyahed School Area;Asalot Khan Bari;150;750;60;1;1;4;1;2;2;2;3;3;1;1;3;3;3;3;3;36
+Barisal;25;62502005;10402502005;A Oyahed School Area;Hossane Ara Bari;40;200;40;1;1;3;1;1;2;2;2;2;2;1;3;4;3;4;3;35
+Barisal;25;62503002;10402503002;Redio Bangladesh Area;Dr. Masud Khan Sarak;80;200;30;1;1;4;1;1;3;1;4;2;2;2;3;3;3;4;3;38
+Barisal;25;62503001;10402503001;Redio Bangladesh Area;Dr. Momin sarak;100;400;50;1;1;4;1;1;2;1;4;3;3;1;4;3;3;4;3;39
+Barisal;25;62503003;10402503003;Redio Bangladesh Area;Radio Station Ar Pichone;50;200;30;1;1;3;1;1;2;1;3;3;2;1;3;3;3;4;3;35
+Barisal;25;62504003;10402504003;Mrito Hosen Ali Khan Bari;Sattar Master Bari;70;350;60;1;1;3;1;3;3;1;3;3;2;1;3;2;3;4;4;38
+Barisal;25;62504004;10402504004;Mrito Hosen Ali Khan Bari;Masjeed Padha Ar Bari;50;200;70;1;1;2;1;1;2;1;3;2;2;2;3;3;3;4;4;35
+Barisal;25;62504001;10402504001;Mrito Hosen Ali Khan Bari;Hossen Ali Khan Bari;150;500;50;1;1;1;1;1;3;1;3;3;2;1;3;3;3;3;3;33
+Barisal;25;62504002;10402504002;Mrito Hosen Ali Khan Bari;Najmul Der Bari;50;200;50;1;1;3;2;2;3;2;3;3;2;2;4;4;4;4;4;44
+Barisal;25;62505004;10402505004;Bot tola Area;Ismot Ara Bari;20;160;100;3;1;4;1;1;1;2;3;3;2;2;3;4;4;4;4;42
+Barisal;25;62505002;10402505002;Bot tola Area;Munshe BAri;25;190;150;3;1;4;1;1;1;2;3;3;2;4;3;4;3;4;4;43
+Barisal;25;62505003;10402505003;Bot tola Area;Kolefa Bari;20;160;100;3;1;4;1;1;1;1;3;3;2;3;3;3;4;4;4;41
+Barisal;25;62505001;10402505001;Bot tola Area;Hawlader Bari;30;180;200;3;1;4;1;1;1;1;3;3;2;3;2;4;3;4;4;40
+Barisal;25;62506003;10402506003;Rupatoli High School - Ukil Bari Poschim;Hawlader Bari;30;150;100;2;1;3;1;1;2;1;2;3;2;2;4;4;4;4;4;40
+Barisal;25;62506002;10402506002;Rupatoli High School - Ukil Bari Poschim;Manager Bari;17;150;100;3;1;4;1;1;1;2;3;3;3;3;3;4;3;4;4;43
+Barisal;25;62506001;10402506001;Rupatoli High School - Ukil Bari Poschim;Maji Bari;18;150;100;3;1;4;1;1;2;2;3;3;2;3;2;4;3;4;4;42
+Barisal;25;62507004;10402507004;Molla Bari;Khan Bari;50;200;80;3;2;4;2;2;3;2;3;3;3;3;4;2;4;3;4;47
+Barisal;25;62507001;10402507001;Molla Bari;Jomadar Bari;40;200;100;1;1;2;1;1;2;1;2;3;2;3;2;4;4;4;4;37
+Barisal;25;62507002;10402507002;Molla Bari;Beshas Bari;30;150;50;2;2;3;1;1;2;1;2;2;2;3;4;4;4;4;4;41
+Barisal;25;62507003;10402507003;Molla Bari;Hawlader Bari;35;175;100;3;1;3;1;1;3;1;2;4;2;2;4;3;4;4;4;42
+Barisal;25;62508001;10402508001;Polli Biddhut - Sonarga Textile;Kaji Bari;25;125;50;2;1;3;1;1;1;1;1;3;2;1;2;2;4;4;4;33
+Barisal;25;62508002;10402508002;Polli Biddhut - Sonarga Textile;Akon Bari;35;175;100;2;1;4;1;1;2;1;2;3;2;3;4;4;4;4;4;42
+Barisal;25;62508003;10402508003;Polli Biddhut - Sonarga Textile;Abdul Sha Sarak;30;150;100;2;1;4;2;1;3;1;2;4;2;3;4;3;4;4;4;44
+Barisal;25;62508004;10402508004;Polli Biddhut - Sonarga Textile;Hawlader Bari;25;125;100;2;1;3;1;1;2;1;2;2;2;3;2;4;4;4;4;38
+Barisal;25;62509001;10402509001;Mridha Bari Area;Gaffar Vaider Bari;120;600;150;2;1;4;1;4;2;1;2;2;3;2;3;3;4;4;4;42
+Barisal;25;62509002;10402509002;Mridha Bari Area;Harun Mehor Bari;85;450;150;2;1;4;1;1;3;1;2;3;3;3;1;2;4;4;4;39
+Barisal;25;62509003;10402509003;Mridha Bari Area;Muda Bari;120;600;150;3;1;4;1;3;2;3;3;3;3;3;3;1;4;4;4;45
+Barisal;25;62510001;10402510001;Gass Terbain Area;Modog Bari Primary Ukil Sonlogno;150;750;150;2;1;4;3;3;4;2;3;3;3;3;3;3;4;4;4;49
+Barisal;25;62510002;10402510002;Gass Terbain Area;Anoyara Duyale Bari Sonlogno;80;400;100;2;1;4;1;1;3;2;3;3;3;3;4;3;4;4;4;45
+Barisal;25;62510004;10402510004;Gass Terbain Area;Hanef Kha Thake Harun Vai Ar Bari;70;350;100;2;1;4;1;2;3;2;2;3;3;2;4;3;4;4;4;44
+Barisal;25;62510005;10402510005;Gass Terbain Area;Sobuj Khan Thaka Pabon Kha Bari;100;500;130;2;1;4;1;1;2;1;2;2;3;3;4;2;4;4;4;40
+Barisal;25;62510003;10402510003;Gass Terbain Area;Faruk Munsi Bari;80;400;100;2;1;4;1;2;2;3;2;3;3;3;3;3;4;4;4;44
+Barisal;25;62511002;10402511002;Opsonin Area;Monju Miyar Femari Jame Masjeed;50;250;70;3;1;4;1;2;3;3;3;3;4;2;4;3;4;4;4;48
+Barisal;25;62511001;10402511001;Opsonin Area;Sohel O Liton;70;350;100;3;3;4;2;3;2;4;3;3;4;3;4;4;4;4;4;54
+Barisal;29;62901007;10402901007;Uttar Purbo Baghia Khal Par;Khal Par Fokir Bari;40;150;300;1;1;2;1;1;2;2;4;2;2;3;4;1;4;4;4;38
+Barisal;29;62901006;10402901006;Uttar Purbo Baghia Khal Par;Noyada Bari;56;280;150;1;1;3;1;1;2;1;2;2;2;2;4;1;4;4;4;35
+Barisal;29;62901005;10402901005;Uttar Purbo Baghia Khal Par;Hawladar BAri;32;310;150;1;1;3;1;1;1;2;2;2;2;2;4;1;4;4;4;35
+Barisal;29;62901004;10402901004;Uttar Purbo Baghia Khal Par;Khal Par;30;180;20;1;1;1;1;1;2;3;2;2;2;2;1;1;1;1;1;23
+Barisal;29;62901008;10402901008;Uttar Purbo Baghia Khal Par;Fokir Bari;40;200;100;2;1;3;1;1;2;1;4;4;3;2;4;4;4;4;4;44
+Barisal;29;62901009;10402901009;Uttar Purbo Baghia Khal Par;Mislim Para;10;60;20;2;1;2;1;1;1;3;3;2;2;2;4;1;4;4;4;37
+Barisal;29;62901003;10402901003;Uttar Purbo Baghia Khal Par;Sordar Bari;30;150;18;1;1;4;4;4;2;4;4;3;4;3;1;2;4;1;2;44
+Barisal;29;62901002;10402901002;Uttar Purbo Baghia Khal Par;Molla Bari;35;175;200;1;1;3;1;1;2;3;3;2;3;3;4;3;4;4;4;42
+Barisal;29;62901010;10402901010;Uttar Purbo Baghia Khal Par;Molla Bari;52;260;300;1;1;2;1;1;3;1;2;2;2;1;4;1;4;4;4;34
+Barisal;29;62901001;10402901001;Uttar Purbo Baghia Khal Par;Manek Vai Ar Bari;45;215;200;1;1;2;1;1;1;1;2;2;2;2;4;1;4;4;4;33
+Barisal;29;62902016;10402902016;Baghia Lutfor Rahman Road;Japer Par;40;200;40;2;1;4;1;1;3;1;3;3;4;3;2;4;4;4;4;44
+Barisal;29;62902015;10402902015;Baghia Lutfor Rahman Road;Dokan Dar Runelor Ar Bari;70;350;80;2;1;4;2;1;2;4;3;3;4;3;4;2;4;4;4;47
+Barisal;29;62902014;10402902014;Baghia Lutfor Rahman Road;Member Bari;70;350;90;1;1;3;2;1;2;2;2;2;1;3;2;1;3;3;4;33
+Barisal;29;62902013;10402902013;Baghia Lutfor Rahman Road;Contracter Bari;50;250;80;1;1;4;2;3;2;3;2;2;3;3;3;4;4;4;4;45
+Barisal;29;62902012;10402902012;Baghia Lutfor Rahman Road;Sultan Miyar Bari;32;160;95;2;1;4;1;1;2;1;3;2;4;3;4;2;4;4;4;42
+Barisal;29;62902011;10402902011;Baghia Lutfor Rahman Road;Khan BAri;22;88;20;2;1;4;1;2;3;3;3;3;4;2;4;2;4;3;4;45
+Barisal;29;62902010;10402902010;Baghia Lutfor Rahman Road;Hawladar Salam AR Bari;45;180;38;1;1;4;4;2;1;4;4;3;3;2;4;4;4;4;4;49
+Barisal;29;62902009;10402902009;Baghia Lutfor Rahman Road;Humaor Kobir Thake Koberer Bari;38;190;26;2;1;4;1;3;1;1;2;3;4;3;1;4;4;4;4;42
+Barisal;29;62902008;10402902008;Baghia Lutfor Rahman Road;Lotfor Rahman Sarak Notulla Bad;25;125;25;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Barisal;29;62902007;10402902007;Baghia Lutfor Rahman Road;Nur Alom Miyar Bari;13;65;35;2;1;4;1;1;1;1;3;3;4;3;4;2;4;1;4;39
+Barisal;29;62902006;10402902006;Baghia Lutfor Rahman Road;Lotfor Rahman Goli 3;80;400;30;2;1;4;1;1;1;1;2;3;4;3;3;2;4;3;4;39
+Barisal;29;62902005;10402902005;Baghia Lutfor Rahman Road;Lotfor Rahman Sarak Goli-2;30;150;35;2;3;4;1;1;1;1;3;3;4;3;4;2;4;3;4;43
+Barisal;29;62902004;10402902004;Baghia Lutfor Rahman Road;Lotfor Rahman Sarak Goli-1;60;300;30;2;2;4;2;3;1;4;1;3;3;1;1;4;2;4;4;41
+Barisal;29;62902003;10402902003;Baghia Lutfor Rahman Road;Dokkhin Bager Lotfor Rahman;25;125;42;2;1;3;1;2;1;4;2;3;3;3;2;4;4;4;4;43
+Barisal;29;62902002;10402902002;Baghia Lutfor Rahman Road;Lutfor Rahman Sarak;15;75;37;2;3;4;1;1;3;3;3;2;3;2;4;4;4;4;4;47
+Barisal;29;62902001;10402902001;Baghia Lutfor Rahman Road;Khal Par Sarak Nehar Miyar bari;34;170;120;1;1;4;1;1;2;2;2;2;4;1;4;2;4;4;4;39
+Barisal;29;62903007;10402903007;Purbo Ishakathi Baghia;Shevdar Bari;130;650;200;1;1;3;1;1;1;2;3;1;4;2;1;2;4;2;4;33
+Barisal;29;62903006;10402903006;Purbo Ishakathi Baghia;Khalek Miyar Bari;50;250;100;1;1;4;1;1;3;1;3;3;4;3;4;4;4;4;4;45
+Barisal;29;62903005;10402903005;Purbo Ishakathi Baghia;Ansar Molla Bari;80;400;90;2;1;4;1;4;2;1;1;3;4;3;3;4;4;4;4;45
+Barisal;29;62903008;10402903008;Purbo Ishakathi Baghia;Fokir Hawladar Bari;100;500;100;1;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;35
+Barisal;29;62903009;10402903009;Purbo Ishakathi Baghia;Soref Ar Bari;180;800;130;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;29;62903001;10402903001;Purbo Ishakathi Baghia;Hawldarer Bari;40;200;100;2;1;4;1;1;2;2;3;4;4;2;4;2;4;4;4;44
+Barisal;29;62903004;10402903004;Purbo Ishakathi Baghia;Nurul Hok Molla Bari;80;110;120;1;1;4;1;2;2;1;2;3;4;3;4;4;4;4;4;44
+Barisal;29;62903010;10402903010;Purbo Ishakathi Baghia;Habeb Hawladarer Bari;30;150;80;1;1;3;2;1;1;2;3;1;1;3;4;1;4;4;4;36
+Barisal;29;62903002;10402903002;Purbo Ishakathi Baghia;Nur Islam Hawaldarer Bari;50;250;100;1;1;4;1;1;2;2;4;3;3;3;4;2;4;4;4;43
+Barisal;29;62903003;10402903003;Purbo Ishakathi Baghia;Hami Hawaldarer Bari;35;175;100;2;1;4;1;3;3;1;4;3;4;3;4;2;4;4;4;47
+Barisal;29;62903011;10402903011;Purbo Ishakathi Baghia;Batroreya Pomel Ar Poschiim Pash;12;55;70;1;1;3;1;1;1;2;3;1;1;2;4;1;4;4;4;34
+Barisal;29;62903012;10402903012;Purbo Ishakathi Baghia;Kader Member Ar Bari;14;65;80;1;1;4;1;1;1;3;3;1;2;3;4;1;4;4;4;38
+Barisal;29;62903013;10402903013;Purbo Ishakathi Baghia;Bageya Khal Par;120;550;70;1;1;3;1;1;1;3;3;1;1;3;4;1;4;4;4;36
+Barisal;29;62904001;10402904001;Moddho Ishakathi;Kalam Hawladar Bari;120;550;40;1;1;3;1;1;1;3;3;2;1;1;3;1;2;3;4;31
+Barisal;29;62904005;10402904005;Moddho Ishakathi;Echakali Colony;120;680;40;2;1;2;1;1;1;4;3;1;2;2;4;1;4;4;4;37
+Barisal;29;62904006;10402904006;Moddho Ishakathi;Bohumukhi Somity;25;180;30;2;1;2;1;1;1;2;4;1;1;3;4;1;4;4;4;36
+Barisal;29;62904004;10402904004;Moddho Ishakathi;Sekandar Master Ar Bari;26;125;40;1;1;2;1;1;1;3;3;1;2;3;4;1;4;4;4;36
+Barisal;29;62904007;10402904007;Moddho Ishakathi;Andaman Dokkhin Pash;20;90;30;2;1;2;1;1;2;2;4;1;1;3;3;1;4;4;4;36
+Barisal;29;62904003;10402904003;Moddho Ishakathi;Khan Bari;200;1000;80;2;1;4;1;1;2;2;3;1;1;3;4;1;4;4;4;38
+Barisal;29;62904002;10402904002;Moddho Ishakathi;Taluk Dar Bari;25;130;60;3;1;3;1;1;2;1;3;3;3;3;4;2;4;4;4;42
+Barisal;29;62905018;10402905018;Uttar Ishakathi;Khondokar Bari;5;25;70;2;1;4;2;3;4;2;3;3;3;3;4;2;4;4;4;48
+Barisal;29;62905019;10402905019;Uttar Ishakathi;Napit Bari;10;50;70;2;1;4;2;1;3;2;3;4;4;4;4;1;4;4;4;47
+Barisal;29;62905020;10402905020;Uttar Ishakathi;Wahab Master Ar Bari;18;90;78;4;3;3;2;3;4;4;3;4;4;4;4;3;4;4;4;57
+Barisal;29;62905001;10402905001;Uttar Ishakathi;Paikar Bari;38;190;60;2;1;1;1;1;2;1;2;2;2;2;3;3;4;4;4;35
+Barisal;29;62905016;10402905016;Uttar Ishakathi;Napet Baru Rastar Dokkhin Side;18;90;55;2;1;4;2;3;2;1;3;3;4;2;4;1;4;4;4;44
+Barisal;29;62905017;10402905017;Uttar Ishakathi;Dulal Molla Bari;10;50;5;2;1;4;2;1;2;1;3;3;4;3;4;2;4;4;4;44
+Barisal;29;62905004;10402905004;Uttar Ishakathi;Talukdar Bari;25;125;100;2;1;1;1;1;2;1;2;2;2;2;3;3;4;4;4;35
+Barisal;29;62905002;10402905002;Uttar Ishakathi;Hawaldar Bari;46;226;80;2;1;1;1;1;2;1;2;2;2;2;3;3;4;4;4;35
+Barisal;29;62905003;10402905003;Uttar Ishakathi;Abu Maji Bari;32;160;88;2;1;1;1;1;2;1;2;2;2;2;3;3;4;4;4;35
+Barisal;29;62905005;10402905005;Uttar Ishakathi;Sobuj Miyaje Bari;22;110;75;2;1;3;1;1;1;2;3;1;1;3;4;1;4;4;4;36
+Barisal;29;62905006;10402905006;Uttar Ishakathi;Pannu Sordar Bari;30;150;80;2;1;1;1;1;2;3;2;1;2;3;3;3;4;4;4;37
+Barisal;29;62905007;10402905007;Uttar Ishakathi;Sajahan Molla;20;100;78;2;1;1;1;1;2;3;2;1;1;2;3;3;4;4;4;35
+Barisal;29;62905008;10402905008;Uttar Ishakathi;Kalam Police Ar Bari;60;300;90;2;1;1;1;1;2;3;2;1;1;3;3;3;4;4;4;36
+Barisal;29;62905009;10402905009;Uttar Ishakathi;Poronobi Bari;70;350;85;2;1;1;1;1;2;1;2;4;4;3;3;3;4;4;4;40
+Barisal;29;62905011;10402905011;Uttar Ishakathi;Vuiya Bari;48;240;70;2;3;4;2;4;2;3;3;3;4;3;4;2;4;4;4;51
+Barisal;29;62905012;10402905012;Uttar Ishakathi;Rob Hawaldar Bari Masjeed;43;215;89;2;1;4;1;4;4;4;4;4;4;2;3;3;4;4;4;52
+Barisal;29;62905013;10402905013;Uttar Ishakathi;Napet Bari;28;140;77;4;1;3;3;3;3;4;4;3;3;3;3;3;3;4;4;51
+Barisal;29;62905015;10402905015;Uttar Ishakathi;Rofek Hawlader Bari;22;110;76;1;1;4;2;1;3;1;3;3;3;3;4;2;4;4;4;43
+Barisal;29;62905014;10402905014;Uttar Ishakathi;Napet Bari;27;135;85;2;1;4;2;1;3;2;4;3;4;2;4;2;4;4;4;46
+Barisal;29;62905010;10402905010;Uttar Ishakathi;Habeb Driver;45;225;66;2;1;4;1;4;4;1;4;4;4;2;3;3;4;4;4;49
+Barisal;29;62906009;10402906009;Dokshin Ishakathi;Ghosel Bari;24;120;80;1;1;4;1;3;4;1;4;3;4;2;4;4;4;4;4;48
+Barisal;29;62906008;10402906008;Dokshin Ishakathi;Esakathe Colony;15;75;90;2;1;4;1;3;4;2;4;4;4;3;4;3;4;4;4;51
+Barisal;29;62906007;10402906007;Dokshin Ishakathi;Koleme Sekdar Bari;22;110;75;1;1;3;1;2;2;1;3;3;4;2;3;1;2;3;2;34
+Barisal;29;62906006;10402906006;Dokshin Ishakathi;Mojammel Hok Vuiya Bari;35;175;95;2;1;4;2;4;4;3;4;4;4;3;4;4;4;4;4;55
+Barisal;29;62906005;10402906005;Dokshin Ishakathi;Josim Khan;95;475;75;2;1;4;1;3;4;2;3;4;4;3;4;3;4;4;4;50
+Barisal;29;62906004;10402906004;Dokshin Ishakathi;Degir Par;85;425;70;2;1;4;2;4;3;1;3;3;4;2;3;2;3;2;3;42
+Barisal;29;62906003;10402906003;Dokshin Ishakathi;Sekdar Bari;27;135;80;2;1;4;1;1;3;1;3;3;2;2;4;2;4;4;3;40
+Barisal;29;62906002;10402906002;Dokshin Ishakathi;Dulal Mestry Bari;50;250;85;2;1;4;1;1;3;3;3;3;3;2;4;3;4;4;4;45
+Barisal;29;62906001;10402906001;Dokshin Ishakathi;Salauddain Har Bari;24;120;85;2;1;4;1;1;3;1;3;3;3;2;4;3;4;4;4;43
+Barisal;29;62907003;10402907003;Poschiom Ishakathi;Selim Maji;12;138;80;2;1;2;1;3;3;1;2;3;3;2;2;1;2;3;3;34
+Barisal;29;62907002;10402907002;Poschiom Ishakathi;Najir Bari;18;108;80;3;1;4;1;1;3;1;3;3;4;2;4;4;4;4;4;46
+Barisal;29;62907001;10402907001;Poschiom Ishakathi;High School Sonlogno;26;130;90;2;1;4;3;1;4;1;2;3;3;2;4;4;4;4;4;46
+Barisal;29;62907004;10402907004;Poschiom Ishakathi;Joinal Hawlader;21;105;75;1;2;4;1;3;3;3;4;4;4;2;2;1;3;3;3;43
+Barisal;29;62907005;10402907005;Poschiom Ishakathi;Rob Mowlana Bari;17;75;8;1;2;4;1;3;3;3;4;4;1;2;2;1;3;3;3;40
+Barisal;29;62907009;10402907009;Poschiom Ishakathi;Sultan Modri Bari;20;105;80;2;1;4;1;1;2;1;3;3;4;2;3;1;3;1;1;33
+Barisal;29;62907008;10402907008;Poschiom Ishakathi;Molla Bari;25;135;80;2;1;4;1;3;3;1;3;4;4;3;4;2;4;4;4;47
+Barisal;29;62907007;10402907007;Poschiom Ishakathi;Malek Munse Bari;22;117;90;2;1;4;2;2;4;4;3;3;4;3;4;2;4;4;4;50
+Barisal;29;62907006;10402907006;Poschiom Ishakathi;Molla Bari;17;95;90;4;1;4;3;3;4;1;3;3;3;3;2;3;3;4;4;48
+Barisal;16;61601001;10401601001;Gora Chad Das Road Uttor - Dilbag;Halem Khatun Sorok;19;80;15;3;1;4;3;1;4;4;4;3;3;3;2;2;3;1;4;45
+Barisal;16;61601002;10401601002;Gora Chad Das Road Uttor - Dilbag;Rupaly Bank Sonlogno Goli;12;48;40;3;3;4;4;2;4;4;2;2;3;3;3;2;2;1;4;46
+Barisal;16;61601003;10401601003;Gora Chad Das Road Uttor - Dilbag;Sem Babur Lain;15;60;50;3;3;4;4;2;4;4;2;2;3;3;3;2;3;1;4;47
+Barisal;16;61601004;10401601004;Gora Chad Das Road Uttor - Dilbag;Mah Mudaloy;7;28;25;4;4;4;3;2;4;4;3;3;3;3;4;1;3;1;4;50
+Barisal;16;61601005;10401601005;Gora Chad Das Road Uttor - Dilbag;Mophela Hostel Sarak;9;36;50;4;4;4;3;4;4;4;4;3;4;3;4;3;3;4;4;59
+Barisal;16;61602002;10401602002;Gora Chad Das Road Dokkhin;Apex Hospita Ar Pichone;5;25;50;4;4;4;3;2;3;3;3;2;3;2;3;2;3;1;4;46
+Barisal;16;61602001;10401602001;Gora Chad Das Road Dokkhin;Habebur Rahman Lain;10;40;50;4;4;4;3;3;4;4;4;3;3;3;4;3;3;1;4;54
+Barisal;16;61602003;10401602003;Gora Chad Das Road Dokkhin;Mohmot Monjel Lain;9;36;20;4;4;4;3;3;3;3;3;3;3;3;4;3;3;1;4;51
+Barisal;16;61602005;10401602005;Gora Chad Das Road Dokkhin;Dil Bag;15;65;60;4;4;3;3;3;4;4;4;3;3;3;3;3;3;1;4;52
+Barisal;16;61602004;10401602004;Gora Chad Das Road Dokkhin;New Loj;7;35;50;4;3;4;2;2;3;3;3;3;3;3;3;3;3;1;4;47
+Barisal;16;61603002;10401603002;Brown Compound;Bahadur Manjil Purbo;5;30;25;4;1;2;2;2;1;2;3;3;1;1;2;1;1;1;2;29
+Barisal;16;61603001;10401603001;Brown Compound;Bahadur Manjil;15;90;30;3;1;4;4;1;1;4;4;1;1;1;1;2;3;1;1;33
+Barisal;16;61604005;10401604005;Shaheber Gorstan - Esshor Bosu Road;Usuf Busur Road;35;175;35;4;4;4;2;2;3;4;3;3;3;2;4;3;3;2;3;49
+Barisal;16;61604004;10401604004;Shaheber Gorstan - Esshor Bosu Road;Nasir Miyar Bari;10;60;35;4;4;4;1;1;3;3;4;3;3;3;1;2;3;2;3;44
+Barisal;16;61604003;10401604003;Shaheber Gorstan - Esshor Bosu Road;Sahajahan Chowdory;10;50;30;2;1;4;1;2;3;4;3;2;3;3;2;3;3;3;3;42
+Barisal;16;61604001;10401604001;Shaheber Gorstan - Esshor Bosu Road;Brack Somaj;10;50;30;2;1;4;1;1;1;1;3;3;1;3;3;2;3;1;3;33
+Barisal;16;61604002;10401604002;Shaheber Gorstan - Esshor Bosu Road;Brack Somajer Pichone;5;25;25;2;1;4;2;1;2;4;3;3;4;3;3;2;2;4;3;43
+Barisal;16;61605001;10401605001;Zila School - Poresh Sagor Purbo;Staff Quarter;5;20;40;3;3;3;1;3;3;3;3;2;4;3;3;2;3;2;1;42
+Barisal;16;61606003;10401606003;N Hossain - Bogra Road;Staff Quarter (3);25;75;40;1;1;3;1;1;3;2;3;2;3;3;2;2;3;2;2;34
+Barisal;16;61606001;10401606001;N Hossain - Bogra Road;Staff Quarter (1);15;90;40;2;3;3;1;1;3;2;2;2;2;3;1;2;3;2;2;34
+Barisal;16;61606002;10401606002;N Hossain - Bogra Road;Staff Quarter(2);5;20;40;1;1;3;2;2;1;3;3;2;2;1;2;2;3;4;2;34
+Barisal;22;62201004;10402201004;NoyaKanda Khalpar Poschim;Keramoter Bari;15;70;40;1;1;3;1;1;1;1;3;4;2;4;4;1;4;4;4;39
+Barisal;22;62201005;10402201005;NoyaKanda Khalpar Poschim;Noya BAri;40;180;58;1;1;3;1;1;1;1;4;4;2;4;4;1;4;4;4;40
+Barisal;22;62201003;10402201003;NoyaKanda Khalpar Poschim;Mira Bari;20;120;50;2;1;3;1;3;1;1;3;4;1;4;4;1;4;4;4;41
+Barisal;22;62201002;10402201002;NoyaKanda Khalpar Poschim;Chandu Miyar Bari;50;250;58;1;1;4;1;1;1;1;3;4;3;4;4;1;4;4;4;41
+Barisal;22;62201001;10402201001;NoyaKanda Khalpar Poschim;Ansar Sekher Bari;15;72;30;1;1;3;1;1;1;1;3;1;2;3;4;1;4;4;3;34
+Barisal;22;62201006;10402201006;NoyaKanda Khalpar Poschim;Momotaj Bari;30;145;58;1;1;3;1;1;1;1;1;4;3;4;4;2;4;4;4;39
+Barisal;22;62202001;10402202001;NoyaKanda Talukdar Road Purbo;Ansar Ar Bari;45;175;70;1;1;3;1;1;1;3;2;4;2;4;4;4;4;4;4;43
+Barisal;22;62202002;10402202002;NoyaKanda Talukdar Road Purbo;Alauddain Ar Bari;35;175;58;1;1;3;1;1;1;3;3;3;3;4;4;3;4;4;4;43
+Barisal;22;62202003;10402202003;NoyaKanda Talukdar Road Purbo;Moheuddain Ar Bari;60;475;55;1;1;4;1;1;2;3;4;3;3;4;4;4;4;4;4;47
+Barisal;22;62202004;10402202004;NoyaKanda Talukdar Road Purbo;Tan Shel Ar Bari;25;125;45;1;1;3;1;1;1;2;3;4;3;4;4;2;4;4;4;42
+Barisal;22;62202006;10402202006;NoyaKanda Talukdar Road Purbo;Naserer Bari;15;75;58;1;1;2;1;1;1;2;4;4;3;4;4;1;4;4;4;41
+Barisal;22;62202005;10402202005;NoyaKanda Talukdar Road Purbo;Topur Bari;60;300;32;1;1;3;1;2;2;3;3;4;3;4;4;3;4;4;4;46
+Barisal;22;62203003;10402203003;NoyaKanda Zia Road Uttor;Mintu Han Ar Bari;28;145;40;1;1;1;1;2;2;3;3;4;3;4;4;3;4;4;4;44
+Barisal;22;62203001;10402203001;NoyaKanda Zia Road Uttor;Ashutos Gael Bari;45;225;80;1;1;1;1;1;2;2;2;4;2;4;4;1;4;4;4;38
+Barisal;22;62203002;10402203002;NoyaKanda Zia Road Uttor;Amena Begum Bari;25;120;95;1;1;3;1;1;2;3;3;2;3;4;4;2;4;4;4;42
+Barisal;22;62204001;10402204001;Nobogram Road - Amin Khan Road - Nolidas;Pewon Bari;150;600;150;1;1;1;1;1;1;3;3;3;2;3;3;3;3;4;4;37
+Barisal;22;62204002;10402204002;Nobogram Road - Amin Khan Road - Nolidas;Mohuri Bari;50;200;100;1;1;1;1;1;2;3;3;3;2;3;3;3;3;4;4;38
+Barisal;22;62204003;10402204003;Nobogram Road - Amin Khan Road - Nolidas;Nolidas Doctor Bari;70;200;100;2;1;2;1;1;1;3;3;3;2;3;3;3;3;4;4;39
+Barisal;22;62204004;10402204004;Nobogram Road - Amin Khan Road - Nolidas;Gaji Bari;70;280;100;1;1;3;1;1;1;2;3;3;2;3;3;3;3;4;4;38
+Barisal;22;62204005;10402204005;Nobogram Road - Amin Khan Road - Nolidas;Mukuler Bari;21;95;21;2;1;3;2;1;2;2;2;2;2;1;3;2;1;4;4;34
+Barisal;22;62205006;10402205006;Zia Road - Dorga Bari;Mojammol Ar Bari;40;160;100;2;1;3;1;1;1;3;3;3;2;3;3;4;4;4;4;42
+Barisal;22;62205007;10402205007;Zia Road - Dorga Bari;Miya Bari;30;150;100;2;1;4;3;1;3;3;3;3;3;3;3;2;3;4;4;45
+Barisal;22;62205003;10402205003;Zia Road - Dorga Bari;Altaf Manson;100;400;120;2;1;1;1;1;1;2;3;3;2;3;2;2;3;4;4;35
+Barisal;22;62205004;10402205004;Zia Road - Dorga Bari;Vuiya Bari;80;320;100;2;1;1;1;1;1;2;3;3;2;2;2;2;3;4;4;34
+Barisal;22;62205005;10402205005;Zia Road - Dorga Bari;Talukdar Bari;40;160;100;2;1;3;2;1;2;3;3;2;2;2;2;4;3;4;4;40
+Barisal;22;62205002;10402205002;Zia Road - Dorga Bari;Maicro Kalamco Bari;120;480;100;2;1;3;2;1;1;3;3;3;2;2;2;2;2;4;4;37
+Barisal;22;62205001;10402205001;Zia Road - Dorga Bari;Dorga Bari;100;400;100;2;1;3;2;2;2;2;3;3;2;2;4;4;2;4;4;42
+Barisal;22;62206001;10402206001;Zia Road Prothom Len Purbo;Banen Manegar Bari;60;240;50;2;1;4;1;3;2;2;3;3;3;2;2;2;3;4;4;41
+Barisal;22;62206002;10402206002;Zia Road Prothom Len Purbo;Seraj Monjel;30;120;28;2;1;3;1;3;3;2;3;3;3;2;4;2;3;4;4;43
+Barisal;22;62206003;10402206003;Zia Road Prothom Len Purbo;Sufeya Monjel;35;150;42;2;1;3;1;2;3;2;3;3;2;2;4;4;3;4;4;43
+Barisal;22;62206004;10402206004;Zia Road Prothom Len Purbo;Hawlader Bari;60;250;100;2;2;3;2;1;3;2;3;3;2;2;3;4;3;4;4;43
+Barisal;22;62206005;10402206005;Zia Road Prothom Len Purbo;Ajij Vela;25;100;30;2;2;3;2;1;2;2;3;3;2;3;3;4;3;4;4;43
+Barisal;22;62206006;10402206006;Zia Road Prothom Len Purbo;Khan Manjil;100;400;60;2;1;3;2;3;2;2;3;3;2;3;2;4;3;4;4;43
+Barisal;22;62206007;10402206007;Zia Road Prothom Len Purbo;Mukul Begum Ar Bari;25;100;40;2;4;3;2;3;2;3;3;3;2;4;2;3;4;4;4;48
+Barisal;22;62206010;10402206010;Zia Road Prothom Len Purbo;Talukdar Bari;22;99;100;1;1;4;2;2;2;3;4;2;2;2;3;4;4;4;4;44
+Barisal;22;62206008;10402206008;Zia Road Prothom Len Purbo;Hawlader Bari;80;320;60;2;1;3;2;1;3;4;3;3;2;3;4;4;4;4;4;47
+Barisal;22;62206009;10402206009;Zia Road Prothom Len Purbo;Ron Khalek Bari;100;400;70;2;1;3;2;2;2;2;3;2;2;2;2;4;2;4;4;39
+Barisal;22;62207001;10402207001;Kazi Para Prodhan Road;Sobuj Istorer Pashe;15;90;25;1;1;2;2;1;1;4;1;1;1;1;2;1;1;2;1;23
+Barisal;22;62207002;10402207002;Kazi Para Prodhan Road;Feroj Monjel Ar Pashe;12;70;80;2;3;4;1;1;1;4;2;1;1;1;3;3;3;4;4;38
+Barisal;22;62207003;10402207003;Kazi Para Prodhan Road;Counselar Office Ar Pichone;7;40;27;2;1;3;1;1;1;4;2;1;1;1;2;2;3;2;4;31
+Barisal;22;62207004;10402207004;Kazi Para Prodhan Road;Pablic;20;125;35;1;1;4;1;1;2;4;2;1;1;1;3;4;3;4;4;37
+Barisal;22;62207005;10402207005;Kazi Para Prodhan Road;Kaji Para 1 No. Lain Uttor;15;67;20;2;1;4;2;1;2;4;1;1;1;1;2;2;3;3;3;33
+Barisal;22;62208002;10402208002;Nobogram Road Chomatha - Zia Road;Suma Ap[ader Bari;20;90;35;1;1;4;1;1;1;4;2;1;1;3;4;3;4;4;4;39
+Barisal;22;62208004;10402208004;Nobogram Road Chomatha - Zia Road;Makka Masjeed Sonlogno;30;125;35;1;1;4;1;3;2;4;2;1;1;1;4;2;4;4;4;39
+Barisal;22;62208005;10402208005;Nobogram Road Chomatha - Zia Road;Munshe Bari;45;225;25;1;1;4;2;2;3;1;4;3;4;2;4;3;4;4;4;46
+Barisal;22;62208006;10402208006;Nobogram Road Chomatha - Zia Road;Salam Driver Ar Bari;85;425;28;1;1;3;2;3;3;1;4;3;4;3;4;3;4;4;4;47
+Barisal;22;62208003;10402208003;Nobogram Road Chomatha - Zia Road;Kaji Bari;20;65;25;1;1;4;1;2;2;4;3;1;1;2;4;2;4;4;4;40
+Barisal;22;62208001;10402208001;Nobogram Road Chomatha - Zia Road;Hajari Bari;10;60;25;1;1;4;2;2;3;4;3;3;1;1;2;1;4;4;3;39
+Barisal;22;62209002;10402209002;Chomatha - kazi Para Prodhan Road Poschim;Cristin Colony;48;160;45;2;1;3;1;1;1;4;1;1;1;1;4;4;4;4;4;37
+Barisal;22;62209003;10402209003;Chomatha - kazi Para Prodhan Road Poschim;Haji BAri;20;90;25;1;3;4;1;1;2;4;2;1;1;1;3;3;4;3;3;37
+Barisal;22;62209004;10402209004;Chomatha - kazi Para Prodhan Road Poschim;Salam Driver Ar Bari;15;70;25;1;1;4;1;2;1;4;2;3;2;3;2;2;3;1;2;34
+Barisal;22;62209005;10402209005;Chomatha - kazi Para Prodhan Road Poschim;Gosh Bari;15;70;45;1;3;4;1;1;2;4;2;1;1;1;4;3;4;4;3;39
+Barisal;22;62209006;10402209006;Chomatha - kazi Para Prodhan Road Poschim;Cristin Colony Poschem;12;55;44;1;1;4;1;2;2;4;2;2;2;3;3;3;3;4;4;41
+Barisal;22;62209001;10402209001;Chomatha - kazi Para Prodhan Road Poschim;Juyel Hawladar Ar Goli;15;75;35;1;2;4;2;2;2;4;4;4;2;1;4;1;4;4;4;45
+Barisal;11;61101001;10401101001;Stadium Alaka;Bongobondu Colony;1500;7500;22;2;2;3;1;1;1;3;2;2;2;2;1;1;2;2;2;29
+Barisal;11;61102005;10401102005;BIP Shakha Road - Charer Bari Purbo;Chorer Bari;50;250;60;2;1;4;2;4;4;4;4;3;3;3;4;2;4;4;4;52
+Barisal;11;61102006;10401102006;BIP Shakha Road - Charer Bari Purbo;Pal Bari;30;150;45;4;2;4;2;4;4;1;4;4;4;3;3;3;4;1;3;50
+Barisal;11;61102002;10401102002;BIP Shakha Road - Charer Bari Purbo;V.I.P Road;21;105;100;4;2;4;3;2;4;1;4;3;4;3;4;2;4;1;2;47
+Barisal;11;61102003;10401102003;BIP Shakha Road - Charer Bari Purbo;V.I.P 2 No. Goli;5;30;100;2;2;4;3;2;4;1;4;3;4;3;2;2;3;1;3;43
+Barisal;11;61102004;10401102004;BIP Shakha Road - Charer Bari Purbo;Chorer Bari;20;120;100;2;1;4;2;1;2;1;4;3;4;3;4;2;4;4;4;45
+Barisal;11;61102001;10401102001;BIP Shakha Road - Charer Bari Purbo;Jamunna;18;108;22;4;1;4;1;1;4;4;3;4;4;4;4;4;4;4;3;53
+Barisal;11;61103001;10401103001;Baptist Mission Road - Jabbar Miyar Goli;Bipestik Cristan Colony;22;44;16;2;1;4;1;4;4;4;4;1;1;4;2;1;2;1;3;39
+Barisal;11;61103002;10401103002;Baptist Mission Road - Jabbar Miyar Goli;Bipestik Mission Road;80;320;80;2;3;4;1;1;4;3;4;4;3;4;4;1;4;4;4;50
+Barisal;11;61103003;10401103003;Baptist Mission Road - Jabbar Miyar Goli;Chadu Hang  Bari;15;65;25;2;3;4;1;1;1;1;4;3;3;4;3;1;3;1;2;37
+Barisal;11;61103004;10401103004;Baptist Mission Road - Jabbar Miyar Goli;Yasin Kaji Bari;10;50;100;2;1;4;1;2;4;1;4;3;3;2;4;2;4;4;4;45
+Barisal;11;61104001;10401104001;Arshed Ali Road - Medical college Len;Dokkhin Akekanda;10;50;60;2;1;4;3;1;4;1;4;3;3;3;3;3;4;4;4;47
+Barisal;11;61104003;10401104003;Arshed Ali Road - Medical college Len;Dokkhin Alekanda;70;350;60;4;4;4;4;2;4;4;3;3;4;3;4;3;4;4;4;58
+Barisal;11;61104002;10401104002;Arshed Ali Road - Medical college Len;Dokkhin Alekanda Muda Bari;50;200;100;4;4;4;4;2;4;4;3;3;4;3;4;4;4;4;3;58
+Barisal;11;61105001;10401105001;Arshed Ali Road Purbo - Kazi Bari;Uleyam Para;30;150;60;2;1;4;4;1;4;4;4;4;3;3;4;3;4;4;4;53
+Barisal;11;61105002;10401105002;Arshed Ali Road Purbo - Kazi Bari;Bapistek Mission Road Sadar Bari;50;250;90;2;4;4;4;4;4;4;4;4;4;3;4;2;4;4;4;59
+Barisal;11;61105007;10401105007;Arshed Ali Road Purbo - Kazi Bari;Ashed Ali Sarak;150;1050;70;3;3;4;3;1;2;4;3;3;3;4;4;2;4;4;4;51
+Barisal;11;61105004;10401105004;Arshed Ali Road Purbo - Kazi Bari;Nelu Baburche Lain;20;80;80;2;3;4;1;2;2;4;4;3;4;4;4;2;4;4;4;51
+Barisal;11;61105005;10401105005;Arshed Ali Road Purbo - Kazi Bari;Sobedul Ali Khan Sarak;45;270;60;3;4;4;4;4;4;4;4;3;3;4;4;2;4;4;4;59
+Barisal;11;61105006;10401105006;Arshed Ali Road Purbo - Kazi Bari;Ashed Ali Sarak;75;375;90;1;1;4;3;1;1;3;4;3;2;3;4;2;4;3;3;42
+Barisal;11;61105003;10401105003;Arshed Ali Road Purbo - Kazi Bari;Nolu Baburche Lain;6;24;50;2;3;4;1;1;2;3;4;3;4;3;4;2;4;4;3;47
+Barisal;11;61106001;10401106001;Medical College Area;Pokhe Babur Para;7;30;50;2;1;4;1;3;4;1;4;4;4;4;4;2;4;4;4;50
+Barisal;11;61106002;10401106002;Medical College Area;Uleyam PAra;70;300;100;4;3;4;3;1;4;4;4;4;4;4;4;2;4;4;4;57
+Barisal;26;62601001;10402601001;Moydan Khola;Munshe Bari;18;90;80;1;1;1;1;1;1;1;4;4;2;4;4;1;4;4;4;38
+Barisal;26;62601008;10402601008;Moydan Khola;Member Bari;10;50;100;2;1;4;1;1;1;1;4;4;3;4;4;4;4;4;4;46
+Barisal;26;62601009;10402601009;Moydan Khola;Madrasha Bari;10;65;80;1;1;4;1;1;1;1;3;3;2;4;4;4;4;4;4;42
+Barisal;26;62601007;10402601007;Moydan Khola;Hawlader Bari;15;80;100;1;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;42
+Barisal;26;62601011;10402601011;Moydan Khola;Sekdar Bari;25;125;100;2;1;4;1;1;1;1;4;1;2;3;4;4;4;4;4;41
+Barisal;26;62601010;10402601010;Moydan Khola;Mallek Bari;32;160;100;2;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;43
+Barisal;26;62601005;10402601005;Moydan Khola;Munsur Hawlader Bari;6;35;55;2;1;4;1;1;1;1;4;1;2;4;4;4;4;4;4;42
+Barisal;26;62601006;10402601006;Moydan Khola;Akon Bari;6;30;100;2;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;43
+Barisal;26;62601004;10402601004;Moydan Khola;Vuiya Bari;5;35;40;1;1;1;1;1;1;1;4;1;1;4;4;4;4;4;4;37
+Barisal;26;62601002;10402601002;Moydan Khola;Medha Bari;10;60;85;1;1;1;1;1;1;1;4;1;2;3;1;4;4;4;4;34
+Barisal;26;62601003;10402601003;Moydan Khola;Moidhan Bari;8;48;90;2;2;1;1;1;1;1;4;3;2;2;4;4;4;4;4;40
+Barisal;26;62602003;10402602003;Krishnachura borer vita;Tota master bari;20;115;200;1;1;1;1;1;1;1;4;1;2;4;4;4;4;4;4;38
+Barisal;26;62602001;10402602001;Krishnachura borer vita;Molla bari;16;80;100;1;1;4;1;1;1;1;4;1;1;3;4;4;1;4;4;36
+Barisal;26;62602002;10402602002;Krishnachura borer vita;Hawlader Bari song logno;20;100;100;2;1;4;1;1;1;1;4;1;2;3;4;4;4;4;4;41
+Barisal;26;62602006;10402602006;Krishnachura borer vita;Hawlader barir pichone;15;456;40;1;1;1;1;1;1;1;3;2;3;2;4;1;4;4;4;34
+Barisal;26;62602004;10402602004;Krishnachura borer vita;Munsi bari sorok;20;90;40;2;1;4;1;1;1;1;4;1;4;4;4;4;4;4;4;44
+Barisal;26;62602005;10402602005;Krishnachura borer vita;Haji bari;20;120;100;2;1;4;1;1;1;1;4;2;2;3;3;4;4;4;4;41
+Barisal;26;62603001;10402603001;Uttar horina fuler jongol;Haji bari khan bari;40;200;200;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Barisal;26;62603002;10402603002;Uttar horina fuler jongol;Sordar bari;30;180;150;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Barisal;26;62603004;10402603004;Uttar horina fuler jongol;Molla bari sorap khaner bari;35;175;50;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Barisal;26;62603003;10402603003;Uttar horina fuler jongol;Adam ali khan bari;35;175;165;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Barisal;26;62604001;10402604001;Modho horina fulia fokir bari;Al aminer bari;31;155;12;1;1;1;1;1;1;1;4;2;3;1;4;1;4;4;4;34
+Barisal;26;62604002;10402604002;Modho horina fulia fokir bari;Hashim bakerer bari;48;240;70;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;26;62604004;10402604004;Modho horina fulia fokir bari;Mena jia mashjid bari;40;200;75;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;26;62604003;10402604003;Modho horina fulia fokir bari;Anowar sordar;85;430;70;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;26;62604005;10402604005;Modho horina fulia fokir bari;Shushil master board office;49;195;80;1;1;4;1;1;1;1;4;2;3;1;4;1;4;4;4;37
+Barisal;26;62605003;10402605003;Dokkhin Horina Fuliya - Chomatha;Hossain ali hong bari ong;25;125;75;2;1;4;1;2;1;4;4;1;1;4;4;4;4;4;4;45
+Barisal;26;62605001;10402605001;Dokkhin Horina Fuliya - Chomatha;Munsi bari;21;120;200;2;1;3;1;1;1;1;4;1;2;4;4;4;4;4;4;41
+Barisal;26;62605002;10402605002;Dokkhin Horina Fuliya - Chomatha;Munsi bari;25;127;70;2;1;4;1;4;1;4;4;1;2;4;4;4;4;4;4;48
+Barisal;26;62605005;10402605005;Dokkhin Horina Fuliya - Chomatha;Kholifa bari;60;305;70;2;1;1;1;4;1;4;4;1;1;4;4;4;4;4;4;44
+Barisal;26;62605004;10402605004;Dokkhin Horina Fuliya - Chomatha;Mira bari ba mollik bari;40;280;100;2;1;4;1;1;1;1;4;2;2;3;4;4;4;4;4;42
+Barisal;26;62606002;10402606002;Bisshas Bari - Thakur Bari;Rasel jobbar miyar bari;16;80;35;2;1;4;1;1;1;1;4;2;3;2;4;1;4;4;4;39
+Barisal;26;62606003;10402606003;Bisshas Bari - Thakur Bari;Thakur bari lokhon gain;40;180;95;2;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;39
+Barisal;26;62606004;10402606004;Bisshas Bari - Thakur Bari;Chowkidar bari mirar bari;35;175;50;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Barisal;26;62606005;10402606005;Bisshas Bari - Thakur Bari;Nasir chowdhudir barir alaka;50;305;85;2;1;4;1;1;1;1;4;4;4;1;4;1;4;4;4;41
+Barisal;26;62606006;10402606006;Bisshas Bari - Thakur Bari;Yusuf khalifa;25;125;65;1;1;4;1;1;1;1;4;1;2;2;4;1;4;4;4;36
+Barisal;26;62606001;10402606001;Bisshas Bari - Thakur Bari;Nazrul gazi ronir bari;50;250;90;2;1;4;1;1;1;1;4;4;3;2;4;1;4;4;4;41
+Barisal;26;62607004;10402607004;Tiyakhali School - Ghoramir Pool;Shamim+gondurer bari;35;156;80;1;1;4;1;1;1;1;4;2;3;2;4;1;4;4;4;38
+Barisal;26;62607003;10402607003;Tiyakhali School - Ghoramir Pool;Harun kagi khorami bari;53;260;100;1;1;4;1;1;1;1;4;1;1;2;4;1;4;4;4;35
+Barisal;26;62607005;10402607005;Tiyakhali School - Ghoramir Pool;Momin uddin hang;27;135;70;1;1;4;1;1;1;1;4;4;3;3;4;2;4;4;4;42
+Barisal;26;62607002;10402607002;Tiyakhali School - Ghoramir Pool;Entajuddin hang;35;158;95;1;1;3;1;1;1;1;3;1;1;3;4;1;4;4;4;34
+Barisal;26;62607001;10402607001;Tiyakhali School - Ghoramir Pool;Nilu bishas menajuddin;45;225;100;1;1;1;1;1;1;1;4;1;2;1;3;1;4;4;4;31
+Barisal;26;62608003;10402608003;Uttor Jaguya (Gazi Bari, sikdar Bari);Deloyar munsi bari;6;35;20;2;1;3;1;1;3;1;4;3;2;3;4;2;3;3;3;39
+Barisal;26;62608006;10402608006;Uttor Jaguya (Gazi Bari, sikdar Bari);Hawladar bari;10;55;70;2;2;3;1;1;2;1;2;1;1;2;3;1;2;4;4;32
+Barisal;26;62608004;10402608004;Uttor Jaguya (Gazi Bari, sikdar Bari);Sordar bari;38;195;100;2;2;3;1;1;3;1;2;3;2;2;3;2;4;4;4;39
+Barisal;26;62608002;10402608002;Uttor Jaguya (Gazi Bari, sikdar Bari);Ohab khan bari;26;140;107;1;1;3;1;1;3;1;4;3;3;3;3;3;2;4;4;40
+Barisal;26;62608001;10402608001;Uttor Jaguya (Gazi Bari, sikdar Bari);Gazi bari;56;275;130;2;1;4;1;1;2;1;2;2;3;3;3;2;2;4;4;37
+Barisal;26;62608005;10402608005;Uttor Jaguya (Gazi Bari, sikdar Bari);Talukdar bari;35;95;200;2;2;3;1;1;3;1;3;4;2;3;3;1;3;4;4;40
+Barisal;26;62608007;10402608007;Uttor Jaguya (Gazi Bari, sikdar Bari);Sikdar bari;31;180;90;2;2;3;1;1;3;1;3;3;3;3;2;3;3;4;4;41
+Barisal;26;62608008;10402608008;Uttor Jaguya (Gazi Bari, sikdar Bari);Hawlader bari;35;150;70;1;2;1;1;1;1;1;2;3;2;3;3;2;3;4;4;34
+Barisal;26;62608011;10402608011;Uttor Jaguya (Gazi Bari, sikdar Bari);Shopon master bari;22;108;90;2;1;3;1;1;4;1;3;2;3;3;4;4;4;4;4;44
+Barisal;26;62608009;10402608009;Uttor Jaguya (Gazi Bari, sikdar Bari);Hawlader bari;25;135;95;2;1;2;1;1;3;1;4;1;1;3;3;2;2;4;4;35
+Barisal;26;62608010;10402608010;Uttor Jaguya (Gazi Bari, sikdar Bari);Dhopa bari;37;185;140;2;2;2;1;1;2;1;2;2;2;3;3;2;2;4;4;35
+Barisal;26;62609005;10402609005;Aziz Khan School;Suvas Ansar Khan;65;325;100;1;1;4;1;1;1;1;4;1;1;2;4;1;4;4;4;35
+Barisal;26;62609003;10402609003;Aziz Khan School;Kobir chairman bari;41;205;100;2;1;4;1;1;2;1;4;4;4;2;4;3;4;4;4;45
+Barisal;26;62609002;10402609002;Aziz Khan School;Liton khaner bari;45;225;100;2;1;4;1;1;1;1;4;3;4;2;4;3;4;4;4;43
+Barisal;26;62609004;10402609004;Aziz Khan School;Jahangir member bari;30;150;100;1;1;4;1;1;1;1;4;1;1;2;4;1;4;4;4;35
+Barisal;26;62609001;10402609001;Aziz Khan School;Kanai master;52;270;85;1;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;37
+Barisal;26;62610008;10402610008;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Boro bari;35;185;75;2;2;3;1;1;3;1;4;3;3;4;3;2;2;4;4;42
+Barisal;26;62610007;10402610007;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Rashed munsi bari;29;145;35;1;1;3;1;1;2;1;4;2;3;3;3;1;2;4;4;36
+Barisal;26;62610005;10402610005;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Kakra bari;15;75;102;1;1;3;1;3;3;1;2;3;2;2;2;1;2;4;4;35
+Barisal;26;62610006;10402610006;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Mijanur rahmansalem;10;60;104;2;1;3;1;1;3;1;3;3;2;3;3;2;2;4;4;38
+Barisal;26;62610004;10402610004;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Sikdar para;198;990;75;2;1;3;1;1;2;1;2;3;2;2;2;1;2;4;4;33
+Barisal;26;62610001;10402610001;Jhalkathi Road Uttor - Napit Para RoadDokkhin;Sattar master zbari;10;50;20;2;2;3;2;2;1;1;3;2;3;3;1;2;1;4;4;36
+Barisal;26;62610002;10402610002;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Jahangir khan bari;20;98;25;2;1;3;1;2;3;1;3;3;2;3;2;4;3;4;4;41
+Barisal;26;62610003;10402610003;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Haji bari;32;160;105;2;1;3;1;1;2;1;2;2;3;3;3;1;3;4;4;36
+Barisal;26;62610009;10402610009;Jhalkathi Road Uttor - Napit Para Road Dokkhin;Boro bari;19;95;45;2;1;3;1;1;3;1;3;3;2;3;3;3;1;1;4;35
+Barisal;26;62611011;10402611011;Dokkhin Jaguya;Halem Modhu Bari;58;256;26;2;1;4;1;1;2;2;4;3;2;2;3;2;2;4;4;39
+Barisal;26;62611012;10402611012;Dokkhin Jaguya;Malek Bari;26;148;80;2;1;3;1;1;1;1;2;3;2;2;2;1;2;4;4;32
+Barisal;26;62611009;10402611009;Dokkhin Jaguya;Meya Bari;20;105;80;2;2;3;1;1;2;1;3;3;2;3;2;1;2;4;4;36
+Barisal;26;62611006;10402611006;Dokkhin Jaguya;Noya Bari;10;60;100;2;1;4;1;1;4;1;3;2;4;1;3;4;3;4;4;42
+Barisal;26;62611003;10402611003;Dokkhin Jaguya;Mannan Khan Bari;43;180;25;2;1;3;1;1;2;1;3;3;2;3;3;2;4;4;3;38
+Barisal;26;62611004;10402611004;Dokkhin Jaguya;Majer Bari;10;50;90;1;1;3;1;1;1;1;2;3;2;3;3;1;1;4;4;32
+Barisal;26;62611005;10402611005;Dokkhin Jaguya;Akrtam Master Bari;25;124;41;2;1;4;1;2;3;1;4;4;3;3;3;2;3;4;4;44
+Barisal;26;62611007;10402611007;Dokkhin Jaguya;Moshenyur Rahman Khan Bari;32;190;70;2;1;3;1;2;3;1;3;3;3;2;2;3;3;4;4;40
+Barisal;26;62611008;10402611008;Dokkhin Jaguya;Munshe Bari;44;230;90;3;2;4;1;1;3;1;2;2;3;3;2;4;4;4;4;43
+Barisal;26;62611002;10402611002;Dokkhin Jaguya;Khan Bari;40;180;27;1;1;3;1;1;2;1;4;2;3;3;3;1;2;4;3;35
+Barisal;26;62611001;10402611001;Dokkhin Jaguya;Sultan Khan Bari;70;315;24;2;1;3;1;1;2;1;3;3;3;2;2;1;3;1;3;32
+Barisal;26;62611010;10402611010;Dokkhin Jaguya;Dokkhin Jaguya Prathomek Bedhaloy;63;260;75;2;1;3;1;2;3;1;2;1;2;2;3;3;2;4;4;36
+Barisal;26;62612001;10402612001;Char Jaguya;Alauddin Hawlader Bari;15;75;50;1;1;2;1;1;2;1;2;2;1;2;1;1;1;4;4;27
+Barisal;26;62612002;10402612002;Char Jaguya;Omor Ali Khan Bari;8;37;48;2;1;2;1;1;3;1;2;2;2;3;2;1;3;4;4;34
+Barisal;26;62612005;10402612005;Char Jaguya;Boton Bari;21;105;75;2;1;3;1;1;1;1;3;3;2;3;2;1;2;4;4;34
+Barisal;26;62612003;10402612003;Char Jaguya;Mosharof Khan Bari;16;85;75;2;2;3;1;1;3;1;2;3;2;3;2;2;3;1;3;34
+Barisal;26;62612004;10402612004;Char Jaguya;Sondu Mowlanar Bari;12;62;76;2;1;2;1;1;3;1;3;3;3;2;4;1;3;4;4;38
+Barisal;30;63001007;10403001007;Koladema Khana Bari;Kader Han;39;195;50;2;1;2;1;1;1;3;3;3;2;3;3;3;3;4;4;39
+Barisal;30;63004008;10403004008;Gonpara Kashipur Chawmatha;Hawladar Bari;30;150;60;1;1;4;1;1;2;4;2;1;1;1;3;4;3;4;4;37
+Barisal;17;61701004;10401701004;Fokir Bari Bari - Sadar Road;Kali Bari Road Hasanat Miyar Barir Bepored Pashe;15;75;90;1;1;4;1;2;1;1;4;3;2;3;1;2;4;1;2;33
+Barisal;3;60302001;10400302001;Poschim Motasar;Adom Alir Bari;151;585;120;2;1;3;1;1;1;2;3;2;2;2;3;1;4;4;4;36
+Barisal;3;60302003;10400302003;Poschim Motasar;Muchu Har Bari;105;512;100;1;1;2;1;1;1;1;3;2;2;2;4;1;4;4;4;34
+Barisal;3;60303003;10400303003;Motasar Colony;Colony Momotaj;85;334;40;2;2;1;1;1;1;1;4;3;2;2;4;4;4;4;4;40

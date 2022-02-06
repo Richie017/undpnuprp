@@ -1,0 +1,912 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Mymenshing;1;610101001;10900101001;Kathgola Bazar Nodir Par;Khoshad Ali GodarGhat Mosjid;50;250;80;1;1;1;1;1;1;1;3;1;1;1;3;1;3;3;3;26
+Mymenshing;1;610101003;10900101003;Kathgola Bazar Nodir Par;Pojo Melar Pasha;56;224;50;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610101004;10900101004;Kathgola Bazar Nodir Par;Najim Kerani Bare;70;350;80;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610101006;10900101006;Kathgola Bazar Nodir Par;Muja Miya Nodir Par;130;780;55;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610101007;10900101007;Kathgola Bazar Nodir Par;Pibani Bang Ar pasa;120;600;55;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610101008;10900101008;Kathgola Bazar Nodir Par;Rasel Mia ( Koshai);145;570;35;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610101009;10900101009;Kathgola Bazar Nodir Par;Moti Miya/Kacha Bajar;30;120;50;1;1;1;1;1;1;1;3;1;1;1;3;1;3;3;3;26
+Mymenshing;1;610101002;10900101002;Kathgola Bazar Nodir Par;Godara Ghat;52;270;60;1;1;2;1;1;1;1;3;3;1;1;1;1;2;3;2;25
+Mymenshing;1;610101005;10900101005;Kathgola Bazar Nodir Par;Abdula Hoteler Pecha;102;510;52;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610102009;10900102009;Goldonda Mosjid Road/ Char Raster More;Khan Bare;20;80;50;1;1;2;1;2;1;3;4;2;2;1;1;2;4;3;3;33
+Mymenshing;1;610102008;10900102008;Goldonda Mosjid Road/ Char Raster More;Moller Bre/Gehor Modol;150;900;168;1;1;2;1;1;3;2;3;2;2;2;4;2;3;4;1;34
+Mymenshing;1;610102006;10900102006;Goldonda Mosjid Road/ Char Raster More;Khalifa Bare;91;546;155;1;1;2;1;1;3;3;3;2;2;2;4;2;3;4;1;35
+Mymenshing;1;610102005;10900102005;Goldonda Mosjid Road/ Char Raster More;Abdulah Madrassa;16;64;150;1;1;3;1;1;2;1;3;2;1;2;3;1;2;1;1;26
+Mymenshing;1;610102004;10900102004;Goldonda Mosjid Road/ Char Raster More;Golgopda K Ar Isnamer Chokhu Fremanc Dor;35;154;150;2;1;4;1;1;2;2;4;3;3;4;4;3;4;4;4;46
+Mymenshing;1;610102003;10900102003;Goldonda Mosjid Road/ Char Raster More;School Road/Char Raster Mor;14;50;70;3;1;3;1;2;2;3;4;2;3;1;1;2;4;4;1;37
+Mymenshing;1;610102007;10900102007;Goldonda Mosjid Road/ Char Raster More;Nobab Driver Ar Bare;72;432;150;1;1;2;1;1;3;3;3;2;2;2;4;2;3;4;1;35
+Mymenshing;1;610102002;10900102002;Goldonda Mosjid Road/ Char Raster More;Kaji Bare;86;340;60;1;1;3;1;1;3;1;3;3;1;1;3;1;2;1;3;29
+Mymenshing;1;610102001;10900102001;Goldonda Mosjid Road/ Char Raster More;Abbas Madrasser Picha;15;75;20;1;1;3;1;2;2;3;4;2;2;1;1;2;4;3;3;35
+Mymenshing;1;610103012;10900103012;Balur Ghat/Andur Bondho Bari;Nijam Mater ar Bare;73;438;62;3;1;4;1;3;2;1;3;3;3;3;4;4;4;4;4;47
+Mymenshing;1;610103014;10900103014;Balur Ghat/Andur Bondho Bari;Munsaikul Pasha;25;160;80;2;1;1;4;2;4;4;1;4;4;4;4;4;4;4;4;51
+Mymenshing;1;610103013;10900103013;Balur Ghat/Andur Bondho Bari;Brakta Marker Pasha;58;348;53;2;1;4;1;1;2;1;3;3;3;3;4;4;4;4;4;44
+Mymenshing;1;610103011;10900103011;Balur Ghat/Andur Bondho Bari;Amin Mojimer Bare;28;168;80;2;1;3;1;2;2;1;2;3;3;3;4;4;4;4;4;43
+Mymenshing;1;610103008;10900103008;Balur Ghat/Andur Bondho Bari;Balur Ghat Mosjid Road;45;270;40;2;1;4;1;3;2;2;4;3;2;3;4;4;4;4;4;47
+Mymenshing;1;610103006;10900103006;Balur Ghat/Andur Bondho Bari;Balur Ghat Mosjid Road;35;210;70;3;3;4;1;2;3;1;3;4;3;3;4;4;4;4;4;50
+Mymenshing;1;610103009;10900103009;Balur Ghat/Andur Bondho Bari;Kausar Fer Soser Bare;12;72;47;2;1;4;1;2;2;2;3;3;3;3;4;4;4;4;4;46
+Mymenshing;1;610103010;10900103010;Balur Ghat/Andur Bondho Bari;Balur Ghat Mosjid Road;12;72;80;2;1;4;1;2;2;1;3;3;3;3;4;4;4;4;4;45
+Mymenshing;1;610103007;10900103007;Balur Ghat/Andur Bondho Bari;Md. Mojibor Rahman Bare;65;390;72;3;3;3;1;3;2;2;3;3;3;3;4;4;4;4;4;49
+Mymenshing;1;610103001;10900103001;Balur Ghat/Andur Bondho Bari;Aiyub Alir Bare;12;72;60;1;1;3;1;2;1;1;3;3;2;3;4;4;4;4;4;41
+Mymenshing;1;610103002;10900103002;Balur Ghat/Andur Bondho Bari;Late. Mojid Morol Ar Bare;45;270;150;1;1;3;1;2;2;1;3;3;2;3;4;4;4;4;4;42
+Mymenshing;1;610103003;10900103003;Balur Ghat/Andur Bondho Bari;Kritem Projonnon Pebroad;12;72;50;4;1;4;1;1;2;2;3;3;3;4;4;4;4;4;4;48
+Mymenshing;1;610103004;10900103004;Balur Ghat/Andur Bondho Bari;Ahalu Munshir Bare;15;90;85;1;1;3;1;1;3;1;3;3;3;3;4;4;4;4;4;43
+Mymenshing;1;610103005;10900103005;Balur Ghat/Andur Bondho Bari;late. Momotaj Patwarer Bare;11;66;89;2;1;4;1;3;4;3;4;4;4;4;4;4;4;4;4;54
+Mymenshing;1;610104002;10900104002;Saleha Market/Bombay Rice Mill;Md. Goni Hujurar Bare;6;48;85;2;1;3;1;1;2;1;3;3;2;3;4;4;4;4;4;42
+Mymenshing;1;610104007;10900104007;Saleha Market/Bombay Rice Mill;Late. Totakholifar Bare;52;312;160;2;1;4;1;1;2;2;4;4;3;4;4;4;4;4;4;48
+Mymenshing;1;610104010;10900104010;Saleha Market/Bombay Rice Mill;Morol Bare;30;150;160;2;1;3;1;1;3;3;2;3;3;3;4;4;4;4;4;45
+Mymenshing;1;610104001;10900104001;Saleha Market/Bombay Rice Mill;Doladiya Nodir Par;97;582;54;2;1;3;1;1;1;2;2;2;2;3;4;4;4;4;4;40
+Mymenshing;1;610104003;10900104003;Saleha Market/Bombay Rice Mill;Rice Jil Boro Bare;55;330;48;2;1;3;1;1;2;1;2;3;2;2;4;4;4;4;4;40
+Mymenshing;1;610104004;10900104004;Saleha Market/Bombay Rice Mill;Late. Mogula Moroler Bare;40;240;150;2;1;3;1;1;2;1;3;3;3;2;4;4;4;4;4;42
+Mymenshing;1;610104005;10900104005;Saleha Market/Bombay Rice Mill;Rinar bare/ Nodir Par;22;132;48;2;1;3;1;2;2;2;2;3;3;2;4;4;4;4;4;43
+Mymenshing;1;610104006;10900104006;Saleha Market/Bombay Rice Mill;Jolil Ar Bare;16;80;67;2;1;3;1;1;2;1;2;3;3;2;4;4;4;4;4;41
+Mymenshing;1;610104012;10900104012;Saleha Market/Bombay Rice Mill;Sultan Ar Bare;32;192;150;2;1;4;1;2;2;3;4;3;3;3;4;4;4;4;4;48
+Mymenshing;1;610104008;10900104008;Saleha Market/Bombay Rice Mill;Gufur Vai Ar Bare;15;55;70;2;1;3;1;1;3;3;2;3;3;3;4;4;4;4;4;45
+Mymenshing;1;610104009;10900104009;Saleha Market/Bombay Rice Mill;Dulal Kistir Bare;15;90;120;3;1;3;1;1;3;3;2;3;3;3;4;4;4;4;4;46
+Mymenshing;1;610104011;10900104011;Saleha Market/Bombay Rice Mill;Morol Bare;20;120;160;2;1;4;1;2;3;3;3;3;3;3;4;4;4;4;4;48
+Mymenshing;1;610105001;10900105001;Taltola Nodir Par;Sobhan Driver Ar Bare;182;1092;80;2;3;4;1;1;2;3;2;3;3;3;4;4;4;4;4;47
+Mymenshing;1;610105003;10900105003;Taltola Nodir Par;Idres Beparer Bare North Side;37;222;80;2;3;4;1;1;3;3;3;4;4;3;2;2;2;2;4;43
+Mymenshing;1;610105004;10900105004;Taltola Nodir Par;Late. Bahor Ali Bare;35;210;80;3;1;4;1;1;3;4;2;4;4;3;3;4;4;4;4;49
+Mymenshing;1;610105005;10900105005;Taltola Nodir Par;Rupaly Bank Ar Pasha;47;282;80;1;1;4;1;1;3;1;3;4;4;3;3;3;4;4;4;44
+Mymenshing;1;610105006;10900105006;Taltola Nodir Par;Khagdor Bosote;24;144;80;1;1;4;1;1;2;1;3;4;4;3;3;3;4;4;4;43
+Mymenshing;1;610105002;10900105002;Taltola Nodir Par;Bacchu (Vti Ar Pata Khamar);5;17;80;3;3;4;1;1;3;3;1;3;3;3;3;4;4;4;4;47
+Mymenshing;1;610106001;10900106001;Ghunti MathPara/Sahi Masjeed/ C&B;Gonti High School North Noder Par;290;1740;90;2;1;3;1;1;3;1;3;3;2;2;3;4;3;4;4;40
+Mymenshing;1;610106002;10900106002;Ghunti MathPara/Sahi Masjeed/ C&B;Gonti Math Par;224;1344;80;2;1;3;1;1;2;1;2;2;2;2;2;3;4;4;4;36
+Mymenshing;1;610106003;10900106003;Ghunti MathPara/Sahi Masjeed/ C&B;Khag Vohor Eid Ga Math Par Dik;270;1620;80;2;1;4;1;1;2;1;3;1;1;3;3;3;3;1;3;33
+Mymenshing;1;610106004;10900106004;Ghunti MathPara/Sahi Masjeed/ C&B;Khag Tohor Modho Para;300;1800;120;2;1;4;1;1;2;4;3;2;1;3;3;3;3;4;3;40
+Mymenshing;1;610106005;10900106005;Ghunti MathPara/Sahi Masjeed/ C&B;Back Side Of C And B Office;60;300;80;1;1;3;1;1;2;3;3;2;2;3;3;3;3;4;4;39
+Mymenshing;1;610106006;10900106006;Ghunti MathPara/Sahi Masjeed/ C&B;Khag Bohur Sahe Masjeed;150;900;50;1;1;3;1;1;2;2;3;2;2;3;3;3;3;4;4;38
+Mymenshing;1;610106007;10900106007;Ghunti MathPara/Sahi Masjeed/ C&B;C And V Modho Para;200;1200;50;2;1;4;1;1;2;1;2;3;3;3;3;3;4;4;4;41
+Mymenshing;1;610107001;10900107001;Golgonda Rail Line South Side;DolaDiya Kola Bagan Mosjeed/Dorga Bare;180;1080;150;1;2;3;1;1;2;1;3;2;3;1;3;4;4;4;4;39
+Mymenshing;1;610107002;10900107002;Golgonda Rail Line South Side;Golgova Monitaj Jubedar Bare;260;1560;150;1;1;3;1;1;1;1;3;2;3;1;3;4;4;4;4;37
+Mymenshing;1;610107003;10900107003;Golgonda Rail Line South Side;Bonder Bare;170;1020;60;2;1;3;1;1;2;2;3;3;2;2;3;3;4;4;4;40
+Mymenshing;1;610108001;10900108001;Golgonda Garialbari/Amin Bazar;Mintu Kansalar Ar Bare;70;420;60;4;3;3;1;2;3;3;3;3;3;3;3;3;4;4;4;49
+Mymenshing;1;610108002;10900108002;Golgonda Garialbari/Amin Bazar;Gareyal Bare;97;582;60;4;3;3;1;2;3;3;3;3;3;2;3;3;4;4;4;48
+Mymenshing;1;610108003;10900108003;Golgonda Garialbari/Amin Bazar;Sorkar Bare;35;245;50;3;3;3;1;2;3;3;3;3;4;3;4;4;4;4;4;51
+Mymenshing;1;610108005;10900108005;Golgonda Garialbari/Amin Bazar;Golgova School jame Masjeed Ar Pasha;15;90;40;4;3;3;1;2;2;4;3;3;3;2;3;3;4;4;4;48
+Mymenshing;1;610108004;10900108004;Golgonda Garialbari/Amin Bazar;Sorkar Barer Pasha;35;210;70;4;3;3;1;2;2;3;3;3;3;3;3;3;4;4;4;48
+Mymenshing;1;610109001;10900109001;Doladia Madrasha Elaka;Gataeler Hujur Ar Bare;20;120;18;4;4;4;1;2;3;4;4;4;3;4;4;4;4;4;4;57
+Mymenshing;1;610109004;10900109004;Doladia Madrasha Elaka;Jomir Saheber Bare;9;54;98;1;1;4;1;3;4;4;4;4;4;4;4;4;4;4;4;54
+Mymenshing;1;610109007;10900109007;Doladia Madrasha Elaka;Khaja Saheber Bare;10;60;150;2;1;4;1;3;3;2;4;4;3;4;4;4;4;4;4;51
+Mymenshing;1;610109002;10900109002;Doladia Madrasha Elaka;Late. Mukte Jodda Lalur Bare;6;30;120;2;1;4;1;2;3;1;4;3;3;4;4;4;4;4;4;48
+Mymenshing;1;610109003;10900109003;Doladia Madrasha Elaka;Madrasha Road/Usuf ali;11;66;57;2;1;4;1;3;3;2;4;4;3;3;4;4;4;4;4;50
+Mymenshing;1;610109006;10900109006;Doladia Madrasha Elaka;Late. Nojrul Police Ar Bare;7;42;13;1;1;3;1;2;2;2;3;3;3;3;4;4;4;4;4;44
+Mymenshing;1;610109005;10900109005;Doladia Madrasha Elaka;Late. Agbor Bepari Bare;25;150;80;1;1;3;1;2;2;1;3;3;2;3;4;4;4;4;4;42
+Mymenshing;1;610109008;10900109008;Doladia Madrasha Elaka;Profesor Hallam Bare;25;150;125;2;1;3;1;2;2;2;3;3;3;3;4;4;4;4;4;45
+Mymenshing;1;610109009;10900109009;Doladia Madrasha Elaka;Late. Malek Piyner Bare;19;114;35;2;1;3;1;2;2;1;3;3;3;3;4;4;4;4;4;44
+Mymenshing;1;610110001;10900110001;Bot Tala/Road Station;Khagtohor Bottala Jame Masjeed;160;160;80;2;1;4;1;2;2;4;2;3;1;3;3;4;4;4;4;44
+Mymenshing;1;610110004;10900110004;Bot Tala/Road Station;Khagdor Road/Station/Jalal Sordar Bare;200;1200;70;2;1;4;1;4;1;2;2;1;2;3;1;2;1;2;1;30
+Mymenshing;1;610110003;10900110003;Bot Tala/Road Station;Taltola Dorga Bare/Hamidula Hok Ar Bare;180;1080;70;2;4;4;1;2;3;4;2;3;1;3;3;4;4;4;4;48
+Mymenshing;1;610110002;10900110002;Bot Tala/Road Station;Khagdor Bajarar South Pasha;260;1560;50;1;1;4;1;1;2;4;2;3;1;3;3;3;4;4;4;41
+Mymenshing;1;610111001;10900111001;Haji Bari Kola Bagan Mosjid;Rehatulla Bare;12;72;150;2;1;4;1;3;2;2;4;3;3;3;4;4;4;4;4;48
+Mymenshing;1;610111002;10900111002;Haji Bari Kola Bagan Mosjid;Kerali Bare/Usuf Masteer;15;90;65;2;1;4;1;3;2;1;4;3;3;4;4;4;4;4;4;48
+Mymenshing;1;610111003;10900111003;Haji Bari Kola Bagan Mosjid;Mostodular Bare;35;210;70;2;1;4;1;3;2;1;4;4;3;4;4;4;4;4;4;49
+Mymenshing;1;610111004;10900111004;Haji Bari Kola Bagan Mosjid;Brack Delibarir Senter Ar Pasha;7;42;45;3;1;4;1;2;2;2;3;3;3;3;4;4;4;4;4;47
+Mymenshing;1;610111006;10900111006;Haji Bari Kola Bagan Mosjid;Haji Bare Kola Bagan;45;270;70;1;1;3;1;1;2;1;3;3;3;3;4;4;4;4;4;42
+Mymenshing;1;610111007;10900111007;Haji Bari Kola Bagan Mosjid;Bepari Bare;75;450;17;1;1;4;1;3;2;2;3;3;2;3;4;4;4;4;4;45
+Mymenshing;1;610111005;10900111005;Haji Bari Kola Bagan Mosjid;No.1 Kaunsilalr Ar Bare;65;390;150;2;1;3;1;2;2;2;3;3;3;3;4;4;4;4;4;45
+Mymenshing;10;611001002;10901001002;Notun Bajar;Notun Bajarer Coching;16;60;42;4;1;4;1;1;3;2;4;3;1;4;3;1;1;2;1;36
+Mymenshing;10;611001003;10901001003;Notun Bajar;No. 2 J.C Road;6;50;50;2;3;4;1;1;1;4;4;4;1;4;1;3;1;2;1;37
+Mymenshing;10;611001004;10901001004;Notun Bajar;46/Rambabu Road (notun Bajar);8;30;90;2;1;4;1;1;4;4;4;4;1;4;4;3;4;4;4;49
+Mymenshing;10;611001001;10901001001;Notun Bajar;Koshai Poti;50;200;50;2;2;4;1;4;4;4;4;3;1;3;4;1;4;4;4;49
+Mymenshing;10;611002001;10901002001;Jomir Munshi Lane Nahar Road;Jomir Munshi Len;6;32;15;4;4;4;2;1;4;1;4;4;4;3;4;3;4;1;1;48
+Mymenshing;10;611003004;10901003004;Boundary Road;36, Baundare Road;11;60;13;2;1;4;2;1;4;1;4;4;3;3;4;4;4;4;4;49
+Mymenshing;10;611003002;10901003002;Boundary Road;11/A Saheb Ali Road;15;45;49;1;1;4;4;1;4;4;4;4;3;4;4;4;4;4;4;54
+Mymenshing;10;611003001;10901003001;Boundary Road;Saheb Ali Road;25;100;60;2;3;4;4;3;3;4;4;4;4;4;1;1;1;2;1;45
+Mymenshing;10;611003003;10901003003;Boundary Road;No. 19 baundare Road;35;250;40;2;3;4;4;1;3;1;4;3;1;3;1;3;1;3;1;38
+Mymenshing;10;611004001;10901004001;Aqua Madrasa Quarter;63/C Akuya Madrasha Koyatar;8;25;40;3;3;4;3;1;4;1;4;4;3;4;4;4;4;4;4;54
+Mymenshing;10;611004002;10901004002;Aqua Madrasa Quarter;67/C Akuya Madrasha Road;24;70;60;2;3;4;4;1;4;4;4;4;3;4;4;4;4;4;4;57
+Mymenshing;10;611005005;10901005005;Nondibari/Makorjani Lane;Kechu Miyar Bare;21;84;45;4;3;4;4;3;1;4;4;4;2;4;4;4;4;4;4;57
+Mymenshing;10;611005004;10901005004;Nondibari/Makorjani Lane;Khaleda Atik/ Babh Vaiyar Golli;27;108;50;4;3;4;4;4;4;4;4;4;3;4;4;1;4;4;3;58
+Mymenshing;10;611005003;10901005003;Nondibari/Makorjani Lane;Peskar Bare;15;75;30;4;1;4;4;4;4;4;4;4;2;4;4;1;4;4;4;56
+Mymenshing;10;611005002;10901005002;Nondibari/Makorjani Lane;Peskar Bare;11;55;30;4;1;4;4;4;4;4;4;4;2;4;4;1;4;4;4;56
+Mymenshing;10;611005001;10901005001;Nondibari/Makorjani Lane;Ferdos/ Tara Miyar Basa;25;100;52;2;3;4;4;1;4;4;4;4;2;2;4;2;4;4;4;52
+Mymenshing;10;611008001;10901008001;Boro Basa/C.K Gosh Road;Lotfor Saheb Ar Basha;8;32;25;2;1;4;4;4;4;4;4;4;4;4;4;1;4;4;4;56
+Mymenshing;10;611009001;10901009001;Sorda Gosh Road;Roton Ponditer Bare;16;82;45;2;1;4;3;3;4;4;4;4;2;4;4;3;4;4;4;54
+Mymenshing;10;611009002;10901009002;Sorda Gosh Road;Foyas Uddin Basha;23;92;50;2;1;4;4;3;4;4;4;4;2;4;4;4;4;4;4;56
+Mymenshing;10;611010005;10901010005;Girls School/Pocha Pukur Par;No. 24 C.K Gosh Road;16;80;40;4;2;4;1;1;4;2;4;3;2;4;2;2;4;1;1;41
+Mymenshing;10;611010003;10901010003;Girls School/Pocha Pukur Par;Pocha Pukur Par;16;85;50;3;1;4;3;1;1;4;4;3;1;1;4;3;4;4;4;45
+Mymenshing;10;611010002;10901010002;Girls School/Pocha Pukur Par;Pocha Pukur Par;7;32;55;4;1;4;3;1;4;4;4;4;1;4;4;1;4;4;4;51
+Mymenshing;10;611010001;10901010001;Girls School/Pocha Pukur Par;Pocha Pukur Par;19;90;50;4;3;4;4;1;4;4;4;4;4;4;4;4;4;4;4;60
+Mymenshing;10;611010004;10901010004;Girls School/Pocha Pukur Par;SikaGos Road;50;200;42;3;3;4;4;3;3;4;4;4;3;4;4;2;4;4;4;57
+Mymenshing;10;611011001;10901011001;Horijon Polli;Madrasha Koyatar;9;50;50;4;1;4;2;2;1;4;4;4;4;4;4;4;4;4;4;54
+Mymenshing;10;611011006;10901011006;Horijon Polli;Horijon Polli;12;70;200;2;1;4;1;1;1;4;2;3;1;3;4;4;4;3;1;39
+Mymenshing;10;611011005;10901011005;Horijon Polli;Horijon Polli;51;320;150;3;1;4;1;1;3;4;4;3;1;3;4;3;4;3;1;43
+Mymenshing;10;611011002;10901011002;Horijon Polli;Notun Bajar/Rail Gaite/Sorda Gosh Road;9;45;53;2;1;4;1;4;2;1;4;3;2;1;4;4;1;4;4;42
+Mymenshing;10;611011003;10901011003;Horijon Polli;Notun Bajar/Rail Gaite;14;54;35;1;1;4;1;1;1;1;4;3;1;3;3;1;1;2;1;29
+Mymenshing;10;611011004;10901011004;Horijon Polli;Horijon Polli;101;630;150;2;1;4;1;1;2;4;4;3;1;3;4;4;4;3;1;42
+Mymenshing;2;610201003;10900201003;Golapjan Road;Hani Miyar Bare;13;65;53;4;3;4;4;4;4;4;4;3;3;4;4;3;4;1;4;57
+Mymenshing;2;610201001;10900201001;Golapjan Road;Anondo Para;36;209;150;4;1;4;1;3;4;1;4;3;3;1;4;3;4;4;4;48
+Mymenshing;2;610201004;10900201004;Golapjan Road;Surtir Mar Bare;8;42;50;4;1;4;2;4;4;4;4;2;3;4;3;2;4;4;4;53
+Mymenshing;2;610201002;10900201002;Golapjan Road;Back Side Of Sohag`s Shop;18;96;146;1;1;4;2;4;2;4;4;3;3;4;4;2;4;4;4;50
+Mymenshing;2;610202001;10900202001;Ita Khola Road;Stadium Ar Pasha Balur Math;40;225;24;1;1;4;1;1;1;1;4;2;3;4;4;2;4;4;4;41
+Mymenshing;2;610202002;10900202002;Ita Khola Road;Autar Stadium;27;56;46;1;1;4;1;4;3;2;4;2;3;4;4;3;4;4;4;48
+Mymenshing;2;610202003;10900202003;Ita Khola Road;Morol Barer Pasha;27;56;75;1;1;4;1;4;3;4;4;2;3;3;4;3;4;4;4;49
+Mymenshing;2;610202004;10900202004;Ita Khola Road;Chohaner Barer Pasha;18;82;48;4;1;4;1;4;3;4;4;2;3;3;4;3;4;4;4;52
+Mymenshing;2;610202005;10900202005;Ita Khola Road;Hindu Bare;19;86;48;4;1;4;1;3;3;3;4;2;3;4;4;3;4;4;4;51
+Mymenshing;2;610203001;10900203001;Mehogoni Road/ Christian Para;Khistan Kobor Isthan;26;160;45;3;1;4;1;3;1;1;4;4;4;4;3;3;3;2;1;42
+Mymenshing;2;610203003;10900203003;Mehogoni Road/ Christian Para;Postar Kolope Monderar Bare;11;77;100;2;1;4;2;1;1;4;4;4;4;4;3;3;3;2;3;45
+Mymenshing;2;610203002;10900203002;Mehogoni Road/ Christian Para;Vaper Barer Shamner Goli;6;32;80;4;1;4;2;1;1;4;4;4;4;4;3;3;4;4;4;51
+Mymenshing;2;610203004;10900203004;Mehogoni Road/ Christian Para;Kishi Bank Ar Pasha;6;37;70;4;1;4;1;3;1;1;4;4;4;4;3;3;3;2;1;43
+Mymenshing;2;610204007;10900204007;Police Line Uttara/ Katakhali;Panir Tanke;7;35;25;4;4;4;3;4;4;4;4;4;4;4;2;3;2;3;3;56
+Mymenshing;2;610204001;10900204001;Police Line Uttara/ Katakhali;KataKhali Durga Mnder;61;381;200;4;4;4;1;2;2;1;4;4;4;4;4;4;4;4;4;54
+Mymenshing;2;610204003;10900204003;Police Line Uttara/ Katakhali;Shiv Minder Ar Picha;36;233;17;3;4;4;1;1;3;1;4;3;3;4;4;3;4;4;4;50
+Mymenshing;2;610204004;10900204004;Police Line Uttara/ Katakhali;Selimer Dokaner Goli;37;277;20;2;1;4;2;1;4;1;4;4;4;4;4;4;4;4;4;51
+Mymenshing;2;610204005;10900204005;Police Line Uttara/ Katakhali;Fojlu Subedarer Bare;43;311;17;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Mymenshing;2;610204006;10900204006;Police Line Uttara/ Katakhali;Jillu Kontakdar;21;155;26;2;1;4;2;3;4;1;4;4;4;4;3;4;4;4;4;52
+Mymenshing;2;610204002;10900204002;Police Line Uttara/ Katakhali;Mitur Kori;36;245;23;1;1;4;1;1;3;1;4;4;4;3;4;3;4;4;4;46
+Mymenshing;2;610205008;10900205008;Outer Stadium/ Kasar Purbo;Suimin Pul;18;54;18;1;1;4;2;3;3;2;3;3;1;3;4;3;4;4;4;45
+Mymenshing;2;610205007;10900205007;Outer Stadium/ Kasar Purbo;Surjo Mukhi Thaka Rofik Uddin Buiya Stadium;50;260;96;2;4;4;2;3;3;3;4;3;3;3;4;3;4;4;4;53
+Mymenshing;2;610205006;10900205006;Outer Stadium/ Kasar Purbo;Kasor Jame Masjeed;30;125;65;2;1;3;2;3;3;3;3;3;3;2;4;3;4;4;4;47
+Mymenshing;2;610205005;10900205005;Outer Stadium/ Kasar Purbo;Misti Kalur Bare/Ansar Camp;88;264;65;1;1;3;1;2;2;2;3;2;3;3;4;2;4;4;4;41
+Mymenshing;2;610205001;10900205001;Outer Stadium/ Kasar Purbo;Katar Primare School Tabel Hosain;99;330;75;3;1;3;1;3;3;2;4;2;2;2;4;3;4;4;4;45
+Mymenshing;2;610205002;10900205002;Outer Stadium/ Kasar Purbo;Hato Mojobur And Jonota Biscut Factory;103;309;76;2;1;4;1;3;3;2;4;3;2;3;4;3;4;4;4;47
+Mymenshing;2;610205003;10900205003;Outer Stadium/ Kasar Purbo;Jonota Biscut Factory Ar Picha;35;145;70;2;1;4;4;3;4;3;3;3;3;3;3;4;4;4;4;52
+Mymenshing;2;610205004;10900205004;Outer Stadium/ Kasar Purbo;S.S Kalam Muktijodda/ Rojob Bare;50;150;75;1;1;4;1;3;3;3;3;3;3;3;4;3;4;4;4;47
+Mymenshing;2;610206007;10900206007;Kasar Uttor/ Kasar Dokkhin;Petu Mistry Bare;60;188;90;1;1;3;1;1;2;2;3;3;2;3;3;3;4;4;4;40
+Mymenshing;2;610206006;10900206006;Kasar Uttor/ Kasar Dokkhin;Chejlu Bare;101;370;140;1;1;3;1;1;2;1;3;2;2;1;4;2;4;4;4;36
+Mymenshing;2;610206005;10900206005;Kasar Uttor/ Kasar Dokkhin;Roton Hosaen Jagol Bare;70;240;130;2;3;3;2;2;3;2;4;3;3;3;4;3;4;4;4;49
+Mymenshing;2;610206008;10900206008;Kasar Uttor/ Kasar Dokkhin;Kala Liton/Hobi Hajera Monjil;77;350;90;2;3;4;2;3;3;3;4;3;3;3;4;3;4;4;4;52
+Mymenshing;2;610206010;10900206010;Kasar Uttor/ Kasar Dokkhin;Kasor Lakhi Bare;70;270;100;3;3;3;2;3;3;3;3;3;3;3;3;3;4;4;4;50
+Mymenshing;2;610206012;10900206012;Kasar Uttor/ Kasar Dokkhin;Soreton Nesa;30;122;100;1;1;3;1;1;2;2;3;3;2;3;3;3;4;4;4;40
+Mymenshing;2;610206009;10900206009;Kasar Uttor/ Kasar Dokkhin;Usuf Komisonar/Akbor Monjil;130;480;80;3;3;3;2;3;3;3;3;3;3;3;4;3;4;4;4;51
+Mymenshing;2;610206002;10900206002;Kasar Uttor/ Kasar Dokkhin;Soban Bare/Chan Miya Bare;21;68;65;1;1;3;1;1;1;2;2;2;1;3;3;2;4;1;3;31
+Mymenshing;2;610206001;10900206001;Kasar Uttor/ Kasar Dokkhin;Kasor South Bare;54;116;200;1;1;3;1;1;1;1;4;3;3;3;4;2;4;4;4;40
+Mymenshing;2;610206004;10900206004;Kasar Uttor/ Kasar Dokkhin;Juyel Bare Theke Mohanogor School;37;148;150;1;1;3;1;2;2;2;3;3;2;3;2;2;4;4;4;39
+Mymenshing;2;610206003;10900206003;Kasar Uttor/ Kasar Dokkhin;Jaman Saheb/Dudu Komisonar Bare;23;77;100;2;3;3;2;3;2;3;3;3;2;3;2;2;4;4;4;45
+Mymenshing;2;610206011;10900206011;Kasar Uttor/ Kasar Dokkhin;Mahabub Bare;12;52;90;1;1;3;1;1;2;2;3;3;2;3;3;3;4;4;4;40
+Mymenshing;2;610207005;10900207005;Jail Khana Nodir Par;Jalkhana Nodir Par/Police Lain / Balur Ghat Sonlogno;76;308;20;1;2;4;1;4;1;4;2;3;4;2;4;2;4;4;4;46
+Mymenshing;2;610207006;10900207006;Jail Khana Nodir Par;Jalkhana Nodir Par Rabeyar Bare;20;55;15;1;2;4;1;1;2;1;2;3;4;2;3;2;4;4;4;40
+Mymenshing;2;610207003;10900207003;Jail Khana Nodir Par;Back Side Of Jalkhana School;30;180;16;1;2;4;1;4;2;4;4;4;4;4;4;2;4;2;2;48
+Mymenshing;2;610207004;10900207004;Jail Khana Nodir Par;Jalkhana Vempara;32;86;200;1;3;4;1;4;3;4;4;4;4;4;4;2;4;2;2;50
+Mymenshing;2;610207007;10900207007;Jail Khana Nodir Par;Jalkhana Staff Koyatar;7;22;12;1;1;4;1;4;2;4;4;4;4;4;3;1;1;2;2;42
+Mymenshing;2;610207002;10900207002;Jail Khana Nodir Par;Back Side Of Jalkhana Masjeed;28;112;250;1;2;4;1;4;2;4;4;4;4;4;4;2;4;2;2;48
+Mymenshing;2;610207001;10900207001;Jail Khana Nodir Par;Back Side Of Jalkhana/Delu Kontakdar;21;136;55;3;1;4;1;1;3;1;4;3;4;3;4;2;4;4;4;46
+Mymenshing;2;610208004;10900208004;Golgonda Uttor;Kathgola Bajar Road/Atar Bare/Model Kinder Garden Ar Picha;17;150;150;1;1;4;1;1;4;4;4;4;4;3;3;4;4;4;4;50
+Mymenshing;2;610208003;10900208003;Golgonda Uttor;Vitabare Nomab Profesor;17;55;70;1;2;4;1;1;2;1;4;4;4;4;1;2;1;1;2;35
+Mymenshing;2;610208002;10900208002;Golgonda Uttor;Lotif Profesor Ar Bare;10;39;50;1;1;4;1;1;1;1;4;3;4;3;1;1;1;1;2;30
+Mymenshing;2;610208005;10900208005;Golgonda Uttor;Dr. K.R Islam Bare;8;24;10;3;2;4;1;1;4;4;4;4;4;4;1;1;1;1;2;41
+Mymenshing;2;610208001;10900208001;Golgonda Uttor;Golgonda Mendu Bare;48;240;200;2;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;44
+Mymenshing;2;610208006;10900208006;Golgonda Uttor;Nasir Loskorder Bare;9;36;40;3;1;4;1;1;3;1;4;4;4;4;4;3;4;4;4;49
+Mymenshing;2;610208008;10900208008;Golgonda Uttor;Katgola Bajarer Sathe Chanu Koshaier Bare;10;39;60;1;1;4;1;1;1;2;2;3;4;3;4;4;4;4;4;43
+Mymenshing;2;610208007;10900208007;Golgonda Uttor;Jalkhana Nodir Pae/Godara Ghat/Jame masjeed;60;223;20;1;2;4;1;4;1;4;4;3;4;3;4;2;4;2;4;47
+Mymenshing;2;610209009;10900209009;South Golgonda;Golagonda Thakur Bare;47;180;150;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Mymenshing;2;610209010;10900209010;South Golgonda;Choto Munshir Bare;21;83;100;3;2;4;1;1;3;1;4;4;4;3;4;3;4;4;4;49
+Mymenshing;2;610209005;10900209005;South Golgonda;Back Side Of Golgonda Mohila Madrasha;22;91;100;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Mymenshing;2;610209004;10900209004;South Golgonda;Gogonda Khan Bare;55;132;200;2;1;4;1;1;3;1;4;3;4;2;4;1;4;4;4;43
+Mymenshing;2;610209006;10900209006;South Golgonda;Golagonda Munshi Bare;17;60;200;1;1;4;1;1;4;4;4;4;4;2;4;3;4;4;4;49
+Mymenshing;2;610209001;10900209001;South Golgonda;Golgonda Mirbare Brack School;15;67;200;1;1;4;1;1;2;1;4;3;3;2;4;2;4;4;4;41
+Mymenshing;2;610209003;10900209003;South Golgonda;Golgonda Kadir Member Bare;25;110;180;3;1;4;1;1;3;1;4;4;4;3;4;4;4;4;4;49
+Mymenshing;2;610209002;10900209002;South Golgonda;Mir Bare/Sahana Apar Bare;12;77;200;3;1;4;1;1;2;1;4;4;4;2;4;3;4;4;2;44
+Mymenshing;2;610209007;10900209007;South Golgonda;Golagonda Nagar Sipaiyar Bare/Rahman Mistre;40;250;70;2;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;49
+Mymenshing;2;610209008;10900209008;South Golgonda;Thakur Barer Road/Chan Miyar Bare;85;22;60;2;1;4;1;1;2;2;4;4;4;4;4;3;4;4;4;48
+Mymenshing;16;611601002;10901601002;ShibBari;Bisjekando Bidaloy;10;60;150;2;1;4;1;1;3;2;4;4;4;3;4;2;4;4;4;47
+Mymenshing;16;611601003;10901601003;ShibBari;Goni Miyar Bashar Shamna;5;20;100;2;1;4;1;1;2;1;4;1;1;3;4;4;4;4;4;41
+Mymenshing;16;611601001;10901601001;ShibBari;Shanal Potti;7;30;200;1;1;4;1;1;4;1;4;4;4;3;4;4;4;4;4;48
+Mymenshing;16;611601004;10901601004;ShibBari;Guru Doyar Minder;11;55;200;4;1;4;1;1;4;3;4;4;4;3;1;1;1;1;3;40
+Mymenshing;16;611601005;10901601005;ShibBari;Shiv Monder;22;154;200;4;1;4;1;1;3;1;4;1;2;3;1;1;3;1;3;34
+Mymenshing;16;611602008;10901602008;Natokghor Lane;Akkas Miya;22;100;130;1;1;4;2;2;1;3;3;2;4;3;1;2;4;4;4;41
+Mymenshing;16;611602006;10901602006;Natokghor Lane;Noiuddin;6;30;50;3;3;4;4;1;1;3;3;1;1;3;1;2;3;4;2;39
+Mymenshing;16;611602007;10901602007;Natokghor Lane;Natok Gor Len;6;30;110;2;3;4;4;1;1;1;4;1;1;4;4;2;4;4;4;44
+Mymenshing;16;611602002;10901602002;Natokghor Lane;Late. Badsha Miyar Bare;30;150;100;2;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;42
+Mymenshing;16;611602003;10901602003;Natokghor Lane;Eti Hadar Shopon;14;80;100;1;1;4;4;1;1;2;4;3;4;3;4;3;4;4;4;47
+Mymenshing;16;611602004;10901602004;Natokghor Lane;Runu Der Basha;9;30;15;2;1;4;4;2;3;3;4;4;4;3;4;2;4;4;4;52
+Mymenshing;16;611602005;10901602005;Natokghor Lane;Dokandar Shopon;5;23;70;4;3;4;4;1;3;1;4;4;2;4;4;4;4;4;4;54
+Mymenshing;16;611602001;10901602001;Natokghor Lane;Noni Kabur Basha;11;60;68;3;1;4;4;1;1;4;4;4;4;3;2;1;3;2;3;44
+Mymenshing;16;611602009;10901602009;Natokghor Lane;Komor Uddain Bepary;40;200;120;2;1;4;3;1;2;4;2;3;4;3;4;2;4;4;4;47
+Mymenshing;16;611603001;10901603001;Sewra Munshi Bari;Homio Pathik Collage;20;107;44;2;1;4;1;2;3;2;3;4;4;3;4;2;4;4;4;47
+Mymenshing;16;611603003;10901603003;Sewra Munshi Bari;Kaunselar Ar Bashar West side;15;90;75;2;2;4;2;1;1;4;4;3;1;3;4;2;4;4;4;45
+Mymenshing;16;611603002;10901603002;Sewra Munshi Bari;Trishal Bus Stand Ar Pichone;30;150;80;2;1;4;1;3;3;2;3;4;4;3;4;3;4;4;4;49
+Mymenshing;16;611604001;10901604001;Purohit Para;Purshe Sinema Holer Pichona;25;100;70;2;2;4;2;2;2;3;2;3;3;4;4;2;4;4;4;47
+Mymenshing;16;611604002;10901604002;Purohit Para;Bom Police Ar Bare;125;500;70;2;2;4;2;2;1;4;2;3;4;3;4;2;4;4;4;47
+Mymenshing;16;611604003;10901604003;Purohit Para;Didar Alir Bare;12;48;70;2;2;4;2;2;2;4;2;3;3;4;4;2;4;4;4;48
+Mymenshing;16;611604006;10901604006;Purohit Para;Hanif Ar Bashar North Side;24;100;90;2;2;4;2;2;2;3;2;3;3;4;4;4;4;4;4;49
+Mymenshing;16;611604004;10901604004;Purohit Para;Shopon Driver Ar Bare;25;100;75;2;2;4;2;2;2;4;2;3;3;4;4;2;4;4;4;48
+Mymenshing;16;611604007;10901604007;Purohit Para;Kola Bagan;14;70;45;2;1;4;1;2;2;3;2;3;3;4;4;4;4;4;4;47
+Mymenshing;16;611604005;10901604005;Purohit Para;Amjad Khonikar Bare;8;32;65;2;2;4;2;2;4;4;2;3;3;4;2;4;4;4;4;50
+Mymenshing;16;611605003;10901605003;MalGudam;Malgodam Bostee;2000;10000;40;1;1;3;1;1;1;1;4;4;4;2;1;1;1;2;1;29
+Mymenshing;16;611605001;10901605001;MalGudam;Rail Poth Koyatar;28;140;30;1;1;4;1;1;1;1;2;3;1;1;1;1;1;2;1;23
+Mymenshing;16;611605002;10901605002;MalGudam;Horijon Polli;16;96;100;1;1;3;1;1;1;1;4;2;1;3;1;1;3;2;1;27
+Mymenshing;16;611605004;10901605004;MalGudam;Mal Godam Railway supri Gor;21;100;40;1;1;1;1;1;1;1;2;1;1;1;1;1;1;2;1;18
+Mymenshing;16;611605005;10901605005;MalGudam;Ali Bare Colane;5;40;100;2;1;4;1;1;4;3;4;1;4;3;4;4;4;4;4;48
+Mymenshing;16;611606001;10901606001;Boro Bari;Monu/Bokul Miyar Bare;11;36;55;2;3;4;2;2;2;4;2;3;4;3;4;2;4;4;4;49
+Mymenshing;16;611606002;10901606002;Boro Bari;Kholifa Potti/Talukdar Bare;22;82;65;2;3;4;2;2;2;4;2;3;4;3;4;2;4;4;4;49
+Mymenshing;16;611606003;10901606003;Boro Bari;Badol Miyar Bashar Pichona/Pukur Bare;10;35;65;2;3;4;2;2;2;4;2;3;4;3;4;2;4;4;4;49
+Mymenshing;16;611607001;10901607001;Hindu Polli;Ajad Mohol;11;44;80;2;1;4;3;2;2;2;2;3;4;3;4;2;4;4;4;46
+Mymenshing;16;611607002;10901607002;Hindu Polli;Mali Bare;26;100;90;2;1;4;2;2;2;4;3;3;3;3;4;2;4;4;4;47
+Mymenshing;16;611607003;10901607003;Hindu Polli;Bainna Bare;27;110;90;2;1;4;2;2;2;4;2;3;4;3;4;2;4;4;4;47
+Mymenshing;16;611607004;10901607004;Hindu Polli;Prubi Sinama Hol ar Shamna;7;28;80;2;1;4;2;2;2;3;3;3;4;3;4;2;4;4;4;47
+Mymenshing;9;610901001;10900901001;Brakhoputro Rastahara Kollan Bohumukhi Somobai Somity Ltd.;Roj Miyar Basha;250;1250;30;2;1;4;4;1;1;4;2;2;1;4;1;1;4;1;1;34
+Mymenshing;9;610901002;10900901002;Brakhoputro Rastahara Kollan Bohumukhi Somobai Somity Ltd.;Puraton Sudar Ghat/Kali Bare;100;400;50;2;1;1;1;1;1;1;4;3;1;4;2;1;4;1;1;29
+Mymenshing;9;610901003;10900901003;Bammaputra Bastuhara Kollan Bohumukhi Somobey Somiti Ltd.;Nodir Par Barebad;200;800;20;4;1;2;1;1;1;4;2;2;1;2;1;1;1;1;1;26
+Mymenshing;9;610901004;10900901004;Bammaputra Bastuhara Kollan Bohumukhi Somobey Somiti Ltd.;Solibare/Puraton Gudara Ghat;1250;7250;30;1;1;1;1;1;1;1;1;1;1;3;4;1;3;2;2;25
+Mymenshing;9;610901005;10900901005;Bammaputra Bastuhara Kollan Bohumukhi Somobey Somiti Ltd.;Puraton Sudar Ghat;900;3600;30;1;1;1;1;1;1;1;1;1;1;3;4;1;3;2;1;24
+Mymenshing;9;610902001;10900902001;Kobor Khana Road/ to Kali Bari Mor;SuShanto Kumar Pal Ar Bare;12;48;50;4;4;4;1;2;4;4;4;4;4;4;2;3;3;4;4;55
+Mymenshing;9;610902002;10900902002;Kobor Khana Road/ to Kali Bari Mor;Bosu Bare;20;80;100;1;1;4;1;4;4;4;4;4;4;4;4;4;4;4;4;55
+Mymenshing;9;610903001;10900903001;Daspara;Kobor Khana/Daspara Road;6;24;55;2;1;4;4;1;4;4;3;4;2;3;4;3;4;4;4;51
+Mymenshing;9;610903002;10900903002;Daspara;Kali Bare/Kobor Khana/ Daspara;11;44;20;4;4;4;4;2;4;4;4;4;4;4;4;3;4;4;3;60
+Mymenshing;9;610903003;10900903003;Kobor Khana Road/ to Kali Bari Mor;Rupon Devnath;9;36;100;4;4;4;1;1;1;2;4;4;2;4;4;4;4;4;4;51
+Mymenshing;9;610904001;10900904001;Tikkapara Bi-lien;29 moharaja Road;50;200;55;4;3;4;3;1;4;4;4;4;4;4;2;3;4;4;3;55
+Mymenshing;9;610905001;10900905001;Modhubabur Goli;Kali Bare Bailen;6;24;50;2;4;4;4;2;4;3;4;4;4;4;4;2;4;4;4;57
+Mymenshing;9;610906003;10900906003;Moharaja Road;Babor Ali/Golam Molla Bare;20;80;60;4;4;4;3;4;4;4;4;4;4;4;4;4;4;4;4;63
+Mymenshing;9;610906002;10900906002;Moharaja Road;Moharaja Road/Baikel;100;400;100;4;3;4;3;4;4;4;4;4;4;1;4;3;4;4;4;58
+Mymenshing;9;610906001;10900906001;Moharaja Road;Mrs. Rasheda Khatun A Bare;12;48;60;1;1;4;3;1;4;1;4;4;4;1;4;4;4;4;4;48
+Mymenshing;9;610907001;10900907001;Chunnu Miya/ Bi-Lane;190 Road Kali Bare;9;36;100;2;1;4;2;4;4;4;4;4;4;3;4;4;4;4;4;56
+Mymenshing;9;610907002;10900907002;Chunnu Miya/ Bi-Lane;Ronjit Tewari;12;50;130;1;1;4;4;1;1;4;4;2;2;4;4;4;4;4;4;48
+Mymenshing;9;610910001;10900910001;Golok Purlos;Golok Purloj;70;350;200;3;3;4;1;4;4;4;4;3;4;4;4;4;4;4;3;57
+Mymenshing;9;610910003;10900910003;Golok Purlos;Golok Purloj;200;400;50;4;2;4;1;4;3;4;4;4;4;4;4;2;2;2;2;50
+Mymenshing;9;610910002;10900910002;Golok Purlos;Golok Purloj;59;295;115;3;4;4;1;1;4;4;4;3;2;4;1;4;4;4;3;50
+Mymenshing;9;610911001;10900911001;S,K Hospital;Kali Bare S.K Hospital;20;95;217;3;1;4;3;1;4;4;4;4;4;4;1;1;4;3;4;49
+Mymenshing;9;610911002;10900911002;S,K Hospital;Horijon Polli;40;200;217;2;2;3;3;2;3;2;3;2;2;3;3;3;2;2;2;39
+Mymenshing;9;610911003;10900911003;S,K Hospital;S.K Hospital/ Kumilla Putti;15;50;217;4;3;4;3;1;3;2;4;4;4;4;3;4;3;3;2;51
+Mymenshing;9;610912003;10900912003;Gogon Chowduri Bi-lane;167 F Gonon Chowdory Road;50;200;52;4;4;4;1;3;4;4;4;4;4;4;4;3;4;4;4;59
+Mymenshing;9;610912002;10900912002;Gogon Chowduri Bi-lane;Shil Bare;7;28;55;4;4;4;4;4;4;4;4;3;3;4;4;4;4;4;4;62
+Mymenshing;9;610912001;10900912001;Gogon Chowduri Bi-lane;171 Boro Kali Road;8;32;50;4;3;4;4;3;4;4;4;3;3;3;4;3;4;4;4;58
+Mymenshing;9;610912004;10900912004;Gogon Chowduri Bi-lane;Kobor Khana;50;200;50;4;1;4;4;1;4;4;4;3;4;4;4;1;4;4;4;54
+Mymenshing;9;610912005;10900912005;Gogon Chowduri Bi-lane;Gonon Chowdory Road;5;16;50;4;3;4;4;4;4;4;4;4;4;4;4;3;4;4;4;62
+Mymenshing;18;611801004;10901801004;Padri Mision Bepari Bari;Bepari Bari/Shiblir Bari;15;69;70;2;3;4;1;3;3;2;3;3;2;1;4;4;4;4;4;47
+Mymenshing;18;611805001;10901805001;Jora Pach Tola;Odur Khan;22;111;55;3;1;4;1;1;2;2;3;1;2;1;3;2;4;4;4;38
+Mymenshing;18;611805002;10901805002;Jora Pach Tola;Salim Ar Bari;7;35;90;1;1;4;1;2;1;1;3;2;2;2;4;2;4;4;4;38
+Mymenshing;18;611801001;10901801001;Padri Mision Bepari Bari;Tonu Miyar Bari;14;56;50;2;1;4;1;1;2;1;4;3;1;2;4;4;4;4;4;42
+Mymenshing;18;611801002;10901801002;Padri Mision Bepari Bari;Hok Miyar Bari;20;100;60;1;1;4;1;1;1;1;3;1;1;1;4;2;4;4;4;34
+Mymenshing;18;611801003;10901801003;Padri Mision Bepari Bari;Jopti Miyar Bari;20;92;50;2;3;4;1;2;2;1;4;3;2;2;4;2;4;4;4;44
+Mymenshing;18;611802009;10901802009;Adorsho Maloncho Colony;Habibullar Bari Thaka Nasimar Bari;24;125;36;2;1;2;2;2;2;2;1;1;1;1;1;1;2;2;1;24
+Mymenshing;18;611802010;10901802010;Adorsho Maloncho Colony;Babu Janer Bari Thaka Bajimar Bari;50;230;36;2;1;2;2;2;2;2;1;1;1;1;1;1;2;2;1;24
+Mymenshing;18;611802001;10901802001;Adorsho Maloncho Colony;Sher Agir Bari;40;180;55;2;1;4;1;2;3;1;3;3;3;2;4;3;4;4;4;44
+Mymenshing;18;611802002;10901802002;Adorsho Maloncho Colony;Oji Oplar Bari;20;100;42;2;1;4;1;1;2;1;2;1;1;1;1;1;2;2;1;24
+Mymenshing;18;611802003;10901802003;Adorsho Maloncho Colony;Maloncho Colony Hatu Sohid Ar Bari;40;184;42;1;1;4;1;1;2;1;2;1;1;1;1;1;4;2;1;25
+Mymenshing;18;611802004;10901802004;Adorsho Maloncho Colony;Maloncho Colony Dolur Bari;28;128;42;2;1;4;1;1;2;1;2;1;1;1;1;1;2;2;1;24
+Mymenshing;18;611802005;10901802005;Adorsho Maloncho Colony;Maloncho Colony Pur Jahan Bari;21;96;42;2;1;4;2;1;2;1;2;1;1;1;1;1;2;2;1;25
+Mymenshing;18;611802008;10901802008;Adorsho Maloncho Colony;Velar Gor Thaka Balur Bari;35;161;42;2;1;4;2;1;2;2;2;1;1;1;2;1;2;2;1;27
+Mymenshing;18;611802007;10901802007;Adorsho Maloncho Colony;Maloncho Colony Rajiyar Bari;35;161;42;2;1;4;2;1;2;1;2;1;1;1;1;1;2;2;1;25
+Mymenshing;18;611802006;10901802006;Adorsho Maloncho Colony;Advoket Kamal Ar Bari;57;263;60;2;1;4;1;0;3;2;3;3;3;2;4;3;4;4;4;43
+Mymenshing;18;611803004;10901803004;Dil Roshan Jame Mosque Elaka;Coicchar Bari;30;138;60;2;1;4;1;2;1;1;3;2;1;1;4;2;4;4;4;37
+Mymenshing;18;611803003;10901803003;Dil Roshan Jame Mosque Elaka;Haji Bari;40;184;60;2;3;4;1;1;3;2;3;3;2;1;4;3;4;4;4;44
+Mymenshing;18;611803005;10901803005;Dil Roshan Jame Mosque Elaka;Opuder Bari;40;184;75;2;1;4;1;1;2;1;4;3;1;1;4;2;4;4;4;39
+Mymenshing;18;611803006;10901803006;Dil Roshan Jame Mosque Elaka;Motinder Bari;18;83;80;2;1;4;1;2;2;1;3;4;3;1;2;4;2;4;4;40
+Mymenshing;18;611803001;10901803001;Dil Roshan Jame Mosque Elaka;Adorsho Colony/ Sattar Bari;80;391;35;2;1;2;2;2;2;2;1;1;1;1;1;1;2;2;4;27
+Mymenshing;18;611803002;10901803002;Dil Roshan Jame Mosque Elaka;Adorsho Colony/ Bog Burir Bari;51;234;35;2;1;2;2;2;2;2;1;1;2;1;1;1;2;2;4;28
+Mymenshing;18;611803007;10901803007;Dil Roshan Jame Mosque Elaka;Al Hamer Bari;10;46;50;2;1;4;1;2;2;2;3;3;2;1;4;3;4;4;4;42
+Mymenshing;18;611803008;10901803008;Dil Roshan Jame Mosque Elaka;Bacchur Bari;17;79;50;2;1;4;1;2;2;1;3;3;2;2;4;2;4;4;3;40
+Mymenshing;18;611804001;10901804001;Doshin Para;Laiju Apar Bar i;70;350;60;2;1;4;2;1;1;1;3;2;2;2;2;2;3;2;1;31
+Mymenshing;18;611804002;10901804002;Doshin Para;Alamin Ar Cha Dokan;90;405;90;1;1;3;1;1;1;1;2;1;2;1;1;2;1;2;1;22
+Mymenshing;18;611804003;10901804003;Doshin Para;Boser Dokan;150;680;90;1;1;3;1;1;2;1;3;1;2;1;2;2;2;3;1;27
+Mymenshing;18;611806001;10901806001;Moder Dipu Blhari Camp;Bihari Camp;450;2000;46;2;1;4;2;1;1;1;2;2;2;2;1;1;2;1;1;26
+Mymenshing;18;611806002;10901806002;Moder Dipu Blhari Camp;Kader Miyar Bari;20;90;25;2;3;3;1;1;1;2;2;2;2;2;1;2;1;2;2;29
+Mymenshing;18;611807003;10901807003;Patgudam Atani Pukur Par;Moslem Uddin Ar Bari;38;190;100;2;1;4;1;1;2;1;2;3;2;3;4;1;4;4;4;39
+Mymenshing;18;611807002;10901807002;Patgudam Atani Pukur Par;Bareker Bari;18;90;100;2;1;4;1;2;2;1;2;3;2;2;4;1;4;4;4;39
+Mymenshing;18;611807007;10901807007;Patgudam Atani Pukur Par;Dulal Ar Bari;70;350;100;2;1;4;1;1;2;1;2;3;2;3;4;1;4;4;4;39
+Mymenshing;18;611807009;10901807009;Patgudam Atani Pukur Par;Rotoner Bari;30;150;100;2;1;4;1;1;3;2;2;1;1;1;4;2;3;4;4;36
+Mymenshing;18;611807001;10901807001;Patgudam Atani Pukur Par;Golbar Bari;10;45;90;2;1;4;1;2;3;1;2;3;2;3;3;2;2;1;2;34
+Mymenshing;18;611807004;10901807004;Patgudam Atani Pukur Par;Tota Miyar Bari;45;225;100;2;1;4;1;1;1;1;2;3;2;3;4;1;4;4;4;38
+Mymenshing;18;611807006;10901807006;Patgudam Atani Pukur Par;Hasina Bari;30;150;100;2;1;4;1;1;1;1;2;3;2;4;4;1;4;4;4;39
+Mymenshing;18;611807008;10901807008;Patgudam Atani Pukur Par;Tohid Ar Bari;50;250;100;2;1;4;1;1;2;1;2;3;2;3;4;2;4;4;4;40
+Mymenshing;18;611807010;10901807010;Patgudam Atani Pukur Par;Uncle Ar Bari;30;150;100;2;2;4;1;2;1;1;2;3;2;3;4;1;3;4;4;39
+Mymenshing;18;611807011;10901807011;Patgudam Atani Pukur Par;Mohammed Ar Bari;15;60;100;1;1;4;1;3;3;1;3;3;2;3;4;3;4;4;4;44
+Mymenshing;18;611807005;10901807005;Patgudam Atani Pukur Par;Romjaner Bari;70;350;100;2;1;4;1;1;2;1;2;3;1;1;4;1;4;4;4;36
+Mymenshing;18;611808001;10901808001;J.C Gulh Road Purbo Poschim;Aklam Miyar Bari;90;45;60;2;1;4;1;1;1;1;2;3;2;3;1;1;2;1;2;28
+Mymenshing;18;611808002;10901808002;J.C Gulh Road Purbo Poschim;Salamer Bari;45;225;100;2;1;4;1;1;2;1;2;3;2;3;4;1;3;4;4;38
+Mymenshing;18;611808003;10901808003;J.C Gulh Road Purbo Poschim;Ahmmed Ar Bari;50;250;100;2;1;4;1;1;2;2;2;3;2;3;4;2;4;4;4;41
+Mymenshing;18;611808004;10901808004;J.C Gulh Road Purbo Poschim;Mamuner Dokan;50;250;100;2;1;4;1;2;2;1;2;3;2;3;4;2;4;4;4;41
+Mymenshing;18;611808005;10901808005;J.C Gulh Road Purbo Poschim;Harun Komisnarer Bari;50;225;100;2;1;4;1;1;2;1;2;3;3;3;4;1;4;4;4;40
+Mymenshing;18;611808006;10901808006;J.C Gulh Road Purbo Poschim;Shamim Ar Dokan;45;225;100;2;1;4;1;1;2;1;2;3;2;3;4;2;4;4;4;40
+Mymenshing;18;611808007;10901808007;J.C Gulh Road Purbo Poschim;Tara Miyar Bari;38;190;100;2;1;4;1;1;2;1;2;3;2;3;4;2;4;4;4;40
+Mymenshing;18;611808008;10901808008;J.C Gulh Road Purbo Poschim;Aishar Bari;60;300;100;2;1;4;1;2;2;1;2;3;2;3;4;1;3;4;4;39
+Mymenshing;18;611808009;10901808009;J.C Gulh Road Purbo Poschim;Khalek Miyar Bari;32;160;100;2;1;4;1;1;2;1;2;3;2;4;4;1;4;4;4;40
+Mymenshing;18;611808010;10901808010;J.C Gulh Road Purbo Poschim;Firoj Munsir Bari;50;225;100;2;1;4;1;1;2;1;2;3;2;3;4;1;4;4;4;39
+Mymenshing;18;611809007;10901809007;Ralling Morh Islambagh Char;Giyas Miyar Bari;35;175;45;2;1;4;1;1;1;1;2;2;1;1;2;2;3;1;2;27
+Mymenshing;18;611809008;10901809008;Ralling Morh Islambagh Char;Eyasin Munsir Bari;170;850;45;2;1;4;1;1;1;1;2;3;2;1;2;1;2;1;2;27
+Mymenshing;18;611809006;10901809006;Ralling Morh Islambagh Char;Noyakhailar Bari;40;200;45;2;1;4;1;1;1;1;2;3;2;1;1;1;2;1;2;26
+Mymenshing;18;611809005;10901809005;Ralling Morh Islambagh Char;Hakakni Master Ar Bari;110;550;45;2;1;4;1;1;1;1;2;3;2;1;1;2;2;1;2;27
+Mymenshing;18;611809010;10901809010;Ralling Morh Islambagh Char;Nosu Miyar Bari;80;400;45;2;1;4;1;1;1;1;2;3;2;3;2;1;2;1;2;29
+Mymenshing;18;611809009;10901809009;Ralling Morh Islambagh Char;Rong Mistry/ Mifijar Bari;60;300;45;2;1;4;1;1;1;1;2;3;2;3;2;1;2;1;2;29
+Mymenshing;18;611809011;10901809011;Ralling Morh Islambagh Char;Mohoner Bari;110;550;46;2;1;4;1;1;1;1;2;3;2;2;2;1;2;1;2;28
+Mymenshing;18;611809004;10901809004;Ralling Morh Islambagh Char;Lokman Ar Bari;60;300;45;2;1;4;1;1;1;1;2;3;2;1;1;1;2;1;2;26
+Mymenshing;18;611809003;10901809003;Ralling Morh Islambagh Char;Mahalom Fokir Bari;95;475;45;2;1;4;1;1;1;3;2;3;2;1;1;2;2;1;2;29
+Mymenshing;18;611809002;10901809002;Ralling Morh Islambagh Char;Ainol Miyar Dokan/Jilil Miya/Islambhag-3,C.D.C;75;375;45;2;1;4;1;1;1;3;2;3;2;1;2;1;2;1;2;29
+Mymenshing;18;611809001;10901809001;Ralling Morh Islambagh Char;Ujolar Dokan;130;650;45;1;1;4;1;1;1;1;2;3;2;1;2;1;2;1;2;26
+Mymenshing;18;611809013;10901809013;Ralling Morh Islambagh Char;She Jamaler Bari;45;225;45;2;1;4;1;1;1;1;2;3;2;3;2;1;2;1;2;29
+Mymenshing;18;611809012;10901809012;Ralling Morh Islambagh Char;Delowar Hossain;100;500;45;2;1;4;1;1;1;1;2;3;2;3;2;1;2;1;2;29
+Mymenshing;18;611810005;10901810005;Kali Bari Road;Samim Miyar Bari;65;325;46;2;1;4;1;1;2;1;2;3;2;3;2;1;2;1;2;30
+Mymenshing;18;611810004;10901810004;Kali Bari Road;Mojed Miyar Bari;100;500;45;2;1;4;1;1;1;1;2;3;2;2;2;1;2;1;2;28
+Mymenshing;18;611810003;10901810003;Kali Bari Road;Nantur Bari;75;375;0;2;1;4;1;1;2;1;2;3;2;3;2;1;2;1;2;30
+Mymenshing;18;611810002;10901810002;Kali Bari Road;Lotu Miyar Bari;100;500;45;2;1;4;1;1;1;1;2;3;2;3;1;1;3;1;3;30
+Mymenshing;18;611810001;10901810001;Kali Bari Road;Gurujer Bari;60;300;45;2;1;4;1;1;2;1;2;3;2;3;2;1;2;1;2;30
+Mymenshing;18;611811003;10901811003;Islambagh Bhumihin;Poject Math/BannaSar Bari;90;450;15;1;1;3;1;1;1;1;2;1;2;2;1;1;2;2;1;23
+Mymenshing;18;611811001;10901811001;Islambagh Bhumihin;Ismanbag Chor/Parvin Ar Bari;150;750;15;1;1;3;1;1;1;1;2;3;2;2;1;1;2;2;1;25
+Mymenshing;18;611811002;10901811002;Islambagh Bhumihin;Lamapara/ Sobhaner Bari;130;650;15;1;1;3;1;1;1;1;2;3;2;1;1;1;2;2;1;24
+Mymenshing;18;611811004;10901811004;Islambagh Bhumihin;Chadu Miyar Bari;120;600;15;1;1;3;1;1;1;1;2;3;2;2;1;1;2;2;1;25
+Mymenshing;18;611811005;10901811005;Islambagh Bhumihin;Jahangir Ar Bari;85;425;15;1;1;3;1;1;1;1;2;3;2;2;1;1;2;2;1;25
+Mymenshing;18;611811006;10901811006;Islambagh Bhumihin;Masumer Bari;40;200;40;1;1;4;1;1;1;1;3;2;2;1;2;2;3;2;1;28
+Mymenshing;18;611812001;10901812001;Rail Colony;Nijumder Basha;450;2050;25;1;1;4;1;1;2;1;3;3;3;1;1;1;1;2;2;28
+Mymenshing;8;610801005;10900801005;Thana Ghat;Shoti Sowder South Side;600;3000;70;1;1;2;1;1;1;1;1;3;2;1;1;1;3;2;1;23
+Mymenshing;8;610801003;10900801003;Thana Ghat;Beribad;300;1500;50;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;16
+Mymenshing;8;610801001;10900801001;Thana Ghat;Judli Ghat Cho;130;650;52;1;1;3;1;1;2;1;3;3;2;2;2;1;3;2;1;29
+Mymenshing;8;610801002;10900801002;Thana Ghat;Judli Ghat Hota Rishi Potti;120;600;50;1;1;3;1;1;1;2;1;2;2;1;2;1;3;2;1;25
+Mymenshing;8;610801004;10900801004;Thana Ghat;Kaunsilar Ar Bare hota Sheti Sowdo Pojonto;60;300;70;1;1;2;1;1;1;2;2;2;2;1;1;1;3;2;1;24
+Mymenshing;8;610801006;10900801006;Thana Ghat;Shiv Monder Ar Pasha;30;150;200;1;1;3;1;1;2;3;3;2;3;2;4;4;3;2;1;36
+Mymenshing;8;610802001;10900802001;Boro Bazar;Dud Mohol;6;35;40;2;1;3;1;1;1;2;3;4;2;4;2;2;2;3;2;35
+Mymenshing;8;610802002;10900802002;Boro Bazar;Dud Mohol ( New Market);6;24;46;2;1;1;1;1;1;1;4;3;3;2;2;2;2;3;3;32
+Mymenshing;8;610803004;10900803004;Choto Bajar;Track Potti Basha Bare (Hena Rani Sener basha);5;25;40;4;1;4;1;4;4;3;4;4;3;3;4;1;4;4;4;52
+Mymenshing;8;610803002;10900803002;Choto Bajar;Basha Bare Asilent Koyatar;10;40;50;4;1;4;1;1;4;3;4;4;3;4;2;1;2;2;3;43
+Mymenshing;8;610803001;10900803001;Choto Bajar;No. 13 Raja Road;6;24;50;4;1;4;3;1;2;4;4;4;3;4;4;3;4;4;4;53
+Mymenshing;8;610803003;10900803003;Choto Bajar;Basha Bare Asilent Koyatar;9;30;50;4;1;4;1;1;4;4;4;4;4;4;2;1;4;2;3;47
+Mymenshing;8;610804003;10900804003;Durga Bare;D.n Chokro Borte Road;11;55;200;2;1;4;4;1;1;4;4;4;2;3;1;2;3;4;3;43
+Mymenshing;8;610804004;10900804004;Durga Bare;10/co, D.N chokroborte Road;8;36;45;1;3;4;4;1;4;4;4;4;3;4;4;2;4;4;3;53
+Mymenshing;8;610804005;10900804005;Durga Bare;Durga Bare Monder Ar Picho na;6;24;120;2;1;4;1;1;2;4;4;4;2;4;4;2;4;4;4;47
+Mymenshing;8;610804006;10900804006;Durga Bare;Durga Bare Monder Ar Picho na;6;24;50;1;1;4;1;1;1;4;4;3;2;4;2;2;2;2;2;36
+Mymenshing;8;610804007;10900804007;Durga Bare;Durga Bare Monder Ar Shamne;5;20;50;1;1;4;1;1;4;1;4;4;3;4;3;2;1;1;2;37
+Mymenshing;8;610804002;10900804002;Durga Bare;Jubli Ghat;14;70;75;2;1;4;1;1;4;4;4;4;3;3;3;2;4;3;3;46
+Mymenshing;8;610804001;10900804001;Durga Bare;Boo Bajar/J.K.M Saha;8;40;100;3;4;4;4;1;3;4;1;4;3;4;3;3;4;2;3;50
+Mymenshing;8;610805001;10900805001;Amla Para;No. 8 Durga Bare;12;60;50;1;1;4;1;1;4;4;4;4;4;4;4;2;4;4;4;50
+Mymenshing;8;610805002;10900805002;Amla Para;Amra Para No. 24 Anabai Road;13;70;60;2;1;4;4;3;4;3;4;4;4;4;4;3;4;4;4;56
+Mymenshing;8;610805003;10900805003;Amla Para;12 No. Durga Bari;11;66;80;3;1;4;4;4;4;3;4;4;4;4;4;3;4;4;4;58
+Mymenshing;12;611201003;10901201003;Chawrangi Morh/Jublee Quarter;Golam Hossen Ar Bare;62;310;55;1;1;3;1;1;1;1;1;1;1;1;2;1;1;4;4;25
+Mymenshing;12;611201002;10901201002;Chawrangi Morh/Jublee Quarter;Cadir Paglar Bare;153;765;60;1;1;2;1;1;2;1;1;3;1;1;2;1;3;4;4;29
+Mymenshing;12;611201001;10901201001;Chawrangi Morh/Jublee Quarter;Modur Bare;145;725;60;1;1;3;1;1;2;1;1;1;1;1;2;1;3;4;4;28
+Mymenshing;12;611202002;10901202002;Akua Sarder Bari;Hamid Miyar Bare;135;675;45;1;1;4;1;1;2;1;2;1;1;1;3;1;3;4;4;31
+Mymenshing;12;611202001;10901202001;Akua Sarder Bari;Rajjak Ar Bare;155;775;50;2;1;4;1;1;2;1;3;1;1;1;3;1;3;4;4;33
+Mymenshing;12;611202003;10901202003;Akua Sarder Bari;Julhas Mistry Ar Bare;60;300;45;1;1;4;1;1;2;1;2;2;1;1;3;1;3;4;4;32
+Mymenshing;12;611202004;10901202004;Akua Sarder Bari;Akuya Sordar Bare;30;150;45;1;1;4;1;1;2;1;2;2;2;2;3;2;3;4;4;35
+Mymenshing;12;611203001;10901203001;40 Bari+ 36 Bari;40Bare;300;1500;45;1;1;3;1;1;1;1;1;2;2;1;1;1;2;2;3;24
+Mymenshing;12;611203002;10901203002;40 Bari+ 36 Bari;40 Barer Pichona;100;500;70;2;1;4;1;1;2;1;2;2;1;1;4;1;3;4;4;34
+Mymenshing;12;611203003;10901203003;40 Bari+ 36 Bari;Badoler Bare;50;250;65;1;1;4;1;1;1;2;1;1;1;1;2;1;3;4;4;29
+Mymenshing;12;611203006;10901203006;40 Bari+ 36 Bari;Tara Miyar Bare;100;500;60;2;1;4;1;1;1;2;2;4;2;1;3;4;3;4;4;39
+Mymenshing;12;611203005;10901203005;40 Bari+ 36 Bari;36 Bare Colony;450;2250;70;2;1;4;1;1;1;4;1;1;1;1;2;2;3;2;3;30
+Mymenshing;12;611203004;10901203004;40 Bari+ 36 Bari;Juyel Vaiyer Bare;150;750;65;1;1;4;1;2;1;2;2;1;2;1;1;1;2;2;2;26
+Mymenshing;12;611204004;10901204004;R.K Mision Road Boundary Road;Jongla Bare/ Mintu Miya;100;500;70;2;1;4;1;2;1;2;1;1;2;1;4;4;4;4;4;38
+Mymenshing;12;611204003;10901204003;R.K Mision Road Boundary Road;Gojiya Barer Panir Tanker Picha;40;200;45;2;1;4;1;4;1;2;2;2;1;1;2;3;3;3;4;36
+Mymenshing;12;611204002;10901204002;R.K Mision Road Boundary Road;Belayet Doctor Ar Bare;75;375;50;2;2;4;1;4;2;4;2;1;1;1;1;1;2;3;1;32
+Mymenshing;12;611204001;10901204001;R.K Mision Road Boundary Road;R.K Mision Road/ Masjid Ar Pichiner Bare;50;250;45;2;1;4;2;2;2;4;1;1;2;1;4;1;4;4;4;39
+Mymenshing;12;611205001;10901205001;R.K Mision Road Front Side With Saroda Ghosh Road;R.K Mision Road/Chunu Miyar Basha;250;1250;70;2;1;4;1;1;1;3;1;1;1;1;4;2;1;4;4;32
+Mymenshing;12;611205005;10901205005;R.K Mision Road Front Side With Saroda Ghosh Road;Morol Ar Bare/Rute Wala Para;60;300;50;1;1;4;1;1;2;1;2;1;2;1;4;1;3;4;4;33
+Mymenshing;12;611205003;10901205003;R.K Mision Road Front Side With Saroda Ghosh Road;Johura Monjel/No. 46 R.K Mision;12;60;60;1;1;4;1;1;2;4;2;1;2;3;4;4;4;4;4;42
+Mymenshing;12;611205002;10901205002;R.K Mision Road Front Side With Saroda Ghosh Road;Somaj Collan Ar Picha/Acor Ali Basha/ Morol Bare;50;250;60;1;1;4;2;3;2;3;3;2;2;1;4;4;4;4;4;44
+Mymenshing;12;611205004;10901205004;R.K Mision Road Front Side With Saroda Ghosh Road;Topon Babur Basha;80;400;120;1;1;1;1;1;1;1;1;1;2;1;1;1;3;4;4;25
+Mymenshing;15;611501010;10901501010;Maskanda Purbo Para;Israfil Hossain Tega;48;290;100;2;1;4;1;1;1;3;4;3;4;3;4;1;4;4;4;44
+Mymenshing;15;611501004;10901501004;Maskanda Purbo Para;Mongol Chowdory;28;150;50;2;2;4;1;1;1;1;4;3;4;3;4;1;4;1;3;39
+Mymenshing;15;611501005;10901501005;Maskanda Purbo Para;Late. Cumed Morol Ar Bare;35;190;90;2;3;4;1;1;1;1;4;3;4;3;4;1;4;4;4;44
+Mymenshing;15;611501002;10901501002;Maskanda Purbo Para;Khecho (Raj Mistry);32;180;80;3;3;4;2;1;1;1;4;4;4;4;4;1;4;4;4;48
+Mymenshing;15;611501001;10901501001;Maskanda Purbo Para;Roshid Sordhar;50;240;75;2;1;4;2;1;1;1;4;4;4;3;4;2;4;4;4;45
+Mymenshing;15;611501009;10901501009;Maskanda Purbo Para;Salam Ar Bare;22;120;20;2;1;4;1;1;2;1;3;1;2;2;4;2;4;4;4;38
+Mymenshing;15;611501008;10901501008;Maskanda Purbo Para;Md. Selim Mistry Bare;30;180;20;2;1;4;1;1;2;1;3;2;2;2;4;2;4;4;4;39
+Mymenshing;15;611501007;10901501007;Maskanda Purbo Para;Abdul Mannan Sikdar;16;85;17;2;1;4;1;1;2;1;4;2;3;2;4;1;4;2;3;37
+Mymenshing;15;611501006;10901501006;Maskanda Purbo Para;Alal Miyar Bare;27;130;50;3;3;4;1;1;1;2;4;3;4;3;4;1;4;4;4;46
+Mymenshing;15;611501003;10901501003;Maskanda Purbo Para;Late. Hegi Driver;9;32;60;2;2;4;2;1;1;4;4;4;4;3;4;1;4;4;4;48
+Mymenshing;15;611502001;10901502001;Masocbeda Uttor Para;Hoc Manson Ar Picha;8;28;40;2;1;3;1;1;3;1;3;3;3;1;3;2;4;4;4;39
+Mymenshing;15;611502006;10901502006;Masocbeda Uttor Para;Shahed Dubse;43;180;70;2;2;4;1;1;1;1;4;3;3;4;4;1;4;4;4;43
+Mymenshing;15;611502008;10901502008;Masocbeda Uttor Para;Tofajol Miya / Pul Par;10;65;80;1;1;4;1;1;2;3;4;2;2;3;4;2;4;4;4;42
+Mymenshing;15;611502007;10901502007;Masocbeda Uttor Para;Himaloy Ar Pichina;60;350;40;2;1;4;1;1;2;2;3;2;3;1;3;1;4;3;3;36
+Mymenshing;15;611502004;10901502004;Masocbeda Uttor Para;Barek Miyar Bare;50;230;25;2;3;4;2;1;1;2;4;4;4;3;4;1;4;4;4;47
+Mymenshing;15;611502003;10901502003;Masocbeda Uttor Para;Barohid Masjed Ar Pasha;16;40;22;2;3;4;3;1;1;3;4;4;4;3;4;1;4;4;4;49
+Mymenshing;15;611502002;10901502002;Masocbeda Uttor Para;Col Mistry Ar Bare;13;34;50;4;1;4;1;1;2;2;3;3;3;1;4;1;4;4;4;42
+Mymenshing;15;611502005;10901502005;Masocbeda Uttor Para;Pashan Ali;22;120;40;2;1;4;1;1;1;2;4;4;4;3;4;1;4;4;4;44
+Mymenshing;15;611503003;10901503003;Maskanda Poshchim para;Mahtab sorcarer Puraton Kholi;17;86;22;1;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;38
+Mymenshing;15;611503002;10901503002;Maskanda Poshchim para;Haji Bare Khal Par;5;19;19;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Mymenshing;15;611503001;10901503001;Maskanda Poshchim para;Haji Barer Picha;9;45;18;2;1;3;1;1;2;1;3;4;3;1;4;1;4;4;4;39
+Mymenshing;15;611503004;10901503004;Maskanda Poshchim para;Fojle Sorcarer Bare;65;370;25;2;1;4;1;1;2;1;4;3;3;2;4;1;4;4;4;41
+Mymenshing;15;611503005;10901503005;Maskanda Poshchim para;Mahtab Saheb Ar Khola/Babur Bare;8;67;18;2;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;40
+Mymenshing;15;611503006;10901503006;Maskanda Poshchim para;Haitullar Bare;7;32;17;2;1;4;1;1;1;1;3;3;3;3;4;1;4;4;4;40
+Mymenshing;15;611503007;10901503007;Maskanda Poshchim para;Babul Vai/Gonsar Mor;130;890;35;3;3;4;2;1;2;2;4;3;3;2;4;1;4;4;4;46
+Mymenshing;15;611503014;10901503014;Maskanda Poshchim para;Asak Vai/Gonsar Mor;180;1250;65;2;1;4;2;1;1;2;4;4;4;3;4;1;4;4;4;45
+Mymenshing;15;611503013;10901503013;Maskanda Poshchim para;Nur Mohammad Bare;95;925;40;1;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;42
+Mymenshing;15;611503012;10901503012;Maskanda Poshchim para;Mokbul Ar Bare;60;350;30;4;3;4;2;1;1;1;4;4;4;3;4;1;4;4;4;48
+Mymenshing;15;611503008;10901503008;Maskanda Poshchim para;Akbor Bepary;48;250;30;3;3;4;2;1;1;1;4;4;4;3;4;1;4;4;4;47
+Mymenshing;15;611503011;10901503011;Maskanda Poshchim para;Rejir Ar Netrir Bare;85;850;45;2;1;4;1;1;2;2;3;1;3;1;3;1;4;4;4;37
+Mymenshing;15;611503010;10901503010;Maskanda Poshchim para;Mondu Bepary;90;930;40;2;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;43
+Mymenshing;15;611503009;10901503009;Maskanda Poshchim para;Late. Mohor Ali;42;270;35;2;1;4;2;1;1;2;3;4;4;3;4;1;4;4;4;44
+Mymenshing;17;611701003;10901701003;DoulotMounshi Bay Lane;Tori Tailers (Parvej);8;37;100;3;3;4;3;1;3;1;3;4;3;3;4;1;4;1;2;43
+Mymenshing;17;611701002;10901701002;DoulotMounshi Bay Lane;Dolir Basha;6;27;65;1;1;4;1;1;2;2;2;3;1;1;4;1;4;4;4;36
+Mymenshing;17;611701007;10901701007;DoulotMounshi Bay Lane;Chan Miyar Bare;90;446;80;2;1;4;1;1;1;2;1;3;1;1;4;1;4;4;4;35
+Mymenshing;17;611701008;10901701008;DoulotMounshi Bay Lane;Milaty Mohol;17;35;2;1;4;1;2;1;2;2;2;2;1;2;4;1;4;4;4;37
+Mymenshing;17;611701006;10901701006;DoulotMounshi Bay Lane;Abdullahr Bare/ Kaji Office;15;69;80;1;1;4;1;1;2;2;2;2;1;2;4;1;4;4;4;36
+Mymenshing;17;611701005;10901701005;DoulotMounshi Bay Lane;Tutule Ar Bare;15;69;85;1;1;4;1;1;1;2;2;3;1;2;4;1;4;4;4;36
+Mymenshing;17;611701004;10901701004;DoulotMounshi Bay Lane;Motiner Ar Basha;6;27;80;1;1;4;1;1;2;2;2;2;1;2;4;1;4;4;4;36
+Mymenshing;17;611701001;10901701001;DoulotMounshi Bay Lane;Amaner Bare;9;41;80;1;1;4;1;1;1;2;3;2;1;2;4;1;4;4;4;36
+Mymenshing;17;611702010;10901702010;Baghmara Mediclel Gate;Mamunar Bare/ Medical Gat;80;368;90;1;1;4;1;1;1;2;2;3;1;2;4;1;4;1;2;31
+Mymenshing;17;611702009;10901702009;Baghmara Mediclel Gate;Ajader Goli;115;529;90;1;1;4;1;1;1;2;1;2;1;1;4;1;4;4;4;33
+Mymenshing;17;611702011;10901702011;Baghmara Mediclel Gate;Kaji Bare;30;138;70;2;1;4;1;1;1;2;2;3;1;1;4;1;4;4;4;36
+Mymenshing;17;611702012;10901702012;Baghmara Mediclel Gate;Krishtopur Primary School Ar Bepoted Pasha;115;529;100;1;1;4;1;1;1;1;1;3;1;2;4;1;4;4;4;34
+Mymenshing;17;611702001;10901702001;Baghmara Mediclel Gate;Osir Bare;10;46;50;2;1;4;1;1;2;3;2;3;3;2;4;4;4;4;4;44
+Mymenshing;17;611702002;10901702002;Baghmara Mediclel Gate;Asmar Bare;89;409;80;1;1;4;1;1;1;2;2;3;1;1;4;1;4;4;4;35
+Mymenshing;17;611702003;10901702003;Baghmara Mediclel Gate;Motin Ukil Ar Bare;36;165;80;1;1;4;1;1;1;2;2;3;1;1;4;1;4;1;2;30
+Mymenshing;17;611702004;10901702004;Baghmara Mediclel Gate;Aisha Siddik Madrasha;33;151;80;2;1;4;1;1;1;3;2;3;1;2;4;1;4;4;4;38
+Mymenshing;17;611702005;10901702005;Baghmara Mediclel Gate;Litil Learner International School;5;23;10;4;1;4;1;1;3;3;3;4;2;3;4;1;4;1;3;42
+Mymenshing;17;611702006;10901702006;Baghmara Mediclel Gate;Bagmara Primary School Ar Pasha Kashem Ar Bare;30;138;60;1;1;4;1;1;1;2;1;3;1;1;4;1;4;1;2;29
+Mymenshing;17;611702007;10901702007;Baghmara Mediclel Gate;S.S.S Somiter Beporid Pasha;50;230;80;1;1;4;1;1;1;2;2;3;1;2;4;1;4;4;4;36
+Mymenshing;17;611702008;10901702008;Baghmara Mediclel Gate;Josnar Bare;30;138;55;1;1;4;1;1;1;2;2;3;1;2;4;1;4;1;2;31
+Mymenshing;17;611703005;10901703005;Baghmara;Khokon Miyar Bare;53;244;60;2;1;4;2;2;1;2;3;1;1;3;4;1;4;3;3;37
+Mymenshing;17;611703004;10901703004;Baghmara;Totamiyar Goli;42;193;80;2;1;4;2;2;2;2;2;3;1;2;4;1;4;4;4;40
+Mymenshing;17;611703003;10901703003;Baghmara;Gandmiyar Goli;45;207;90;2;1;3;2;1;1;2;2;3;1;1;3;1;3;3;3;32
+Mymenshing;17;611703002;10901703002;Baghmara;Hakim Shorkar Ar Goli;50;230;50;2;1;3;2;1;1;2;2;3;1;2;4;1;4;4;3;36
+Mymenshing;17;611703006;10901703006;Baghmara;Nojrul Miyar Goli;34;156;80;2;1;4;2;1;1;2;4;3;1;3;4;1;4;3;3;39
+Mymenshing;17;611703008;10901703008;Baghmara;Eman Miyar Goli;109;501;90;2;3;4;2;1;2;2;2;3;1;2;4;1;4;4;3;40
+Mymenshing;17;611703009;10901703009;Baghmara;Chanmiyar Bare;26;120;90;2;2;4;2;2;1;2;2;3;1;3;4;1;4;4;3;40
+Mymenshing;17;611703001;10901703001;Baghmara;Hero Miyar Goli;22;101;90;2;1;3;2;1;1;1;2;3;1;1;2;1;1;1;3;26
+Mymenshing;17;611703007;10901703007;Baghmara;Suruj Ukil Ar Basha;39;179;90;2;1;4;2;1;2;3;2;3;1;3;4;4;4;3;4;43
+Mymenshing;17;611704009;10901704009;Baghmara Panir Tank;Samdani Mosjid Ar Pichona;33;152;80;2;1;2;1;1;1;1;1;3;1;1;1;1;1;1;1;20
+Mymenshing;17;611704007;10901704007;Baghmara Panir Tank;Akbor Alir Basha;8;37;70;1;2;3;1;1;1;1;2;3;1;3;4;4;4;4;3;38
+Mymenshing;17;611704008;10901704008;Baghmara Panir Tank;Boshir Ar Basha;5;23;60;2;1;3;2;1;1;3;2;3;1;1;3;1;4;4;4;36
+Mymenshing;17;611704001;10901704001;Baghmara Panir Tank;Bagmara Cominity Pore Md. Sirajul Islam;40;184;80;2;3;4;1;1;2;2;3;3;1;3;4;1;4;1;3;38
+Mymenshing;17;611704002;10901704002;Baghmara Panir Tank;Begum Potti;43;198;90;2;1;4;1;1;3;1;2;3;1;3;4;1;4;4;3;38
+Mymenshing;17;611704003;10901704003;Baghmara Panir Tank;Sahjahan Khan Ar Basha;7;32;70;2;3;3;1;1;2;1;2;3;1;3;4;1;4;4;3;38
+Mymenshing;17;611704004;10901704004;Baghmara Panir Tank;Sollim Vai Ar Bare;26;120;80;2;1;4;2;1;2;1;3;3;1;2;4;4;4;3;4;41
+Mymenshing;17;611704005;10901704005;Baghmara Panir Tank;Mintu Miyar Basha;12;55;5;2;1;3;1;2;1;1;2;3;1;3;1;1;1;2;1;26
+Mymenshing;17;611704006;10901704006;Baghmara Panir Tank;Dholi Bare;28;129;70;2;1;4;1;1;1;1;1;3;1;1;4;1;4;4;3;33
+Mymenshing;17;611705001;10901705001;BrammoPolli Purohit Para;Prohit Para/Gomed Ali Bepari;30;138;60;2;1;4;1;1;2;2;2;3;3;1;4;1;4;4;4;39
+Mymenshing;17;611705002;10901705002;BrammoPolli Purohit Para;Rajosi Bare/Salam Bepari;103;473;55;1;1;4;1;1;1;1;2;2;2;2;4;4;4;4;4;38
+Mymenshing;17;611705005;10901705005;BrammoPolli Purohit Para;Romij Uddin Ahem Goli;17;68;100;4;1;4;1;3;3;1;4;2;3;3;2;3;4;4;4;46
+Mymenshing;17;611705004;10901705004;BrammoPolli Purohit Para;Jallu Para;35;160;20;1;1;4;1;2;2;2;1;3;3;2;4;1;4;4;4;39
+Mymenshing;17;611705006;10901705006;BrammoPolli Purohit Para;Mohiuddin Mifyed/Prohit Para;55;253;76;4;2;4;3;2;2;1;3;2;3;3;4;1;4;4;4;46
+Mymenshing;17;611705007;10901705007;BrammoPolli Purohit Para;Prohit Para Sohorab Muhure;85;391;110;3;3;4;1;1;1;3;3;3;2;3;4;1;4;4;4;44
+Mymenshing;17;611705008;10901705008;BrammoPolli Purohit Para;Bac Cacul School Sahne Get Munsher Bare;120;552;160;3;1;4;1;1;1;2;3;4;3;1;4;1;1;4;4;38
+Mymenshing;17;611705009;10901705009;BrammoPolli Purohit Para;Keshob Bepari;5;16;80;4;1;4;1;4;4;2;4;4;4;3;4;1;3;2;3;48
+Mymenshing;17;611705010;10901705010;BrammoPolli Purohit Para;45 pur Hitpara saboj Nin Durga Mondir;20;120;130;1;1;4;3;2;1;2;4;4;4;2;4;1;4;4;4;45
+Mymenshing;17;611705012;10901705012;BrammoPolli Purohit Para;Prohit Para Bel Tole;22;103;100;2;3;4;2;1;1;2;2;3;1;1;1;1;1;2;1;28
+Mymenshing;17;611705003;10901705003;BrammoPolli Purohit Para;Farkul Miyar Goli/Prohit para;12;55;100;4;1;4;1;1;1;1;3;3;2;3;4;1;4;4;4;41
+Mymenshing;17;611706001;10901706001;Station Road;Railway Gard Colony;53;269;115;1;1;4;1;3;1;2;3;4;1;1;1;1;1;2;1;28
+Mymenshing;17;611706002;10901706002;Station Road;Rail Coyater;130;598;115;1;1;4;1;3;1;3;3;4;3;2;1;1;1;2;1;32
+Mymenshing;17;611706003;10901706003;Station Road;Suchona Center Point Goli;8;37;95;1;1;4;3;1;2;3;3;4;3;4;3;1;4;4;4;45
+Mymenshing;4;610401001;10900401001;Tin Kona Pukur Par;Sahjahan Bare;170;1020;70;1;1;4;1;3;2;2;4;3;2;3;4;2;4;4;4;44
+Mymenshing;4;610401004;10900401004;Tin Kona Pukur Par;Rohul Bare;35;170;30;1;1;4;1;1;2;2;4;3;2;4;4;1;4;4;4;42
+Mymenshing;4;610401002;10900401002;Tin Kona Pukur Par;Pappu Driver;180;1150;80;2;1;4;1;3;2;3;4;3;2;3;4;2;4;4;4;46
+Mymenshing;4;610401003;10900401003;Tin Kona Pukur Par;Sorifar Bare;140;820;50;2;1;4;1;3;2;3;4;3;2;3;4;2;4;4;4;46
+Mymenshing;4;610401005;10900401005;Tin Kona Pukur Par;Khader Bare;60;350;20;1;1;4;1;3;2;1;4;3;2;2;4;1;4;4;4;41
+Mymenshing;4;610401006;10900401006;Tin Kona Pukur Par;Tota And Kerani Bare;30;170;40;1;1;4;1;3;3;1;4;3;2;4;4;2;4;4;4;45
+Mymenshing;4;610401007;10900401007;Tin Kona Pukur Par;Masuf Bare;12;75;50;1;1;4;1;3;3;3;4;3;2;4;4;2;4;4;4;47
+Mymenshing;4;610402003;10900402003;Jamtola Doctor Bari;Amir Alir Bari;120;720;80;2;1;4;1;4;2;4;4;3;1;4;4;1;4;4;4;47
+Mymenshing;4;610402001;10900402001;Jamtola Doctor Bari;Ranav Bare/Docor Bare;237;1240;100;2;1;4;1;2;2;4;4;3;2;4;4;1;4;4;4;46
+Mymenshing;4;610402002;10900402002;Jamtola Doctor Bari;Bita Bare/ Saleha Mar Bare;26;150;100;4;4;4;1;3;3;3;4;3;2;2;4;2;4;4;4;51
+Mymenshing;4;610402004;10900402004;Jamtola Doctor Bari;Barek Ustagar Bari;60;250;80;2;1;4;1;3;3;3;4;3;2;4;4;3;4;4;4;49
+Mymenshing;4;610402005;10900402005;Jamtola Doctor Bari;prifor Bari;30;150;33;3;1;4;1;3;4;4;4;3;3;4;2;4;4;4;4;52
+Mymenshing;4;610403009;10900403009;Provati Sena Lane;Lal Miyar Bosote;30;170;100;3;3;4;1;1;2;4;4;3;2;3;4;2;4;4;4;48
+Mymenshing;4;610403008;10900403008;Provati Sena Lane;Pukur Par;75;375;100;1;1;4;1;1;2;1;2;2;1;3;4;1;4;4;4;36
+Mymenshing;4;610403007;10900403007;Provati Sena Lane;Uttorer Bari;20;115;45;1;1;4;1;2;2;4;3;2;2;3;4;1;4;4;4;42
+Mymenshing;4;610403006;10900403006;Provati Sena Lane;Samsu Miyar Bosote;20;120;60;3;1;4;1;1;2;4;4;3;2;3;4;1;4;4;4;45
+Mymenshing;4;610403003;10900403003;Provati Sena Lane;Mohe Member Ar Bosote;50;230;70;2;1;4;1;2;2;3;3;3;2;3;4;2;4;4;4;44
+Mymenshing;4;610403001;10900403001;Provati Sena Lane;Jamir Mar Potti;35;175;150;1;1;4;1;1;2;3;3;2;3;3;1;1;2;1;1;30
+Mymenshing;4;610403002;10900403002;Provati Sena Lane;Sadec Miyar Bosote;10;45;80;3;1;4;1;2;3;4;4;4;3;4;4;3;4;4;4;52
+Mymenshing;4;610403004;10900403004;Provati Sena Lane;Rofik Miyar Bosote;30;170;50;3;1;4;1;2;3;4;4;3;3;3;4;3;4;4;4;50
+Mymenshing;4;610403005;10900403005;Provati Sena Lane;Chowdory Bari;25;130;75;1;1;4;1;2;1;4;3;2;1;4;4;1;4;1;3;37
+Mymenshing;4;610404002;10900404002;Shanki Para Shes Morh;Monlar Bari;30;150;120;2;1;1;1;2;2;1;4;2;2;4;4;2;4;4;4;40
+Mymenshing;4;610404001;10900404001;Shanki Para Shes Morh;Idres Miyar Bosote;50;350;100;4;3;4;1;2;2;4;3;2;2;1;4;2;4;4;4;46
+Mymenshing;4;610404007;10900404007;Shanki Para Shes Morh;Morseder Bari;25;150;150;2;1;4;1;1;2;1;4;3;2;4;4;1;4;4;4;42
+Mymenshing;4;610404004;10900404004;Shanki Para Shes Morh;Joinal Ar Bosote;70;400;15;2;1;4;1;1;1;1;3;2;2;3;4;1;4;1;3;34
+Mymenshing;4;610404005;10900404005;Shanki Para Shes Morh;Shes Morh Poket Gate;20;110;50;1;1;4;1;1;2;3;3;3;2;3;4;2;4;4;4;42
+Mymenshing;4;610404006;10900404006;Shanki Para Shes Morh;Shes Morh E.P.I Office;10;45;70;3;1;4;1;2;3;4;4;4;3;4;4;3;4;4;4;52
+Mymenshing;4;610404008;10900404008;Shanki Para Shes Morh;Suru Miyar Bosote;70;400;100;1;1;4;1;1;2;1;3;1;1;3;4;1;4;4;4;36
+Mymenshing;4;610404009;10900404009;Shanki Para Shes Morh;Check Post;8;35;70;3;3;4;1;2;3;4;4;3;3;4;4;3;4;4;4;53
+Mymenshing;4;610404003;10900404003;Shanki Para Shes Morh;Cobutor Bari;100;600;50;1;1;4;1;1;1;4;3;1;1;3;3;1;4;1;3;33
+Mymenshing;4;610405001;10900405001;Khondokar Bari;Suga Monsi Bari;60;302;50;2;1;4;1;1;3;4;4;3;2;3;4;3;4;4;4;47
+Mymenshing;4;610405008;10900405008;Khondokar Bari;Ali Miyar Bari;24;120;70;2;3;4;2;3;4;4;4;3;2;3;4;3;4;4;4;53
+Mymenshing;4;610405009;10900405009;Khondokar Bari;Dilep Bari;100;420;50;2;3;4;2;3;3;4;3;2;2;3;4;3;4;4;4;50
+Mymenshing;4;610405006;10900405006;Khondokar Bari;Helal And Tota Ustakar Bari;140;610;80;2;1;4;2;3;3;4;4;2;1;3;4;3;4;4;4;48
+Mymenshing;4;610405005;10900405005;Khondokar Bari;Occu Miyar Bari;70;360;80;2;3;4;2;2;3;4;4;3;2;3;4;3;4;4;4;51
+Mymenshing;4;610405007;10900405007;Khondokar Bari;Sahjahan Bari;80;491;70;2;3;4;2;2;2;4;4;3;2;3;4;3;4;4;4;50
+Mymenshing;4;610405004;10900405004;Khondokar Bari;Akbor Bari;120;620;50;3;3;4;2;3;3;4;4;3;3;3;4;3;4;4;4;54
+Mymenshing;4;610405002;10900405002;Khondokar Bari;Kholil Miya;15;80;46;2;1;4;1;1;2;4;4;3;2;3;2;1;2;1;3;36
+Mymenshing;4;610405003;10900405003;Khondokar Bari;Moti Bari;10;60;70;4;3;4;2;2;3;4;4;3;2;3;4;3;4;4;4;53
+Mymenshing;4;610406006;10900406006;Lat Bari;Angur Miyar Bari;55;280;100;3;1;4;1;1;3;3;2;4;2;2;4;3;4;4;4;45
+Mymenshing;4;610406005;10900406005;Lat Bari;Kamal Master Ar Bari;32;160;50;2;3;4;1;1;3;3;3;3;3;3;4;4;4;4;4;49
+Mymenshing;4;610406002;10900406002;Lat Bari;Namapara;34;150;60;2;1;4;1;1;3;3;3;3;2;3;4;4;4;4;4;46
+Mymenshing;4;610406001;10900406001;Lat Bari;Koborsthan;80;450;90;2;1;4;1;1;3;3;4;3;2;3;4;2;4;4;4;45
+Mymenshing;4;610406004;10900406004;Lat Bari;Ajur Bari;28;150;100;2;1;4;1;1;3;3;3;2;2;3;4;4;4;4;4;45
+Mymenshing;4;610406003;10900406003;Lat Bari;Dulur Dokan;65;320;120;3;1;4;1;1;3;3;2;2;2;3;4;4;4;4;4;45
+Mymenshing;4;610407001;10900407001;GoalKandi (Khalifa Bari);Manob Bondon;100;420;70;3;1;4;1;1;2;4;3;3;2;3;4;2;4;4;4;45
+Mymenshing;4;610407002;10900407002;GoalKandi (Khalifa Bari);Master Bari;50;210;80;2;1;4;1;1;2;3;3;3;2;3;4;2;4;4;4;43
+Mymenshing;4;610407003;10900407003;GoalKandi (Khalifa Bari);C.N.V;6;24;50;2;1;4;1;1;1;1;2;2;1;3;1;1;1;2;1;25
+Mymenshing;4;610407006;10900407006;GoalKandi (Khalifa Bari);Pathan Bari;30;150;80;4;3;4;1;3;3;3;4;4;3;3;4;3;4;4;4;54
+Mymenshing;4;610407007;10900407007;GoalKandi (Khalifa Bari);E.P.I Office Ar Picha;8;35;40;2;1;4;1;1;2;2;4;3;2;3;4;3;4;4;4;44
+Mymenshing;4;610407004;10900407004;GoalKandi (Khalifa Bari);Bocer Basha;15;60;50;1;1;4;1;1;1;1;3;3;2;2;4;1;4;4;4;37
+Mymenshing;4;610407005;10900407005;GoalKandi (Khalifa Bari);Khan Bari;10;50;100;1;1;4;1;3;4;2;4;3;4;4;4;4;4;4;3;50
+Mymenshing;4;610408001;10900408001;Mir Bari;Nama Para (Mir Bari);80;350;120;3;1;4;1;1;3;4;4;3;2;3;4;2;4;4;4;47
+Mymenshing;4;610408002;10900408002;Mir Bari;Mir Bari Math Par;150;760;100;1;1;4;1;1;2;3;3;3;2;3;4;2;4;4;4;42
+Mymenshing;4;610409004;10900409004;Indirar Par;Kholi Para;28;150;80;1;1;4;1;1;3;2;3;3;2;3;4;2;4;4;4;42
+Mymenshing;4;610409003;10900409003;Indirar Par;Mola Bari;65;300;150;2;1;4;1;1;2;4;4;3;2;2;4;3;4;4;4;45
+Mymenshing;4;610409002;10900409002;Indirar Par;Roshid Ar Bari;35;300;120;1;1;4;1;1;3;3;3;3;2;3;4;2;4;4;4;43
+Mymenshing;4;610409001;10900409001;Indirar Par;Komisnar Ar Bari;15;80;125;3;4;4;4;1;3;3;4;3;3;3;4;4;4;4;4;55
+Mymenshing;4;610409008;10900409008;Indirar Par;Primary School ar Morh;17;90;120;2;1;4;1;1;2;3;3;3;2;3;4;3;4;4;4;44
+Mymenshing;4;610409007;10900409007;Indirar Par;Pul Par;60;310;100;2;1;4;1;1;2;3;3;3;2;3;4;2;4;4;4;43
+Mymenshing;4;610409006;10900409006;Indirar Par;Daroga Bari;35;150;100;2;2;4;1;1;3;3;3;3;3;4;4;2;4;4;4;47
+Mymenshing;4;610409005;10900409005;Indirar Par;Keranir Pukur Par;45;250;60;2;4;4;1;1;3;2;3;3;2;3;3;2;4;4;4;45
+Mymenshing;4;610410005;10900410005;GoalKandi Poschim Para;Bengar Bari;60;320;75;2;1;4;1;1;2;3;3;3;2;3;4;4;4;4;4;45
+Mymenshing;4;610410006;10900410006;GoalKandi Poschim Para;High School Ar East Pasha;30;155;50;2;1;4;1;1;2;3;3;3;2;3;3;2;4;4;4;42
+Mymenshing;4;610410001;10900410001;GoalKandi Poschim Para;Morol Bari;65;350;140;2;1;4;1;1;2;1;3;3;2;3;4;2;4;4;4;41
+Mymenshing;4;610410004;10900410004;GoalKandi Poschim Para;Miya Mistry Ar Bari;48;250;80;2;1;4;1;1;2;3;3;3;2;3;4;2;4;4;4;43
+Mymenshing;4;610410002;10900410002;GoalKandi Poschim Para;Titur Bari;60;300;120;2;1;4;1;1;2;3;3;2;2;3;4;4;4;4;4;44
+Mymenshing;4;610410003;10900410003;GoalKandi Poschim Para;Montu Miyar Bari;15;80;30;2;1;4;1;1;2;3;3;3;2;3;3;2;4;4;4;42
+Mymenshing;19;611901002;10901901002;Bolashpur Abashon;Brij Godam Singho Marka Bari;30;138;100;3;3;4;2;2;2;3;3;3;3;3;4;2;4;4;4;49
+Mymenshing;19;611901004;10901901004;Bolashpur Abashon;Bolaspur Abashon Badoar Bostee;150;690;12;1;1;4;1;1;1;1;2;2;2;3;2;1;1;2;1;26
+Mymenshing;19;611901005;10901901005;Bolashpur Abashon;Muktijodda Colony (Hekiar Basha);100;460;15;2;1;4;1;1;1;1;2;2;2;3;3;1;4;4;1;33
+Mymenshing;19;611901006;10901901006;Bolashpur Abashon;Bolashpur Muktijodda Abshon Prokolpo;600;2760;19;2;1;4;1;1;1;1;2;3;2;3;4;1;4;4;1;35
+Mymenshing;19;611901007;10901901007;Bolashpur Abashon;Abshon Sonlogno Nodir Par Bostee;570;2622;10;1;1;4;1;1;1;1;1;1;1;3;1;1;1;2;1;22
+Mymenshing;19;611901001;10901901001;Bolashpur Abashon;Muktijodda Polli North West;365;1679;30;2;1;4;1;1;1;1;2;2;1;3;3;1;4;2;1;30
+Mymenshing;19;611901008;10901901008;Bolashpur Abashon;Abashon Sonlogno Nodir Par Bostee;450;2070;10;1;1;4;1;1;1;1;1;1;1;1;1;1;1;2;1;20
+Mymenshing;19;611901003;10901901003;Bolashpur Abashon;Jum Bari;40;184;100;2;4;4;1;2;3;2;2;2;3;3;3;1;4;2;1;39
+Mymenshing;19;611902005;10901902005;New Colony Patgudam;MoraKhola;70;322;60;1;1;4;1;1;1;1;2;2;1;3;3;1;4;2;1;29
+Mymenshing;19;611902001;10901902001;New Colony Patgudam;Dulpul Camp;500;2300;90;1;1;4;1;1;1;1;1;1;2;3;3;1;2;2;1;26
+Mymenshing;19;611902002;10901902002;New Colony Patgudam;Bin Poste;30;138;100;2;1;4;1;1;1;1;3;2;2;3;4;1;4;2;1;33
+Mymenshing;19;611902003;10901902003;New Colony Patgudam;New Colony Bagmara;150;690;100;2;1;4;1;2;1;1;3;2;2;3;4;2;4;2;1;35
+Mymenshing;19;611902006;10901902006;New Colony Patgudam;New Colony Dulal Komishnar Ar Bari;170;782;100;2;1;4;1;2;1;1;3;2;2;3;4;2;4;2;1;35
+Mymenshing;19;611902004;10901902004;New Colony Patgudam;Par Hous Colony;95;437;100;1;1;4;1;1;1;1;3;2;1;3;3;1;4;2;1;30
+Mymenshing;19;611903005;10901903005;Pal Para (Bolashpur);Palpara Honufar Bari Thaka Monsur Bari;80;368;100;2;1;4;1;1;3;1;3;2;2;3;4;1;4;4;4;40
+Mymenshing;19;611903004;10901903004;Pal Para (Bolashpur);Palpara Nojrul Ar Bari;150;690;100;2;1;4;1;1;2;1;2;2;2;3;4;2;4;4;4;39
+Mymenshing;19;611903006;10901903006;Pal Para (Bolashpur);Akur Mostider East Pasha;300;1380;50;1;1;4;1;2;1;1;2;3;4;3;4;2;4;4;4;41
+Mymenshing;19;611903003;10901903003;Pal Para (Bolashpur);Palpara Somserer Bari;310;1426;100;2;1;4;1;2;2;1;3;3;1;3;4;2;4;4;4;41
+Mymenshing;19;611903001;10901903001;Pal Para (Bolashpur);Rail Lain Sonlogno Palpara Bostee;350;1150;50;1;1;4;1;1;1;1;1;1;1;3;2;1;1;2;1;23
+Mymenshing;19;611903002;10901903002;Pal Para (Bolashpur);Palpara Abdul Hok Bari;435;2001;100;1;1;4;1;1;1;1;2;3;1;3;4;1;4;4;4;36
+Mymenshing;19;611904001;10901904001;Padri Mission Vati Kesor;Vati Kasor Jom sed Moroler Barir Pichona;40;90;50;1;1;4;1;1;1;1;2;1;1;3;4;2;4;4;4;35
+Mymenshing;19;611904008;10901904008;Padri Mission Vati Kesor;Vatikasor Murgi walar Road;30;140;200;2;1;4;1;1;2;1;3;1;1;3;4;2;4;4;4;38
+Mymenshing;19;611904007;10901904007;Padri Mission Vati Kesor;Vatekation Kari Sahebar Mor;80;372;200;2;1;4;1;1;2;1;3;1;1;3;4;2;4;4;4;38
+Mymenshing;19;611904002;10901904002;Padri Mission Vati Kesor;Vati Kasor Mission School Ar Picha;40;95;100;1;1;4;1;1;1;1;3;1;1;3;4;2;4;4;4;36
+Mymenshing;19;611904003;10901904003;Padri Mission Vati Kesor;Padri Mission School Ar Picha Primary School Road;200;950;200;1;1;4;1;1;1;1;3;1;1;2;4;1;4;4;4;34
+Mymenshing;19;611904004;10901904004;Padri Mission Vati Kesor;Bolaspur Akkur Mosjid Ar Shamna Thaka Pardi Mission Ar Pichon Road;100;470;150;2;1;4;1;1;1;1;2;1;1;3;4;2;4;4;4;36
+Mymenshing;19;611904006;10901904006;Padri Mission Vati Kesor;Aliya Madrasha Road Thaka Mission School Ar Pichon;80;370;100;2;1;4;1;1;2;1;2;1;1;3;4;1;4;4;4;36
+Mymenshing;19;611904005;10901904005;Padri Mission Vati Kesor;Aliya Madrasha Road;120;555;150;2;1;4;1;1;2;1;3;1;1;3;4;2;4;4;4;38
+Mymenshing;19;611904009;10901904009;Padri Mission Vati Kesor;Aliya Madrasha Road West;37;270;200;1;1;4;1;1;3;1;3;1;1;3;4;2;4;4;4;38
+Mymenshing;19;611905003;10901905003;Vati Kasor Bobor Sathan Para;Vati Kasor Codu Komisonar Ar Bari;60;276;150;1;1;4;1;1;1;1;3;1;1;3;4;2;4;4;4;36
+Mymenshing;19;611905002;10901905002;Vati Kasor Bobor Sathan Para;Vatikasor Mission Road Ar Shata;40;185;250;2;1;4;1;1;3;1;3;1;1;3;4;2;4;4;4;39
+Mymenshing;19;611905001;10901905001;Vati Kasor Bobor Sathan Para;Vatikasor Padri Mission Road;30;140;150;2;1;4;1;1;3;1;3;1;1;3;4;2;4;4;4;39
+Mymenshing;19;611905004;10901905004;Vati Kasor Bobor Sathan Para;Vati Kasor Jomir Bepari/Bailen Alo Komisonar Ar Purono Bari;20;95;150;2;1;4;1;1;2;1;4;1;1;3;4;2;4;4;4;39
+Mymenshing;19;611905005;10901905005;Vati Kasor Bobor Sathan Para;Vati Kasor Jomir Bapari Bailen;50;230;150;2;1;4;1;1;2;1;3;1;1;3;4;2;4;4;4;38
+Mymenshing;19;611905006;10901905006;Vati Kasor Bobor Sathan Para;Vati Kasor Jomir Bepari Bailen Uttora Clinic Ar Shamna;34;157;150;2;1;4;1;1;3;1;3;1;1;3;4;2;4;4;4;39
+Mymenshing;19;611905007;10901905007;Vati Kasor Bobor Sathan Para;Chor Para Gor Sthan Road Ar Karon Bari;20;92;200;2;1;4;1;1;3;1;3;1;3;3;4;2;4;4;4;41
+Mymenshing;19;611906001;10901906001;Vati Kasor Boro Bari;Vati Kasor Abbas Komisonar Ar Bari;32;150;70;4;2;4;1;1;4;1;4;4;4;4;4;2;4;4;4;51
+Mymenshing;19;611906003;10901906003;Vati Kasor Boro Bari;Vati Kasor Boro Bai/ Taskin Madecal Hol;40;184;150;1;1;1;1;2;1;1;1;4;1;3;2;4;1;4;4;32
+Mymenshing;19;611906002;10901906002;Vati Kasor Boro Bari;Vati Kasor Boro Bari;100;464;130;1;1;4;1;1;2;1;3;1;1;3;4;1;4;4;4;36
+Mymenshing;19;611906004;10901906004;Vati Kasor Boro Bari;Vati Kasor Boro Bari Mosjid Road;12;56;20;1;1;3;1;1;2;1;1;1;1;3;4;1;4;4;4;33
+Mymenshing;19;611906006;10901906006;Vati Kasor Boro Bari;Karitas Mather Pichona/Liyakot Komisonar Barir Mosjid Sonlogno;5;23;100;2;1;3;1;1;1;1;2;1;1;3;4;1;4;4;4;34
+Mymenshing;19;611906007;10901906007;Vati Kasor Boro Bari;Karitas Mather Pichona/Alom Ar Barir Shate;5;23;20;1;1;4;1;1;2;1;2;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611906008;10901906008;Vati Kasor Boro Bari;Vati Kasor Karitas Math Sonlogno;20;92;150;2;1;3;1;1;2;1;2;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611906009;10901906009;Vati Kasor Boro Bari;Vati Kasor Karitas Math Sonlogno;13;60;150;2;1;4;1;1;2;1;2;1;1;3;4;2;4;4;4;37
+Mymenshing;19;611906010;10901906010;Vati Kasor Boro Bari;Vati Kasor Karitas Math Sonlogno;6;27;150;2;1;4;1;1;2;3;2;4;1;1;4;2;2;1;4;35
+Mymenshing;19;611906005;10901906005;Vati Kasor Boro Bari;Vati Kasor Langrar Mor Thaka Aktu Vetora;8;36;50;3;1;3;1;1;1;1;2;1;1;3;4;2;4;4;4;36
+Mymenshing;19;611907009;10901907009;Noya Para Noya Moddho Para;Bolas Pub Chandu Sordar Ar Bari;32;150;200;1;1;4;1;1;1;1;3;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611907008;10901907008;Noya Para Noya Moddho Para;Jamal Miyar Bari;100;400;150;2;1;4;1;1;1;1;2;1;4;3;1;4;1;4;4;35
+Mymenshing;19;611907001;10901907001;Noya Para Noya Moddho Para;Tin Raster Morh/Dalim Ar Bari;14;56;30;4;1;4;1;4;2;3;3;2;4;3;4;4;1;4;4;48
+Mymenshing;19;611907002;10901907002;Noya Para Noya Moddho Para;Ajij Raj Mistry Bari;15;60;50;2;1;4;1;1;2;1;2;1;1;4;4;1;4;4;4;37
+Mymenshing;19;611907003;10901907003;Noya Para Noya Moddho Para;Jamshe Moller Pukur Par;60;240;50;1;1;4;1;1;4;1;2;1;1;2;4;1;4;4;4;36
+Mymenshing;19;611907004;10901907004;Noya Para Noya Moddho Para;Sultan Ar Dokan;70;350;60;1;1;1;1;1;1;1;2;1;4;2;4;1;4;4;4;33
+Mymenshing;19;611907005;10901907005;Noya Para Noya Moddho Para;Sultan Ar Dokan;40;160;50;1;4;4;1;2;4;1;2;1;4;2;4;1;4;4;4;43
+Mymenshing;19;611907007;10901907007;Noya Para Noya Moddho Para;Kodor Sordarer Bari;100;400;150;2;1;4;1;2;1;1;1;4;1;1;1;4;1;4;4;33
+Mymenshing;19;611907010;10901907010;Noya Para Noya Moddho Para;BolaM Pur Qatar Kholi Bajar Tetuler Bari;150;600;70;1;1;4;1;4;1;1;2;1;1;3;4;1;4;4;4;37
+Mymenshing;19;611907006;10901907006;Noya Para Noya Moddho Para;Hirar And Ranar Dokan;100;280;150;2;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;32
+Mymenshing;19;611908001;10901908001;Baitul Mamur Jame Masjid Para;Lenbar Morh;36;165;120;2;1;4;1;1;1;1;2;1;4;3;4;1;4;4;4;38
+Mymenshing;19;611908005;10901908005;Baitul Mamur Jame Masjid Para;Pach Tolar Morh;15;60;100;4;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;36
+Mymenshing;19;611908003;10901908003;Baitul Mamur Jame Masjid Para;Leykot Komisonar Ar Bari;50;200;100;2;1;4;1;1;1;2;2;1;1;3;4;1;4;4;4;36
+Mymenshing;19;611908006;10901908006;Baitul Mamur Jame Masjid Para;Sofor Member Ar Bari;90;360;100;2;1;4;1;1;1;1;2;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611908002;10901908002;Baitul Mamur Jame Masjid Para;Musur Bari;43;172;25;1;1;4;1;1;1;1;1;1;1;3;4;1;4;4;4;33
+Mymenshing;19;611908004;10901908004;Baitul Mamur Jame Masjid Para;Leykot Komisonar Ar Bari;60;180;100;2;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;34
+Mymenshing;19;611909008;10901909008;Shimultali;Bolaspur Kasemer Murgi Farm;60;240;150;1;1;4;1;2;1;4;1;1;2;1;4;4;4;4;4;39
+Mymenshing;19;611909009;10901909009;Shimultali;Bolaspur Kol Mistry Bari;60;300;30;1;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;33
+Mymenshing;19;611909007;10901909007;Shimultali;Bolas Pur Abul Driver Ar Bari;60;300;30;1;1;4;1;1;1;2;2;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611909006;10901909006;Shimultali;Top Babar Majar;70;350;50;1;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;33
+Mymenshing;19;611909005;10901909005;Shimultali;Bolaspur Basai Para Ashikar Dokan;100;500;160;1;1;4;1;1;1;1;1;1;1;3;4;1;4;4;4;33
+Mymenshing;19;611909004;10901909004;Shimultali;Bolaspur Akkas Komisonar Ar Bari;160;640;160;1;1;4;1;1;1;1;2;1;1;3;4;1;4;4;4;34
+Mymenshing;19;611909002;10901909002;Shimultali;Jobbor Mondoler Bari;400;360;150;1;1;4;1;2;1;1;2;1;1;3;4;1;4;4;4;35
+Mymenshing;19;611909001;10901909001;Shimultali;Bolas Pur Pach Tolar Morh;90;450;120;2;1;4;1;2;1;1;2;1;1;3;4;1;4;4;4;36
+Mymenshing;19;611909010;10901909010;Shimultali;Unis Picter Bari;80;320;150;2;2;4;1;1;1;1;2;1;4;2;4;1;4;4;4;38
+Mymenshing;3;610301002;10900301002;K.C Roy Road;Eid Gah Math;17;85;161;2;4;4;2;2;2;4;2;4;4;3;4;1;4;4;4;50
+Mymenshing;3;610301001;10900301001;K.C Roy Road;Humayur Mistry Ar Bare;30;200;60;4;1;3;3;3;2;4;4;4;4;4;2;1;4;4;4;51
+Mymenshing;3;610302001;10900302001;Hamid Uddin Road;Moti Fokir Ar Goli;50;300;150;2;3;4;1;2;4;4;4;4;4;3;4;1;4;4;4;52
+Mymenshing;3;610302002;10900302002;Hamid Uddin Road;Habibur Rahman Ar bare;52;440;150;3;1;4;2;2;4;4;4;4;4;3;4;1;4;4;4;52
+Mymenshing;3;610302003;10900302003;Hamid Uddin Road;Firoj Komisonarer Ar Bare;35;370;150;2;3;4;3;1;1;4;4;4;4;3;4;1;4;4;4;50
+Mymenshing;3;610302004;10900302004;Hamid Uddin Road;Badsha Miyar Barer Shamna;28;100;150;1;2;4;2;2;2;4;3;4;4;3;4;1;4;4;4;48
+Mymenshing;3;610302005;10900302005;Hamid Uddin Road;Samsu Driver Der Bare;20;80;100;2;3;4;3;4;2;4;4;3;2;2;4;1;4;4;4;50
+Mymenshing;3;610302006;10900302006;Hamid Uddin Road;Mondol Miyar Bare;15;70;90;2;3;4;2;2;2;4;4;4;4;4;4;1;4;4;4;52
+Mymenshing;3;610302007;10900302007;Hamid Uddin Road;Khristan Bare;8;50;150;2;3;3;3;2;2;4;2;4;3;3;4;1;4;4;4;48
+Mymenshing;3;610303002;10900303002;Mosjid Road;Forid Ar Bare;20;80;100;2;3;4;4;3;4;2;4;4;4;1;4;4;4;4;4;55
+Mymenshing;3;610303001;10900303001;Mosjid Road;Sujon Der Bare;29;149;150;3;3;4;4;3;4;1;4;4;4;2;4;4;4;4;4;56
+Mymenshing;3;610304004;10900304004;Golap Jan Road;Sunsain School Ar Biporeda;10;35;70;4;4;4;4;4;4;4;4;4;4;3;4;4;4;4;4;63
+Mymenshing;3;610304005;10900304005;Golap Jan Road;Eddis Miyar Bare;8;29;50;2;3;4;4;3;1;1;4;4;4;1;4;4;4;4;4;51
+Mymenshing;3;610304003;10900304003;Golap Jan Road;Momotaj Ukil Basha;37;143;100;2;3;4;4;4;4;1;4;4;4;1;4;4;4;4;4;55
+Mymenshing;3;610304006;10900304006;Golap Jan Road;Kadir Master;12;100;50;2;3;4;4;3;4;2;4;4;4;2;4;4;4;4;4;56
+Mymenshing;3;610304001;10900304001;Golap Jan Road;Kalu Miyar Bare;24;80;150;1;1;3;1;1;4;1;4;4;4;1;4;4;4;4;4;45
+Mymenshing;3;610304002;10900304002;Golap Jan Road;Kholifa Bare;25;150;150;1;3;4;1;1;4;1;4;4;4;1;4;4;4;4;4;48
+Mymenshing;3;610305005;10900305005;Siddik Master Road;Jahid Ar Bare;32;145;80;2;1;4;1;2;2;3;4;3;1;4;4;4;4;4;4;47
+Mymenshing;3;610305004;10900305004;Siddik Master Road;Forhad Ar Basha;25;125;90;4;3;4;1;1;2;2;4;3;1;4;4;4;4;4;4;49
+Mymenshing;3;610305002;10900305002;Siddik Master Road;Aslam Mijo/Sujon Ar Bare;65;306;75;4;3;4;1;3;3;3;4;3;4;4;4;4;4;4;4;56
+Mymenshing;3;610305001;10900305001;Siddik Master Road;Miru Minjar Bare;70;675;80;2;3;1;2;1;1;4;4;4;1;4;3;4;4;4;4;46
+Mymenshing;3;610305003;10900305003;Siddik Master Road;Sohid Driver;85;588;95;1;1;4;1;2;1;4;4;4;2;4;4;4;4;4;4;48
+Mymenshing;3;610306001;10900306001;Eta Khola Road;Volar Bare;60;317;110;4;3;4;1;4;4;4;4;3;4;4;4;4;4;4;4;59
+Mymenshing;3;610306006;10900306006;Eta Khola Road;Eta Khola Road;43;162;80;4;3;4;1;4;4;4;4;3;3;4;4;4;4;4;4;58
+Mymenshing;3;610306002;10900306002;Eta Khola Road;Maeil Koyatar Mosjid;97;436;80;1;3;4;1;1;1;1;4;4;3;4;4;1;2;3;3;40
+Mymenshing;3;610306003;10900306003;Eta Khola Road;Maeil Koyatar Mosjid;36;108;45;1;3;1;1;1;1;1;4;3;3;4;3;3;4;4;4;41
+Mymenshing;3;610306004;10900306004;Eta Khola Road;Eta Khola Rail Kroshing;63;378;116;4;3;4;1;2;3;3;3;3;2;4;3;3;4;4;2;48
+Mymenshing;3;610306005;10900306005;Eta Khola Road;Morul Barer Shamna;37;224;130;4;3;4;1;1;3;3;4;4;4;4;4;4;4;4;4;55
+Mymenshing;3;610307001;10900307001;Shaheb Quarters;World Vision Ar Picha;63;351;151;4;3;4;4;2;4;2;4;4;4;4;2;1;1;2;2;47
+Mymenshing;13;611301006;10901301006;Shehra Chamra Gudam;Majeder Goli;50;250;40;1;1;4;1;1;2;3;2;2;4;2;4;2;4;4;4;41
+Mymenshing;13;611301004;10901301004;Shehra Chamra Gudam;Ajharer Bare;30;142;105;2;1;4;1;1;2;3;2;2;4;2;4;2;4;4;4;42
+Mymenshing;13;611301002;10901301002;Shehra Chamra Gudam;Dulal Miya Bare;50;250;66;2;1;4;2;1;2;2;2;2;4;2;4;4;4;4;4;44
+Mymenshing;13;611301003;10901301003;Shehra Chamra Gudam;Sowdagor Bare;45;220;70;2;1;4;1;1;2;3;2;2;4;2;4;2;4;4;4;42
+Mymenshing;13;611301005;10901301005;Shehra Chamra Gudam;Ismayel Ar Bare;22;115;105;2;1;4;1;1;2;3;2;2;4;2;4;2;4;4;4;42
+Mymenshing;13;611301001;10901301001;Shehra Chamra Gudam;Salim Ar Dokan;150;750;80;2;1;4;2;1;2;3;2;2;4;2;4;2;4;4;4;43
+Mymenshing;13;611302002;10901302002;Shehra Dhopakhola;Barek Saheb Ar Barer Shamna;25;125;70;2;1;4;2;1;1;4;2;2;4;2;4;3;4;4;4;44
+Mymenshing;13;611302001;10901302001;Shehra Dhopakhola;Bepari bare;200;1000;70;2;1;4;2;1;1;4;2;2;4;2;4;3;4;4;4;44
+Mymenshing;13;611302005;10901302005;Shehra Dhopakhola;Faruk Ar Basha;85;420;82;2;1;4;2;2;2;4;2;2;4;2;4;3;4;4;4;46
+Mymenshing;13;611302007;10901302007;Shehra Dhopakhola;Jongu Miyar Bare;120;600;82;2;1;4;2;2;3;4;3;2;4;2;4;3;4;4;4;48
+Mymenshing;13;611302006;10901302006;Shehra Dhopakhola;Jillu Miyar Barer Pasha;100;500;80;2;1;4;2;2;2;4;2;2;4;2;4;3;4;4;4;46
+Mymenshing;13;611302003;10901302003;Shehra Dhopakhola;Dowbare;30;150;80;1;1;4;2;1;1;2;2;2;4;1;4;2;4;4;4;39
+Mymenshing;13;611302004;10901302004;Shehra Dhopakhola;Mamuner Bare;145;725;60;2;1;4;2;2;2;4;2;3;4;2;4;3;4;4;4;47
+Mymenshing;13;611303001;10901303001;Bashbari Colony (New Area);Bash Bare Kolony/Mijider Picha;400;2020;65;2;1;4;1;1;1;4;2;2;1;1;1;1;2;2;3;29
+Mymenshing;13;611305001;10901305001;R.K Mision Road Morolpara;Hakim Minjar Bare;20;100;60;2;1;4;2;3;1;4;2;2;4;2;1;1;2;2;3;36
+Mymenshing;13;611305002;10901305002;R.K Mision Road Morolpara;Daroga Bare;15;75;80;2;1;4;2;2;2;4;2;2;4;2;2;2;4;4;4;43
+Mymenshing;13;611305006;10901305006;R.K Mision Road Morolpara;Hajen Morol Ar Basha;160;800;80;2;1;4;2;1;1;4;2;2;4;2;2;2;4;4;4;41
+Mymenshing;13;611305007;10901305007;R.K Mision Road Morolpara;T.O. Ar Bashar Shamna;15;75;65;2;1;4;2;1;1;4;2;2;4;2;3;2;4;4;4;42
+Mymenshing;13;611305003;10901305003;R.K Mision Road Morolpara;Protibonde Office Ar Pichona;15;75;80;2;1;4;2;1;2;4;2;3;4;2;3;2;4;4;4;44
+Mymenshing;13;611305004;10901305004;R.K Mision Road Morolpara;Dak Konir Bare;40;200;65;2;1;4;2;1;1;4;2;3;4;2;3;1;4;4;4;42
+Mymenshing;13;611305005;10901305005;R.K Mision Road Morolpara;Gamar Bare;95;475;80;2;1;4;2;1;1;4;2;2;4;2;3;2;4;4;4;42
+Mymenshing;13;611306001;10901306001;Balur Math;Rohim Monsir Bare;30;150;70;2;1;4;2;1;2;4;2;2;4;1;1;3;4;4;4;41
+Mymenshing;15;611504005;10901504005;Maskanda Dokkhin Para;pagla Bare;34;160;80;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Mymenshing;15;611504006;10901504006;Maskanda Dokkhin Para;Mistry Bare;22;910;80;2;1;4;2;1;1;3;4;3;4;3;4;1;4;4;4;45
+Mymenshing;15;611504004;10901504004;Maskanda Dokkhin Para;Mascanda South Para Sahe Masjed Ar Pichona;35;125;100;2;1;4;2;1;1;2;4;3;4;3;4;1;4;4;4;44
+Mymenshing;15;611504003;10901504003;Maskanda Dokkhin Para;Dhakaiya Bare;12;63;40;2;3;4;2;1;1;2;4;3;3;3;4;1;4;4;4;45
+Mymenshing;15;611504007;10901504007;Maskanda Dokkhin Para;Sahajahan Ar Bare;35;150;70;2;1;4;1;1;1;2;4;3;3;4;4;1;4;4;4;43
+Mymenshing;15;611504008;10901504008;Maskanda Dokkhin Para;Alir Dokan Ar Pichina;48;260;40;2;1;4;1;1;1;1;4;3;4;4;4;1;4;4;4;43
+Mymenshing;15;611504010;10901504010;Maskanda Dokkhin Para;Mittica Officer Ar Picha;8;25;25;2;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;42
+Mymenshing;15;611504009;10901504009;Maskanda Dokkhin Para;Bottar Miyar Masjid Ar Opor Pasha;35;190;30;2;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;42
+Mymenshing;15;611504002;10901504002;Maskanda Dokkhin Para;Thakur Bare;64;430;100;2;1;4;1;1;1;1;4;3;3;4;4;1;4;4;4;42
+Mymenshing;15;611504001;10901504001;Maskanda Dokkhin Para;Late. Hafej Morol Ar Bare;39;230;100;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Mymenshing;17;611705011;10901705011;BrammoPolli Purohit Para;Dofli Bare Monder;7;36;100;3;1;4;1;2;1;2;2;3;2;3;1;1;1;2;1;30
+Mymenshing;11;611101001;10901101001;Nowmahol;Amanullar Ar Bari;5;25;90;4;3;4;3;3;1;3;4;3;4;4;4;3;4;4;3;54
+Mymenshing;11;611101004;10901101004;Nowmahol;Dolon Ar Bari;6;27;110;4;3;4;4;3;3;3;3;2;4;4;4;2;4;4;4;55
+Mymenshing;11;611101002;10901101002;Nowmahol;Thakur Bari;8;36;150;4;3;4;2;3;3;3;3;4;4;4;4;1;4;4;4;54
+Mymenshing;11;611101003;10901101003;Nowmahol;Korim Ar Bari;7;35;90;3;3;4;3;2;3;3;3;2;4;4;4;2;4;4;4;52
+Mymenshing;11;611102004;10901102004;Makorjani Lane;Opu Miyar Bari;17;85;100;4;1;4;4;1;2;4;4;4;4;4;4;1;4;4;4;53
+Mymenshing;11;611102003;10901102003;Makorjani Lane;Titu Miyar Bari;12;60;100;4;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;51
+Mymenshing;11;611102005;10901102005;Makorjani Lane;Firoj Ar Vari;32;160;100;2;1;4;4;4;1;4;3;3;4;3;4;2;4;4;4;51
+Mymenshing;11;611102002;10901102002;Makorjani Lane;Mrs. Hena Khatun;30;150;50;4;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;51
+Mymenshing;11;611102001;10901102001;Makorjani Lane;Kangu Mistry;32;160;100;4;3;4;4;1;1;4;4;3;4;3;4;1;4;1;1;46
+Mymenshing;11;611102008;10901102008;Makorjani Lane;B.D Manus Ar Bari;10;50;100;4;3;4;3;1;1;4;4;3;4;3;4;1;4;1;1;45
+Mymenshing;11;611102006;10901102006;Makorjani Lane;Kodu Miyar Bari;18;90;100;4;3;4;4;1;1;4;3;3;4;1;4;1;4;4;4;49
+Mymenshing;11;611102007;10901102007;Makorjani Lane;Goru Khoyar Morh;13;65;100;4;3;4;3;1;1;4;4;3;4;4;4;1;4;4;4;52
+Mymenshing;11;611103004;10901103004;South Boundary Road;Kochi Saheb Ar Bari;9;45;100;4;3;4;3;1;2;4;4;4;2;4;4;4;4;4;4;55
+Mymenshing;11;611103001;10901103001;South Boundary Road;Ajij Saheb Ar Bari;25;125;70;2;2;4;2;1;2;4;4;3;2;3;4;4;4;4;3;48
+Mymenshing;11;611103002;10901103002;South Boundary Road;Hamja Vai Ar Bari;10;50;100;2;3;4;3;1;2;4;4;4;1;4;4;4;4;4;3;51
+Mymenshing;11;611103003;10901103003;South Boundary Road;Bar Vai Ar Bari;9;45;100;4;3;4;2;1;2;4;4;3;2;3;4;4;4;4;3;51
+Mymenshing;11;611104001;10901104001;R.K Mission Road Anshik;Kamrul Miyar Bari;5;25;50;4;3;4;3;1;1;2;3;2;4;4;4;1;4;4;4;48
+Mymenshing;11;611104002;10901104002;R.K Mission Road Anshik;Mostofa Vai Ar Bari;10;50;100;3;2;4;3;1;3;3;4;4;4;4;4;4;4;4;4;55
+Mymenshing;11;611104003;10901104003;R.K Mission Road Anshik;Sultan Saheb Ar Bari;7;35;100;2;1;4;3;1;2;4;4;4;1;1;4;4;3;4;4;46
+Mymenshing;11;611104004;10901104004;R.K Mission Road Anshik;Sonuj Kuri School;5;25;100;2;1;4;3;1;2;4;4;4;1;3;4;4;4;4;4;49
+Mymenshing;11;611104005;10901104005;R.K Mission Road Anshik;Late. Sothoronjo Das;6;30;100;2;3;4;3;3;1;4;4;4;1;3;4;4;3;4;4;51
+Mymenshing;11;611104006;10901104006;R.K Mission Road Anshik;Monisha Vila;9;45;100;3;1;4;3;1;2;2;4;1;1;3;4;1;4;4;4;42
+Mymenshing;11;611105001;10901105001;Saroda Ghosh Road;Ruti Wala Para;32;160;70;2;1;4;4;1;1;4;3;3;3;3;4;2;4;4;2;45
+Mymenshing;11;611105002;10901105002;Saroda Ghosh Road;Ruti Wala Para (Tofajor Ar Abri);15;75;50;4;3;4;4;2;1;4;4;3;3;3;3;2;4;4;2;50
+Mymenshing;11;611105007;10901105007;Saroda Ghosh Road;Vuiya Goli Sadek Vai Ar Bari;60;300;60;4;3;4;4;1;2;4;4;3;2;3;3;2;3;1;2;45
+Mymenshing;11;611105008;10901105008;Saroda Ghosh Road;Nur Hok Goli;17;85;60;4;3;4;4;1;2;4;4;3;3;3;4;3;4;1;1;48
+Mymenshing;11;611105004;10901105004;Saroda Ghosh Road;Bodor Munshir Bari;20;100;65;1;1;4;1;1;1;4;3;3;3;3;3;2;3;4;4;41
+Mymenshing;11;611105005;10901105005;Saroda Ghosh Road;Sodash Hospital Ar Shamna;12;60;70;4;3;4;4;1;2;4;4;3;3;3;3;3;3;4;4;52
+Mymenshing;11;611105003;10901105003;Saroda Ghosh Road;Rutiewala Para/Pach Pir Ar Majar;48;240;70;4;3;4;4;1;1;4;4;3;3;3;3;1;4;1;2;45
+Mymenshing;11;611105006;10901105006;Saroda Ghosh Road;Vuiya Goli;7;35;40;4;3;4;4;1;1;4;4;3;3;3;3;2;4;1;1;45
+Mymenshing;11;611106001;10901106001;Dira Para;Mostofa Sir Ar Bari;10;50;100;4;3;4;4;1;2;4;4;4;3;4;4;2;4;4;4;55
+Mymenshing;11;611106005;10901106005;Dira Para;Babul Mistry Ar Bari;10;50;100;2;1;4;3;1;1;1;2;2;3;1;4;1;4;1;1;32
+Mymenshing;11;611106004;10901106004;Dira Para;Krishno Chondro Sutrodor Ar Bari;13;65;100;2;3;4;4;2;1;4;4;2;3;3;4;1;4;4;4;49
+Mymenshing;11;611106003;10901106003;Dira Para;Sotahar Hossain Bacchur Bari;6;20;100;4;3;4;4;1;1;4;4;4;4;2;4;1;4;4;4;52
+Mymenshing;11;611106002;10901106002;Dira Para;Shopon Babur Bari;15;75;100;4;3;4;4;3;2;4;4;4;4;4;4;3;4;4;4;59
+Mymenshing;11;611107008;10901107008;Sarker Bari Road;Sabek Commisioner Ar bari;8;40;100;3;1;4;2;4;2;3;4;1;1;2;4;4;3;1;3;42
+Mymenshing;11;611107009;10901107009;Sarker Bari Road;Club Sonlogno;6;30;50;4;3;4;1;1;1;4;3;3;2;3;4;1;4;1;3;42
+Mymenshing;11;611107010;10901107010;Sarker Bari Road;Ruhul Ar Bari;18;90;100;4;4;4;3;2;2;4;4;3;2;3;2;3;4;4;3;51
+Mymenshing;11;611107002;10901107002;Sarker Bari Road;Ikbal/Gasum Sharker Bari;10;50;45;3;1;4;1;1;1;4;2;2;1;1;4;1;4;1;3;34
+Mymenshing;11;611107001;10901107001;Sarker Bari Road;Kausar Saheb Ar bari;35;175;50;4;1;4;4;1;1;4;1;2;1;2;3;1;4;1;3;37
+Mymenshing;11;611107003;10901107003;Sarker Bari Road;Aiyub Vai Ar Vari;8;40;40;4;1;4;2;1;1;4;2;2;1;3;4;1;4;1;3;38
+Mymenshing;11;611107004;10901107004;Sarker Bari Road;Sharker Bari;15;75;400;3;1;4;2;1;1;4;4;3;4;4;4;4;4;1;3;47
+Mymenshing;11;611107005;10901107005;Sarker Bari Road;Khelu Miyar Bari;13;65;100;4;4;4;2;1;1;4;3;4;1;3;4;4;4;4;3;50
+Mymenshing;11;611107006;10901107006;Sarker Bari Road;Kala Vai;12;60;100;4;3;4;2;1;3;4;4;4;4;3;3;4;4;4;3;54
+Mymenshing;11;611107007;10901107007;Sarker Bari Road;Morshad Vai Khaler Par;10;50;100;4;3;4;2;2;1;4;3;4;2;3;4;4;4;4;4;52
+Mymenshing;14;611403001;10901403001;Kopikhat Road/ Char para;Md. Habibur Rahman Ar Bari;34;170;73;1;1;4;2;1;2;4;3;3;2;2;4;4;4;4;4;45
+Mymenshing;14;611403002;10901403002;Kopikhat Road/ Char para;Munnir Dokan;290;1440;70;3;1;4;2;1;1;3;3;2;4;1;4;4;4;4;4;45
+Mymenshing;14;611403003;10901403003;Kopikhat Road/ Char para;Mojamel Hok Ar Bari;40;295;70;1;1;4;2;1;2;3;3;3;4;1;4;2;4;4;4;43
+Mymenshing;14;611403004;10901403004;Kopikhat Road/ Char para;Sahjahaner Bari;35;162;75;2;1;4;2;1;3;4;3;3;4;2;1;2;2;2;3;39
+Mymenshing;14;611404004;10901404004;Primary School Road/ Char para;Shopnar Dokan;75;370;75;3;1;4;2;2;2;4;4;4;4;1;4;2;4;4;4;49
+Mymenshing;14;611404005;10901404005;Primary School Road/ Char para;Md. Manik Miyar Bari;45;215;75;3;1;4;2;1;2;4;4;4;4;1;4;2;4;4;4;48
+Mymenshing;14;611404002;10901404002;Primary School Road/ Char para;Md. Chan Miyar Bari;85;340;45;3;3;4;2;1;2;4;3;4;4;1;4;2;4;4;4;49
+Mymenshing;14;611404001;10901404001;Primary School Road/ Char para;Nazu Miyar Bari;35;155;70;3;1;4;2;1;4;4;3;3;4;2;4;2;4;4;4;49
+Mymenshing;14;611404003;10901404003;Primary School Road/ Char para;Abdul Roshid Ar Bari;60;315;75;4;3;4;2;1;2;4;4;3;4;1;4;4;4;4;2;50
+Mymenshing;14;611404006;10901404006;Primary School Road/ Char para;14 No. Ward Commision Office Ar Picha;115;460;120;3;1;4;2;1;2;3;4;4;4;2;4;2;4;4;4;48
+Mymenshing;14;611405006;10901405006;Bou Bazar/ Char Para;Ashur Bari;250;1150;60;3;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;46
+Mymenshing;14;611405003;10901405003;Bou Bazar/ Char Para;Usuf Rong Mistry Ar Bari;200;920;75;3;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;46
+Mymenshing;14;611405004;10901405004;Bou Bazar/ Char Para;Bodul Miyar Bari;300;1380;60;2;1;4;1;1;1;2;3;2;4;2;3;2;3;4;4;39
+Mymenshing;14;611405001;10901405001;Bou Bazar/ Char Para;Kitur Dokan;50;230;70;2;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;45
+Mymenshing;14;611405002;10901405002;Bou Bazar/ Char Para;Shopnar Bari;60;276;70;2;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;45
+Mymenshing;14;611405005;10901405005;Bou Bazar/ Char Para;Maleker Bari;200;920;70;2;1;4;1;1;2;3;3;3;4;2;3;2;4;4;4;43
+Mymenshing;14;611405008;10901405008;Bou Bazar/ Char Para;Driver Ar Bari;150;690;60;2;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;45
+Mymenshing;14;611405007;10901405007;Bou Bazar/ Char Para;Sohel Ar Dokan;310;1426;60;2;1;4;2;1;2;3;3;3;4;2;4;2;4;4;4;45
+Mymenshing;14;611406007;10901406007;Hurt Foundation Road/ Charpara;Annath Vai;20;100;900;3;1;4;2;1;3;4;4;3;4;2;4;2;4;4;4;49
+Mymenshing;14;611406001;10901406001;Hurt Foundation Road/ Charpara;Bonder Bari;45;207;90;1;1;4;2;2;2;4;4;3;4;3;4;2;4;4;4;48
+Mymenshing;14;611406002;10901406002;Hurt Foundation Road/ Charpara;Made Apan Bari;18;83;75;2;1;4;2;2;3;4;4;3;4;3;4;2;4;4;4;50
+Mymenshing;14;611406003;10901406003;Hurt Foundation Road/ Charpara;Anis Ar Bari;13;75;75;2;1;4;2;1;2;4;3;3;4;3;4;2;4;4;4;47
+Mymenshing;14;611406004;10901406004;Hurt Foundation Road/ Charpara;Rustom Munshir Bari;15;70;93;2;1;4;2;1;3;4;4;3;4;3;4;2;4;4;4;49
+Mymenshing;14;611406005;10901406005;Hurt Foundation Road/ Charpara;Usuf Vaiar Bari;13;65;50;2;1;4;2;2;3;2;3;3;4;3;4;2;4;4;4;47
+Mymenshing;14;611406006;10901406006;Hurt Foundation Road/ Charpara;Advoket Nojrul Ar Bari;12;60;52;3;1;4;2;1;3;3;3;3;4;3;4;2;4;4;4;48
+Mymenshing;5;610501002;10900501002;Mohammad Ali Road/Shayamcharan Road;Late. Bodru Driver Ar Bari;9;55;150;4;1;4;3;1;3;3;4;4;4;3;4;3;4;4;4;53
+Mymenshing;5;610501001;10900501001;Mohammad Ali Road/Shayamcharan Road;Jela School Mosjid Ar Picha;13;49;80;2;2;4;3;1;4;3;4;4;4;4;4;4;4;4;4;55
+Mymenshing;5;610502004;10900502004;Gulki Bari/Collage Graveyard Road;Gulki Bari Mosjid Ar Bari;7;28;150;4;1;4;3;1;4;4;4;4;4;3;4;4;4;4;4;56
+Mymenshing;5;610502003;10900502003;Gulki Bari/Collage Graveyard Road;Habibur Rahman Saheber Bari;8;42;120;2;1;4;2;1;1;1;4;3;2;3;4;1;4;4;4;41
+Mymenshing;5;610502005;10900502005;Gulki Bari/Collage Graveyard Road;Khenur Miyar Bari;13;56;150;2;1;4;1;1;2;3;4;4;4;3;4;2;4;4;4;47
+Mymenshing;5;610502002;10900502002;Gulki Bari/Collage Graveyard Road;Late. Abdul Samad Khan Saheber Bari;15;67;150;2;4;3;2;1;2;2;4;3;2;2;4;2;4;4;1;42
+Mymenshing;5;610502001;10900502001;Gulki Bari/Collage Graveyard Road;Masjid Ar Pasha;10;40;50;4;1;2;4;1;1;3;4;1;2;2;4;4;4;1;3;41
+Mymenshing;5;610503006;10900503006;Collage Road/Mir Bari Road;Collage Road/Gorasthan Road;55;275;100;2;1;4;2;1;2;3;4;4;4;3;4;4;4;4;4;50
+Mymenshing;5;610503004;10900503004;Collage Road/Mir Bari Road;Buttu Miyar Bari;35;175;150;1;2;3;1;1;2;2;3;3;3;3;2;2;3;1;4;36
+Mymenshing;5;610503005;10900503005;Collage Road/Mir Bari Road;Mojid Ukil Ar Bari;22;95;95;2;1;4;4;1;4;4;4;4;4;4;4;4;4;4;4;56
+Mymenshing;5;610503003;10900503003;Collage Road/Mir Bari Road;Late. Abdul Mojid Kholifar Bari;37;180;80;1;1;4;1;1;3;2;3;3;2;1;4;1;4;1;3;35
+Mymenshing;5;610503002;10900503002;Collage Road/Mir Bari Road;Late. Khalek iyar Bari;60;240;120;2;3;4;2;1;3;4;3;3;3;3;4;2;4;4;4;49
+Mymenshing;5;610503001;10900503001;Collage Road/Mir Bari Road;Bochar Bari;100;453;100;2;1;4;2;1;3;2;3;3;3;2;4;1;4;1;3;39
+Mymenshing;5;610504001;10900504001;Academy Road/ Amtola Morh;Akbor Keranin Bari;12;36;50;2;1;4;3;4;4;3;4;4;4;3;4;3;4;4;4;55
+Mymenshing;5;610505009;10900505009;Purbo Goyankandi Rail Line Somglogno;Master Bari;18;79;75;1;1;3;1;1;2;2;3;3;2;3;2;2;1;2;1;30
+Mymenshing;5;610505007;10900505007;Purbo Goyankandi Rail Line Somglogno;Delep Miyar Bari;24;72;52;1;1;4;2;3;3;3;4;3;2;2;4;3;4;4;4;47
+Mymenshing;5;610505008;10900505008;Purbo Goyankandi Rail Line Somglogno;Alu Miyar Bari;47;335;140;1;1;3;2;1;2;2;4;3;2;1;4;1;4;4;4;39
+Mymenshing;5;610505006;10900505006;Purbo Goyankandi Rail Line Somglogno;Bas Babur Bostee;212;653;150;3;3;4;2;2;3;3;3;2;3;1;4;4;4;4;4;49
+Mymenshing;5;610505005;10900505005;Purbo Goyankandi Rail Line Somglogno;Rohim Ostagar Ar Bari;77;427;90;3;3;3;2;3;3;3;3;3;3;2;4;2;4;4;4;49
+Mymenshing;5;610505003;10900505003;Purbo Goyankandi Rail Line Somglogno;Pura Bari;250;1250;35;3;1;4;4;2;2;3;4;3;4;3;4;3;4;4;4;52
+Mymenshing;5;610505004;10900505004;Purbo Goyankandi Rail Line Somglogno;Sobur Vuiar Bari;300;1500;150;2;3;4;1;2;2;2;4;1;2;3;4;1;4;4;4;43
+Mymenshing;5;610505001;10900505001;Purbo Goyankandi Rail Line Somglogno;Fote Mohammad Khan Bari;10;41;67;3;3;4;2;3;3;3;4;3;3;4;4;4;4;4;4;55
+Mymenshing;5;610505002;10900505002;Purbo Goyankandi Rail Line Somglogno;Billal Vuiyar Bari;20;100;100;4;3;4;1;2;4;4;4;4;4;4;4;4;4;4;4;58
+Mymenshing;5;610506001;10900506001;Shanki Para Rail Line Somglogno;Hindu Polli;95;380;150;2;1;2;1;1;2;1;3;3;2;3;3;1;2;4;4;35
+Mymenshing;5;610506004;10900506004;Shanki Para Rail Line Somglogno;Noyon Moni Market/Mojiborar Barii;10;52;100;2;1;4;3;2;3;2;4;2;2;3;4;2;4;4;4;46
+Mymenshing;5;610506002;10900506002;Shanki Para Rail Line Somglogno;Sentu Miyar Bari;150;700;100;2;3;4;1;1;3;1;4;1;2;1;4;1;4;4;4;40
+Mymenshing;5;610506003;10900506003;Shanki Para Rail Line Somglogno;Shanki Para Puraton Jama Masjid Ar Pichona;60;339;100;1;1;4;1;1;3;1;3;3;2;3;3;1;4;4;4;39
+Mymenshing;5;610507001;10900507001;Shanki Para Cantorment/Shes Morh;Alom Amin Saheb Ar Bari;50;257;100;2;1;4;2;1;3;1;4;3;2;4;4;2;4;4;4;45
+Mymenshing;5;610507002;10900507002;Shanki Para Cantorment/Shes Morh;Chandur Bari;30;143;150;1;1;4;1;1;2;1;4;3;2;2;4;1;4;1;3;35
+Mymenshing;5;610507003;10900507003;Shanki Para Cantorment/Shes Morh;Kalu Bari/Misty Bari;123;595;150;2;1;4;1;1;3;2;3;3;2;1;4;2;4;4;4;41
+Mymenshing;5;610508001;10900508001;Fulbari Bus Stand/ Zila School Morh;Khaled Saheber Bari;27;108;45;2;1;2;3;2;4;2;1;3;3;2;2;2;4;4;4;41
+Mymenshing;21;612101001;10902101001;Chawkchotropur Karimbhaban Residential;Chaekchotropur Gudara Ghat;520;2150;56;2;1;4;1;1;2;2;3;3;3;3;3;1;3;4;4;40
+Mymenshing;21;612101002;10902101002;Chawkchotropur Karimbhaban Residential;Korim Vobon Tin Set Colony;37;170;54;2;1;4;2;1;1;4;4;4;4;4;4;1;4;2;1;43
+Mymenshing;21;612102001;10902102001;Boyra Valuka (Pagla Bazar);Pagla Bazar Eid Ga;185;906;160;2;1;4;1;1;1;1;3;3;3;3;4;4;4;4;4;43
+Mymenshing;21;612102002;10902102002;Boyra Valuka (Pagla Bazar);Pagla Bazar Boys Club Elaka;10;47;56;2;1;3;1;1;1;1;3;3;3;2;4;4;4;4;4;41
+Mymenshing;21;612103001;10902103001;Dairy Firm;Dairy Leaver Set Pocha Colony;9;40;40;2;1;4;1;1;2;2;4;4;4;3;3;1;2;2;1;37
+Mymenshing;20;612001001;10902001001;Kewat Khali Poschim Para;Sonu Driver Ar Quarter;14;60;90;1;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;39
+Mymenshing;20;612001003;10902001003;Kewat Khali Poschim Para;Alhaj Abdul Sattar Poschim Para;7;60;160;3;1;4;1;1;1;4;4;3;1;4;3;4;4;4;4;46
+Mymenshing;20;612001002;10902001002;Kewat Khali Poschim Para;Bahor Mondol Bari;25;80;160;1;1;4;1;1;2;1;4;3;1;4;4;4;4;4;4;43
+Mymenshing;20;612001004;10902001004;Kewat Khali Poschim Para;Ajaharer Bari;100;500;175;1;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;42
+Mymenshing;20;612001005;10902001005;Kewat Khali Poschim Para;Mosjid Ar Pichon A;100;500;150;1;1;4;1;1;1;1;1;3;1;3;4;4;4;4;4;38
+Mymenshing;20;612001006;10902001006;Kewat Khali Poschim Para;Commisionar Sohidur Rahman Ar Bari;150;700;160;3;1;4;1;1;2;4;4;3;1;2;2;4;4;4;4;44
+Mymenshing;20;612001007;10902001007;Kewat Khali Poschim Para;Oyabda Pashe Subhan Doctor Ar Bari;40;200;200;2;1;4;1;1;1;4;1;3;3;4;2;4;4;4;4;43
+Mymenshing;20;612002001;10902002001;Sarker Bari Site;Roshid Miyar Bari;65;391;100;1;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Mymenshing;20;612002002;10902002002;Sarker Bari Site;Sarker Bari Poschim Para;63;445;100;2;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;38
+Mymenshing;20;612002004;10902002004;Sarker Bari Site;Sah Alom Ar Bari;400;1840;100;3;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;39
+Mymenshing;20;612002003;10902002003;Sarker Bari Site;Bareker Bari;25;200;100;1;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Mymenshing;20;612003004;10902003004;Kewat Khali Barman Para;Ajidar Bari Bormon Para;70;580;100;1;1;4;1;2;1;2;3;3;1;3;4;1;4;4;4;39
+Mymenshing;20;612003003;10902003003;Kewat Khali Barman Para;Hanir Bari Bormon Para;50;298;100;2;3;4;1;4;1;3;3;3;1;3;4;1;4;4;4;45
+Mymenshing;20;612003002;10902003002;Kewat Khali Barman Para;Khajur Monser Bari;180;690;100;1;1;4;1;4;1;1;3;3;1;3;4;1;4;4;4;40
+Mymenshing;20;612003001;10902003001;Kewat Khali Barman Para;Ismayel Ar Bari;300;1384;100;1;1;4;1;1;1;2;3;3;1;3;1;1;4;4;4;35
+Mymenshing;20;612004003;10902004003;Refeegee Potti Nadir Par;Railway Colony;20;92;100;2;3;4;1;4;4;4;3;3;3;3;3;1;4;2;3;47
+Mymenshing;20;612004007;10902004007;Refeegee Potti Nadir Par;Sobuj Miyara Dokan;20;92;100;3;2;4;2;3;3;4;3;4;4;3;4;4;4;4;4;55
+Mymenshing;20;612004005;10902004005;Refeegee Potti Nadir Par;Harun Miya Refujy Para;30;138;45;3;1;4;1;2;2;4;2;3;3;3;3;1;4;4;4;44
+Mymenshing;20;612004004;10902004004;Refeegee Potti Nadir Par;Mijibor Refuje Para Kali Monder;150;690;50;2;3;4;1;1;1;2;3;1;1;1;1;1;2;2;2;28
+Mymenshing;20;612004006;10902004006;Refeegee Potti Nadir Par;Motin Driver Refujy Para;30;138;100;2;1;4;1;2;2;2;3;3;3;3;4;2;4;4;4;44
+Mymenshing;20;612004001;10902004001;Refeegee Potti Nadir Par;Deleper Barir Pichon A;100;450;50;2;1;4;1;1;1;1;2;1;1;2;1;1;2;2;2;25
+Mymenshing;20;612004002;10902004002;Refeegee Potti Nadir Par;Nadir Par Gramen Tawar Para;100;460;30;2;1;4;1;1;1;1;1;1;1;2;2;1;2;2;1;24
+Mymenshing;20;612005004;10902005004;Kewat Khali Moddo Para;Kodom Fokir Bari;50;230;150;3;3;4;1;2;2;4;3;3;3;2;4;1;4;4;4;47
+Mymenshing;20;612005006;10902005006;Kewat Khali Moddo Para;Abul Kalam Bari;15;69;100;2;1;4;1;2;3;3;3;2;2;2;4;2;4;4;4;43
+Mymenshing;20;612005005;10902005005;Kewat Khali Moddo Para;Rup Driver Ar Bari;55;253;100;3;3;4;1;3;2;3;3;2;2;3;4;2;4;4;4;47
+Mymenshing;20;612005007;10902005007;Kewat Khali Moddo Para;Shantir Bari;100;460;100;2;1;4;1;1;1;4;2;1;1;2;4;1;4;4;4;37
+Mymenshing;20;612005001;10902005001;Kewat Khali Moddo Para;Sabek Dinu Commisionar Ar Bari;80;368;100;2;1;4;1;4;4;4;3;2;2;3;4;1;4;4;4;47
+Mymenshing;20;612005003;10902005003;Kewat Khali Moddo Para;Md. Kalam Ar Dokan;25;115;100;2;1;4;1;3;2;4;1;1;1;3;4;1;4;4;4;40
+Mymenshing;20;612005002;10902005002;Kewat Khali Moddo Para;Motin Miya Bari;20;92;100;2;1;4;1;4;3;4;3;2;2;2;4;2;4;4;4;46
+Mymenshing;20;612006006;10902006006;Kewat Khali Morol Para 1;Hatem Morol Ar Bari;100;490;100;1;1;4;1;2;1;1;3;3;1;3;4;1;4;4;4;38
+Mymenshing;20;612006004;10902006004;Kewat Khali Morol Para 1;Osman Ar Bari;80;430;100;1;1;4;1;3;1;1;3;3;1;3;4;1;4;4;4;39
+Mymenshing;20;612006002;10902006002;Kewat Khali Morol Para 1;Rain School Somglogno Nadir Par Colony;100;490;25;2;1;4;1;2;1;1;3;3;1;3;3;1;3;2;2;33
+Mymenshing;20;612006003;10902006003;Kewat Khali Morol Para 1;Sobhan Alir Bari;120;502;100;1;3;4;1;3;1;1;3;3;1;3;4;1;4;4;4;41
+Mymenshing;20;612006001;10902006001;Kewat Khali Morol Para 1;Nadir Par Fojol Ar Bari;35;110;47;1;1;4;1;1;1;1;2;3;1;3;1;1;1;2;2;26
+Mymenshing;20;612006005;10902006005;Kewat Khali Morol Para 1;Lal Chan Ar Bari;100;490;100;1;1;4;1;3;1;1;3;3;1;3;4;1;4;4;4;39
+Mymenshing;20;612007005;10902007005;Kewat Khali Morol Para 2;Rohim Miya Driver Bari;34;156;60;1;1;4;1;1;3;4;4;2;2;3;4;3;4;4;4;45
+Mymenshing;20;612007004;10902007004;Kewat Khali Morol Para 2;Mufa Saheb Bari;72;362;45;1;1;4;1;4;2;1;2;2;2;2;4;1;4;4;4;39
+Mymenshing;20;612007002;10902007002;Kewat Khali Morol Para 2;Sowkot Ali Laibery;20;92;100;2;1;4;1;4;2;4;3;3;3;3;4;1;4;4;4;47
+Mymenshing;20;612007001;10902007001;Kewat Khali Morol Para 2;Sirajul Sarkare Rail School;42;194;120;2;1;4;1;4;2;4;3;2;2;3;4;1;4;4;4;45
+Mymenshing;20;612007003;10902007003;Kewat Khali Morol Para 2;Helal Miya Quarter Khali;40;184;80;3;3;4;1;4;1;2;2;1;1;2;3;1;2;4;4;38
+Mymenshing;20;612008005;10902008005;Agra Kanda Noya Para;Hawlader Ar Bari;43;200;35;4;3;4;1;1;1;4;4;3;1;4;4;1;4;4;4;47
+Mymenshing;20;612008004;10902008004;Agra Kanda Noya Para;Tura Master Ar Bari;54;290;35;3;1;4;1;1;1;2;4;3;1;4;4;1;4;4;4;42
+Mymenshing;20;612008003;10902008003;Agra Kanda Noya Para;Suru Morol Ar Bari;72;300;150;1;1;4;1;1;2;2;4;3;1;4;4;1;4;4;4;41
+Mymenshing;20;612008002;10902008002;Agra Kanda Noya Para;Anarer Bari;50;288;200;2;2;4;1;1;2;2;4;3;1;3;4;1;4;4;4;42
+Mymenshing;20;612008001;10902008001;Agra Kanda Noya Para;Nobin Morol Ar Bari;41;200;150;3;3;4;1;1;2;2;4;3;1;3;4;4;4;4;4;47
+Mymenshing;20;612009005;10902009005;Dhansiri BASIC Elaka;Sorker Morh;15;75;45;1;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;42
+Mymenshing;20;612009003;10902009003;Dhansiri BASIC Elaka;Bisik Ar Pichona Edu Miyar Bari;10;46;45;1;1;4;1;1;2;1;3;2;2;4;4;2;4;4;4;40
+Mymenshing;20;612009002;10902009002;Dhansiri BASIC Elaka;Bisik Liton Ar Bari;11;51;5;3;3;4;1;1;2;2;3;3;3;4;4;1;4;4;4;46
+Mymenshing;20;612009001;10902009001;Dhansiri BASIC Elaka;Bicik Morh;56;258;100;1;1;4;1;1;1;1;4;4;1;4;4;4;4;4;4;43
+Mymenshing;20;612009004;10902009004;Dhansiri BASIC Elaka;Unmukto University Ar Pichona;55;335;100;2;1;4;1;1;1;1;3;3;3;4;4;1;4;4;4;41
+Mymenshing;6;610601001;10900601001;Akua Madrasha Quarter;Kacha Bazar Somglogno;7;35;75;2;2;3;1;1;3;1;3;2;3;3;4;2;4;4;4;42
+Mymenshing;6;610601002;10900601002;Akua Madrasha Quarter;Rasheba Vobon Ar Purchem Pasha;21;105;65;2;2;3;2;1;3;2;3;3;3;3;4;2;4;4;4;45
+Mymenshing;6;610601003;10900601003;Akua Madrasha Quarter;Fujbariya Road Baipen;31;155;70;2;2;4;2;2;3;2;3;3;3;3;4;2;4;4;4;47
+Mymenshing;6;610601004;10900601004;Akua Madrasha Quarter;Kacha Bazar;25;125;70;2;2;3;2;1;2;2;3;3;3;3;4;2;4;4;4;44
+Mymenshing;6;610601011;10900601011;Akua Madrasha Quarter;Madrasha Quarter LiLimiLi Garden Ar Pasha;55;255;75;2;2;4;1;1;3;2;3;2;3;3;4;2;4;4;4;44
+Mymenshing;6;610601005;10900601005;Akua Madrasha Quarter;Fulbariya Bailen 1;22;105;60;2;2;3;2;1;3;3;3;3;3;3;4;2;4;4;4;46
+Mymenshing;6;610601006;10900601006;Akua Madrasha Quarter;Futabariya Road Baipen;25;125;72;2;2;4;3;2;3;2;3;3;3;3;4;2;4;4;4;48
+Mymenshing;6;610601007;10900601007;Akua Madrasha Quarter;Zela Masjid Quarter;50;350;70;2;3;4;1;3;3;2;2;3;2;3;4;2;4;4;4;46
+Mymenshing;6;610601008;10900601008;Akua Madrasha Quarter;Madrasha Korbar Poschem Pasha;20;100;70;2;2;3;1;1;3;2;3;3;2;3;4;2;4;4;4;43
+Mymenshing;6;610601009;10900601009;Akua Madrasha Quarter;Muslem Vilar Pasha;25;125;65;2;3;4;1;3;3;2;2;3;3;3;4;2;4;4;4;47
+Mymenshing;6;610601010;10900601010;Akua Madrasha Quarter;Quarter Mosjider Pasha;21;105;65;2;2;3;1;1;3;2;3;3;2;3;4;2;4;4;4;43
+Mymenshing;6;610602002;10900602002;Fakua Hazi Bari;Vangari Dulal Miyar Bari;150;750;90;2;3;4;2;2;4;3;3;3;2;1;4;3;4;4;4;48
+Mymenshing;6;610602001;10900602001;Fakua Hazi Bari;Khosru Miyar Bari;70;350;100;2;3;4;4;3;4;4;4;4;4;3;4;4;4;4;4;59
+Mymenshing;6;610602003;10900602003;Fakua Hazi Bari;Bikro Pur Potti;100;500;40;2;1;4;1;3;3;3;3;2;2;1;4;1;4;4;4;42
+Mymenshing;6;610602004;10900602004;Fakua Hazi Bari;Golondajer Bari;50;250;40;2;2;4;1;2;4;4;3;3;3;3;4;2;4;4;4;49
+Mymenshing;6;610602005;10900602005;Fakua Hazi Bari;Tofatul Mohila Madrasha;40;200;80;4;3;4;2;4;3;4;4;4;4;1;4;4;4;4;4;57
+Mymenshing;6;610603007;10900603007;Akua Chowrongi Mor;Miraj Miyar Bari;170;850;120;2;2;4;1;2;3;3;2;3;2;2;4;3;4;4;4;45
+Mymenshing;6;610603004;10900603004;Akua Chowrongi Mor;Hej Mollar Bari;120;600;100;3;1;4;1;1;2;2;2;1;1;1;4;2;4;4;4;37
+Mymenshing;6;610603001;10900603001;Akua Chowrongi Mor;Kala Miyar Bari;50;250;45;2;3;4;3;3;4;4;3;3;2;1;4;3;4;4;4;51
+Mymenshing;6;610603002;10900603002;Akua Chowrongi Mor;Halima Commisioner Ar Bari;60;300;60;2;1;4;1;1;4;3;4;3;2;2;4;3;4;4;4;46
+Mymenshing;6;610603005;10900603005;Akua Chowrongi Mor;Ismayel Monsir Bari;100;500;95;3;3;4;1;3;3;4;2;2;1;2;4;2;4;4;4;46
+Mymenshing;6;610603006;10900603006;Akua Chowrongi Mor;Khokon Master Ar Bari;125;625;70;3;3;4;1;3;4;4;2;2;2;2;4;2;4;4;4;48
+Mymenshing;6;610603008;10900603008;Akua Chowrongi Mor;Milon Bag;160;800;27;2;2;4;1;4;3;2;3;3;2;3;4;3;4;4;4;48
+Mymenshing;6;610603009;10900603009;Akua Chowrongi Mor;Jolil Miyar Bari;150;750;100;2;3;4;2;2;3;3;3;3;3;1;4;3;4;4;4;48
+Mymenshing;6;610603011;10900603011;Akua Chowrongi Mor;Dulu Amper Bari;75;375;100;2;2;4;4;3;4;4;4;3;3;3;4;3;4;4;4;55
+Mymenshing;6;610603010;10900603010;Akua Chowrongi Mor;Buduyar Bari;70;350;110;2;2;4;2;2;4;4;3;3;2;3;4;3;4;4;4;50
+Mymenshing;6;610603003;10900603003;Akua Chowrongi Mor;Ajij Miyar Bosote;80;400;70;3;1;4;1;3;4;3;3;3;2;1;4;3;4;4;4;47
+Mymenshing;6;610604009;10900604009;Akua Uttor Para;Nasira Bad Collage Road;40;160;80;1;1;4;1;4;2;3;4;2;1;1;4;1;1;4;4;38
+Mymenshing;6;610604007;10900604007;Akua Uttor Para;Bagan Bari;70;350;100;1;1;4;1;3;2;3;2;1;1;1;4;1;4;4;4;37
+Mymenshing;6;610605004;10900605004;Senbari Road;Sen Bari (Altaf Mowlanar Bari);25;100;50;2;1;4;2;2;3;4;4;3;3;2;4;3;4;4;4;49
+Mymenshing;6;610605002;10900605002;Senbari Road;Sen Bari Mosjid Road;25;100;25;3;3;4;1;3;3;2;4;3;3;1;3;2;3;1;3;42
+Mymenshing;6;610605003;10900605003;Senbari Road;Robidas Para;100;500;100;2;3;4;2;3;2;4;3;3;3;1;4;2;4;4;4;48
+Mymenshing;6;610605005;10900605005;Senbari Road;Sen Bari Mosjid Ar Pichona;30;150;70;2;1;4;1;3;1;2;2;3;2;1;3;1;4;4;4;38
+Mymenshing;6;610605001;10900605001;Senbari Road;Senbari Nasirabad Collage;6;24;55;3;3;4;1;2;1;4;4;3;3;3;3;1;2;4;3;44
+Mymenshing;6;610605007;10900605007;Senbari Road;Jenbari Mistry Bari;30;150;40;1;1;4;2;3;1;3;3;3;2;1;4;1;4;4;4;41
+Mymenshing;6;610605006;10900605006;Senbari Road;Fojlu M P Basar Picha;40;200;100;2;3;4;1;3;2;2;2;3;2;1;1;1;4;4;4;39
+Mymenshing;6;610604001;10900604001;Akua Uttor Para;Keya Morh Masjid Road;18;80;65;2;1;4;1;1;4;1;4;2;2;1;1;1;2;4;3;34
+Mymenshing;6;610604002;10900604002;Akua Uttor Para;Melki Profeser Ar Bari;25;125;70;2;1;3;1;3;2;4;2;2;1;2;3;2;4;4;4;40
+Mymenshing;6;610604003;10900604003;Akua Uttor Para;Eyamed Ali Road;60;240;100;2;1;4;1;4;2;2;2;2;1;1;3;2;4;4;4;39
+Mymenshing;6;610604004;10900604004;Akua Uttor Para;Anirban School Ar Shamner Goli;130;520;85;3;1;4;1;4;2;4;3;2;1;1;4;1;4;4;4;43
+Mymenshing;6;610604005;10900604005;Akua Uttor Para;Mekandor Saheb Ar Bari;95;480;90;2;1;4;1;4;2;4;4;3;1;1;4;1;4;4;4;44
+Mymenshing;6;610604006;10900604006;Akua Uttor Para;Eshak Member Goli;80;320;80;2;1;4;1;4;2;4;4;3;1;1;4;1;4;4;4;44
+Mymenshing;6;610604008;10900604008;Akua Uttor Para;Nasira Bad;30;150;30;1;1;4;1;2;1;1;4;2;2;1;1;1;1;2;3;28
+Mymenshing;6;610606006;10900606006;S A Sarker Road;Abdulla Goli;50;300;80;2;1;4;1;1;1;2;3;3;3;3;4;2;4;4;4;42
+Mymenshing;6;610606005;10900606005;S A Sarker Road;Majar Sorif Road;60;360;75;2;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;43
+Mymenshing;6;610606003;10900606003;S A Sarker Road;De Care Center;27;135;70;2;1;4;1;1;2;1;3;3;3;3;4;1;4;4;4;41
+Mymenshing;6;610606004;10900606004;S A Sarker Road;Dorga Bari;17;85;65;2;1;4;1;1;3;3;3;3;3;3;4;2;4;4;4;45
+Mymenshing;6;610606002;10900606002;S A Sarker Road;Robidas Para;12;64;72;2;1;4;1;1;2;2;3;3;3;3;4;2;4;4;4;43
+Mymenshing;6;610606001;10900606001;S A Sarker Road;Gaju Miyar Bari;20;100;57;3;3;4;2;1;2;4;3;3;3;3;4;2;4;4;4;49
+Mymenshing;6;610607002;10900607002;Lichu Bagan Road;Samsu Paglar Bari;60;300;70;2;3;4;3;3;3;3;3;2;2;2;4;3;4;4;4;49
+Mymenshing;6;610607001;10900607001;Lichu Bagan Road;Akua Madrasha Quarter;50;250;50;2;1;4;1;2;2;4;2;3;2;2;4;2;4;4;4;43
+Mymenshing;6;610607004;10900607004;Lichu Bagan Road;Oli Manso Bari;6;30;70;2;1;4;1;1;1;1;2;3;1;1;3;3;2;1;3;30
+Mymenshing;6;610607003;10900607003;Lichu Bagan Road;Rana Profesor Ar Bari;15;75;50;2;2;4;2;1;4;4;3;3;2;3;2;3;3;4;3;45
+Mymenshing;6;610608006;10900608006;Sankipara Bazar;Bazar Somglogno;7;35;70;4;3;4;2;1;3;2;3;3;3;3;4;2;4;4;4;49
+Mymenshing;6;610608005;10900608005;Sankipara Bazar;Nojrul Vilar Pasha;12;60;55;2;1;3;2;1;2;2;3;3;3;3;4;2;4;4;4;43
+Mymenshing;6;610608003;10900608003;Sankipara Bazar;Kalu Miyar Bari;25;150;80;2;1;4;1;1;3;3;2;3;3;3;4;1;4;4;4;43
+Mymenshing;6;610608004;10900608004;Sankipara Bazar;Nojru Lavila Dokhin Pasha;7;35;52;2;1;1;1;1;1;1;2;3;3;3;2;1;2;1;3;28
+Mymenshing;6;610608002;10900608002;Sankipara Bazar;Defaspati Beporit Pasha;10;40;75;2;1;4;2;1;2;2;3;3;3;3;4;2;4;4;4;44
+Mymenshing;6;610608001;10900608001;Sankipara Bazar;Anarer Goli;40;240;75;2;1;3;1;1;2;1;3;3;3;3;4;2;4;4;4;41
+Mymenshing;7;610701003;10900701003;Lichu Bagan Road;Malek Vai Ar S-Mil Ar Nicha;10;55;25;1;2;1;1;1;1;1;1;1;1;1;1;1;1;2;2;19
+Mymenshing;7;610701002;10900701002;Lichu Bagan Road;Samim Chember Ar Pichone;50;270;55;2;2;2;1;1;1;1;2;1;1;1;1;1;2;2;1;22
+Mymenshing;7;610701001;10900701001;Lichu Bagan Road;Pinu Vaiyar Hotel;22;175;75;2;2;3;2;1;1;1;1;1;1;1;1;1;2;2;1;23
+Mymenshing;7;610702007;10900702007;Mritonzoyi School Road;18 No. Mritinzoyi School Road;12;64;80;1;1;4;1;4;1;4;4;4;2;4;1;4;2;2;3;42
+Mymenshing;7;610702005;10900702005;Mritonzoyi School Road;6 No. K.B Ismayel Road;19;85;80;4;4;4;1;1;4;4;4;4;3;4;4;4;4;4;4;57
+Mymenshing;7;610702006;10900702006;Mritonzoyi School Road;15/Kho Mritinzoyi School Ar Pasha;13;80;70;1;1;4;1;4;1;1;4;4;2;4;4;4;4;4;4;47
+Mymenshing;7;610702001;10900702001;Mritonzoyi School Road;Kachari Masjid Ar Pasha;8;40;60;2;3;3;3;1;2;2;2;4;2;2;4;2;3;2;3;40
+Mymenshing;7;610702002;10900702002;Mritonzoyi School Road;Kacha Road I Stibi Ar Shamne;5;25;100;2;2;4;1;1;4;2;4;4;2;4;4;4;4;4;4;50
+Mymenshing;7;610702004;10900702004;Mritonzoyi School Road;Boding;8;40;35;1;1;4;1;4;1;2;4;4;2;1;1;1;1;2;3;33
+Mymenshing;7;610702003;10900702003;Mritonzoyi School Road;29 No. Kachari Road;10;50;100;2;1;4;1;2;1;2;4;4;2;4;1;4;4;4;4;44
+Mymenshing;7;610704002;10900704002;Gol Pukur Par;Shuvoder Bari;25;125;200;1;1;4;1;1;2;1;3;3;4;3;2;1;3;1;3;34
+Mymenshing;7;610704001;10900704001;Gol Pukur Par;Penader Bari;10;50;150;1;1;4;1;1;1;1;2;3;1;3;2;1;3;2;3;30
+Mymenshing;7;610704008;10900704008;Gol Pukur Par;Panir Tanki;44;200;200;2;1;4;1;3;2;1;3;1;2;2;2;1;3;3;3;34
+Mymenshing;7;610704006;10900704006;Gol Pukur Par;Nirmol Der Bari;15;75;140;1;1;4;1;1;2;1;2;3;3;3;2;2;3;1;3;33
+Mymenshing;7;610704004;10900704004;Gol Pukur Par;Choron/ Noyon Der Bari;16;75;200;1;1;4;1;1;1;1;3;3;3;3;4;2;4;4;4;40
+Mymenshing;7;610704005;10900704005;Gol Pukur Par;Joider Bari;8;40;120;2;1;4;1;1;2;1;4;2;3;3;4;3;4;4;4;43
+Mymenshing;7;610704003;10900704003;Gol Pukur Par;Mono Vaider Bari;25;125;150;1;1;4;1;1;3;1;4;4;3;3;3;3;4;4;4;44
+Mymenshing;7;610704007;10900704007;Gol Pukur Par;Moneder Bari;32;172;180;1;1;4;1;1;2;1;2;3;2;2;3;2;3;3;3;34
+Mymenshing;7;610705001;10900705001;18 Bari Building;Mukti Jodda Songsod;5;25;50;2;3;4;2;1;2;4;4;2;3;3;3;2;3;2;3;43
+Mymenshing;7;610705002;10900705002;18 Bari Building;2 No. Esan Chotro/Borti Road Gol Pukur Par;10;50;100;2;1;3;1;4;4;4;4;4;3;4;4;2;4;4;4;52
+Mymenshing;7;610705003;10900705003;18 Bari Building;Gol Pukur Par Lohar Market;13;75;45;2;1;4;1;1;1;4;4;4;3;4;4;2;4;4;4;47
+Mymenshing;7;610706001;10900706001;Amla Para;15/Onit Babu Road;5;15;80;1;1;4;1;1;1;4;4;4;2;4;4;4;4;4;4;47
+Mymenshing;7;610706002;10900706002;Amla Para;17 No. T.N Roy Road;5;20;40;2;1;4;1;1;1;1;4;4;2;4;4;4;4;2;2;41
+Mymenshing;7;610706004;10900706004;Amla Para;Monder Ar Bepored Pasha;12;50;35;1;1;4;1;1;1;4;4;4;2;4;4;4;4;4;4;47
+Mymenshing;7;610706005;10900706005;Amla Para;Anoyara Mosjid Ar Pasha;5;25;45;4;4;4;1;1;4;4;4;4;4;4;4;4;4;4;4;58
+Mymenshing;7;610706003;10900706003;Amla Para;Amla Para Monder;5;25;35;1;1;4;1;1;4;4;4;4;2;4;4;4;4;4;4;50
+Mymenshing;7;610707005;10900707005;Hari Kishor Rai Road;Hannan Saheb Ar Garaj Ar Pichona;7;35;90;2;1;4;1;1;1;1;3;2;4;4;3;2;4;4;4;41
+Mymenshing;7;610707003;10900707003;Hari Kishor Rai Road;Vulon Vai Ar Bashar Pichona;40;200;90;1;1;4;1;2;1;1;2;1;1;4;1;1;2;2;3;28
+Mymenshing;7;610707001;10900707001;Hari Kishor Rai Road;Mohela Teachers Traning Ar Pichona;30;150;30;4;1;4;1;2;1;1;2;1;3;4;2;1;1;2;3;33
+Mymenshing;7;610707002;10900707002;Hari Kishor Rai Road;Mohela Teachers Traning Collage Ar Pasha;7;35;30;4;1;4;1;2;1;1;2;2;4;4;2;1;1;1;3;34
+Mymenshing;7;610707004;10900707004;Hari Kishor Rai Road;Afroj Khan school Ar Pichona;15;75;100;1;4;4;1;2;1;1;2;1;1;4;1;1;2;2;3;31
+Mymenshing;7;610708001;10900708001;Pandit Para;NSI Office Ar Dokkhin Pasha;40;200;100;2;1;4;1;1;2;1;2;3;2;4;3;2;3;2;3;36
+Mymenshing;7;610708002;10900708002;Pandit Para;Pandit Bari/ Monder;10;50;80;2;3;4;3;1;4;4;4;4;4;4;4;3;4;4;4;56
+Mymenshing;7;610708003;10900708003;Pandit Para;5 No. Pandit Bari;10;40;100;4;2;4;3;1;4;2;4;4;4;4;4;2;4;4;4;54
+Mymenshing;7;610708004;10900708004;Pandit Para;Alemul Hok And Ar Babar Bari;9;45;90;2;1;4;1;1;4;1;4;4;4;4;2;2;3;2;4;43
+Mymenshing;7;610708005;10900708005;Pandit Para;27 Shamachoron Roi Road;30;150;60;2;1;4;1;1;3;1;3;4;3;2;2;2;2;2;3;36
+Mymenshing;7;610709005;10900709005;Laboratory School;Laboratory High Schoo Ar Pukur Ar Shamnel;30;152;70;1;1;2;1;1;1;2;2;1;1;2;1;1;2;1;2;22
+Mymenshing;7;610709004;10900709004;Laboratory School;Laboratory School Ar Pasha;40;200;75;2;1;4;2;2;2;2;3;2;2;3;1;1;2;2;3;34
+Mymenshing;7;610709003;10900709003;Laboratory School;Reb Officer Ar Uttorh Pasha;15;62;55;1;1;4;1;2;1;3;3;3;1;3;3;1;2;2;2;33
+Mymenshing;7;610709002;10900709002;Laboratory School;Kachare Ukil Laboratory Songlongno;25;150;100;2;1;3;1;1;1;1;4;2;2;1;3;1;2;2;2;29
+Mymenshing;7;610709001;10900709001;Laboratory School;Khalek Ar Sofin;60;370;35;1;2;1;1;1;1;1;1;1;1;1;1;1;2;2;2;20
+Mymenshing;14;611407001;10901407001;Nayapara/Char Para;Babul Vai;15;63;75;3;1;4;2;1;3;4;4;4;3;2;4;2;3;4;4;48
+Mymenshing;9;610902003;10900902003;Kobor Khana Road/ to Kali Bari Mor;Rupon Devnath;9;36;100;4;4;4;1;1;1;2;4;4;2;4;4;4;4;4;4;51
+Mymenshing;9;610902004;10900902004;Kobor Khana Road/ to Kali Bari Mor;1/A/09 Kobor Khana;20;80;40;4;4;4;1;2;4;2;4;4;3;3;4;4;4;4;4;55
+Mymenshing;18;611812002;10901812002;Rail Colony;(No score card data. Avergae value of other settlements within the mahalla has been put);67;316;60;2;1;4;1;1;2;1;2;2;2;2;3;2;3;3;3;34
+Mymenshing;15;611502009;10901502009;Masocbeda Uttor Para;(No score card data. Avergae value of other settlements within the mahalla has been put);28;131;46;2;2;4;1;1;2;2;4;3;3;2;4;1;4;4;4;43
+Mymenshing;19;611909003;10901909003;Shimultali;(No score card data. Average value of other settlements within the mahalla has been put) ;108;346;100;1;1;4;1;1;1;1;2;1;1;2;4;1;4;4;4;33
+Mymenshing;13;611304001;10901304001;Bashbari Colony (Old);Bash Bare Kolony Bajar;400;2010;65;2;1;4;1;1;1;4;2;2;1;1;1;1;2;2;3;29

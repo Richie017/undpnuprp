@@ -1,0 +1,47 @@
+{% extends 'shared/_viewport.html' %}
+
+{% block header %}
+    <h1>
+        Excel File Import
+        <small>
+            <i class="icon-double-angle-right"></i>
+
+        </small>
+    </h1>
+{% endblock %}
+
+{% block content %}
+
+    <div class="page-content">
+        <form action="" method="post" class="form-horizontal" enctype="multipart/form-data">
+            {% csrf_token %}
+            {% load widget_tweaks %}
+            {% load blackwidow_filter %}
+            {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+                {% for field in form %}
+                    {% if field|is_hidden %}
+                        {% render_field field|add_error_class:'input-validation-error' %}
+                    {% else %}
+                        <div class="control-group">
+                            <label class="control-label" for="{{ field.name.lower }}">{{ field.label }}</label>
+                            <div class="controls">{% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ field.name.lower }}"></span>
+                                <br/>
+                                <p class="text-error">{{ field.errors }} </p>
+{#                                {{ field.non_field_errors }}#}
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% endwith %}
+            <div class="control-group span12">
+                <div class="controls">
+                    <input type="submit" name="submit" class="btn-small btn-primary" value="Save" />
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+{% endblock %}
+

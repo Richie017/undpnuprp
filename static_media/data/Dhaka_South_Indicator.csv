@@ -1,0 +1,787 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Dhaka South City Corporation;1;1230101001;;South Society;Bosti behind Shah Tilma Masjid;31;100;20;4;4;4;4;4;3;4;3;2;2;4;2;2;2;1;1;46
+Dhaka South City Corporation;1;1230103001;;Tilpapara;Tarabag Society;16;80;20;1;1;4;3;4;2;1;2;1;1;1;2;2;2;1;3;31
+Dhaka South City Corporation;1;1230104001;;Bottola;Tutul er Bosti ( North);700;2800;70;1;1;4;3;4;2;1;2;2;2;4;2;2;2;1;2;35
+Dhaka South City Corporation;1;1230104002;;Bottola;Tajur Bosti;60;250;4;1;1;4;4;4;2;1;2;1;1;2;1;1;1;2;1;29
+Dhaka South City Corporation;1;1230104003;;Bottola;Tutul er Bosti ( South);150;600;60;2;1;4;4;4;2;1;3;2;2;4;2;2;2;1;2;38
+Dhaka South City Corporation;1;1230104004;;Bottola;Baitul Huda Adjacent ;300;1000;50;1;1;4;4;4;2;1;2;1;1;2;2;2;2;1;2;32
+Dhaka South City Corporation;2;1230201001;;Paschim Goran;Chartola Goli Bosti;15;60;25;4;4;4;4;4;3;4;4;4;4;3;4;3;4;1;3;57
+Dhaka South City Corporation;2;1230201002;;Paschim Goran;Tempu Stand Bosti ( Goran);11;33;25;4;4;4;4;4;4;4;4;3;3;4;4;3;4;1;3;57
+Dhaka South City Corporation;2;1230201003;;Paschim Goran;Nababi Mor Bosti;10;35;20;4;4;4;4;4;4;4;3;3;4;3;4;4;4;1;3;57
+Dhaka South City Corporation;2;1230201004;;Paschim Goran;Siddik Bazar Bosti;10;40;20;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230201005;;Paschim Goran;Santipur 5 No. Road Bosti;45;135;27;4;3;4;3;4;3;4;3;3;3;3;4;3;4;1;3;52
+Dhaka South City Corporation;2;1230201006;;Dakkhin Goran;Vate Mora Goli Bosti;22;88;15;4;4;4;4;4;4;4;1;4;1;3;4;1;2;1;3;48
+Dhaka South City Corporation;2;1230202001;;Dakkhin Goran;Chapra Masjid Road Bosti;47;188;30;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230202002;;Dakkhin Goran;31 No Road Bosti;15;70;30;1;2;4;4;3;4;4;1;1;1;3;4;1;4;1;3;41
+Dhaka South City Corporation;2;1230202003;;Dakkhin Goran;# 0 No Road Bosti;13;52;23;4;4;4;4;4;4;4;1;2;1;4;4;4;2;2;3;51
+Dhaka South City Corporation;2;1230202004;;Dakkhin Goran;Kaba Chaya Goli Bosti;40;160;35;4;4;3;3;2;1;4;4;3;1;3;4;1;2;1;3;43
+Dhaka South City Corporation;2;1230202005;;Dakkhin Goran;Shantipur 7 No Road Bosti;21;84;15;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230202006;;Dakkhin Goran;Hawai Goli Bosti;25;100;8;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230202007;;Dakkhin Goran;Kibriya Goli Road Bosti;32;128;20;4;3;4;4;4;4;4;4;4;1;3;4;1;2;1;3;50
+Dhaka South City Corporation;2;1230202008;;Dakkhin Goran;6 No road bosti;14;56;15;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230202009;;Dakkhin Goran;Kabachaya Goli Bosti;25;100;30;4;4;3;3;2;1;4;4;3;1;3;4;1;2;1;3;43
+Dhaka South City Corporation;2;1230203001;;Uttor Purbo Goran;Hawai Goli Karim Masjid Bosti;75;300;20;4;4;4;4;4;4;1;4;4;1;3;4;1;2;1;3;48
+Dhaka South City Corporation;2;1230203002;;Uttor Purbo Goran;Haji Masjid Bosti;25;100;10;2;1;4;4;4;3;1;2;4;1;3;1;1;2;1;3;37
+Dhaka South City Corporation;2;1230203003;;Uttor Purbo Goran;Madina Masjid;16;64;25;4;2;4;4;4;2;4;4;4;1;3;4;1;2;1;3;47
+Dhaka South City Corporation;2;1230203004;;Uttor Purbo Goran;9 No Road Bosti;13;52;10;4;2;4;4;4;2;4;4;4;1;3;1;1;2;1;3;44
+Dhaka South City Corporation;2;1230203005;;Uttor Purbo Goran;Icecream Goli Bosti;17;68;15;4;4;4;4;4;4;4;4;4;1;3;4;1;2;1;3;51
+Dhaka South City Corporation;2;1230204001;;Dakkhin Banasree;Nobinbag Bosti;250;1000;30;4;3;4;3;4;3;4;3;3;4;3;4;3;4;1;3;53
+Dhaka South City Corporation;2;1230204002;;Dakkhin Banasree;Nobinbag Road Bosti;200;800;30;4;3;4;3;4;3;4;3;3;4;3;4;3;4;1;3;53
+Dhaka South City Corporation;3;1230301001;;Aftab Nagar;Kabiraj Bari;50;300;8;3;1;4;1;4;4;2;4;3;3;3;4;3;4;4;4;51
+Dhaka South City Corporation;3;1230301002;;Aftab Nagar;Angarjora;150;800;10;4;1;4;3;4;4;4;4;4;3;4;4;2;3;4;4;56
+Dhaka South City Corporation;3;1230303001;;Ansarbag & Nayapara;Sohag Company Bosti 1;50;302;21;4;4;4;4;4;4;4;3;2;1;4;1;1;1;1;2;44
+Dhaka South City Corporation;3;1230303002;;Ansarbag & Nayapara;Sohag Company Bosti 2;34;204;21;4;4;4;3;4;4;4;3;2;1;4;1;1;1;1;2;43
+Dhaka South City Corporation;3;1230304001;;Vuiyapara;Vuiyapara Bosti 1;150;600;24;4;4;4;3;4;4;4;4;3;1;3;4;1;4;1;3;51
+Dhaka South City Corporation;3;1230304002;;Vuiyapara;Nobinbag Area;320;1280;25;4;4;4;4;4;4;4;3;2;1;2;3;1;4;1;3;48
+Dhaka South City Corporation;3;1230304003;;Vuiyapara;Primary School Adjacent Bosti;40;200;30;4;4;4;3;4;4;4;2;4;2;4;1;1;1;1;2;45
+Dhaka South City Corporation;4;1230401001;;Uttor, Uttor Purbo, Moddho Bashabo;1/23/B-2, Purbo Basabo;21;105;5;2;4;4;4;4;4;1;4;4;2;4;4;2;4;1;3;51
+Dhaka South City Corporation;4;1230401002;;Uttor, Uttor Purbo, Moddho Bashabo;1/25/6 Moddho Basabo;25;100;30;2;1;4;1;3;3;1;2;1;1;4;4;4;4;4;3;42
+Dhaka South City Corporation;4;1230401003;;Uttor, Uttor Purbo, Moddho Bashabo;Moddho Basabo ;28;112;10;4;4;4;4;4;3;3;3;4;3;3;4;1;4;4;3;55
+Dhaka South City Corporation;4;1230401004;;Uttor, Uttor Purbo, Moddho Bashabo;8/1, Uttor Basabo;18;72;16;4;4;4;4;4;4;4;4;4;4;3;4;1;2;1;3;54
+Dhaka South City Corporation;4;1230401005;;Uttor, Uttor Purbo, Moddho Bashabo;Moonlight;13;52;19;4;4;4;4;4;4;4;4;4;2;3;4;1;2;1;3;52
+Dhaka South City Corporation;4;1230403001;;Purbo Basabo,Cayabithi,Mathertec;Madartek Sarkarpara Bosti;13;52;10;4;4;4;4;4;4;4;4;4;2;3;4;1;2;1;3;52
+Dhaka South City Corporation;4;1230403002;;Purbo Basabo,Cayabithi,Mathertec;Pathan Bari;15;60;40;4;4;4;4;4;4;4;4;4;2;4;4;1;4;4;2;57
+Dhaka South City Corporation;4;1230403003;;Purbo Basabo,Cayabithi,Mathertec;Shahanaz Manjil;10;40;20;2;4;4;4;4;4;4;4;4;2;4;4;1;4;1;2;52
+Dhaka South City Corporation;4;1230404001;;Mathertec;Shantipara;12;48;20;4;4;4;4;3;3;4;3;4;1;3;4;1;4;4;2;52
+Dhaka South City Corporation;4;1230404002;;Mathertec;Anwarpara;10;70;25;4;4;4;4;4;4;4;3;4;2;4;4;4;4;4;2;59
+Dhaka South City Corporation;5;1230501001;;North Rajarbag;Manoranjan Babu Bosti;19;80;20;4;4;4;4;4;1;4;1;2;1;1;4;1;1;1;3;40
+Dhaka South City Corporation;5;1230501002;;North Rajarbag;Abdul Khalek Bosti;10;70;25;2;1;4;4;4;1;1;1;2;2;1;3;2;1;1;3;33
+Dhaka South City Corporation;5;1230501003;;North Rajarbag;Narayan Chandra Bosti;29;117;25;4;4;4;4;4;2;4;1;2;2;3;4;1;1;1;3;44
+Dhaka South City Corporation;5;1230501004;;North Rajarbag;Sattajit Das Bosti;20;110;16;2;2;4;4;3;3;1;1;3;2;1;4;1;1;1;3;36
+Dhaka South City Corporation;5;1230502001;;South Rajarbag;Bahanno Bari Bosti;52;260;25;1;1;4;2;1;1;1;4;4;2;3;4;1;2;1;3;35
+Dhaka South City Corporation;5;1230502002;;South Rajarbag;Shahin Bosti;21;105;25;4;4;4;4;4;1;4;2;4;2;1;4;1;2;1;3;45
+Dhaka South City Corporation;5;1230502003;;South Rajarbag;South Rajarbag Bosti;10;50;15;4;4;4;4;4;2;4;3;4;2;2;4;1;2;1;3;48
+Dhaka South City Corporation;5;1230502004;;South Rajarbag;Hamida Begum Bosti;11;55;20;2;1;4;2;4;1;1;2;4;2;1;1;1;2;1;3;32
+Dhaka South City Corporation;5;1230502005;;South Rajarbag;Khalek Bosti;30;150;35;4;4;4;4;4;1;2;3;4;3;2;4;1;2;1;3;46
+Dhaka South City Corporation;5;1230503001;;Kodomtola East Basabo;Patwary Goli Bosti;29;78;6;2;4;4;4;4;4;3;4;4;3;4;4;1;4;1;2;52
+Dhaka South City Corporation;5;1230503002;;Kodomtola East Basabo;Khalpar Bosti;22;45;8;1;1;4;4;4;3;1;4;4;3;4;4;1;4;1;2;45
+Dhaka South City Corporation;5;1230503003;;Kodomtola East Basabo;Bibi Moriom Bosti;33;138;7;4;4;4;4;4;2;3;4;4;3;4;1;1;3;1;2;48
+Dhaka South City Corporation;5;1230503004;;Kodomtola East Basabo;76/5 Bosti- 9 No Lane;20;67;6;1;1;4;4;4;2;3;4;4;2;4;4;1;4;1;2;45
+Dhaka South City Corporation;5;1230503005;;Kodomtola East Basabo;Nurer Bosti;48;240;30;2;1;4;4;4;4;1;3;4;2;4;4;1;4;1;2;45
+Dhaka South City Corporation;5;1230504001;;Kodomtola;Sabuj Golar Bosti;65;370;40;4;4;4;4;3;1;2;1;2;2;1;4;1;2;1;3;39
+Dhaka South City Corporation;5;1230504002;;Kodomtola;Fozor Ali Bosti;11;28;13;4;4;4;4;3;1;2;1;2;2;1;4;1;2;1;3;39
+Dhaka South City Corporation;5;1230504003;;Kodomtola;113 No Bosti;27;75;28;3;4;4;4;3;1;2;1;2;2;1;1;1;2;1;3;35
+Dhaka South City Corporation;5;1230504004;;Kodomtola;114 No. Bosti;10;41;30;3;4;4;4;3;1;2;1;2;2;1;1;1;2;1;3;35
+Dhaka South City Corporation;5;1230504005;;Kodomtola;114/4 No Bosti;28;89;3;3;4;4;4;3;1;2;1;2;2;1;1;1;2;1;3;35
+Dhaka South City Corporation;5;1230505001;;Sabujbag Buddha Mandir;Sayatan Goli Bosti;27;152;35;3;4;4;2;4;3;1;4;4;3;4;4;1;4;1;2;48
+Dhaka South City Corporation;5;1230505002;;Sabujbag Buddha Mandir;36/3H Ahmedbag;11;42;10;2;1;3;4;4;3;3;4;2;2;4;2;2;4;3;3;46
+Dhaka South City Corporation;5;1230505003;;Sabujbag Buddha Mandir;Elin er mar Bosti;32;126;5;2;1;3;3;4;3;2;2;3;3;4;1;1;4;3;3;42
+Dhaka South City Corporation;5;1230505004;;Sabujbag Buddha Mandir;36/3C Ahmedbag ;13;52;9;3;1;2;4;3;4;3;2;2;2;4;3;2;4;3;3;45
+Dhaka South City Corporation;5;1230505005;;Sabujbag Buddha Mandir;102/1 Ahmmehbag;10;48;12;2;1;3;4;4;4;2;3;3;2;4;3;2;4;3;3;47
+Dhaka South City Corporation;5;1230505006;;Sabujbag Buddha Mandir;144/G Ahmedbag;19;56;12;3;1;3;4;4;4;3;2;2;2;4;4;1;4;3;3;47
+Dhaka South City Corporation;5;1230505007;;Sabujbag Buddha Mandir;Andhar Coloney Bosti;10;34;24;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505008;;Sabujbag Buddha Mandir;7 No Mayakanon;15;52;30;3;1;4;4;4;4;3;4;2;2;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505009;;Sabujbag Buddha Mandir;8 No Mayakanon;10;26;30;3;1;4;4;4;1;1;3;3;1;4;4;1;4;1;3;42
+Dhaka South City Corporation;5;1230505010;;Sabujbag Buddha Mandir;12 No Mayakanon;54;250;40;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505011;;Sabujbag Buddha Mandir;44/1 Mayakanon;10;26;32;3;1;3;4;4;2;2;1;3;2;4;4;1;4;1;3;42
+Dhaka South City Corporation;5;1230505012;;Sabujbag Buddha Mandir;31 Mayakanon;36;176;32;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505013;;Sabujbag Buddha Mandir;17 Mayakanon;53;180;40;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505014;;Sabujbag Buddha Mandir;24 No Mayakanon;72;250;40;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505015;;Sabujbag Buddha Mandir;43/23 Sabujkanon;12;38;25;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;5;1230505016;;Sabujbag Buddha Mandir;43/2 Sabujkanon;15;52;27;3;1;4;4;4;4;1;3;4;3;4;4;1;4;1;3;48
+Dhaka South City Corporation;6;1230601001;;North Mugda;Boro Bazar Bosti;6;18;20;4;1;1;3;1;1;1;1;4;2;1;2;2;3;1;1;29
+Dhaka South City Corporation;6;1230601002;;North Mugda;Jhillu Bosti;14;40;8;1;1;3;2;4;1;1;1;1;1;1;1;1;1;1;1;22
+Dhaka South City Corporation;6;1230601003;;North Mugda;Billal Bosti (1);8;25;6;2;3;3;2;4;1;1;1;1;4;2;4;1;1;1;1;32
+Dhaka South City Corporation;6;1230601004;;North Mugda;Halim Vandari Bosti;15;74;18;2;2;4;1;4;1;4;2;3;1;4;1;1;1;1;1;33
+Dhaka South City Corporation;6;1230601005;;North Mugda;Billal Bosti (2);20;60;12;2;3;4;1;4;1;1;1;1;2;1;1;1;3;1;1;28
+Dhaka South City Corporation;6;1230601006;;North Mugda;chan shorif Bosti;45;190;18;2;1;4;1;4;1;4;2;3;1;3;1;1;1;1;1;31
+Dhaka South City Corporation;6;1230601007;;North Mugda;Bachchur Bosti;57;236;14;1;1;4;1;4;1;1;2;3;1;3;1;1;1;1;2;28
+Dhaka South City Corporation;6;1230601008;;North Mugda;Akkachh Vandari Bosti;13;60;12;1;1;4;1;4;1;1;1;3;1;4;1;1;1;1;2;28
+Dhaka South City Corporation;6;1230601009;;North Mugda;Delower Bosti;10;45;12;2;1;4;3;4;1;4;2;3;1;4;1;1;1;1;1;34
+Dhaka South City Corporation;6;1230602001;;South Mugda;Stadium Bosti;19;75;20;2;1;4;2;4;1;4;1;1;1;4;1;1;2;1;1;31
+Dhaka South City Corporation;6;1230602002;;South Mugda;Porabari Bosti;38;160;14;2;1;4;1;4;1;1;2;3;1;3;1;1;1;1;1;28
+Dhaka South City Corporation;6;1230602003;;South Mugda;School Goli Bosti;12;92;20;4;4;4;4;4;1;4;2;3;1;3;1;1;2;1;1;40
+Dhaka South City Corporation;6;1230602004;;South Mugda;Adorsho Goli Bosti;28;120;18;4;2;4;4;4;1;4;2;3;2;4;1;2;2;1;2;42
+Dhaka South City Corporation;6;1230602005;;South Mugda;Anondo Dhara Bosti;33;150;12;4;4;4;4;4;1;4;3;3;1;3;1;1;2;1;1;41
+Dhaka South City Corporation;6;1230602006;;South Mugda;Azim Pappu Bosti;52;220;28;2;1;4;3;4;1;4;2;4;1;3;1;1;2;1;1;35
+Dhaka South City Corporation;7;1230701001;;East WASA, Balur math area;Purbo Manik Nagar;560;2240;60;2;1;4;1;1;1;2;2;1;1;1;4;4;4;4;4;37
+Dhaka South City Corporation;7;1230701002;;East WASA, Balur math area;19 Katha;370;1490;23;2;2;4;1;1;1;2;2;1;1;1;4;4;4;4;4;38
+Dhaka South City Corporation;7;1230702001;;Kazir Bag;Risi Para;140;450;50;2;1;4;4;1;1;4;2;1;3;4;4;4;4;4;4;47
+Dhaka South City Corporation;7;1230703001;;Sandar Goli;Kumilla Potti Hote Anondodhara Bridge;30;150;60;2;1;4;1;1;2;2;2;1;1;1;4;4;4;4;4;38
+Dhaka South City Corporation;7;1230703002;;Sandar Goli;Sandar Goli;50;200;65;2;1;4;1;1;1;2;2;1;1;1;4;4;4;4;4;37
+Dhaka South City Corporation;7;1230704001;;Kumilla Potti;Koborsthan Road/ Molla Tower;475;1900;50;2;1;4;1;1;2;4;2;3;2;2;4;4;4;4;4;44
+Dhaka South City Corporation;8;1230801001;;Kamalapur Station & North Kamalapur;Titipara Railgate Adjacent Settlement;18;68;12;3;2;4;2;4;2;4;2;1;1;1;2;1;2;2;1;34
+Dhaka South City Corporation;8;1230801002;;Kamalapur Station & North Kamalapur;Kamalapur Railway Adjacent Settlement;11;46;10;2;1;2;1;1;1;3;2;2;1;1;1;1;2;2;1;24
+Dhaka South City Corporation;8;1230801003;;Kamalapur Station & North Kamalapur;Titipara Railgate Adjacent Settlement (Near the gate where the rail cars are kept);8;40;10;1;1;1;1;3;1;4;1;1;1;1;1;1;1;2;1;22
+Dhaka South City Corporation;8;1230801004;;Kamalapur Station & North Kamalapur;I.C.D. Gate Adjacent Settlement;8;16;4;3;1;1;1;1;1;3;2;3;1;1;2;1;1;3;1;26
+Dhaka South City Corporation;8;1230802001;;South Kamalapur;Sardar Colony;8;56;80;2;2;4;1;1;2;3;2;2;3;4;4;1;3;2;3;39
+Dhaka South City Corporation;8;1230802002;;South Kamalapur;Graveyard Lane;6;15;35;4;4;4;4;2;3;2;2;3;3;3;3;3;4;4;3;51
+Dhaka South City Corporation;8;1230802003;;South Kamalapur;Nasir er Bosti Bari;20;70;15;1;3;4;4;4;1;3;2;2;1;3;4;1;4;4;4;45
+Dhaka South City Corporation;8;1230802004;;South Kamalapur;Bosti bari;13;60;40;4;3;4;2;3;1;4;1;1;3;2;4;1;4;4;3;44
+Dhaka South City Corporation;8;1230802005;;South Kamalapur;4th Lane;5;15;40;4;2;4;4;3;3;4;3;4;3;4;4;2;4;4;4;56
+Dhaka South City Corporation;8;1230803001;;Gopibag;Titipra Bosti;200;700;35;4;4;4;1;4;3;1;4;4;2;4;4;4;1;2;1;47
+Dhaka South City Corporation;8;1230803002;;Gopibag;Amtola Settlement;10;30;20;4;4;4;1;4;3;4;4;4;2;4;3;2;1;1;1;46
+Dhaka South City Corporation;8;1230803003;;Gopibag;6th Lane;15;65;10;4;4;4;2;4;2;3;4;4;2;4;4;4;4;4;4;57
+Dhaka South City Corporation;8;1230803004;;Gopibag;Rahmatullah;70;260;30;4;4;4;4;4;2;4;4;4;2;4;4;2;2;1;1;50
+Dhaka South City Corporation;8;1230803005;;Gopibag;Gopibag 6th Lane Bosti 2;30;120;30;4;4;4;4;4;2;4;4;4;2;4;4;4;1;1;1;51
+Dhaka South City Corporation;9;1230902001;;Motijheel;Joliler Bosti;56;520;48;4;4;1;1;1;4;4;1;3;4;3;4;4;4;4;4;50
+Dhaka South City Corporation;9;1230902002;;Dilkusha Area;Komor Goli;9;25;15;4;4;3;4;4;3;1;4;4;3;1;3;4;4;1;2;49
+Dhaka South City Corporation;9;1230903001;;Arambagh;Ashfak Bosti;19;71;30;4;1;4;4;4;4;4;4;4;4;2;3;1;1;1;2;47
+Dhaka South City Corporation;11;1231101001;;Shahjahanpur Railway Colony;Fazol Membar Bari;11;80;75;4;4;4;4;4;2;2;3;4;1;2;4;3;3;1;3;48
+Dhaka South City Corporation;11;1231101002;;Shahjahanpur Railway Colony;Edris Khaner Bari;21;84;70;4;3;4;4;4;2;3;2;3;1;2;2;2;3;1;3;43
+Dhaka South City Corporation;11;1231101003;;Shahjahanpur Railway Colony;Sujaruddiner Bari;22;90;65;2;3;4;4;3;2;2;4;3;2;2;3;2;3;1;3;43
+Dhaka South City Corporation;11;1231101004;;Shahjahanpur Railway Colony;Kader Bapari Bari;30;120;60;1;2;4;4;3;1;1;3;3;1;2;2;2;3;1;3;36
+Dhaka South City Corporation;11;1231101005;;Shahjahanpur Railway Colony;Aziz er Bari ;13;52;80;1;3;4;3;4;3;2;3;2;3;2;3;3;3;1;3;43
+Dhaka South City Corporation;11;1231101006;;Shahjahanpur Railway Colony;Gonir Bari;20;60;90;2;2;4;4;3;2;2;3;2;3;2;2;2;3;1;3;40
+Dhaka South City Corporation;11;1231102001;;Uttor Shahjahanpur Bagicha Jheelpar;692 Uttor Shahjahanpur;14;52;65;4;4;4;4;4;3;4;4;3;1;4;4;1;4;1;3;52
+Dhaka South City Corporation;11;1231102002;;Uttor Shahjahanpur Bagicha Jheelpar;Uttor Shahjahanpur 572, 536, 539;18;80;60;4;4;4;4;4;3;4;4;3;1;4;4;1;4;2;3;53
+Dhaka South City Corporation;11;1231102003;;Uttor Shahjahanpur Bagicha Jheelpar;Uttor Shahjahanpur Garir Bosti 516;110;440;65;4;4;4;4;4;2;4;4;2;1;4;4;1;4;1;3;50
+Dhaka South City Corporation;11;1231102004;;Uttor Shahjahanpur Bagicha Jheelpar;Uttor Shahjahanpur Babu Mia 13 Jheelpar;14;50;60;4;4;4;4;4;3;4;4;3;1;4;4;1;4;1;3;52
+Dhaka South City Corporation;11;1231102005;;Uttor Shahjahanpur Bagicha Jheelpar;Uttor Shahjahanpur Parvin 1 Jheelpar;26;80;60;4;4;4;4;4;3;4;4;3;4;4;4;1;4;1;3;55
+Dhaka South City Corporation;11;1231102006;;Uttor Shahjahanpur Bagicha Jheelpar;Parvin Liton Ripon er Bari;108;400;65;1;4;4;4;4;2;4;4;3;1;4;4;1;4;1;3;48
+Dhaka South City Corporation;11;1231103001;;Shahidbagh;Jakir Bari 522;9;30;60;4;4;4;4;3;3;4;4;3;3;4;4;1;4;1;2;52
+Dhaka South City Corporation;11;1231103002;;Shahidbagh;Mirza Abbas Bari 521;15;60;60;4;4;4;4;4;3;4;4;3;3;4;4;4;4;1;2;56
+Dhaka South City Corporation;11;1231103003;;Shahidbagh;Masud, A. Salam, Saiful 36, 907, 918, 930;19;80;60;4;4;4;4;4;3;4;4;3;3;4;4;1;4;1;2;53
+Dhaka South City Corporation;11;1231103004;;Shahidbagh;Karim, Nasir, Babul, Lalmia, Shahjahan 549, 705;24;115;60;4;4;4;4;4;3;4;4;3;3;4;4;1;4;1;2;53
+Dhaka South City Corporation;12;1231201001;;Malibag;Boxibag and Kumilla Potti;350;1380;39;1;1;3;2;2;2;2;2;1;1;1;2;1;3;1;3;28
+Dhaka South City Corporation;12;1231201002;;Malibag;Rahimer Bari;28;115;50;3;4;4;4;4;4;4;4;4;2;3;3;4;3;1;3;54
+Dhaka South City Corporation;12;1231202001;;Gulbag;Indropuri and Jilpar;150;720;45;2;4;4;4;3;3;2;3;4;2;3;4;1;4;1;3;47
+Dhaka South City Corporation;12;1231202002;;Gulbag;Club Mosjid Area;30;115;40;1;1;4;3;3;3;4;3;1;1;2;3;2;3;1;3;38
+Dhaka South City Corporation;12;1231203001;;Shantibag;17 No.;380;1550;40;2;1;2;4;3;3;2;1;1;1;2;4;3;4;1;3;37
+Dhaka South City Corporation;12;1231203002;;Shantibag;Moga Hazir Bosti;130;530;50;2;1;3;4;3;3;2;1;1;1;2;4;3;4;1;3;38
+Dhaka South City Corporation;13;1231301001;;Chamelibagh, Rajarbagh;51/1 Chamelibagh;10;100;20;3;3;4;4;4;3;3;3;3;3;3;3;3;4;3;1;50
+Dhaka South City Corporation;13;1231301002;;Chamelibagh, Rajarbagh;10 Chamelibagh;20;100;50;3;3;4;3;4;3;3;4;3;4;3;3;4;4;4;3;55
+Dhaka South City Corporation;13;1231302001;;Shantinagar East, Shantnagar West, PWD;PWD;30;250;30;3;3;4;4;4;4;4;3;3;3;3;3;3;3;1;3;51
+Dhaka South City Corporation;13;1231302002;;Shantinagar East, Shantnagar West, PWD;Garage Potti;40;200;40;1;3;4;4;4;4;4;3;3;3;3;3;3;4;2;3;51
+Dhaka South City Corporation;13;1231302003;;Shantinagar East, Shantnagar West, PWD;Karim Slum;40;200;25;3;3;3;3;3;4;4;3;3;3;3;3;3;4;3;1;49
+Dhaka South City Corporation;13;1231303001;;Naya Paltan, Puran Paltan Line;17 Naya Paltan;5;25;50;2;2;4;3;4;4;4;4;2;1;1;4;1;4;1;3;44
+Dhaka South City Corporation;13;1231303002;;Naya Paltan, Puran Paltan Line;96/1 Naya Paltan;8;28;45;4;2;4;4;4;4;4;4;2;1;1;4;1;4;1;3;47
+Dhaka South City Corporation;13;1231303003;;Naya Paltan, Puran Paltan Line;152 Naya Paltan;8;30;40;4;4;4;3;4;4;4;4;4;1;1;4;1;4;1;3;50
+Dhaka South City Corporation;13;1231303004;;Naya Paltan, Puran Paltan Line;83 Puran Paltan Line;15;80;50;4;4;4;3;4;4;4;4;2;1;1;4;1;4;1;3;48
+Dhaka South City Corporation;13;1231303005;;Naya Paltan, Puran Paltan Line;Chan Mia House 84/4 Puran Paltan Line;6;42;45;2;4;4;3;4;4;4;4;2;1;1;4;1;4;1;3;46
+Dhaka South City Corporation;13;1231303006;;Naya Paltan, Puran Paltan Line;16 Puran Paltan Line;6;30;45;2;4;4;3;4;4;4;4;2;1;1;4;1;4;1;3;46
+Dhaka South City Corporation;14;1231401001;;Jigatola;Tenarry mor Miya basti;80;320;30;2;1;4;4;4;2;1;4;1;2;1;4;4;4;1;3;42
+Dhaka South City Corporation;14;1231401002;;Jigatola;Bibron kachda;25;200;60;4;1;3;2;4;4;4;3;3;3;3;4;3;4;1;3;49
+Dhaka South City Corporation;14;1231401003;;Jigatola;Khejur Gachtola Basti;70;200;15;4;3;4;4;3;2;3;3;1;2;1;4;4;4;1;3;46
+Dhaka South City Corporation;14;1231402001;;Modhupur;Miarbari Basti;200;1000;15;2;3;4;3;4;4;4;4;3;2;3;3;2;2;2;1;46
+Dhaka South City Corporation;14;1231402002;;Modhupur;Sultangong Basti;75;300;30;4;4;4;4;4;4;4;4;4;3;3;3;4;4;4;3;60
+Dhaka South City Corporation;14;1231403001;;Hazaribagh ;Bou bazar Nuru kosai goli;200;700;30;4;4;4;3;3;3;3;3;3;2;3;3;4;4;4;3;53
+Dhaka South City Corporation;14;1231403002;;Hazaribagh ;Chorokgata baganbari Basti;200;500;20;4;4;3;3;4;4;4;4;4;4;4;4;3;4;4;4;61
+Dhaka South City Corporation;14;1231403003;;Hazaribagh ;Gojhmahon Shikaritola;30;100;30;3;3;4;4;4;3;4;4;4;3;3;3;4;4;1;3;54
+Dhaka South City Corporation;14;1231404001;;Shikdar Medical Area;Balur -matt Basti;300;1000;10;4;4;4;2;3;3;4;3;4;2;3;3;3;4;1;3;50
+Dhaka South City Corporation;14;1231404002;;Shikdar Medical Area;Baroekhali Madrasa goli Basti;500;1500;10;2;2;3;2;2;2;2;3;3;2;2;2;2;4;1;2;36
+Dhaka South City Corporation;15;1231502001;;East Rayer Bazar;Hatembag Raod;60;255;65;2;1;4;4;1;3;1;4;3;3;3;3;2;4;1;3;42
+Dhaka South City Corporation;15;1231502002;;East Rayer Bazar;Rayerbazar Staff Quarter;25;110;50;1;1;4;3;1;2;1;3;3;2;2;3;2;4;1;3;36
+Dhaka South City Corporation;15;1231502003;;East Rayer Bazar;Afsaruddin Road;70;315;80;2;1;4;4;1;3;1;4;3;3;4;4;3;4;1;3;45
+Dhaka South City Corporation;15;1231502004;;East Rayer Bazar;Rayerbazar School Slope;35;150;65;1;1;4;3;1;4;1;4;3;4;4;4;4;4;1;3;46
+Dhaka South City Corporation;16;1231601001;;Free Street School, North Kathalbagan;Gastroliver Goli;50;240;50;1;1;4;4;2;3;1;3;3;3;4;4;3;4;1;3;44
+Dhaka South City Corporation;16;1231601002;;Free Street School, North Kathalbagan;Calvart Road;30;145;50;1;1;4;4;4;1;1;1;3;2;4;4;1;4;1;3;39
+Dhaka South City Corporation;16;1231602001;;Green Corner, Al Amin Road, Kathalbagan Bazar;Laxmibari;55;260;60;1;1;4;4;4;2;1;4;3;3;4;4;3;4;1;3;46
+Dhaka South City Corporation;16;1231602002;;Green Corner, Al Amin Road, Kathalbagan Bazar;Gender Goli;15;75;70;1;1;4;4;4;3;1;4;3;2;4;4;2;4;1;3;45
+Dhaka South City Corporation;16;1231602003;;Green Corner, Al Amin Road, Kathalbagan Bazar;Free Street School;25;125;30;1;1;4;4;2;4;1;4;3;3;4;4;3;4;1;3;46
+Dhaka South City Corporation;16;1231602004;;Green Corner, Al Amin Road, Kathalbagan Bazar;Al Amin Road;25;110;50;1;1;4;4;3;4;1;4;3;3;4;3;2;4;1;3;45
+Dhaka South City Corporation;16;1231603001;;Greenlife Hospital, North Road, Circular Road;Babuler Slam;200;915;70;1;1;4;4;4;3;1;3;3;3;4;4;2;4;1;3;45
+Dhaka South City Corporation;16;1231603002;;Greenlife Hospital, North Road, Circular Road;Nasirullah's House;60;275;50;1;2;4;4;4;1;1;3;3;3;4;4;1;4;1;3;43
+Dhaka South City Corporation;16;1231603003;;Greenlife Hospital, North Road, Circular Road;Al Hera Jame Mosque;15;70;30;1;1;4;4;4;1;1;1;3;2;4;4;1;4;1;3;39
+Dhaka South City Corporation;17;1231701001;;Jute Research Institute;Jute Colony;9;36;14;2;4;4;4;4;4;4;4;3;2;2;1;1;2;3;2;46
+Dhaka South City Corporation;17;1231702001;;Sobhanbag, Talbag, Sukrabad;56/Ka 1 Sukrabad;28;119;15;4;4;4;3;3;3;4;4;3;3;3;4;4;4;4;4;58
+Dhaka South City Corporation;17;1231702002;;Sobhanbag, Talbag, Sukrabad;Abdur Rashid Khandakar House;12;77;20;4;4;4;3;4;4;4;3;3;3;4;4;4;4;4;4;60
+Dhaka South City Corporation;17;1231702003;;Sobhanbag, Talbag, Sukrabad;16/1 Ka Sukrabad;11;48;16;4;3;4;3;4;4;4;3;3;3;3;4;4;4;4;4;58
+Dhaka South City Corporation;17;1231703001;;Kalabagan;Abed Dhali Road, Lake Circus-1;25;125;20;3;4;4;4;4;4;3;3;3;4;3;3;3;4;1;3;53
+Dhaka South City Corporation;17;1231703002;;Kalabagan;Abed Ali Road, Lake Circus-2;23;92;15;3;3;4;4;4;4;1;3;3;2;3;3;2;4;1;2;46
+Dhaka South City Corporation;17;1231703003;;Kalabagan;Fakir Bari;27;135;20;4;4;4;4;4;3;3;2;3;1;4;3;2;4;1;1;47
+Dhaka South City Corporation;17;1231704001;;Staff Quarter;Staff Quarter;15;55;30;4;3;4;3;4;4;4;3;3;3;3;3;2;4;2;3;52
+Dhaka South City Corporation;18;1231801001;;Dhaka College Area, BGB Staff Quarter;Aiub Ali;60;300;20;2;3;4;4;4;3;3;3;3;3;3;3;3;4;4;3;52
+Dhaka South City Corporation;18;1231801002;;Dhaka College Area, BGB Staff Quarter;Shorno potti;20;95;20;3;3;4;3;4;4;3;3;3;4;3;3;3;4;4;3;54
+Dhaka South City Corporation;18;1231802001;;New Market Thana, Babupura, Nilkhet;Bibi Mariom;45;250;25;2;2;4;2;3;3;3;3;3;3;3;3;3;2;3;3;45
+Dhaka South City Corporation;19;1231902001;;Mouchak;Balur mat;8;25;11;4;3;1;3;1;1;2;1;3;1;1;1;1;1;3;1;28
+Dhaka South City Corporation;19;1231902002;;Mouchak;Mogbazar Flyover's Down Part (South);10;34;6;4;3;1;3;1;1;2;1;3;1;1;1;1;1;3;1;28
+Dhaka South City Corporation;19;1231903001;;Shantinagar-Baily Road Area;Shiddeswari Lane Bosti;100;350;70;2;2;4;4;4;4;1;4;3;1;2;4;1;4;4;4;48
+Dhaka South City Corporation;19;1231903002;;Shantinagar-Baily Road Area;Shantinagar Flyover's Down part(South);9;22;5;4;2;1;4;1;1;4;1;1;1;1;4;1;4;3;1;34
+Dhaka South City Corporation;20;1232001001;;Segun Bagicha;Chittagong Hotel Bosti.;24;80;40;4;4;1;1;1;1;4;4;4;3;1;1;1;1;2;1;34
+Dhaka South City Corporation;20;1232001002;;Segun Bagicha;Shrom Bhoboner Backside Bosti.;9;27;10;3;4;1;1;1;1;4;4;1;2;1;1;1;1;3;1;30
+Dhaka South City Corporation;20;1232002001;;DMP Headquarter & Adjacent Area;Railway Colony Bosti;250;1500;50;1;1;2;1;1;1;1;1;1;1;1;1;1;1;2;1;18
+Dhaka South City Corporation;20;1232002002;;DMP Headquarter & Adjacent Area;Shah Shaheb Bari (Pir Yemini Market Backside Bosti);22;117;120;3;3;4;2;1;1;3;3;2;1;1;4;1;4;2;4;39
+Dhaka South City Corporation;20;1232003001;;DMC & Adjacent Area;Anondo Bazar Bosti;2000;10000;50;3;4;4;1;3;1;2;2;4;4;1;1;1;2;2;1;36
+Dhaka South City Corporation;20;1232004001;;Ramna;Tin Netar Mazar Backside Mosjid Bari;45;190;400;2;1;1;1;1;1;2;2;2;1;1;4;1;4;4;4;32
+Dhaka South City Corporation;21;1232101001;;Poribagh;Panthakunjo Park Area;10;30;25;3;3;1;3;3;1;3;3;3;3;1;1;1;1;2;1;33
+Dhaka South City Corporation;21;1232103001;;DU Hall & BUET Area;Shaheed Minar;14;40;15;4;2;1;3;1;1;3;1;3;1;1;1;1;1;1;1;26
+Dhaka South City Corporation;21;1232103002;;DU Hall & BUET Area;Shaheed Minar Road;8;25;40;3;3;1;3;1;1;3;1;3;1;1;1;1;1;2;1;27
+Dhaka South City Corporation;21;1232103003;;DU Hall & BUET Area;Johir Raihan Road;15;45;50;4;4;1;3;1;1;4;1;4;1;1;1;1;1;2;1;31
+Dhaka South City Corporation;21;1232103004;;DU Hall & BUET Area;Boxibazar More;9;28;8;3;2;1;2;1;1;3;1;1;1;1;1;1;1;1;1;22
+Dhaka South City Corporation;22;1232201001;;Nilambbor Saha Road, Bhagolpur;Ganaktuli Road;200;1000;25;3;3;3;4;3;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;22;1232201002;;Nilambbor Saha Road, Bhagolpur;Moneswor Lane;150;1200;20;3;3;3;3;4;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;22;1232201003;;Nilambbor Saha Road, Bhagolpur;Enayateganj  Lane;600;1500;30;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;22;1232202001;;Enayetganj, Baddanagar;Kajir Bari;120;600;30;3;3;4;4;4;3;3;3;3;3;2;3;4;4;1;3;50
+Dhaka South City Corporation;22;1232202002;;Enayetganj, Baddanagar;Baddanagar Lane 2;80;280;20;3;3;3;4;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;22;1232202003;;Enayetganj, Baddanagar;M C Roy Lane;100;600;20;3;3;3;4;3;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;22;1232203001;;Moneswor 1st Lane, Ganaktuli, Moneswor 2nd Lane, Hazaribagh, Hazaribagh Lane, Borhanpur;Bhagolpur Lane;200;800;20;3;3;4;3;4;3;3;3;3;3;3;3;4;4;3;3;52
+Dhaka South City Corporation;22;1232203002;;Moneswor 1st Lane, Ganaktuli, Moneswor 2nd Lane, Hazaribagh, Hazaribagh Lane, Borhanpur;Nilambbor Saha Road;120;500;18;3;3;3;3;4;3;3;3;3;4;3;3;3;4;1;3;49
+Dhaka South City Corporation;22;1232203003;;Moneswor 1st Lane, Ganaktuli, Moneswor 2nd Lane, Hazaribagh, Hazaribagh Lane, Borhanpur;Jalle Para;150;700;20;3;3;3;3;3;3;3;3;3;3;3;3;3;4;1;3;47
+Dhaka South City Corporation;22;1232203004;;Moneswor 1st Lane, Ganaktuli, Moneswor 2nd Lane, Hazaribagh, Hazaribagh Lane, Borhanpur;Baddanagar Lane 1;40;150;25;2;3;4;3;4;3;3;3;3;4;3;2;4;4;4;3;52
+Dhaka South City Corporation;22;1232203005;;Moneswor 1st Lane, Ganaktuli, Moneswor 2nd Lane, Hazaribagh, Hazaribagh Lane, Borhanpur;Hazaribag Lane, Beribadh;150;800;22;2;3;4;3;4;3;3;3;3;4;3;2;4;4;4;3;52
+Dhaka South City Corporation;22;1232204001;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Hazaribag Bottola;50;300;20;3;3;3;3;3;3;3;3;3;3;3;4;4;4;1;3;49
+Dhaka South City Corporation;22;1232204002;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Notun Road Bottola;50;300;10;3;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;49
+Dhaka South City Corporation;22;1232204003;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Jane Alam Community ;200;1200;25;2;3;4;3;3;3;4;3;3;3;3;3;2;4;1;3;47
+Dhaka South City Corporation;22;1232204004;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Bongomata Fazilatunnesa College Side;50;250;20;3;3;4;3;3;3;3;3;3;4;3;2;3;4;1;3;48
+Dhaka South City Corporation;22;1232204005;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Mahataf Pamp;100;500;20;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;22;1232204006;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Bhagolpur Lane;120;600;30;3;3;3;3;3;4;3;3;4;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;22;1232204007;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Kulalmahal Lane;200;1300;20;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;22;1232204008;;Kulalmahal, Bhagolpur, Kazirbagh, Kalunagor Nabibur Lane;Hazaribag Lane;100;500;20;3;3;3;3;3;4;3;3;3;4;3;3;3;4;1;3;49
+Dhaka South City Corporation;23;1232301001;;New Paltan Lane;38 no. bari;11;38;45;4;2;4;4;3;2;3;4;3;1;4;3;1;1;1;1;41
+Dhaka South City Corporation;23;1232301002;;New Paltan Lane;Beside Masjid-e-Ali Mosque;13;46;40;4;1;4;4;3;2;3;4;3;1;4;4;2;2;1;1;43
+Dhaka South City Corporation;23;1232302001;;Duri Angul Lane;Shabanwala Bari;13;31;60;2;4;4;4;3;4;2;4;3;3;4;4;4;4;4;2;55
+Dhaka South City Corporation;23;1232302002;;Duri Angul Lane;Beside goruwala bari;10;31;60;2;1;4;4;2;3;1;4;3;2;4;1;3;3;4;2;43
+Dhaka South City Corporation;23;1232302003;;Duri Angul Lane;Mollabari E;10;24;60;4;4;4;4;4;2;3;4;3;3;4;3;3;3;3;3;54
+Dhaka South City Corporation;23;1232302004;;Duri Angul Lane;Mollabari;10;40;70;2;1;3;4;4;1;1;4;3;1;4;4;4;4;4;4;48
+Dhaka South City Corporation;23;1232303001;;Nababganj Park;Setara Begumer Basha;18;72;35;3;3;4;4;3;2;2;3;1;1;4;4;3;4;1;1;43
+Dhaka South City Corporation;23;1232303002;;Nababganj Park;Hazi Salauddin Miar Basha 1;42;170;60;3;3;4;4;3;2;1;3;2;1;1;4;3;4;1;1;40
+Dhaka South City Corporation;23;1232303003;;Nababganj Park;Hazi Salauddin Miar Basha 2;18;72;45;2;3;3;4;2;2;1;3;1;1;1;3;2;1;4;4;37
+Dhaka South City Corporation;23;1232303004;;Nababganj Park;Hazi Shahid Miar Basha;10;45;35;3;2;3;2;3;2;2;2;3;1;3;4;1;2;1;1;35
+Dhaka South City Corporation;23;1232303005;;Nababganj Park;Hazi Shajahan Miar Basha;11;50;35;2;3;3;1;2;4;4;2;2;1;1;3;4;1;2;1;36
+Dhaka South City Corporation;24;1232401001;;Amligola Park Area;Mondirbari ;14;56;65;2;3;4;4;4;4;3;2;3;2;3;3;3;3;4;4;51
+Dhaka South City Corporation;24;1232401002;;Amligola Park Area;Pipe Karkhanar Goli;15;50;20;1;3;4;4;4;2;2;2;4;1;1;2;2;1;1;2;36
+Dhaka South City Corporation;24;1232401003;;Amligola Park Area;Balughat Mather Pichoner Bosti;42;230;19;3;2;4;4;4;3;3;2;2;2;1;3;2;3;1;2;41
+Dhaka South City Corporation;24;1232401004;;Amligola Park Area;Talapar;30;100;20;2;2;4;4;4;2;4;2;2;2;1;3;3;3;1;1;40
+Dhaka South City Corporation;24;1232401005;;Amligola Park Area;Amligola Field;15;70;35;1;1;3;4;2;2;2;2;3;1;1;1;1;2;1;2;29
+Dhaka South City Corporation;24;1232401006;;Amligola Park Area;Liberty Club Goli;9;20;45;1;3;4;4;4;2;3;2;2;2;2;3;1;3;1;1;38
+Dhaka South City Corporation;24;1232402001;;Lalbag Model College Area;Mahabuber Bari;16;74;16;4;4;4;2;2;3;4;3;3;2;2;4;1;4;1;2;45
+Dhaka South City Corporation;24;1232402002;;Lalbag Model College Area;Hazi Johir Uddin Maijbhandari;41;164;28;4;4;2;2;2;3;4;3;2;2;2;4;1;3;1;2;41
+Dhaka South City Corporation;24;1232402003;;Lalbag Model College Area;Nur Amin Hazir bari;12;58;19;4;4;4;2;3;3;3;3;3;3;2;4;1;4;1;2;46
+Dhaka South City Corporation;24;1232402004;;Lalbag Model College Area;Hanif Showdagor er Bari;36;126;23;4;4;3;2;3;2;3;3;3;2;2;1;1;4;1;3;41
+Dhaka South City Corporation;24;1232402005;;Lalbag Model College Area;Faruk Jomidarer Bari;12;65;58;2;4;4;3;3;2;3;1;2;2;1;3;1;4;1;2;38
+Dhaka South City Corporation;24;1232402006;;Lalbag Model College Area;Faruk Jomidarer Bari 2;53;245;22;2;4;3;3;3;2;3;3;2;2;2;1;2;4;1;2;39
+Dhaka South City Corporation;24;1232402007;;Lalbag Model College Area;Mostakimer Bosti;33;152;36;1;4;3;2;2;2;3;3;2;2;2;1;4;4;1;2;38
+Dhaka South City Corporation;24;1232402008;;Lalbag Model College Area;Shajahaner Bari;19;85;18;4;1;3;2;1;2;3;3;2;3;1;1;2;4;1;2;35
+Dhaka South City Corporation;24;1232402009;;Lalbag Model College Area;Ali Akbarer Bari;15;70;18;4;4;4;2;1;3;3;3;3;3;2;1;2;3;1;2;41
+Dhaka South City Corporation;24;1232402010;;Lalbag Model College Area;Bulet er Bari;31;121;30;2;1;3;2;2;2;1;2;2;2;2;1;1;4;1;2;30
+Dhaka South City Corporation;24;1232402011;;Lalbag Model College Area;Kudduser Bari;14;57;23;2;3;4;2;3;3;2;2;3;2;1;1;2;4;1;2;37
+Dhaka South City Corporation;24;1232402012;;Lalbag Model College Area;Shahjahaner Bari;13;67;21;2;4;4;2;3;2;2;2;3;2;2;1;1;4;1;2;37
+Dhaka South City Corporation;24;1232402013;;Lalbag Model College Area;Siddiker Bari;26;103;19;1;3;3;2;3;1;2;2;2;2;1;1;1;4;1;2;31
+Dhaka South City Corporation;24;1232403001;;Shahidnagar;Goni Miar Bari (4 no. Goli);46;184;40;2;4;3;2;3;1;4;2;1;1;1;3;1;1;1;2;32
+Dhaka South City Corporation;24;1232403002;;Shahidnagar;Yusuf er Bari (4 no. Goli);30;120;45;2;4;3;2;3;1;4;2;1;1;1;3;1;1;1;1;31
+Dhaka South City Corporation;24;1232403003;;Shahidnagar;Hanif er bari (4 no. Goli);36;144;40;2;4;3;2;3;1;4;2;1;1;1;3;1;1;1;2;32
+Dhaka South City Corporation;24;1232403004;;Shahidnagar;Ainu er Bari (5 no. Goli);28;112;50;3;4;4;2;3;1;4;2;1;1;1;3;2;2;1;2;36
+Dhaka South City Corporation;24;1232403005;;Shahidnagar;Swapner Bari (5 no. Goli);30;120;52;3;4;4;2;3;1;4;2;1;1;1;4;2;2;1;2;37
+Dhaka South City Corporation;24;1232403006;;Shahidnagar;Bus er Bari (5 no. Goli);45;180;60;3;4;4;3;3;1;4;2;1;1;1;3;2;2;1;2;37
+Dhaka South City Corporation;24;1232403007;;Shahidnagar;Karim Ghariwalar Bari (6 no. Goli);55;220;55;3;4;4;2;2;2;3;2;1;1;1;3;2;3;1;2;36
+Dhaka South City Corporation;24;1232403008;;Shahidnagar;Masud o Paruler Baril (6 no. Goli);45;180;60;3;4;4;2;2;2;3;2;1;1;1;3;2;3;1;2;36
+Dhaka South City Corporation;24;1232403009;;Shahidnagar;Aman Daktar o Nur Hai er Bari (6 n. Goli);53;212;65;3;4;4;2;2;2;3;2;1;1;1;3;2;3;1;2;36
+Dhaka South City Corporation;24;1232403010;;Shahidnagar;Samad Miar Bari;45;180;60;4;3;4;2;3;1;4;2;1;1;1;2;2;3;1;2;36
+Dhaka South City Corporation;24;1232403011;;Shahidnagar;Chan Miar Bari (8 no. Goli);63;252;54;4;4;3;2;3;2;4;2;1;2;1;2;2;2;1;2;37
+Dhaka South City Corporation;24;1232403012;;Shahidnagar;Amir er Bari;120;480;25;4;3;4;4;4;4;3;3;3;4;3;1;4;4;1;3;52
+Dhaka South City Corporation;24;1232404001;;Beribadh Area;Company er Bari;52;208;45;4;4;4;4;4;4;3;4;3;4;3;1;4;4;1;3;54
+Dhaka South City Corporation;24;1232404002;;Beribadh Area;Master Bari;140;560;40;4;4;4;4;4;4;4;4;3;4;3;1;4;4;1;3;55
+Dhaka South City Corporation;24;1232404003;;Beribadh Area;Math Bari (1 no. Goli);124;496;20;4;4;4;4;4;4;4;3;3;4;3;1;4;3;1;3;53
+Dhaka South City Corporation;24;1232404004;;Beribadh Area;Duba Bari (1 no. Goli);80;320;25;4;3;4;4;4;4;3;3;3;4;3;2;4;4;1;3;53
+Dhaka South City Corporation;24;1232404005;;Beribadh Area;Cha wala Bari;30;120;35;4;3;4;4;4;4;3;3;3;4;3;1;4;4;1;3;52
+Dhaka South City Corporation;24;1232404006;;Beribadh Area;Moulovi Bari (1 no. Goli);60;240;35;4;3;4;4;4;4;3;3;3;4;3;1;4;4;1;3;52
+Dhaka South City Corporation;24;1232404007;;Beribadh Area;Darer Bari (Bou Bazar);85;340;35;4;3;4;4;4;4;3;4;3;4;3;1;4;4;1;3;53
+Dhaka South City Corporation;24;1232404008;;Beribadh Area;Kosai Goli;25;104;25;4;3;4;4;4;4;3;4;3;4;3;2;4;4;1;3;54
+Dhaka South City Corporation;24;1232404009;;Beribadh Area;Peyar Alir bari;35;140;35;3;3;4;4;4;4;3;3;3;4;3;1;4;4;1;3;51
+Dhaka South City Corporation;24;1232404010;;Beribadh Area;Sultaner Bari;95;406;40;3;4;4;4;4;4;3;4;3;4;3;1;4;4;1;3;53
+Dhaka South City Corporation;25;1232501001;;Lalbag Atoshkhana Area ;Jogonnath Shah Bosoty;60;250;80;4;4;4;4;2;4;4;4;2;3;4;2;2;2;2;3;50
+Dhaka South City Corporation;25;1232501002;;Lalbag Atoshkhana Area ;Riaj Uddin Road Bosoty;50;400;34;4;4;4;4;2;4;4;4;2;3;4;3;3;4;4;4;57
+Dhaka South City Corporation;25;1232501003;;Lalbag Atoshkhana Area ;Pusposhah Lane Bosoty;31;125;80;4;4;4;4;3;4;4;4;2;2;4;4;4;4;4;4;59
+Dhaka South City Corporation;25;1232502001;;Sheikh saheb Bazar Road;Raja Sreenath Bosoty;20;70;80;4;4;4;4;3;4;4;4;1;2;4;4;1;4;4;4;55
+Dhaka South City Corporation;25;1232502002;;Sheikh saheb Bazar Road;Mandirgoli Bosoty;10;53;70;4;4;4;4;4;4;4;4;4;2;4;3;4;4;4;4;61
+Dhaka South City Corporation;25;1232503001;;Lalbag East-West Area;Jogonnath Shah Bosoty(Lalbag East-West Area);250;1000;70;4;4;4;4;3;4;4;4;3;3;4;4;4;4;1;3;57
+Dhaka South City Corporation;25;1232503002;;Lalbag East-West Area;Nagar Beltoli;400;2000;80;4;4;4;4;4;4;4;4;1;1;4;2;2;3;1;3;49
+Dhaka South City Corporation;25;1232503003;;Lalbag East-West Area;Purba Rishipara;250;1200;80;4;4;4;4;2;4;4;4;2;3;4;4;4;4;4;4;59
+Dhaka South City Corporation;26;1232601001;;Rasulbag;186/B Rasulbag;10;40;20;2;3;4;3;3;3;3;3;3;3;3;3;3;4;3;4;50
+Dhaka South City Corporation;26;1232601002;;Rasulbag;176/C Rasulbag;5;20;10;2;1;4;1;2;4;3;3;3;3;3;3;3;4;4;4;47
+Dhaka South City Corporation;26;1232601003;;Rasulbag;195/1 Rasulbag;40;140;20;2;3;4;2;3;3;3;3;3;3;3;2;3;4;4;3;48
+Dhaka South City Corporation;26;1232603001;;Azimpur Government Quarter;Azimpur Police Fari;20;70;20;2;3;4;3;4;3;4;3;3;3;3;2;3;4;3;3;50
+Dhaka South City Corporation;26;1232603002;;Azimpur Government Quarter;Agrani School & College Side;10;20;15;2;3;4;3;3;3;4;3;3;3;3;3;3;4;3;3;50
+Dhaka South City Corporation;26;1232604001;;Lalbagh;Palashi;100;350;20;2;3;4;3;3;3;3;3;3;4;3;2;3;4;3;3;49
+Dhaka South City Corporation;27;1232701001;;Hossaini Dalan;Khusru Bari;46;178;50;1;2;4;4;3;1;2;2;2;2;2;2;2;2;1;3;35
+Dhaka South City Corporation;27;1232701002;;Hossaini Dalan;Hossaini Dalan Masjid Goli;8;27;27;2;2;4;4;1;4;3;3;2;2;3;3;2;4;4;4;47
+Dhaka South City Corporation;27;1232701003;;Hossaini Dalan;Shiya Goli 22/23;10;40;20;1;2;4;4;3;1;1;2;2;2;4;2;2;2;1;3;36
+Dhaka South City Corporation;27;1232701004;;Hossaini Dalan;8/2 Nowab Bagicha;11;44;40;1;1;4;4;3;4;3;2;2;2;4;3;3;4;4;3;47
+Dhaka South City Corporation;27;1232701005;;Hossaini Dalan;17 Tatkhana Lane Kana Goli;9;36;35;1;3;4;4;3;3;3;2;2;1;1;2;3;4;4;3;43
+Dhaka South City Corporation;27;1232701006;;Hossaini Dalan;Tejpata Goli Water Pump;15;45;65;4;2;4;4;4;3;3;2;3;3;3;3;3;3;3;3;50
+Dhaka South City Corporation;27;1232702001;;Alia Madrasa (Bakshi Bazar);Umesh Datta Road 9/10 (Dhopakhana);18;50;100;4;3;4;2;4;3;4;4;4;2;4;4;4;4;4;4;58
+Dhaka South City Corporation;27;1232702002;;Alia Madrasa (Bakshi Bazar);Umesh Datta Road 5 (Dhopakhana);9;25;100;4;3;4;2;1;4;4;2;1;2;1;4;4;4;4;4;48
+Dhaka South City Corporation;27;1232702003;;Alia Madrasa (Bakshi Bazar);Kamol Daha Road 12;9;19;60;2;3;4;4;4;4;1;4;1;1;4;4;4;4;4;4;52
+Dhaka South City Corporation;27;1232702004;;Alia Madrasa (Bakshi Bazar);Alia Madrasa Staff Quarter;13;50;50;1;2;4;1;4;1;1;4;2;1;4;3;1;4;3;1;37
+Dhaka South City Corporation;27;1232703001;;Dhakeshwari Temple Area;Polashi Barak;30;90;80;2;1;3;3;3;2;3;3;3;1;4;4;3;3;1;3;42
+Dhaka South City Corporation;27;1232703002;;Dhakeshwari Temple Area;DC Office Goli;8;25;15;2;1;4;3;3;2;2;1;3;1;4;4;3;3;1;2;39
+Dhaka South City Corporation;28;1232802001;;Mahanagar Sishu Hospital Area;Naeabari;4;16;50;4;4;4;3;3;4;4;4;4;3;4;1;4;4;1;2;53
+Dhaka South City Corporation;28;1232802002;;Mahanagar Sishu Hospital Area;Mamunbari;4;12;30;4;4;4;4;2;4;4;4;3;2;4;4;4;4;1;4;56
+Dhaka South City Corporation;28;1232802003;;Mahanagar Sishu Hospital Area;Mominbari;4;20;50;4;4;4;4;4;4;4;3;3;4;4;4;4;4;4;4;62
+Dhaka South City Corporation;28;1232802004;;Mahanagar Sishu Hospital Area;Monirbari;5;30;50;4;4;4;4;3;3;4;3;2;2;4;4;4;4;1;3;53
+Dhaka South City Corporation;28;1232802005;;Mahanagar Sishu Hospital Area;Sukrabari;5;20;50;4;4;4;4;4;3;4;2;4;4;4;4;4;4;4;4;61
+Dhaka South City Corporation;28;1232803001;;Khaje Dewan;Enayet Colony;20;60;40;4;4;4;4;4;4;4;3;3;3;4;4;4;4;4;4;61
+Dhaka South City Corporation;28;1232803002;;Khaje Dewan;Sing Lane;20;50;50;4;4;4;4;4;3;4;3;4;3;4;4;4;4;4;4;61
+Dhaka South City Corporation;29;1232901001;;West Islambag;Islam Bosoty;14;60;35;4;4;4;4;4;4;4;2;1;2;4;4;4;4;4;3;56
+Dhaka South City Corporation;29;1232901002;;West Islambag;Mamuner Bosoty;8;28;40;4;4;4;4;4;4;4;2;1;2;4;4;4;4;4;3;56
+Dhaka South City Corporation;29;1232901003;;West Islambag;Tofajjol Bosoty;20;80;25;4;4;4;4;4;4;4;2;1;2;4;4;4;4;4;4;57
+Dhaka South City Corporation;29;1232901004;;West Islambag;MotalebBosoty;22;90;40;4;4;4;4;4;4;4;2;1;2;4;4;4;4;4;4;57
+Dhaka South City Corporation;29;1232902001;;East Islambag;Murartak Estapcotar Road;100;1000;30;4;4;4;4;4;4;4;3;1;2;4;4;4;4;4;3;57
+Dhaka South City Corporation;29;1232902002;;East Islambag;Karamtak;50;500;50;4;4;4;4;4;4;4;3;1;2;4;4;4;4;4;3;57
+Dhaka South City Corporation;29;1232902003;;East Islambag;Tutafal Eidgha mat Road;50;200;40;4;4;4;4;4;4;4;3;1;2;4;4;4;4;4;3;57
+Dhaka South City Corporation;29;1232903001;;Shayestakhan Road;Romezer Bosoty;30;200;30;4;4;4;4;4;4;4;2;1;2;4;4;2;4;4;3;54
+Dhaka South City Corporation;29;1232903002;;Shayestakhan Road;Balu Road ;30;200;50;4;4;4;4;4;4;4;3;1;2;4;4;4;4;4;4;58
+Dhaka South City Corporation;29;1232903003;;Shayestakhan Road;Hazi Rahimbox Lane;50;500;50;4;4;4;4;4;4;4;3;1;2;4;3;3;4;4;4;56
+Dhaka South City Corporation;30;1233001001;;Midford Area;1 No. Staff Quarter;15;45;40;3;3;2;1;2;4;1;2;3;3;1;1;3;2;2;1;34
+Dhaka South City Corporation;30;1233001002;;Midford Area;Sir Salimullah Medical College 5 No.;10;32;35;4;4;1;3;4;4;4;4;1;3;1;4;4;1;3;3;48
+Dhaka South City Corporation;30;1233003001;;Kamalbagh;Hafij Kamal Bosti;60;240;40;3;1;3;3;2;3;2;3;4;2;4;2;2;2;3;4;43
+Dhaka South City Corporation;30;1233003002;;Kamalbagh;Koddu Mia Bosti;30;120;30;2;1;3;3;4;3;3;3;3;2;4;3;2;3;4;3;46
+Dhaka South City Corporation;30;1233003003;;Kamalbagh;Kurban & Nanupagla Area;50;180;30;4;2;3;3;4;3;4;3;3;2;4;2;2;3;4;4;50
+Dhaka South City Corporation;30;1233003004;;Kamalbagh;Hazi Jafor Haque er Bosti;18;72;30;2;3;4;4;4;2;4;3;4;2;4;2;1;4;4;3;50
+Dhaka South City Corporation;30;1233003005;;Kamalbagh;Munsi Miar Bosti;12;48;28;4;4;4;3;4;4;4;4;4;3;4;4;2;3;3;4;58
+Dhaka South City Corporation;30;1233003006;;Kamalbagh;Mobarok, Yar Mohammod er Bosti;56;224;35;3;4;4;3;4;3;4;3;4;3;3;3;2;4;2;3;52
+Dhaka South City Corporation;31;1233101001;;KM Azom Lane and Golam Mostofa Lane;Golam Mostofa Lane;25;84;35;4;4;4;4;3;4;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233101002;;KM Azom Lane and Golam Mostofa Lane;KM Azom Lane ;20;70;35;4;4;4;4;4;3;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233101003;;KM Azom Lane and Golam Mostofa Lane;Abul Khoirat Road;40;150;30;4;4;4;4;3;4;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233102001;;Abul Khoirat Road and Armania Street ;Hindu Potti(DC Rai Road);20;70;35;4;4;4;4;4;3;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233103001;;Bacharam Dewri and Aga Nabab Dewri;Bacharam Dewri ;70;290;25;4;4;4;4;4;3;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233103002;;Bacharam Dewri and Aga Nabab Dewri;Aga Nabab Dewri;40;160;50;4;4;4;4;4;3;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233103003;;Bacharam Dewri and Aga Nabab Dewri;Hafizulla Goli;17;45;90;4;4;4;4;3;4;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;31;1233104001;;Moulovibazar and Chalkbazar;Hafizulla Road;15;45;65;4;4;4;4;4;3;4;4;3;1;3;4;4;4;4;4;58
+Dhaka South City Corporation;32;1233201001;;Badamtoli Kolapotti;Kolapatti  Bosti;10;40;60;4;1;4;3;4;4;4;2;2;2;1;2;1;2;1;2;39
+Dhaka South City Corporation;32;1233202001;;Zindabahar Zone;Sakina  Bosti;7;28;50;4;1;4;3;4;4;4;3;2;2;1;1;2;3;4;4;46
+Dhaka South City Corporation;32;1233202002;;Zindabahar Zone;Zindabahar Bosti;15;60;50;4;1;4;1;2;3;4;1;1;2;1;2;3;3;4;3;39
+Dhaka South City Corporation;32;1233202003;;Zindabazar Zone;Sardar Bosti;8;32;50;4;1;4;3;4;4;4;2;2;2;1;2;1;2;1;2;39
+Dhaka South City Corporation;32;1233203001;;Bangsal Zone Area;Karim Colony;15;60;20;4;1;4;3;4;4;4;4;3;2;2;1;1;1;3;1;42
+Dhaka South City Corporation;32;1233203002;;Bangsal Zone Area;Khilghor Bosti;7;30;60;3;1;4;2;4;4;4;3;2;2;3;4;4;4;4;4;52
+Dhaka South City Corporation;32;1233203003;;Bangsal Zone Area;Natkapol Bosti;18;72;70;4;3;4;4;4;4;4;4;4;4;3;1;4;1;1;2;51
+Dhaka South City Corporation;32;1233204001;;Quasaitoli ;Vogotar Gara Bosti;5;20;30;4;3;4;2;4;4;4;4;4;3;2;4;3;4;4;4;57
+Dhaka South City Corporation;33;1233301001;;Councillor Office Area ;Syed Janmiya Goli Basti;19;100;100;1;1;4;1;1;4;1;2;2;1;1;4;4;4;4;4;39
+Dhaka South City Corporation;33;1233301002;;Councillor Office Area ;Hindu Colony Basti;850;5000;36;3;1;4;2;2;4;4;2;2;4;2;4;3;2;3;2;44
+Dhaka South City Corporation;33;1233301003;;Councillor Office Area ;Muslim  Colony Basti;220;1200;45;3;2;4;4;2;4;4;2;2;4;2;4;3;2;3;4;49
+Dhaka South City Corporation;34;1233401001;;Lutfar Rahman Lane;Takarhat;60;210;45;3;3;4;3;4;4;4;4;4;1;2;3;2;1;2;3;47
+Dhaka South City Corporation;34;1233401002;;Lutfar Rahman Lane;Lutfar Rahman Lane;6;30;40;4;3;4;3;4;3;4;3;2;3;3;3;4;4;4;4;55
+Dhaka South City Corporation;34;1233401003;;Lutfar Rahman Lane;Lutfar Rahman Lane;5;25;45;4;3;4;3;3;3;4;3;4;2;4;4;4;4;4;4;57
+Dhaka South City Corporation;34;1233402001;;Hazi Osman Goni Road;Hazi Osman Goni Road, Pukurpar;11;52;40;4;4;4;3;3;3;4;3;4;4;3;4;4;4;4;4;59
+Dhaka South City Corporation;34;1233402002;;Hazi Osman Goni Road;Well Care School Golli;12;35;60;3;2;4;3;4;3;4;3;4;3;3;4;4;4;4;4;56
+Dhaka South City Corporation;34;1233402003;;Hazi Osman Goni Road;Bangla Duyar;9;32;42;4;3;3;3;4;4;4;3;4;3;4;4;4;4;4;4;59
+Dhaka South City Corporation;34;1233402004;;Hazi Osman Goni Road;Bangla Duyar Misti Goli;25;100;55;4;3;4;4;4;3;3;4;4;2;4;4;4;4;4;4;59
+Dhaka South City Corporation;34;1233403001;;Siddik Bazar New Lane ;Siddik Bazar New Lane ;10;35;50;4;3;4;3;4;3;3;3;2;3;3;3;4;4;4;4;54
+Dhaka South City Corporation;34;1233403002;;Siddik Bazar New Lane ;Siddik Bazar Jabed Goli;9;60;42;4;4;3;3;4;4;3;4;3;2;2;4;4;4;4;4;56
+Dhaka South City Corporation;35;1233501001;;Goyalangar English Road;Bashabari Lane;34;170;50;4;4;4;3;4;4;4;4;4;2;4;4;4;4;3;3;59
+Dhaka South City Corporation;35;1233501002;;Goyalangar English Road;Bashabari Lane Colony;270;1200;50;4;4;4;3;4;4;4;4;4;4;4;4;4;4;3;3;61
+Dhaka South City Corporation;35;1233503001;;Malitola ;Malitola Road;35;175;40;4;4;4;3;4;4;4;2;4;4;4;1;1;1;1;2;47
+Dhaka South City Corporation;35;1233503002;;Malitola ;Malitola Road;15;50;50;4;4;4;3;4;4;4;4;4;4;4;4;3;4;4;4;62
+Dhaka South City Corporation;36;1233604001;;Julanbari, Badigomon Prosun Lane, Rajardoari North, District Judge Court, Ray Shaheb;Kalish Gosh Lane;10;100;50;2;2;4;3;4;3;3;4;3;3;3;3;3;4;4;3;51
+Dhaka South City Corporation;36;1233604002;;Julanbari, Badigomon Prosun Lane, Rajardoari North, District Judge Court, Ray Shaheb;Court House Street;30;150;30;2;3;4;3;3;3;3;3;3;3;3;3;3;4;4;3;50
+Dhaka South City Corporation;36;1233604003;;Julanbari, Badigomon Prosun Lane, Rajardoari North, District Judge Court, Ray Shaheb;7 No Rajardoari ;20;75;100;3;3;4;2;3;3;3;3;3;2;2;1;2;3;2;2;41
+Dhaka South City Corporation;37;1233702001;;Jagannath University Area;Ghi Potti Lane;70;300;60;1;1;4;3;1;1;1;4;2;3;3;4;2;4;1;3;38
+Dhaka South City Corporation;37;1233702002;;Jagannath University Area;Shakhari Bazar;14;70;55;2;2;4;4;1;3;1;4;3;3;3;4;3;4;1;3;45
+Dhaka South City Corporation;37;1233703001;;Sadarghat ;Wiazghat;18;110;30;3;3;4;4;3;2;3;2;3;4;3;2;2;2;1;2;43
+Dhaka South City Corporation;37;1233704001;;Ahsanullah Road;Ahasanullah Road Pukur Par;28;130;50;3;3;4;4;3;2;4;3;3;3;3;2;1;2;1;2;43
+Dhaka South City Corporation;38;1233801001;;BCC Road, Kaptan Bazar;26 no Kaptan Bazar;20;140;35;4;3;4;3;1;3;1;2;4;1;4;1;1;4;1;3;40
+Dhaka South City Corporation;38;1233802001;;Bongram Road, Nababpur;Taherbag 20 no;30;130;55;2;1;4;4;1;3;1;4;3;3;3;3;3;4;1;3;43
+Dhaka South City Corporation;38;1233802002;;Bongram Road, Nababpur;84/1 BCC Road;15;65;50;1;1;4;3;1;3;1;3;3;2;3;3;2;2;1;3;36
+Dhaka South City Corporation;38;1233802003;;Bongram Road, Nababpur;Bangram 15 no Raod;45;200;80;4;4;4;4;3;4;1;3;4;2;3;4;4;3;3;3;53
+Dhaka South City Corporation;38;1233802004;;Bongram Road, Nababpur;26 NO Mahajoanpur Road;35;165;60;2;2;4;3;1;3;1;4;3;3;3;4;3;4;1;3;44
+Dhaka South City Corporation;38;1233803001;;Robidas, Chandramohon, Bongram Lane;35 Jubinagar lane;35;160;90;2;1;4;3;1;3;1;4;3;3;3;4;3;4;1;3;43
+Dhaka South City Corporation;38;1233804001;;Nobendronath, Gowalghat, Lalchad;Bashpatti;130;610;47;4;3;4;3;1;3;2;3;3;2;3;2;1;3;1;3;41
+Dhaka South City Corporation;38;1233804002;;Nobendronath, Gowalghat, Lalchad;Lalchan Mukim Lane;250;1380;60;4;3;4;3;2;2;1;2;4;3;3;1;1;3;1;3;40
+Dhaka South City Corporation;38;1233804003;;Nobendronath, Gowalghat, Lalchad;Robidas Para;320;1300;70;2;2;4;4;1;2;1;4;4;3;2;4;3;4;4;4;48
+Dhaka South City Corporation;39;1233902001;;R K Mission Road ;Gupibagh Rail Gate;55;225;60;2;4;4;3;4;2;2;1;4;1;2;1;2;4;4;2;42
+Dhaka South City Corporation;39;1233902002;;R K Mission Road ;Tarabagh Basty;10;30;12;4;4;4;3;4;1;3;2;2;2;4;3;1;4;2;2;45
+Dhaka South City Corporation;39;1233903001;;KM Dash Road;Sherpur Basty;30;125;17;2;2;4;3;4;1;4;1;2;2;4;4;1;4;4;2;44
+Dhaka South City Corporation;39;1233904001;;Rose Garden ;Bangabari;12;62;40;4;3;4;3;4;1;4;1;2;2;3;3;1;4;4;2;45
+Dhaka South City Corporation;39;1233904002;;Rose Garden ;Fokirabagh Goli;19;100;43;2;1;4;1;4;1;1;1;2;1;3;4;1;4;4;3;37
+Dhaka South City Corporation;40;1234001001;;Narinda Lane , Shaha Saheb Lane, Vogobot Shaha Sonkho Nidhi Lane;Baganbari(Munir Hossen Lane);11;62;35;1;1;4;4;4;3;4;4;3;2;3;2;1;3;1;2;42
+Dhaka South City Corporation;40;1234002001;;Munir Hossen Lane and Shorot Gupto Road;Asia Mosque(Bosu Bazar Lane);10;60;30;4;1;4;2;4;3;1;3;3;2;2;2;1;1;1;1;35
+Dhaka South City Corporation;40;1234003001;;Doyagonj;Shamibag (Dokkhin);7;28;20;2;1;4;4;4;1;4;2;3;2;3;1;1;1;2;1;36
+Dhaka South City Corporation;40;1234003002;;Doyagonj;Hat Lane;8;40;45;3;1;4;4;4;2;4;4;4;2;3;2;1;3;1;1;43
+Dhaka South City Corporation;40;1234005001;;Shamibag and Mitali school;shamibag (uttar);12;70;40;2;1;4;4;4;3;4;4;4;1;4;4;1;3;1;1;45
+Dhaka South City Corporation;41;1234101001;;Lal Mohon Saha Street,Dokhin Musundi, Narinda, Vojohori, Padma Nidhi, Dholaikhal;26 Dokkhin Muhusundi;60;150;40;4;4;4;4;3;3;4;3;4;1;3;1;3;4;1;3;49
+Dhaka South City Corporation;41;1234101002;;Lal Mohon Saha Street,Dokhin Musundi, Narinda, Vojohori, Padma Nidhi, Dholaikhal;Lal Mohon Saha Street;20;80;35;4;4;4;4;4;4;4;4;2;2;1;1;3;4;4;4;53
+Dhaka South City Corporation;41;1234102001;;Lal Mohon Saha Street, Jorpul, Dholaikhal, Tipu Sultan Road;Pukurpar(26 no);15;45;40;4;1;4;4;2;4;4;4;2;1;3;1;2;4;4;4;48
+Dhaka South City Corporation;41;1234103001;;Rankin street, Larmini street, Wayr street, AK Sen Lane, Hatkhola Road;Wayr street;16;48;35;4;4;4;4;4;4;4;4;2;1;4;1;4;4;1;3;52
+Dhaka South City Corporation;41;1234103002;;Rankin street, Larmini street, Wayr street, AK Sen Lane, Hatkhola Road;Radha Sen Street;18;47;30;4;4;4;4;4;4;4;4;2;1;4;1;4;4;4;4;56
+Dhaka South City Corporation;42;1234201001;;Nasiruddin Sardar Lane;Nasiruddin Sardar Lane Bosoty;21;93;50;4;4;4;4;4;4;4;4;1;2;3;4;4;4;4;4;58
+Dhaka South City Corporation;42;1234201002;;Nasiruddin Sardar Lane;Rogunath Das Lane;6;19;40;2;1;4;4;4;4;4;4;4;4;4;4;4;4;4;4;59
+Dhaka South City Corporation;42;1234202001;;Lakhsamibazar Lane;Bangabari;30;80;80;4;1;4;4;4;4;3;3;3;2;3;4;3;4;4;3;53
+Dhaka South City Corporation;42;1234202002;;Lakhsamibazar Lane;Muchi Potti ;38;200;300;3;4;3;1;3;1;4;4;4;2;3;3;4;4;4;4;51
+Dhaka South City Corporation;42;1234203001;;Kolta Bazar;Kolta Bazar Bosoty;9;30;46;4;1;4;4;4;4;4;4;4;4;4;4;4;4;4;4;61
+Dhaka South City Corporation;42;1234203002;;Kolta Bazar;Pachbhai Lane;10;50;50;4;1;4;4;4;4;4;4;3;1;4;4;4;4;1;3;53
+Dhaka South City Corporation;42;1234203003;;Kolta Bazar;Nasiruddin Road;15;34;30;4;4;4;4;4;4;4;4;3;2;4;4;4;4;4;4;61
+Dhaka South City Corporation;42;1234204001;;Lakhsamibazar Nandalal Lane;Pressbari ;8;20;35;4;2;4;4;4;4;4;3;3;2;4;3;4;4;1;3;53
+Dhaka South City Corporation;43;1234301001;;Patlakhan Lane, KG Gupto Lane, Shama Prasad Lane;Shama Prasad Lane;22;120;100;3;2;4;4;1;3;1;4;4;3;4;4;4;4;1;3;49
+Dhaka South City Corporation;43;1234301002;;Patlakhan Lane, KG Gupto Lane, Shama Prasad Lane;Shiris Das Lane;25;120;50;3;2;4;4;1;4;1;4;4;3;4;4;4;4;1;3;50
+Dhaka South City Corporation;43;1234301003;;Patlakhan Lane, KG Gupto Lane, Shama Prasad Lane;KG Gupta Lane;40;100;70;2;2;4;4;2;4;1;4;3;2;4;4;1;4;1;3;45
+Dhaka South City Corporation;43;1234302001;;Peyari Das Road, Hemanta Das Road, Shingtola Das Lane;Shingtola Road;20;110;50;2;2;4;4;1;4;1;4;3;3;3;4;1;3;1;3;43
+Dhaka South City Corporation;43;1234303001;;North Brook Hall, Shambazar, Forajganj;Forajgong;45;200;70;4;4;4;4;2;4;1;4;4;3;3;2;3;2;1;2;47
+Dhaka South City Corporation;43;1234303002;;North Brook Hall, Shambazar, Forajganj;B. K. Das Road;42;310;110;2;2;4;1;1;4;3;4;4;3;4;4;4;4;1;3;48
+Dhaka South City Corporation;43;1234304001;;B. K. Das Lane, Malakatola, Ruplal;Mohonimohon Mukti Khela Ghor;37;170;80;2;2;4;4;3;4;2;4;4;3;3;4;4;3;2;3;51
+Dhaka South City Corporation;43;1234304002;;B. K. Das Lane, Malakatola, Ruplal;Kagojitola ;15;65;30;3;2;4;4;2;4;1;4;3;2;4;2;2;3;1;3;44
+Dhaka South City Corporation;44;1234401001;;Begumganj;Tempa Colony;40;160;14;2;1;4;4;4;4;2;4;4;4;3;4;1;2;1;3;47
+Dhaka South City Corporation;44;1234401002;;Begumganj;Kolpar;30;120;20;2;1;4;4;3;4;3;4;4;4;3;4;1;4;1;3;49
+Dhaka South City Corporation;44;1234401003;;Begumganj;Bow Bazar;30;120;12;2;1;4;4;4;4;4;4;4;4;3;4;1;4;1;3;51
+Dhaka South City Corporation;44;1234401004;;Begumganj;Kawatec;25;100;12;2;1;4;4;4;4;3;4;4;4;3;4;1;4;1;3;50
+Dhaka South City Corporation;44;1234401005;;Begumganj;Asia Mosque Goli;60;240;10;2;1;4;4;4;4;4;4;4;4;3;4;1;4;1;3;51
+Dhaka South City Corporation;44;1234402001;;Rishikesh Das Lane;Tonuganj Lane;50;160;50;2;3;4;3;4;3;3;3;3;3;3;2;4;4;1;3;48
+Dhaka South City Corporation;44;1234402002;;Rishikesh Das Lane;Kulutola, Katherpul;25;80;45;4;3;4;4;4;4;3;3;3;3;3;3;4;4;3;3;55
+Dhaka South City Corporation;44;1234402003;;Rishikesh Das Lane;Justices Lalmohon Dash Lane;10;35;50;3;4;4;4;4;4;3;3;4;4;3;3;4;4;1;3;55
+Dhaka South City Corporation;44;1234402004;;Rishikesh Das Lane;Bania Nagar;10;40;30;4;3;4;4;4;4;3;3;3;3;3;3;3;4;1;3;52
+Dhaka South City Corporation;44;1234402005;;Rishikesh Das Lane;Rishikesh Das Lane;12;40;50;4;4;4;4;4;4;4;3;4;4;3;3;4;4;3;3;59
+Dhaka South City Corporation;44;1234403001;;R M Das Lane;R M Das Lane;77;308;14;2;1;4;3;4;1;3;1;2;4;4;3;3;2;3;3;43
+Dhaka South City Corporation;44;1234403002;;R M Das Lane;Thagore Bari;11;36;80;4;3;4;4;2;1;4;4;2;3;4;4;3;4;3;3;52
+Dhaka South City Corporation;44;1234403003;;R M Das Lane;Busir Goli;40;165;100;2;3;4;3;3;3;3;4;3;3;3;3;3;1;3;3;47
+Dhaka South City Corporation;44;1234403004;;R M Das Lane;Gosto Potti;35;150;25;3;1;4;4;4;3;3;3;3;3;3;3;4;4;4;4;53
+Dhaka South City Corporation;45;1234501001;;Namapara;Namapara Area;75;300;52;3;1;4;3;4;4;4;4;4;2;4;4;4;4;1;1;51
+Dhaka South City Corporation;45;1234501002;;Namapara;Munsipara;90;360;36;3;4;4;4;4;4;4;1;2;2;4;4;1;1;1;1;44
+Dhaka South City Corporation;45;1234501003;;Namapara;Gandariya High School Area;30;60;35;4;1;4;3;3;4;4;4;4;4;4;4;4;4;1;1;53
+Dhaka South City Corporation;45;1234501004;;Namapara;Habiba Jame Mosque Area;40;160;42;4;4;4;3;4;4;4;3;4;2;4;4;4;4;4;4;60
+Dhaka South City Corporation;45;1234502001;;Dhupkhola Bazar;Gandariya Rifle Club;120;480;46;4;4;4;3;4;4;4;2;2;1;4;4;4;3;4;4;55
+Dhaka South City Corporation;45;1234502002;;Dhupkhola Bazar;Pukurpar;25;100;40;3;3;4;3;4;4;4;4;4;2;4;4;1;4;1;4;53
+Dhaka South City Corporation;45;1234502003;;Dhupkhola Bazar;Lal Kha Mosque;19;86;40;3;4;4;3;4;4;4;2;3;2;2;4;4;4;1;4;52
+Dhaka South City Corporation;45;1234502004;;Dhupkhola Bazar;Battikhana & Boyan Basti;20;100;40;2;4;4;4;4;4;4;2;3;3;1;4;1;3;2;3;48
+Dhaka South City Corporation;45;1234503001;;Loharpool SK Das Road;Loharpool & Tek ;70;280;35;4;4;4;4;4;4;4;4;4;3;3;4;2;4;4;4;60
+Dhaka South City Corporation;45;1234503002;;Loharpool SK Das Road;Saleha Nagar Jame Mosque Area & Jele Para;50;250;30;3;3;4;4;3;4;4;3;4;4;3;4;3;4;4;4;58
+Dhaka South City Corporation;46;1234601001;;Neelbarrack police Line;Alomganj Road;60;300;60;2;1;3;4;3;2;2;2;3;1;1;4;4;4;4;4;44
+Dhaka South City Corporation;46;1234601002;;Neelbarrack police Line;K.B Road;50;350;100;1;1;4;1;3;1;1;3;4;1;2;4;4;4;4;4;42
+Dhaka South City Corporation;46;1234602001;;Satish Sarker Road dalkanagar;Akkhoydas Lane(Anondo Bagicha);60;250;90;4;3;4;4;3;4;4;3;4;1;3;4;4;4;4;4;57
+Dhaka South City Corporation;46;1234603001;;Satish Sarker Road Gendaria;Dhalka Nagor;120;521;80;3;4;2;2;3;3;4;3;1;2;1;4;4;4;4;4;48
+Dhaka South City Corporation;46;1234603002;;Satish Sarker Road Gendaria;Baghabari;45;260;70;2;3;4;4;4;3;4;3;3;2;1;4;4;4;4;4;53
+Dhaka South City Corporation;47;1234701001;;D.I.T. Plot;D.I.T. Plot;440;2200;150;4;4;4;2;3;4;4;3;3;3;3;3;4;3;4;4;55
+Dhaka South City Corporation;47;1234701002;;D.I.T. Plot;Membor Bari;75;375;100;4;4;4;2;4;4;4;3;3;1;3;4;4;4;4;2;54
+Dhaka South City Corporation;47;1234702001;;Dhalkanagar-1;Asgor Ali Lane;500;2500;100;4;4;4;2;4;4;4;4;3;3;4;4;4;4;4;2;58
+Dhaka South City Corporation;47;1234702002;;Dhalkanagar-1;Neturia Kamil Madrasa Road;350;1400;65;4;4;4;2;4;4;4;4;4;3;4;4;4;4;4;4;61
+Dhaka South City Corporation;47;1234703001;;Dhalkanagar-2;Paka Mosjider Goli;750;3000;70;4;4;4;2;4;4;4;4;3;4;4;4;4;4;4;3;60
+Dhaka South City Corporation;47;1234704001;;I.G. Gate;I.G. Gate Bosti;150;750;60;4;4;4;2;3;3;4;2;1;1;1;1;1;1;3;1;36
+Dhaka South City Corporation;47;1234705001;;Foridabad;NCG Road;250;750;160;4;4;4;4;4;4;4;4;4;4;2;3;4;4;4;3;60
+Dhaka South City Corporation;47;1234706001;;Shoshan Ghat;Shoshan Ghat;100;400;150;4;4;4;2;4;4;4;4;4;4;4;4;4;4;4;4;62
+Dhaka South City Corporation;47;1234706002;;Shoshan Ghat;Kotton Mill;100;500;183;4;4;4;2;4;3;2;4;1;1;4;1;1;1;3;3;42
+Dhaka South City Corporation;48;1234801001;;North South Sayedabad;Farjana Madina Madrasa Area;40;80;15;4;4;4;4;4;4;4;3;2;2;2;3;3;4;1;3;51
+Dhaka South City Corporation;48;1234801002;;North South Sayedabad;Railway Masjid er Math;40;100;16;4;4;4;4;4;4;4;3;2;2;2;4;3;4;1;3;52
+Dhaka South City Corporation;48;1234801003;;North South Sayedabad;Wasa Colony Bosti;250;700;20;3;3;3;3;4;3;3;2;2;2;2;1;1;2;2;2;38
+Dhaka South City Corporation;48;1234802001;;North Jatrabari 1;40, 41 North Jatrabari ;40;120;20;3;3;4;3;4;3;3;3;3;2;2;3;3;4;1;3;47
+Dhaka South City Corporation;48;1234802002;;North Jatrabari 1;Koborsthan Goli 5;25;60;15;4;4;4;4;4;4;4;4;3;2;3;3;2;4;1;3;53
+Dhaka South City Corporation;48;1234802003;;North Jatrabari 1;Islami Haspatal Goli 12-26;60;150;20;4;4;4;4;4;4;4;3;2;3;2;4;2;4;1;3;52
+Dhaka South City Corporation;48;1234803001;;North Jatrabari 2a;Suti Khalpar Nowab Ali Hotel ;20;60;15;4;4;4;4;4;4;4;3;2;2;3;4;4;4;1;3;54
+Dhaka South City Corporation;48;1234803002;;North Jatrabari 2a;76 No. Goli;70;200;15;4;4;4;4;4;4;4;3;2;2;2;4;3;4;1;3;52
+Dhaka South City Corporation;48;1234804001;;North Jatrabari 2b;Sapri Masjid Jheelpar;25;65;15;4;4;4;4;4;3;4;3;3;2;3;3;2;4;1;3;51
+Dhaka South City Corporation;48;1234804002;;North Jatrabari 2b;Bibir Bagicha 5 No. Gate;60;150;15;4;4;4;4;4;4;4;3;2;2;2;3;3;4;1;3;51
+Dhaka South City Corporation;49;1234901001;;Dholpur and Kazipara;Shorab and Halimer Bosti;30;152;30;2;1;4;3;3;3;4;3;4;4;3;3;3;3;3;3;49
+Dhaka South City Corporation;49;1234902001;;West and East Golapbag;Babur Balur Mat;12;57;40;3;1;4;4;4;3;3;4;3;3;3;1;1;1;1;1;40
+Dhaka South City Corporation;49;1234902002;;West and East Golapbag;Uttar Golapbag Water Pump;65;400;45;4;4;4;4;4;1;3;4;3;2;2;3;3;3;1;3;48
+Dhaka South City Corporation;49;1234904001;;Staff Quarter and City Polli;City Polli;350;1700;31;4;1;4;3;3;2;4;2;2;2;3;1;2;3;3;3;42
+Dhaka South City Corporation;50;1235001001;;Uttar-Poshchim Jatrabari;Koborasthan Road Area;100;400;6;4;1;4;4;3;3;4;1;2;2;3;4;4;4;4;4;51
+Dhaka South City Corporation;50;1235004001;;Sheikhpara;Dewanpara Bosoty;30;150;4;4;1;4;4;3;3;4;1;2;2;3;4;4;4;4;4;51
+Dhaka South City Corporation;50;1235004002;;Sheikhpara;Poshhim Jatrabari Bosoty;25;120;10;4;1;4;3;3;3;4;1;2;2;3;4;4;4;4;4;50
+Dhaka South City Corporation;50;1235004003;;Sheikhpara;Sheikhpara Dokkhin Jatrabari Bosoty;30;160;5;4;1;4;3;3;3;4;1;2;2;3;4;4;4;4;4;50
+Dhaka South City Corporation;51;1235101001;;East Dholaipar & Shantinibash;Rojob Miyar Bari;22;88;30;3;4;4;4;1;4;4;1;3;2;4;4;1;4;4;3;50
+Dhaka South City Corporation;51;1235101002;;East Dholaipar & Shantinibash;Nasrin er Bosti;10;40;40;4;4;4;4;2;4;4;1;3;3;4;4;3;2;4;4;54
+Dhaka South City Corporation;51;1235101003;;East Dholaipar & Shantinibash;Soap Factorir Golir Bosti;13;52;25;4;4;4;4;2;4;4;4;4;4;4;4;2;4;4;4;60
+Dhaka South City Corporation;51;1235101004;;East Dholaipar & Shantinibash;Ali Hossain er Bosti;10;40;25;4;4;4;4;4;4;4;4;4;4;2;4;3;4;4;4;61
+Dhaka South City Corporation;51;1235101005;;East Dholaipar & Shantinibash;Habibur Rahman er Bosti;7;28;25;4;4;4;4;4;4;4;3;4;4;2;4;2;4;4;4;59
+Dhaka South City Corporation;51;1235101006;;East Dholaipar & Shantinibash;Nannu Miyar Bosti;8;32;30;4;4;4;4;4;4;4;2;3;3;4;4;2;4;4;4;58
+Dhaka South City Corporation;51;1235101007;;East Dholaipar & Shantinibash;Rokon Hazir Bari;13;52;9;4;4;4;4;2;4;4;2;4;2;4;4;2;4;4;4;56
+Dhaka South City Corporation;51;1235102001;;West Dholaipar & Nurani Mosque Area;West Dolaipar;9;35;30;4;4;3;4;1;1;4;4;2;1;1;3;4;1;4;1;42
+Dhaka South City Corporation;51;1235102002;;West Dholaipar & Nurani Mosque Area;Juktibadi Golir Bosti;8;40;20;4;3;4;4;2;4;1;1;1;1;4;1;4;4;1;3;42
+Dhaka South City Corporation;51;1235102003;;West Dholaipar & Nurani Mosque Area;Wajider Bosti;8;35;20;4;1;4;4;1;1;4;3;2;3;4;4;4;3;4;4;50
+Dhaka South City Corporation;51;1235102004;;West Dholaipar & Nurani Mosque Area;Nannu Miyar Bari;12;35;10;4;2;4;4;4;2;4;1;4;1;4;4;4;4;1;1;48
+Dhaka South City Corporation;51;1235102005;;West Dholaipar & Nurani Mosque Area;Moni Miar Bari;11;58;20;1;1;4;4;1;2;1;4;4;1;1;4;4;4;4;3;43
+Dhaka South City Corporation;51;1235102006;;West Dholaipar & Nurani Mosque Area;Shohid Miar Bari;10;40;22;4;1;4;4;4;3;1;4;3;3;3;4;4;4;3;3;52
+Dhaka South City Corporation;51;1235102007;;West Dholaipar & Nurani Mosque Area;Afrojar Bari;13;51;26;4;1;4;4;3;3;4;4;4;2;3;4;4;2;4;3;53
+Dhaka South City Corporation;51;1235102008;;West Dholaipar & Nurani Mosque Area;Juktibadi Goli- Jebar Bari;18;80;20;3;4;4;4;1;4;4;1;1;4;4;4;4;4;1;3;50
+Dhaka South City Corporation;51;1235102009;;West Dholaipar & Nurani Mosque Area;Moniner Bari;10;50;23;4;2;3;4;4;1;1;4;4;1;4;1;2;1;1;2;39
+Dhaka South City Corporation;51;1235102010;;West Dholaipar & Nurani Mosque Area;Toajel Miar Bari;18;80;18;3;3;4;4;3;1;1;4;3;1;1;4;1;1;4;4;42
+Dhaka South City Corporation;51;1235102011;;West Dholaipar & Nurani Mosque Area;Momotaj Bari;11;58;26;4;4;4;4;1;1;4;4;2;1;4;4;4;1;1;1;44
+Dhaka South City Corporation;51;1235102012;;West Dholaipar & Nurani Mosque Area;Mir Hazirbag Shafiqnagar;15;80;13;4;4;4;4;1;1;4;4;1;2;4;1;1;1;1;1;38
+Dhaka South City Corporation;51;1235102013;;West Dholaipar & Nurani Mosque Area;Mujahid Bari;13;30;22;4;3;4;4;4;4;4;4;4;2;4;4;4;3;4;1;57
+Dhaka South City Corporation;51;1235102014;;West Dholaipar & Nurani Mosque Area;Rafiq Miar Bari;9;40;23;4;2;4;2;4;4;4;4;4;1;4;4;4;3;4;1;53
+Dhaka South City Corporation;51;1235103001;;Councilor Office Area;Rahim Miar Bari;18;80;24;3;1;4;4;1;1;4;4;3;1;4;4;1;2;1;1;39
+Dhaka South City Corporation;51;1235103002;;Councilor Office Area;Mir Hazirbag Vitabari;28;102;25;4;4;4;4;2;4;4;1;3;2;4;4;4;1;1;1;47
+Dhaka South City Corporation;51;1235103003;;Councilor Office Area;Johir Miar Bari;20;70;20;4;1;4;4;2;2;4;4;3;2;4;4;4;4;4;1;51
+Dhaka South City Corporation;51;1235103004;;Councilor Office Area;Monir Miar Bari;25;80;25;2;1;4;2;2;4;4;4;3;1;4;4;4;4;4;1;48
+Dhaka South City Corporation;51;1235103005;;Councilor Office Area;A. Maleker Bari;13;50;25;1;1;4;4;2;4;1;4;3;2;4;4;4;4;4;4;50
+Dhaka South City Corporation;51;1235103006;;Councilor Office Area;Swapon Miar Bari;13;50;25;2;1;4;4;2;3;4;4;3;2;4;4;4;4;4;1;50
+Dhaka South City Corporation;51;1235103007;;Councilor Office Area;114 No. Darogar Bari;10;70;18;1;4;4;4;1;4;4;1;3;4;2;4;1;1;4;4;46
+Dhaka South City Corporation;51;1235103008;;Councilor Office Area;Namar Bari;40;180;20;1;1;4;4;4;4;4;1;4;4;3;1;2;1;1;1;40
+Dhaka South City Corporation;51;1235103009;;Councilor Office Area;Motimiar Bari;20;80;25;4;4;4;4;3;2;4;4;3;1;3;4;4;4;1;1;50
+Dhaka South City Corporation;51;1235103010;;Councilor Office Area;Alauddin Miar Bari;30;120;70;4;3;4;4;3;3;4;4;3;3;4;4;4;4;1;1;53
+Dhaka South City Corporation;51;1235103011;;Councilor Office Area;Faruk Hazir Bari;8;35;26;4;4;4;4;3;4;4;2;4;1;3;4;4;4;1;1;51
+Dhaka South City Corporation;51;1235104001;;Par Gendaria & Mollapara;Hazi Bari;130;580;34;1;2;4;4;3;2;2;3;4;3;3;4;2;4;1;3;45
+Dhaka South City Corporation;51;1235104002;;Par Gendaria & Mollapara;Goru Molla Bari;55;215;28;1;1;4;4;3;2;2;2;2;2;3;4;2;4;1;1;38
+Dhaka South City Corporation;51;1235104003;;Par Gendaria & Mollapara;Majed Miar Bari;90;400;32;1;2;4;4;4;3;2;2;3;3;3;3;2;4;4;4;48
+Dhaka South City Corporation;51;1235104004;;Par Gendaria & Mollapara;Swapon Miar Bari;80;360;37;1;3;4;4;4;3;3;3;4;4;3;4;1;4;1;3;49
+Dhaka South City Corporation;51;1235104005;;Par Gendaria & Mollapara;Choap Miar Bari;140;620;39;1;1;4;3;3;2;3;3;3;3;2;3;1;4;1;3;40
+Dhaka South City Corporation;51;1235104006;;Par Gendaria & Mollapara;Kayum er Bari;70;310;27;1;4;4;4;3;3;4;3;4;4;3;4;1;4;1;3;50
+Dhaka South City Corporation;51;1235104007;;Par Gendaria & Mollapara;Milon Hazir Bari;92;390;25;1;4;4;4;3;3;4;4;3;4;3;4;2;4;1;3;51
+Dhaka South City Corporation;52;1235201001;;Uttar Muradpur 1 no. Unit;Kholilur Rahman;60;300;35;4;4;4;4;4;4;4;4;3;2;4;4;4;4;1;2;56
+Dhaka South City Corporation;52;1235201002;;Uttar Muradpur 1 no. Unit;Hazi Lal Mia Sorker Road Bagicha;50;200;20;3;3;4;4;4;3;4;3;3;3;4;4;3;4;4;4;57
+Dhaka South City Corporation;52;1235201003;;Uttar Muradpur 1 no. Unit;Around Al Aksa Mosque;70;350;20;1;3;4;2;3;4;4;4;3;3;4;3;4;4;1;2;49
+Dhaka South City Corporation;52;1235202001;;Muradpur High School 2 no. Unit;Chaiduler Bosti;15;75;35;3;3;4;4;2;3;4;4;2;2;4;4;4;4;1;2;50
+Dhaka South City Corporation;52;1235204001;;Somirunnesa High School Vobani Bagicha 4 no. Unit;Vobani Bagicha;80;320;50;4;4;4;4;3;3;4;4;1;2;3;3;3;4;4;2;52
+Dhaka South City Corporation;53;1235301001;;Jurain Medical Road and Islamabad(risipara);Islamabad(Risipara);650;3300;42;3;4;4;3;2;3;4;3;2;3;2;3;2;3;4;4;49
+Dhaka South City Corporation;53;1235301002;;Jurain Medical Road and Islamabad(risipara);Hazi Khorshed Ali Road (North Side);625;3100;40;3;2;4;2;3;4;4;2;1;2;3;4;4;4;3;2;47
+Dhaka South City Corporation;53;1235301003;;Jurain Medical Road and Islamabad(risipara);Ram Lokkhon Temple;1000;6000;45;2;3;4;2;4;3;3;2;2;3;3;2;3;2;4;2;44
+Dhaka South City Corporation;53;1235302001;;Pukurpar Fazil Sordar Road, Muradpur High School Road 1-46 no. House, Kusumbag;Khalpar er Right Side;750;4000;44;2;1;4;2;3;3;4;2;3;2;3;3;3;3;4;2;44
+Dhaka South City Corporation;53;1235302002;;Pukurpar Fazil Sordar Road, Muradpur High School Road 1-46 no. House, Kusumbag;Kusumbag Mosque(North-East Side);720;3400;42;2;3;4;2;3;4;3;2;4;3;3;4;3;2;3;2;47
+Dhaka South City Corporation;53;1235303001;;Khaja Mahabub Ali Sorok, Eidgah Mosjid Road, Nobinbag;Nobinbag(North-East Side);700;4200;30;3;4;4;2;2;4;4;3;3;3;3;2;4;4;1;2;48
+Dhaka South City Corporation;53;1235303002;;Khaja Mahabub Ali Sorok, Eidgah Mosjid Road, Nobinbag;Bakerer Barir Side;700;3500;38;2;3;4;2;2;4;4;2;2;3;3;2;3;3;3;2;44
+Dhaka South City Corporation;53;1235304001;;College Road, WASA Goli, Taltola Goli, Naborun Goli, Kala Mia Sordar Goli;Zikirulla Mosque Area;700;3500;45;2;3;4;1;3;3;2;2;2;3;2;2;3;4;4;3;43
+Dhaka South City Corporation;53;1235305001;;Sobujbag, Afsir Korim Road, 1 no. Sorok;Sobujbag Khalpar Area;600;3000;45;2;1;4;1;3;2;4;1;2;2;3;4;3;4;4;4;44
+Dhaka South City Corporation;53;1235305002;;Sobujbag, Afsir Korim Road, 1 no. Sorok;Bandura Goli Area;800;4000;35;2;3;4;2;2;4;4;2;3;4;3;4;3;4;4;2;50
+Dhaka South City Corporation;53;1235306001;;Nurani Mosjid Area, Mistir Dokan, Kobi Nojrul Goli, Hazi Khorshed Ali House With Bikrampur Plaza;Hazi Khorshed Ali Road (South Side);800;4200;45;3;1;4;2;3;4;4;2;3;4;3;4;4;4;4;2;51
+Dhaka South City Corporation;53;1235306002;;Nurani Mosjid Area, Mistir Dokan, Kobi Nojrul Goli, Hazi Khorshed Ali House With Bikrampur Plaza;Kobi Najrul Lane, Gas Pipe, Kana Jobbarer Goli;600;3200;40;2;3;4;3;3;2;4;1;1;2;3;2;4;4;4;4;46
+Dhaka South City Corporation;53;1235306003;;Nurani Mosjid Area, Mistir Dokan, Kobi Nojrul Goli, Hazi Khorshed Ali House With Bikrampur Plaza;Kanu Sha Goli, Purbo Jurain Govt. Primary School;750;3000;40;2;3;4;2;2;4;4;3;4;3;3;2;4;4;1;2;47
+Dhaka South City Corporation;54;1235401001;;Alombag;Alombag Chistiya Road;500;2500;45;4;3;4;4;3;3;3;4;3;4;3;4;4;4;4;2;56
+Dhaka South City Corporation;54;1235401002;;Alombag;Rail Line Bosti;625;3750;42;3;1;4;3;3;2;1;3;3;3;3;4;4;4;4;2;47
+Dhaka South City Corporation;54;1235402001;;Majar Area;Majar Area;200;900;50;4;4;4;4;4;4;4;3;3;1;4;3;1;3;1;1;48
+Dhaka South City Corporation;54;1235403001;;Karimullabag;Hafajnagar Bazar Goli;221;663;30;4;4;4;4;4;4;4;4;3;3;3;1;2;1;3;2;50
+Dhaka South City Corporation;54;1235403002;;Karimullabag;Volar Bosti;153;659;30;4;4;4;3;4;3;4;3;2;2;1;1;2;1;2;2;42
+Dhaka South City Corporation;54;1235403003;;Karimullabag;Kanar Mat;212;636;30;4;4;4;3;4;3;4;3;2;2;1;1;2;1;3;2;43
+Dhaka South City Corporation;54;1235403004;;Karimullabag;Mitalir Goli;750;3000;42;4;4;4;4;4;4;3;4;2;2;3;2;2;2;4;3;51
+Dhaka South City Corporation;55;1235501001;;Jaula Hati, Noya Gao, Jhau Chor;Khondokar Goli;100;430;60;2;2;4;1;1;4;1;4;3;3;2;3;4;4;4;4;46
+Dhaka South City Corporation;55;1235501002;;Jaula Hati, Noya Gao, Jhau Chor;Jhauchor Boro Mosque House;120;500;80;2;1;4;3;1;3;1;3;3;3;3;3;2;3;2;1;38
+Dhaka South City Corporation;55;1235501003;;Jaula Hati, Noya Gao, Jhau Chor;Jhaulahati Hazirhat;35;180;40;2;1;4;3;1;4;1;4;3;3;3;3;3;3;1;3;42
+Dhaka South City Corporation;55;1235502001;;Munshihati, Munshihati River side, Hasan Nagor;Munsihati River Side;130;625;55;2;2;4;4;1;3;1;4;3;3;3;3;3;4;1;3;44
+Dhaka South City Corporation;55;1235502002;;Munshihati, Munshihati River side, Hasan Nagor;Munsihati;40;225;70;1;1;3;3;1;3;1;3;3;2;3;3;2;3;2;2;36
+Dhaka South City Corporation;55;1235502003;;Munshihati, Munshihati River side, Hasan Nagor;Vandarir Mor;60;290;50;2;2;4;4;1;4;1;4;3;3;4;4;3;4;1;3;47
+Dhaka South City Corporation;55;1235503001;;Tekerhati, Aminbag;Tekerhati;70;350;65;1;1;3;3;1;3;1;3;3;3;3;3;3;4;1;2;38
+Dhaka South City Corporation;55;1235503002;;Tekerhati, Aminbag;Jannatbag;60;270;50;2;2;4;4;1;4;1;4;3;3;3;3;4;4;1;3;46
+Dhaka South City Corporation;55;1235504001;;Nabinagar, Sirajnagar, Munsurbag;West Nabinagar;10;45;12;2;2;4;1;1;3;1;4;3;3;4;4;4;4;4;4;48
+Dhaka South City Corporation;55;1235504002;;Nabinagar, Sirajnagar, Munsurbag;Shoe Factory Goli;40;190;55;1;1;3;3;1;3;1;3;3;3;3;2;2;3;2;2;36
+Dhaka South City Corporation;55;1235504003;;Nabinagar, Sirajnagar, Munsurbag;Monsurbag;90;400;55;2;2;4;3;1;3;1;4;3;3;3;3;3;4;1;3;43
+Dhaka South City Corporation;55;1235504004;;Nabinagar, Sirajnagar, Munsurbag;Nabinagar;40;185;60;1;1;3;3;1;3;1;3;3;2;2;2;2;3;1;3;34
+Dhaka South City Corporation;56;1235601001;;Huzurpara, West Ashrafabad, Alinagar;Khalpara Chowrasta;50;200;30;3;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;49
+Dhaka South City Corporation;56;1235601002;;Huzurpara, West Ashrafabad, Alinagar;Huzurpara 1st Lane;80;400;15;3;3;4;3;3;3;3;3;3;4;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235601003;;Huzurpara, West Ashrafabad, Alinagar;Faruk Mia House Road;50;210;15;3;3;4;3;4;3;4;3;3;4;3;3;4;4;1;3;52
+Dhaka South City Corporation;56;1235601004;;Huzurpara, West Ashrafabad, Alinagar;Jabeba School Road;30;100;25;3;3;4;3;4;3;4;4;4;3;3;2;3;4;1;3;51
+Dhaka South City Corporation;56;1235601005;;Huzurpara, West Ashrafabad, Alinagar;Sagor House Road;30;120;10;2;3;4;3;4;3;4;3;4;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235601006;;Huzurpara, West Ashrafabad, Alinagar;Huzurpara 2nd Lane;50;300;20;3;3;4;3;4;3;3;3;4;4;4;3;3;4;1;3;52
+Dhaka South City Corporation;56;1235601007;;Huzurpara, West Ashrafabad, Alinagar;Huzurpara 3rd Lane;80;300;10;3;3;4;3;4;3;3;3;3;4;3;3;3;3;1;3;49
+Dhaka South City Corporation;56;1235601008;;Huzurpara, West Ashrafabad, Alinagar;VIP Goli;60;250;15;3;3;4;3;4;3;4;3;3;4;4;3;3;4;1;3;52
+Dhaka South City Corporation;56;1235601009;;Huzurpara, West Ashrafabad, Alinagar;Nursery Road;30;150;12;3;3;4;3;4;3;3;3;3;4;3;3;2;4;1;3;49
+Dhaka South City Corporation;56;1235601010;;Huzurpara, West Ashrafabad, Alinagar;Alinagor 1st Lane;80;400;15;3;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235601011;;Huzurpara, West Ashrafabad, Alinagar;Chairman Goli;150;900;15;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;56;1235601012;;Huzurpara, West Ashrafabad, Alinagar;Alinagor Mosque Goli;100;500;15;3;3;4;3;3;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235601013;;Huzurpara, West Ashrafabad, Alinagar;Fatema School Road;120;700;20;3;3;4;3;4;3;3;3;4;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235601014;;Huzurpara, West Ashrafabad, Alinagar;East Alinagor 1st Lane;110;450;15;3;3;4;3;4;3;4;3;3;4;3;3;3;4;1;4;52
+Dhaka South City Corporation;56;1235602001;;Islamnagar, West Borogram, Borogram, South Rasulpur;Hazi Baten Mia Goli;100;500;15;2;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235602002;;Islamnagar, West Borogram, Borogram, South Rasulpur;Hazi Baten Mia House Road;70;250;12;2;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235602003;;Islamnagar, West Borogram, Borogram, South Rasulpur;Jalal Hazi Bari Goli;50;180;12;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;56;1235602004;;Islamnagar, West Borogram, Borogram, South Rasulpur;Battery Ghat Road;150;700;15;2;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235602005;;Islamnagar, West Borogram, Borogram, South Rasulpur;Ashrafabad School Goli;80;250;14;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;56;1235602006;;Islamnagar, West Borogram, Borogram, South Rasulpur;Alinagor 2nd Lane;40;150;15;3;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;49
+Dhaka South City Corporation;56;1235602007;;Islamnagar, West Borogram, Borogram, South Rasulpur;West Islampur 2nd Lane;80;300;15;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;56;1235602008;;Islamnagar, West Borogram, Borogram, South Rasulpur;Khankaye Sharif Road;150;800;15;3;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;49
+Dhaka South City Corporation;56;1235602009;;Islamnagar, West Borogram, Borogram, South Rasulpur;Gani Mia Madrasa Goli;80;250;15;3;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235602010;;Islamnagar, West Borogram, Borogram, South Rasulpur;Kazi Office Road Islampur;70;200;10;3;3;3;3;4;3;3;3;3;4;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235602011;;Islamnagar, West Borogram, Borogram, South Rasulpur;Kutaraghat Road;80;310;12;4;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235602012;;Islamnagar, West Borogram, Borogram, South Rasulpur;Madrasa Goli, Islampur;70;300;12;4;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235602013;;Islamnagar, West Borogram, Borogram, South Rasulpur;Boro Mosque Road;50;200;15;4;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;50
+Dhaka South City Corporation;56;1235603001;;East Rasulpur, West Rasulpur;Pocha Pukur Mor;50;200;30;3;3;3;3;4;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235603002;;East Rasulpur, West Rasulpur;Pocha Pukur Goli;80;315;10;3;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;49
+Dhaka South City Corporation;56;1235603003;;East Rasulpur, West Rasulpur;Hasan Nagor 2nd Lane West;100;500;12;3;3;3;3;3;3;3;3;3;4;3;2;3;4;1;3;47
+Dhaka South City Corporation;56;1235603004;;East Rasulpur, West Rasulpur;Hasan Nagor 2nd Lane East;40;150;10;2;3;4;3;3;3;3;3;3;3;3;3;3;4;1;3;47
+Dhaka South City Corporation;56;1235603005;;East Rasulpur, West Rasulpur;Chan Mosque 6 No Goli;30;100;10;2;3;3;3;4;3;3;3;3;4;3;2;3;4;1;3;47
+Dhaka South City Corporation;56;1235603006;;East Rasulpur, West Rasulpur;Akkel Ali Goli;80;300;12;2;3;4;3;3;3;3;3;3;4;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235603007;;East Rasulpur, West Rasulpur;Sumon Community Center Goli;25;120;15;2;3;3;3;3;3;3;3;3;3;3;3;3;4;1;3;46
+Dhaka South City Corporation;56;1235603008;;East Rasulpur, West Rasulpur;Dewan Bari Goli;200;1000;15;3;3;4;4;4;3;3;3;3;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235603009;;East Rasulpur, West Rasulpur;Company Ghat Bridge West;500;2000;12;2;3;4;3;4;3;3;3;3;3;3;3;3;4;1;3;48
+Dhaka South City Corporation;56;1235603010;;East Rasulpur, West Rasulpur;Rasulpur 9 No Road;150;800;14;3;3;4;3;4;4;3;3;3;4;3;3;3;4;1;3;51
+Dhaka South City Corporation;56;1235603011;;East Rasulpur, West Rasulpur;Rasulpur 5 No Road;100;500;10;3;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;49
+Dhaka South City Corporation;56;1235603012;;East Rasulpur, West Rasulpur;Rasulpur 2 No Road;80;300;12;3;3;4;3;4;3;3;3;3;4;3;2;3;4;1;3;49
+Dhaka South City Corporation;56;1235603013;;East Rasulpur, West Rasulpur;Rasulpur 1 No Road;60;250;10;3;3;4;3;4;3;3;3;3;4;3;3;3;4;1;3;50
+Dhaka South City Corporation;56;1235603014;;East Rasulpur, West Rasulpur;East Rasulpur 8 No Road;120;600;12;3;3;4;3;4;3;3;3;3;3;3;3;2;4;1;3;48
+Dhaka South City Corporation;56;1235603015;;East Rasulpur, West Rasulpur;Rasulpur 4 No Road;350;2000;15;3;3;3;3;3;3;3;3;3;4;3;2;3;4;1;3;47
+Dhaka South City Corporation;57;1235701001;;Mominbag, Ahsanbag;Ahsanbag Sylhetiya Bazar;170;750;70;1;1;4;4;1;2;1;2;3;2;3;3;1;4;1;3;36
+Dhaka South City Corporation;57;1235702001;;Madrasapara, Ashrafabad;Dukhuriya;95;390;70;1;1;4;4;1;4;1;4;3;3;4;3;3;4;1;3;44
+Dhaka South City Corporation;57;1235703001;;Madbor Bazar, Nurbag, Rahmatbad, Cumillapara;Balur Math;90;400;80;1;2;4;4;1;4;1;4;3;3;4;3;2;4;1;3;44
+Dhaka South City Corporation;57;1235704001;;Muslimbag, Hamlai, Balurmath, Chata Mosque;Muslimbag 1 no Goli;35;160;55;2;2;4;4;1;4;2;4;3;3;3;4;3;4;1;3;47
+Dhaka South City Corporation;57;1235704002;;Muslimbag, Hamlai, Balurmath, Chata Mosque;Muslimbag 5 no Goli;60;260;60;2;2;4;4;1;4;4;4;3;3;2;4;3;4;1;3;48
+Dhaka South City Corporation;58;1235801001;;Rajabari, Bikrompur Housing, and Ali Bahor;Old Alibahor;103;496;30;3;3;4;2;4;4;3;3;3;2;2;4;1;4;1;3;46
+Dhaka South City Corporation;58;1235802001;;Notun Shampur and Bow Bazar;Hamid Metaler Goli;40;300;20;3;2;4;2;1;1;4;4;3;2;3;4;2;2;1;1;39
+Dhaka South City Corporation;58;1235802002;;Notun Shampur and Bow Bazar;Konika Bolling Mill;350;2700;15;3;1;4;2;1;1;2;4;4;4;2;4;2;2;1;3;40
+Dhaka South City Corporation;58;1235802003;;Notun Shampur and Bow Bazar;Baganbari, Bagicha;200;1000;30;1;1;4;2;1;1;2;4;4;2;2;4;2;4;1;2;37
+Dhaka South City Corporation;58;1235803001;;Shahi mosjid WASA Road;Shahi Mosjid Area;150;600;30;2;3;4;2;2;2;3;1;1;1;2;3;3;3;1;3;36
+Dhaka South City Corporation;58;1235804001;;Maher Ali Road Bisfoot;Bisfoot;120;500;20;3;2;4;2;1;2;3;2;2;2;1;3;3;3;3;2;38
+Dhaka South City Corporation;58;1235805001;;RAJUK Industrial Area;RAJUK Industrial Area;315;1240;70;4;4;4;2;3;4;3;3;3;3;3;4;1;4;4;3;52
+Dhaka South City Corporation;58;1235805002;;RAJUK Industrial Area;Mainuddi Bari;160;670;120;3;4;4;2;3;3;1;2;2;3;2;4;3;4;4;2;46
+Dhaka South City Corporation;58;1235805003;;RAJUK Industrial Area;Baghabari;60;240;80;2;2;4;2;4;3;1;1;3;2;2;4;2;4;4;2;42
+Dhaka South City Corporation;59;1235901001;;Merajnagar;Masumer Bari;20;100;30;2;1;4;3;3;2;1;2;3;2;4;4;3;4;1;2;41
+Dhaka South City Corporation;59;1235901002;;Merajnagar;Koshaipotti;30;120;30;2;3;3;2;2;2;1;2;3;2;4;3;2;4;1;2;38
+Dhaka South City Corporation;59;1235903001;;Mohammadbag;Sekendar Khaner Bosti;17;80;7;4;1;4;4;4;2;2;2;3;2;4;1;1;2;1;2;39
+Dhaka South City Corporation;59;1235903002;;Mohammadbag;Hazi Shaheber Bari;32;120;10;2;2;4;3;3;1;1;2;2;1;3;2;1;2;1;2;32
+Dhaka South City Corporation;59;1235903003;;Mohammadbag;Amir Hossain er Bari;7;45;5;4;4;4;3;2;3;4;2;2;1;2;2;1;2;1;2;39
+Dhaka South City Corporation;59;1235903004;;Mohammadbag;Shafiq er Bari;7;38;22;4;3;4;3;2;3;4;3;3;1;1;1;1;2;1;2;38
+Dhaka South City Corporation;59;1235903005;;Mohammadbag;Settlement Near Boro Masjid Lane;18;40;10;4;4;4;2;2;2;2;2;3;2;4;2;1;1;1;2;38
+Dhaka South City Corporation;59;1235903006;;Mohammadbag;386 east Kadamtali, Shaheb Bhai er Bosti;8;38;30;4;1;4;2;2;2;3;3;3;1;1;1;1;1;1;2;32
+Dhaka South City Corporation;59;1235904001;;Dhaka Match Factory Area;Dhaka Match Labour Colony;850;7500;60;3;3;3;4;2;1;1;2;1;1;1;2;4;3;4;3;38
+Dhaka South City Corporation;59;1235904002;;Dhaka Match Factory Area;Second Gate Bosti;180;750;20;3;3;3;4;2;1;1;2;3;1;1;2;4;3;4;3;40
+Dhaka South City Corporation;60;1236001001;;Polaspur and Janatabag;Janatabag(Volar Somiti);30;120;40;3;3;4;4;2;4;4;3;3;2;3;4;4;4;4;4;55
+Dhaka South City Corporation;60;1236001002;;Polaspur and Janatabag;Bagbari(North Side);125;500;30;2;3;4;4;3;4;2;3;4;3;2;4;4;4;4;4;54
+Dhaka South City Corporation;60;1236001003;;Polaspur and Janatabag;Rayerbag er Matha;20;80;30;3;3;4;4;2;4;3;3;3;2;2;4;4;4;4;4;53
+Dhaka South City Corporation;60;1236001004;;Polaspur and Janatabag;Polaspur Molla Bari;40;200;30;3;4;4;4;4;4;3;3;3;2;1;4;4;4;4;4;55
+Dhaka South City Corporation;60;1236002001;;Royisnagar and Smritidhara;Police Fari Area;50;200;30;2;3;4;3;2;3;3;2;3;2;1;4;4;4;4;4;48
+Dhaka South City Corporation;60;1236002002;;Royisnagar and Smritidhara;South Janatabag;50;200;30;3;3;4;3;2;4;3;2;3;2;3;4;4;4;4;4;52
+Dhaka South City Corporation;60;1236002003;;Royisnagar and Smritidhara;Miraz Nagar;20;100;7;2;4;3;3;3;4;1;2;3;1;2;4;1;4;1;3;41
+Dhaka South City Corporation;60;1236002004;;Royisnagar and Smritidhara;Smritidhara;20;80;10;2;4;3;4;2;4;2;2;3;1;2;4;1;4;1;3;42
+Dhaka South City Corporation;60;1236003001;;Nurpur;Baitus Salam Mosque Road;25;100;15;2;4;4;4;2;4;2;3;2;1;2;4;1;4;1;3;43
+Dhaka South City Corporation;60;1236003002;;Nurpur;Bank Colony;20;100;25;4;1;4;3;2;4;1;3;3;2;2;4;1;4;1;3;42
+Dhaka South City Corporation;60;1236004001;;Paterbag and Rosulbag;Muktodhara 1,2,4,and 5 no Goli;15;60;9;2;2;4;2;2;4;1;3;3;1;2;4;1;4;1;3;39
+Dhaka South City Corporation;60;1236004002;;Paterbag and Rosulbag;Rosulbag;138;650;48;2;1;4;4;2;2;1;3;2;1;2;3;3;4;1;3;38
+Dhaka South City Corporation;60;1236004003;;Paterbag and Rosulbag;Rahamatbag and Shajalalbag;165;780;52;2;1;4;4;2;2;1;3;2;1;2;3;3;4;1;3;38
+Dhaka South City Corporation;60;1236004004;;Paterbag and Rosulbag;Paterbag;25;100;30;3;4;4;2;2;4;1;2;3;1;2;4;1;4;1;3;41
+Dhaka South City Corporation;61;1236101001;;Old Doniya;Paterbag Area;9;80;20;3;3;4;3;3;3;4;4;3;3;3;3;3;3;4;4;53
+Dhaka South City Corporation;61;1236102001;;South Doniya;Shaplakuri School Road Bosoti;10;50;30;3;1;4;3;2;3;4;3;2;2;3;2;2;1;1;3;39
+Dhaka South City Corporation;61;1236102002;;South Doniya;Baitul Aman Jame Mosjid Road;15;50;40;2;1;3;4;3;3;4;3;4;3;3;2;2;2;1;3;43
+Dhaka South City Corporation;61;1236102003;;South Doniya;Baitul Aman Jame Mosjid Area Bosoty;9;45;30;2;1;3;3;3;3;4;3;3;3;3;2;2;2;1;3;41
+Dhaka South City Corporation;61;1236102004;;South Doniya;Baitul Aman Jame Mosjid Area;13;38;40;2;1;3;3;2;3;4;3;3;3;3;2;2;2;1;3;40
+Dhaka South City Corporation;61;1236102005;;South Doniya;Hazi Nasiruddin Road Bosoty;20;80;32;3;3;4;2;3;4;4;4;4;3;3;3;3;3;4;4;54
+Dhaka South City Corporation;61;1236102006;;South Doniya;Sorasheo Jame Mosjid Road Bosoti;10;40;15;3;3;4;3;4;4;4;4;3;3;3;3;3;3;4;4;55
+Dhaka South City Corporation;61;1236103001;;Rasulpur ;Purbo-Rasulpur Basoti;11;40;15;3;3;4;4;4;4;4;4;3;3;3;4;3;4;4;4;58
+Dhaka South City Corporation;61;1236103002;;Rasulpur ;Ahammed Hamid Jame Mosjid Bosoty;21;85;18;3;1;4;3;3;3;4;3;3;3;3;3;3;3;1;3;46
+Dhaka South City Corporation;62;1236201001;;Kajla,Noyanagar,Sontec and KutubKhali;Sumoner Bosti;11;47;23;2;4;4;4;4;4;3;1;1;1;4;4;1;4;1;1;43
+Dhaka South City Corporation;62;1236201002;;Kajla,Noyanagar,Sontec and KutubKhali;Boro Bosti;42;209;18;2;4;4;4;4;4;3;1;4;1;4;4;1;4;1;2;47
+Dhaka South City Corporation;62;1236201003;;Kajla,Noyanagar,Sontec and KutubKhali;Jaman Shaheber Bosti;16;64;12;2;4;4;3;3;2;1;2;2;1;4;4;4;4;1;2;43
+Dhaka South City Corporation;62;1236201004;;Kajla,Noyanagar,Sontec and KutubKhali;Md. Ainal Huq Polas Bosti;18;54;22;2;4;4;3;3;2;1;2;2;1;4;4;4;4;1;2;43
+Dhaka South City Corporation;62;1236201005;;Kajla,Noyanagar,Sontec and KutubKhali;Beauty Bosti;22;82;18;2;2;4;3;3;2;1;2;2;1;2;4;1;4;1;2;36
+Dhaka South City Corporation;62;1236202001;;Sheikhdi;Hazir Bosti;32;128;30;4;4;4;4;4;4;4;2;3;1;2;4;1;4;1;2;48
+Dhaka South City Corporation;62;1236202002;;Sheikhdi;Nur Islam Molla Bosti;18;95;22;3;4;4;4;4;4;4;4;4;2;3;4;2;4;1;2;53
+Dhaka South City Corporation;62;1236202003;;Sheikhdi;Uchabari Bosti;13;56;20;4;4;4;4;4;4;3;1;2;1;4;3;1;4;1;3;47
+Dhaka South City Corporation;62;1236202004;;Sheikhdi;Rober Bosti;24;123;25;4;4;4;4;4;4;4;2;2;1;2;4;4;4;1;2;50
+Dhaka South City Corporation;62;1236202005;;Sheikhdi;Robir Bosti;15;79;22;4;4;4;4;4;1;3;2;1;1;3;4;1;4;1;2;43
+Dhaka South City Corporation;62;1236203001;;Govindopur and Rosulbag;Mokles Matbor Bosti;38;192;25;3;3;4;3;4;3;3;4;3;3;3;4;3;4;4;4;55
+Dhaka South City Corporation;62;1236203002;;Govindopur and Rosulbag;Chokider Bari Bosti;30;110;21;3;3;4;3;4;3;2;4;3;3;3;4;3;4;4;4;54
+Dhaka South City Corporation;62;1236203003;;Govindopur and Rosulbag;Hindu Potti Bosti;50;190;20;2;3;4;3;4;3;2;4;3;3;3;4;3;4;4;4;53
+Dhaka South City Corporation;62;1236203004;;Govindopur and Rosulbag;Milon Miar Bosti;44;175;22;4;4;4;4;4;3;2;4;3;3;3;3;3;4;4;4;56
+Dhaka South City Corporation;62;1236203005;;Govindopur and Rosulbag;Jamilar Bari Bosti;20;70;18;3;3;4;3;4;3;2;4;3;3;3;4;3;4;4;4;54
+Dhaka South City Corporation;62;1236203006;;Govindopur and Rosulbag;Moyner Bari Bosti;20;70;20;3;3;4;3;4;3;3;4;3;3;3;4;3;4;4;4;55
+Dhaka South City Corporation;62;1236203007;;Govindopur and Rosulbag;Kumilla Potti Bosti;50;190;20;3;3;4;3;4;3;3;4;3;3;3;4;4;4;4;4;56
+Dhaka South City Corporation;62;1236203008;;Govindopur and Rosulbag;Anwar Hossen Khaner Bosti;29;145;20;3;4;4;4;4;4;4;2;2;1;2;4;4;4;1;2;49
+Dhaka South City Corporation;63;1236301001;;Matuail Uttarpara;Akhtar er Bari;17;73;30;3;1;4;4;4;2;2;2;4;2;3;4;2;4;1;3;45
+Dhaka South City Corporation;63;1236301002;;Matuail Uttarpara;Munshi Bari;22;92;35;1;1;4;4;4;1;2;2;4;2;4;4;1;4;1;3;42
+Dhaka South City Corporation;63;1236301003;;Matuail Uttarpara;Mia Bari;11;39;20;2;3;4;3;4;2;1;2;4;3;4;4;1;4;1;3;45
+Dhaka South City Corporation;63;1236301004;;Matuail Uttarpara;Shukkor Mia Bari;24;107;35;3;1;4;3;4;2;2;2;4;2;4;4;4;4;1;3;47
+Dhaka South City Corporation;63;1236301005;;Matuail Uttarpara;Bhuiyan Bari;13;53;25;1;1;4;1;4;1;2;2;4;2;4;4;1;4;1;3;39
+Dhaka South City Corporation;63;1236301006;;Matuail Uttarpara;Piyar er Bari;9;29;20;1;1;4;3;4;3;1;2;2;2;4;4;1;4;1;3;40
+Dhaka South City Corporation;63;1236302001;;Kazirgaon;Mollabari Bosti Area;25;100;20;3;4;4;4;4;2;1;3;3;2;4;4;4;4;4;3;53
+Dhaka South City Corporation;63;1236302002;;Kazirgaon;Mollabari Jame Masjid;15;75;15;3;4;4;4;4;2;1;3;3;2;4;4;3;4;4;3;52
+Dhaka South City Corporation;63;1236302003;;Kazirgaon;Nizam Khan Bosti;12;56;23;3;1;4;4;4;2;1;2;3;2;4;4;3;4;4;3;48
+Dhaka South City Corporation;63;1236302004;;Kazirgaon;Ali Bandari Bosti;23;107;15;3;3;4;4;3;2;1;3;3;2;4;4;3;4;4;4;51
+Dhaka South City Corporation;63;1236302005;;Kazirgaon;Minnat Fakir Basti;20;122;17;3;1;4;2;4;2;1;2;2;1;4;4;3;4;4;3;44
+Dhaka South City Corporation;63;1236302006;;Kazirgaon;Karim Member Bosti Area;27;135;13;3;4;4;4;2;1;1;3;3;2;4;3;3;4;4;3;48
+Dhaka South City Corporation;63;1236302007;;Kazirgaon;Shahadat Molla Bosti;16;80;19;3;4;4;4;4;2;1;3;3;2;3;4;3;4;4;3;51
+Dhaka South City Corporation;63;1236302008;;Kazirgaon;Miabari Bosti Area;22;118;9;2;1;4;4;4;2;1;2;3;2;4;4;3;4;4;3;47
+Dhaka South City Corporation;63;1236302009;;Kazirgaon;Karim Member Area;21;110;15;3;4;4;4;4;2;1;3;3;2;4;4;3;4;4;3;52
+Dhaka South City Corporation;63;1236302010;;Kazirgaon;Khanka Road Bosti;70;400;22;1;1;3;2;3;3;1;1;2;1;4;3;4;3;4;3;39
+Dhaka South City Corporation;63;1236302011;;Kazirgaon;Saiful er Bosti;17;135;17;3;4;4;4;4;2;1;3;3;2;4;4;4;4;4;3;53
+Dhaka South City Corporation;63;1236302012;;Kazirgaon;Litoner Bari;8;30;15;3;1;4;3;3;2;3;4;3;3;4;4;3;3;4;4;51
+Dhaka South City Corporation;63;1236302013;;Kazirgaon;Muktar Miyar Bari;33;120;35;3;1;4;4;3;2;2;3;3;3;3;4;3;3;4;3;48
+Dhaka South City Corporation;63;1236303001;;Kajla;Kajlar Paar Bosti;1050;3500;35;3;3;4;4;4;3;3;4;4;3;4;4;3;4;4;4;58
+Dhaka South City Corporation;63;1236303002;;Kajla;Samadnogor Bosti 1;7;33;8;1;1;4;1;2;2;1;2;2;2;3;4;1;4;1;3;34
+Dhaka South City Corporation;63;1236303003;;Kajla;Samadnagar Bosti 2;4;29;9;2;1;4;1;2;2;1;2;2;1;3;4;1;4;1;3;34
+Dhaka South City Corporation;63;1236304001;;Samadnagar & DMC Waste Management Area;Bodu Bosti;7;28;12;2;1;4;1;2;2;1;2;2;2;3;4;1;4;1;4;36
+Dhaka South City Corporation;63;1236304002;;Samadnagar & DMC Waste Management Area;Ripon Miyar Bosti;12;50;4;2;1;4;1;3;2;1;2;2;1;3;1;1;3;1;2;30
+Dhaka South City Corporation;63;1236304003;;Samadnagar & DMC Waste Management Area;Ali Akbarer Bosti;11;47;6;2;1;4;1;2;2;1;2;2;1;3;1;1;4;1;3;31
+Dhaka South City Corporation;63;1236304004;;Samadnagar & DMC Waste Management Area;Baitul Mamur Masjid Adjacent Bosti;8;30;8;2;1;4;1;3;2;1;2;2;2;3;4;1;4;1;3;36
+Dhaka South City Corporation;63;1236304005;;Samadnagar & DMC Waste Management Area;Dumping Area Bosti;34;123;9;1;1;4;1;1;1;1;1;2;1;3;1;1;1;2;1;23
+Dhaka South City Corporation;63;1236304006;;Samadnagar & DMC Waste Management Area;Kajlar Paar Uttar Para Mana. Area;250;800;35;3;3;4;4;4;3;4;4;4;3;4;4;3;4;4;4;59
+Dhaka South City Corporation;64;1236401001;;Para Dogair Purboppara;Mofur Bosti;127;594;30;4;3;4;4;4;4;4;4;3;1;1;4;4;4;4;4;56
+Dhaka South City Corporation;64;1236401002;;Para Dogair Purboppara;Momenbag(Arabari);180;550;40;1;1;4;1;4;2;1;2;2;2;3;4;4;4;4;4;43
+Dhaka South City Corporation;64;1236402001;;Para Dogair Notun Para;32 House;32;100;25;4;4;4;4;4;4;4;3;3;3;3;4;4;4;4;4;60
+Dhaka South City Corporation;64;1236403001;;Baserpul Eastern Housing;Baserpul Notunpara Brac school;30;100;18;4;4;4;4;4;4;4;4;3;4;3;4;4;4;4;4;62
+Dhaka South City Corporation;64;1236404001;;Dharmikpara City mill Area;Centurbosti;105;325;35;1;1;4;1;4;4;1;2;3;3;3;4;4;4;4;4;47
+Dhaka South City Corporation;64;1236404002;;Dharmikpara City mill Area;Kasher Bari;50;135;25;3;1;4;1;4;4;1;3;3;4;3;4;4;4;4;4;51
+Dhaka South City Corporation;65;1236501001;;Uttor Rayerbag;Amir Hosener Bari;50;200;25;3;2;4;4;4;2;1;2;3;3;4;2;2;2;1;2;41
+Dhaka South City Corporation;65;1236501002;;Uttor Rayerbag;Shahin Khaner/Rubeler Bari;20;80;25;3;3;4;4;2;3;1;2;2;2;4;2;2;2;1;2;39
+Dhaka South City Corporation;65;1236501003;;Uttor Rayerbag;Keranipara Deloarer Bari;40;160;30;2;2;2;4;2;3;1;3;3;3;4;2;2;2;1;2;38
+Dhaka South City Corporation;65;1236501004;;Uttor Rayerbag;Sojib Vuiyar Bari (Dokkhin Para);44;170;15;4;4;4;4;3;3;3;3;3;3;3;4;4;4;4;4;57
+Dhaka South City Corporation;65;1236501005;;Uttor Rayerbag;Bablu Mia/Farukh Mia/ Mojid Khar Bari;55;250;15;4;4;4;4;4;3;4;3;3;2;4;4;2;4;4;3;56
+Dhaka South City Corporation;65;1236501006;;Uttor Rayerbag;Chanvanu Mosque Area/ Jahangir er Bari;230;720;50;2;2;4;2;3;2;3;2;2;2;4;4;4;4;4;4;48
+Dhaka South City Corporation;65;1236501007;;Uttor Rayerbag;Rashid Bagh;80;250;20;2;2;4;4;4;3;2;3;3;3;4;4;2;4;4;3;51
+Dhaka South City Corporation;65;1236501008;;Uttor Rayerbag;Dokkhinpara Old Mosque;50;160;50;2;2;4;3;3;2;3;2;2;2;4;4;2;4;4;3;46
+Dhaka South City Corporation;65;1236501009;;Uttor Rayerbag;Mannan Khan/Mijan/Shamim/Najimuddin er Bari;180;500;20;3;3;4;4;4;2;3;3;3;2;4;4;3;4;4;4;54
+Dhaka South City Corporation;65;1236502001;;Khuryapara/Keraniapara;Kumilla Potti/Kainjakara;20;80;35;2;2;4;4;2;2;3;2;2;2;4;2;2;2;1;1;37
+Dhaka South City Corporation;65;1236502002;;Khuryapara/Keraniapara;Karim Road theke Markajul Ulum Madrasa;40;160;35;2;3;4;4;3;3;1;2;2;2;4;2;2;2;1;1;38
+Dhaka South City Corporation;65;1236502003;;Khuryapara/Keraniapara;Rahmotpur Jame Mosjid Area;12;50;25;3;3;4;4;3;2;4;3;2;2;4;2;2;2;1;1;42
+Dhaka South City Corporation;65;1236502004;;Khuryapara/Keraniapara;Alamin Road;50;200;30;1;1;2;4;3;3;1;2;2;2;4;2;2;2;1;1;33
+Dhaka South City Corporation;65;1236502005;;Khuryapara/Keraniapara;Modhubagh;50;200;35;3;3;4;4;4;4;4;3;3;3;4;2;2;2;1;2;48
+Dhaka South City Corporation;65;1236502006;;Khuryapara/Keraniapara;Poschim Santibagh;30;120;15;3;2;4;4;3;3;4;3;2;2;4;2;2;3;1;2;44
+Dhaka South City Corporation;65;1236502007;;Khuryapara/Keraniapara;Matuail Dokkhin Para Kaissar Bagh;40;160;50;2;1;3;1;1;2;1;2;2;2;2;4;4;4;1;2;34
+Dhaka South City Corporation;65;1236503001;;Muslimnagar;Barek Talukdar er Bari & Surrounding Area;20;90;20;3;3;4;4;4;3;3;2;2;2;4;4;3;4;4;4;53
+Dhaka South City Corporation;65;1236503002;;Muslimnagar;Saidur Rahmaner Bari (Khuryapara);20;70;15;2;1;3;3;4;2;2;2;2;2;4;4;3;4;4;2;44
+Dhaka South City Corporation;65;1236503003;;Muslimnagar;Farukh Uddin er Bari & Surrounding Area;40;150;20;3;1;4;3;4;2;3;3;3;2;4;4;2;4;4;3;49
+Dhaka South City Corporation;65;1236504001;;Mujahidnagar;Karim Miar Bosti;20;80;30;2;1;4;2;3;2;4;1;2;3;4;4;3;4;1;2;42
+Dhaka South City Corporation;65;1236504002;;Mujahidnagar;Jahangir Saheber Bari;25;100;25;2;2;4;4;4;2;4;2;2;2;4;4;4;4;1;3;48
+Dhaka South City Corporation;65;1236504003;;Mujahidnagar;New Vision Sonlogno Area;20;80;20;3;3;4;4;4;2;4;2;2;2;4;4;4;4;1;2;49
+Dhaka South City Corporation;66;1236601001;;Bamoil & Dogair area;Chungi para;30;90;50;4;4;4;4;4;2;4;4;3;4;4;4;4;4;4;4;61
+Dhaka South City Corporation;66;1236601002;;Bamoil & Dogair area;Bamoil Poschim para;40;120;50;2;1;4;2;4;2;4;4;4;4;2;4;4;4;4;4;53
+Dhaka South City Corporation;66;1236602001;;Mazar Road;Mazar Road;30;120;40;2;2;4;2;1;1;4;4;1;1;4;4;4;4;4;4;46
+Dhaka South City Corporation;66;1236603001;;Puraton Dogair;Dokkhin Para;20;60;50;3;1;4;3;2;2;4;4;3;2;2;4;4;4;4;4;50
+Dhaka South City Corporation;66;1236603002;;Puraton Dogair;Rustom ali School area;40;120;50;3;2;4;3;4;4;4;4;4;4;4;4;4;4;4;4;60
+Dhaka South City Corporation;66;1236604001;;Mohakash & Sonarpar;Mohakash;25;75;30;2;1;4;2;4;4;4;4;3;2;4;4;4;4;4;4;54
+Dhaka South City Corporation;66;1236604002;;Mohakash & Sonarpar;Noya Para;30;150;20;2;1;4;2;2;4;4;4;4;4;3;4;4;4;4;4;54
+Dhaka South City Corporation;67;1236701001;;Shukurshi;Dakkhin para (1);20;102;20;4;4;4;2;1;4;1;4;4;1;4;1;4;4;1;2;45
+Dhaka South City Corporation;67;1236701002;;Shukurshi;Dakkhin para (2);21;100;20;4;4;4;2;1;4;1;4;4;1;4;1;4;4;1;2;45
+Dhaka South City Corporation;67;1236701003;;Shukurshi;North Portion of Eidgah;20;105;20;4;4;4;2;1;4;1;4;4;1;4;1;4;4;1;2;45
+Dhaka South City Corporation;67;1236701004;;Shukurshi;Hazi Abdullah Road Area;50;150;100;4;4;4;2;1;4;1;4;4;1;4;1;4;4;1;2;45
+Dhaka South City Corporation;67;1236701005;;Shukurshi;Dhalipara Area;25;80;100;3;4;4;1;1;1;4;4;4;1;4;3;2;4;1;2;43
+Dhaka South City Corporation;67;1236702001;;Purbo Box Nagar;Ondhoproject;24;200;20;2;1;4;1;1;1;1;2;1;1;4;1;1;2;4;3;30
+Dhaka South City Corporation;67;1236702002;;Purbo Box Nagar;Hindu project;300;1000;60;2;3;4;4;1;4;3;3;2;2;4;4;4;4;4;4;52
+Dhaka South City Corporation;67;1236702003;;Purbo Box Nagar;Bokul tola;20;150;25;4;4;4;1;1;3;3;4;3;1;4;4;3;4;4;4;51
+Dhaka South City Corporation;67;1236702004;;Purbo Box Nagar;Karim Coloney;28;250;35;1;1;4;3;1;3;3;3;1;1;4;4;3;4;4;4;44
+Dhaka South City Corporation;67;1236703001;;Paschim Box Nagar;Masjid Para;22;150;25;4;4;4;4;1;3;4;4;3;1;4;4;2;4;1;4;51
+Dhaka South City Corporation;67;1236703002;;Paschim Box Nagar;Bosti Beside Kishoraloy School;20;150;35;4;4;4;4;1;2;4;4;3;1;4;4;2;4;4;3;52
+Dhaka South City Corporation;67;1236704001;;Dakkhin Tengra;Shopnodahara;25;100;30;4;4;4;2;1;4;4;4;3;1;3;4;2;4;4;4;52
+Dhaka South City Corporation;67;1236704002;;Dakkhin Tengra;Goribe Newaj;30;150;25;1;1;4;2;1;3;1;4;3;1;2;4;2;4;4;4;41
+Dhaka South City Corporation;67;1236704003;;Dakkhin Tengra;Monu Mia Market;20;120;35;4;4;4;4;1;4;4;4;3;1;4;4;3;4;1;4;53
+Dhaka South City Corporation;67;1236705001;;Bahir Tengra;Taltola Bosti;25;200;35;4;4;4;3;1;4;4;4;3;1;4;4;2;4;4;4;54
+Dhaka South City Corporation;67;1236705002;;Bahir Tengra;Ideal Road Bosti;23;230;40;4;4;4;4;1;3;4;4;3;1;4;4;2;4;4;4;54
+Dhaka South City Corporation;67;1236705003;;Bahir Tengra;Nijhumbag Area;23;200;30;4;4;4;3;1;4;4;4;3;1;4;4;2;4;4;4;54
+Dhaka South City Corporation;68;1236801001;;sarulia;wasa Road;498;2010;70;3;2;4;2;4;4;4;4;3;2;2;4;4;4;4;4;54
+Dhaka South City Corporation;68;1236801002;;sarulia;Sarulia Nadirpar;595;2280;73;4;4;4;2;4;4;4;4;3;1;3;4;4;4;4;4;57
+Dhaka South City Corporation;68;1236801003;;Sarulia;Motbari;510;2200;60;4;2;4;2;4;4;4;4;1;1;1;4;4;4;4;4;51
+Dhaka South City Corporation;68;1236801004;;Sarulia;Hanif miar bari;550;2118;63;4;4;4;2;4;4;4;3;2;1;3;4;4;4;4;4;55
+Dhaka South City Corporation;68;1236802001;;Tengra;Ma memorial school road;648;2750;61;4;2;4;2;4;4;4;4;1;1;1;4;4;4;4;4;51
+Dhaka South City Corporation;69;1236901001;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Sirajmollar Bosti;67;358;30;4;4;4;4;4;4;4;3;2;2;3;1;2;1;1;3;46
+Dhaka South City Corporation;69;1236901002;;Noraibag, Mirpara, Rajakhali, Demra(Partial);School Bari (South);33;187;40;4;4;4;4;4;4;4;3;3;2;3;3;4;4;4;4;58
+Dhaka South City Corporation;69;1236901003;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Mollabari- Akim Molla ;37;227;30;4;4;4;4;4;4;4;2;2;2;3;4;4;4;4;4;57
+Dhaka South City Corporation;69;1236901004;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Hindupara;43;177;100;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;64
+Dhaka South City Corporation;69;1236901005;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Councillor Potti;12;73;25;4;4;4;4;4;3;4;2;3;1;3;1;1;3;2;1;44
+Dhaka South City Corporation;69;1236901006;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Tomijuddin Road;23;137;15;4;4;4;4;4;4;4;3;3;2;3;4;4;4;4;3;58
+Dhaka South City Corporation;69;1236901007;;Noraibag, Mirpara, Rajakhali, Demra(Partial);Dighir Bari (West);81;401;30;1;4;4;4;4;4;1;3;2;2;3;4;4;4;4;4;52
+Dhaka South City Corporation;69;1236902001;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;Workshop Potti;20;98;43;4;4;4;4;4;4;4;4;3;3;3;2;2;2;2;2;51
+Dhaka South City Corporation;69;1236902002;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;Dargapara;60;287;57;1;3;4;4;4;4;4;3;3;2;3;2;2;2;2;2;45
+Dhaka South City Corporation;69;1236902003;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;Rompur;85;300;46;1;3;3;4;4;4;4;3;3;2;3;2;2;2;2;2;44
+Dhaka South City Corporation;69;1236902004;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;Demra Uttor bazar;70;270;37;1;4;4;4;4;4;4;2;2;2;3;2;2;2;2;2;44
+Dhaka South City Corporation;69;1236902005;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;School Potti;55;340;35;4;4;4;4;4;4;4;3;3;3;3;4;4;4;4;4;60
+Dhaka South City Corporation;69;1236902006;;Khola para, Demra, Namapara, Rumpur, Kamar Gop, 4 no. gate;Mosjid Goli;27;163;33;4;4;4;4;4;4;4;4;2;2;3;4;4;4;4;4;59
+Dhaka South City Corporation;69;1236903001;;Bauni Nagar;Nepali Quarter;60;257;50;4;4;4;4;4;4;4;4;2;2;4;1;1;3;2;3;50
+Dhaka South City Corporation;69;1236903002;;Bauni Nagar;Shromik Quarter;30;160;50;4;4;4;4;4;4;4;4;2;2;4;1;1;3;2;3;50
+Dhaka South City Corporation;70;1237002001;;Mendipur;Amulia and Sunna;235;700;65;3;2;4;2;1;2;4;4;3;1;2;4;4;4;4;4;48
+Dhaka South City Corporation;70;1237002002;;Mendipur;Thulthulia and kayetpara;2400;7200;125;2;2;4;1;1;2;4;4;3;1;2;4;4;4;4;4;46
+Dhaka South City Corporation;70;1237004001;;Paiti Deilla;Deilla;300;900;60;2;1;4;2;1;2;4;4;3;1;2;4;4;4;4;4;46
+Dhaka South City Corporation;71;1237101001;;Prothom Goli;Prothom Goli;160;800;20;3;3;4;2;3;3;2;2;1;1;1;2;2;3;3;2;37
+Dhaka South City Corporation;71;1237101002;;Prothom Goli;Lal Mia and Hiru Mia Road;200;1000;25;2;2;4;2;3;3;2;2;1;1;1;1;1;1;1;1;28
+Dhaka South City Corporation;71;1237101003;;Prothom Goli;Baitul Falha and Salah Mosque Area;280;1400;15;1;1;3;1;2;2;1;2;2;1;1;1;1;2;1;1;23
+Dhaka South City Corporation;71;1237102001;;Hiru Mia and Balur Mat;Garial Bari;75;300;15;3;4;4;2;4;3;4;3;1;2;2;2;1;4;1;1;41
+Dhaka South City Corporation;71;1237102002;;Hiru Mia and Balur Mat;Danober Goli;245;1225;10;3;4;4;2;4;4;4;3;3;2;3;2;1;4;1;1;45
+Dhaka South City Corporation;71;1237102003;;Hiru Mia and Balur Mat;Piar Ali Bosti;220;1100;20;2;4;4;2;3;3;4;3;1;2;2;3;1;4;1;1;40
+Dhaka South City Corporation;71;1237102004;;Hiru Mia and Balur Mat;Balur Mat;210;1050;15;2;4;4;2;4;3;4;2;3;2;2;2;1;3;1;1;40
+Dhaka South City Corporation;71;1237103001;;Kodom Ali Jilpar and Markajul Ulum Madrasa;An Nur Mosque Road;200;900;20;2;4;3;2;2;2;2;1;2;1;2;3;1;3;1;3;34
+Dhaka South City Corporation;71;1237103002;;Kodom Ali Jilpar and Markajul Ulum Madrasa;Kodom Ali Jilpar;450;2100;25;3;4;4;2;2;1;1;1;2;1;2;2;1;3;1;3;33
+Dhaka South City Corporation;71;1237103003;;Kodom Ali Jilpar and Markajul Ulum Madrasa;Takpara;400;1800;20;2;3;4;2;2;2;1;2;1;1;2;2;1;3;1;3;32
+Dhaka South City Corporation;72;1237201001;;Khalpar and Molaigoli;Molaigoli;210;800;20;4;4;4;4;4;4;3;3;3;2;3;4;3;3;1;3;52
+Dhaka South City Corporation;72;1237201002;;Khalpar and Molaigoli;Khalpar;150;720;20;4;4;4;4;4;4;3;3;3;2;3;4;3;3;1;3;52
+Dhaka South City Corporation;72;1237202001;;Takipara and Sonamia Road;Sona Mia tak Bosti;170;620;30;4;4;4;4;4;4;3;3;3;2;3;4;3;3;1;3;52
+Dhaka South City Corporation;72;1237203001;;Moddhopara;Jamer Tak;40;220;20;2;4;4;4;4;3;3;3;3;4;3;4;3;3;1;3;51
+Dhaka South City Corporation;72;1237203002;;Moddhopara;Jamer Tak Balur Mat;30;140;15;2;4;4;3;3;3;3;2;2;3;3;4;3;3;1;3;46
+Dhaka South City Corporation;72;1237203003;;Moddhopara;Moddhopara;50;250;20;4;4;4;3;4;3;3;3;3;3;3;4;3;3;1;3;51
+Dhaka South City Corporation;72;1237204001;;Boropara;Hindu Para;120;450;150;4;4;4;4;4;4;4;3;3;2;2;4;3;3;1;3;52
+Dhaka South City Corporation;72;1237204002;;Boropara;Boropara;200;780;35;4;4;4;4;4;4;3;3;3;2;3;4;3;3;1;3;52
+Dhaka South City Corporation;72;1237204003;;Boropara;Fojol Bapary Road;120;470;40;4;4;4;4;4;4;3;3;3;2;3;4;3;3;1;3;52
+Dhaka South City Corporation;73;1237301001;;Kusumbag, Begumbari, Bottola;Kusumbag;400;1600;25;2;1;4;1;4;4;4;3;1;1;3;4;1;4;1;2;40
+Dhaka South City Corporation;73;1237301002;;Kusumbag, Begumbari, Bottola;Shahibag Bottola;60;280;20;1;2;4;2;4;4;4;2;4;1;3;4;1;4;1;2;43
+Dhaka South City Corporation;73;1237302001;;Dokhingao 1,2,3 no. Road;Shahi Mosjid 1 No. Road;90;460;30;3;2;4;2;4;4;4;1;3;1;3;4;1;4;1;2;43
+Dhaka South City Corporation;73;1237302002;;Dokhingao 1,2,3 no. Road;Matbor Bari;200;900;25;4;4;4;3;4;4;4;4;4;4;4;3;1;3;1;3;54
+Dhaka South City Corporation;73;1237302003;;Dokhingao 1,2,3 no. Road;Titas Road;65;280;30;2;2;4;4;4;4;4;4;4;1;3;4;1;4;1;2;48
+Dhaka South City Corporation;73;1237303001;;Dokhingao 4,5,6 Joynabbag and One side of Shahibar;Medha Bikas School;250;1100;15;2;1;4;2;4;1;1;3;4;1;1;1;3;3;1;3;35
+Dhaka South City Corporation;73;1237303002;;Dokhingao 4,5,6 Joynabbag and One side of Shahibar;Borobari Shahibag;350;1360;25;3;1;4;1;1;3;1;1;1;2;2;4;1;4;1;2;32
+Dhaka South City Corporation;73;1237303003;;Dokhingao 4,5,6 Joynabbag and One side of Shahibar;Madina Mosjid Goli 3 No. Road;300;2000;25;4;2;4;1;4;3;4;4;4;4;3;3;1;3;1;3;48
+Dhaka South City Corporation;74;1237401001;;West Nondipara;North Rasulbag;700;2500;30;2;1;3;1;1;1;2;2;1;1;3;4;4;4;4;4;38
+Dhaka South City Corporation;74;1237401002;;West Nondipara;Doser goli;200;800;30;2;2;4;4;4;1;1;1;3;1;1;4;4;4;4;4;44
+Dhaka South City Corporation;74;1237401003;;west Nondipara;Baitul Jannat road;350;1000;30;4;4;4;4;3;4;4;4;1;1;3;4;4;4;4;4;56
+Dhaka South City Corporation;74;1237401004;;West Nondipara;Al aksa mosjid road;400;1200;35;2;1;4;4;3;3;1;3;1;2;2;4;4;4;4;4;46
+Dhaka South City Corporation;74;1237402001;;Mid nondipara;Madrasa Road;250;1200;80;3;4;4;4;4;4;3;2;1;2;2;4;4;4;4;4;53
+Dhaka South City Corporation;74;1237402002;;Mid nondipara;1 no school road (Hindupara);200;500;80;2;2;4;4;2;4;2;2;3;3;4;4;4;4;4;4;52
+Dhaka South City Corporation;74;1237402003;;Mid nondipara;Baitun Noor Jame mosjid(camp);150;1000;80;4;4;4;4;2;4;2;2;3;2;2;4;4;4;4;4;53
+Dhaka South City Corporation;74;1237403001;;East Nondipara;9 No Road;100;550;80;2;1;4;2;4;3;2;3;1;2;2;4;4;4;4;4;46
+dhaka South City Corporation;74;1237403002;;East Nondipara;Neoaj  bagh;80;500;80;2;1;4;2;4;3;2;3;1;2;2;4;4;4;4;4;46
+Dhaka South City Corporation;75;1237501001;;Shaker Jaiga Nasirabad;Sheker Jaiga;200;650;60;2;1;4;2;1;2;2;3;2;2;3;4;4;4;4;4;44
+Dhaka South City Corporation;75;1237501002;;Shaker Jaiga Nasirabad;Nasirabad Teecpara;200;750;50;2;1;4;1;1;2;4;3;2;2;3;4;4;4;4;4;45
+Dhaka South City Corporation;75;1237502001;;Trimohoni;Jorvita;150;600;70;2;2;4;2;4;3;2;2;3;2;3;4;4;4;4;4;49
+Dhaka South City Corporation;75;1237502002;;Trimohoni;tecpara;50;220;50;2;2;4;2;4;3;2;3;3;2;3;4;4;4;4;4;50
+Dhaka South City Corporation;75;1237503001;;Daserkandi;Idarkandi;150;400;50;1;1;4;1;1;2;1;3;2;2;3;4;4;4;4;4;41
+Dhaka South City Corporation;75;1237503002;;Daserkandi;Daserkandi;50;300;60;1;1;4;1;1;1;1;3;2;2;3;4;4;4;4;4;40
+Dhaka South City Corporation;75;1237503003;;Daserkandi;Babur Jaiga;30;100;20;1;1;3;1;1;1;1;2;1;1;3;4;4;4;4;4;36

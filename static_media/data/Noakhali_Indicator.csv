@@ -1,0 +1,237 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Noakhali;1;390111;13900101001;Madhushudanpur;Lal Miar Bari;30;200;60;1;3;1;1;1;2;2;3;1;2;4;4;3;4;4;4;40
+Noakhali;1;390112;13900101002;Madhushudanpur;Amzad Kabiraj Bari;70;200;80;3;1;4;1;1;2;1;3;4;2;4;4;4;4;4;4;46
+Noakhali;1;390113;13900101003;Madhushudanpur;Hazi Bari;50;200;60;3;1;3;1;1;1;1;4;4;1;1;4;4;3;4;4;40
+Noakhali;1;390114;13900101004;Madhushudanpur;Jahedul Hoque Bari;15;100;85;3;1;4;1;1;1;1;3;4;1;4;4;3;4;4;4;43
+Noakhali;1;390115;13900101005;Madhushudanpur;Abdul Salam Bari;40;150;90;3;1;3;1;1;1;1;4;1;1;4;4;3;4;4;4;40
+Noakhali;1;390121;13900102001;Khandakarpara;Nazir Miar Bari;30;300;60;2;1;3;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Noakhali;1;390122;13900102002;Khandakarpara;Panaullah Miar Bari;15;200;80;1;1;4;1;1;3;4;4;2;1;4;4;3;4;4;4;45
+Noakhali;1;390123;13900102003;Khandakarpara;Hashem Chokidar Bari;14;80;180;1;1;4;1;2;3;4;4;1;2;4;4;4;4;4;4;47
+Noakhali;1;390124;13900102004;Khandakarpara;Shahlam Khalifar Bari;30;250;200;1;1;4;1;3;4;2;4;2;2;4;4;4;4;4;4;48
+Noakhali;1;390125;13900102005;Khandakarpara;Rahamatullah Bari;8;50;60;1;1;4;1;1;2;1;4;2;1;4;4;4;4;4;4;42
+Noakhali;1;390126;13900102006;Khandakarpara;Khandakar Bari;25;200;150;4;1;4;1;1;4;4;4;2;2;2;4;4;4;4;4;49
+Noakhali;1;390127;13900102007;Khandakarpara;Boro Bari;12;60;200;1;1;4;1;1;1;1;4;2;2;1;4;3;4;4;4;38
+Noakhali;1;390128;13900102008;Khandakarpara;Shikari Bari;30;150;200;1;1;4;1;1;1;3;4;2;2;1;1;1;1;1;4;29
+Noakhali;1;390129;13900102009;Khandakarpara;Hazi Para;35;200;100;4;1;4;1;3;4;4;4;3;2;4;4;4;4;4;4;54
+Noakhali;1;390131;13900103001;North Maijdi Bazar Area;Nandi Bari;14;70;50;2;1;4;1;1;1;1;4;2;1;1;4;2;1;4;4;34
+Noakhali;1;390132;13900103002;North Maijdi Bazar Area;Indrajit Bari;5;15;50;2;1;4;1;1;1;1;4;1;1;3;4;1;4;4;4;37
+Noakhali;1;390133;13900103003;North Maijdi Bazar Area;Jamai Bari;50;200;25;1;1;4;1;1;2;4;4;3;4;4;1;4;4;4;4;46
+Noakhali;1;390134;13900103004;North Maijdi Bazar Area;Joynal Abedin Bari;5;15;100;1;1;4;1;4;4;1;1;1;4;4;4;1;4;4;1;40
+Noakhali;1;390135;13900103005;North Maijdi Bazar Area;Makku Miar Bari;20;115;150;2;1;4;1;1;2;1;3;3;3;4;2;4;1;4;4;40
+Noakhali;1;390136;13900103006;North Maijdi Bazar Area;Shekantor Mia Bari;5;30;60;1;1;4;1;1;1;1;4;2;1;4;4;4;4;4;4;41
+Noakhali;1;390137;13900103007;North Maijdi Bazar Area;Hazi Bari;9;49;200;3;1;4;1;1;3;1;4;4;3;4;1;4;4;4;4;46
+Noakhali;1;390138;13900103008;North Maijdi Bazar Area;Asaad Mia r Bari;10;45;80;1;1;4;1;1;2;1;4;3;1;4;1;4;4;4;4;40
+Noakhali;1;390139;13900103009;North Maijdi Bazar Area;Saiyad Bepari Bari;35;300;150;1;1;4;1;1;2;1;4;3;3;4;4;1;4;1;2;37
+Noakhali;1;390141;13900104001;West Maijdi Bazar Area;Babulala Nandi Bari;5;22;70;1;1;4;1;1;1;1;4;4;1;4;4;4;4;4;4;43
+Noakhali;1;390142;13900104002;West Maijdi Bazar Area;Ismail Miar  Bari;17;60;60;2;2;4;1;1;1;4;4;4;2;4;4;4;4;4;4;49
+Noakhali;1;390143;13900104003;West Maijdi Bazar Area;Kana Korban Alir Basha;5;25;50;2;2;4;1;1;1;4;4;4;4;4;1;4;4;2;4;46
+Noakhali;1;390144;13900104004;West Maijdi Bazar Area;Murshid Alam Miar Bari;6;22;66;2;1;4;1;1;1;4;4;4;4;4;4;4;4;4;4;50
+Noakhali;1;390145;13900104005;West Maijdi Bazar Area;Garioal Chowdhury Bari;110;600;60;1;4;1;4;1;4;1;1;1;1;4;4;4;1;4;4;40
+Noakhali;1;390146;13900104006;West Maijdi Bazar Area;Salam Miar Bari;5;15;18;2;1;4;1;1;1;1;4;1;1;4;4;4;4;4;4;41
+Noakhali;1;390147;13900104007;West Maijdi Bazar Area;Manik Master Bari;9;50;70;2;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;47
+Noakhali;1;390148;13900104008;West Maijdi Bazar Area;Jalal Driver Bari;22;200;70;2;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;47
+Noakhali;1;390149;13900104009;West Maijdi Bazar Area;Idris majon Bari;35;210;70;2;1;4;1;1;1;4;4;4;4;1;4;4;4;4;4;47
+Noakhali;2;390211;13900201001;Anantapur Chandrapur;Vhuluya Cholony;500;3000;150;2;1;4;1;1;1;1;2;1;1;3;4;4;4;4;4;38
+Noakhali;2;390212;13900201002;Anantapur Chandrapur;Shardar Bari;58;400;150;1;4;4;1;1;4;4;2;4;3;3;4;4;4;4;4;51
+Noakhali;2;390213;13900201003;Anantapur Chandrapur;Idris Ali Bari;34;200;130;1;1;4;1;2;4;1;2;4;4;4;4;4;4;4;4;48
+Noakhali;2;390214;13900201004;Anantapur Chandrapur;Hanif Miaher Bari;43;300;130;2;1;4;1;1;4;2;2;3;3;4;4;3;4;4;4;46
+Noakhali;2;390215;13900201005;Anantapur Chandrapur;Chan Kazi Bari;200;1200;120;2;1;4;1;1;1;1;4;1;1;4;4;4;4;4;4;41
+Noakhali;2;390221;13900202001;Fatehpur Station Road;Ahmed Shikdar Bari;50;350;130;2;1;4;1;1;3;2;4;1;4;4;4;4;4;4;4;47
+Noakhali;2;390222;13900202002;Fatehpur Station Road;Jura Bari;56;300;180;3;3;4;1;2;4;2;4;3;3;4;4;4;4;4;4;53
+Noakhali;2;390223;13900202003;Fatehpur Station Road;Jura Bari Mohammad Bari;55;300;180;3;3;4;1;2;4;2;4;3;3;4;4;4;4;4;4;53
+Noakhali;2;390224;13900202004;Fatehpur Station Road;Chuyar Bari;8;50;80;2;1;1;1;1;1;1;3;4;4;3;4;2;4;4;4;40
+Noakhali;2;390231;13900203001;East Maijdi;East Master Para;430;3000;83;2;1;4;3;2;4;4;4;3;3;4;4;4;4;4;4;54
+Noakhali;2;390232;13900203002;East Maijdi;West Master Para;417;2500;83;2;3;4;1;3;4;4;4;4;4;4;4;4;4;4;4;57
+Noakhali;2;390233;13900203003;East Maijdi;North Master Para;171;1200;83;2;1;4;3;3;4;1;4;4;2;3;4;4;4;4;4;51
+Noakhali;2;390234;13900203004;East Maijdi;Vhuluya Cholony;500;3000;150;2;1;4;1;1;1;1;2;1;1;3;4;4;4;4;4;38
+Noakhali;2;390241;13900204001;Old Jail Road;Patoyari Bari;960;6000;200;2;2;4;1;2;4;1;4;3;2;3;4;4;4;4;4;48
+Noakhali;2;390242;13900204002;Old Jail Road;Joynal Driverer Bari;340;2000;180;2;2;4;1;2;4;1;4;3;3;3;4;4;4;4;4;49
+Noakhali;2;390243;13900204003;Old Jail Road;Jakidar Bari;190;1200;150;2;2;4;1;2;4;4;3;2;3;4;4;4;4;4;4;51
+Noakhali;2;390244;13900204004;Old Jail Road;Dhopa Bari;220;1300;120;3;1;4;1;2;4;2;4;3;2;3;4;4;4;4;4;49
+Noakhali;2;390245;13900204005;Old Jail Road;Satani Pukur Par;134;800;100;4;3;4;1;4;4;3;4;4;3;4;4;4;4;4;4;58
+Noakhali;3;390321;13900302001;College Para;Chowdhury Miar Bari;5;35;60;1;1;1;1;1;3;1;3;4;1;3;4;1;4;4;4;37
+Noakhali;3;390322;13900302002;College Para;Keramat Ali Hazi Bari;5;35;40;1;1;4;1;1;3;4;3;4;1;3;4;1;4;4;3;42
+Noakhali;3;390323;13900302003;College Para;Councilor Bari;5;40;70;1;1;1;1;1;3;4;4;4;1;4;4;1;4;4;4;42
+Noakhali;3;390324;13900302004;College Para;Mosjid Bari;5;60;50;1;1;1;1;4;1;1;4;4;1;4;4;4;4;4;4;43
+Noakhali;3;390325;13900302005;College Para;Babul Miyar Bari;5;30;80;1;1;4;1;1;2;4;4;4;1;4;1;4;4;4;4;44
+Noakhali;3;390326;13900302006;College Para;M A Sattar Bari;5;30;80;1;1;4;1;1;1;4;4;4;1;4;4;4;4;4;4;46
+Noakhali;3;390331;13900303001;Latu Commissioner Para;Late Ahsan Miya (Sordar Bari);10;150;50;3;1;4;1;1;1;4;3;3;1;3;4;4;3;4;3;43
+Noakhali;3;390332;13900303002;Latu Commissioner Para;Uzir Alir Bari;16;150;90;4;4;4;1;2;1;1;3;1;1;3;4;4;4;4;3;44
+Noakhali;3;390333;13900303003;Latu Commissioner Para;Darbesh Ali Hazi Bari;40;200;90;4;1;4;1;1;1;4;3;1;1;1;3;3;1;4;3;36
+Noakhali;3;390334;13900303004;Latu Commissioner Para;Renu Miyar Bari;15;80;80;2;1;4;1;2;1;4;3;3;2;1;4;4;4;4;3;43
+Noakhali;3;390335;13900303005;Latu Commissioner Para;Sordar Bari;15;160;60;1;1;4;1;1;1;4;3;1;1;3;4;4;4;4;3;40
+Noakhali;3;390336;13900303006;Latu Commissioner Para;Osi Miya Hazi Bari;12;120;90;3;1;4;1;1;2;4;3;1;1;3;4;4;4;4;3;43
+Noakhali;3;390337;13900303007;Latu Commissioner Para;Hotel Jashim Bari;7;35;40;2;1;4;1;2;1;4;3;3;2;1;4;4;4;4;3;43
+Noakhali;3;390338;13900303008;Latu Commissioner Para;Khana Bari;12;112;70;2;1;4;1;1;1;4;3;1;1;3;4;4;4;4;3;41
+Noakhali;3;390339;13900303009;Latu Commissioner Para;Abdur Rahman Dhoni (Safrasi Bari);12;150;80;1;1;4;1;1;3;4;3;1;1;3;4;4;3;4;3;41
+Noakhali;3;390341;13900304001;Shahiduddin Iskandar Kochi Para;Mohiuddin Vuiya Bari;5;125;27;1;1;4;1;1;3;1;3;3;1;4;4;4;4;4;4;43
+Noakhali;3;390342;13900304002;Shahiduddin Iskandar Kochi Para;Sobhan Ceyang Bari;40;140;35;1;1;4;1;1;2;4;3;3;1;4;4;4;4;4;4;45
+Noakhali;3;390343;13900304003;Shahiduddin Iskandar Kochi Para;Lal Miar Bari;5;110;30;1;1;2;1;1;3;1;3;3;1;4;4;4;4;4;4;41
+Noakhali;3;390344;13900304004;Shahiduddin Iskandar Kochi Para;Islam Choukidar Bari;15;90;65;1;1;4;1;1;3;4;3;1;1;4;4;4;4;4;4;44
+Noakhali;3;390345;13900304005;Shahiduddin Iskandar Kochi Para;Patoyari Bari;7;126;40;1;1;4;1;1;3;1;3;3;1;4;4;3;4;4;4;42
+Noakhali;4;390411;13900401001;West Krishnarampur;Methor Quatar;30;250;60;3;1;4;1;1;2;2;3;3;4;4;4;3;4;4;4;47
+Noakhali;4;390412;13900401002;West Krishnarampur;Chan Miah Sardar Bari;50;400;85;1;1;4;1;1;2;1;4;3;4;4;4;1;4;4;4;43
+Noakhali;4;390413;13900401003;West Krishnarampur;Ator Ali Miaher Bari;32;200;100;3;1;4;1;1;1;1;4;3;2;4;4;3;4;4;4;44
+Noakhali;4;390414;13900401004;West Krishnarampur;Hazi Mojol Haq Notun Bari, Chokidar Bari;10;60;60;1;1;4;1;1;1;1;4;4;1;4;4;2;4;4;4;41
+Noakhali;4;390415;13900401005;West Krishnarampur;Ana Miah Sardar Bari;20;200;80;3;1;4;1;1;1;1;4;1;1;4;4;1;4;4;4;39
+Noakhali;4;390416;13900401006;West Krishnarampur;Khan Bari, Sultan Ahmed Bari;15;50;120;3;1;4;1;1;1;1;4;2;2;4;4;1;4;4;4;41
+Noakhali;4;390417;13900401007;West Krishnarampur;Meher Baper Bari;36;250;120;3;3;4;1;1;1;1;4;2;1;4;4;1;4;4;4;42
+Noakhali;4;390418;13900401008;West Krishnarampur;Khan Bari;6;50;60;1;1;4;1;1;1;1;4;2;2;4;4;1;4;4;4;39
+Noakhali;4;390431;13900403001;North Fakirpur;Misir Ali Saudagor Bari;22;150;120;2;1;4;1;1;1;2;4;2;2;4;2;1;4;4;4;39
+Noakhali;4;390432;13900403002;North Fakirpur;Dewan Alir Bari;5;30;120;1;1;4;1;1;1;1;4;4;1;4;4;1;4;4;4;40
+Noakhali;4;390433;13900403003;North Fakirpur;Mollah Bari;20;120;130;1;1;4;1;1;2;1;4;2;2;4;4;2;4;4;4;41
+Noakhali;4;390434;13900403004;North Fakirpur;Fojal Haji Bari;10;30;42;3;1;4;1;1;1;1;4;1;1;4;4;1;4;4;4;39
+Noakhali;4;390435;13900403005;North Fakirpur;Meher Ali Constable Bari;10;40;120;1;1;4;1;1;1;1;4;3;2;4;4;2;4;4;4;41
+Noakhali;4;390436;13900403006;North Fakirpur;Badhsha Miyar Bari;10;60;50;1;1;4;1;1;1;1;4;2;2;4;4;1;4;4;4;39
+Noakhali;4;390437;13900403007;North Fakirpur;Sultan Miyar Bari;5;30;60;2;1;4;1;1;3;1;4;3;2;4;4;4;4;4;4;46
+Noakhali;4;390438;13900403008;North Fakirpur;Sabid Contructor Bari;40;120;110;3;1;4;1;1;2;1;4;1;1;4;4;2;4;4;4;41
+Noakhali;4;390439;13900403009;North Fakirpur;Ali Hafez Bari;5;20;60;1;1;4;1;1;2;1;4;2;2;4;4;3;4;4;4;42
+Noakhali;5;390511;13900501001;Harinarayanpur;Sabid Miya Chairman Bari;5;40;80;4;1;4;1;4;4;4;4;4;4;4;4;4;4;4;4;58
+Noakhali;5;390512;13900501002;Harinarayanpur;Gani Constable Bari;11;70;50;3;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;51
+Noakhali;5;390513;13900501003;Harinarayanpur;Haris Chairman Chaprashi Bari;8;50;70;1;2;4;1;1;4;1;4;4;4;4;4;1;4;4;4;47
+Noakhali;5;390514;13900501004;Harinarayanpur;Kazi Bari;10;70;80;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Noakhali;5;390515;13900501005;Harinarayanpur;Nur Mohammad Miya Bari;5;45;100;1;1;4;1;1;4;1;4;4;4;4;4;3;4;4;4;48
+Noakhali;5;390516;13900501006;Harinarayanpur;Sajeda Manjil;5;40;70;3;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;51
+Noakhali;5;390517;13900501007;Harinarayanpur;Kazi Baki Miya Bari;15;125;100;2;1;4;1;3;3;3;2;3;3;4;3;3;4;4;4;47
+Noakhali;5;390518;13900501008;Harinarayanpur;Harinarayanpur;15;75;80;2;1;3;4;3;3;4;1;3;4;4;3;3;3;4;4;49
+Noakhali;5;390521;13900502001;West Mohoduri;Musa Miya Hazi Bari;50;350;80;1;1;4;1;1;3;1;4;2;2;4;4;3;4;4;4;43
+Noakhali;5;390522;13900502002;West Mohoduri;Kalu Miya Bari;15;110;150;3;1;4;1;1;4;1;4;4;2;4;1;3;4;4;4;45
+Noakhali;5;390523;13900502003;West Mohoduri;Majibul Hoque Member Bari;40;200;100;3;1;4;1;1;4;1;4;3;1;4;3;4;4;4;4;46
+Noakhali;5;390524;13900502004;West Mohoduri;Sultan Mahmud Chaprashi Bari;46;240;110;1;1;4;1;1;3;1;4;1;1;4;3;4;4;2;4;39
+Noakhali;5;390525;13900502005;West Mohoduri;Abu Taher Dargah Bari;70;450;115;2;1;4;1;2;1;1;4;3;3;4;4;4;4;4;4;46
+Noakhali;5;390531;13900503001;East Mohoduri;Bashir Miya Bari;15;150;105;1;2;4;1;4;1;3;1;2;3;3;4;3;1;1;4;38
+Noakhali;5;390532;13900503002;East Mohoduri;Abul Baashar Miya Bari;30;220;80;2;1;4;1;1;1;1;4;1;2;3;2;4;1;2;4;34
+Noakhali;5;390533;13900503003;East Mohoduri;Bulu Sardar Bari;40;210;85;1;1;4;1;1;2;1;4;2;2;3;3;4;1;4;4;38
+Noakhali;5;390534;13900503004;East Mohoduri;Dabor Ali Bari;120;800;25;1;1;4;1;1;1;1;2;3;3;3;1;2;1;2;4;31
+Noakhali;5;390541;13900504001;West Rajarampur;Latu Secretary bari;8;60;80;3;4;2;4;4;4;4;4;4;2;4;4;4;4;4;4;59
+Noakhali;5;390542;13900504002;West Rajarampur;Poshu Doctor Bari;8;48;32;2;1;3;1;1;2;4;4;4;4;4;4;4;3;4;4;49
+Noakhali;5;390543;13900504003;West Rajarampur;Sithila Bari;7;35;70;3;1;4;1;1;4;1;4;2;2;4;4;1;4;4;4;44
+Noakhali;5;390544;13900504004;West Rajarampur;Abul Hashem Miya Bari;10;80;34;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Noakhali;5;390545;13900504005;West Rajarampur;Abdul Jalil Bari;10;70;40;3;1;4;1;1;4;4;4;4;4;4;4;4;4;4;4;54
+Noakhali;5;390546;13900504006;West Rajarampur;Budhu Soudagar Bari;10;60;50;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Noakhali;5;390547;13900504007;West Rajarampur;Milon Kosai Bari;10;60;25;2;1;4;1;1;1;1;4;3;2;4;2;4;4;4;4;42
+Noakhali;5;390551;13900505001;Guptanko;Ahammad Manjil;10;100;70;2;1;4;1;1;4;4;4;3;4;4;1;3;4;4;4;48
+Noakhali;5;390552;13900505002;Guptanko;Dish Samader Bari;7;45;70;2;1;4;1;1;4;4;4;3;4;4;4;3;4;4;4;51
+Noakhali;5;390561;13900506001;Laxminarayanpur;Habur Bari;40;190;70;2;1;4;1;1;4;1;4;2;2;4;4;4;4;4;4;46
+Noakhali;5;390562;13900506002;Laxminarayanpur;Najir Ahmed Bari;25;130;28;2;1;4;1;1;2;1;4;4;2;4;1;4;4;4;4;43
+Noakhali;5;390563;13900506003;Laxminarayanpur;Nijam Mia Bari;30;125;78;2;1;3;1;2;4;4;4;4;4;4;4;4;3;4;4;52
+Noakhali;5;390564;13900506004;Laxminarayanpur;Emran Miyar Bari;13;150;35;2;1;4;1;1;3;1;4;3;2;4;4;4;4;4;4;46
+Noakhali;5;390565;13900506005;Laxminarayanpur;Pan Bapari Bari;30;120;30;2;1;3;1;1;2;1;4;3;2;2;3;2;4;4;4;39
+Noakhali;6;390621;13900602001;Ayubpur West;Mahila Road-1;6;35;70;2;1;3;1;1;2;3;2;2;3;2;2;3;3;3;3;36
+Noakhali;6;390622;13900602002;Ayubpur West;Mahila Road-2;9;65;80;2;1;3;1;1;2;2;3;3;2;2;3;3;2;3;3;36
+Noakhali;6;390631;13900603001;Shahpur;Habibullah Chaprashi Bari;36;200;100;2;1;4;1;1;1;4;4;1;1;3;4;1;4;4;4;40
+Noakhali;6;390632;13900603002;Shahpur;Majibullah Bendar Bari;45;350;100;1;1;3;1;1;1;3;1;3;1;1;4;2;4;4;4;35
+Noakhali;6;390633;13900603003;Shahpur;Monir Chaprashi Bari;21;150;100;1;1;4;1;1;1;4;4;3;1;2;4;4;4;4;4;43
+Noakhali;6;390641;13900604001;Ujjalpur;Ali Akbar Mia Sarak;28;250;120;2;2;4;2;1;3;2;3;2;2;2;3;3;2;3;3;39
+Noakhali;6;390642;13900604002;Ujjalpur;Mofiz Miya Road;60;350;150;3;3;4;2;1;3;3;3;2;2;1;2;2;2;2;2;37
+Noakhali;6;390651;13900605001;Gopai North;Datta Dighi West Side;35;128;43;2;2;4;1;2;2;2;3;2;3;3;2;2;3;3;4;40
+Noakhali;6;390652;13900605002;Gopai North;Datta Dighi South Side;40;225;70;1;1;1;1;2;2;2;1;3;2;2;3;1;2;1;3;28
+Noakhali;6;390653;13900605003;Gopai North;Jele Polli;60;310;80;1;1;1;1;1;1;1;1;3;3;1;2;2;3;2;3;27
+Noakhali;6;390661;13900606001;Gopai South;Kashirampur Rown Palli;33;127;57;2;3;4;2;2;2;3;3;2;2;2;2;4;4;3;2;42
+Noakhali;6;390662;13900606002;Gopai South;Das Bari;35;150;60;2;1;2;2;2;2;2;2;2;3;2;1;2;3;3;3;34
+Noakhali;6;390663;13900606003;Gopai South;Soudagor Bari;50;260;40;1;1;3;2;1;2;1;3;2;2;2;2;2;4;1;2;31
+Noakhali;7;390711;13900701001;Tajmahtabpur;Kazi Barir Dokkhin Pash;20;80;50;2;1;4;1;1;4;1;4;3;2;4;4;4;4;4;4;47
+Noakhali;7;390712;13900701002;Tajmahtabpur;Kazi Barir Purbo Pash;20;90;50;2;1;4;1;1;4;1;4;3;3;4;4;4;4;4;4;48
+Noakhali;7;390713;13900701003;Tajmahtabpur;Jelepara;80;500;60;2;1;4;1;1;4;1;4;3;4;4;4;4;4;4;4;49
+Noakhali;7;390714;13900701004;Tajmahtabpur;Sayedul Haq Sordar Bari (Shobuj Saw Mill er Purbo Pash);35;130;40;2;1;4;1;1;2;4;4;4;4;4;4;4;4;4;4;51
+Noakhali;7;390715;13900701005;Tajmahtabpur;Layoul miaher bari Sajjad Filling Stationer Dokkhin Pash;15;50;60;1;1;4;1;1;4;4;4;4;4;4;4;4;4;4;4;52
+Noakhali;7;390721;13900702001;Sripur;Master Para;30;200;30;4;4;4;1;1;4;1;4;4;2;3;4;4;4;4;4;52
+Noakhali;7;390722;13900702002;Sripur;Majhi Bari;60;400;50;1;1;4;1;1;2;1;3;0;2;3;4;4;4;4;4;39
+Noakhali;7;390723;13900702003;Sripur;Paul Bari;10;60;70;1;1;4;1;1;4;4;4;3;4;1;4;4;4;4;4;48
+Noakhali;7;390724;13900702004;Sripur;Munshi Bari;13;60;85;2;1;4;1;1;1;1;4;4;2;4;4;4;4;4;4;45
+Noakhali;7;390725;13900702005;Sripur;Malek Makerer Bari;20;80;30;1;1;4;1;1;1;1;2;3;1;4;4;4;4;4;4;40
+Noakhali;7;390726;13900702006;Sripur;Dorbesh Bari;10;30;85;1;1;4;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Noakhali;7;390727;13900702007;Sripur;Ibrahim Beparir Bari;30;80;20;1;1;3;1;1;1;1;1;3;2;2;1;1;3;2;1;25
+Noakhali;7;390728;13900702008;Sripur;Ibrahim Beparir Bari;12;30;20;1;1;4;1;1;1;3;3;3;2;3;4;4;4;4;4;43
+Noakhali;7;390731;13900703001;South Madhyampur;Dhopa Bari Basti;9;47;21;2;1;4;1;1;4;1;3;4;2;4;4;4;4;4;4;47
+Noakhali;7;390732;13900703002;South Madhyampur;Iman Ali Bari;17;73;50;1;1;4;1;1;4;1;3;3;2;3;4;4;4;4;4;44
+Noakhali;7;390733;13900703003;South Madhyampur;Pan Bepari Bari;7;39;55;1;1;4;1;1;4;1;4;4;1;2;3;3;4;4;4;42
+Noakhali;7;390734;13900703004;South Madhyampur;Forid Doctor Bari;14;69;80;3;2;4;1;1;4;1;3;3;1;3;4;3;4;4;4;45
+Noakhali;7;390735;13900703005;South Madhyampur;Puraton Molla Bari Bosti;14;80;100;3;2;4;1;1;3;2;2;3;2;2;4;3;4;4;4;44
+Noakhali;7;390736;13900703006;South Madhyampur;Bechu Colony;7;40;30;4;2;4;1;1;3;1;2;2;1;1;2;3;3;4;4;38
+Noakhali;7;390737;13900703007;South Madhyampur;Idris Miah Master Bari;9;44;40;1;1;4;1;1;4;1;3;3;1;3;4;4;4;4;4;43
+Noakhali;7;390738;13900703008;South Madhyampur;Nur Islam Kerani Bari;20;80;50;2;1;4;1;1;3;2;4;3;2;4;4;4;4;4;4;47
+Noakhali;7;390739;13900703009;South Madhyampur;Ruti Wala Ashraf Alir Bari;12;60;100;2;1;4;1;1;4;1;4;4;2;4;4;4;4;4;4;48
+Noakhali;7;390741;13900704001;North Madhyam Kariampur;Sofi Ullah er Bari Bosoti;7;31;35;1;1;1;1;1;1;1;4;4;1;4;4;2;4;4;4;38
+Noakhali;7;390742;13900704002;North Madhyam Kariampur;Forid Chaiyaler;11;67;54;1;1;1;1;1;2;1;1;1;1;1;2;1;2;4;4;25
+Noakhali;7;390743;13900704003;North Madhyam Kariampur;Staff Quarter Bosoti;14;73;12;1;1;1;1;1;1;1;1;4;1;3;1;1;3;2;1;24
+Noakhali;7;390744;13900704004;North Madhyam Kariampur;Babul Mistri;9;40;30;1;1;3;1;1;4;1;3;4;2;4;4;4;1;4;4;42
+Noakhali;7;390745;13900704005;North Madhyam Kariampur;Mahbub Miah;7;40;24;1;1;3;1;1;4;1;3;3;1;4;4;4;1;4;4;40
+Noakhali;7;390746;13900704006;North Madhyam Kariampur;Piyon Bari Bosoti;8;55;70;1;1;4;1;1;4;1;3;4;1;4;4;1;4;4;4;42
+Noakhali;7;390747;13900704007;North Madhyam Kariampur;Miji Bari;23;120;80;2;2;4;1;1;4;1;3;4;1;4;4;4;4;4;4;47
+Noakhali;7;390748;13900704008;North Madhyam Kariampur;Ledu Miaher Bari;7;38;73;1;1;2;1;1;4;1;3;3;1;4;4;4;4;4;4;42
+Noakhali;8;390811;13900801001;Wahab Colony;Malek Miyar Bari;38;144;40;2;1;2;1;2;2;2;2;2;2;2;2;1;1;2;2;28
+Noakhali;8;390812;13900801002;Wahab Colony;Wahab Kolony;250;2275;45;1;1;2;1;1;1;1;1;2;1;1;1;1;1;2;1;19
+Noakhali;8;390813;13900801003;Wahab Colony;Dulal Miyar Bari;29;116;45;1;1;2;1;1;1;1;2;2;3;3;4;4;3;4;4;37
+Noakhali;8;390814;13900801004;Wahab Colony;Siddique Miyar Bari;23;92;45;2;1;2;1;1;2;2;1;3;3;3;4;4;3;4;4;40
+Noakhali;8;390815;13900801005;Wahab Colony;Mountu Miyar Bari;25;125;40;1;1;1;1;1;1;2;1;3;2;3;3;3;3;4;4;34
+Noakhali;8;390821;13900802001;Kathpatti;Khalpara Basti;105;520;45;3;1;2;1;1;1;1;1;2;1;1;1;1;1;2;1;21
+Noakhali;8;390822;13900802002;Kathpatti;Paniwalar Bari;35;180;25;1;1;1;1;1;1;1;2;2;2;4;4;4;4;4;4;37
+Noakhali;8;390823;13900802003;Kathpatti;East Khal Para;25;130;18;2;1;2;1;1;1;1;2;2;2;2;4;4;4;4;4;37
+Noakhali;8;390824;13900802004;Kathpatti;Jelepara;12;40;20;1;1;1;1;1;1;1;2;2;2;3;4;4;4;4;4;36
+Noakhali;8;390831;13900803001;College Para;Islamia Madrasa Elaka Songlogno Bari;50;270;50;1;1;4;1;3;2;1;2;4;4;3;4;4;4;4;4;46
+Noakhali;8;390832;13900803002;College Para;Miah Bari Songlogno Bari;45;220;45;1;1;4;1;1;2;1;2;4;4;3;4;4;4;4;4;44
+Noakhali;8;390841;13900804001;Chorilai Bosti;Ahmed Ali Chaprasi Bari;13;60;80;3;3;4;1;1;1;1;2;1;3;2;4;4;4;4;4;42
+Noakhali;8;390842;13900804002;Chorilai Bosti;Das Bari;16;100;90;2;2;4;1;1;4;1;2;4;3;1;1;4;4;4;4;42
+Noakhali;8;390843;13900804003;Chorilai Bosti;Dhopa Bari;48;200;85;2;1;4;1;1;2;2;2;4;1;2;4;4;4;4;4;42
+Noakhali;8;390844;13900804004;Chorilai Bosti;Nur Mohammad er bari;10;48;75;3;1;4;1;1;2;1;2;1;1;1;1;3;4;3;4;33
+Noakhali;8;390845;13900804005;Chorilai Bosti;Shotish Shen er Bari;13;60;100;1;1;4;1;1;4;1;4;4;3;3;4;4;4;4;4;47
+Noakhali;8;390851;13900805001;Railway Colony;Sonapur Kobirahat Road;105;540;45;4;1;3;1;1;1;1;4;2;3;1;1;2;1;1;1;28
+Noakhali;8;390852;13900805002;Railway Colony;Railway Bosti;35;230;50;1;1;1;1;1;1;1;2;2;2;1;1;1;1;2;1;20
+Noakhali;8;390853;13900805003;Railway Colony;Idris Mahajon Bari;45;320;45;2;1;2;1;2;2;1;2;3;3;1;3;4;3;4;4;38
+Noakhali;8;390854;13900805004;Railway Colony;Selim Comisioner er Bari;25;180;50;3;1;2;1;3;2;2;4;4;4;3;4;4;3;4;4;48
+Noakhali;8;390855;13900805005;Railway Colony;Chonkhola Bari;15;100;40;3;1;2;1;1;1;1;2;2;2;2;1;2;1;1;1;24
+Noakhali;9;390911;13900901001;Mohabbathpur;Anar Ahmeder Bari , Bechu Miaher Bari;10;50;65;1;1;4;1;1;1;1;4;1;1;4;4;4;4;4;4;40
+Noakhali;9;390912;13900901002;Mohabbathpur;Motin Mistrir Bari;40;300;55;2;1;4;1;1;1;1;4;4;1;4;4;4;4;4;3;43
+Noakhali;9;390913;13900901003;Mohabbathpur;Dokander Mofiz Miaher Bari;40;300;55;2;1;4;1;1;1;1;4;4;1;4;4;4;4;4;3;43
+Noakhali;9;390914;13900901004;Mohabbathpur;Emon Ali bolu Miaher Bari;7;30;50;1;1;4;1;1;4;4;4;2;4;4;4;4;4;4;4;50
+Noakhali;9;390915;13900901005;Mohabbathpur;Mofiz Mohajon er Bari;12;140;70;3;1;4;1;3;1;4;4;4;4;4;4;4;4;4;4;53
+Noakhali;9;390916;13900901006;Mohabbathpur;Bentor Bari, Nur Muhammad Miyar Bari;30;300;60;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Noakhali;9;390917;13900901007;Mohabbathpur;Bahar Muhurir Bari;67;420;70;2;3;4;1;1;3;1;4;3;1;3;4;4;4;2;3;43
+Noakhali;9;390918;13900901008;Mohabbathpur;Amin Beparir Bari;100;500;75;2;1;4;1;1;3;1;4;3;2;3;4;3;1;3;3;39
+Noakhali;9;390919;13900901009;Mohabbathpur;Harun Mohajoner Bari, Songhlongno Sepantor Miah Bari;15;100;90;4;3;4;1;1;2;1;4;0;2;3;2;1;4;2;3;37
+Noakhali;9;390921;13900902001;Sallahghatia Paura Ongsho;Pondit Bari;8;30;80;2;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;44
+Noakhali;9;390922;13900902002;Sallahghatia Paura Ongsho;Ali Arjon Baksi Bari;7;25;80;2;1;4;1;1;1;2;4;3;2;4;4;4;4;4;4;45
+Noakhali;9;390923;13900902003;Sallahghatia Paura Ongsho;Ayub Ali Saudagar Bari, Raja Miah Bepari Bari;20;105;85;2;1;1;1;1;1;1;4;3;2;4;4;4;4;4;4;41
+Noakhali;9;390931;13900903001;Jaliyal Paura Ongsho;Ali Arjan Master Bari;14;80;80;1;1;4;1;1;1;1;4;3;1;4;4;4;4;4;4;42
+Noakhali;9;390932;13900903002;Jaliyal Paura Ongsho;Beside Main Road Jaliyal East part;15;70;60;2;1;4;1;1;2;2;4;3;2;4;4;4;4;4;4;46
+Noakhali;9;390933;13900903003;Jaliyal Paura Ongsho;Kosai Bari;20;150;80;2;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;44
+Noakhali;9;390934;13900903004;Jaliyal Paura Ongsho;Doctor Bari;15;125;85;3;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;45
+Noakhali;9;390935;13900903005;Jaliyal Paura Ongsho;Majhi Bari;20;170;80;3;1;4;1;1;1;2;3;3;2;4;4;4;4;4;4;45
+Noakhali;9;390936;13900903006;Jaliyal Paura Ongsho;Duda Miah Saudagar Bari;20;65;80;1;1;4;1;1;1;2;4;3;1;4;4;4;4;4;4;43
+Noakhali;9;390941;13900904001;West Badaripur;Poschim Bodoripur Jame Masjid Road;14;70;80;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Noakhali;9;390942;13900904002;West Badaripur;Tonu Bepari Bari;16;80;180;2;1;4;1;1;2;1;3;3;2;4;4;4;4;4;4;44
+Noakhali;9;390943;13900904003;West Badaripur;Alfir Mago Bari;9;53;75;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Noakhali;9;390944;13900904004;West Badaripur;Shamu Driver Bari;31;195;80;3;1;4;1;1;2;1;4;3;3;4;4;4;4;4;4;47
+Noakhali;9;390945;13900904005;West Badaripur;Haris Muhurir Bari;8;55;70;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Noakhali;9;390946;13900904006;West Badaripur;Yakub Ali Choukidar Bari;13;70;80;3;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;45
+Noakhali;9;390947;13900904007;West Badaripur;Hazi Mojaffar Road, Ujir Ali Bari;13;65;80;3;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;45
+Noakhali;9;390948;13900904008;West Badaripur;Mofiz Keranir Puran Bari;16;85;85;3;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;45
+Noakhali;9;390949;13900904009;West Badaripur;Alif Constable Bari;7;45;80;2;1;4;1;1;1;1;4;0;2;4;4;4;4;4;4;41
+Noakhali;9;390951;13900905001;Narayanpur & East Lakshmipur Paura Ongsho;Uttor Narayonpur Road;20;150;80;1;1;4;1;1;2;1;4;3;2;4;4;4;4;4;4;44
+Noakhali;1;3901210;13900102010;Khandakarpara;South Hazi Bari;35;200;100;4;1;4;4;1;4;4;4;3;2;4;4;4;4;4;4;55
+Noakhali;1;3901310;13900103010;North Maijdi Bazar Area;Gopal Nath Bari;6;28;200;1;1;4;1;1;4;1;4;2;2;4;1;4;4;4;4;42
+Noakhali;1;3901311;13900103011;North Maijdi Bazar Area;Rabiul Miar Bari;5;30;50;2;2;4;1;1;1;1;4;1;3;1;4;4;4;4;4;41
+Noakhali;1;3901312;13900103012;North Maijdi Bazar Area;Chakhu Miar Bari;5;60;70;2;1;4;1;1;1;3;4;4;4;4;4;4;4;4;4;49
+Noakhali;1;3901313;13900103013;North Maijdi Bazar Area;Ishak Miar Bari;5;30;63;1;2;4;1;4;1;4;4;4;4;4;4;4;4;4;4;53
+Noakhali;1;3901410;13900104010;West Maijdi Bazar Area;Islam Hazi Bari;150;300;200;2;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Noakhali;1;3901411;13900104011;West Maijdi Bazar Area;Colony;16;80;60;1;1;3;1;1;1;1;2;3;1;4;1;4;2;2;1;29
+Noakhali;1;3901412;13900104012;West Maijdi Bazar Area;Haradhon Chadra Bari;5;15;60;2;1;4;1;1;1;4;4;4;4;4;1;4;4;1;4;44
+Noakhali;1;3901413;13900104013;West Maijdi Bazar Area;Kanu Babur Bari;5;15;20;2;1;4;1;1;4;4;4;4;4;4;4;2;4;4;4;51
+Noakhali;1;3901414;13900104014;West Maijdi Bazar Area;Debar Bari;15;89;60;1;1;4;1;1;2;4;4;2;3;1;2;2;1;3;3;35
+Noakhali;1;3901415;13900104015;West Maijdi Bazar Area;Joynaler Bari;8;50;70;2;1;4;1;1;3;1;4;3;4;4;4;4;4;4;4;48
+Noakhali;3;3903310;13900303010;Latu Commissioner Para;Latu Commisioner er Bari;12;60;60;1;1;4;4;4;4;4;4;2;2;4;4;4;4;4;4;54
+Noakhali;7;3907310;13900703010;South Madhyampur;Bakshi Chaprasi Bari;17;85;75;2;1;4;1;1;3;2;4;3;3;4;4;4;4;4;4;48
+Noakhali;7;3907311;13900703011;South Madhyampur;Jahangir Bari;18;85;50;1;1;1;1;1;1;1;3;3;1;4;3;3;3;1;2;30
+Noakhali;7;3907312;13900703012;South Madhyampur;;22;100;60;1;1;1;1;1;1;1;3;3;1;3;3;2;2;1;1;26
+Noakhali;7;3907313;13900703013;South Madhyampur;Ferar Bari;20;100;50;1;1;1;1;1;1;1;3;3;1;3;3;2;2;2;1;27
+Noakhali;7;3907314;13900703014;South Madhyampur;;25;160;60;1;1;1;1;1;1;1;2;3;1;4;3;2;3;2;1;28
+Noakhali;7;3907315;13900703015;South Madhyampur;;7;3;15;1;1;1;1;1;1;1;3;3;1;4;3;2;3;2;1;29
+Noakhali;7;3907316;13900703016;South Madhyampur;Alomgir Bari;15;125;60;1;1;1;1;1;1;1;4;3;1;4;2;3;3;2;1;30
+Noakhali;9;3909110;13900901010;Mohabbathpur;Samsul Haq Miyar Bari;22;165;65;1;1;4;1;1;4;1;4;4;2;4;4;4;4;4;4;47
+Noakhali;9;3909111;13900901011;Mohabbathpur;Abul Kasem Barir, Posu Hospital Road Colony;15;220;32;3;1;4;1;1;3;1;4;3;2;4;4;4;4;3;3;45
+Noakhali;9;3909112;13900901012;Mohabbathpur;Kanu Miyar Bari;15;175;40;1;1;4;1;1;1;1;4;3;2;4;1;4;4;4;4;40
+Noakhali;9;3909113;13900901013;Mohabbathpur;Abu Taher Contractor er Bari;12;120;90;2;4;4;1;3;2;4;4;3;3;4;4;4;4;4;4;54
+Noakhali;9;3909114;13900901014;Mohabbathpur;Natu o Mona Beri Bari;15;210;90;3;1;4;1;2;2;4;4;3;2;4;47;4;4;4;4;93
+Noakhali;9;3909115;13900901015;Mohabbathpur;Joynal Kolony;25;85;80;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Noakhali;9;3909410;13900904010;West Badaripur;Mridha Bari;20;85;80;1;1;4;1;1;1;4;3;3;2;4;4;4;4;4;4;45

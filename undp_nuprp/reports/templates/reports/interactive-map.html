@@ -1,0 +1,534 @@
+{% extends 'reports/base/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/loader.css">
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/mapbox/mapbox-gl.css"/>
+    <style>
+        #map-view {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #info-window {
+            position: absolute;
+            font-family: sans-serif;
+            margin-top: 5px;
+            margin-left: 5px;
+            padding: 5px;
+            width: 30%;
+            border: 2px solid #808080;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 3px;
+        }
+
+        table th, table td {
+            padding: 4px 0;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        .infoWindow-titleContainer {
+            width: 95%;
+            border-bottom: solid #808080 2px;
+            font-size: 1.2em;
+        }
+
+        .infoWindow-datatable {
+            font-family: FontAwesome, Open Sans, sans-serif;
+            font-size: 1em;
+            width: 95%;
+        }
+
+        .infoWindow-datatable td {
+            padding-right: 10px;
+            vertical-align: bottom;
+            line-height: 150%;
+        }
+
+        .infoWindow-dataItem {
+            text-align: center;
+            width: 25px;
+        }
+    </style>
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-4">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-7 map-info">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right load-map-button generic-btn-style">Update Map</button>
+                </h1>
+            </li>
+        </ul>
+    </div>
+{% endblock %}
+
+
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G1 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endwith %}
+    <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+        <div class="col-md-12  col-sm-12" style="padding-left: 0;">
+            <div id="loader" style="display: none">Loading</div>
+            <div id="map-view" class="row-fluid map-container"></div>
+            <div id='info-window' style="display: none"></div>
+        </div>
+    </div>
+{% endblock %}
+
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/mapbox/mapbox-gl.js"></script>
+    <script type="text/javascript">
+        var serialize_list_values = function (param) {
+            if (param != undefined && param != '') {
+                return param.join(',');
+            }
+            return param;
+        };
+
+        $(document).ready(function () {
+            var map = null;
+            var cityHoveredStateId = null;
+            var wardHoveredStateId = null;
+            var center = [90.3563, 23.6850];
+            var boundingCoordsGeojsonUrl = "{{ bounding_coords_url }}";
+            var boundingCoords = {};
+            var countryGeojsonUrl = "{{ country_geojson_url }}";
+            var cityGeojsonUrl = "{{ city_geojson_url }}";
+            var wardGeojsonUrl = "{{ ward_geojson_url }}";
+            var hasSecondLayer = {{ has_second_layer }};
+            var zoomTransition = 22; // set maximum zoom level
+
+            function initialize(center) {
+                mapboxgl.accessToken = "{{ mapbox_access_token }}";
+                var mapOptions = {
+                    container: 'map-view',
+                    style: 'mapbox://styles/mapbox/light-v10',
+                    center: center,
+                    zoom: 6.5
+                };
+                return new mapboxgl.Map(mapOptions);
+            }
+
+            function updateInfoWindow(geography_name, color_code, level_name, parent_name, data) {
+                var infoHtml = "";
+                infoHtml += '<table class="infoWindow-titleContainer"><tbody>';
+                if (level_name === 'ward') {
+                    infoHtml += '<tr><td>City/Town</td><td>' + parent_name + '</td></tr>';
+                    infoHtml += '<tr><td>Ward No</td><td>' + geography_name + '</td></tr>';
+                } else {
+                    infoHtml += '<tr><td>City/Town</td><td>' + geography_name + '</td></tr>';
+                }
+                infoHtml += '</tbody></table>';
+                infoHtml += '<table class="infoWindow-datatable"><tbody>';
+                $.each(data, function (key, value) {
+                    infoHtml += '<tr><td>' + key + '</td><td class="infoWindow-dataItem">' + value + '</td></tr>';
+                });
+                infoHtml += '</tbody></table>';
+                return "<div style='color: " + color_code + ";'>" + infoHtml + "</div>";
+            }
+
+            map = initialize(center);
+
+            // download bounding coords which will use to apply fit bounds
+            $.ajax({
+                url: boundingCoordsGeojsonUrl,
+                success: function (result) {
+                    if ($.type(result) === 'string'){
+                        boundingCoords = JSON.parse(result);
+                    } else {
+                        boundingCoords = result;
+                    }
+                }
+            });
+
+            // Add zoom and rotation controls to the map.
+            map.addControl(new mapboxgl.NavigationControl());
+
+            map.on('load', function () {
+                // Add a source for the country polygons.
+                map.addSource('country', {
+                    'type': 'geojson',
+                    'data': countryGeojsonUrl,
+                    'generateId': true // This ensures that all features have unique IDs
+                });
+
+                // Add a source for the city polygons.
+                map.addSource('cities', {
+                    'type': 'geojson',
+                    'data': cityGeojsonUrl,
+                    'generateId': true // This ensures that all features have unique IDs
+                });
+
+                if (hasSecondLayer) {
+                    zoomTransition = 11; // Transition zoom from City to Ward, and for legend changes
+                    // Add a source for the ward polygons.
+                    map.addSource('wards', {
+                        'type': 'geojson',
+                        'data': wardGeojsonUrl,
+                        'generateId': true // This ensures that all features have unique IDs
+                    });
+                }
+
+                // add layer for country
+                map.addLayer({
+                    'id': 'country-borders',
+                    'source': 'country',
+                    'type': 'line',
+                    'maxzoom': 7,
+                    'layout': {},
+                    'paint': {
+                        'line-opacity': 1,
+                        'line-width': 1.6,
+                        'line-color': '#280404'
+                    }
+                });
+
+
+                // add layer for cities
+                map.addLayer({
+                    'id': 'city-label',
+                    'type': 'symbol',
+                    'source': 'cities',
+                    'maxzoom': zoomTransition,
+                    'minzoom': 7,
+                    'filter': ['==', 'level_name', 'city'],
+                    'layout': {
+                        'text-field': ['get', 'geography_name'],
+                        'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                        'text-radial-offset': 0.5,
+                        'text-justify': 'auto',
+                        'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                    },
+                });
+                map.addLayer({
+                    'id': 'city-fills',
+                    'source': 'cities',
+                    'maxzoom': zoomTransition,
+                    'type': 'fill',
+                    'filter': ['==', 'level_name', 'city'],
+                    'paint': {
+                        'fill-color': ['get', 'color_code'],
+                        'fill-opacity': [
+                            'case',
+                            ['boolean', ['feature-state', 'hover'], false],
+                            0.80,
+                            0.60
+                        ]
+                    }
+                });
+                map.addLayer({
+                    'id': 'city-borders',
+                    'source': 'cities',
+                    'type': 'line',
+                    'maxzoom': zoomTransition,
+                    'filter': ['==', 'level_name', 'city'],
+                    'layout': {},
+                    'paint': {
+                        'line-opacity': 0.50,
+                        'line-width': {base: .65, stops: [[6, .65], [7, 1], [8, 1.25], [9, 1.5]]},
+                        'line-color': '#000000'
+                    }
+                });
+
+                if (hasSecondLayer) {
+                    // add layer for wards
+                    map.addLayer({
+                        'id': 'ward-label',
+                        'type': 'symbol',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {
+                            'text-field': ['get', 'geography_name'],
+                            'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                            'text-radial-offset': 0.5,
+                            'text-justify': 'auto',
+                            'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                        }
+                    });
+                    map.addLayer({
+                        'id': 'ward-fills',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'type': 'fill',
+                        'filter': ['==', 'level_name', 'ward'],
+                        'paint': {
+                            'fill-color': ['get', 'color_code'],
+                            'fill-opacity': [
+                                'case',
+                                ['boolean', ['feature-state', 'hover'], false],
+                                0.80,
+                                0.60
+                            ]
+                        }
+                    });
+                    map.addLayer({
+                        'id': 'ward-borders',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'type': 'line',
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {},
+                        'paint': {
+                            'line-opacity': 0.50,
+                            'line-width': {base: .65, stops: [[6, .65], [7, 1], [8, 1.25], [9, 1.5]]},
+                            'line-color': '#000000'
+                        }
+                    });
+                }
+
+
+                // When the user moves their mouse over the city-fill layer, we'll update the
+                // feature state for the feature under the mouse.
+                map.on('mousemove', 'city-fills', function (e) {
+                    if (e.features.length > 0) {
+                        if (cityHoveredStateId != null) {
+                            map.setFeatureState(
+                                {source: 'cities', id: cityHoveredStateId},
+                                {hover: false}
+                            );
+                        }
+                        cityHoveredStateId = e.features[0].id;
+                        map.setFeatureState(
+                            {source: 'cities', id: cityHoveredStateId},
+                            {hover: true}
+                        );
+                    }
+                });
+
+                // When the mouse leaves the city-fill layer, update the feature state of the
+                // previously hovered feature.
+                map.on('mouseleave', 'city-fills', function () {
+                    if (cityHoveredStateId != null) {
+                        map.setFeatureState(
+                            {source: 'cities', id: cityHoveredStateId},
+                            {hover: false}
+                        );
+                    }
+                    cityHoveredStateId = null;
+                });
+
+                if (hasSecondLayer) {
+                    // When the user moves their mouse over the ward-fill layer, we'll update the
+                    // feature state for the feature under the mouse.
+                    map.on('mousemove', 'ward-fills', function (e) {
+                        if (e.features.length > 0) {
+                            if (wardHoveredStateId) {
+                                map.setFeatureState(
+                                    {source: 'wards', id: wardHoveredStateId},
+                                    {hover: false}
+                                );
+                            }
+                            wardHoveredStateId = e.features[0].id;
+                            map.setFeatureState(
+                                {source: 'wards', id: wardHoveredStateId},
+                                {hover: true}
+                            );
+                        }
+                    });
+
+                    // When the mouse leaves the ward-fill layer, update the feature state of the
+                    // previously hovered feature.
+                    map.on('mouseleave', 'ward-fills', function () {
+                        if (wardHoveredStateId) {
+                            map.setFeatureState(
+                                {source: 'wards', id: wardHoveredStateId},
+                                {hover: false}
+                            );
+                        }
+                        wardHoveredStateId = null;
+                    });
+                }
+
+                // resize map while toggle sidebar
+                document.querySelector(".sidebar-toggle").addEventListener("click", () => map.resize());
+            });
+
+            // initiate update_map call after loaded map style
+            map.on('style.load', function (e) {
+                const waiting = function (e) {
+                    if (!map.isStyleLoaded()) {
+                        setTimeout(waiting, 200);
+                    } else {
+                        update_map({}, function (result) {
+                        });
+                    }
+                };
+                waiting();
+            });
+
+            function showLoader() {
+                document.getElementById("loader").style.display = "block";
+                document.getElementById("map-view").style.opacity = 0.4;
+            }
+
+            //load map data
+            $(".map-info").on('click', '.load-map-button', function () {
+                var tthis = this;
+                $(tthis).removeClass('generic-btn-style').addClass('generic-danger-btn-style').html('Please wait... Updating Map');
+                var parameters = {};
+                update_map(parameters, function (result) {
+                    $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                });
+            });
+
+            function update_map(data, action_callback) {
+                // Show loader when update map is clicked
+                showLoader();
+                var params = {};
+                params.city = serialize_list_values($("#id_city").val());
+                if (hasSecondLayer) {
+                    params.ward = $("#id_ward").val();
+                }
+
+                $.ajax({
+                    url: '?format=json',
+                    type: 'get',
+                    data: params,
+                    dataType: 'json',
+                    success: function (result) {
+                        action_callback(result);
+                        $('body,html').animate({
+                            scrollTop: $('#fbx-maincontent').height() + $('#fbx-header').height() - 16
+                        }, 1000);
+                        if (result != null) {
+                            var map_data = result['data'];
+
+                            // prepare fit bound coords
+                            var coordinates = [];
+                            $.each(map_data, function (key, value) {
+                                if (boundingCoords.hasOwnProperty(key)) {
+                                    coordinates.push(boundingCoords[key][0]);
+                                    coordinates.push(boundingCoords[key][1]);
+                                }
+                            });
+
+                            if (coordinates.length > 0) {
+                                var bounds = coordinates.reduce(function (bounds, coord) {
+                                    return bounds.extend(coord);
+                                }, new mapboxgl.LngLatBounds(coordinates[0], coordinates[0]));
+
+                                map.fitBounds(bounds, {
+                                    padding: 30
+                                });
+                            }
+
+                            map.on('click', function (e) {
+                                var layers = ['city-fills',];
+                                if (hasSecondLayer) {
+                                    layers.push('ward-fills');
+                                }
+                                var features = map.queryRenderedFeatures(e.point, {layers: layers});
+                                if (features.length > 0) {
+                                    var properties = features[0].properties;
+                                    if (map_data.hasOwnProperty(properties['geography_id']) === true) {
+                                        var geography_name = properties['geography_name'];
+                                        var color_code = properties['color_code'];
+                                        var level_name = properties['level_name'];
+                                        var parent_name = properties['parent_name'];
+                                        var node = updateInfoWindow(
+                                            geography_name, color_code, level_name,
+                                            parent_name, map_data[properties['geography_id']]
+                                        );
+                                        $('#info-window').html(node);
+                                        $('#info-window').show();
+                                    } else {
+                                        $('#info-window').hide();
+                                    }
+                                } else {
+                                    $('#info-window').hide();
+                                }
+                            });
+                        }
+                        setTimeout(function () {
+                            var loader = document.getElementById("loader");
+                            loader.style.display = "none";
+                            // get map view
+                            var mapView = document.getElementById("map-view");
+                            mapView.style.opacity = 1;
+                        }, 1000);
+                    },
+                    error: function (ad) {
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    }
+                })
+            }
+        });
+    </script>
+{% endblock %}

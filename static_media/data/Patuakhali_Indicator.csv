@@ -1,0 +1,461 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Patuakhali;9;3400901003;13400901003;Tawn Kalikapur Badghat;Gudi Ghat Sultan Mridha Bari;15;77;40;2;1;3;1;3;4;2;4;3;3;2;4;4;4;4;4;48
+Patuakhali;9;3400901001;13400901001;Tawn Kalikapur Badghat;Gudi Ghat Sarak Ar Mebi School;40;175;40;2;1;4;1;2;4;2;4;4;3;2;4;4;4;4;4;49
+Patuakhali;9;3400901002;13400901002;Tawn Kalikapur Badghat;Gude Ghat Matha;13;62;20;2;1;2;1;3;4;1;4;3;3;2;4;4;4;4;4;46
+Patuakhali;9;3400901007;13400901007;Tawn Kalikapur Badghat;Shapla Sarak;21;95;25;2;1;4;1;2;4;3;4;3;4;2;4;4;4;4;4;50
+Patuakhali;9;3400901005;13400901005;Tawn Kalikapur Badghat;Royal School And Collage;15;72;25;2;2;4;1;2;4;3;4;4;3;2;4;4;4;4;4;51
+Patuakhali;9;3400901004;13400901004;Tawn Kalikapur Badghat;Lotif Mridha Bari Sonlogno;13;53;25;2;1;4;1;2;4;3;4;4;3;3;4;4;4;4;4;51
+Patuakhali;9;3400901006;13400901006;Tawn Kalikapur Badghat;Room Bekari O Bondhu Jon Bekari;19;110;30;2;1;4;1;3;4;3;4;3;3;2;4;4;4;4;4;50
+Patuakhali;9;3400902001;13400902001;Ukilbari Area;Nannu Kha Bari Altaf Doctor;20;88;60;2;1;4;1;3;1;3;4;3;3;3;2;2;4;4;2;42
+Patuakhali;9;3400902007;13400902007;Ukilbari Area;Akon Bari;20;90;100;1;1;2;1;1;3;1;4;1;4;2;1;4;1;1;4;32
+Patuakhali;9;3400902004;13400902004;Ukilbari Area;Jahangir Mridha Bari;15;70;60;2;1;1;1;3;1;2;3;4;4;3;3;1;4;4;2;39
+Patuakhali;9;3400902005;13400902005;Ukilbari Area;Ajij Profesor Bari;19;90;55;2;1;4;1;3;3;1;3;3;4;3;1;4;4;4;2;43
+Patuakhali;9;3400902003;13400902003;Ukilbari Area;Gaji Bari;20;108;56;2;1;4;1;3;3;3;3;3;4;3;1;2;4;4;2;43
+Patuakhali;9;3400902006;13400902006;Ukilbari Area;Harun Ar Rashid Ukil Bari;11;56;67;2;1;4;3;1;3;3;3;4;4;3;1;4;4;4;2;46
+Patuakhali;9;3400902002;13400902002;Ukilbari Area;Ukil Bari;23;92;60;2;1;4;1;3;3;3;4;3;3;3;1;2;4;4;2;43
+Patuakhali;9;3400903001;13400903001;93 no Govt. Primary School;Talukder Bari/ Altaf Vai Bari;15;65;45;1;1;4;1;3;4;2;4;4;3;2;4;4;4;4;4;49
+Patuakhali;9;3400903002;13400903002;93 no Govt. Primary School;Forami Bari;9;48;40;2;1;4;1;2;1;1;3;4;3;2;4;4;4;4;4;44
+Patuakhali;9;3400903006;13400903006;93 no Govt. Primary School;Priyo Jon Momete Sahe Yakub Hak Bari;19;85;50;2;1;4;1;1;4;3;4;4;3;3;4;4;4;4;4;50
+Patuakhali;9;3400903005;13400903005;93 no Govt. Primary School;Sultan Mridha Bari;13;70;60;2;1;4;1;3;3;2;4;4;3;3;4;4;4;4;4;50
+Patuakhali;9;3400903004;13400903004;93 no Govt. Primary School;Hawlader Bari Rohim Hawlader;19;84;20;1;1;4;1;2;4;2;4;4;3;3;4;4;4;4;4;49
+Patuakhali;9;3400903003;13400903003;93 no Govt. Primary School;Agani Munshi Bari;36;130;45;1;1;3;1;2;1;1;3;4;3;2;4;4;4;4;4;42
+Patuakhali;9;3400904001;13400904001;Haoladar market and Kurillkhal par area;Sikander Ali Mridha Bari;13;65;50;3;1;1;1;2;4;2;4;3;3;2;4;4;4;4;4;46
+Patuakhali;9;3400904002;13400904002;Haoladar market and Kurillkhal par area;Kholil hak Bari Hawlader Bari Mor;29;88;60;2;1;4;1;2;4;3;4;4;3;2;4;4;4;4;4;50
+Patuakhali;9;3400904003;13400904003;Haoladar market and Kurillkhal par area;Barek Hawlader Ar Pasho Area;9;47;29;2;1;4;1;2;4;3;4;3;3;2;4;4;4;4;4;49
+Patuakhali;9;3400904004;13400904004;Haoladar market and Kurillkhal par area;Jalal Ahamed Mridha Baytul Aba Masjeed Goli;9;47;25;2;1;4;1;2;4;3;4;4;3;2;4;4;4;4;4;50
+Patuakhali;9;3400904005;13400904005;Haoladar market and Kurillkhal par area;Hatem Ali Hok Bari Thana Mor;27;120;55;2;2;4;1;2;3;2;4;4;3;2;4;4;4;4;4;49
+Patuakhali;9;3400905004;13400905004;1 no Breedge Area;Lotif Fokir Bari;8;29;50;1;1;3;1;2;3;3;3;3;4;2;4;1;4;4;4;43
+Patuakhali;9;3400905001;13400905001;1 no Breedge Area;Sat Gor Alaka;32;150;100;2;1;3;1;1;2;2;3;3;3;2;3;1;4;3;4;38
+Patuakhali;9;3400905003;13400905003;1 no Breedge Area;Altaf Fokir Bari;10;45;100;2;1;3;1;3;4;3;3;3;4;3;3;2;4;2;4;45
+Patuakhali;9;3400905002;13400905002;1 no Breedge Area;Toma Mridha Bari Alaka;20;85;100;2;1;3;1;2;3;2;3;2;3;2;3;1;3;4;3;38
+Patuakhali;9;3400905005;13400905005;1 no Breedge Area;Mi Mistry Bari;9;42;70;2;1;3;1;3;3;3;3;3;4;2;4;1;4;3;4;44
+Patuakhali;9;3400905006;13400905006;1 no Breedge Area;Mawlana Bari Masjeed Sonlogno;15;68;25;2;1;3;1;4;4;3;3;3;4;3;3;2;4;4;4;48
+Patuakhali;9;3400906005;13400906005;Nondokanae area;Nondokanay Masjeed Uttor Pashe;25;126;20;1;1;4;1;1;3;1;4;3;4;2;4;3;4;4;4;44
+Patuakhali;9;3400906006;13400906006;Nondokanae area;Nondokar Mridha Para;25;90;100;2;1;3;1;2;3;1;4;3;4;2;2;1;4;1;4;38
+Patuakhali;9;3400906004;13400906004;Nondokanae area;Masjeed Ar Dokhin Pash Goli;25;115;50;3;1;4;1;3;4;1;4;4;4;2;4;3;4;4;4;50
+Patuakhali;9;3400906003;13400906003;Nondokanae area;Akon Bari;15;70;60;1;1;4;1;1;3;1;4;3;3;1;4;3;4;4;4;42
+Patuakhali;9;3400906002;13400906002;Nondokanae area;Nebad Lala Bodor Bari;40;180;100;2;1;4;1;2;2;2;4;3;3;1;4;3;4;4;4;44
+Patuakhali;9;3400906001;13400906001;Nondokanae area;Kali Bari Sarak;55;223;100;2;1;3;1;3;3;2;4;3;3;2;3;2;4;2;4;42
+Patuakhali;9;3400907001;13400907001;Chourasta South;Riyaj Uddin Market Bosotee;19;93;10;3;1;4;1;2;4;1;4;4;3;3;1;2;4;1;3;41
+Patuakhali;9;3400907002;13400907002;Chourasta South;Roshid Hok Ar Basar Pashe;15;60;35;1;1;4;1;3;4;1;4;3;3;3;4;4;4;4;4;48
+Patuakhali;9;3400907003;13400907003;Chourasta South;Yashin Hok Bari Elaka;17;70;50;2;1;4;1;3;4;2;4;4;3;3;4;4;4;4;4;51
+Patuakhali;9;3400907004;13400907004;Chourasta South;Sahinota Sarak Polli Bidhut Purbo Pash;22;95;60;2;1;4;1;2;1;2;4;4;4;2;4;4;4;4;4;47
+Patuakhali;9;3400907005;13400907005;Chourasta South;Samsul Hok Mridha Bari;27;108;60;2;1;4;1;3;1;1;4;4;3;1;3;4;4;4;4;44
+Patuakhali;9;3400908006;13400908006;Moddho Kolatola Area;Nur Jamal Khandaker Bari;19;86;50;2;2;4;1;3;4;2;4;4;4;3;4;4;4;4;2;51
+Patuakhali;9;3400908007;13400908007;Moddho Kolatola Area;Khandaker Barir Uttor Pashe;8;35;25;2;1;4;1;2;2;2;4;3;4;2;4;4;4;4;4;47
+Patuakhali;9;3400908008;13400908008;Moddho Kolatola Area;Hatem Mridha Bari;22;105;100;1;1;4;1;3;3;2;4;1;4;3;1;4;4;1;4;41
+Patuakhali;9;3400908005;13400908005;Moddho Kolatola Area;Abdu Sao/ Kajol Miyar Bari;17;87;53;1;1;4;1;3;4;3;4;4;4;3;4;4;4;4;2;50
+Patuakhali;9;3400908004;13400908004;Moddho Kolatola Area;Barek Master Bari Alaka;17;95;35;1;1;4;1;1;1;2;4;3;4;2;4;4;4;1;3;40
+Patuakhali;9;3400908003;13400908003;Moddho Kolatola Area;Tomej Gajir Bari;23;80;45;1;1;1;1;1;3;2;4;4;4;3;4;4;4;4;2;43
+Patuakhali;9;3400908002;13400908002;Moddho Kolatola Area;Talukder Bari Alaka;15;61;60;1;2;4;1;1;2;2;4;4;4;3;4;4;4;4;2;46
+Patuakhali;9;3400908001;13400908001;Moddho Kolatola Area;Harun Ukil Ar Bariri Uttor Pashe;22;87;52;2;2;4;1;4;4;3;4;4;4;3;4;4;4;4;2;53
+Patuakhali;9;3400909005;13400909005;Pollibidhut and Bus Stand;Munshi Baru;18;86;42;2;1;4;1;1;1;2;3;4;4;3;4;4;4;4;2;44
+Patuakhali;9;3400909001;13400909001;Pollibidhut and Bus Stand;Sefan Hok Bari Elaka;20;90;50;1;1;4;3;1;1;2;1;3;4;3;4;1;4;4;2;39
+Patuakhali;9;3400909002;13400909002;Pollibidhut and Bus Stand;Mamun Khandaker Bari;15;73;15;1;1;4;1;3;3;1;3;4;4;3;1;1;4;1;2;37
+Patuakhali;9;3400909004;13400909004;Pollibidhut and Bus Stand;Talukder Bari Elaka;18;84;45;2;1;4;4;1;3;3;1;3;4;3;4;4;4;4;2;47
+Patuakhali;9;3400909003;13400909003;Pollibidhut and Bus Stand;Liton Gaji Madrasha Pasher Bosote;12;48;13;1;1;4;1;1;3;1;4;4;4;3;4;4;4;4;2;45
+Patuakhali;9;3400910005;13400910005;Choto Chourasta and Rustummredha Culburt Area;Kalu Mridhar Bari Sarak;28;120;50;1;1;4;1;4;4;3;4;4;4;3;4;4;4;4;2;51
+Patuakhali;9;3400910006;13400910006;Choto Chourasta and Rustummredha Culburt Area;Munshi Bari/ Joynal Hok Bari;110;490;100;1;1;3;1;3;3;2;4;4;4;2;1;2;4;4;4;43
+Patuakhali;9;3400910001;13400910001;Choto Chourasta and Rustummredha Culburt Area;Bob Bilaler Bari;15;72;62;2;1;4;1;4;4;2;4;4;4;3;3;4;4;1;2;47
+Patuakhali;9;3400910002;13400910002;Choto Chourasta and Rustummredha Culburt Area;Mridha Bari;17;83;40;2;1;4;1;4;3;2;4;4;4;3;4;3;4;1;2;46
+Patuakhali;9;3400910003;13400910003;Choto Chourasta and Rustummredha Culburt Area;Gaji Bari;18;70;20;2;1;3;1;3;4;3;4;4;4;3;3;4;4;4;2;49
+Patuakhali;9;3400910004;13400910004;Choto Chourasta and Rustummredha Culburt Area;Abdul Hay Miyar Bari;25;130;15;2;1;4;1;4;4;4;4;4;4;3;4;4;4;4;2;53
+Patuakhali;9;3400911003;13400911003;Choto Chourasta, Mukthijoddha sarok and Bridge Area;Mira Bari Elaka;18;82;42;2;1;4;1;2;2;3;3;4;4;3;4;4;4;4;2;47
+Patuakhali;9;3400911002;13400911002;Choto Chourasta, Mukthijoddha sarok and Bridge Area;Muktijodha Sarak Ar Matha;17;85;10;2;1;4;1;2;2;3;3;4;3;3;4;4;4;2;2;44
+Patuakhali;9;3400911004;13400911004;Choto Chourasta, Mukthijoddha sarok and Bridge Area;Kobor Master Bari Elaka;15;65;12;2;1;4;1;4;3;3;4;4;4;3;4;4;4;4;2;51
+Patuakhali;9;3400911001;13400911001;Choto Chourasta, Mukthijoddha sarok and Bridge Area;Kobir Miyar Bosote;35;170;12;2;1;4;1;2;2;2;3;4;4;3;4;4;4;1;2;43
+Patuakhali;9;3400912004;13400912004;Majgram Area;Ismanul Gaji  Sajgram;15;60;20;1;2;4;1;1;1;3;4;3;4;1;4;1;4;4;2;40
+Patuakhali;9;3400912001;13400912001;Majgram Area;Forir Ghat Abason Prokolpo;20;90;15;1;1;4;1;1;1;1;4;2;1;1;1;1;1;2;4;27
+Patuakhali;9;3400912002;13400912002;Majgram Area;Brij Ar Nicher Bosote;25;115;10;1;1;4;1;1;1;1;4;3;1;1;1;1;4;1;2;28
+Patuakhali;9;3400912003;13400912003;Majgram Area;Majgam Sahadat Vuiya Alaka;13;58;20;1;2;4;1;1;2;2;4;3;2;1;4;1;4;1;4;37
+Patuakhali;9;3400912005;13400912005;Majgram Area;Osman Dhalu Kodar Bari;14;64;100;2;2;4;1;3;3;3;4;4;4;2;4;4;4;4;4;52
+Patuakhali;9;3400912006;13400912006;Majgram Area;Hawlader Bari Maj Gram;10;40;100;3;1;4;1;1;3;3;4;3;4;2;4;4;4;4;4;49
+Patuakhali;9;3400912007;13400912007;Majgram Area;Nur Muhammad Hok Bari Elaka;15;60;100;2;1;4;1;1;3;3;4;4;4;1;4;4;4;4;4;48
+Patuakhali;9;3400912008;13400912008;Majgram Area;Sikder Bari Khan Bari;30;140;100;2;1;4;1;2;3;2;4;4;4;2;4;3;4;4;4;48
+Patuakhali;9;3400912009;13400912009;Majgram Area;Hatani Bari;25;125;60;1;1;4;1;3;3;3;4;4;4;2;3;3;4;4;4;48
+Patuakhali;9;3400913006;13400913006;BICIK Industrial Area;Bicik Pasher Mridha Bari;15;68;20;3;1;4;1;1;3;2;4;3;3;1;4;4;4;2;3;43
+Patuakhali;9;3400913005;13400913005;BICIK Industrial Area;BICIk Purbo Bosote;20;90;20;4;2;3;1;3;2;2;4;3;4;2;1;2;4;4;4;45
+Patuakhali;9;3400913004;13400913004;BICIK Industrial Area;Joynal Gajir Bosotee BICIk;15;98;8;1;1;4;4;1;2;1;4;3;3;1;1;1;3;1;2;33
+Patuakhali;9;3400913003;13400913003;BICIK Industrial Area;Pipemil Sonlogno Akala BICIk;6;30;20;2;3;4;1;4;4;3;4;4;4;2;1;2;2;3;2;45
+Patuakhali;9;3400913002;13400913002;BICIK Industrial Area;Dokhin BISIk Alaka;15;97;20;1;1;4;1;1;4;1;4;4;4;1;2;2;3;1;2;36
+Patuakhali;9;3400913001;13400913001;BICIK Industrial Area;Purbo Bicik Alaka;18;85;20;4;2;4;1;4;3;2;4;4;4;2;1;2;3;3;2;45
+Patuakhali;9;3400913008;13400913008;BICIK Industrial Area;BICK Poschim Pashe;25;105;10;2;1;3;1;3;3;1;4;4;4;3;4;4;4;4;4;49
+Patuakhali;9;3400913007;13400913007;BICIK Industrial Area;Bicik Nodhir Par Uttor;10;45;10;1;1;1;1;2;2;1;3;4;4;2;3;3;3;2;1;34
+Patuakhali;9;3400914001;13400914001;Nondokanae 21 Sarok;Tulatola Alaka;12;48;60;1;1;4;1;2;3;2;4;3;3;1;4;1;4;4;4;42
+Patuakhali;9;3400914002;13400914002;Nondokanae 21 Sarok;Hawlader Bari Nondonay;20;110;200;2;1;4;1;3;3;2;4;3;3;2;4;2;4;4;4;46
+Patuakhali;9;3400914003;13400914003;Nondokanae 21 Sarok;Mannan Mridha Bari Nondok Nay;22;127;100;2;1;4;1;2;3;2;4;3;3;2;4;2;4;4;4;45
+Patuakhali;9;3400914004;13400914004;Nondokanae 21 Sarok;Hikmon Sili Bari Alaka;11;50;100;2;1;4;1;3;2;2;3;3;3;2;3;2;4;4;4;43
+Patuakhali;9;3400914005;13400914005;Nondokanae 21 Sarok;Masud Mridha Bari Alaka;10;45;100;3;1;4;1;3;3;2;4;4;3;1;4;1;4;4;4;46
+Patuakhali;9;3400914006;13400914006;Nondokanae 21 Sarok;Goni Mridha Bari Elaka;25;145;100;2;1;4;1;2;3;2;4;3;3;1;4;2;4;4;4;44
+Patuakhali;9;3400914007;13400914007;Nondokanae 21 Sarok;Majum Miya Bari;10;50;100;2;1;4;1;2;3;2;4;3;4;2;4;2;4;4;4;46
+Patuakhali;9;3400914008;13400914008;Nondokanae 21 Sarok;Nman Miyar Bari Alaka;20;95;50;3;1;4;1;2;3;3;4;4;4;1;4;2;4;4;4;48
+Patuakhali;9;3400914009;13400914009;Nondokanae 21 Sarok;Primary School Sonlogno Alaka;20;105;30;2;1;4;1;3;4;3;4;2;3;2;4;4;4;3;3;47
+Patuakhali;9;3400914010;13400914010;Nondokanae 21 Sarok;Mawlana Bari;8;40;60;2;1;4;1;2;2;2;3;2;3;2;3;1;3;3;3;37
+Patuakhali;9;3400915007;13400915007;Sadhinata Sharok Area;Hawlader Bari;20;85;30;4;1;4;1;3;3;3;4;4;4;3;1;2;4;4;4;49
+Patuakhali;9;3400915001;13400915001;Sadhinata Sharok Area;Sahinota Sarak Hamim Monsur Dali;9;55;30;2;1;4;1;4;4;4;4;4;4;3;4;3;4;4;2;52
+Patuakhali;9;3400915002;13400915002;Sadhinata Sharok Area;Usuf/Babul Hok Bari Goli;7;34;30;2;1;4;1;3;4;3;4;4;4;3;4;3;4;4;2;50
+Patuakhali;9;3400915006;13400915006;Sadhinata Sharok Area;Md. Saiful Islam Ar Bari;10;50;16;1;1;4;1;2;4;3;4;4;3;2;4;4;4;4;4;49
+Patuakhali;9;3400915003;13400915003;Sadhinata Sharok Area;Molla Bari Nur Molla Alaka;14;66;50;2;1;4;1;4;4;3;4;4;4;3;4;3;4;4;2;51
+Patuakhali;9;3400915004;13400915004;Sadhinata Sharok Area;Sultan Ahamed (Bcom Sir) Goli;11;50;20;2;1;4;1;3;4;3;4;4;4;3;4;4;4;4;2;51
+Patuakhali;9;3400915005;13400915005;Sadhinata Sharok Area;Baytul Mokbul Jame Masjeed Sonlogno Goli;13;50;15;2;1;4;1;4;4;2;4;4;4;3;4;4;4;4;1;50
+Patuakhali;8;3400801001;13400801001;DC Court Area;Bon Bevra Ar Pichon;5;18;30;2;1;4;1;4;4;1;4;4;4;4;4;2;3;2;1;45
+Patuakhali;8;3400801002;13400801002;DC Court Area;Sarak Vaban Quyatar;10;44;30;2;2;4;1;4;3;4;4;4;4;3;4;2;3;2;1;47
+Patuakhali;8;3400801003;13400801003;DC Court Area;Power House Office Ar Shamne;8;20;15;2;1;4;1;2;2;3;3;4;4;3;4;1;1;1;3;39
+Patuakhali;8;3400801004;13400801004;DC Court Area;Puraton Bus Stand;7;25;12;1;1;4;1;1;1;2;3;4;4;3;1;1;1;3;1;32
+Patuakhali;8;3400802014;13400802014;Hospital Area and Mridha Bari Sharok;Hospita Ar Nodhir Pichon Ar Side;30;160;20;1;1;4;1;3;3;1;3;4;3;4;3;4;4;2;2;43
+Patuakhali;8;3400802007;13400802007;Hospital Area and Mridha Bari Sharok;Mridha Bari (Sahadar Mridha Sarak);6;48;100;2;1;4;1;3;3;2;4;4;4;4;4;4;4;4;4;52
+Patuakhali;8;3400802006;13400802006;Hospital Area and Mridha Bari Sharok;Habib Comisonar Road;15;65;110;2;1;4;1;3;3;4;4;3;4;4;4;4;4;4;4;53
+Patuakhali;8;3400802008;13400802008;Hospital Area and Mridha Bari Sharok;Jakir Mridha Sarak;20;100;80;2;1;4;1;4;3;1;4;4;4;4;4;4;4;4;4;52
+Patuakhali;8;3400802005;13400802005;Hospital Area and Mridha Bari Sharok;Mridha Bari Jiya Road;12;60;100;3;1;4;1;3;3;3;4;4;4;4;4;4;4;4;4;54
+Patuakhali;8;3400802004;13400802004;Hospital Area and Mridha Bari Sharok;Jiya Sarak Soman Bari;25;140;100;3;1;4;1;3;2;4;4;4;4;4;4;4;4;4;4;54
+Patuakhali;8;3400802009;13400802009;Hospital Area and Mridha Bari Sharok;Mridha Bari (Ismayel Mridha);6;32;100;1;1;4;1;2;1;1;2;3;3;4;1;1;2;3;2;32
+Patuakhali;8;3400802003;13400802003;Hospital Area and Mridha Bari Sharok;Jiya Roan (3rd);20;100;100;2;1;4;1;3;3;3;4;3;4;4;4;4;4;4;4;52
+Patuakhali;8;3400802010;13400802010;Hospital Area and Mridha Bari Sharok;Jiya Sarak Road Paschim Pash;12;80;10;1;1;4;1;1;1;1;2;3;2;3;2;3;3;3;3;34
+Patuakhali;8;3400802011;13400802011;Hospital Area and Mridha Bari Sharok;Fair Service Road;12;70;12;1;1;4;1;2;3;3;2;3;4;4;4;4;3;4;4;47
+Patuakhali;8;3400802012;13400802012;Hospital Area and Mridha Bari Sharok;Hospital Fair Service (1st);20;120;10;2;1;4;1;3;3;4;3;3;4;4;3;4;4;4;4;51
+Patuakhali;8;3400802002;13400802002;Hospital Area and Mridha Bari Sharok;Jya Sarak ( Mridha Bari);10;70;100;1;1;4;1;3;3;3;4;4;4;4;4;4;3;4;4;51
+Patuakhali;8;3400802001;13400802001;Hospital Area and Mridha Bari Sharok;Jya Road ( Mridha Bari);12;60;50;2;1;4;1;3;3;3;4;4;4;4;4;4;4;4;4;53
+Patuakhali;8;3400802013;13400802013;Hospital Area and Mridha Bari Sharok;Hospital Fair Service (2nd);15;75;100;2;1;4;1;4;3;4;3;3;4;4;3;4;4;4;4;52
+Patuakhali;8;3400803015;13400803015;Jubo Songshad Sharok Babri Mosque;Kolatola Kader Haji Bari Purbo;25;115;25;3;1;4;1;3;3;1;4;4;4;3;4;4;3;4;4;50
+Patuakhali;8;3400803003;13400803003;Jubo Songshad Sharok Babri Mosque;1st Lain Lal Boro Bari;25;113;40;2;1;4;1;2;1;1;4;4;4;3;4;2;2;4;4;43
+Patuakhali;8;3400803001;13400803001;Jubo Songshad Sharok Babri Mosque;Kolatola Bazar Ar Pichon A;11;47;25;2;1;4;1;4;3;1;4;4;4;3;4;1;2;4;4;46
+Patuakhali;8;3400803002;13400803002;Jubo Songshad Sharok Babri Mosque;1st Lain Khodokar Bari;12;52;30;2;1;4;1;4;3;3;4;4;4;4;4;2;2;4;4;50
+Patuakhali;8;3400803005;13400803005;Jubo Songshad Sharok Babri Mosque;Kolatola Talukder Bari;8;36;48;2;1;4;1;4;2;4;4;4;4;4;4;1;2;4;4;49
+Patuakhali;8;3400803004;13400803004;Jubo Songshad Sharok Babri Mosque;Kolatola 1st Lain;15;75;35;1;1;4;1;4;3;1;4;4;4;3;4;4;2;4;4;48
+Patuakhali;8;3400803006;13400803006;Jubo Songshad Sharok Babri Mosque;Pada Bari 2nd Lain Korim Pada;35;143;50;2;1;4;1;3;2;1;3;4;4;3;4;1;2;4;4;43
+Patuakhali;8;3400803007;13400803007;Jubo Songshad Sharok Babri Mosque;Jubo Songsod Sarak 2nd Lain;30;125;60;1;1;4;1;4;1;1;4;1;4;4;4;4;2;4;4;44
+Patuakhali;8;3400803008;13400803008;Jubo Songshad Sharok Babri Mosque;Ayakub Sorif Bari 2nd Lain;6;25;46;2;1;4;1;4;2;1;4;4;4;1;4;1;2;4;4;43
+Patuakhali;8;3400803009;13400803009;Jubo Songshad Sharok Babri Mosque;Aidvucate Nur Jamal Mridha Bari;20;93;50;2;1;4;1;4;4;4;4;4;4;4;4;4;2;4;4;54
+Patuakhali;8;3400803010;13400803010;Jubo Songshad Sharok Babri Mosque;Kolatola Prantolain Ansar Ayad;18;75;50;2;1;4;1;3;1;1;4;4;4;3;4;4;2;4;4;46
+Patuakhali;8;3400803011;13400803011;Jubo Songshad Sharok Babri Mosque;Kolatola Pranto Lain Atahor Hok;30;125;26;2;1;4;1;4;2;1;4;3;4;4;4;1;2;4;4;45
+Patuakhali;8;3400803012;13400803012;Jubo Songshad Sharok Babri Mosque;Kolatola 3rd Lain Kerkan Akon Bari;11;46;48;2;1;4;1;3;4;4;4;4;4;4;4;1;2;4;4;50
+Patuakhali;8;3400803013;13400803013;Jubo Songshad Sharok Babri Mosque;Akon Bari 3rd Lain Motaleb Akon;40;165;50;1;1;4;1;4;3;4;4;4;4;4;4;1;2;4;4;49
+Patuakhali;8;3400803014;13400803014;Jubo Songshad Sharok Babri Mosque;Kolatola Kader Haji Bari;11;46;50;1;1;4;1;2;4;2;4;4;4;4;4;1;2;4;4;46
+Patuakhali;8;3400804001;13400804001;Matbor Bari and Jailkhana Road;Sofik Bari;7;42;15;1;1;4;1;4;3;1;3;2;3;3;2;2;4;4;4;42
+Patuakhali;8;3400804002;13400804002;Matbor Bari and Jailkhana Road;Housing Ar Uttor Pasher Goli;20;86;20;1;1;4;1;1;2;1;3;3;2;4;3;3;4;4;4;41
+Patuakhali;8;3400804003;13400804003;Matbor Bari and Jailkhana Road;Housing A Block/14;15;75;15;2;1;4;1;1;1;1;1;2;3;4;4;1;4;4;4;38
+Patuakhali;8;3400804004;13400804004;Matbor Bari and Jailkhana Road;Banker Goli A Block;10;80;15;2;1;4;1;3;3;4;4;1;3;4;3;4;4;4;4;49
+Patuakhali;8;3400804005;13400804005;Matbor Bari and Jailkhana Road;Doctor Bari Area;24;108;12;1;1;4;1;3;3;4;2;2;4;4;3;4;4;4;4;48
+Patuakhali;8;3400804006;13400804006;Matbor Bari and Jailkhana Road;Housing Sonlogno Purbo Pash Hok Bari;11;55;45;2;1;4;1;1;1;1;3;3;4;4;3;1;4;4;4;41
+Patuakhali;8;3400804007;13400804007;Matbor Bari and Jailkhana Road;Farm Road/ Khodoker Bari;5;20;50;1;1;4;1;3;3;1;4;4;4;1;4;4;4;4;4;47
+Patuakhali;8;3400804008;13400804008;Matbor Bari and Jailkhana Road;Farm Road Dokhin Pash;9;45;15;1;1;4;1;3;2;1;3;3;4;4;4;4;4;1;2;42
+Patuakhali;8;3400804009;13400804009;Matbor Bari and Jailkhana Road;Poshu Hospital Ar Purbo Pash;10;50;15;1;1;4;1;2;3;1;4;4;4;4;4;4;4;4;3;48
+Patuakhali;8;3400804010;13400804010;Matbor Bari and Jailkhana Road;Madbor Barir Mor Sonlogno;13;75;10;2;1;4;1;1;2;4;4;1;4;4;3;4;4;4;2;45
+Patuakhali;8;3400804011;13400804011;Matbor Bari and Jailkhana Road;Madbor Bari Mor;13;55;50;4;1;4;1;4;2;4;4;3;4;4;4;3;4;4;3;53
+Patuakhali;8;3400804012;13400804012;Matbor Bari and Jailkhana Road;Madbor Bari Lain 2nd;12;54;70;2;1;4;1;4;3;3;4;4;4;4;4;4;4;4;4;54
+Patuakhali;8;3400804013;13400804013;Matbor Bari and Jailkhana Road;Khandaker Bari 3rd Lain;12;56;90;2;1;4;1;4;3;1;4;3;4;4;4;4;4;4;4;51
+Patuakhali;8;3400804014;13400804014;Matbor Bari and Jailkhana Road;Madbor Bari Masjeed Sonlogno;9;45;15;3;1;4;1;4;1;1;4;4;4;4;4;1;4;1;1;42
+Patuakhali;8;3400804015;13400804015;Matbor Bari and Jailkhana Road;Madbor Bari 3rd Goli;12;55;100;3;1;4;1;4;3;3;4;3;4;1;4;4;4;4;4;51
+Patuakhali;8;3400805001;13400805001;Housing Area, Kolabagan Road;Kolatola 3 pon Ukil Ar Basar Shamne;10;44;8;1;1;3;1;1;1;1;3;4;4;4;3;1;1;2;1;32
+Patuakhali;8;3400805002;13400805002;Housing Area, Kolabagan Road;Masud Akon Ar Bashar Shamne Ali Akon Bari;12;54;10;1;1;4;1;3;3;3;4;4;4;4;4;1;3;1;4;45
+Patuakhali;8;3400805003;13400805003;Housing Area, Kolabagan Road;Modho Kolatola Roshid Khandoker Bari;7;28;15;1;1;4;1;4;2;3;3;4;4;4;4;1;3;1;4;44
+Patuakhali;8;3400805004;13400805004;Housing Area, Kolabagan Road;Modho Kolatola Ismayel Talukder Bari;6;30;20;2;1;4;1;4;3;2;4;4;4;4;4;1;4;4;4;50
+Patuakhali;8;3400805005;13400805005;Housing Area, Kolabagan Road;Modho Kolatola Howlader Villa;6;26;12;4;1;4;1;4;4;3;4;4;4;4;4;1;4;4;4;54
+Patuakhali;8;3400805006;13400805006;Housing Area, Kolabagan Road;Modho Kolatola Cricketer Mohaj Gaji;9;40;35;1;1;4;1;1;2;1;4;4;4;4;4;1;2;4;4;42
+Patuakhali;8;3400805008;13400805008;Housing Area, Kolabagan Road;Modho Kolatola, Bottola Jame Masjeed, Akon Bari;12;42;35;2;1;4;1;4;2;1;4;4;4;4;4;1;4;4;4;48
+Patuakhali;8;3400805007;13400805007;Housing Area, Kolabagan Road;Modho Kolatola Delar Bari;26;110;40;2;1;4;1;2;2;2;4;4;4;3;4;1;3;4;4;45
+Patuakhali;8;3400805009;13400805009;Housing Area, Kolabagan Road;Modho Kolatola, Bottola Jame Masjeed, Kader Mridha Bari;6;26;30;2;1;4;1;1;1;1;4;4;4;4;4;1;1;4;4;41
+Patuakhali;8;3400805011;13400805011;Housing Area, Kolabagan Road;Gaji Bari Pichon Saide;5;22;50;1;1;4;1;1;1;1;4;4;4;3;4;1;1;4;4;39
+Patuakhali;8;3400805010;13400805010;Housing Area, Kolabagan Road;Modho Kolatola, Bottola Masjeed, Atahar Sikder Bari;7;32;35;2;1;4;1;1;2;1;4;4;4;4;4;1;2;4;4;43
+Patuakhali;8;3400805012;13400805012;Housing Area, Kolabagan Road;Modho Kolatola, Gaji Bari;20;100;50;2;1;4;1;3;3;1;4;4;4;3;4;2;2;4;4;46
+Patuakhali;8;3400805013;13400805013;Housing Area, Kolabagan Road;Farm Road Soref Bari;7;30;10;2;1;4;1;3;3;1;4;4;4;3;4;1;3;4;4;46
+Patuakhali;8;3400805014;13400805014;Housing Area, Kolabagan Road;Farm Road Lek Parer Purbo Pash;9;32;10;1;1;4;1;1;1;1;4;4;4;3;2;1;1;1;1;31
+Patuakhali;8;3400805015;13400805015;Housing Area, Kolabagan Road;Farm Road Ar Shamne;10;40;10;2;2;4;1;3;1;1;4;4;4;3;4;1;1;4;4;43
+Patuakhali;7;3400701003;13400701003;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Fotik Khaya Ghat Nodi Sonlogno Bari;40;180;30;4;2;4;1;1;1;4;3;4;4;3;1;1;4;1;1;39
+Patuakhali;7;3400701001;13400701001;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Kobor Esthan Ar Pichin A Sorar Mridhar Bostee;5;19;3;1;1;4;1;4;1;4;4;4;4;4;4;1;4;1;1;43
+Patuakhali;7;3400701002;13400701002;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Somda Sarak Akon Bari, Ajgor Ukil, Sultan Khandakar Bari;17;70;30;1;1;4;1;3;1;1;3;4;4;3;2;1;4;1;1;35
+Patuakhali;7;3400701007;13400701007;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Somota Sarak, Abbas Bihari, Roton Khandaker;19;90;45;1;3;4;1;3;2;2;4;4;4;3;2;1;4;1;1;40
+Patuakhali;7;3400701006;13400701006;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Goresthan Road, Pintu Hawlader Gaji Bari;15;68;35;1;1;4;1;2;1;1;4;4;4;3;3;1;4;1;1;36
+Patuakhali;7;3400701005;13400701005;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Goresthan Road, Kanchon Police Barek Comader;24;110;40;1;1;4;1;4;2;1;4;4;4;3;3;1;4;4;4;45
+Patuakhali;7;3400701008;13400701008;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Somota Sarak Raja Miyar Vila;7;32;10;1;1;4;1;4;2;2;4;4;4;3;1;1;4;1;1;38
+Patuakhali;7;3400701004;13400701004;Ghorstan Road and Photiker Kheaghat, Somota Sorok;Kor Voboner Purbo Pashe Rajakar Miyar Bari;8;36;15;1;1;4;1;1;1;4;4;4;4;3;1;1;2;1;1;34
+Patuakhali;7;3400702002;13400702002;Power House;Akota Sarak Pawar House Ar Pichon A;35;150;25;1;1;4;1;3;2;1;4;4;4;3;1;1;4;1;1;36
+Patuakhali;7;3400702001;13400702001;Power House;Goresthan Road, Anoyar Mridha Bari;25;110;20;1;3;4;1;1;1;1;4;4;4;3;1;1;4;1;1;35
+Patuakhali;7;3400703008;13400703008;Cirkit House Area;Sonali Bank Ar Pichon A Munshi Bari;30;135;30;4;1;4;1;4;3;3;4;4;4;3;1;2;4;1;1;44
+Patuakhali;7;3400703009;13400703009;Cirkit House Area;JC Baglor Pichon A Hawlader Bari;40;180;30;2;4;4;1;3;1;3;4;4;4;3;2;2;4;4;4;49
+Patuakhali;7;3400703010;13400703010;Cirkit House Area;JC Baglor Pichon A Mukti Jodha Ajharer Bari;5;22;10;3;4;4;1;1;1;3;4;4;4;3;1;1;4;2;1;41
+Patuakhali;7;3400703007;13400703007;Cirkit House Area;Monju Miyar Bari;18;80;20;2;1;4;1;3;3;3;4;4;4;3;2;1;4;1;1;41
+Patuakhali;7;3400703001;13400703001;Cirkit House Area;Pintu Mridha Ar Bari, Cirkit House Area;8;40;30;3;1;4;1;4;1;4;4;4;4;3;1;1;4;1;1;41
+Patuakhali;7;3400703002;13400703002;Cirkit House Area;Motaher Master Basha;25;125;40;1;3;4;1;4;3;1;4;4;4;3;1;1;4;1;1;40
+Patuakhali;7;3400703003;13400703003;Cirkit House Area;Delawar Mrodha;9;41;30;1;1;4;1;4;4;2;4;4;4;3;1;1;4;1;1;40
+Patuakhali;7;3400703004;13400703004;Cirkit House Area;Fojol Ali Munshikor Vobon Ar Purbo Pashe;20;90;40;2;1;4;1;4;4;1;4;3;4;3;4;3;4;4;4;50
+Patuakhali;7;3400703005;13400703005;Cirkit House Area;Sultan Mridha Bari Kor Voboner Purbo Pashe;10;45;40;3;1;4;1;4;3;3;4;4;4;3;4;4;4;4;4;54
+Patuakhali;7;3400703006;13400703006;Cirkit House Area;Hafej Mridha Bari CNG Road Ar Purbo Pashe;25;114;30;1;1;4;1;4;2;4;4;3;4;2;3;2;4;4;4;47
+Patuakhali;7;3400704005;13400704005;Baparibari Area;Tutul Miyar Bosote Bepary Bari;7;35;20;1;1;4;1;1;1;1;4;4;4;4;1;1;4;1;2;35
+Patuakhali;7;3400704001;13400704001;Baparibari Area;Bepary Bari Bosote;50;300;70;3;1;4;1;1;1;1;4;4;4;3;1;1;1;1;1;32
+Patuakhali;7;3400704002;13400704002;Baparibari Area;Lal Boruyar Bosotee Bepary Bari;20;150;30;1;1;4;1;1;1;1;4;4;4;4;1;2;2;1;1;33
+Patuakhali;7;3400704003;13400704003;Baparibari Area;KalaMiyar Bosote Bepary Bari;8;48;17;3;4;4;1;4;1;1;4;4;4;3;2;2;4;1;1;43
+Patuakhali;7;3400704004;13400704004;Baparibari Area;Mansura Begum Ar Bari;7;21;10;1;3;1;1;4;1;1;1;4;4;4;1;1;4;1;1;33
+Patuakhali;7;3400704006;13400704006;Baparibari Area;Pakhi Begum Ar Bosotee;8;32;5;1;1;4;1;4;1;1;4;4;4;4;1;1;4;1;1;37
+Patuakhali;7;3400704007;13400704007;Baparibari Area;Osman Gonir Bosotee;9;16;50;1;3;4;1;2;1;1;4;4;4;4;3;1;4;2;2;41
+Patuakhali;7;3400704008;13400704008;Baparibari Area;Seraj Master;25;112;25;1;4;4;1;4;2;4;4;3;4;3;2;1;4;1;2;44
+Patuakhali;7;3400706009;13400706009;Sher-e-bangla Area Reshee Bari;Abashik School Ar Dokhin Pashe;5;25;20;1;1;4;1;1;1;1;4;3;4;4;2;1;2;2;1;33
+Patuakhali;7;3400706008;13400706008;Sher-e-bangla Area Reshee Bari;Mohela Ansar Cast Ar Pochim;12;54;15;1;2;4;1;1;2;2;4;3;4;4;1;1;1;2;1;34
+Patuakhali;7;3400706007;13400706007;Sher-e-bangla Area Reshee Bari;Rishe Bari;80;360;40;1;1;4;1;1;3;3;4;3;4;4;1;1;1;2;1;35
+Patuakhali;7;3400706010;13400706010;Sher-e-bangla Area Reshee Bari;Forest Koller Pukur Par;7;32;20;1;1;3;1;1;1;4;4;4;4;4;2;1;2;2;1;36
+Patuakhali;7;3400706001;13400706001;Sher-e-bangla Area Reshee Bari;Bhamagar Mor Mojamel Hok;9;40;3;1;1;4;1;4;4;4;4;4;4;4;4;1;4;4;4;52
+Patuakhali;7;3400706004;13400706004;Sher-e-bangla Area Reshee Bari;Shere Bangla Sarak Chaproshi Bari-1;50;275;30;4;1;4;1;4;1;4;4;2;4;4;1;1;4;1;2;42
+Patuakhali;7;3400706002;13400706002;Sher-e-bangla Area Reshee Bari;Baytum Aman Road Mis Milah;18;95;3;1;1;4;1;4;4;4;4;4;4;4;2;2;4;4;2;49
+Patuakhali;7;3400706005;13400706005;Sher-e-bangla Area Reshee Bari;Shere Bangla Sarak Chaproshi Bari-2;11;50;20;2;3;4;1;4;4;3;4;3;4;4;2;2;4;4;2;50
+Patuakhali;7;3400707006;13400707006;Thana Para;Nover Dokhin Pashe Vuya Bari;9;40;10;1;3;4;2;4;4;4;4;4;4;4;2;1;4;1;2;48
+Patuakhali;7;3400707005;13400707005;Thana Para;Thanapara Barek Chokider Bari;54;270;20;2;1;4;1;4;2;2;4;3;4;3;1;4;4;1;2;42
+Patuakhali;7;3400707007;13400707007;Thana Para;Baytul Aman Ar Pichon Miya Bari;20;90;30;4;1;4;1;4;2;4;4;2;4;4;2;2;4;1;2;45
+Patuakhali;7;3400707008;13400707008;Thana Para;Baytul Aman Lain;6;29;30;1;1;4;2;4;3;4;4;4;4;4;4;1;4;4;2;50
+Patuakhali;7;3400707001;13400707001;Thana Para;Godown Ar Pichon A Shawon Ar Bari;5;22;30;4;3;4;2;2;1;4;4;3;4;4;1;1;3;3;1;44
+Patuakhali;7;3400707002;13400707002;Thana Para;Godown Ar Pochim Pash Loknath Mander;8;36;40;4;4;4;1;4;2;4;4;4;4;4;4;2;4;4;4;57
+Patuakhali;7;3400707003;13400707003;Thana Para;Thanar Masjeed Ar Dokhin Pash;6;30;30;1;3;4;1;1;1;4;4;4;4;4;1;1;4;2;2;41
+Patuakhali;7;3400707004;13400707004;Thana Para;Thana para Chokider Bari;20;90;20;4;1;4;1;4;2;4;4;3;4;4;4;1;4;1;2;47
+Patuakhali;7;3400708001;13400708001;New Market Area;Thanapara Registra Lain;11;50;40;1;3;4;1;4;1;4;4;2;4;4;1;1;4;1;2;41
+Patuakhali;1;3400101008;13400101008;Boyalgachi West Side;Shikdar Bari Kacha Bad;16;74;60;3;1;4;1;1;2;1;4;4;4;4;3;4;3;4;4;47
+Patuakhali;1;3400101007;13400101007;Boyalgachi West Side;Munshi Bari;22;100;55;3;1;4;1;1;1;2;4;4;4;3;4;4;3;4;4;47
+Patuakhali;1;3400101006;13400101006;Boyalgachi West Side;Munshi Bari Masjees Sarak;7;28;40;3;1;3;1;3;2;2;4;3;4;3;4;3;3;4;4;47
+Patuakhali;1;3400101009;13400101009;Boyalgachi West Side;Molla Bari Kacha Bad;25;91;60;2;1;3;1;1;1;1;4;3;4;3;4;4;4;4;4;44
+Patuakhali;1;3400101005;13400101005;Boyalgachi West Side;Munshi Bari Sarak;17;69;35;3;1;4;1;2;1;2;3;3;4;3;3;3;2;4;4;43
+Patuakhali;1;3400101010;13400101010;Boyalgachi West Side;Hawlader Bari;7;29;60;3;1;4;1;1;2;3;4;4;4;4;4;4;4;4;4;51
+Patuakhali;1;3400101011;13400101011;Boyalgachi West Side;Asak Fakir Masjeed Sarak;20;83;40;3;1;3;1;1;2;2;4;3;4;3;4;4;3;4;4;46
+Patuakhali;1;3400101016;13400101016;Boyalgachi West Side;Shikder Bari;20;85;150;3;1;4;1;2;4;1;4;4;4;4;4;4;4;4;4;52
+Patuakhali;1;3400101017;13400101017;Boyalgachi West Side;Kurali Bari;8;33;25;3;1;1;1;1;1;2;4;4;4;4;4;4;1;4;4;43
+Patuakhali;1;3400101012;13400101012;Boyalgachi West Side;Gazi Bari;55;222;135;4;3;4;1;3;3;4;4;4;4;4;4;4;4;4;4;58
+Patuakhali;1;3400101014;13400101014;Boyalgachi West Side;Pal Bari;7;33;60;1;1;4;1;1;3;4;4;3;4;4;4;4;3;4;4;49
+Patuakhali;1;3400101001;13400101001;Boyalgachi West Side;Godawn Sonlogno;20;83;30;1;1;3;1;3;3;1;4;4;4;3;4;1;4;4;4;45
+Patuakhali;1;3400101002;13400101002;Boyalgachi West Side;Hazi Bari Sarak;9;41;30;3;1;4;1;1;1;4;4;4;4;3;4;4;1;4;4;47
+Patuakhali;1;3400101003;13400101003;Boyalgachi West Side;Hazi Bari;17;68;50;2;1;4;1;1;1;4;4;2;4;3;4;4;3;4;4;46
+Patuakhali;1;3400101004;13400101004;Boyalgachi West Side;Muktijudha Sunlan Hak Bari Sonlogno;9;47;25;2;1;4;1;3;2;3;4;2;4;3;4;3;3;4;4;47
+Patuakhali;1;3400101013;13400101013;Boyalgachi West Side;Mod Wall Pal Bari;13;53;140;3;1;4;1;1;3;4;4;4;4;3;4;4;4;4;4;52
+Patuakhali;1;3400102009;13400102009;Abdul Karim Mridha Bri+Pal Bri;Bagan Barir Raster Uttor Purbo Pash;17;92;25;3;1;4;1;4;4;4;4;4;4;4;4;1;4;4;4;54
+Patuakhali;1;3400102008;13400102008;Abdul Karim Mridha Bri+Pal Bri;Gazi Barir Rastar Purbo Pash;15;75;45;3;1;4;1;4;4;2;4;4;4;4;4;4;4;4;4;55
+Patuakhali;1;3400102007;13400102007;Abdul Karim Mridha Bri+Pal Bri;Hasem Hawlader Bari;20;89;90;3;1;4;1;4;4;3;4;4;4;4;4;2;4;4;4;54
+Patuakhali;1;3400102005;13400102005;Abdul Karim Mridha Bri+Pal Bri;Kader Mridha Bari O Nagasi Bari;18;85;200;3;1;4;1;1;4;1;4;3;4;3;4;2;4;4;4;47
+Patuakhali;1;3400102006;13400102006;Abdul Karim Mridha Bri+Pal Bri;Tawin Jnkhathi Pal Bari;15;65;250;3;2;4;1;2;4;4;4;4;4;3;4;3;4;4;4;54
+Patuakhali;1;3400102003;13400102003;Abdul Karim Mridha Bri+Pal Bri;JoinPuri Pirsaheb Hujurer Khanka;20;89;40;2;1;4;1;2;4;2;4;4;4;3;4;2;4;4;4;49
+Patuakhali;1;3400102004;13400102004;Abdul Karim Mridha Bri+Pal Bri;Khankar Poschim Pash Chaprasi Bari;15;69;90;3;1;4;1;4;4;4;4;3;4;3;4;3;4;4;4;54
+Patuakhali;1;3400102001;13400102001;Abdul Karim Mridha Bri+Pal Bri;Khanka Sarak, Nodir Par Khandakar Bari O Mridha Bari;30;140;80;4;1;4;1;2;4;2;4;3;4;3;4;2;4;4;4;50
+Patuakhali;1;3400102002;13400102002;Abdul Karim Mridha Bri+Pal Bri;Hawlader Bari, Ispar Poschim Pashe;15;72;25;1;1;4;1;1;4;1;4;4;4;3;4;1;4;4;4;45
+Patuakhali;1;3400103011;13400103011;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Puraton Jalal Talukdar Bari;12;55;200;2;1;4;1;1;3;3;4;2;4;4;4;1;4;4;4;46
+Patuakhali;1;3400103010;13400103010;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Napit Bari;8;35;200;3;2;4;1;1;4;3;4;2;4;4;4;1;4;4;4;49
+Patuakhali;1;3400103012;13400103012;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Hazi Ahamod Ali Mridha Bari;7;30;53;4;2;4;1;4;4;4;4;4;4;4;4;4;4;4;4;59
+Patuakhali;1;3400103009;13400103009;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Muammad Talukdar Bari;9;40;110;3;2;4;1;3;3;3;4;3;4;4;4;1;4;4;4;51
+Patuakhali;1;3400103013;13400103013;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Kader Mridha Barir Rastar Purbo Pashe;6;27;23;4;1;4;1;4;4;4;4;4;4;4;4;3;4;4;4;57
+Patuakhali;1;3400103015;13400103015;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Halim Mridha Bari;20;90;150;3;1;4;1;2;4;2;4;4;4;3;4;3;4;4;4;51
+Patuakhali;1;3400103014;13400103014;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Kodom Ali Sordar Bari;23;105;95;2;1;4;1;1;3;2;4;2;4;3;4;3;4;4;4;46
+Patuakhali;1;3400103008;13400103008;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Khobir Hawlader Bari;10;45;150;3;2;4;1;1;3;4;4;3;4;4;4;2;4;4;4;51
+Patuakhali;1;3400103007;13400103007;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Esab Gazi Bari O Khan Bari;15;70;90;2;1;4;1;1;3;2;4;2;4;3;4;1;4;4;4;44
+Patuakhali;1;3400103006;13400103006;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Doger Shamne Nagasi Bariri Purbo Pashe;8;35;40;2;1;4;1;1;1;2;4;2;4;4;4;1;4;4;4;43
+Patuakhali;1;3400103002;13400103002;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Joynal Gazi Bari Towen Join Kathi;20;90;80;2;1;4;1;2;3;3;4;3;4;3;4;2;4;4;4;48
+Patuakhali;1;3400103001;13400103001;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Towen Join Kathi Rob Gazi Bari;17;75;100;2;1;4;1;1;3;3;4;3;4;2;4;2;4;4;4;46
+Patuakhali;1;3400103003;13400103003;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Boyati Bari Towen Join Kathi;25;115;80;2;1;4;1;1;2;3;4;2;4;4;4;2;4;4;4;46
+Patuakhali;1;3400103004;13400103004;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Akon Bari O Khalifa Bari;22;95;100;2;1;4;1;1;1;3;4;2;4;4;4;2;4;4;4;45
+Patuakhali;1;3400103005;13400103005;Sardar Bari+Hamej Uddin Mridha Bari+Talukdar Bari;Dog Ar Poschim Pashe Nagase Bari;21;95;120;1;1;4;1;1;3;3;4;3;4;4;4;1;4;4;4;46
+Patuakhali;1;3400104003;13400104003;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Aksar Khalifa Bari;10;45;25;3;2;3;1;1;2;1;4;4;4;3;4;2;1;4;4;43
+Patuakhali;1;3400104004;13400104004;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Selim Plaga Masjeed Ar Picho Ne;5;22;20;3;2;4;1;1;3;1;4;3;4;3;4;1;1;4;4;43
+Patuakhali;1;3400104005;13400104005;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Hamej Uddain Collage Ar Shamne;15;70;25;2;2;4;1;1;3;3;4;3;4;3;4;1;1;4;4;44
+Patuakhali;1;3400104006;13400104006;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Hawlader BarirPAshe;5;23;20;3;1;4;1;1;3;3;4;3;4;3;4;1;1;4;4;44
+Patuakhali;1;3400104007;13400104007;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Hawlader Bari 1;12;55;70;3;2;4;1;1;3;3;4;3;4;3;4;1;1;4;4;45
+Patuakhali;1;3400104009;13400104009;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Mera Bari 2;15;75;80;2;1;4;1;1;3;3;4;2;4;2;4;1;1;4;4;41
+Patuakhali;1;3400104008;13400104008;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Mera Bari 1;8;36;80;2;1;4;1;1;2;4;4;3;4;3;4;1;1;4;4;43
+Patuakhali;1;3400104010;13400104010;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Mera Bari 3;5;22;58;1;2;4;1;1;3;3;4;3;4;3;4;1;1;4;4;43
+Patuakhali;1;3400104014;13400104014;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Gaji Bari Purbo Pashe;23;101;50;2;1;4;1;3;2;2;4;3;3;3;4;4;1;4;4;45
+Patuakhali;1;3400104013;13400104013;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Miya Gazi;35;157;56;2;2;4;1;1;3;3;4;3;4;3;4;1;1;4;4;44
+Patuakhali;1;3400104012;13400104012;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Sattar Contecder;12;60;40;1;1;4;1;1;3;1;4;4;4;2;4;1;1;4;4;40
+Patuakhali;1;3400104011;13400104011;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Hawlader Bari 2;11;50;60;1;1;4;1;1;3;1;4;3;4;3;4;1;1;4;4;40
+Patuakhali;1;3400104002;13400104002;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Gazi Barir Dan Pashe;15;85;20;3;2;4;1;1;3;3;4;3;4;3;4;1;1;4;4;45
+Patuakhali;1;3400104001;13400104001;(Afser Khalil+Nasir Mridha+Miya Gazi+Mira)Bari;Gazi Bari;10;75;45;3;2;4;1;1;3;3;4;2;4;3;4;1;3;4;4;46
+Patuakhali;1;3400105006;13400105006;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Hawlader Bari 3;30;135;60;3;2;3;1;2;1;3;4;2;4;1;3;1;1;4;4;39
+Patuakhali;1;3400105007;13400105007;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Brije Sonlogno;10;65;25;1;2;2;1;1;3;1;4;3;4;3;4;1;1;4;4;39
+Patuakhali;1;3400105005;13400105005;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Hawlader Bari 2;31;220;61;4;1;4;1;1;3;4;4;3;4;3;4;3;1;4;4;48
+Patuakhali;1;3400105004;13400105004;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Hawlader Bari 1;50;250;55;1;2;4;1;1;2;4;4;3;4;3;4;1;1;4;4;43
+Patuakhali;1;3400105003;13400105003;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Dhopa Bari;35;150;55;1;1;4;1;1;4;4;4;3;4;3;4;1;1;4;4;44
+Patuakhali;1;3400105002;13400105002;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Gazi Bari;25;100;20;1;1;4;1;2;2;4;4;3;4;3;3;1;1;4;4;42
+Patuakhali;1;3400105001;13400105001;(Aziz Hawladar+Khalek Master+Dhopa+Chandan)Bari;Ara Pol;10;45;50;1;2;4;1;1;4;4;1;3;4;4;4;1;1;4;4;43
+Patuakhali;2;3400201001;13400201001;Shimulbag-Water Work;Mitha Pukur Ar Dokhin Par;12;54;50;4;3;4;3;4;4;4;4;4;4;3;4;4;4;4;3;60
+Patuakhali;2;3400201002;13400201002;Shimulbag-Water Work;Sowda Manjil Uttor Pash;11;49;50;4;3;4;4;4;4;4;4;4;4;3;4;4;4;4;3;61
+Patuakhali;2;3400201003;13400201003;Shimulbag-Water Work;Koler Pukur Par Uttor Pash;7;31;60;1;1;4;2;4;3;4;4;4;4;3;4;4;4;4;4;54
+Patuakhali;2;3400201004;13400201004;Shimulbag-Water Work;Moriyam Voboner Pichon Road, Siraj Uddain Bari;14;63;60;2;1;4;2;4;4;4;4;4;4;3;4;4;4;4;4;56
+Patuakhali;2;3400201008;13400201008;Shimulbag-Water Work;Mitha Pukur Par (Poschim);10;45;60;4;4;4;4;4;4;3;4;4;4;3;4;4;4;4;4;62
+Patuakhali;2;3400201009;13400201009;Shimulbag-Water Work;Shimul Bag Purbo Pasher Goli;11;49;20;4;3;4;4;4;4;3;4;4;4;3;4;4;4;4;4;61
+Patuakhali;2;3400201007;13400201007;Shimulbag-Water Work;Koler Pukur Par Nasir Khan Ar Barir Purbo Pash;6;27;40;4;1;4;4;4;4;1;4;4;4;3;4;3;4;4;4;56
+Patuakhali;2;3400201010;13400201010;Shimulbag-Water Work;Miya Bari Shimul Bag;28;126;50;4;3;4;4;4;3;4;4;4;4;3;4;4;4;4;4;61
+Patuakhali;2;3400201006;13400201006;Shimulbag-Water Work;Koler Pukur Par Nasir Khan Ar Barir Pichon;15;67;20;3;1;4;4;4;4;4;4;4;4;3;4;4;4;4;4;59
+Patuakhali;2;3400201005;13400201005;Shimulbag-Water Work;Koler Pukur Par Prothom Lain;22;99;50;4;1;4;4;4;4;4;4;4;4;3;4;4;4;4;4;60
+Patuakhali;2;3400201011;13400201011;Shimulbag-Water Work;rovati School Ar Uttor Pash;8;36;15;4;3;4;4;4;4;4;4;3;4;3;4;4;4;4;4;61
+Patuakhali;2;3400202012;13400202012;Kathpatti;Bastu Hara Elaka;34;153;25;3;3;4;1;3;2;1;1;3;4;3;3;4;4;3;3;45
+Patuakhali;2;3400202011;13400202011;Kathpatti;Suiper Colony;51;230;27;3;3;4;1;1;1;1;2;3;4;1;4;3;4;3;3;41
+Patuakhali;2;3400202013;13400202013;Kathpatti;Batu Hara Bastee;35;157;25;2;3;4;1;1;1;1;3;3;4;1;4;4;4;3;3;42
+Patuakhali;2;3400202014;13400202014;Kathpatti;Public Laibery;5;22;22;4;4;4;1;4;3;3;3;4;4;3;4;4;4;3;4;56
+Patuakhali;2;3400202015;13400202015;Kathpatti;Putuya Khali Kinder Garden Bosotee;19;85;30;2;1;4;1;1;4;4;4;4;4;3;3;4;4;4;3;50
+Patuakhali;2;3400202010;13400202010;Kathpatti;Chanu Thake Sultan Ar Goli;6;27;30;4;3;4;4;4;4;4;4;4;4;3;4;4;4;4;4;62
+Patuakhali;2;3400202005;13400202005;Kathpatti;Lotif Molla Thake Kono Mosharof Bosotee;20;90;20;3;3;4;1;4;4;1;4;4;4;2;4;4;4;4;4;54
+Patuakhali;2;3400202006;13400202006;Kathpatti;Barsa Road Firoj Manjil Projonto;6;27;10;4;3;4;4;4;4;4;4;4;4;3;4;4;4;4;4;62
+Patuakhali;2;3400202008;13400202008;Kathpatti;Chan Chairman Goli Thake Mithu Mridhar Bari Projono;40;180;15;1;1;4;1;1;1;1;1;3;4;1;4;4;4;4;4;39
+Patuakhali;2;3400202007;13400202007;Kathpatti;Ruhul Amin Ar Bari Purbo Paschim;20;90;10;4;3;4;2;4;4;2;4;4;4;3;4;4;4;4;4;58
+Patuakhali;2;3400202009;13400202009;Kathpatti;Kaiyum Ar Bari Thake Nuru Darogar Goli;43;193;60;4;3;4;2;2;4;3;4;4;4;3;4;4;4;4;4;57
+Patuakhali;2;3400202016;13400202016;Kathpatti;Sahin Hotel AR Pichon Ar Bosotee;12;54;7;3;1;4;2;3;4;2;4;3;4;2;4;4;4;4;4;52
+Patuakhali;2;3400202001;13400202001;Shimulbag-Water Work;Sikdar Masjeed Nodir Par Elaka;30;135;10;2;1;4;1;1;2;4;2;3;4;1;2;1;1;2;1;32
+Patuakhali;2;3400202003;13400202003;Kathpatti;Kashem Bepary Bosotee;10;45;15;1;1;4;1;1;1;1;1;3;4;3;4;1;4;1;1;32
+Patuakhali;2;3400202002;13400202002;Kathpatti;Bow bazar Thake Kholil Chairman Ar Goli;26;117;30;3;1;4;1;4;1;4;4;3;4;1;2;2;1;4;4;43
+Patuakhali;2;3400202004;13400202004;Kathpatti;Pagla Sohid Bosotee;40;180;20;3;1;4;1;1;1;1;1;3;4;1;1;1;1;1;1;26
+Patuakhali;2;3400203010;13400203010;Zila Board-College Road;Khan Bari Collage Road, Miya Bari Chatro Bash Ar Pichon A;31;139;100;3;1;4;1;4;3;1;4;4;4;3;4;4;4;4;4;52
+Patuakhali;2;3400203011;13400203011;Zila Board-College Road;Sikdar Bari;15;41;100;2;1;4;1;3;3;3;4;4;4;2;4;4;4;4;3;50
+Patuakhali;2;3400203002;13400203002;Zila Board-College Road;Late. Nur Islam Gazi Bari;55;247;50;4;3;4;1;2;2;2;3;4;4;2;3;3;4;3;3;47
+Patuakhali;2;3400203001;13400203001;Zila Board-College Road;Gazi Bari,( BNSD Chokhu Hospital Ar Pichon A);60;270;70;4;3;4;1;3;2;4;4;4;4;3;4;1;4;4;3;52
+Patuakhali;2;3400203003;13400203003;Zila Board-College Road;Abu Gazi Bari S-Mil;85;382;20;2;1;4;1;1;2;1;3;3;4;1;4;1;4;2;3;37
+Patuakhali;2;3400203006;13400203006;Zila Board-College Road;BADC Brie Godown Ar Uttor Purbo Pashe;45;202;30;2;1;4;1;3;3;3;4;4;4;2;4;2;4;3;3;47
+Patuakhali;2;3400203004;13400203004;Zila Board-College Road;Sahagazi/Taltola/Nodir Pat;70;315;25;2;1;4;1;1;1;3;3;4;4;2;2;3;4;2;3;40
+Patuakhali;2;3400203005;13400203005;Zila Board-College Road;BADC Godown ar Dokhi Pashe;62;279;60;2;1;4;1;1;1;2;4;4;4;2;4;1;3;4;4;42
+Patuakhali;2;3400203022;13400203022;Zila Board-College Road;Tin Tara Rice Mil Poschim Pashe;45;223;100;2;1;4;1;1;2;1;4;4;4;1;4;3;4;4;3;43
+Patuakhali;2;3400203019;13400203019;Zila Board-College Road;Tin Tara Rice Mil A Block Par;70;315;90;2;2;4;1;1;2;2;4;4;4;2;4;4;4;4;3;47
+Patuakhali;2;3400203020;13400203020;Zila Board-College Road;Boro Bari Purbo Bosoee ( Pichon);20;90;100;4;4;4;1;4;4;3;4;4;4;3;4;4;4;4;3;58
+Patuakhali;2;3400203021;13400203021;Zila Board-College Road;Mridha Bari Sarak Dkhin Bosotee;108;486;100;4;4;4;1;2;3;2;4;4;4;2;2;3;4;4;3;50
+Patuakhali;2;3400203013;13400203013;Zila Board-College Road;Mridha Bari Road;40;180;100;2;1;4;4;1;1;1;4;4;4;2;1;1;4;1;3;38
+Patuakhali;2;3400203007;13400203007;Zila Board-College Road;BADC Beg Godown Ar Uttor Poschim Pashe;25;144;50;4;3;4;1;4;4;1;4;4;4;1;4;3;4;2;3;50
+Patuakhali;2;3400203009;13400203009;Zila Board-College Road;Rohima Vobon Goli Collage Road;21;94;50;4;3;4;1;4;4;4;4;4;4;3;4;4;4;4;3;58
+Patuakhali;2;3400203012;13400203012;Zila Board-College Road;Sikdar Bariri Dokhin;13;58;75;4;1;4;1;4;2;3;4;4;4;2;1;1;4;4;3;46
+Patuakhali;2;3400203008;13400203008;Zila Board-College Road;Jela Boat Ag Goli;20;90;40;2;1;4;1;1;1;4;4;4;4;2;4;1;4;1;3;41
+Patuakhali;2;3400203017;13400203017;Zila Board-College Road;Collage Road BADC Purbo Pash 10 Lain Ar Dokhin;27;122;90;4;4;4;1;4;4;4;4;4;4;2;4;4;4;4;3;58
+Patuakhali;2;3400203018;13400203018;Zila Board-College Road;BADC Dhat Road Dokhin Bosotee;51;230;10;4;4;4;2;3;4;3;4;4;4;3;4;4;4;4;3;58
+Patuakhali;2;3400203016;13400203016;Zila Board-College Road;Sikdar Bari Sonlgno Aloya School Ar Purbo Pash;9;41;90;4;1;4;4;2;4;4;4;4;4;3;4;4;4;4;3;57
+Patuakhali;2;3400203015;13400203015;Zila Board-College Road;Sikdar Ar Road Dokhin;45;202;90;1;1;4;1;1;3;3;4;4;4;3;4;4;4;4;3;48
+Patuakhali;2;3400203014;13400203014;Zila Board-College Road;Jobbor Sikdar Ar Puraton Bari/ 2no. Bad Balur Math;30;135;10;1;1;4;1;1;2;1;4;4;4;2;4;4;4;4;4;45
+Patuakhali;3;3400301001;13400301001;Shimulbag, Nobab Para;Najim Masteer Ar Goli;40;210;70;4;3;4;2;2;1;1;4;3;3;3;4;1;4;1;1;41
+Patuakhali;3;3400301002;13400301002;Shimulbag, Nobab Para;Alom Khan Ar Bari Goli, Shimul Bagan;15;70;100;2;3;4;2;2;1;1;4;3;3;2;4;1;4;4;4;44
+Patuakhali;3;3400301005;13400301005;Shimulbag, Nobab Para;Harun Camander Ar Pichon Ar Bosotee;25;110;30;3;3;4;2;3;2;2;2;3;3;3;1;2;2;2;1;38
+Patuakhali;3;3400301003;13400301003;Shimulbag, Nobab Para;Faruk Miyar Bari;6;26;40;1;3;4;2;1;2;4;4;3;3;4;4;1;4;4;4;48
+Patuakhali;3;3400301004;13400301004;Shimulbag, Nobab Para;Salam Mollar Bari, Shimul Bagan;12;50;40;4;3;4;2;1;1;3;4;3;3;4;4;1;4;1;1;43
+Patuakhali;3;3400302003;13400302003;Fishing Patti, Town School Kormokar Potti;Sultan Mridhar Bari Bosotee;10;45;10;4;4;4;1;4;4;4;4;4;4;3;1;2;4;1;3;51
+Patuakhali;3;3400302002;13400302002;Fishing Patti, Town School Kormokar Potti;Judusthi Sahar Bari;20;90;25;4;4;4;2;4;4;4;4;4;4;3;4;2;4;4;3;58
+Patuakhali;3;3400302004;13400302004;Fishing Patti, Town School Kormokar Potti;Frishing Potti, Sultan Mridha O Dulu Gazir Bari;40;180;20;1;1;4;1;1;1;1;4;4;4;3;4;2;4;1;3;39
+Patuakhali;3;3400302001;13400302001;Fishing Patti, Town School Kormokar Potti;Puraton Jonota Bank, Sattar Mridha Bari Elaka;8;36;30;1;4;4;2;4;4;4;4;4;4;3;4;3;4;4;4;57
+Patuakhali;3;3400303001;13400303001;Puranbazar, Chokbazar,Bonik Potti;Debu Kormokar Bari;20;85;35;1;2;4;3;4;4;4;4;3;3;4;4;1;4;1;4;50
+Patuakhali;3;3400303002;13400303002;Puranbazar, Chokbazar,Bonik Potti;Korimoneyar Bari O Komla Bidhaloy Bosotee;70;300;80;1;1;4;3;4;4;4;4;3;4;3;4;2;4;1;4;50
+Patuakhali;3;3400303003;13400303003;Puranbazar, Chokbazar,Bonik Potti;Bonik Bari Bonik Potty;5;22;70;1;3;1;2;3;4;4;4;4;4;4;4;2;4;4;4;52
+Patuakhali;3;3400303009;13400303009;Puranbazar, Chokbazar,Bonik Potti;Rofik Talukder Bari, Nobab Para;6;25;55;4;3;4;2;4;4;4;4;4;4;4;4;2;4;4;4;59
+Patuakhali;3;3400303010;13400303010;Puranbazar, Chokbazar,Bonik Potti;Nobab Para, 1no Lain, Mayor Ar Bashar Pichon Ar;6;35;50;4;3;4;2;4;3;4;4;4;4;4;4;2;4;4;4;58
+Patuakhali;3;3400303008;13400303008;Puranbazar, Chokbazar,Bonik Potti;Roshid Coloth Store Ar Dan Pasher Goli;10;45;50;1;1;4;1;2;1;1;3;3;4;4;4;1;4;1;1;36
+Patuakhali;3;3400303011;13400303011;Puranbazar, Chokbazar,Bonik Potti;Hasem Miyar Bosote (Sonali Bank Pashe);10;57;48;1;3;4;3;3;1;1;4;2;3;4;3;1;3;1;1;38
+Patuakhali;3;3400303007;13400303007;Puranbazar, Chokbazar,Bonik Potti;Boshir Miya Bosotee, Chok Bazar;20;90;60;2;1;3;1;1;1;1;3;3;3;3;1;1;4;1;1;30
+Patuakhali;3;3400303006;13400303006;Puranbazar, Chokbazar,Bonik Potti;Anis Sowdagar Moholla, Chok Bazar;5;22;100;2;1;4;2;4;4;4;4;4;4;4;4;1;4;4;4;54
+Patuakhali;3;3400303005;13400303005;Puranbazar, Chokbazar,Bonik Potti;Muradiya Khora Ghat, Chok Bazar;5;23;60;4;4;4;2;4;1;4;4;3;4;3;4;1;4;4;4;54
+Patuakhali;3;3400303004;13400303004;Puranbazar, Chokbazar,Bonik Potti;Saha Bari Bosotee, Bonik Potty;25;130;70;1;1;4;2;4;4;1;4;4;4;4;4;1;4;4;4;50
+Patuakhali;3;3400303012;13400303012;Puranbazar, Chokbazar,Bonik Potti;Akhra Bari Sarak, Mular Hat Khola Elaka;25;112;80;4;2;4;3;4;3;4;4;3;3;4;4;2;4;4;4;56
+Patuakhali;4;3400401001;13400401001;Sobuj Bagh area;Latok School Road;5;23;50;4;4;4;4;4;4;4;4;4;4;4;4;1;4;4;4;61
+Patuakhali;4;3400401002;13400401002;Sobuj Bagh area;Sonkot Pol Ar Hau Bari;15;68;50;4;1;4;1;1;1;4;4;3;4;4;3;1;4;4;4;47
+Patuakhali;4;3400401003;13400401003;Sobuj Bagh area;Lotif School Road, Firoj Mojim;10;43;5;1;1;4;1;4;4;1;4;2;4;1;4;1;1;4;4;41
+Patuakhali;4;3400401004;13400401004;Sobuj Bagh area;Purbo 1No. Lin, Sobujbg;5;23;30;2;1;4;3;4;4;4;4;1;4;4;4;1;4;4;4;52
+Patuakhali;4;3400401005;13400401005;Sobuj Bagh area;Purbo 3No. Lin, Hji Bri;12;54;50;3;4;4;4;4;4;4;4;4;4;4;4;1;4;4;4;60
+Patuakhali;4;3400401006;13400401006;Sobuj Bagh area;Purbo 4No. Lin, Sobujbg;6;28;5;2;4;4;1;4;4;1;4;4;4;4;4;1;4;4;4;53
+Patuakhali;4;3400401007;13400401007;Sobuj Bagh area;Sobujbg Pukurer Purbo psh, Mollah;9;40;60;2;1;4;1;4;4;4;4;4;4;3;4;2;4;4;4;53
+Patuakhali;4;3400401009;13400401009;Sobuj Bagh area;Khadakar Bari (Eidgha Sorok);5;23;5;1;1;4;1;4;4;1;4;4;4;3;4;2;4;4;4;49
+Patuakhali;4;3400401008;13400401008;Sobuj Bagh area;Sorkari Collage;7;34;15;1;1;4;1;1;4;1;4;4;4;3;1;1;1;2;1;34
+Patuakhali;4;3400402003;13400402003;Santibag area and Boro bari;Doctor Bari Dokhin Sobuj Bagh;30;135;30;1;2;4;4;1;3;1;4;2;4;3;4;1;4;4;4;46
+Patuakhali;4;3400402002;13400402002;Santibag area and Boro bari;Dokhin Sobujbag Gaji Bari;20;90;50;1;2;4;1;2;2;1;4;2;4;3;4;1;4;4;4;43
+Patuakhali;4;3400402006;13400402006;Santibag area and Boro bari;Santibagh Akon Bari;20;90;50;3;2;4;1;1;1;1;4;3;4;3;4;4;4;4;4;47
+Patuakhali;4;3400402005;13400402005;Santibag area and Boro bari;Shanti Bagh Balur Math ar Poshim Side;15;68;25;3;4;4;1;4;4;1;4;3;4;3;4;2;4;4;4;53
+Patuakhali;4;3400402008;13400402008;Santibag area and Boro bari;Chokider Bari Dokhin Side;20;90;50;1;2;4;1;1;1;1;4;3;4;4;4;1;4;4;4;43
+Patuakhali;4;3400402001;13400402001;Santibag area and Boro bari;Dokhin Sobujbag Padha Bari;60;270;50;1;2;4;1;1;1;1;3;3;4;3;4;1;4;4;4;41
+Patuakhali;4;3400402009;13400402009;Santibag area and Boro bari;Dokhin Sobuj Bagh Chokeder Bari;50;225;50;1;2;4;1;1;4;1;4;3;4;4;4;1;4;4;4;46
+Patuakhali;4;3400402007;13400402007;Santibag area and Boro bari;Santi Bagh Tube Well Ar Purbo Pash;5;23;35;1;3;3;1;1;4;3;4;3;4;4;4;1;4;4;4;48
+Patuakhali;4;3400402010;13400402010;Santibag area and Boro bari;Shanti Madrasa Ar Shamne;12;54;2;2;3;4;1;1;4;1;4;3;4;4;4;1;2;2;3;43
+Patuakhali;4;3400402004;13400402004;Santibag area and Boro bari;Chan Mari Road Dokhin Pash;15;68;2;1;2;4;1;1;3;4;4;2;4;4;1;1;2;1;3;38
+Patuakhali;4;3400403018;13400403018;Dokkin SobujBag Area;9No. Lain Sasuddin Hok Bari;6;24;22;3;3;4;1;4;4;4;4;3;4;4;4;4;4;4;4;58
+Patuakhali;4;3400403020;13400403020;Dokkin SobujBag Area;Dokhin Sobuj bagh Masjid Padha;6;26;80;4;3;4;1;4;4;4;4;3;4;4;4;4;4;4;4;59
+Patuakhali;4;3400403005;13400403005;Dokkin SobujBag Area;9 No. Kholil Rohman;6;28;15;3;1;4;4;4;4;1;4;3;4;4;4;4;4;1;2;51
+Patuakhali;4;3400403019;13400403019;Dokkin SobujBag Area;9No. Lain Asmar Bari;5;18;10;4;3;4;1;4;3;4;4;3;4;4;2;3;3;4;4;54
+Patuakhali;4;3400403001;13400403001;Dokkin SobujBag Area;Gul Bagh Jame Majeed Uttor Pash Mojomer Bari;5;23;30;2;1;4;1;1;2;1;4;3;3;4;1;1;4;1;1;34
+Patuakhali;4;3400403002;13400403002;Dokkin SobujBag Area;Poli Technical Joynal Bari;5;22;50;4;1;4;1;3;3;1;4;3;4;4;1;1;4;1;3;42
+Patuakhali;4;3400403003;13400403003;Dokkin SobujBag Area;Poli Technical Rustom Haji Bari;8;35;50;1;4;4;1;4;1;1;1;4;4;3;4;1;4;4;4;45
+Patuakhali;4;3400403008;13400403008;Dokkin SobujBag Area;Abdul High Col. Poli Tacnical Road;3;13;40;1;1;1;1;1;1;1;1;2;1;4;2;4;1;1;4;27
+Patuakhali;4;3400403007;13400403007;Dokkin SobujBag Area;Sowa Mithu Miya Bari 6 No. Lain (Ansar Camp);9;50;25;1;1;4;1;1;1;1;4;2;1;4;4;2;1;1;2;31
+Patuakhali;4;3400403006;13400403006;Dokkin SobujBag Area;6 No. Lain Burir Bari;11;55;13;2;2;4;1;4;1;2;4;1;3;3;3;1;4;1;2;38
+Patuakhali;4;3400403016;13400403016;Dokkin SobujBag Area;6No. Lain Chanudas Bari;5;25;30;4;1;4;1;4;4;4;4;3;4;4;4;3;4;4;4;56
+Patuakhali;4;3400403013;13400403013;Dokkin SobujBag Area;5No. Lain Ajij Foraji Bari;7;30;45;4;1;4;3;4;4;4;4;3;4;4;4;3;4;4;4;58
+Patuakhali;4;3400403014;13400403014;Dokkin SobujBag Area;College Ar Utto Gate Guli Begum Bari;11;44;60;4;1;4;1;4;3;4;4;3;4;4;4;2;4;4;4;54
+Patuakhali;4;3400403012;13400403012;Dokkin SobujBag Area;5No. Lain Nitas Daser Bari;7;35;80;4;4;4;2;3;3;3;4;3;4;4;3;2;4;4;4;55
+Patuakhali;4;3400403011;13400403011;Dokkin SobujBag Area;4No. Lain Pukur Poshim Bari, Chondkand Debnat Bari;5;20;80;1;1;4;3;4;1;1;4;3;4;4;4;1;4;4;4;47
+Patuakhali;4;3400403010;13400403010;Dokkin SobujBag Area;4No. Lain Alomgir Miya Bari;5;23;30;2;1;4;2;4;4;4;4;3;4;4;4;3;4;4;4;55
+Patuakhali;4;3400403015;13400403015;Dokkin SobujBag Area;6No. Lain Purbo Matha Sahin Hok Bari;6;34;25;4;4;4;1;4;1;4;4;3;1;4;1;1;1;4;4;45
+Patuakhali;4;3400403017;13400403017;Dokkin SobujBag Area;7No. Lain Bareke Hok Bari;5;23;30;4;1;4;1;4;4;2;4;1;4;4;4;3;4;4;4;52
+Patuakhali;4;3400403004;13400403004;Dokkin SobujBag Area;Jamal Cokider Bari, Mohela Ansar Camp;5;23;7;4;1;4;2;4;4;1;4;3;4;4;2;2;4;1;2;46
+Patuakhali;4;3400403009;13400403009;Dokkin SobujBag Area;1 No. Lain Momddar Bari;5;30;45;4;4;4;4;1;4;4;4;1;3;4;4;1;1;4;4;51
+Patuakhali;4;3400404005;13400404005;Arambagh Area;Nodir Par Masjeed, Poschim Arm Bagh;15;65;40;3;1;4;1;4;4;2;4;4;4;4;4;2;4;4;4;53
+Patuakhali;4;3400404004;13400404004;Arambagh Area;Poshim Arambag, Noder Par;25;120;50;3;1;4;1;4;4;1;4;4;4;1;4;1;4;4;4;48
+Patuakhali;4;3400404010;13400404010;Arambagh Area;Purbo Aram Bag Haji Bari;5;24;10;4;4;4;1;4;4;4;4;4;4;4;4;2;4;4;4;59
+Patuakhali;4;3400404009;13400404009;Arambagh Area;Modho Arambag, Das Bari;10;45;40;2;3;4;1;4;4;4;4;4;4;4;4;2;4;4;4;56
+Patuakhali;4;3400404008;13400404008;Arambagh Area;Pochoner, Poschim Armbag;6;27;25;1;2;4;1;4;4;4;4;4;4;4;4;2;4;4;4;54
+Patuakhali;4;3400404001;13400404001;Arambagh Area;Modho Arambag;10;45;50;1;1;3;1;4;4;1;4;3;4;3;4;1;4;4;4;46
+Patuakhali;4;3400404002;13400404002;Arambagh Area;Poshim Arambag, Khonnar Bari;10;45;40;1;1;4;1;3;4;4;4;3;4;4;3;1;3;4;4;48
+Patuakhali;4;3400404003;13400404003;Arambagh Area;Poshim Arambag;25;110;50;1;1;4;1;4;4;4;4;4;4;4;4;1;4;4;4;52
+Patuakhali;4;3400404006;13400404006;Arambagh Area;Matubor Bari;5;24;10;1;1;4;1;1;4;1;4;4;4;3;4;2;4;4;4;46
+Patuakhali;4;3400404007;13400404007;Arambagh Area;Mir Mohol;5;23;50;1;1;4;1;4;4;4;4;4;4;4;4;2;4;4;4;53
+Patuakhali;4;3400405001;13400405001;Ghulbagh;Dokhin Sobuj Bag Karukiya Masjeed Ar Uttor Pash;15;68;15;1;2;4;1;1;1;1;4;3;4;3;4;1;2;1;3;36
+Patuakhali;4;3400405002;13400405002;Ghulbagh;Dokhin Sobuj Bag Siddik Vai Ar Bari;12;54;20;1;1;4;1;4;4;1;4;3;4;3;4;1;4;1;3;43
+Patuakhali;4;3400405005;13400405005;Ghulbagh;Gul Bagh Beler Bari;25;113;40;2;2;4;1;1;4;1;4;3;4;4;4;1;4;4;4;47
+Patuakhali;4;3400405006;13400405006;Ghulbagh;Gul Bagh Road Vocesonak Ar Pochim Pashe;12;54;10;2;1;4;1;1;4;1;4;3;4;4;4;1;4;4;4;46
+Patuakhali;4;3400405003;13400405003;Ghulbagh;Atim Khana Road Dokhin Pash;35;158;40;2;2;4;1;1;3;1;4;3;4;4;4;1;4;4;4;46
+Patuakhali;4;3400405004;13400405004;Ghulbagh;Atim Khana O Abohawa Office Ar Maje;15;68;10;2;2;4;1;1;4;1;4;3;4;4;4;1;4;1;3;43
+Patuakhali;5;3400501001;13400501001;PTI+Kazi Para;TB Clinik Road Dokhin Thake PTI Uttor Pash;32;128;90;1;1;4;1;1;2;1;4;4;4;3;4;1;4;4;3;42
+Patuakhali;5;3400501002;13400501002;PTI+Kazi Para;PTI Pichon Goli Road;55;245;50;3;2;3;1;4;4;1;4;4;4;3;4;3;4;4;4;52
+Patuakhali;5;3400501003;13400501003;PTI+Kazi Para;PTI Pichon Forid Master;100;450;50;3;1;4;1;4;3;1;4;4;4;3;4;4;4;3;4;51
+Patuakhali;5;3400501004;13400501004;PTI+Kazi Para;Rowshan Ara Manjil Ar Pichon A Hok Miyar Basha;30;136;65;1;1;4;1;4;3;4;4;4;4;3;4;3;3;4;4;51
+Patuakhali;5;3400501005;13400501005;PTI+Kazi Para;Shere Bngl Srk Rosidloy Purbo Psh;65;260;80;3;1;4;1;3;3;3;4;4;4;2;4;4;4;4;4;52
+Patuakhali;5;3400501007;13400501007;PTI+Kazi Para;Titas Mor Ar Dokhin Pash;55;240;65;3;3;4;2;3;2;3;4;4;4;3;4;4;4;4;4;55
+Patuakhali;5;3400501006;13400501006;PTI+Kazi Para;Shrser Bngla Sarak Mohila Odidoptor Ar Pashe;50;250;70;3;3;4;2;4;3;4;4;4;4;3;4;4;4;4;4;58
+Patuakhali;5;3400502008;13400502008;Santibag area and Boro bari;Apelo Clinic Ar Pasho Bore;8;38;40;3;1;4;2;4;4;3;4;4;4;3;4;2;4;1;3;50
+Patuakhali;5;3400502009;13400502009;Santibag area and Boro bari;Baytul Gofur Jame Masjeed Ar Pichon A;16;70;60;2;3;4;2;4;3;3;4;4;4;3;4;2;4;1;3;50
+Patuakhali;5;3400502010;13400502010;Santibag area and Boro bari;Parvin Madam Ar Basha, Lain Road;10;45;70;3;3;4;2;4;3;4;4;4;4;3;4;2;4;1;2;51
+Patuakhali;5;3400502011;13400502011;Santibag area and Boro bari;Soshi Monjil Ar Pichon Pash;20;90;70;3;1;4;2;4;3;2;4;4;4;3;4;2;4;1;3;48
+Patuakhali;5;3400502001;13400502001;Santibag area and Boro bari;Hindu Bari Munsef Para;15;70;80;4;3;4;1;4;3;3;4;4;4;3;4;1;4;1;3;50
+Patuakhali;5;3400502004;13400502004;Santibag area and Boro bari;Monjur Basha;6;30;80;2;1;4;1;4;2;2;4;4;3;3;4;1;4;1;2;42
+Patuakhali;5;3400502007;13400502007;Santibag area and Boro bari;Kupsi Biuty Parler Goli;13;60;60;3;1;4;2;4;4;3;4;4;3;3;4;1;4;1;2;47
+Patuakhali;5;3400502002;13400502002;Santibag area and Boro bari;Ukil Bari Advucate Naymul Hok;10;45;60;3;3;4;2;4;3;2;4;4;4;3;4;1;4;1;3;49
+Patuakhali;5;3400502006;13400502006;Santibag area and Boro bari;Shajahan Ukil Ar Basha;15;70;50;3;1;4;2;4;3;3;4;4;4;3;4;1;4;1;3;48
+Patuakhali;5;3400502005;13400502005;Santibag area and Boro bari;Forkaner Hotel Ar Goli;20;90;60;2;1;4;2;4;3;3;4;4;4;3;4;1;4;1;3;47
+Patuakhali;5;3400502003;13400502003;Santibag area and Boro bari;Comisonar Ar Basha;9;40;90;3;3;4;1;4;4;3;4;4;4;3;4;1;4;1;3;50
+Patuakhali;5;3400502013;13400502013;Santibag area and Boro bari;Kaji Bari Lef Road;10;50;90;3;3;4;1;4;3;3;4;4;4;3;4;1;4;4;4;53
+Patuakhali;5;3400502012;13400502012;Santibag area and Boro bari;Hasina Manjeel Lef Road;10;50;60;3;3;4;2;4;3;3;4;4;4;3;4;1;4;1;3;50
+Patuakhali;5;3400503001;13400503001;Dak Bangla Sarak+Muslim Para;Jugi Bari Goli School Pashe;5;22;60;3;3;4;2;4;4;3;4;4;4;3;4;1;4;1;4;52
+Patuakhali;5;3400503002;13400503002;Dak Bangla Sarak+Muslim Para;Sikdar Mansion;9;40;60;1;1;4;1;4;4;1;4;4;4;3;4;1;4;1;4;45
+Patuakhali;5;3400503003;13400503003;Dak Bangla Sarak+Muslim Para;Girl School Road, Dokhin Pashe;18;80;60;1;1;4;1;4;1;1;4;4;4;4;4;1;4;1;4;43
+Patuakhali;5;3400503004;13400503004;Dak Bangla Sarak+Muslim Para;Dhak Bangla Purbo O Dokhin Pashe;11;50;6;1;1;4;1;4;2;2;4;4;4;3;4;1;4;4;4;47
+Patuakhali;5;3400503005;13400503005;Dak Bangla Sarak+Muslim Para;Muslim Para;22;100;70;1;1;4;1;4;1;1;4;4;4;3;4;1;4;1;3;41
+Patuakhali;5;3400503006;13400503006;Dak Bangla Sarak+Muslim Para;Muslim Para, Nijam Uddin Ar Goli;25;113;60;1;3;4;1;4;4;3;4;4;4;3;4;1;4;1;3;48
+Patuakhali;5;3400503007;13400503007;Dak Bangla Sarak+Muslim Para;Shimul Bag Nijam Uddin Ar Sarak;16;75;70;3;1;4;1;4;3;2;4;4;4;3;4;1;4;1;3;46
+Patuakhali;5;3400503008;13400503008;Dak Bangla Sarak+Muslim Para;Simul Bag O Muslim Para Banbe;35;160;60;1;1;4;1;4;3;2;4;4;4;3;4;2;4;1;4;46
+Patuakhali;5;3400503009;13400503009;Dak Bangla Sarak+Muslim Para;Simul Bag;13;60;60;1;4;4;1;4;4;3;4;4;4;3;4;1;4;4;4;53
+Patuakhali;5;3400503010;13400503010;Dak Bangla Sarak+Muslim Para;Simul Bag Ar Modho Pash;11;50;70;3;3;4;1;4;3;3;4;4;4;3;4;1;4;4;4;53
+Patuakhali;5;3400503011;13400503011;Dak Bangla Sarak+Muslim Para;Simul Bag Dokhin Pash;15;70;70;3;1;4;1;4;4;3;4;4;4;3;4;1;4;4;4;52
+Patuakhali;5;3400504005;13400504005;Adalot Para+Center Para+Puran Adalot Vaban;Khan Bahadur Bari;5;24;80;1;3;4;2;2;1;1;3;2;4;3;3;1;4;1;1;36
+Patuakhali;5;3400504006;13400504006;Adalot Para+Center Para+Puran Adalot Vaban;Fojlul Korim Bari;5;22;90;1;3;4;3;3;2;2;3;4;4;3;4;2;4;1;1;44
+Patuakhali;5;3400504007;13400504007;Adalot Para+Center Para+Puran Adalot Vaban;Anser Ali Khondo Kar Bari;10;45;70;2;3;4;2;2;1;2;3;3;4;3;4;1;4;4;4;46
+Patuakhali;5;3400504001;13400504001;Adalot Para+Center Para+Puran Adalot Vaban;Sobir Gaji Bari Adalot Para;10;46;120;4;4;4;3;3;3;1;4;4;4;3;4;2;4;4;4;55
+Patuakhali;5;3400504002;13400504002;Adalot Para+Center Para+Puran Adalot Vaban;Center Para, Bodhuya Comity Ar Pashe;60;270;50;3;3;4;3;2;2;1;3;3;4;3;4;2;4;4;4;49
+Patuakhali;5;3400504003;13400504003;Adalot Para+Center Para+Puran Adalot Vaban;Durga Prosono Grio Road, Center Para;10;49;80;3;3;4;1;2;3;4;4;4;4;3;4;2;4;1;3;49
+Patuakhali;5;3400504004;13400504004;Adalot Para+Center Para+Puran Adalot Vaban;Senter Para, Kali Bari;5;26;100;2;1;4;1;1;2;1;3;3;4;3;3;2;3;1;4;38
+Patuakhali;5;3400505007;13400505007;Launch Ghat+Shishu Park+Swanirvar Road;Pondit Ar Goli 5No 1 Lain;125;475;35;3;2;4;1;1;1;1;2;3;4;1;3;1;3;2;1;33
+Patuakhali;5;3400505008;13400505008;Launch Ghat+Shishu Park+Swanirvar Road;Kholil Pashkar Ar Bari;8;38;30;2;1;4;1;3;3;2;3;3;4;3;4;2;3;1;1;40
+Patuakhali;5;3400505009;13400505009;Launch Ghat+Shishu Park+Swanirvar Road;Sahalom Police Ar Bari;10;44;35;1;1;4;1;3;2;1;4;2;4;3;3;1;3;4;4;41
+Patuakhali;5;3400505010;13400505010;Launch Ghat+Shishu Park+Swanirvar Road;Sisu Park Ar Purbo Pash;6;28;30;1;3;4;2;3;1;1;3;3;4;2;1;1;2;2;1;34
+Patuakhali;5;3400505011;13400505011;Launch Ghat+Shishu Park+Swanirvar Road;Bhuya Bari Sodor Road;13;62;120;4;3;4;1;3;2;1;3;3;4;3;3;1;4;1;4;44
+Patuakhali;5;3400505012;13400505012;Launch Ghat+Shishu Park+Swanirvar Road;Moslem Miyar Bari Sonirbor Road;7;31;70;1;4;2;3;2;3;1;3;4;3;1;1;3;3;1;3;38
+Patuakhali;5;3400505013;13400505013;Launch Ghat+Shishu Park+Swanirvar Road;Sorhar Miyar basha;7;32;60;2;1;4;1;2;1;2;3;4;4;3;4;2;4;1;4;42
+Patuakhali;5;3400505014;13400505014;Launch Ghat+Shishu Park+Swanirvar Road;Kholil Miyar Bari;5;22;60;1;3;4;1;2;1;3;4;2;4;1;3;1;4;4;4;42
+Patuakhali;5;3400505002;13400505002;Launch Ghat+Shishu Park+Swanirvar Road;Miraj Miyar Basha Sonibar Road;25;115;60;1;1;3;1;2;1;2;2;3;4;2;3;1;3;2;1;32
+Patuakhali;5;3400505003;13400505003;Launch Ghat+Shishu Park+Swanirvar Road;Masum Gajir Basha Sonibar road;6;28;40;2;2;4;2;1;1;2;3;3;4;2;4;2;3;1;2;38
+Patuakhali;5;3400505004;13400505004;Launch Ghat+Shishu Park+Swanirvar Road;Sisu Park Ar Uttor Pash;50;260;70;2;2;3;1;1;2;1;3;3;4;3;1;1;2;2;1;32
+Patuakhali;5;3400505005;13400505005;Launch Ghat+Shishu Park+Swanirvar Road;Atahar Uddin Milonayaton;10;45;30;1;2;2;1;1;1;1;2;2;4;2;2;1;2;2;1;27
+Patuakhali;5;3400505006;13400505006;Launch Ghat+Shishu Park+Swanirvar Road;Rahat Miyar Bari Sonirbor Road;12;56;45;1;2;4;1;1;1;1;3;2;4;1;3;1;3;1;1;30
+Patuakhali;5;3400505001;13400505001;Launch Ghat+Shishu Park+Swanirvar Road;Mach Pitti Lounch Ghat;22;101;80;4;3;4;1;1;1;1;3;2;4;3;4;1;4;2;1;39
+Patuakhali;6;3400601002;13400601002;Sonirvor Road (North);Malek Khan Ar Vari Road;50;250;40;3;1;3;1;4;1;1;2;1;2;1;1;2;4;1;3;31
+Patuakhali;6;3400601003;13400601003;Sonirvor Road (North);Madrasha Ar Shamne Goli;70;350;40;3;1;3;1;4;1;1;2;1;2;1;1;2;4;1;3;31
+Patuakhali;6;3400603001;13400603001;Sadar Road (North);Sorkar Bari;30;150;35;1;3;4;1;2;4;1;4;1;4;1;4;3;4;4;4;45
+Patuakhali;6;3400604001;13400604001;Notunbazar;Laukoti Bepary Para;30;150;40;1;1;4;1;1;3;1;4;1;4;4;4;2;4;2;2;39
+Patuakhali;6;3400604002;13400604002;Notunbazar;Laukoti Khaya Ghat Badol Das Ar Bari;13;45;35;2;3;4;4;4;4;2;4;1;4;4;4;2;4;2;2;50
+Patuakhali;6;3400604003;13400604003;Notunbazar;Palja Monir Sof Mil Ar Pichon A;25;120;40;1;3;4;1;4;1;1;4;2;3;4;4;2;4;2;2;42
+Patuakhali;6;3400604004;13400604004;Notunbazar;Oil Mil Sarak;30;150;50;1;3;4;1;4;4;1;4;1;3;4;4;2;4;2;2;44
+Patuakhali;6;3400604005;13400604005;Notunbazar;Notun Bazar Uttor Pasha Elaka;20;85;100;2;1;3;1;3;3;3;4;4;4;3;1;4;4;4;4;48
+Patuakhali;6;3400605001;13400605001;Jublee School Road Hospital (North);Hotel Lohob AR Pichon A;15;72;36;4;3;4;4;4;4;4;4;1;4;4;4;3;4;4;4;59
+Patuakhali;6;3400605002;13400605002;Jublee School Road Hospital (North);S.V.O Road;7;35;40;4;3;4;4;4;4;4;4;1;4;3;4;3;4;4;4;58
+Patuakhali;6;3400605003;13400605003;Jublee School Road Hospital (North);Vumi Office Ar Pichon A;20;85;40;4;3;4;1;3;3;1;4;1;4;3;4;3;4;1;3;46
+Patuakhali;6;3400605004;13400605004;Jublee School Road Hospital (North);LG Showroom Ar Pichon A;20;86;30;4;1;4;2;4;4;2;4;1;4;3;3;3;4;4;3;50
+Patuakhali;6;3400605005;13400605005;Jublee School Road Hospital (North);Gubli School Road;20;78;35;4;3;4;4;4;4;4;4;1;4;4;4;3;4;4;4;59
+Patuakhali;6;3400605006;13400605006;Jublee School Road Hospital (North);Monof Sondhe Ar Purbo Pashe;25;115;35;2;1;4;1;4;4;1;4;1;4;4;3;4;4;1;3;45
+Patuakhali;1;3400101015;13400101015;Boyalgachi West Side;Khandakar Bari;11;50;90;2;1;4;1;3;3;4;4;4;4;4;4;4;4;4;4;54

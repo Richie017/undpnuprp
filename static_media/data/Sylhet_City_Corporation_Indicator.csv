@@ -1,0 +1,1272 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Sylhet;1;910101001;;Darga Mahalla;Sohed Samsuddain Quarter;35;175;40;4;4;4;2;2;2;4;4;4;4;3;4;1;3;2;3;50
+Sylhet;1;910101002;;Darga Mahalla;6 No. Goli;9;40;10;4;3;4;2;2;2;4;3;3;3;3;2;1;2;1;3;42
+Sylhet;1;910103001;;Dharshan Dauri;Payra 61-66;15;60;40;4;3;4;2;2;3;4;3;4;3;3;4;2;3;4;4;52
+Sylhet;1;910103002;;Dharshan Dauri;Payra 81 No. Goli;8;45;20;4;3;4;2;2;2;4;3;3;3;3;2;1;2;1;3;42
+Sylhet;1;910104001;;Rajar Gali;Iqbal Ahmad Miyar Bari;15;44;9;4;4;4;1;3;4;4;3;3;4;2;2;2;2;1;3;46
+Sylhet;1;910104002;;Rajar Gali;Ful Miyar Colony;10;15;9;4;4;4;1;3;4;4;3;3;4;2;2;2;2;1;3;46
+Sylhet;1;910104003;;Rajar Gali;Nazma Khonem Chowdory Bari;18;100;17;4;4;4;1;3;4;4;3;3;4;2;2;2;2;1;3;46
+Sylhet;1;910104004;;Rajar Gali;Monjur Ahmewd Ar Bari;7;40;9;4;4;4;1;3;4;4;3;3;4;2;2;2;2;1;3;46
+Sylhet;1;910104005;;Rajar Gali;Taluk Motin Ar Bari;5;25;10;4;4;4;1;3;4;3;3;3;4;3;2;2;2;3;4;49
+Sylhet;1;910105001;;Ambar Khana Poschim;Genu Miyar colony;50;250;200;4;3;4;1;2;2;4;3;3;4;3;2;1;2;1;2;41
+Sylhet;1;910106001;;Miya Fazil Chist;Bari Miyar Colony;9;30;40;1;1;4;2;1;1;4;4;3;2;4;1;2;1;1;2;34
+Sylhet;1;910106002;;Miya Fazil Chist;Abdul Ahamod Colony;17;100;35;4;1;4;2;1;1;4;4;3;2;4;1;1;1;1;2;36
+Sylhet;1;910106003;;Miya Fazil Chist;Salek Ahamod Ar Colony;27;100;50;1;1;4;1;1;1;4;1;3;2;4;1;2;1;1;2;30
+Sylhet;1;910106004;;Miya Fazil Chist;Putul Miyar Colony;16;96;40;4;1;4;1;1;1;4;4;3;2;4;1;2;1;1;2;36
+Sylhet;1;910106005;;Miya Fazil Chist;Astor Ali Colony;8;32;30;4;1;4;1;1;1;4;4;3;2;4;1;2;1;1;2;36
+Sylhet;1;910106006;;Miya Fazil Chist;Montu Miyar Colony;6;25;50;2;1;4;1;1;1;4;4;3;2;4;1;2;1;1;2;34
+Sylhet;1;910106007;;Miya Fazil Chist;Abdul Ali Colony;15;50;10;4;1;4;2;1;2;4;4;3;2;4;1;1;1;1;2;37
+Sylhet;1;910106008;;Miya Fazil Chist;Parvin Begum Ar Colony;8;30;15;4;1;4;2;1;3;4;4;3;2;4;1;3;1;1;2;40
+Sylhet;1;910106009;;Miya Fazil Chist;Takul Rana Colony;12;60;20;4;1;4;2;1;2;4;4;3;2;4;1;2;1;1;2;38
+Sylhet;1;910107001;;Chuhatta;Ajij Miyar Colony;19;90;10;4;3;4;4;2;3;4;4;3;2;4;1;4;2;1;2;47
+Sylhet;1;910107002;;Chuhatta;Dulal Ahmod Colony;16;66;22;4;3;4;4;1;4;4;4;3;2;4;1;4;2;1;2;47
+Sylhet;1;910107003;;Chuhatta;Aktar Hossain Belal Colony;8;40;22;4;1;4;4;1;4;4;4;3;2;4;1;4;2;1;2;45
+Sylhet;1;910107004;;Chuhatta;Sevin Sarjan Quarter;6;30;60;4;4;4;4;2;3;4;4;3;3;4;1;4;1;2;3;50
+Sylhet;1;910107005;;Chuhatta;Sohed Ahmod Colony;6;24;10;4;3;4;4;2;4;4;4;3;2;4;1;4;1;1;2;47
+Sylhet;1;910107006;;Chuhatta;Sahjan Ahomod Ar Colony;5;24;12;4;3;4;4;2;4;4;4;3;2;4;1;4;2;1;2;48
+Sylhet;2;910201001;;Daira Para;Sahjan Miyar Bari;25;100;50;2;2;4;1;1;3;1;3;2;3;3;3;2;3;4;4;41
+Sylhet;2;910201002;;Daira Para;Mustab Dar Ar Bari;7;35;100;4;4;4;4;3;4;3;3;3;4;3;4;3;3;3;3;55
+Sylhet;2;910201003;;Daira Para;Meher Kante Dar Gong;10;50;60;2;1;4;1;2;3;4;4;3;4;3;3;3;4;4;4;49
+Sylhet;2;910201004;;Daira Para;Jalal Miyar Bari;20;80;50;2;1;4;3;3;2;4;3;3;4;3;3;4;3;4;4;50
+Sylhet;2;910201005;;Daira Para;Sekdar Bari;45;200;50;2;1;3;1;1;3;2;2;3;3;3;3;3;3;4;4;41
+Sylhet;2;910201006;;Daira Para;Rumel Jubol Das Ar Basha;15;100;70;3;3;4;2;3;3;4;3;4;3;3;4;4;2;4;4;53
+Sylhet;2;910201007;;Daira Para;Khaled Miya Colony;14;70;20;4;3;3;2;2;3;3;3;2;3;4;2;3;3;4;4;48
+Sylhet;2;910201008;;Daira Para;Aahad Miyar Colony;40;200;20;2;1;3;1;1;3;3;3;3;3;2;3;3;4;4;4;43
+Sylhet;2;910201009;;Daira Para;Lal Miyar Colony;15;70;50;2;1;3;1;2;3;3;4;2;3;1;3;3;3;1;1;36
+Sylhet;2;910201010;;Daira Para;Kulsum Alomger Ar Basha;25;100;20;2;1;3;1;2;2;3;3;3;3;2;3;2;3;4;4;41
+Sylhet;2;910201011;;Daira Para;Sekdar Colony;10;50;40;2;1;3;1;2;3;3;3;3;3;2;3;3;4;1;1;38
+Sylhet;2;910202001;;Baroi Para;Bokon Miyar Colony;20;100;20;2;1;3;1;3;3;4;3;3;2;2;3;3;4;1;1;39
+Sylhet;2;910202002;;Baroi Para;Rasul Alom Badu Colony;6;30;40;2;1;4;2;3;3;3;3;3;4;3;3;2;4;4;4;48
+Sylhet;2;910202003;;Baroi Para;Alomgir Ar Bari;12;60;40;3;1;4;1;2;3;4;4;4;4;3;4;3;4;4;4;52
+Sylhet;2;910202004;;Baroi Para;Dariyapara Road Ar Pashe;10;50;50;2;3;4;2;3;3;3;3;3;3;3;2;2;3;4;4;47
+Sylhet;2;910203001;;Khelin Para;Abdull Khalek Molla;47;220;25;2;1;4;1;1;3;2;3;3;2;1;3;3;3;1;1;34
+Sylhet;2;910203002;;Khelin Para;Babul Ahamed Ar Moholla;35;120;20;4;3;4;1;1;2;2;3;3;3;1;2;3;3;1;3;39
+Sylhet;2;910203003;;Khelin Para;Bateya Babul;25;120;25;4;3;4;1;1;3;2;3;3;3;2;1;1;1;2;2;36
+Sylhet;2;910203004;;Khelin Para;Belala Miya Colony;30;170;30;2;1;4;1;1;2;2;3;3;3;1;3;3;4;4;4;41
+Sylhet;2;910203005;;Khelin Para;Mahtab Miyar Alaka;25;120;30;2;1;3;2;1;2;2;3;3;2;3;3;3;4;4;4;42
+Sylhet;2;910204001;;Mirza Jungle;Badsha Miyar Colony;30;120;30;2;2;4;2;2;2;3;2;3;3;2;4;3;4;4;4;46
+Sylhet;2;910204002;;Mirza Jungle;Sukhendu Bekas Das Alaka;15;70;45;2;3;4;4;2;3;4;4;3;3;3;4;3;4;4;4;54
+Sylhet;2;910204003;;Mirza Jungle;Nehar Bogun Das;16;80;20;3;3;4;3;3;4;4;4;3;3;3;3;3;3;3;4;53
+Sylhet;2;910204004;;Mirza Jungle;Coretro Babu Colony;40;200;25;2;2;4;3;3;3;4;4;3;3;3;4;4;4;4;4;54
+Sylhet;2;910205001;;Lama Bazar;Modon Mohon Collage Quarter;10;50;25;4;3;4;1;2;3;4;4;2;3;2;3;2;2;4;4;47
+Sylhet;2;910205002;;Lama Bazar;Miya Bari;6;30;50;4;3;4;3;3;3;4;2;3;4;3;2;1;3;4;4;50
+Sylhet;2;910206001;;Sorospur;Roton Miyar Colony;20;100;50;2;1;4;1;1;3;2;3;2;4;3;3;3;4;4;4;44
+Sylhet;2;910206002;;Sorospur;Rana Miyar Bari;15;75;60;2;1;4;1;1;3;2;3;3;4;3;3;2;4;4;4;44
+Sylhet;2;910206003;;Sorospur;Motin Ar Basha;6;30;20;3;1;3;1;3;2;3;2;3;3;2;2;1;1;4;4;38
+Sylhet;2;910206004;;Sorospur;Sarosh Pur Jame Masjeed Ar Dokhin Pashe;12;60;50;2;3;4;2;1;4;2;3;3;4;2;4;3;4;4;4;49
+Sylhet;2;910207001;;Chohatta;Sohed Masuddain Ahamod Qater;40;180;30;3;3;3;1;1;3;3;3;3;3;3;3;3;3;2;1;41
+Sylhet;2;910208001;;KaziIllias;Moner Ahmod Ar Bari;15;75;40;3;2;3;2;2;3;3;3;2;3;3;3;2;3;4;4;45
+Sylhet;2;910208002;;KaziIllias;Rofek Ahopmoder Bari;8;40;30;2;1;3;2;2;3;3;3;3;3;2;3;2;4;4;4;44
+Sylhet;2;910208003;;KaziIllias;Malek Ahomed Ar Bari;6;30;30;3;3;3;2;3;3;3;3;3;3;3;3;3;4;4;4;50
+Sylhet;2;910208004;;KaziIllias;Chowdory Bari;15;70;30;2;1;4;2;2;3;4;3;3;3;2;3;3;4;4;4;47
+Sylhet;2;910209001;;Kuntola Par;kanij Plaser Ar Pichone;8;40;40;2;3;4;3;4;4;4;4;3;4;3;4;3;4;4;4;57
+Sylhet;2;910210001;;Zollar Par;Sahjahan Miya Alaka;13;65;25;1;4;4;4;2;2;3;4;4;3;3;2;4;2;4;4;50
+Sylhet;2;910210002;;Zollar Par;Neto Das;15;78;28;2;2;4;3;2;3;4;3;3;3;3;4;3;4;4;4;51
+Sylhet;2;910210003;;Zollar Par;Muhammad N Sanul Hok;12;60;32;2;2;3;1;2;2;1;4;1;3;1;4;4;4;4;4;42
+Sylhet;3;910301001;;PoschimKajol Shah;121 Basa;12;60;20;3;1;4;1;4;4;4;3;3;3;3;3;4;3;1;3;47
+Sylhet;3;910301002;;PoschimKajol Shah;Misbar Colony;10;50;20;3;1;4;1;1;2;4;1;3;3;3;1;2;1;1;3;34
+Sylhet;3;910301003;;PoschimKajol Shah;Basa No : 1252-125;12;60;20;3;1;4;1;1;2;4;1;3;3;3;1;2;1;1;3;34
+Sylhet;3;910301004;;PoschimKajol Shah;120 Tajul Islamer Colony;8;40;25;3;1;4;1;1;2;4;1;3;3;3;1;2;1;1;3;34
+Sylhet;3;910301005;;PoschimKajol Shah;96 no. Basa;10;50;20;3;1;4;1;1;2;4;1;3;3;3;2;1;1;1;3;34
+Sylhet;3;910301006;;PoschimKajol Shah;Sachu Rukhsana;16;80;25;3;1;4;1;1;2;4;1;3;3;3;1;2;1;1;3;34
+Sylhet;3;910301007;;PoschimKajol Shah;64. 65.;23;115;25;3;1;4;1;1;2;4;1;3;3;3;1;2;1;1;3;34
+Sylhet;3;910301008;;PoschimKajol Shah;Masuk Miar Colony;22;110;30;3;3;4;4;3;3;4;4;3;3;3;3;3;4;4;3;54
+Sylhet;3;910301009;;PoschimKajol Shah;Shibli Ukiler Colony;41;205;25;3;3;4;4;3;3;4;4;3;3;3;3;3;4;4;3;54
+Sylhet;3;910301010;;PoschimKajol Shah;Pitu Miar Colony;22;110;30;3;3;4;4;3;3;4;4;3;3;3;3;3;4;4;4;55
+Sylhet;3;910302001;;Kajol Shah;Dr. Misba Uddin Colony;62;310;20;1;3;4;1;1;3;4;4;3;3;3;4;3;4;4;3;48
+Sylhet;3;910302002;;Kajol Shah;Masuk Ruhi Colony;20;100;25;3;3;4;2;2;3;4;4;3;3;3;4;3;4;4;3;52
+Sylhet;3;910302003;;Kajol Shah;Moron Miar Basa;8;40;45;4;4;4;3;3;4;4;4;3;4;3;4;3;4;4;3;58
+Sylhet;3;910302004;;Kajol Shah;Bacchu Miar Colony;25;125;25;3;3;4;2;3;3;4;4;3;4;3;4;3;4;4;3;54
+Sylhet;3;910302005;;Kajol Shah;Late Sabul Miar Basa;16;80;40;3;4;4;2;4;4;4;4;3;4;3;4;3;4;4;3;57
+Sylhet;3;910302006;;Kajol Shah;Kobiraz Bari;40;200;40;3;4;4;4;3;3;4;4;3;3;3;4;3;4;4;3;56
+Sylhet;3;910302007;;Kajol Shah;Fojor Mia Colony;22;110;20;3;4;4;4;3;4;4;4;3;3;3;4;3;4;4;3;57
+Sylhet;3;910303001;;Munshipara;Khokhon Miar Colony;35;175;40;4;3;4;2;2;3;4;4;3;3;3;4;3;2;4;3;51
+Sylhet;3;910303002;;Munshipara;Master Bari;12;60;30;3;3;4;3;1;3;4;4;3;3;3;1;1;4;4;3;47
+Sylhet;3;910303003;;Munshipara;Amin Miar Bari;25;100;46;3;3;4;3;4;4;4;4;3;3;3;4;3;4;4;3;56
+Sylhet;3;910303004;;Munshipara;Lahin Miar Bari;20;100;60;3;3;4;3;1;4;3;1;3;3;3;4;3;4;4;3;49
+Sylhet;3;910303005;;Munshipara;Mannan Miar Bari;50;250;30;3;2;4;3;1;4;4;3;3;3;3;4;3;4;4;3;51
+Sylhet;3;910304001;;SagorDighir Par;Rofikul Mechnur;36;180;40;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910304002;;SagorDighir Par;Vidan Babu;5;25;40;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910304003;;SagorDighir Par;Toiyab Ali Colony;7;35;40;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910305001;;Khea Para;Ajor Miar Basa;18;90;50;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910305002;;Khea Para;Jami Saheber Colony;15;70;70;4;3;4;4;4;3;4;2;3;4;3;3;3;3;4;4;55
+Sylhet;3;910305003;;Khea Para;Bogot;15;70;60;4;3;3;4;2;4;4;4;3;4;3;3;3;3;4;4;55
+Sylhet;3;910305004;;Khea Para;Masuk Chow-219;24;120;50;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910305005;;Khea Para;Azad Miar Colony;14;70;50;4;3;4;4;4;4;4;2;3;4;3;3;3;3;4;4;56
+Sylhet;3;910305006;;Khea Para;Nuruddin Miar Colony;15;75;50;4;3;4;4;2;4;4;4;3;4;3;4;3;3;4;4;57
+Sylhet;4;910402001;;Housing Estate;Samsul Islam;70;380;15;2;3;4;4;3;2;1;4;4;4;3;4;4;4;1;2;49
+Sylhet;4;910403001;;Ambarkhana;Said Mia;50;250;30;2;3;4;4;3;2;1;4;4;4;3;4;4;4;1;2;49
+Sylhet;4;910403002;;Ambarkhana;Modhu Mia;60;360;18;2;3;4;4;3;2;1;4;4;4;3;4;4;4;1;2;49
+Sylhet;4;910403003;;Ambarkhana;Kamar Potti;80;150;25;2;3;4;4;3;2;1;4;4;4;3;4;4;4;1;2;49
+Sylhet;4;910403004;;Ambarkhana;Milon Apa;80;400;20;2;3;4;4;3;2;1;4;4;4;3;4;4;4;1;2;49
+Sylhet;4;910404001;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Bichra Bari;20;150;30;4;3;4;4;2;2;4;4;3;3;3;3;2;4;1;1;47
+Sylhet;4;910404002;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Donu Miar Colony;7;39;25;2;4;4;2;2;3;2;4;2;3;4;1;2;4;1;1;41
+Sylhet;4;910404003;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Babla Afar Colony;5;23;40;3;1;3;2;2;2;3;3;1;2;2;1;1;4;1;3;34
+Sylhet;4;910404004;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Dulal Miar Colony;7;44;45;3;3;3;2;3;2;4;3;1;2;2;2;3;4;1;3;41
+Sylhet;4;910404005;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Getu Miar Colony;11;83;25;3;3;4;2;3;1;4;4;1;2;3;1;2;4;1;3;41
+Sylhet;4;910404006;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Membar Ali;15;87;28;3;1;4;2;3;2;4;4;1;2;3;3;3;4;1;3;43
+Sylhet;4;910404007;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Jamal Miar Colony;10;68;45;2;1;4;3;2;3;4;4;1;2;3;1;3;4;1;3;41
+Sylhet;4;910404008;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Faruk Miar Colony;20;129;40;3;3;3;2;3;2;3;3;1;3;3;3;2;4;1;3;42
+Sylhet;4;910404009;;"Mazumdarilichubagan&Pirr 
+Mahalla &Pirr Mahalla Provati";Akram Miar Colony;40;256;30;4;4;3;2;3;3;3;4;2;3;3;2;3;4;1;3;47
+Sylhet;5;910501001;;ShahiEidgah;Idea Quarter;43;235;18;4;1;4;4;4;4;4;4;2;2;2;4;3;3;1;2;48
+Sylhet;5;910501002;;ShahiEidgah;Sahajahan Bosoty;62;338;12;4;1;4;4;1;2;4;1;2;2;2;4;3;3;1;2;40
+Sylhet;5;910501003;;ShahiEidgah;Soref Omra Bosoty;35;125;10;4;1;4;4;1;1;4;1;2;2;2;4;3;3;1;2;39
+Sylhet;5;910501004;;ShahiEidgah;Salam Miyar Bosoty;80;400;20;4;3;4;4;1;1;4;1;2;2;2;4;3;3;1;2;41
+Sylhet;5;910501005;;ShahiEidgah;Delwar Miyar Bosoty;30;150;12;4;3;4;4;1;1;4;1;2;2;2;4;3;3;1;2;41
+Sylhet;5;910501006;;ShahiEidgah;Khokon Miyar Bosoty;46;230;18;4;3;4;1;1;4;4;1;2;2;2;3;3;3;1;2;40
+Sylhet;5;910501007;;ShahiEidgah;Retu Miyar Bosoty;40;200;25;4;3;4;4;1;1;4;1;2;2;2;4;3;3;1;2;41
+Sylhet;5;910501008;;ShahiEidgah;Bahar Miyar Bosoty;40;200;2;2;4;3;4;1;1;4;4;2;2;2;1;4;3;1;2;40
+Sylhet;5;910502001;;Hosenbad;Nepali Bosoty;30;158;45;4;4;4;1;1;1;4;1;2;2;2;4;3;3;1;2;39
+Sylhet;5;910502002;;Hosenbad;Samem Miyar Bosoty;30;150;2;4;4;4;4;1;1;4;1;2;2;2;4;3;3;1;2;42
+Sylhet;5;910502003;;Hosenbad;Bosor Miyar Bosoty;12;60;5;4;4;4;1;1;1;4;1;2;2;2;4;3;4;1;2;40
+Sylhet;5;910502004;;Hosenbad;Mannar Miyar Bosoty;50;230;40;4;4;4;1;1;1;4;1;2;2;2;4;3;3;1;2;39
+Sylhet;5;910502005;;Hosenbad;Forest Quarter;10;80;27;4;4;4;4;4;4;4;4;4;4;2;1;2;3;2;3;53
+Sylhet;5;910503001;;Kolbahan;Juber Khaner Bosoty;14;70;30;4;4;4;4;1;1;4;2;2;2;2;3;2;1;4;2;42
+Sylhet;5;910503002;;Kolbahan;Somsu Miyar Bosoty;14;70;12;4;4;4;4;4;4;4;3;2;2;2;3;2;3;1;2;48
+Sylhet;5;910503003;;Kolbahan;Abdul Awayar Bosoty;25;125;40;4;4;4;4;4;4;4;3;2;2;2;3;2;3;1;2;48
+Sylhet;5;910503004;;Kolbahan;Sunu Miyar Bosoty;11;55;17;4;4;4;4;4;4;4;3;2;2;2;3;2;3;1;2;48
+Sylhet;5;910503005;;Kolbahan;Abdul Mobahar Bosoty;36;180;40;4;4;4;4;3;3;4;2;2;2;2;4;3;3;1;2;47
+Sylhet;5;910503006;;Kolbahan;Chekon Miyar Bosoty;25;120;20;4;4;4;4;3;4;4;3;2;2;2;4;3;3;1;2;49
+Sylhet;5;910503007;;Kolbahan;Lokon Miyar Bosoty;20;90;20;4;4;4;4;3;4;4;3;2;2;2;4;3;3;1;2;49
+Sylhet;5;910503008;;Kolbahan;Chekon Miyar Bosoty;70;380;40;4;4;4;4;3;4;4;3;2;2;2;4;3;3;1;2;49
+Sylhet;5;910503009;;Kolbahan;Salem Bosoty;10;52;20;4;4;4;4;3;4;4;3;2;2;2;4;3;3;1;2;49
+Sylhet;5;910504001;;Goi Para;Mamun Miyar Bosoty;34;150;25;2;1;4;4;4;2;4;3;2;2;2;4;3;3;1;2;43
+Sylhet;5;910504002;;Goi Para;Basher O Soheler Bosoty;43;215;20;4;4;4;4;4;2;4;3;2;2;3;4;3;3;1;2;49
+Sylhet;5;910504003;;Goi Para;Kamal Miyar Bosoty;20;100;20;4;4;4;4;4;2;4;3;2;2;2;4;3;3;1;2;48
+Sylhet;5;910504004;;Goi Para;Babul Miya Bosoty;20;100;30;4;4;4;4;4;2;4;3;2;2;2;4;3;3;1;2;48
+Sylhet;5;910504005;;Goi Para;Saheder Bosoty;75;375;40;1;1;4;2;2;1;4;2;2;2;2;4;3;3;1;2;36
+Sylhet;5;910504006;;Goi Para;Monamor Bosoty;42;200;28;4;4;4;4;4;2;4;3;2;2;2;4;3;3;1;2;48
+Sylhet;5;910504007;;Goi Para;Abdul Hamid Bosoty;30;150;32;4;4;4;4;4;4;4;3;2;2;2;4;3;3;1;2;50
+Sylhet;5;910505001;;RaiHossen;Milu Miyar Bosoty;8;40;8;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910505002;;RaiHossen;Komol Uddain Ar Bostee;42;210;14;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910505003;;RaiHossen;Jafor Miyar Bosoty O Garaj;12;60;7;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910505004;;RaiHossen;Masum Miyar Bosoty;8;40;10;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910505005;;RaiHossen;Abu Miyar Bosoty;8;40;20;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910505006;;RaiHossen;Samsu Helal Sabu Bosoty;11;55;20;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910506001;;Boro Bazar;Kader Miyar Bosoty;32;150;20;4;1;4;4;1;4;4;1;2;2;2;4;3;3;1;2;42
+Sylhet;5;910506002;;Boro Bazar;Morom Tonali Bosoty;14;70;23;4;4;4;4;4;4;4;3;2;2;2;4;3;3;1;2;50
+Sylhet;5;910506003;;Boro Bazar;Rolej Bosoty;100;400;20;4;4;4;4;4;1;4;1;2;2;2;4;3;3;1;2;45
+Sylhet;5;910506004;;Boro Bazar;Lechu Miyar Bosoty;42;200;25;4;4;4;4;4;4;4;3;2;2;2;4;3;3;1;2;50
+Sylhet;5;910506005;;Boro Bazar;Saleha Ahomod;65;300;40;4;4;4;4;4;4;4;3;2;2;2;4;3;3;1;2;50
+Sylhet;5;910507001;;KashBadir;Kalek Miyar Bosoty;20;100;30;4;4;4;4;4;4;4;3;2;2;2;4;2;3;1;2;49
+Sylhet;5;910507002;;KashBadir;Badsha Miyar Bosoty;20;100;16;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910507003;;KashBadir;Dargah Miyar Bosoty;15;70;30;4;4;4;4;4;4;4;3;2;2;2;4;2;3;1;2;49
+Sylhet;5;910507004;;KashBadir;Toseldar ar Bosoty;12;60;25;4;4;4;4;4;4;4;3;2;2;2;3;2;3;1;2;48
+Sylhet;5;910507005;;KashBadir;Mahai Bari Bosoty;27;140;32;4;4;4;4;4;4;4;3;2;2;2;4;2;3;1;2;49
+Sylhet;5;910507006;;KashBadir;Khokon Miyar Bosoty;12;60;170;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;5;910507007;;KashBadir;Menu Khan Ar Bosoty;22;110;25;4;4;4;4;4;3;4;2;2;2;2;4;2;3;1;2;47
+Sylhet;5;910507008;;KashBadir;Kubu MiYar Bosoty;16;80;18;4;4;4;4;1;3;4;3;2;2;2;4;2;3;1;2;45
+Sylhet;5;910507009;;KashBadir;Manik Miyar Bosoty;25;250;22;4;4;4;4;1;3;4;3;2;2;2;4;2;3;1;2;45
+Sylhet;5;910507010;;KashBadir;Jehiner Bosoty;35;175;28;4;4;4;4;3;2;4;3;2;2;2;4;1;2;1;2;44
+Sylhet;5;910507011;;KashBadir;Bolai Sepor Bosoty;20;100;32;4;4;4;4;4;4;4;3;2;2;2;4;2;3;1;2;49
+Sylhet;5;910507012;;KashBadir;Chan Miyar Bosoty;20;100;25;4;4;4;4;3;4;4;4;2;2;2;4;2;3;1;2;49
+Sylhet;5;910507013;;KashBadir;Kayes Miyar Bosoty;25;125;50;4;4;4;4;4;3;4;3;2;2;2;4;2;3;1;2;48
+Sylhet;6;910601001;;Purbo Chowkidhaki;Rafier Colony;95;475;27;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601002;;Purbo Chowkidhaki;Kamal Miar Colony;75;375;30;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601003;;Purbo Chowkidhaki;Ali Miar Colony;63;315;29;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601004;;Purbo Chowkidhaki;Apu Miar Colony;68;340;30;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601005;;Purbo Chowkidhaki;Shahiner Colony;69;345;32;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601006;;Purbo Chowkidhaki;Police Babuler Colony;90;450;28;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601007;;Purbo Chowkidhaki;Boroi Miar Colony;78;390;23;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601008;;Purbo Chowkidhaki;Ana Membarer Colony;130;650;38;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910601009;;Purbo Chowkidhaki;Ana Miar Colony;70;350;30;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602001;;PoschimCHowkidhaki;Junu Mia;100;500;35;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602002;;PoschimCHowkidhaki;Romzaner Colony;107;535;24;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602003;;PoschimCHowkidhaki;Murad Miar Colony;120;600;40;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602004;;PoschimCHowkidhaki;Saju Miar Colony;123;615;32;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602005;;PoschimCHowkidhaki;Manik Miar Colony;49;245;25;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602006;;PoschimCHowkidhaki;Sumir Alir Colony;42;210;30;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602007;;PoschimCHowkidhaki;Chan Miar Colony;82;410;28;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910602008;;PoschimCHowkidhaki;Atul Babur Colony;68;340;26;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910603001;;BadamBaghicha;Raja Miar Colony;50;250;30;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603002;;BadamBaghicha;Sokhinar Colony;54;270;31;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603003;;BadamBaghicha;Doctorer Colony;77;385;30;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603004;;BadamBaghicha;Minu Miar Colony;85;425;25;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603005;;BadamBaghicha;Sobhan Miar Colony;51;255;30;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603006;;BadamBaghicha;Markiner Colony;78;390;35;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603007;;BadamBaghicha;Lilu Miar Colony;103;515;30;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603008;;BadamBaghicha;Gedu Miar Colony;77;385;30;1;1;4;2;1;2;1;1;2;2;3;4;2;3;1;1;31
+Sylhet;6;910603009;;BadamBaghicha;Jahanarar Colony;116;580;35;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603010;;BadamBaghicha;Malek Miar Colony;106;530;35;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603011;;BadamBaghicha;Imtiazer Colony;97;485;32;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603012;;BadamBaghicha;Motin Colony;76;380;25;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603013;;BadamBaghicha;Romzaner Colony;105;525;32;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603014;;BadamBaghicha;Iranir Colony;95;475;31;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910603015;;BadamBaghicha;Suroier Colony;155;775;35;1;1;4;2;2;4;1;1;2;2;3;2;2;3;1;1;32
+Sylhet;6;910604001;;Syed Mugni;Masterer Colony;62;310;25;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910604002;;Syed Mugni;Rasel Miar Colony;53;265;23;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910604003;;Syed Mugni;Afzal Colony;62;310;18;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910604004;;Syed Mugni;Gulzarer Colony;48;240;17;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910604005;;Syed Mugni;Soheler Colony;72;360;27;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910604006;;Syed Mugni;Shahjahaner Colony;61;305;24;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;30
+Sylhet;6;910604007;;Syed Mugni;Abdul Jabbarer Colony;66;330;23;2;1;4;2;1;2;1;2;3;3;3;4;1;2;1;1;33
+Sylhet;6;910605001;;PurboPir Mahalla;Sumon Miar Colony;57;285;20;2;1;4;2;1;1;1;3;1;3;3;4;1;3;1;1;32
+Sylhet;6;910605002;;PurboPir Mahalla;Fokhrul Miar Colony;64;320;40;2;1;4;2;1;1;1;3;1;3;1;4;1;3;1;1;30
+Sylhet;6;910605003;;PurboPir Mahalla;Mominer Colony;75;375;22;2;4;2;3;1;1;1;1;1;3;1;1;1;3;1;1;27
+Sylhet;6;910605004;;PurboPir Mahalla;Mizaner Colony;75;375;24;2;1;4;2;1;1;1;2;1;3;1;4;1;3;1;1;29
+Sylhet;7;910701001;;PashcimPir Mahalla Paharika;Tar Mokil Colony;60;300;25;3;2;4;3;1;3;1;3;2;2;2;4;1;1;2;1;35
+Sylhet;7;910701002;;PashcimPir Mahalla Paharika;Mahabuber Colony;650;2500;25;2;2;3;3;3;2;1;2;3;3;2;2;3;2;1;1;35
+Sylhet;7;910701003;;PashcimPir Mahalla Paharika;Shahjan Miar Colony;60;300;100;3;3;2;3;3;2;1;2;3;2;2;2;2;1;1;1;33
+Sylhet;7;910702001;;Ban KolaparaPuranMosjid;Nurani Orot Alaka;60;300;30;2;3;4;1;3;3;3;3;3;4;3;1;3;1;4;4;45
+Sylhet;7;910702002;;Ban KolaparaPuranMosjid;Bon Kolapara Boubazar;100;500;35;3;2;4;3;3;4;4;3;3;4;3;3;3;4;4;3;53
+Sylhet;7;910702003;;Ban KolaparaPuranMosjid;Miar Colony;150;750;30;2;2;3;3;3;1;2;2;3;4;3;2;1;1;4;1;37
+Sylhet;7;910702004;;Ban KolaparaPuranMosjid;Nahidar Colony;150;750;35;2;1;3;2;3;3;3;3;3;3;2;3;2;3;3;3;42
+Sylhet;7;910703001;;"Shah Rumi Mosjid& Bazar 
+LalShabuz Area (Nurani)";Goni Miar Alaka;100;600;40;4;3;3;4;3;3;4;4;3;4;3;4;4;4;4;4;58
+Sylhet;7;910703002;;"Shah Rumi Mosjid& Bazar 
+LalShabuz Area (Nurani)";Najim Miar Colony;60;300;35;3;2;4;1;1;3;3;4;3;3;3;2;2;3;1;1;39
+Sylhet;7;910703003;;"Shah Rumi Mosjid& Bazar 
+LalShabuz Area (Nurani)";Niru Memberer Colony;120;580;40;2;1;4;2;1;3;1;3;3;4;2;2;3;3;1;1;36
+Sylhet;7;910704001;;Londoni Road;Agrani-116 Basa-121;60;360;30;3;2;4;2;1;2;1;3;3;4;3;4;1;4;4;4;45
+Sylhet;7;910704002;;Londoni Road;Agrani-9, 140;40;200;40;3;3;4;2;4;3;1;3;3;4;3;4;1;4;4;4;50
+Sylhet;7;910704003;;Londoni Road;Agrani Basa-49;50;250;40;3;4;4;4;1;3;4;3;3;4;3;4;3;4;4;4;55
+Sylhet;7;910704004;;Londoni Road;Agrani Basa-83/81/82;50;150;40;3;3;3;4;4;4;4;3;3;4;3;4;4;4;4;4;58
+Sylhet;7;910705001;;PashcimSubid Bazar DigirPaar;Nurani-11/12/13;40;200;30;3;2;4;1;4;4;4;3;3;4;3;4;4;4;4;4;55
+Sylhet;7;910705002;;PashcimSubid Bazar DigirPaar;Nurani-13/16/13/13 Subid Bazar;50;250;40;3;4;4;4;4;4;3;3;3;4;3;4;4;4;4;4;59
+Sylhet;7;910705003;;PashcimSubid Bazar DigirPaar;Nurani-12/13/13/14;30;150;42;3;4;3;4;4;4;3;3;3;4;3;4;4;4;4;4;58
+Sylhet;7;910705004;;PashcimSubid Bazar DigirPaar;Nurani Area;30;140;40;4;3;4;3;2;4;4;4;3;4;2;4;2;4;4;4;55
+Sylhet;7;910705005;;PashcimSubid Bazar DigirPaar;Poti Para Area;20;90;35;4;2;4;2;3;3;4;4;4;4;3;3;3;3;4;4;54
+Sylhet;7;910706001;;Fazilchasht;Mukit Khan Gong;280;1400;35;2;2;4;2;3;2;3;3;3;3;3;4;4;4;4;4;50
+Sylhet;7;910707001;;Zalalabad;Rahim Miar Colony;150;730;30;2;2;4;2;2;3;1;3;2;3;3;4;4;4;1;4;44
+Sylhet;7;910707002;;Zalalabad;Mansurer Colony;325;1600;30;2;2;4;2;3;2;3;3;3;3;3;4;4;4;4;4;50
+Sylhet;7;910707003;;Zalalabad;Mukit Khaner Colony;250;1250;25;2;2;4;2;2;3;2;3;3;4;3;4;4;4;4;4;50
+Sylhet;7;910708001;;BrehattaraSubid Bazar;Mitali Area;40;180;40;3;3;4;3;3;4;4;4;3;4;2;4;4;4;4;4;57
+Sylhet;7;910708002;;BrehattaraSubid Bazar;Fazil Six;50;230;40;3;3;4;3;3;3;4;4;3;4;2;3;3;3;4;4;53
+Sylhet;7;910708003;;BrehattaraSubid Bazar;Dosh Sundori;35;150;35;3;2;4;4;3;4;4;4;4;4;3;4;3;4;4;4;58
+Sylhet;7;910709001;;Nurani Boon Kolapara;Tipu Miar Colony;50;300;40;3;2;3;2;4;3;3;3;3;3;3;4;4;4;4;3;51
+Sylhet;7;910709002;;Nurani Boon Kolapara;Puran Masjid;60;360;35;3;3;3;2;3;3;3;4;3;4;2;4;4;4;4;4;53
+Sylhet;7;910709003;;Nurani Boon Kolapara;Adv. Nazrul Ukil Area;40;200;35;3;4;4;3;4;3;4;4;4;3;3;4;4;4;4;4;59
+Sylhet;8;910801001;;Pathan Tula;Kusum Miyar Colony;50;250;30;3;3;4;4;1;3;3;3;3;4;3;4;3;4;4;4;53
+Sylhet;8;910801002;;Pathan Tula;Pepol Colony;60;285;35;2;1;4;4;1;2;3;3;3;4;3;4;3;4;4;4;49
+Sylhet;8;910801003;;Pathan Tula;Soleman Master;45;185;30;3;3;4;4;1;3;3;3;3;4;3;4;3;4;4;4;53
+Sylhet;8;910801004;;Pathan Tula;Police Miyar Colony;40;180;40;2;2;4;4;1;3;3;3;3;4;3;4;3;4;4;4;51
+Sylhet;8;910801005;;Pathan Tula;Sahajahan Miyar Colony;30;130;40;2;1;3;3;1;3;3;3;3;4;2;4;3;4;3;4;46
+Sylhet;8;910802001;;Poni Tula;Lokhi Vandary;45;210;70;3;3;4;4;1;3;3;3;3;4;3;4;3;4;4;4;53
+Sylhet;8;910802002;;Poni Tula;Beman Gosh;70;300;40;3;1;4;1;1;4;3;3;3;4;3;3;3;4;4;4;48
+Sylhet;8;910802003;;Poni Tula;Abu Husain Ar Alaka;75;300;60;3;3;4;1;1;2;2;3;3;4;3;3;2;4;3;4;45
+Sylhet;8;910802004;;Poni Tula;Nurjahan Colony;65;255;35;2;1;4;1;1;3;3;3;3;4;3;3;3;4;3;4;45
+Sylhet;8;910802005;;Poni Tula;Mandaj Miya Bari;45;200;80;2;2;4;4;1;3;3;3;3;4;3;4;3;4;4;4;51
+Sylhet;8;910803001;;Noapara Bramon shashon;Ansarer Colony;80;400;80;1;1;3;4;3;1;4;3;3;4;3;1;2;4;4;4;45
+Sylhet;8;910803002;;Noapara Bramon shashon;Jasuker Colony;65;300;95;1;4;3;2;2;1;4;3;3;3;3;4;3;4;4;4;48
+Sylhet;8;910803003;;Noapara Bramon shashon;Shovo Harer Colony;80;300;90;2;2;3;4;1;2;4;3;3;4;3;3;2;4;4;4;48
+Sylhet;8;910803004;;Noapara Bramon shashon;Sholjarer Colony;50;250;100;2;3;3;1;1;3;2;3;3;3;3;3;3;3;4;4;44
+Sylhet;8;910803005;;Noapara Bramon shashon;1 No. Colony;200;400;100;2;1;3;1;1;3;1;3;3;4;2;4;3;4;4;4;43
+Sylhet;8;910803006;;Noapara Bramon shashon;Dolir Colony;30;140;70;2;1;4;4;1;2;4;4;3;4;3;3;2;4;4;4;49
+Sylhet;8;910803007;;Noapara Bramon shashon;Botu Para;45;200;90;2;4;3;3;1;3;4;2;3;4;3;3;2;4;4;4;49
+Sylhet;8;910803008;;Noapara Bramon shashon;Sanar Colony;30;140;80;2;3;3;4;1;3;4;2;2;4;2;4;3;4;4;4;49
+Sylhet;8;910803009;;Noapara Bramon shashon;Manik Babur Colony;180;500;100;2;2;3;1;1;3;1;3;3;4;3;4;2;4;4;4;44
+Sylhet;8;910803010;;Noapara Bramon shashon;Ali Hossin Ar Colony;30;140;60;3;1;3;1;1;3;2;3;3;4;3;4;2;4;4;4;45
+Sylhet;8;910803011;;Noapara Bramon shashon;Riyaj Ar Colony;35;175;40;2;4;3;1;1;2;2;3;3;3;2;3;3;4;4;4;44
+Sylhet;8;910803012;;Noapara Bramon shashon;3 No. Colony;50;240;30;2;1;2;1;1;3;1;3;3;4;2;4;3;4;4;4;42
+Sylhet;8;910804001;;"Halderpara 
+(Korerpara+Kucharpara)";Banur Colony;50;240;100;3;3;4;1;1;2;3;4;3;4;3;3;4;4;4;4;50
+Sylhet;8;910804002;;"Halderpara 
+(Korerpara+Kucharpara)";Joher Miya Colony;60;300;40;3;2;3;3;1;3;3;3;3;3;3;4;3;4;4;4;49
+Sylhet;8;910804003;;"Halderpara 
+(Korerpara+Kucharpara)";Tutu Miyar Alaka;60;280;100;2;2;4;1;1;2;3;3;3;4;3;4;2;4;4;4;46
+Sylhet;8;910804004;;"Halderpara 
+(Korerpara+Kucharpara)";Fokir Miyar Colony;75;375;80;2;2;3;3;1;3;3;3;3;4;3;4;3;4;4;4;49
+Sylhet;8;910804005;;"Halderpara 
+(Korerpara+Kucharpara)";Abdular Colony;45;225;60;2;2;3;3;1;3;3;3;3;4;3;4;3;4;4;4;49
+Sylhet;8;910804006;;"Halderpara 
+(Korerpara+Kucharpara)";Kamal Miyar Colony;90;450;100;2;3;3;3;1;2;4;3;3;4;3;4;2;4;4;4;49
+Sylhet;8;910804007;;"Halderpara 
+(Korerpara+Kucharpara)";Anoyar Miyar Bari;95;500;100;3;3;3;4;1;3;3;3;3;3;2;4;3;4;4;4;50
+Sylhet;9;910901001;;Akhalia Ghat One Side;Ruhul Amin Ar Colony;10;55;15;4;3;4;4;3;2;4;3;3;2;3;4;3;4;1;2;49
+Sylhet;9;910901002;;Akhalia Ghat One Side;Joinal Colony;15;90;15;4;3;4;4;3;2;4;3;3;2;3;4;3;4;1;2;49
+Sylhet;9;910903001;;Khulia Par;Hridoy Miyar Alaka;10;50;10;4;1;4;1;1;1;4;2;3;2;3;4;4;3;1;2;40
+Sylhet;9;910903002;;Khulia Par;Sattar Miyar Colony;34;120;20;4;1;4;1;1;1;4;2;3;2;2;4;4;3;1;2;39
+Sylhet;9;910905001;;Akhalia Bazar+ Dhanu Hatar Par;Babu Miyar Colony;13;70;15;4;4;4;4;4;1;4;3;3;1;3;4;4;4;1;2;50
+Sylhet;9;910905002;;Akhalia Bazar+ Dhanu Hatar Par;Morhum Chunu Miya Bari;20;95;16;4;4;4;4;4;1;4;3;3;1;3;4;4;4;1;2;50
+Sylhet;9;910905003;;Akhalia Bazar+ Dhanu Hatar Par;Jahangir Miya Colony- 1;50;255;17;4;4;4;4;4;1;4;3;3;1;3;4;4;4;1;2;50
+Sylhet;9;910905004;;Akhalia Bazar+ Dhanu Hatar Par;Abashon Box Colony;15;75;12;4;4;4;4;4;1;4;3;3;1;3;4;4;4;1;2;50
+Sylhet;9;910905005;;Akhalia Bazar+ Dhanu Hatar Par;Jahangir Miyar Colony;70;350;20;4;4;4;4;4;1;4;3;3;1;3;4;4;4;1;2;50
+Sylhet;9;910905006;;Akhalia Bazar+ Dhanu Hatar Par;Akabur Colony;10;45;17;4;3;4;4;4;1;4;3;3;1;3;4;4;4;1;2;49
+Sylhet;9;910906001;;Nehari Para+Lack City R/A, Nehari Para;Helal Ahmod Colony;60;300;20;4;4;4;2;1;1;3;3;3;2;3;4;4;4;1;3;46
+Sylhet;9;910906002;;Nehari Para+Lack City R/A, Nehari Para;Sahed Miya Colony;25;102;60;4;4;4;2;1;1;3;3;3;2;3;4;4;4;1;3;46
+Sylhet;9;910906003;;Nehari Para+Lack City R/A, Nehari Para;Kamal Ahamod Colony;26;122;5;3;1;4;1;1;2;2;2;4;2;3;4;2;4;1;3;39
+Sylhet;9;910906004;;Nehari Para+Lack City R/A, Nehari Para;Kamran Colony;27;162;13;4;4;4;2;1;2;2;3;4;2;3;4;2;3;1;3;44
+Sylhet;9;910907001;;Baghbari+Norsing Tila;Tipu Miyar Colony;16;82;12;2;4;4;4;1;2;4;3;4;2;3;4;3;4;3;3;50
+Sylhet;9;910907002;;Baghbari+Norsing Tila;Liyakot Ali Colony;22;115;20;2;4;4;4;1;2;4;3;3;2;3;4;3;4;1;4;48
+Sylhet;9;910907003;;Baghbari+Norsing Tila;Rob Miya;14;85;12;4;3;4;4;2;3;4;3;2;2;3;4;4;4;4;2;52
+Sylhet;9;910907004;;Baghbari+Norsing Tila;Samiruddain;40;200;60;2;3;4;1;1;3;4;3;3;3;3;3;3;3;4;4;47
+Sylhet;9;910907005;;Baghbari+Norsing Tila;Irfan Ullah;12;50;15;4;2;4;4;1;3;4;3;3;4;3;4;2;4;4;4;53
+Sylhet;9;910907006;;Baghbari+Norsing Tila;Rohiman Colony;35;186;15;2;4;4;3;1;2;4;3;3;3;2;3;2;3;4;4;47
+Sylhet;9;910907007;;Baghbari+Norsing Tila;Riba Babur Colony;8;40;15;2;4;4;4;1;2;4;3;3;3;2;4;3;3;4;4;50
+Sylhet;9;910907008;;Baghbari+Norsing Tila;Motic Casher Colony;7;35;17;4;4;4;4;1;3;4;4;4;4;3;4;3;4;4;4;58
+Sylhet;9;910907009;;Baghbari+Norsing Tila;Rajib Miyar Colony;10;40;25;4;4;4;4;1;3;4;3;4;4;3;4;3;4;4;1;54
+Sylhet;9;910908001;;Etim School Road;Rakes Babur Colony;12;60;15;4;3;4;1;3;2;4;4;4;1;3;3;2;4;4;3;49
+Sylhet;9;910908002;;Etim School Road;Babul Coshai;7;35;20;4;3;4;4;3;4;4;4;3;4;3;4;3;4;4;4;59
+Sylhet;9;910908003;;Etim School Road;Ajaj Miyar Colony;32;160;15;2;1;4;4;4;4;4;4;4;1;3;4;4;4;1;4;52
+Sylhet;9;910908004;;Etim School Road;Fenu Miyar Colony;12;60;30;2;1;4;1;3;4;4;4;2;3;3;4;3;4;4;4;50
+Sylhet;9;910908005;;Etim School Road;Akbor Miyar Colony;7;35;20;2;1;4;1;3;4;4;3;3;4;3;4;3;4;4;4;51
+Sylhet;9;910908006;;Etim School Road;Liton Miyar Colony;10;50;25;2;1;4;1;3;4;4;3;3;4;3;4;3;4;4;4;51
+Sylhet;9;910911001;;Sharbori+Nikunjo+Nibash;Golap Miya Colony;18;95;15;4;4;4;4;4;4;4;3;4;1;3;3;4;4;1;3;54
+Sylhet;9;910911002;;Sharbori+Nikunjo+Nibash;Kala Miyar Colony;16;82;10;4;4;4;4;4;4;4;3;4;1;3;3;4;4;1;3;54
+Sylhet;9;910911003;;Sharbori+Nikunjo+Nibash;Junej Miyar Colony;25;123;20;4;4;4;4;4;4;4;3;4;1;3;3;4;4;1;3;54
+Sylhet;9;910911004;;Sharbori+Nikunjo+Nibash;Ajad Miyar Colony;18;95;20;4;4;4;4;4;4;4;3;4;1;3;3;4;4;1;3;54
+Sylhet;10;911001001;;Ghashitula+Lama Para;Samitola Balurchor Raja Miyar Colony;65;325;100;2;1;3;1;1;2;3;3;2;3;1;4;1;4;4;4;39
+Sylhet;10;911001002;;Ghashitula+Lama Para;Sahen Colony;21;105;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911001003;;Ghashitula+Lama Para;Aptab Miyar Colony;16;80;90;2;1;3;1;2;2;4;3;1;3;2;4;1;4;4;4;41
+Sylhet;10;911001004;;Ghashitula+Lama Para;Moinar Colony;100;500;100;2;1;3;1;2;4;3;2;2;3;2;1;1;4;4;4;39
+Sylhet;10;911001005;;Ghashitula+Lama Para;Mahabuddain Colony;80;400;100;2;1;3;1;2;2;3;3;2;3;2;4;4;4;4;4;44
+Sylhet;10;911001006;;Ghashitula+Lama Para;Primare Nschool Colony;100;500;100;2;1;3;1;2;4;3;3;2;3;2;4;4;4;4;4;46
+Sylhet;10;911001007;;Ghashitula+Lama Para;Usef School Ar Pichone Ar Colony;120;670;100;2;1;3;1;3;2;3;1;2;3;2;4;4;4;4;4;43
+Sylhet;10;911001008;;Ghashitula+Lama Para;Moktab Are Dokaner Pichone;100;500;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911001009;;Ghashitula+Lama Para;Kashem Miyar Colony;120;600;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911001010;;Ghashitula+Lama Para;Baram Miyar Bari;150;750;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911001011;;Ghashitula+Lama Para;Nodir Par Beter Bazar;60;300;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911001012;;Ghashitula+Lama Para;Beter Bazar Nodir Par;120;600;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911002001;;Molla Para;Jame mashjider pash theke muminer bari;120;600;100;2;1;3;1;1;2;4;3;2;3;2;3;1;4;4;4;40
+Sylhet;10;911002002;;Molla Para;Kala miyar bari theke samsuler bari;100;600;100;2;1;3;1;1;2;3;3;2;3;2;2;1;4;4;4;38
+Sylhet;10;911002003;;Molla Para;shahabuddiner bari;70;350;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911002004;;Molla Para;Aklas bari;50;250;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911002005;;Molla Para;Ansar ali bari;100;500;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911002006;;Molla Para;Jamal miyar colony;200;1000;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;10;911003001;;Mojumdar Para;Luckyer dokan;100;500;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911003002;;Mojumdar Para;Moyna miyar coloony;120;600;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911003003;;Mojumdar Para;Kodom rosuler mokam;80;400;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;10;911003004;;Mojumdar Para;Kheya dhat colony;200;1000;100;2;1;3;1;1;2;4;3;2;3;2;3;1;4;4;4;40
+Sylhet;10;911004001;;Kala Para;Lagromi hospital colony;80;400;120;1;1;2;1;2;1;2;2;2;3;2;2;1;2;2;3;29
+Sylhet;10;911004002;;Kala Para;gurustaner pasher colony;90;450;100;1;1;3;1;1;1;2;2;2;3;2;4;1;4;2;3;33
+Sylhet;10;911004003;;Kala Para;Kolaq para jame mashkider pasher colony;120;600;100;2;3;3;1;1;2;2;2;2;3;2;3;2;4;2;3;37
+Sylhet;10;911004004;;Kala Para;Kolaq para jame mashkider purbo pasher colony;50;250;100;2;3;2;1;2;2;2;3;2;3;2;4;1;4;2;3;38
+Sylhet;10;911004005;;Kala Para;Mashdi colony dokhin pash;50;300;100;2;1;3;1;1;2;2;3;2;3;2;3;1;4;2;3;35
+Sylhet;10;911004006;;Kala Para;tajuddiner colony;60;300;100;1;3;1;3;2;4;2;1;2;3;2;1;4;4;2;3;38
+Sylhet;10;911004007;;Kala Para;Prochesta tailers er pashe;150;750;100;2;2;1;3;2;1;2;1;4;3;2;1;3;1;2;3;33
+Sylhet;10;911004008;;Kala Para;Shahjahan coloy;120;600;90;2;1;3;1;1;2;2;3;2;3;2;4;1;4;2;3;36
+Sylhet;10;911004009;;Kala Para;Kasim miya colony;90;450;100;2;1;3;1;1;1;2;3;2;3;2;3;1;4;2;3;34
+Sylhet;10;911005001;;Dohor;Dr. chamber theke school;50;250;100;2;2;3;2;2;2;2;3;2;3;2;3;1;2;2;3;36
+Sylhet;10;911005002;;Dohor;Giyagun madreasa porjonto;40;200;100;2;3;3;2;2;3;2;3;2;3;2;3;2;4;2;3;41
+Sylhet;10;911005003;;Dohor;Molla para mait;40;200;100;2;2;3;2;2;2;2;3;2;3;2;3;1;4;2;3;38
+Sylhet;10;911005004;;Dohor;Kamaler bari pharmecy;50;250;100;2;1;3;1;4;1;2;1;2;3;2;4;1;4;2;3;36
+Sylhet;10;911006001;;Kanisail;mojibor colony;100;500;100;2;2;2;2;2;2;2;3;2;3;2;2;2;4;2;3;37
+Sylhet;10;911006002;;Kanisail;Nodir Par;180;920;100;2;2;2;2;2;2;2;2;2;3;2;2;2;4;2;3;36
+Sylhet;10;911007001;;Samima Bad;Jalaluddiner colony;60;300;200;2;2;2;3;2;2;2;2;2;3;2;2;2;4;2;3;37
+Sylhet;10;911007002;;Samima Bad;Juber miyar colony;156;1326;100;2;2;2;2;2;2;2;3;2;3;2;2;2;4;2;3;37
+Sylhet;10;911007003;;Samima Bad;Ananuddiner colony;100;5000;150;2;2;3;2;2;2;2;2;2;3;2;2;2;4;2;3;37
+Sylhet;10;911007004;;Samima Bad;Kamal;914;1000;30;2;2;2;2;2;2;2;2;2;3;2;2;2;4;2;3;36
+Sylhet;10;911007005;;Samima Bad;Jamal miya;50;250;100;2;2;2;2;2;2;2;2;2;3;2;2;2;2;2;3;34
+Sylhet;10;911007006;;Samima Bad;Babul Miya;275;1075;50;3;3;2;2;2;2;2;2;2;3;2;2;2;4;2;3;38
+Sylhet;10;911007007;;Samima Bad;Atpoth;150;750;40;2;2;2;2;2;3;2;2;2;3;2;2;2;4;2;3;37
+Sylhet;10;911007008;;Samima Bad;Belal colony;116;580;60;2;2;2;2;2;2;2;2;2;3;2;2;2;4;2;3;36
+Sylhet;11;911101001;;Lala Dughir Par Dokkin;Mokles Miyar Colony;100;500;100;1;1;1;4;2;4;1;3;2;3;4;1;1;4;4;4;40
+Sylhet;11;911101002;;Lala Dughir Par Dokkin;Ful Miyar Colony;150;750;150;1;1;1;1;4;2;1;4;4;3;4;1;4;4;4;4;43
+Sylhet;11;911101003;;Lala Dughir Par Dokkin;Kubul Miyar Colony;25;100;150;1;2;1;1;3;3;1;4;2;3;4;1;1;4;4;4;39
+Sylhet;11;911101004;;Lala Dughir Par Dokkin;Rejaul Miyar Colony;40;200;100;1;2;1;1;4;2;1;4;4;3;4;4;1;4;4;4;44
+Sylhet;11;911101005;;Lala Dughir Par Dokkin;Arshad Miyar Colony;120;680;150;1;1;1;1;2;2;2;4;2;3;4;1;1;4;4;4;37
+Sylhet;11;911101006;;Lala Dughir Par Dokkin;Sahajalal Miyar Colony;150;750;150;1;1;1;1;2;2;1;4;2;3;4;1;4;4;4;4;39
+Sylhet;11;911102001;;Kuar Par;Samad Miyar Colony;50;250;100;1;1;2;1;4;1;4;4;2;3;4;4;1;4;4;4;44
+Sylhet;11;911102002;;Kuar Par;Geyas Miyar Colony;25;125;150;4;2;4;1;4;4;4;4;4;3;4;4;4;4;4;4;58
+Sylhet;11;911102003;;Kuar Par;Monir Miya Colony;22;110;150;1;4;4;1;4;2;1;4;3;3;4;4;2;4;1;3;45
+Sylhet;11;911102004;;Kuar Par;Faruk Miyar Colony;40;200;200;1;1;3;1;3;3;4;4;3;3;4;1;1;4;4;4;44
+Sylhet;11;911102005;;Kuar Par;Abdul Gofar Colony;20;100;200;2;1;1;1;2;2;2;4;2;3;4;4;2;4;4;4;42
+Sylhet;11;911102006;;Kuar Par;Kamran Miyar Colony;25;100;150;1;1;1;1;2;3;2;4;2;3;4;1;2;4;4;4;39
+Sylhet;11;911103001;;Bil Par Dokkin;Soref Uddain Ar Colony;25;125;250;1;1;1;1;2;2;1;4;2;3;4;1;2;4;4;4;37
+Sylhet;11;911103002;;Bil Par Dokkin;Sana Miya;30;150;250;1;1;1;1;2;2;1;4;2;3;4;1;1;4;4;4;36
+Sylhet;11;911103003;;Bil Par Dokkin;Iqbal Miyar Colony;40;200;250;1;1;1;1;2;2;1;4;2;3;4;1;1;4;4;4;36
+Sylhet;11;911103004;;Bil Par Dokkin;Jamaj Miyar Colony;25;125;200;1;1;2;1;3;4;2;4;3;3;4;1;1;4;4;4;42
+Sylhet;11;911103005;;Bil Par Dokkin;Nilendu Advucate Colony;25;125;250;1;1;1;1;3;2;2;4;2;3;4;1;2;4;4;4;39
+Sylhet;11;911103006;;Bil Par Dokkin;Sham Sundor Akhra Colony;40;200;250;1;1;2;1;1;2;1;4;2;3;4;1;2;4;4;4;37
+Sylhet;11;911103007;;Bil Par Dokkin;Late. Fored Gazi Colony;40;200;250;1;1;1;1;2;2;2;4;2;3;4;1;1;4;4;4;37
+Sylhet;11;911104001;;Bil Par Uttor;Masjeed Colony;25;125;200;1;2;1;1;1;2;4;4;2;3;4;1;1;4;4;4;39
+Sylhet;11;911104002;;Bil Par Uttor;Raj Miyar Colony;30;150;250;1;1;1;1;2;2;4;4;2;3;4;1;1;4;4;4;39
+Sylhet;11;911104003;;Bil Par Uttor;Moklas Rahman;25;125;200;1;1;1;1;2;2;2;4;2;3;4;1;1;4;4;4;37
+Sylhet;11;911104004;;Bil Par Uttor;Montaj Miyar Colony;30;150;250;1;1;1;1;2;2;4;4;2;3;2;1;1;4;4;4;37
+Sylhet;11;911104005;;Bil Par Uttor;Moinuddain Ar Colony;25;125;100;1;1;1;1;2;2;2;4;2;3;4;1;1;4;4;4;37
+Sylhet;11;911104006;;Bil Par Uttor;Jahangir Miyar Colony;40;120;200;1;1;1;1;2;2;2;4;2;3;4;1;1;4;4;4;37
+Sylhet;11;911105001;;Noapara Batali Road;Ghos Bari Bosoty;25;100;150;3;1;4;4;1;3;4;3;2;3;4;4;2;4;4;4;50
+Sylhet;11;911105002;;Noapara Batali Road;afjal Miyar Bosoty;30;150;150;1;1;2;4;2;3;1;3;2;3;4;4;3;4;1;2;40
+Sylhet;11;911105003;;Noapara Batali Road;Arun Babul Colony;30;150;100;1;1;4;1;2;1;1;2;2;2;4;4;1;4;1;2;33
+Sylhet;11;911105004;;Noapara Batali Road;Anoyar Miyar Bosoty;35;175;70;1;3;4;4;2;2;1;3;2;4;4;4;2;4;1;2;43
+Sylhet;11;911105005;;Noapara Batali Road;Ana Miyar Bosoty;10;50;70;2;3;4;4;2;3;1;3;3;3;4;4;2;4;1;2;45
+Sylhet;11;911105006;;Noapara Batali Road;Prabaas Babur Bari;30;150;120;1;3;4;4;1;4;1;4;3;3;4;4;3;4;4;4;51
+Sylhet;11;911106001;;Modhu Shaid;Sebu Babur Bosoty;30;150;140;3;1;4;4;3;2;2;3;3;3;4;4;2;4;4;4;50
+Sylhet;11;911106002;;Modhu Shaid;Badsha Miyar Colony;25;100;160;1;1;4;4;2;2;1;2;2;2;4;4;1;4;1;1;36
+Sylhet;11;911106003;;Modhu Shaid;Babul Miyar Colony;30;150;200;3;3;4;4;2;3;4;3;2;3;4;4;3;4;4;4;54
+Sylhet;11;911106004;;Modhu Shaid;Kunu Miyar Bosoty;50;250;200;3;3;4;4;2;3;3;3;2;3;4;4;3;4;1;2;48
+Sylhet;11;911106005;;Modhu Shaid;Moriyam Begum Colony;25;100;150;1;1;4;4;2;2;1;3;2;2;4;4;1;4;1;4;40
+Sylhet;11;911106006;;Modhu Shaid;Afraj Miyar Bosoty;25;125;160;3;3;4;4;1;3;4;3;2;3;4;4;3;4;4;4;53
+Sylhet;11;911106007;;Modhu Shaid;Sahin Miyar Bosoty;20;100;160;1;1;4;1;1;1;3;3;2;3;4;4;2;4;1;2;37
+Sylhet;11;911107001;;Batalia;Hajir Bari;150;750;100;2;2;4;1;2;1;3;4;2;2;4;4;2;4;1;2;40
+Sylhet;11;911107002;;Batalia;Khaja Kuthir;100;500;100;2;1;3;1;2;2;3;4;2;2;4;4;2;4;1;2;39
+Sylhet;11;911107003;;Batalia;Bir Miya;100;530;100;2;1;4;1;1;2;3;3;2;3;4;4;2;4;1;2;39
+Sylhet;11;911107004;;Batalia;Nasir Miyar Bosoty;100;520;160;2;1;4;1;2;1;3;3;2;3;4;4;1;4;1;2;38
+Sylhet;11;911107005;;Batalia;Mali Para;200;1020;50;2;1;4;1;2;2;3;3;2;3;4;4;2;4;1;2;40
+Sylhet;11;911107006;;Batalia;Boro Bari;100;500;100;2;1;3;1;2;2;3;3;2;3;4;4;2;4;1;2;39
+Sylhet;11;911107007;;Batalia;Totar Bari;100;530;100;2;1;4;1;2;2;3;3;2;3;4;4;2;4;1;2;40
+Sylhet;11;911107008;;Batalia;Aktar Miyar Bariu;25;130;150;2;1;4;4;2;1;1;3;2;3;4;4;2;4;4;2;43
+Sylhet;11;911108001;;Dokkin Kajol Shah;Bostamojideer colony;100;480;80;1;1;3;1;2;2;2;3;3;3;4;4;2;4;1;4;40
+Sylhet;11;911108002;;Dokkin Kajol Shah;Abul miya colony;150;750;50;1;1;2;1;2;1;3;3;3;3;4;4;3;4;1;4;40
+Sylhet;11;911108003;;Dokkin Kajol Shah;Yaris Miya Colony;100;400;100;1;1;3;2;2;2;3;3;3;3;4;4;3;4;1;4;43
+Sylhet;11;911108004;;Dokkin Kajol Shah;Ranar Colony;60;240;100;2;1;3;2;3;2;3;3;3;3;4;4;3;4;1;4;45
+Sylhet;11;911108005;;Dokkin Kajol Shah;Mijanur Rahmaner Colony;100;480;100;1;1;3;2;3;1;3;3;3;3;4;4;3;4;1;4;43
+Sylhet;11;911108006;;Dokkin Kajol Shah;Hamid Miyare Colony;100;400;90;1;1;3;1;3;2;3;3;3;3;4;4;4;4;1;4;44
+Sylhet;11;911109001;;Lala Dighir par Purbo;Sujon Miyar Colony;150;750;100;1;2;3;4;3;2;3;3;3;3;4;4;3;4;1;4;47
+Sylhet;11;911109002;;Lala Dighir par Purbo;Farukh Miyar Colony;80;400;100;1;1;3;1;3;2;3;3;3;3;4;4;1;4;1;4;41
+Sylhet;11;911109003;;Lala Dighir par Purbo;Hajir Colony;240;1200;150;1;1;3;3;3;1;3;3;3;3;4;4;3;4;4;4;47
+Sylhet;11;911109004;;Lala Dighir par Purbo;Moner Miya Colony;200;500;150;1;1;2;1;2;4;3;3;3;3;4;4;3;4;1;4;43
+Sylhet;11;911109005;;Lala Dighir par Purbo;Kumar Bari;200;1000;150;1;1;3;1;2;2;3;3;3;3;4;4;3;4;1;4;42
+Sylhet;11;911109006;;Lala Dighir par Purbo;Yakil Miyar Colony;120;600;150;1;1;3;1;2;2;3;3;3;3;4;4;1;4;1;4;40
+Sylhet;11;911110001;;Lala Dghir Par Poschim;Monepuri Bostee;250;1250;100;2;3;3;1;1;3;3;3;3;3;4;4;4;4;4;4;49
+Sylhet;11;911110002;;Lala Dghir Par Poschim;Tota Miyar Colony;100;550;100;3;4;2;1;3;3;3;3;3;3;2;4;3;4;1;4;46
+Sylhet;11;911110003;;Lala Dghir Par Poschim;Haji Bosor Uddain AR Colony;240;1200;100;1;1;3;1;1;3;3;3;3;3;4;4;4;4;1;4;43
+Sylhet;11;911110004;;Lala Dghir Par Poschim;Babu Miyar Colony;140;750;100;1;1;3;1;3;4;3;3;3;3;4;4;3;4;1;4;45
+Sylhet;11;911110005;;Lala Dghir Par Poschim;Kuddus Miyar Colony;100;500;80;3;3;3;1;3;4;3;3;3;3;3;4;3;4;1;4;48
+Sylhet;11;911110006;;Lala Dghir Par Poschim;Teya Miya Colony;40;200;15;1;3;3;1;1;1;1;1;3;3;2;3;1;4;1;4;33
+Sylhet;11;911110007;;Lala Dghir Par Poschim;Lrton Miya Colony;15;70;100;1;1;3;1;2;2;2;3;3;3;4;4;3;4;1;4;41
+Sylhet;11;911110008;;Lala Dghir Par Poschim;Sajjad Miya Colony;40;280;100;4;3;3;1;3;3;3;3;3;3;4;4;3;4;1;4;49
+Sylhet;11;911110009;;Lala Dghir Par Poschim;Abdul Kalam Colony;20;70;50;3;4;3;1;1;1;3;4;3;3;4;2;3;4;1;4;44
+Sylhet;11;911110010;;Lala Dghir Par Poschim;Chunu Miyar Colony;30;120;100;3;3;3;3;3;2;4;4;3;2;2;4;4;4;4;4;52
+Sylhet;11;911110011;;Lala Dghir Par Poschim;Sunu Miya;120;600;100;1;1;4;1;1;2;1;2;2;3;4;4;1;4;1;4;36
+Sylhet;12;911201001;;Kuarpar;Kanner Kanan;120;600;500;1;1;3;2;1;2;3;2;3;2;2;4;1;3;1;3;34
+Sylhet;12;911201002;;Kuarpar;Apon Miyar Colony;90;450;500;1;1;3;2;1;2;2;3;3;3;3;2;1;3;4;3;37
+Sylhet;12;911201003;;Kuarpar;Bokul Miya Colony;200;1000;500;1;1;4;2;1;2;2;2;3;2;2;2;1;3;4;3;35
+Sylhet;12;911201004;;Kuarpar;Afroj Miyar Bari;160;800;500;1;1;3;2;1;2;2;3;3;3;2;2;1;3;1;3;33
+Sylhet;12;911201005;;Kuarpar;Moten Miyar Colony;200;1000;500;1;1;2;1;1;1;2;2;3;2;2;2;1;3;1;3;28
+Sylhet;12;911201006;;Kuarpar;Mijan Ajij;300;1500;700;1;1;3;2;2;2;3;2;3;3;1;2;1;3;1;3;33
+Sylhet;12;911202001;;BrehattaraVangatikar Para;Jahangir Miyar Colony;700;2500;50;1;1;3;2;1;2;2;2;3;2;2;4;1;3;1;3;33
+Sylhet;12;911202002;;BrehattaraVangatikar Para;Anjur Miyar Colony;250;1250;50;1;1;3;1;1;2;2;2;3;2;1;2;1;3;1;3;29
+Sylhet;12;911202003;;BrehattaraVangatikar Para;Askir Miyar Colony;150;750;50;1;1;3;1;2;1;2;2;3;2;1;3;1;3;1;3;30
+Sylhet;12;911202004;;BrehattaraVangatikar Para;Tunu Babur Colony;60;250;700;1;1;3;2;1;2;2;3;3;2;2;3;1;3;1;3;33
+Sylhet;12;911202005;;BrehattaraVangatikar Para;Madber Colony;100;500;700;1;1;2;2;1;2;2;2;3;2;3;2;1;1;1;3;29
+Sylhet;12;911202006;;BrehattaraVangatikar Para;Sumon Ar Colony;170;850;700;1;1;3;1;1;3;3;2;3;1;2;4;1;3;1;3;33
+Sylhet;12;911202007;;BrehattaraVangatikar Para;Minu Miyar Colony;100;500;700;1;1;3;2;1;2;2;2;3;2;2;3;1;3;1;3;32
+Sylhet;12;911202008;;BrehattaraVangatikar Para;Gothon Nath Mondor Alaka;280;1400;700;1;1;3;1;1;1;2;2;3;2;2;2;1;3;1;3;29
+Sylhet;12;911203001;;PaschimShekhGaat;Nejam Miyar Colony;100;500;60;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911203002;;PaschimShekhGaat;DuDhu Miyar Colony;1500;7500;100;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911203003;;PaschimShekhGaat;Iqbal Ar Colony;150;2500;80;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911203004;;PaschimShekhGaat;Hafij Miyar Colony;200;1000;70;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911203005;;PaschimShekhGaat;Fokir Miyar Colony;80;400;100;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911203006;;PaschimShekhGaat;Hajerar Colony;70;350;100;1;1;3;2;1;4;2;1;3;3;2;4;1;3;3;3;37
+Sylhet;12;911203007;;PaschimShekhGaat;Shepu Miyar Colony;100;2000;80;1;1;4;3;4;1;4;4;1;4;1;4;1;3;1;3;40
+Sylhet;12;911203008;;PaschimShekhGaat;Kaleder Colony;70;350;70;1;1;3;2;1;4;2;1;3;3;2;4;1;3;3;3;37
+Sylhet;12;911203009;;PaschimShekhGaat;Joher Miyar Colony;100;500;90;1;1;4;2;3;1;2;4;3;3;2;4;1;3;3;3;40
+Sylhet;12;911203010;;PaschimShekhGaat;Mojibur Colony;70;350;50;1;1;3;2;1;4;2;1;3;3;2;4;1;3;3;3;37
+Sylhet;12;911204001;;Nabab Road;Gorur Farmer Uttor Colony;100;500;130;1;1;3;2;1;2;3;3;3;3;1;3;1;3;1;3;34
+Sylhet;12;911204002;;Nabab Road;Foisal Colony;100;500;300;1;1;3;2;1;2;3;3;3;3;1;3;1;3;1;3;34
+Sylhet;12;911205001;;Sheikh Ghatt Forest Colony;Forest Colony;100;500;110;1;1;4;2;4;1;2;4;3;3;2;4;1;3;3;3;41
+Sylhet;12;911206001;;"Sheikh Ghatt Nandi Para 
+and PaschimKazir Bazar";Jongu Shema Colony;200;1000;600;1;1;3;1;2;2;2;2;3;2;2;3;2;3;4;2;35
+Sylhet;12;911206002;;"Sheikh Ghatt Nandi Para 
+and PaschimKazir Bazar";Basar Miyar Colony;1000;5000;500;1;1;2;2;2;1;2;3;3;3;2;2;1;3;3;3;34
+Sylhet;12;911206003;;"Sheikh Ghatt Nandi Para 
+and PaschimKazir Bazar";Maikusa Goli;1500;7500;800;1;1;3;1;1;2;2;2;3;3;2;3;2;2;2;3;33
+Sylhet;12;911206004;;"Sheikh Ghatt Nandi Para 
+and PaschimKazir Bazar";Lahen Miyar Colony;60;300;600;2;4;3;2;2;3;2;3;1;2;3;2;3;2;3;3;40
+Sylhet;12;911207001;;Sheikh GhattShilpoElaka;Shepu Miyar Colony;90;450;90;1;1;3;2;1;2;4;1;3;2;1;3;1;3;1;3;32
+Sylhet;12;911207002;;Sheikh GhattShilpoElaka;Hamid Miyar Colony;100;500;70;1;1;3;2;1;4;3;3;3;2;1;3;1;3;1;3;35
+Sylhet;12;911207003;;Sheikh GhattShilpoElaka;Rement Colony;100;500;105;1;1;3;2;1;2;3;3;3;3;1;3;1;3;1;3;34
+Sylhet;12;911207004;;Sheikh GhattShilpoElaka;Bachu Miyar Colony;100;500;90;1;1;3;2;1;4;3;3;3;2;1;3;1;3;1;3;35
+Sylhet;12;911207005;;Sheikh GhattShilpoElaka;Al Taburer Colony;100;500;90;1;1;3;2;1;2;3;3;3;3;1;3;1;3;1;3;34
+Sylhet;12;911208001;;SawdagorTola;Rehel Miyar Colony;300;1500;600;1;1;2;2;1;3;2;2;3;3;3;2;4;3;4;3;39
+Sylhet;12;911208002;;SawdagorTola;Babul Miyar Colony;300;1500;600;1;1;4;2;2;2;3;2;3;1;2;2;2;3;4;3;37
+Sylhet;12;911208003;;SawdagorTola;Sofek Miyar Colony;150;750;600;1;1;3;2;1;2;2;2;3;3;1;3;1;3;2;3;33
+Sylhet;12;911208004;;SawdagorTola;Repon Condo Das Colony;60;300;700;1;1;2;2;1;2;2;2;3;2;3;3;2;1;3;3;33
+Sylhet;12;911208005;;SawdagorTola;Salam Miyar Colony;70;350;700;1;1;3;1;1;2;2;2;3;2;2;3;4;1;4;3;35
+Sylhet;12;911208006;;SawdagorTola;Jabed Miya;70;350;700;1;2;3;1;2;3;3;3;2;2;4;2;3;2;2;4;39
+Sylhet;12;911209001;;BrehattaraShekhGaat;Chan Miyar Basa;200;1000;700;1;1;3;1;2;2;2;2;3;2;2;3;2;1;2;3;32
+Sylhet;12;911209002;;BrehattaraShekhGaat;Daroga Bari;50;250;100;1;1;3;1;1;1;4;1;3;2;3;4;1;1;4;4;35
+Sylhet;12;911209003;;BrehattaraShekhGaat;Nur Uddain Miya;100;500;700;1;1;3;2;2;1;1;3;2;2;3;2;3;2;3;3;34
+Sylhet;12;911209004;;BrehattaraShekhGaat;Muhebur Rahmaner Colony;200;1000;700;1;1;3;1;2;2;2;2;3;2;1;3;1;2;3;3;32
+Sylhet;12;911209005;;BrehattaraShekhGaat;Foju Miyar Colony;2000;10000;700;1;1;3;2;1;2;2;2;3;2;3;2;1;1;3;3;32
+Sylhet;12;911209006;;BrehattaraShekhGaat;Afaj Miya;200;1000;500;1;1;3;2;2;3;2;2;3;2;1;2;1;2;3;3;33
+Sylhet;12;911209007;;BrehattaraShekhGaat;Soi Ullah Colony;250;1250;700;1;1;3;1;2;2;2;2;3;2;1;3;1;1;4;4;33
+Sylhet;12;911209008;;BrehattaraShekhGaat;Helal Miyar Colony;1500;7500;800;1;1;2;2;2;2;3;2;2;1;2;2;3;3;3;3;34
+Sylhet;12;911209009;;BrehattaraShekhGaat;Hayat Ullah Haji;2000;10000;700;2;3;4;3;1;2;2;2;2;2;2;2;2;2;2;2;35
+Sylhet;13;911301001;;Munipuri Raj Bari;Faruk Miyar Colony;75;375;60;3;3;3;3;2;2;4;3;3;3;3;3;2;2;1;1;41
+Sylhet;13;911302001;;Dighir Par &MacheeDigir Par;Joinal Miyar Colony;35;175;60;4;3;3;3;2;3;3;3;3;3;2;2;1;2;1;1;39
+Sylhet;13;911302002;;Dighir Par &MacheeDigir Par;Masudegar Par;10;50;40;4;4;3;3;3;2;3;2;2;3;2;2;2;3;1;1;40
+Sylhet;13;911302003;;Dighir Par &MacheeDigir Par;Sajur Colony;25;150;15;4;3;3;3;3;2;3;3;3;3;2;3;1;2;1;1;40
+Sylhet;13;911302004;;Dighir Par &MacheeDigir Par;Samsur Colony;50;250;40;4;3;3;3;2;3;3;3;3;3;2;2;1;2;1;1;39
+Sylhet;13;911302005;;Dighir Par &MacheeDigir Par;Shamim Miyar Colony;15;75;60;3;3;3;3;2;2;3;3;2;3;2;2;1;2;1;1;36
+Sylhet;13;911303001;;TeliHaor&Taltola;Lolon Colony;40;200;15;2;1;3;1;2;3;3;3;2;3;3;3;1;2;1;1;34
+Sylhet;13;911303002;;TeliHaor&Taltola;Motin Miyar Colony;50;200;20;2;1;3;1;3;2;3;3;2;3;3;3;1;2;1;1;34
+Sylhet;13;911303003;;TeliHaor&Taltola;Mannan Miyar Colony;30;150;15;2;1;3;1;2;3;3;3;2;3;3;3;1;2;1;1;34
+Sylhet;13;911303004;;TeliHaor&Taltola;Yasmin Miyar Colony;25;125;15;3;2;3;3;3;3;3;3;3;3;3;3;1;2;1;1;40
+Sylhet;13;911304001;;Jamtola;Abul Colony;15;75;50;3;3;3;3;2;3;3;3;2;3;2;2;2;2;1;1;38
+Sylhet;13;911305001;;Kazir Bazar;Afsar Miyar Colony;100;500;80;2;2;3;1;2;2;2;2;3;3;2;3;1;3;1;3;35
+Sylhet;13;911305002;;Kazir Bazar;Afrsal Miyar Colony;100;500;50;2;3;3;2;2;2;2;2;2;3;1;4;1;1;1;1;32
+Sylhet;13;911305003;;Kazir Bazar;Mannan Miya;20;100;80;2;1;3;2;2;2;3;3;2;3;2;2;3;4;1;4;39
+Sylhet;13;911305004;;Kazir Bazar;Afsar Miyar Colony;100;500;40;2;3;3;2;2;2;3;2;2;3;2;4;2;1;1;1;35
+Sylhet;13;911305005;;Kazir Bazar;Nasir Miyar Colony;40;200;25;2;1;3;1;2;2;3;2;2;3;2;2;1;1;1;1;29
+Sylhet;13;911306001;;ChadniGhat&Tupkhana;Suja Miyar Colony;50;250;20;2;2;3;2;2;2;2;3;3;3;2;3;1;3;1;3;37
+Sylhet;13;911307001;;Khulia&ShekhNasir Ali;Porar Umor Onil Mollik Ar Colony;80;400;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;13;911307002;;Khulia&ShekhNasir Ali;Muneyatola;60;300;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;13;911307003;;Khulia&ShekhNasir Ali;Shek Nasir Ali Road Colony;150;700;100;2;1;3;1;1;2;4;3;2;3;2;3;1;4;4;4;40
+Sylhet;13;911307004;;Khulia&ShekhNasir Ali;Badam Bostee;180;900;120;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;13;911307005;;Khulia&ShekhNasir Ali;Khuliyatola Jame Masjeed Ar Purbo Pashe;100;500;100;2;1;3;1;1;2;4;3;3;3;2;4;1;4;4;4;42
+Sylhet;13;911307006;;Khulia&ShekhNasir Ali;Dulai Beber Colony;250;1250;110;2;1;3;1;1;2;3;3;2;3;2;3;1;4;4;4;39
+Sylhet;13;911307007;;Khulia&ShekhNasir Ali;Shek Par Purbo Colony;200;1000;125;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;13;911308001;;Lama Bazar;"LamaBazar Prathomic Besho 
+Beddaloi Ar Pischim Pashe";60;300;100;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;13;911308002;;Lama Bazar;Mandarer Said;200;1000;110;2;1;3;1;1;2;4;3;2;3;2;4;1;4;4;4;41
+Sylhet;13;911308003;;Lama Bazar;Gosh Par;90;450;100;2;1;3;1;1;2;3;3;2;3;2;4;1;4;4;4;40
+Sylhet;13;911310001;;MogolTola;Rajja Miya;30;200;25;2;3;3;3;2;2;2;2;2;3;3;2;1;2;1;1;34
+Sylhet;13;911310002;;MogolTola;Israk Miyar Colony;20;100;20;2;3;3;3;2;2;3;2;2;3;2;2;1;2;1;1;34
+Sylhet;14;911401001;;Charar Par;Sabbir Colony;5;25;40;1;3;4;1;1;1;4;1;3;2;3;1;1;1;1;1;29
+Sylhet;14;911401002;;Charar Par;Sabbir Miyar Colony;50;250;40;1;3;4;1;1;1;4;1;3;2;3;1;1;1;1;1;29
+Sylhet;14;911401003;;Charar Par;Sabbir Coloner Pashe;5;25;30;1;3;4;1;1;1;4;2;3;2;3;1;1;1;1;1;30
+Sylhet;14;911401004;;Charar Par;Badorul O Hok Miya Colony;70;350;100;1;3;4;2;1;3;4;2;3;2;2;2;1;1;1;1;33
+Sylhet;14;911401005;;Charar Par;Jahangir Miya Colony;70;350;100;4;3;4;3;3;2;4;2;3;2;2;1;1;3;1;1;39
+Sylhet;14;911401006;;Charar Par;Abdullah Colony;10;50;100;4;3;4;3;3;2;4;2;3;2;3;1;1;3;1;1;40
+Sylhet;14;911401007;;Charar Par;Amir Ali Colony;40;200;100;4;3;4;3;3;2;4;2;3;1;3;1;1;3;1;1;39
+Sylhet;14;911401008;;Charar Par;Ukil Colony;25;75;100;4;3;4;3;2;2;3;2;3;2;2;1;1;3;1;1;37
+Sylhet;14;911401009;;Charar Par;Munes Miya Colony;250;1250;100;4;3;4;3;2;2;3;2;3;2;2;1;1;3;1;1;37
+Sylhet;14;911401010;;Charar Par;Enganeyar Manik Miyar Colony;10;50;100;4;3;4;3;2;2;3;2;3;2;2;1;1;3;1;1;37
+Sylhet;14;911401011;;Charar Par;Mojloi Miya Colony;25;75;10;4;3;4;3;2;2;3;2;3;2;2;1;1;3;1;1;37
+Sylhet;14;911401012;;Charar Par;Bagicha Colony;80;400;100;4;3;4;3;2;1;4;2;3;2;2;1;2;3;1;1;38
+Sylhet;14;911401013;;Charar Par;Kutur Cander Colony;10;50;50;4;3;4;3;2;2;4;3;3;3;2;1;1;3;1;1;40
+Sylhet;14;911401014;;Charar Par;Hajir Colony;12;60;50;4;3;4;3;2;2;4;2;3;2;2;1;1;3;1;1;38
+Sylhet;14;911401015;;Charar Par;Meyor Clony;80;400;100;4;3;4;3;2;2;2;2;3;2;2;1;1;2;1;1;35
+Sylhet;14;911401016;;Charar Par;Motener Colony;80;400;100;4;3;4;3;2;2;4;3;3;2;2;1;1;3;1;1;39
+Sylhet;14;911402001;;Amjad Ali Road;Loha Haji Colony;70;350;90;1;1;4;1;1;3;4;3;3;2;3;1;2;1;1;1;32
+Sylhet;14;911402002;;Amjad Ali Road;Sattar Miyar Colony;40;200;50;1;1;4;1;1;2;2;3;3;2;2;1;2;1;1;1;28
+Sylhet;14;911403001;;Kamal Gar;Sundor Ali O Saryar Colony;45;250;8;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;2;38
+Sylhet;14;911403002;;Kamal Gar;Shamol Babu O Dulal Miya Colony;30;150;7;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;1;37
+Sylhet;14;911403003;;Kamal Gar;Jahangir Miya O Haji Miya Colony;70;350;30;1;1;4;1;1;1;1;2;3;2;3;3;1;4;1;1;30
+Sylhet;14;911403004;;Kamal Gar;Harun Miya O Shakil Miya Colony;40;200;20;3;2;4;2;2;3;1;1;3;2;3;3;2;3;1;2;37
+Sylhet;14;911403005;;Kamal Gar;Monir Miya Colony;30;150;50;1;1;4;1;1;2;3;1;3;2;3;3;2;3;1;2;33
+Sylhet;14;911403006;;Kamal Gar;Kamol Miya Colony;40;250;20;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;2;38
+Sylhet;14;911403007;;Kamal Gar;Jofu Miya O Khan Colony;60;300;40;3;2;4;2;2;3;3;1;3;2;3;2;2;3;1;2;38
+Sylhet;14;911403008;;Kamal Gar;Jamol Miya Colony;15;75;40;1;1;3;1;3;1;4;1;1;2;4;3;1;4;1;3;34
+Sylhet;14;911404001;;Chali Bandar;Lohajir Colonyr Saide;50;250;100;1;1;1;1;1;2;4;4;3;2;3;3;1;2;1;1;31
+Sylhet;14;911404002;;Chali Bandar;Torofdarer Colony;50;250;100;1;1;3;1;2;2;4;3;3;2;4;1;1;2;1;1;32
+Sylhet;14;911404003;;Chali Bandar;Ukil Colony;20;100;50;1;1;3;1;1;2;4;3;3;2;3;1;1;2;1;1;30
+Sylhet;14;911404004;;Chali Bandar;Dulal Miyar Colony;30;150;50;1;3;3;1;1;4;4;1;3;2;3;1;1;2;1;1;32
+Sylhet;14;911405001;;Kastto Gar &MahajanPolli;Chunu Miyar Colony;20;100;60;4;3;4;2;2;2;2;2;2;1;2;1;1;2;1;1;32
+Sylhet;14;911405002;;Kastto Gar &MahajanPolli;MP Saheber Colony;30;150;80;4;3;4;2;2;1;2;2;2;1;2;1;2;2;1;1;32
+Sylhet;14;911405003;;Kastto Gar &MahajanPolli;Bor Barir Colony;100;500;105;4;3;4;4;2;2;2;2;2;1;2;1;1;2;1;1;34
+Sylhet;14;911405004;;Kastto Gar &MahajanPolli;Rasel Rahmaner Colony;30;150;80;4;3;4;4;2;2;2;2;2;1;2;1;1;2;1;1;34
+Sylhet;14;911405005;;Kastto Gar &MahajanPolli;Topur Colony;10;50;70;4;3;4;2;2;1;2;2;2;1;2;1;1;2;1;1;31
+Sylhet;14;911405006;;Kastto Gar &MahajanPolli;Ali Talukdarir Pichon Ar Colony;60;360;9;4;3;3;2;2;1;1;2;1;2;1;1;2;3;1;1;30
+Sylhet;14;911405007;;Kastto Gar &MahajanPolli;Faruk Miyar Colony;12;60;40;4;3;4;2;2;2;1;2;3;1;2;1;1;2;1;1;32
+Sylhet;14;911406001;;Jallar Par &Zinda Bazar;Sofek Miyar Colony;50;260;40;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;2;38
+Sylhet;14;911406002;;Jallar Par &Zinda Bazar;Basur Miyar Colony;65;290;50;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;2;38
+Sylhet;14;911406003;;Jallar Par &Zinda Bazar;Sehab Miyar Colony;70;320;45;3;2;4;2;2;2;3;1;3;2;3;3;2;3;1;2;38
+Sylhet;14;911406004;;Jallar Par &Zinda Bazar;Bosher Miyar Colony;75;340;60;3;2;4;2;2;2;3;1;3;2;2;3;2;3;1;2;37
+Sylhet;14;911407001;;Jamatola One Side;Samsod Miyar Colony;142;910;30;2;2;3;2;2;2;2;3;2;3;3;1;1;4;4;4;40
+Sylhet;14;911407002;;Jamatola One Side;Kalu Miyar Colony;70;375;35;2;2;3;2;2;2;2;3;3;3;2;1;1;2;1;1;32
+Sylhet;14;911407003;;Jamatola One Side;Ishak Miyar Colony;25;140;25;2;1;3;2;2;2;2;3;3;3;2;2;1;3;1;2;34
+Sylhet;14;911408001;;Taltola;Abor Miyar Colony;10;50;11;1;1;3;2;1;3;3;3;1;2;4;1;3;4;1;3;36
+Sylhet;14;911408002;;Taltola;Repon Miyar Colony;9;42;12;1;1;3;2;1;3;1;3;1;2;4;1;3;4;1;3;34
+Sylhet;14;911409001;;Kalighat;Kayes Miyar Colony;35;160;120;3;3;4;2;3;2;3;3;3;2;1;3;2;1;1;1;37
+Sylhet;14;911409002;;Kalighat;Kali Bari Colony;70;350;170;3;3;4;3;2;3;3;3;3;2;1;2;1;1;1;1;36
+Sylhet;14;911409003;;Kalighat;Hafer Colony;30;150;250;3;3;4;4;2;3;3;3;3;2;1;2;2;1;1;1;38
+Sylhet;14;911409004;;Kalighat;Helal Miyar Colony;30;150;110;3;3;4;4;2;3;2;3;3;2;1;2;2;1;1;1;37
+Sylhet;14;911409005;;Kalighat;Aftar Miyar Colony;15;70;150;3;2;4;2;1;2;3;3;3;2;1;2;2;1;1;1;33
+Sylhet;15;911501001;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Usub Miyar Colony;30;150;85;2;3;3;2;3;3;3;3;2;3;2;1;1;2;1;3;37
+Sylhet;15;911501002;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Masum Miyar Bosoty;10;50;12;2;3;3;3;3;3;3;3;3;3;2;2;1;2;1;2;39
+Sylhet;15;911501003;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Kobiraj Bari Colony;20;100;45;2;2;3;3;2;3;3;3;3;3;2;1;1;2;1;4;38
+Sylhet;15;911501004;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Lal Miyar Colony;6;30;20;1;2;3;3;3;3;3;3;3;3;1;2;1;2;1;2;36
+Sylhet;15;911501005;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Habib Miyar Colony;40;200;120;2;3;3;2;3;2;3;3;3;3;1;2;1;2;1;2;36
+Sylhet;15;911501006;;"naiur pull/noyapara
+/subhani ghat north side/jotorpur";Wahid Miyar Basha;10;50;10;2;2;3;3;2;2;3;3;3;3;1;2;1;2;1;2;35
+Sylhet;15;911502001;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Moina Miyar Colony;200;1000;100;2;1;4;1;4;3;2;3;2;2;1;1;1;2;1;1;31
+Sylhet;15;911502002;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Joinaler Colony;15;125;20;1;2;4;1;2;2;2;2;2;2;1;2;1;1;1;1;27
+Sylhet;15;911502003;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Master Bari;20;100;10;3;2;1;2;3;3;2;1;2;3;2;1;1;2;2;4;34
+Sylhet;15;911502004;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Mukid Miyar Colony;200;1000;150;1;2;3;1;2;2;2;3;3;3;2;3;1;1;1;4;34
+Sylhet;15;911502005;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Hera Miyar Colony;150;750;150;2;2;3;1;4;3;3;3;3;3;1;1;1;2;1;3;36
+Sylhet;15;911502006;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Mukut Miyar Colony;150;750;100;2;2;3;2;2;2;2;3;2;2;2;1;1;1;1;2;30
+Sylhet;15;911502007;;"shubhani ghat/joturpur bazar
+/shubhanibag south side/joturpur";Jelu Miyar Colony;10;50;100;2;1;3;3;2;3;3;3;2;3;2;1;1;2;1;1;33
+Sylhet;15;911503001;;Chalibondor;Boirob Khan Par;10;50;44;2;1;4;1;1;1;4;4;3;3;3;1;1;3;1;1;34
+Sylhet;15;911504001;;"Nairpul road west side/nairpu
+/dhupa dighir par/
+shubhani ghat west side/dhupdighi";Dhopadeya Par;10;50;80;2;3;4;3;2;3;4;4;3;3;3;4;1;3;1;1;44
+Sylhet;15;911504002;;"Nairpul road west side/nairpu
+/dhupa dighir par/
+shubhani ghat west side/dhupdighi";Naiyar Pul Colony;40;200;53;2;2;3;2;2;3;2;3;3;3;1;4;1;1;1;3;36
+Sylhet;15;911505001;;jail khana/ bondor bazar;Lal Bazar;4;43;20;2;3;3;2;3;2;3;3;3;3;1;1;1;2;1;2;35
+Sylhet;15;911505002;;jail khana/ bondor bazar;Popular Otor Picho Ar Colony;15;75;25;2;2;3;3;2;2;3;3;3;3;1;2;1;2;1;2;35
+Sylhet;15;911505003;;jail khana/ bondor bazar;Manik Miyar Colony;10;50;30;2;2;3;2;2;2;2;3;3;3;2;4;2;2;1;2;37
+Sylhet;15;911506001;;"puran lane/hinda bazar/
+barudkhan";Sha Shutki Bazar;10;50;80;2;3;4;1;2;3;4;4;3;3;3;4;1;4;1;1;43
+Sylhet;16;911601001;;Nayorpull-Kumarpara;Sumon Miar Colony;25;127;60;1;2;2;2;2;2;2;3;3;3;2;2;1;4;1;4;36
+Sylhet;16;911601002;;Nayorpull-Kumarpara;Minhaz Miar Colony;25;140;65;1;1;2;2;3;2;2;2;2;2;2;2;1;4;2;2;32
+Sylhet;16;911601003;;Nayorpull-Kumarpara;Juber Miar Colony;15;75;60;2;1;4;4;1;1;4;3;3;3;3;1;1;4;1;1;37
+Sylhet;16;911602001;;DhopadigirPaar, Sowdagortula;Dudu Miar BAri;15;80;75;1;2;2;2;2;2;2;2;3;3;2;2;1;2;4;4;36
+Sylhet;16;911602002;;DhopadigirPaar, Sowdagortula;Taher Miar Bari;12;80;65;3;3;2;2;2;2;2;3;3;3;2;4;1;4;2;4;42
+Sylhet;16;911602003;;DhopadigirPaar, Sowdagortula;Chondrir Bari;37;370;82;1;2;3;3;2;3;2;3;3;2;2;2;1;2;4;4;39
+Sylhet;16;911602004;;DhopadigirPaar, Sowdagortula;Sajjad Miar Colony;25;135;82;1;2;2;3;2;2;2;3;2;3;3;3;3;3;2;2;38
+Sylhet;16;911602005;;DhopadigirPaar, Sowdagortula;Ruhel Miar Colony;15;110;82;1;2;2;2;3;3;3;2;3;3;2;2;2;2;2;3;37
+Sylhet;16;911602006;;DhopadigirPaar, Sowdagortula;Pappur Colony;25;115;75;1;2;3;2;2;2;3;3;2;2;3;2;3;2;3;3;38
+Sylhet;16;911602007;;DhopadigirPaar, Sowdagortula;Jakir Miar Colony;25;135;72;2;2;2;3;3;2;3;3;3;3;3;4;1;4;4;4;46
+Sylhet;16;911602008;;DhopadigirPaar, Sowdagortula;Foyjuler Bari;45;240;70;1;2;2;2;3;2;2;3;3;3;2;4;1;4;2;2;38
+Sylhet;16;911602009;;DhopadigirPaar, Sowdagortula;Bari Miar Colony;74;520;85;1;2;2;2;3;2;3;3;3;3;3;4;1;4;2;2;40
+Sylhet;16;911602010;;DhopadigirPaar, Sowdagortula;Alfir Colony;16;110;58;1;2;2;2;3;2;2;3;3;3;2;4;1;4;4;4;42
+Sylhet;16;911602011;;DhopadigirPaar, Sowdagortula;Juneder Colony;22;140;65;1;2;2;3;2;2;2;3;3;3;2;2;4;4;4;4;43
+Sylhet;16;911602012;;DhopadigirPaar, Sowdagortula;Raju Miar Bari;25;135;85;2;1;4;4;1;1;4;3;3;3;3;1;1;4;1;1;37
+Sylhet;16;911603001;;Mozlish Amin- Cara DighirPaar;Shahib Miar Bari;5;30;55;2;2;3;2;2;2;2;3;2;3;2;2;2;1;2;2;34
+Sylhet;16;911603002;;Mozlish Amin- Cara DighirPaar;Babul Miar Bari;11;65;37;2;2;3;2;2;2;3;2;3;3;2;3;3;2;2;2;38
+Sylhet;16;911603003;;Mozlish Amin- Cara DighirPaar;Ayat Khaner Bari;20;125;56;1;2;3;2;2;2;2;2;3;3;1;2;1;4;1;4;35
+Sylhet;16;911603004;;Mozlish Amin- Cara DighirPaar;Shahjahan Miar Bari;22;132;42;1;2;3;2;2;2;2;3;3;3;2;2;2;2;3;4;38
+Sylhet;16;911603005;;Mozlish Amin- Cara DighirPaar;Badsharul Miar Bari;30;140;50;2;2;2;2;2;2;2;3;3;3;2;3;1;3;1;3;36
+Sylhet;16;911603006;;Mozlish Amin- Cara DighirPaar;Harun Miar Bari;21;110;20;1;2;2;3;3;2;2;3;2;2;2;3;3;1;2;2;35
+Sylhet;16;911603007;;Mozlish Amin- Cara DighirPaar;Selim Miar Bari;25;130;30;2;2;2;2;2;2;2;3;3;3;2;1;1;4;1;4;36
+Sylhet;16;911603008;;Mozlish Amin- Cara DighirPaar;Layek Mia;100;600;60;2;2;3;2;2;2;2;2;3;3;2;1;1;4;2;4;37
+Sylhet;16;911603009;;Mozlish Amin- Cara DighirPaar;Selim Miar Colony;55;160;65;1;2;2;2;2;2;2;3;3;3;2;3;1;4;1;4;37
+Sylhet;16;911603010;;Mozlish Amin- Cara DighirPaar;Moktar Miar Bari;35;175;65;1;1;1;2;3;1;2;3;3;3;3;2;1;4;2;4;36
+Sylhet;16;911604001;;"NayaSarakPurbaShahchandgazi
+Khandaura";Ata Miar Bari;30;155;50;1;1;4;2;2;2;3;1;1;1;3;3;1;4;3;3;35
+Sylhet;16;911604002;;"NayaSarakPurbaShahchandgazi
+Khandaura";Junel Miar Bari;40;210;40;1;2;3;2;2;2;2;2;1;1;2;2;3;4;3;3;35
+Sylhet;16;911604003;;"NayaSarakPurbaShahchandgazi
+Khandaura";Kamal Mia;40;230;40;2;3;3;3;2;3;3;2;1;1;2;2;2;3;3;3;38
+Sylhet;16;911604004;;"NayaSarakPurbaShahchandgazi
+Khandaura";Hannan Miar Bari;25;140;60;2;1;3;2;3;3;3;3;3;3;1;3;3;4;3;4;44
+Sylhet;16;911604005;;"NayaSarakPurbaShahchandgazi
+Khandaura";Ubamar Bari;20;105;40;2;2;3;2;3;3;3;3;3;3;2;3;3;4;2;2;43
+Sylhet;16;911604006;;"NayaSarakPurbaShahchandgazi
+Khandaura";Aruner Basa;10;55;45;2;2;4;1;2;4;4;3;1;4;2;4;4;4;3;3;47
+Sylhet;16;911605001;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Nijum Saima;25;145;50;2;2;4;2;3;3;4;3;2;2;2;3;3;1;2;3;41
+Sylhet;16;911605002;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Madrasha Area;10;55;100;4;4;3;2;3;4;4;3;3;3;2;4;3;4;1;3;50
+Sylhet;16;911605003;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Robi Afim;20;120;50;3;3;3;2;4;4;3;3;3;3;2;3;3;4;3;4;50
+Sylhet;16;911605004;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Mukoner Bari;15;150;50;4;1;4;2;3;3;4;3;4;2;2;4;4;4;4;3;51
+Sylhet;16;911605005;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Jubeder Bari;40;200;30;3;4;4;2;3;4;4;3;3;3;4;4;2;3;4;3;53
+Sylhet;16;911605006;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Yeamin Colony;40;250;30;2;1;3;1;3;3;4;2;1;2;1;2;1;1;1;3;31
+Sylhet;16;911605007;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Shipluer Bari;30;175;20;3;2;3;2;3;3;3;3;3;3;3;3;3;3;3;3;46
+Sylhet;16;911605008;;"NayaSarakPashcim, Khreshtan
+ Mission, Hawapara";Iron Mia;25;140;40;2;4;3;1;3;4;3;2;3;1;2;3;2;1;3;3;40
+Sylhet;16;911606001;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Mohila College Colony;20;105;40;2;2;4;1;3;4;4;2;3;2;2;4;3;4;1;3;44
+Sylhet;16;911606002;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Shitara Mansion Colony;27;130;30;1;2;2;3;2;2;2;3;3;3;2;2;4;4;4;4;43
+Sylhet;16;911606003;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Pannar Colony;20;110;40;1;2;3;3;2;2;1;2;1;1;1;3;3;3;3;3;34
+Sylhet;16;911606004;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Jamal Vai;10;55;80;2;4;4;3;4;4;4;3;4;2;4;3;2;4;3;3;53
+Sylhet;16;911606005;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Rumel Ahmed;5;30;25;2;2;3;3;2;2;2;2;1;1;1;3;3;3;3;3;36
+Sylhet;16;911606006;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Ruji Begum;25;100;50;2;3;3;3;3;3;4;2;3;3;1;3;3;2;4;3;45
+Sylhet;16;911606007;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Bazar Paint Malik;5;25;30;1;1;2;2;2;2;3;2;1;1;2;3;3;3;3;3;34
+Sylhet;16;911606008;;"Khandokartula, ChowhattaDakkin
+Tatipara, PurbaJindabazar";Azad Mia;30;150;25;1;2;4;4;4;4;4;4;1;4;1;3;4;4;4;3;51
+Sylhet;17;911701001;;Lahar Para;Jesminer Colony;23;132;32;2;1;4;2;3;1;3;4;3;3;3;1;1;2;1;1;35
+Sylhet;17;911701002;;Lahar Para;Selim Miar Colony;16;80;9;2;1;4;2;2;1;4;4;2;3;3;1;1;2;1;1;34
+Sylhet;17;911701003;;Lahar Para;Sacchu Miar Colony;18;97;24;2;3;3;4;3;3;1;4;1;3;3;3;2;2;2;1;40
+Sylhet;17;911701004;;Lahar Para;Kawsar Miar Colony;35;178;39;1;1;2;2;3;1;2;3;3;3;3;1;1;1;1;1;29
+Sylhet;17;911701005;;Lahar Para;Raihaner Colony;20;102;13;4;4;4;4;4;4;4;4;3;3;3;1;1;4;1;1;49
+Sylhet;17;911701006;;Lahar Para;Pabeler Colony;57;293;27;1;1;4;4;3;3;4;4;3;3;3;1;1;3;1;1;40
+Sylhet;17;911701007;;Lahar Para;Majar Goli;43;219;14;1;1;4;4;2;2;4;4;2;3;3;1;1;2;1;1;36
+Sylhet;17;911701008;;Lahar Para;Alamer Colony;17;89;13;1;1;4;4;2;2;4;4;3;3;1;1;1;2;1;1;35
+Sylhet;17;911701009;;Lahar Para;Akbar Miar Colony;35;183;10;1;3;4;3;3;2;4;4;3;3;2;1;1;2;1;1;38
+Sylhet;17;911701010;;Lahar Para;Saidullahr Colony;15;80;11;1;3;4;3;3;2;1;4;3;3;2;1;4;2;4;1;41
+Sylhet;17;911701011;;Lahar Para;Forhad Miar Colony;20;104;9;1;4;4;2;2;2;4;4;3;3;3;1;1;2;1;1;38
+Sylhet;17;911701012;;Lahar Para;Saimar Colony;20;106;14;2;3;4;3;2;3;1;4;3;3;1;3;1;2;4;1;40
+Sylhet;17;911701013;;Lahar Para;Salek Miar Colony;25;130;16;3;3;2;1;4;4;4;4;3;3;3;4;1;2;1;1;43
+Sylhet;17;911702001;;MoktabGali;Dhakaiya Colony;37;197;22;2;3;4;2;2;3;3;4;3;3;3;4;1;3;1;1;42
+Sylhet;17;911702002;;MoktabGali;Foisal Miar Colony;18;102;14;1;3;4;3;3;1;3;4;3;3;3;4;1;3;1;1;41
+Sylhet;17;911702003;;MoktabGali;Badsha Miar Colony;20;125;19;4;4;4;4;3;3;4;4;3;3;3;4;1;3;1;1;49
+Sylhet;17;911702004;;MoktabGali;Vuter Colony;18;96;25;1;1;4;2;4;3;4;4;3;3;1;1;1;2;1;1;36
+Sylhet;17;911702005;;MoktabGali;Maruf Dr. Colony;13;78;13;1;3;4;2;4;2;4;4;3;3;3;1;1;3;1;1;40
+Sylhet;17;911702006;;MoktabGali;Showkat Miar Colony;42;223;25;3;1;4;4;4;3;4;4;3;3;3;1;1;4;1;1;44
+Sylhet;17;911702007;;MoktabGali;Mohsin Miar Colony;93;605;48;1;1;3;1;2;1;1;3;3;3;3;1;1;2;1;1;28
+Sylhet;17;911702008;;MoktabGali;Mohammad Ali Colony;22;110;17;1;1;3;2;1;2;2;2;3;3;2;1;1;2;1;1;28
+Sylhet;17;911703001;;Rakib Shah Gali;Ata Miar Colony;13;68;18;1;2;4;4;2;1;2;4;2;2;1;1;1;4;1;1;33
+Sylhet;17;911703002;;Rakib Shah Gali;Hasan Miar Colony;34;178;17;1;2;3;2;4;3;1;1;3;4;3;2;1;4;4;1;39
+Sylhet;17;911703003;;Rakib Shah Gali;Kamal Miar Colony;16;87;14;2;3;3;4;2;2;4;4;3;4;3;4;1;3;1;1;44
+Sylhet;17;911703004;;Rakib Shah Gali;Muktqar Colony;17;91;12;1;2;1;1;2;2;1;1;3;3;1;2;1;3;1;1;26
+Sylhet;17;911703005;;Rakib Shah Gali;Munnar Colony;10;53;13;2;3;2;4;2;2;4;4;3;4;1;1;1;3;1;1;38
+Sylhet;17;911703006;;Rakib Shah Gali;Sadek Miar Colony;17;88;22;1;3;3;4;3;3;4;4;3;4;4;1;2;2;1;1;43
+Sylhet;17;911703007;;Rakib Shah Gali;Murad Miar Colony;18;98;18;1;3;4;4;2;3;4;4;3;4;3;1;1;3;1;1;42
+Sylhet;17;911704001;;Inshan Shah;Ata Mia;30;150;20;1;3;4;2;3;2;1;3;3;3;3;3;3;4;2;3;43
+Sylhet;17;911704002;;Inshan Shah;Jahanara;35;175;50;3;2;4;4;2;2;2;3;3;3;3;2;4;4;2;4;47
+Sylhet;17;911704003;;Inshan Shah;Subhan;43;215;15;1;2;2;3;3;2;3;3;1;2;4;2;3;4;4;4;43
+Sylhet;17;911704004;;Inshan Shah;Maku Miar Colony;42;210;18;1;2;2;2;2;2;2;3;2;2;2;3;3;4;3;4;39
+Sylhet;17;911705001;;KaherMiyaGali;Maruf Miar Colony;19;105;10;2;3;4;2;1;1;3;4;1;3;3;4;1;3;1;1;37
+Sylhet;17;911705002;;KaherMiyaGali;Harun Miar Colony;12;65;11;2;3;4;2;1;1;3;4;1;3;3;4;1;3;1;1;37
+Sylhet;17;911705003;;KaherMiyaGali;Ataur Miar Colony;15;75;9;2;3;4;2;1;1;3;2;1;3;3;4;1;3;1;1;35
+Sylhet;17;911706001;;AntorangoGali;Mostak Miar Colony;23;127;17;3;4;2;4;3;3;4;4;1;4;3;2;1;1;4;2;45
+Sylhet;17;911706002;;AntorangoGali;Sadek Miar Colony;17;93;13;1;4;4;4;3;2;4;4;3;4;4;2;1;1;1;1;43
+Sylhet;17;911706003;;AntorangoGali;Kutub Miar Colony;18;93;22;3;3;4;4;2;4;4;4;3;4;3;2;1;1;1;1;44
+Sylhet;17;911706004;;AntorangoGali;Topur Colony;19;97;27;1;3;4;4;2;2;1;4;3;3;3;2;1;1;1;1;36
+Sylhet;17;911707001;;KaziTola Main Road;Suma Begumer Basa;16;86;21;3;3;4;4;4;4;4;4;3;4;3;4;4;3;1;1;53
+Sylhet;17;911707002;;KaziTola Main Road;Rehena Begumer Basa;19;96;18;4;4;4;4;2;2;4;4;3;4;3;1;1;2;1;1;44
+Sylhet;17;911707003;;KaziTola Main Road;Kazi tula;11;61;14;4;4;4;4;2;2;4;4;3;4;3;1;1;3;1;1;45
+Sylhet;17;911707004;;KaziTola Main Road;Shaki Miar Colony;22;117;24;4;4;4;4;3;2;1;4;3;4;3;3;1;2;1;1;44
+Sylhet;17;911707005;;KaziTola Main Road;Mongla Miar Colony;16;87;11;1;1;2;2;2;2;4;4;1;4;4;1;1;3;1;1;34
+Sylhet;17;911708001;;ChandanTola;Masjid Goli;30;230;10;3;2;4;3;3;3;3;2;2;3;3;4;3;1;4;3;46
+Sylhet;17;911709001;;Mir Box Tola;Manik Miar Colony;13;75;13;1;4;2;4;4;4;1;4;3;3;3;4;1;2;1;1;42
+Sylhet;17;911709002;;Mir Box Tola;Shahjahan er Colony;20;103;13;2;3;4;4;2;2;1;3;3;4;3;3;1;3;1;4;43
+Sylhet;17;911709003;;Mir Box Tola;Doctorer Colony;18;97;14;1;1;1;3;2;2;4;4;3;4;3;2;1;2;1;1;35
+Sylhet;17;911709004;;Mir Box Tola;Asiru Miar Colony;17;93;18;1;1;2;4;2;2;4;4;3;4;3;1;1;3;1;1;37
+Sylhet;17;911709005;;Mir Box Tola;Momtur Colony;30;157;25;1;1;1;2;3;2;4;3;3;4;3;1;1;4;1;1;35
+Sylhet;17;911709006;;Mir Box Tola;Milad Miar Colony;30;153;16;1;2;2;3;4;2;1;4;3;2;1;3;3;4;1;1;37
+Sylhet;18;911801001;;"Purbo Mira Bazar+ 
+Mukter Khaki Mani";Mirabazar;20;200;30;2;2;3;4;1;3;3;3;3;3;3;2;1;3;4;4;44
+Sylhet;18;911801002;;"Purbo Mira Bazar+ 
+Mukter Khaki Mani";Mishur Colony;30;150;35;2;2;3;4;1;3;3;3;3;3;3;2;1;3;4;4;44
+Sylhet;18;911801003;;"Purbo Mira Bazar+ 
+Mukter Khaki Mani";Panna Mia Colony;25;125;35;2;2;2;3;3;1;3;4;3;3;3;3;2;1;3;4;42
+Sylhet;18;911802001;;Jerjeri Para + Kumar Para;Emoner Chachar colony;15;80;25;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911802002;;Jerjeri Para + Kumar Para;Emoner colony;30;160;10;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911802003;;Jerjeri Para + Kumar Para;Tarek Miar colony;25;130;20;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911802004;;Jerjeri Para + Kumar Para;Shahin Miar Colony;40;210;29;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911802005;;Jerjeri Para + Kumar Para;Ariful Haquer Colony;25;125;30;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911802006;;Jerjeri Para + Kumar Para;Sojib Miar Colony;45;230;25;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911803001;;"Akhari Para+ Shakhari 
+Para+ Vaiya Para";Shamu shimar colony;32;160;40;2;2;3;4;1;3;2;3;3;3;2;2;1;3;1;4;39
+Sylhet;18;911803002;;"Akhari Para+ Shakhari 
+Para+ Vaiya Para";Hanif Miar colony;37;185;40;2;2;3;4;1;3;2;3;3;3;2;2;1;3;1;4;39
+Sylhet;18;911803003;;"Akhari Para+ Shakhari 
+Para+ Vaiya Para";Uzzal Miar colony;250;1250;35;2;2;3;4;1;3;2;3;3;3;2;2;1;3;1;4;39
+Sylhet;18;911803004;;"Akhari Para+ Shakhari 
+Para+ Vaiya Para";Ata Mia Colony;10;50;30;2;2;3;4;2;4;4;3;4;3;3;3;1;3;1;3;45
+Sylhet;18;911804001;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Kala Miar Colony;35;185;30;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911804002;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Masuk Miar Colony;30;150;32;2;3;3;4;3;3;3;3;3;3;3;3;1;4;4;4;49
+Sylhet;18;911804003;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Fakhrul Miar Basa;8;40;20;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911804004;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Rainagar rajbari road;15;70;30;2;2;3;4;1;3;3;3;3;3;3;2;1;3;4;4;44
+Sylhet;18;911804005;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Arif Miar Colony;25;120;28;2;2;3;4;1;3;3;3;3;3;3;2;1;3;4;4;44
+Sylhet;18;911804006;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Akter Miar Colony;58;280;28;2;2;3;4;3;3;3;3;3;3;3;3;2;4;4;4;49
+Sylhet;18;911804007;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Sabu Miar Colony;40;200;28;2;2;3;4;3;3;3;3;3;3;3;3;1;4;4;4;48
+Sylhet;18;911804008;;"BrojonathTila+ Sonatola
++ RainagorPoschim";Bodrul Miar Colony;20;120;30;2;2;3;4;3;3;3;3;3;3;3;1;1;4;4;4;46
+Sylhet;18;911805001;;Jharnar Par+ NoyaJharnar Par;Masjid Goli;15;75;4;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805002;;Jharnar Par+ NoyaJharnar Par;Makho Miar Colony;15;75;40;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805003;;Jharnar Par+ NoyaJharnar Par;Sajuan Miar Basa;25;125;50;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805004;;Jharnar Par+ NoyaJharnar Par;Nur Miar Basa;40;200;35;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805005;;Jharnar Par+ NoyaJharnar Par;Taru Miar Colony;18;90;40;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805006;;Jharnar Par+ NoyaJharnar Par;Manik Miar Colony;35;175;30;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911805007;;Jharnar Par+ NoyaJharnar Par;Haji Miar colony;15;75;35;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911806001;;ShahiEidgah;Borobari;70;350;35;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911806002;;ShahiEidgah;Milad Miar colony;50;250;45;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911806003;;ShahiEidgah;Firoz Khan;6;20;35;2;3;4;2;4;4;4;3;3;3;3;4;1;4;4;4;52
+Sylhet;18;911806004;;ShahiEidgah;Tutuler Colony;25;125;30;2;3;4;2;3;4;4;3;3;3;3;4;1;4;4;4;51
+Sylhet;18;911806005;;ShahiEidgah;Shaheder Colony;100;500;35;2;3;4;2;3;4;4;3;3;3;3;4;1;4;4;4;51
+Sylhet;18;911806006;;ShahiEidgah;Selim Ahmeder colony;60;240;35;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;18;911806007;;ShahiEidgah;shiful Miyar Bari;50;250;20;2;3;4;2;3;4;3;3;3;3;3;4;1;4;4;4;50
+Sylhet;19;911901001;;Sonarpara, Kharpara;Metali 11/1, AK Anam Loskor;10;50;6;1;1;4;2;2;2;2;3;4;4;4;4;4;4;1;2;44
+Sylhet;19;911901002;;Sonarpara, Kharpara;Metal 60/2, Muradur Rahmaner Bashar Uttor Dike;8;40;10;2;1;4;3;2;2;1;3;4;4;3;4;4;4;1;2;44
+Sylhet;19;911901003;;Sonarpara, Kharpara;Ketal 14, Murdar Gosol Khana Ar Bepoder Deka;5;25;10;1;1;4;4;2;2;2;3;4;4;3;4;3;4;1;2;44
+Sylhet;19;911901004;;Sonarpara, Kharpara;Miyar Colony;8;40;8;1;4;4;2;2;2;3;2;4;4;3;4;4;4;1;2;46
+Sylhet;19;911901005;;Sonarpara, Kharpara;Enganeyar Fokruddain Ar Bepored Deka;6;30;25;2;3;4;1;2;3;3;3;4;4;3;4;4;4;1;2;47
+Sylhet;19;911901006;;Sonarpara, Kharpara;Laila Begum Ar Basha;12;60;40;2;3;4;2;1;1;3;2;4;4;3;4;3;4;1;2;43
+Sylhet;19;911901007;;Sonarpara, Kharpara;Saiful Islam Colony;9;45;30;3;1;3;1;1;4;2;2;4;4;3;4;4;4;1;2;43
+Sylhet;19;911901008;;Sonarpara, Kharpara;Ibarhim Miyar Bashar Colony;22;110;10;1;4;4;1;1;2;3;2;4;4;3;1;4;4;1;1;40
+Sylhet;19;911901009;;Sonarpara, Kharpara;Nahara Begum Ar Purbo Deka;8;40;15;2;1;4;2;1;3;2;2;4;4;3;4;4;4;1;2;43
+Sylhet;19;911901010;;Sonarpara, Kharpara;Sowkot Ahmod Ar Basha;7;35;17;3;3;4;3;2;2;3;3;4;4;2;4;3;4;1;2;47
+Sylhet;19;911901011;;Sonarpara, Kharpara;Ali Akborer Colony;5;20;10;2;1;4;3;3;3;4;2;4;4;4;4;4;4;1;2;49
+Sylhet;19;911901012;;Sonarpara, Kharpara;Anisul Hok Chowdorer Basha;10;50;9;2;4;4;4;4;3;3;4;3;4;4;4;4;4;1;2;54
+Sylhet;19;911901013;;Sonarpara, Kharpara;Halim Vaiyar Colony;10;50;5;2;4;4;4;4;3;3;4;3;4;4;4;4;4;1;1;53
+Sylhet;19;911901014;;Sonarpara, Kharpara;Rasos 15 Ar Bepored A;15;75;10;1;1;4;1;1;1;1;3;1;3;2;1;1;4;1;2;28
+Sylhet;19;911902001;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Moteur Rahman Colony;53;260;30;1;4;4;4;4;3;4;3;3;4;4;1;4;4;1;2;50
+Sylhet;19;911902002;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Marjan Vaiyer Colony;30;150;20;1;1;4;4;2;4;3;2;4;4;3;4;3;4;1;2;46
+Sylhet;19;911902003;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Protoi 102 Jiya Uddain Colony;25;125;20;2;1;4;4;2;3;3;2;4;4;3;4;4;4;1;2;47
+Sylhet;19;911902004;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Rahel Vaiyar Colony;25;125;25;1;1;4;3;3;4;3;2;4;4;3;4;3;4;1;2;46
+Sylhet;19;911902005;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Arif Osader colony;20;100;18;1;1;3;4;3;3;4;2;4;4;3;1;2;4;1;2;42
+Sylhet;19;911902006;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Protoi 111, Najmul Miyar Colony;10;50;20;2;1;4;3;3;4;3;3;4;4;3;4;4;4;1;2;49
+Sylhet;19;911902007;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Protoi 112, Masjeed Math Ar Bepored Ar;20;100;20;2;3;4;4;2;3;4;2;3;4;3;4;4;4;1;2;49
+Sylhet;19;911902008;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Arov 31;18;90;10;2;3;4;4;2;3;2;2;4;4;3;4;4;4;1;2;48
+Sylhet;19;911902009;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Anam Going Ar Basha;20;100;50;1;1;4;2;2;4;3;2;4;4;3;4;4;4;1;2;45
+Sylhet;19;911902010;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Ajid Vaiyar Basa;15;75;6;2;2;3;3;2;3;3;3;3;4;4;4;4;4;1;2;47
+Sylhet;19;911902011;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Jeyad Vaiyar Colony;15;75;10;3;3;4;4;3;4;3;3;4;4;3;4;4;4;1;2;53
+Sylhet;19;911902012;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Sumon Babu Colony;15;75;10;1;1;1;2;1;3;3;3;4;4;3;4;4;4;1;2;41
+Sylhet;19;911902013;;"Alamtula Doptoripara Mukter
+khakir Mani Dorjipara";Moner Miyar Colony;22;110;10;2;1;4;3;3;3;3;3;4;4;3;4;4;4;1;2;48
+Sylhet;19;911903001;;"Rainagar Purba 
+Darjibondh Rajbari";Babul Miyar Colony;120;600;15;1;4;4;4;3;3;3;3;3;4;4;1;3;4;1;1;46
+Sylhet;19;911903002;;"Rainagar Purba 
+Darjibondh Rajbari";Anam Miyar Colony;15;75;16;4;3;4;3;4;3;4;3;3;4;3;1;3;4;1;2;49
+Sylhet;19;911903003;;"Rainagar Purba 
+Darjibondh Rajbari";Jamsed Miyar Colony;5;25;12;4;3;4;1;4;2;4;2;3;4;4;1;3;4;1;2;46
+Sylhet;19;911903004;;"Rainagar Purba 
+Darjibondh Rajbari";Armaner Ma Colony;30;150;25;3;2;4;1;4;2;4;2;2;4;4;1;3;4;1;2;43
+Sylhet;19;911903005;;"Rainagar Purba 
+Darjibondh Rajbari";Mayul Miyar Colony;5;25;5;4;3;4;4;1;3;4;2;3;4;4;1;4;4;1;2;48
+Sylhet;19;911903006;;"Rainagar Purba 
+Darjibondh Rajbari";Raja Miyar Colony;15;75;10;2;3;4;1;1;2;4;2;3;4;4;1;3;4;1;2;41
+Sylhet;19;911903007;;"Rainagar Purba 
+Darjibondh Rajbari";Sakil Miyar Colony;20;100;10;4;4;4;4;4;2;4;2;3;4;4;1;3;4;1;2;50
+Sylhet;19;911903008;;"Rainagar Purba 
+Darjibondh Rajbari";Juned Miyar Colony;15;75;10;4;4;4;4;2;4;4;4;4;4;4;1;4;4;1;2;54
+Sylhet;19;911903009;;"Rainagar Purba 
+Darjibondh Rajbari";Faruk Colony;200;1000;25;4;3;4;1;3;3;4;2;3;3;4;1;2;4;1;2;44
+Sylhet;19;911903010;;"Rainagar Purba 
+Darjibondh Rajbari";Raynagar Protoi 78 Suleman Khaner Bari;40;200;35;2;4;4;4;2;2;3;2;4;4;3;4;4;4;1;2;49
+Sylhet;19;911903011;;"Rainagar Purba 
+Darjibondh Rajbari";Putul Miyar Colony;15;75;35;4;4;3;4;2;3;3;3;4;4;3;4;4;4;1;2;52
+Sylhet;19;911904001;;Mitali Abashik and TB Gait;Salluk Ali Gazi;13;65;4;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905001;;Dhulishahi Eidghah + Gas Quater;Shamanul Huda;13;65;10;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905002;;Dhulishahi Eidghah + Gas Quater;Maksud Vai;10;50;20;1;1;4;3;2;2;4;2;1;4;3;1;2;4;1;1;36
+Sylhet;19;911905003;;Dhulishahi Eidghah + Gas Quater;Jahangir;8;40;20;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905004;;Dhulishahi Eidghah + Gas Quater;Ali Vobon;11;55;15;1;1;4;3;2;2;1;2;1;4;3;1;2;4;1;1;33
+Sylhet;19;911905005;;Dhulishahi Eidghah + Gas Quater;Najrul And Rahman Miyar Colony;12;60;20;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905006;;Dhulishahi Eidghah + Gas Quater;Abdul Sohed;9;45;15;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905007;;Dhulishahi Eidghah + Gas Quater;Moten Miyar Colony;17;85;12;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905008;;Dhulishahi Eidghah + Gas Quater;Feroj Miya O Akbor Miyar Colony;21;105;10;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905009;;Dhulishahi Eidghah + Gas Quater;Anam Miyar Colony;25;125;10;1;1;4;3;2;2;2;2;1;4;3;1;2;4;1;1;34
+Sylhet;19;911905010;;Dhulishahi Eidghah + Gas Quater;Bacchu Miyar Colony;12;60;20;1;1;4;3;2;2;3;2;1;4;3;1;2;4;1;1;35
+Sylhet;19;911905011;;Dhulishahi Eidghah + Gas Quater;Sultanara Chowdory, Motali 37;7;35;10;1;1;4;3;2;1;2;2;1;4;3;1;3;4;1;1;34
+Sylhet;19;911905012;;Dhulishahi Eidghah + Gas Quater;Jamsed Miya ( Motin 146);5;25;20;1;1;4;3;2;1;2;2;1;4;3;1;1;4;1;1;32
+Sylhet;19;911905013;;Dhulishahi Eidghah + Gas Quater;Koyes Metale 89;5;25;6;1;1;4;3;2;1;2;2;1;4;3;1;3;4;1;1;34
+Sylhet;20;912001001;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Ershad Miar Colony;10;50;20;2;1;4;4;3;1;2;3;3;1;1;1;1;2;1;2;32
+Sylhet;20;912001002;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Momotaz mia colony;15;75;25;1;1;3;3;2;1;1;2;3;1;1;1;1;2;1;2;26
+Sylhet;20;912001003;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Jaton Babur colony;10;50;15;1;1;3;2;2;1;1;2;3;1;1;1;1;2;1;2;25
+Sylhet;20;912001004;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Kotu Miar Colony;12;60;16;1;1;3;2;2;1;1;2;3;1;1;1;1;2;1;2;25
+Sylhet;20;912001005;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Mahmuh Mia;8;40;15;4;3;4;2;3;1;2;2;3;1;2;1;1;2;1;2;34
+Sylhet;20;912001006;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Manik Mia;7;35;15;1;3;4;2;3;1;2;2;3;1;2;1;1;2;1;2;31
+Sylhet;20;912001007;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Borobari Colony;50;250;20;1;3;4;2;3;1;2;2;3;1;2;1;1;2;1;2;31
+Sylhet;20;912001008;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Momotaz;100;500;30;1;2;4;1;3;2;2;3;3;1;1;1;1;2;1;1;29
+Sylhet;20;912001009;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Tilaghor;40;200;20;1;1;4;1;4;1;4;4;2;2;3;1;1;4;1;1;35
+Sylhet;20;912001010;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Bidaner Bari;2;125;20;1;1;4;1;1;2;2;3;4;4;2;1;2;4;1;1;34
+Sylhet;20;912001011;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Laxmaner bari;20;100;30;2;1;4;1;2;2;4;4;4;4;4;1;3;4;1;1;42
+Sylhet;20;912001012;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Abdur Rahmaner Bari;20;100;12;4;2;4;2;4;2;2;4;2;1;3;2;1;2;1;1;37
+Sylhet;20;912001013;;"Tilagor&ShadipurPurbo
+&Vatikor&Mondibag";Shipar Miar Colony;15;75;12;1;1;4;1;4;1;2;3;3;1;3;1;1;2;1;1;30
+Sylhet;20;912002001;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Dulu Mia;40;200;15;1;1;3;1;1;1;2;1;2;1;1;1;1;4;1;2;24
+Sylhet;20;912002002;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";dulu mia;60;300;20;4;1;4;1;2;4;4;2;2;1;1;1;3;1;2;2;35
+Sylhet;20;912002003;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Motu Membar;65;325;10;1;1;4;2;3;3;4;3;3;1;1;2;3;3;1;3;38
+Sylhet;20;912002004;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Saleha Cottage;20;100;15;1;3;4;2;3;2;4;2;1;1;1;2;1;1;1;2;31
+Sylhet;20;912002005;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Liton Mia;70;350;12;1;1;4;2;3;2;4;2;1;1;1;1;1;4;1;2;31
+Sylhet;20;912002006;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Hasna madam;20;100;15;2;1;4;2;2;2;4;2;1;1;1;2;1;4;1;2;32
+Sylhet;20;912002007;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Cotton Mia;10;50;20;1;1;4;2;2;2;4;2;1;1;1;2;2;1;1;2;29
+Sylhet;20;912002008;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Ahad Mia;30;150;20;1;1;4;1;3;2;3;2;1;1;2;2;1;4;2;4;34
+Sylhet;20;912002009;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Delowar Mia Londoni;6;30;10;2;2;4;2;2;3;4;3;2;1;2;2;2;4;2;4;41
+Sylhet;20;912002010;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Tilok Mia;5;20;10;2;1;4;2;4;2;4;3;2;2;2;2;3;4;2;4;43
+Sylhet;20;912002011;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Shikdar manjil;5;25;15;1;2;4;2;4;2;4;3;2;1;2;2;3;4;3;4;43
+Sylhet;20;912002012;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Pakhi Mia;20;100;15;2;1;4;2;4;3;4;3;1;1;1;3;2;2;4;4;41
+Sylhet;20;912002013;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Chan manjil;7;35;10;2;2;4;2;4;2;4;2;2;1;2;1;3;4;4;4;43
+Sylhet;20;912002014;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Shahin Mia;9;45;20;1;1;4;2;2;1;4;1;2;1;1;2;1;2;2;2;29
+Sylhet;20;912002015;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Iskand Ali;6;30;20;1;1;4;1;1;2;4;2;2;1;2;1;3;2;2;2;31
+Sylhet;20;912002016;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Mosbbir Ali;11;55;50;1;1;4;2;2;4;4;4;2;2;1;3;3;1;4;4;42
+Sylhet;20;912002017;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Abul Mia;10;100;30;1;1;4;2;1;3;2;3;2;2;2;4;2;2;2;2;35
+Sylhet;20;912002018;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Shiparer Bari;12;60;20;3;1;4;2;3;2;4;3;2;1;2;2;2;3;1;1;36
+Sylhet;20;912002019;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Baha Mia;12;60;20;1;1;4;2;3;2;4;2;1;1;2;2;2;1;1;2;31
+Sylhet;20;912002020;;"PurboSibgang( ShadipurPoscim, 
+MouchakShadipur&Larki Para)";Yusuf Mia;8;40;15;2;1;4;2;4;2;4;2;1;1;2;2;3;4;2;4;40
+Sylhet;20;912003001;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Josim Miar colony;56;280;15;1;2;4;2;4;4;4;4;4;2;3;1;1;4;4;4;48
+Sylhet;20;912003002;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Ssuyel Miar colony;52;260;5;1;2;4;2;4;4;4;4;4;2;3;1;1;4;4;4;48
+Sylhet;20;912003003;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Jahed Miar colony;30;150;20;1;3;4;2;4;4;4;4;3;3;3;1;1;4;4;4;49
+Sylhet;20;912003004;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Parul Mia colony;25;125;20;1;3;4;2;4;4;2;4;1;3;4;1;1;4;4;4;46
+Sylhet;20;912003005;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Bulu singher colony;44;220;10;1;3;4;2;4;4;4;4;3;2;3;1;1;4;4;4;48
+Sylhet;20;912003006;;"UttorSibgang (KradiparAnanda
+&Senpara&Boishakhi)";Badar singhr bosti;50;250;40;1;3;4;2;4;4;4;4;3;2;3;1;1;4;4;4;48
+Sylhet;20;912004001;;"DokkinShibgang ( Aditto Par &
+Senpara Dokkin&SenparaDokkin
+Baluchor)";Parimal daser colony;63;315;20;1;3;4;2;4;4;4;4;3;2;3;1;4;4;4;2;49
+Sylhet;20;912004002;;"DokkinShibgang ( Aditto Par &
+Senpara Dokkin&SenparaDokkin
+Baluchor)";Ahmed Mia colony;38;190;15;1;3;4;2;4;4;4;4;3;2;3;1;1;4;4;2;46
+Sylhet;20;912004003;;"DokkinShibgang ( Aditto Par &
+Senpara Dokkin&SenparaDokkin
+Baluchor)";Nur Islamer Bari;20;100;10;1;3;4;2;4;4;4;4;3;2;3;1;1;4;4;4;48
+Sylhet;20;912004004;;"DokkinShibgang ( Aditto Par &
+Senpara Dokkin&SenparaDokkin
+Baluchor)";Abdul Siddik Murader Coloy;50;250;10;2;3;4;2;4;1;4;3;3;2;3;1;1;4;4;2;43
+Sylhet;20;912004005;;"DokkinShibgang ( Aditto Par &
+Senpara Dokkin&SenparaDokkin
+Baluchor)";Raja Miar Colony;40;200;20;1;3;2;4;4;4;4;4;3;2;3;1;1;4;4;4;48
+Sylhet;20;912005001;;"PoschimShibgang
+ ( Momidar Para &Urmi Para)";Motin Miar bari;16;80;40;2;1;4;1;4;2;4;4;4;4;3;4;2;4;4;4;51
+Sylhet;20;912005002;;"PoschimShibgang
+ ( Momidar Para &Urmi Para)";Anowar Miar Colony;580;2900;20;1;1;4;2;4;4;4;4;3;2;3;1;1;4;1;1;40
+Sylhet;20;912005003;;"PoschimShibgang
+ ( Momidar Para &Urmi Para)";Ferdous Miar Colony;60;300;2;1;1;4;2;4;4;4;3;4;2;3;1;4;4;1;1;43
+Sylhet;20;912005004;;"PoschimShibgang
+ ( Momidar Para &Urmi Para)";Ajijul Barir Bari;30;150;10;2;3;4;3;4;4;4;3;3;3;3;1;1;4;1;1;44
+Sylhet;21;912101001;;Sonar Para+Urmi;Kayes Ahmed Colony;10;50;10;1;1;3;1;1;1;2;1;1;1;4;1;1;4;1;2;26
+Sylhet;21;912101002;;Sonar Para+Urmi;Hasib Bhuiyan Colony;15;75;30;1;2;2;1;1;1;1;1;2;1;4;1;2;4;2;2;28
+Sylhet;21;912101003;;Sonar Para+Urmi;Mujib Mia Bari;8;40;20;4;1;4;1;2;2;2;1;4;1;4;4;4;4;1;2;41
+Sylhet;21;912101004;;Sonar Para+Urmi;Kibiyar Bari;25;125;20;1;1;4;4;4;4;4;4;4;1;4;4;4;4;1;3;51
+Sylhet;21;912101005;;Sonar Para+Urmi;Lutun Mia;50;250;15;4;4;4;1;1;1;1;2;2;1;4;4;1;4;1;2;37
+Sylhet;21;912101006;;Sonar Para+Urmi;Dulu Membar colony;20;100;20;1;2;4;4;4;2;1;2;3;1;4;4;1;4;1;2;40
+Sylhet;21;912101007;;Sonar Para+Urmi;Shuhed Miar Colony;60;300;25;1;1;1;1;1;1;1;1;2;1;4;4;1;4;1;2;27
+Sylhet;21;912101008;;Sonar Para+Urmi;Kala Miar Bari;10;50;30;2;2;4;1;4;4;2;2;3;1;4;4;2;4;1;2;42
+Sylhet;21;912102001;;Chaporbond Para;Shudhu Babu Colony;25;125;50;1;1;3;1;1;1;1;3;2;1;4;4;1;4;1;2;31
+Sylhet;21;912102002;;Chaporbond Para;Sofik Mia;50;250;40;4;1;4;1;4;1;1;1;1;1;1;4;4;4;1;1;34
+Sylhet;21;912102003;;Chaporbond Para;Torab Ali;325;1625;40;1;1;4;1;2;1;4;3;3;3;3;1;1;4;1;1;34
+Sylhet;21;912102004;;Chaporbond Para;Dulal;400;2000;40;1;1;4;1;2;1;4;3;3;3;3;1;1;4;1;1;34
+Sylhet;21;912102005;;Chaporbond Para;Moina Mia;50;250;30;1;1;4;1;2;1;4;3;3;3;3;1;1;4;1;1;34
+Sylhet;21;912103001;;"Lama Para+ThakurPara
++Khandikor Para";Lal Mia;100;500;40;2;1;4;4;2;2;4;4;3;3;3;1;2;4;1;1;41
+Sylhet;21;912103002;;"Lama Para+ThakurPara
++Khandikor Para";Ustar;60;300;40;4;3;4;4;3;3;4;4;4;4;4;1;2;4;1;1;50
+Sylhet;21;912103003;;"Lama Para+ThakurPara
++Khandikor Para";Kbobir;100;500;40;2;1;4;4;2;2;4;4;4;3;3;1;2;4;1;1;42
+Sylhet;21;912103004;;"Lama Para+ThakurPara
++Khandikor Para";Jilu;100;500;40;1;1;4;4;2;2;4;3;3;3;3;1;2;4;1;1;39
+Sylhet;21;912104001;;"HatimBagh(Badurlatka)
++Gongadas";Sottar Mia;40;200;35;2;2;4;1;2;2;2;2;3;2;2;4;2;4;1;1;36
+Sylhet;21;912104002;;"HatimBagh(Badurlatka)
++Gongadas";Kalam;40;200;30;2;2;4;3;2;2;4;4;4;4;4;3;3;4;4;4;53
+Sylhet;21;912104003;;"HatimBagh(Badurlatka)
++Gongadas";Makhon Miar Colony;25;125;40;2;3;4;4;4;3;4;4;3;3;3;1;3;4;1;1;47
+Sylhet;21;912104004;;"HatimBagh(Badurlatka)
++Gongadas";Kamal Miar Colony;7;35;20;2;1;4;4;2;1;4;4;3;3;4;1;4;4;1;1;43
+Sylhet;21;912104005;;"HatimBagh(Badurlatka)
++Gongadas";Sweet Mia;25;125;40;4;3;4;4;4;3;4;4;3;4;4;1;2;4;1;1;50
+Sylhet;21;912105001;;"Borhanbagh+Taiya
+TilorGolapBagh";Ehia Mia;8;40;10;4;4;4;1;4;1;4;4;2;4;3;2;1;4;1;1;44
+Sylhet;21;912105002;;"Borhanbagh+Taiya
+TilorGolapBagh";Sottar Mia;7;35;15;3;1;4;1;1;1;4;4;4;2;2;3;1;4;1;1;37
+Sylhet;21;912105003;;"Borhanbagh+Taiya
+TilorGolapBagh";Shahed Iqbaler Colony;9;45;15;4;4;4;4;4;3;4;4;3;3;4;4;1;4;1;1;52
+Sylhet;21;912105004;;"Borhanbagh+Taiya
+TilorGolapBagh";Kamal Miar basa;10;50;30;4;4;4;4;4;4;4;4;4;4;4;4;2;4;1;1;56
+Sylhet;21;912105005;;"Borhanbagh+Taiya
+TilorGolapBagh";Dulal Mia;80;400;30;2;1;4;1;2;2;4;3;3;2;3;1;2;4;1;1;36
+Sylhet;21;912105006;;"Borhanbagh+Taiya
+TilorGolapBagh";Enam;30;150;40;2;2;4;1;1;2;1;3;3;2;2;4;1;2;1;1;32
+Sylhet;21;912105007;;"Borhanbagh+Taiya
+TilorGolapBagh";Shapla Bag 1 no. Liton Ali Kaderi;12;60;30;2;4;4;1;4;3;4;4;3;3;4;1;4;4;1;1;47
+Sylhet;21;912106001;;Raj Para+Kalashil;Kollyanpur Imamuddin colony;6;25;15;4;4;4;1;1;1;3;4;2;2;3;1;1;4;1;1;37
+Sylhet;21;912106002;;Raj Para+Kalashil;Kollyanpur sultan colony;11;55;15;2;1;3;1;1;1;1;3;3;3;4;1;1;4;1;1;31
+Sylhet;21;912106003;;Raj Para+Kalashil;Moksudar colony;17;85;45;2;2;4;4;1;2;4;4;3;3;4;1;1;4;1;1;41
+Sylhet;21;912106004;;Raj Para+Kalashil;Kollyanpur Malek mia;7;35;30;2;1;4;4;1;1;4;3;3;3;3;1;1;4;1;1;37
+Sylhet;21;912106005;;Raj Para+Kalashil;Mukul Miar Colony;27;125;20;4;1;4;1;1;2;4;3;3;3;3;1;1;4;1;1;37
+Sylhet;21;912107001;;"Kollyanpurshaplabagh+
+NiskorPara+ThikriPara
++Vatatikor";Mahatab Miar Colony;30;150;17;2;2;4;1;4;1;4;4;3;3;3;1;1;4;1;1;39
+Sylhet;22;912206001;;F Block;Sahin Miyar Bosoty;30;150;20;1;1;4;1;1;1;1;2;3;3;3;1;1;4;1;1;29
+Sylhet;22;912207001;;G Block;Liyakot Miyar Colony;8;40;15;1;1;4;1;1;1;1;2;3;1;3;1;1;4;1;1;27
+Sylhet;22;912209001;;I Block;Malek Miyar Colony;28;140;17;4;1;4;1;1;1;4;2;3;4;3;1;3;4;1;1;38
+Sylhet;22;912210001;;J Block;Sahan Miyar Colony;200;1000;30;4;1;4;1;1;1;4;3;3;4;3;1;2;4;1;1;38
+Sylhet;23;912301001;;Machimpur & Kuripara & Monipuri;Angur Ar Colony;20;100;12;1;1;4;1;1;1;4;4;3;1;3;1;1;4;1;1;32
+Sylhet;23;912301002;;Machimpur & Kuripara & Monipuri;Suyer Miyar Colony;37;186;40;1;1;4;1;2;1;4;4;3;1;3;1;1;4;1;1;33
+Sylhet;23;912301003;;Machimpur & Kuripara & Monipuri;Khitrish Singho Bari;70;350;60;4;4;4;1;1;2;4;4;3;1;3;2;2;4;4;4;47
+Sylhet;23;912301004;;Machimpur & Kuripara & Monipuri;Rajes Sengha;70;350;60;4;4;4;1;1;2;4;4;3;1;3;2;2;4;4;4;47
+Sylhet;23;912301005;;Machimpur & Kuripara & Monipuri;Monepuri;5;25;30;3;4;4;2;1;3;3;3;3;2;3;3;3;4;1;3;45
+Sylhet;23;912301006;;Machimpur & Kuripara & Monipuri;Deraj Senha;5;25;35;3;4;4;3;1;4;4;4;4;3;3;4;3;4;4;4;56
+Sylhet;23;912301007;;Machimpur & Kuripara & Monipuri;Tekkar Colony;30;150;20;1;1;4;1;1;1;4;4;3;1;3;1;1;4;1;1;32
+Sylhet;23;912301008;;Machimpur & Kuripara & Monipuri;Khosrur Colony;50;250;20;2;1;4;1;2;1;4;4;3;1;3;1;1;4;1;1;34
+Sylhet;23;912301009;;Machimpur & Kuripara & Monipuri;Faruk Miyar Colony;32;160;30;4;4;4;1;2;1;4;4;3;1;3;1;1;4;1;1;39
+Sylhet;23;912301010;;Machimpur & Kuripara & Monipuri;Amin Miyare Colony;20;100;40;1;1;4;1;1;1;4;4;3;1;3;1;1;4;1;1;32
+Sylhet;23;912301011;;Machimpur & Kuripara & Monipuri;Mostak Ahmod Ar Colony;15;75;35;2;4;4;1;2;1;4;4;3;1;3;1;1;4;1;1;37
+Sylhet;23;912301012;;Machimpur & Kuripara & Monipuri;Rahel Ahmed;20;100;60;1;1;4;1;3;1;4;4;3;1;3;1;1;4;4;4;40
+Sylhet;23;912301013;;Machimpur & Kuripara & Monipuri;Poli Begum Ar Colony;5;25;5;1;1;4;1;1;1;4;4;3;1;3;1;1;4;1;1;32
+Sylhet;23;912301014;;Machimpur & Kuripara & Monipuri;Monaf Miyar Colony;50;250;25;4;4;4;1;1;1;4;3;3;1;3;1;1;4;1;1;37
+Sylhet;23;912301015;;Machimpur & Kuripara & Monipuri;Boro Bari;150;750;40;4;4;4;4;4;1;4;4;3;1;3;1;4;4;4;4;53
+Sylhet;23;912301016;;Machimpur & Kuripara & Monipuri;Kamaler Colony;11;25;10;1;1;4;1;4;1;4;3;3;1;3;1;1;4;1;1;34
+Sylhet;23;912301017;;Machimpur & Kuripara & Monipuri;Alai Ajij Colony;15;75;35;1;1;4;1;1;1;4;4;3;1;3;1;1;4;1;1;32
+Sylhet;23;912301018;;Machimpur & Kuripara & Monipuri;Monikuri;300;1500;35;1;1;4;1;3;1;4;3;3;1;3;1;1;4;1;1;33
+Sylhet;23;912301019;;Machimpur & Kuripara & Monipuri;Masum Miya;80;400;60;1;4;4;1;1;3;4;4;4;3;3;4;4;4;4;4;52
+Sylhet;23;912302001;;Dubri Haor & Upoknto;Iqbal O Lalo Miyar Colony;60;300;50;2;1;4;1;1;1;4;1;3;3;3;1;1;3;1;2;32
+Sylhet;23;912302002;;Dubri Haor & Upoknto;Nojrul Miyar Colony;25;150;25;1;1;4;1;1;1;4;3;3;3;3;1;1;3;1;1;32
+Sylhet;23;912302003;;Dubri Haor & Upoknto;Aktar O Basar Miyar Colony;30;180;40;1;1;4;1;1;2;4;3;3;3;3;1;1;3;1;1;33
+Sylhet;23;912302004;;Dubri Haor & Upoknto;Shamim Jalaler Colony;300;1500;40;1;1;4;1;1;1;4;2;3;2;3;1;1;3;1;1;30
+Sylhet;23;912303001;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;CMB;30;150;50;2;3;4;1;1;2;4;3;3;3;3;1;1;4;1;1;37
+Sylhet;23;912303002;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Alo Colony;30;150;30;1;1;4;1;1;1;4;1;3;3;3;1;1;3;1;1;30
+Sylhet;23;912303003;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Bakul Miyar Colony;60;360;18;1;1;4;1;1;1;4;3;3;2;3;1;1;3;1;1;31
+Sylhet;23;912303004;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Abul Hossain Ar Colony;90;540;40;1;1;4;1;1;2;4;3;3;3;3;4;1;3;1;1;36
+Sylhet;23;912303005;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Babul Miyar Colony;180;900;15;1;1;4;1;1;2;4;3;3;3;3;1;1;2;1;1;32
+Sylhet;23;912303006;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Masa Miyar Colony;100;600;15;2;1;4;1;1;2;4;3;3;1;3;1;1;3;1;1;32
+Sylhet;23;912303007;;Mendibagh & Deaoyanbagh & Uposhor 23 No.;Afroja Pipe Godamer Pichone;30;150;40;2;3;4;1;1;4;4;1;3;3;3;1;1;3;1;1;36
+Sylhet;23;912304001;;Noagaon Shadipur;Londner Colony;100;500;30;1;3;4;1;1;2;4;3;3;3;3;1;1;4;1;1;36
+Sylhet;23;912304002;;Noagaon Shadipur;Atek Miyar Colony;50;250;10;2;1;4;1;1;3;1;4;4;2;4;1;1;4;1;1;35
+Sylhet;23;912304003;;Noagaon Shadipur;Hafij Abdul Kaiyum Khan;20;100;8;1;1;4;1;1;2;4;3;3;3;3;1;1;4;1;1;34
+Sylhet;23;912304004;;Noagaon Shadipur;Anoyar Begum Ar Colony;30;150;15;2;3;4;1;1;2;4;3;3;3;3;1;1;3;1;1;36
+Sylhet;23;912304005;;Noagaon Shadipur;Nahar Ar Colony;20;100;10;2;3;4;1;1;2;4;3;3;3;3;1;1;2;1;1;35
+Sylhet;23;912304006;;Noagaon Shadipur;Habib Manjel;10;50;4;2;1;4;1;1;2;4;4;3;2;3;1;1;3;1;1;34
+Sylhet;23;912305001;;D Block Left Side;Alhaj Mokhlas;20;100;10;1;1;4;1;1;2;3;3;2;2;4;1;1;4;1;2;33
+Sylhet;23;912305002;;D Block Left Side;Khandakarer Colony;20;100;20;3;1;4;1;1;2;3;3;3;3;4;1;1;4;1;2;37
+Sylhet;23;912305003;;D Block Left Side;Moina Miya;25;125;30;3;1;4;1;1;1;3;2;3;1;3;1;1;4;1;1;31
+Sylhet;24;912401001;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Gopalbag road;7;35;5;1;4;4;1;4;1;1;1;4;4;3;1;1;4;1;2;37
+Sylhet;24;912401002;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Atar Colony;100;500;25;3;1;4;1;1;2;1;2;3;2;3;1;3;4;1;2;34
+Sylhet;24;912401003;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Lamapara;200;1000;25;1;1;4;1;4;1;1;3;2;1;3;1;1;4;1;2;31
+Sylhet;24;912401004;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Jolil Colony;39;195;26;3;1;4;1;2;1;2;3;3;3;2;1;1;1;1;2;31
+Sylhet;24;912401005;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Jalal colony;120;600;26;2;3;3;1;2;2;1;2;3;2;2;2;1;1;1;2;30
+Sylhet;24;912401006;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Jaman Colony;154;770;32;3;3;4;2;2;2;1;3;3;3;2;2;1;1;1;2;35
+Sylhet;24;912401007;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Ata Jalal;30;150;15;1;1;3;2;2;2;2;3;3;2;2;1;1;1;1;1;28
+Sylhet;24;912401008;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Rezwan miar colony;20;100;8;3;1;2;4;2;3;2;3;3;3;2;1;1;1;1;1;33
+Sylhet;24;912401009;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Doly Bari;50;250;28;1;1;4;2;2;2;2;2;3;3;2;1;1;1;1;1;29
+Sylhet;24;912401010;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Fazlu;150;750;28;1;1;4;2;1;2;1;3;3;3;3;1;1;1;1;1;29
+Sylhet;24;912401011;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Khaled Shaheb;150;750;20;2;1;4;2;1;2;3;2;3;3;2;1;1;1;1;2;31
+Sylhet;24;912401012;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Pannu Colony;80;400;15;3;3;4;2;1;2;2;2;3;3;2;1;1;1;1;2;33
+Sylhet;24;912401013;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Jamil Colony;150;750;18;2;1;3;2;2;2;2;2;3;2;2;2;1;1;1;2;30
+Sylhet;24;912401014;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Maksud;260;1300;25;2;1;3;2;1;2;2;1;3;3;3;2;1;1;1;2;30
+Sylhet;24;912401015;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Sabul;150;750;12;1;2;2;2;2;1;2;1;1;1;1;2;1;1;2;2;24
+Sylhet;24;912401016;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Abu tula;200;1000;20;1;1;2;1;2;1;1;2;2;2;1;2;3;1;2;2;26
+Sylhet;24;912401017;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Misbar Colony;420;2100;15;3;1;3;4;1;1;2;2;1;2;2;2;4;1;2;2;33
+Sylhet;24;912401018;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Millad;400;2000;25;3;1;1;2;1;2;2;2;1;3;3;4;4;1;4;4;38
+Sylhet;24;912401019;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Alamgir Sekor Colony;430;2150;20;1;1;3;1;1;3;1;1;2;2;2;4;2;1;2;2;29
+Sylhet;24;912401020;;"Golabbagh, Sobujbagh, Hatimbagh, 
+Lamapara (East), Sadarpara, 
+TeroBoton (HoldiChorar North side)";Bason Colony;550;2750;20;1;1;3;1;1;3;2;1;3;4;1;4;2;1;1;1;30
+Sylhet;24;912402001;;"Shaplabagh (South), Mirapara 
+(West), Tultikor";Kaderer colony;400;2000;50;1;1;4;1;1;2;4;2;3;3;3;1;1;4;1;1;33
+Sylhet;24;912402002;;"Shaplabagh (South), Mirapara 
+(West), Tultikor";Shapla Bag Soidani;280;1400;80;1;1;4;1;2;2;4;2;2;2;3;1;1;4;1;1;32
+Sylhet;24;912402003;;"Shaplabagh (South), Mirapara 
+(West), Tultikor";Sobujer Colony;450;2250;80;2;1;4;1;1;2;4;1;3;3;3;1;1;3;1;1;32
+Sylhet;24;912403001;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Monipuri Para;40;200;100;2;4;4;1;2;2;4;3;2;3;4;4;2;4;4;4;49
+Sylhet;24;912403002;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Latifer bari;30;150;100;1;4;4;1;1;3;4;3;2;3;4;4;4;4;4;4;50
+Sylhet;24;912403003;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Badshar Bari;25;125;90;2;1;3;1;1;3;4;2;2;3;4;4;2;4;4;4;44
+Sylhet;24;912403004;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Gias Miar Bari;35;175;90;2;1;4;1;3;3;4;3;2;3;4;4;2;4;4;4;48
+Sylhet;24;912403005;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Shaheder Bari;40;200;100;2;4;3;1;1;3;4;3;2;1;4;4;4;4;4;4;48
+Sylhet;24;912403006;;"Kushighat, Noabazar, Noagao
+, Shadigor, Shadatikor";Shaheder Bari;50;250;80;4;4;4;3;1;3;4;3;2;3;4;4;4;4;4;4;55
+Sylhet;24;912404001;;Sadatikor;Sadatikor;70;350;40;2;1;4;1;1;2;4;2;3;3;3;1;1;2;1;1;32
+Sylhet;24;912404002;;Sadatikor;Kayes Mia Colony;50;250;50;2;1;4;1;1;2;4;1;3;3;3;1;1;3;1;1;32
+Sylhet;24;912405001;;ShahjalalHousibg;Housing colony;40;200;60;2;2;4;1;2;2;1;3;3;3;3;1;1;3;1;1;33
+Sylhet;25;912501001;;BoroiKandi+Gangu+KazirKhola;Mona Miar Bari;7;35;30;4;4;4;1;1;2;4;3;4;4;4;3;3;4;4;4;53
+Sylhet;25;912501002;;BoroiKandi+Gangu+KazirKhola;Afzal Miar Colony;150;750;50;2;1;4;1;1;1;3;3;3;3;3;1;2;4;4;4;40
+Sylhet;25;912502001;;KhoharKhola;Dulal Colony;40;250;25;1;1;4;1;1;1;1;3;1;1;4;1;1;4;1;1;27
+Sylhet;25;912502002;;KhoharKhola;Khaled Miar Colony;30;150;20;2;1;4;1;1;1;2;3;3;2;3;2;2;4;1;1;33
+Sylhet;25;912502003;;KhoharKhola;Hakim Mia Colony;20;100;25;2;1;4;1;1;1;4;3;2;1;3;2;1;4;1;1;32
+Sylhet;25;912502004;;KhoharKhola;Late Dudu Mia Colony;15;75;15;4;1;4;1;1;3;1;3;2;2;3;2;2;4;1;1;35
+Sylhet;25;912502005;;KhoharKhola;Eshad Mia Colony;20;100;20;2;1;4;1;1;1;4;3;1;1;3;1;2;4;1;1;31
+Sylhet;25;912502006;;KhoharKhola;Shahed Colony;10;50;15;1;4;4;1;1;1;4;3;3;2;4;1;1;4;1;1;36
+Sylhet;25;912502007;;KhoharKhola;Nojir Mia Colony;15;75;15;1;1;4;1;1;1;1;2;2;1;3;1;1;4;1;1;26
+Sylhet;25;912502008;;KhoharKhola;Somor Mia Colony;11;55;20;2;1;4;1;1;1;4;3;3;2;4;1;2;4;1;1;35
+Sylhet;25;912502009;;KhoharKhola;Milon Colony;60;300;22;2;4;4;4;4;4;4;3;3;1;4;1;1;4;1;1;45
+Sylhet;25;912502010;;KhoharKhola;Rashidul Alir Bari;15;75;50;1;1;4;1;1;1;1;3;3;2;2;4;1;4;4;4;37
+Sylhet;25;912502011;;KhoharKhola;Tarek Miar Colony;125;625;25;2;1;4;1;1;1;4;2;3;1;3;1;1;4;1;1;31
+Sylhet;25;912502012;;KhoharKhola;Kadir Miar Colony;70;350;50;2;1;4;3;4;1;2;3;2;2;3;1;2;4;1;1;36
+Sylhet;25;912502013;;KhoharKhola;Late Abdur Rahman Miar Colony;50;250;30;2;1;4;2;2;2;2;4;2;2;3;1;2;4;1;1;35
+Sylhet;25;912502014;;KhoharKhola;Mohor Mia Colony;250;1250;30;2;1;4;1;1;2;2;2;3;2;3;1;2;4;1;1;32
+Sylhet;25;912503001;;South Burthokhola;Gaibi Shah Mazar;40;200;50;1;1;4;1;1;1;2;3;3;3;3;3;1;4;4;4;39
+Sylhet;25;912503002;;South Burthokhola;Sumon Mia;25;75;20;1;1;1;1;1;1;1;2;2;2;2;1;1;4;1;1;23
+Sylhet;25;912503003;;South Burthokhola;Sohab Mia;30;150;25;1;1;1;1;1;1;1;2;2;2;3;1;1;4;1;1;24
+Sylhet;25;912503004;;South Burthokhola;Ashik Miar Colony;65;325;30;1;1;4;1;1;1;1;4;3;3;2;1;1;4;1;1;30
+Sylhet;25;912503005;;South Burthokhola;Railway Colony;40;200;40;2;1;4;1;1;2;1;3;2;2;3;2;1;4;2;2;33
+Sylhet;25;912504001;;Barokhola;Shofik Ahmed;20;100;50;2;1;4;1;1;1;4;3;3;4;3;3;3;4;4;4;45
+Sylhet;25;912504002;;Barokhola;Siraj Mia;12;60;70;2;3;4;1;1;2;1;4;3;4;4;3;1;4;4;4;45
+Sylhet;25;912504003;;Barokhola;Ahad Mia;15;75;60;2;1;4;1;1;1;2;4;2;2;3;3;1;4;4;4;39
+Sylhet;25;912504004;;Barokhola;Abdul Momin;30;150;80;1;1;4;1;2;1;1;3;4;4;3;2;1;4;4;4;40
+Sylhet;25;912504005;;Barokhola;Rumon Mia;10;50;25;2;1;4;1;1;2;1;3;2;2;4;1;1;4;1;1;31
+Sylhet;25;912504006;;Barokhola;Dilal Kha;30;150;50;1;1;4;1;1;1;1;4;3;3;3;1;1;4;1;1;31
+Sylhet;25;912504007;;Barokhola;Sana Mia;15;75;80;2;1;4;1;1;1;1;3;3;3;4;1;1;4;1;1;32
+Sylhet;25;912505001;;KayestoRai;Gafur Mia;5;25;80;2;1;4;1;2;1;4;4;4;4;4;4;4;4;4;4;51
+Sylhet;25;912505002;;KayestoRai;Pollok Mia;60;300;60;4;1;4;1;1;1;1;4;2;3;3;1;1;4;1;1;33
+Sylhet;25;912505003;;KayestoRai;Shahbuddin Ansaruddin Mazar Bari;20;100;60;2;1;2;1;3;4;2;1;3;3;2;2;3;4;2;4;39
+Sylhet;25;912506001;;MusarGao;Khalik Miar Bari;30;150;20;2;1;4;1;1;1;1;3;2;2;3;1;1;4;1;1;29
+Sylhet;25;912506002;;MusarGao;Kayestor Hall;30;150;10;2;1;4;1;1;2;1;4;1;1;3;2;2;4;1;1;31
+Sylhet;25;912506003;;MusarGao;Kangshostho Bail Road;10;50;8;1;1;4;1;1;1;4;3;1;1;3;1;2;4;1;1;30
+Sylhet;25;912506004;;MusarGao;Kabir Ahmed er Bari;6;30;30;2;1;4;1;1;2;4;4;1;1;4;1;2;4;1;1;34
+Sylhet;25;912506005;;MusarGao;Shah Mansur Road;40;200;30;2;3;4;4;3;2;4;2;4;4;4;4;4;4;4;4;56
+Sylhet;25;912506006;;MusarGao;Fajal Miar Bari;12;60;40;1;1;4;1;1;1;2;4;3;3;4;1;2;4;1;1;34
+Sylhet;25;912507001;;MuminKhola+GalimPur;Kala Miar Bari;5;25;10;2;1;4;1;1;1;4;4;3;3;3;1;2;4;1;1;36
+Sylhet;25;912507002;;MuminKhola+GalimPur;Mifta Mis Bari;15;75;15;2;1;4;1;1;2;3;4;2;2;3;4;3;4;4;4;44
+Sylhet;25;912507003;;MuminKhola+GalimPur;Huzurer Bari;25;125;25;2;1;4;1;1;1;4;2;3;3;2;2;2;4;4;4;40
+Sylhet;25;912507004;;MuminKhola+GalimPur;Daudpur;50;250;70;2;1;4;1;1;2;2;4;2;2;3;1;2;4;1;1;33
+Sylhet;25;912507005;;MuminKhola+GalimPur;Golabari;20;100;15;2;1;4;1;1;1;4;3;3;3;4;1;2;4;1;1;36
+Sylhet;26;912601001;;Kadomtoli;Easin/Sufiya/Haidar/Salek;160;800;18;1;1;3;2;2;2;2;2;2;2;3;2;2;1;1;4;32
+Sylhet;26;912601002;;Kadomtoli;Sarak O Jonopoth Bosoty;150;750;40;1;1;3;2;2;3;3;3;3;4;3;2;4;1;2;4;41
+Sylhet;26;912601003;;Kadomtoli;Haidar/Lal Miya/Malik;50;350;20;2;2;3;2;2;3;2;3;2;2;2;2;2;4;4;4;41
+Sylhet;26;912601004;;Kadomtoli;Rafik/Babul/Ajma;85;500;30;2;2;3;2;3;2;3;2;2;3;3;2;2;3;2;4;40
+Sylhet;26;912601005;;Kadomtoli;Jayed/Helal Box;50;200;20;1;1;2;2;3;3;2;3;1;1;1;1;1;1;1;4;28
+Sylhet;26;912601006;;Kadomtoli;Sayom/ Mamun;70;300;20;1;1;1;2;2;2;2;2;1;1;2;2;2;1;1;4;27
+Sylhet;26;912601007;;Kadomtoli;Tepu Box;20;120;20;2;2;3;2;2;2;2;2;2;2;1;2;3;4;1;4;36
+Sylhet;26;912601008;;Kadomtoli;Malek Manjil;30;170;15;2;2;3;1;2;2;3;2;2;2;3;4;2;4;4;4;42
+Sylhet;26;912601009;;Kadomtoli;Helal Miya;38;210;30;2;1;3;2;2;3;2;2;2;2;2;3;2;4;1;4;37
+Sylhet;26;912601010;;Kadomtoli;Tepu Box;50;300;15;1;2;3;2;2;3;3;3;2;2;3;4;3;4;2;4;43
+Sylhet;26;912602001;;Jhab Para;Motin Miya;150;750;15;1;2;2;2;2;2;1;2;2;2;2;2;2;2;4;4;34
+Sylhet;26;912602002;;Jhab Para;Ali Miya;240;1200;30;1;2;2;2;2;2;2;2;2;2;2;2;3;2;2;4;34
+Sylhet;26;912602003;;Jhab Para;Masum;50;300;25;2;2;2;2;2;2;2;2;2;2;3;2;2;4;2;2;35
+Sylhet;26;912602004;;Jhab Para;Monju Miya;30;75;20;1;2;2;2;2;2;1;1;2;2;2;2;2;4;1;4;32
+Sylhet;26;912602005;;Jhab Para;Ujjol Miya;30;82;20;1;2;2;2;1;2;1;2;2;3;2;2;2;4;4;4;36
+Sylhet;26;912602006;;Jhab Para;Montu Miya;15;40;12;2;2;1;2;2;2;4;2;1;2;2;1;2;4;4;4;37
+Sylhet;26;912603001;;Varthokhola;Vadrol Miya;20;42;12;2;1;1;1;2;3;1;2;2;1;2;4;1;4;1;2;30
+Sylhet;26;912603002;;Varthokhola;Reol Eay Horijon Potti;120;600;20;2;1;3;1;2;1;1;2;2;1;2;4;1;4;3;3;33
+Sylhet;26;912603003;;Varthokhola;Sofek Miya;120;500;30;1;1;1;2;2;2;1;2;2;1;2;4;1;1;1;1;25
+Sylhet;26;912603004;;Varthokhola;Mosharof Miya;50;200;20;1;1;1;2;2;1;1;2;2;1;2;4;1;1;1;1;24
+Sylhet;26;912603005;;Varthokhola;Kawsar Miya;120;300;40;1;1;1;2;2;2;1;2;2;1;2;4;1;4;1;1;28
+Sylhet;26;912603006;;Varthokhola;Ashik Miya;7;20;40;1;1;1;2;2;2;1;3;2;1;2;4;1;1;1;1;26
+Sylhet;26;912603007;;Varthokhola;Nurul Islam;8;27;30;1;1;1;2;2;1;4;2;2;1;2;4;1;1;2;4;31
+Sylhet;26;912604001;;Sadhur Bazar;Raiway Colony;60;300;50;1;1;3;1;1;2;1;2;2;1;2;4;1;4;1;1;28
+Sylhet;26;912604002;;Sadhur Bazar;Raiway Colony;60;300;50;1;1;1;2;2;2;2;2;2;2;1;4;1;4;1;1;29
+Sylhet;26;912604003;;Sadhur Bazar;Hojon Potti Railway Colony;15;50;40;1;1;1;2;1;2;1;2;2;1;2;4;1;4;1;1;27
+Sylhet;26;912604004;;Sadhur Bazar;Railway Colony;70;250;50;1;3;1;1;2;2;1;2;2;1;2;4;1;4;1;1;29
+Sylhet;26;912604005;;Sadhur Bazar;Babu Miya;12;30;60;1;1;1;2;2;1;1;2;2;1;2;4;1;4;1;1;27
+Sylhet;26;912604006;;Sadhur Bazar;Mamu Miya;12;40;40;1;1;1;1;2;2;1;2;2;1;2;4;1;4;1;1;27
+Sylhet;26;912604007;;Sadhur Bazar;Nur Colony;20;130;30;1;1;1;2;2;2;1;2;2;1;2;4;1;4;1;1;28
+Sylhet;26;912605001;;Gangu Uttar;Golam Ali Colony;120;400;25;1;1;1;2;1;1;1;2;2;1;2;4;1;4;1;1;26
+Sylhet;26;912605002;;Gangu Uttar;Jamal Miyar Colony;50;300;25;1;1;1;2;1;1;1;2;2;1;2;4;1;4;1;1;26
+Sylhet;26;912605003;;Gangu Uttar;Sabek Cawnselar Ronir Colony;30;80;25;1;1;1;2;2;2;1;2;2;1;2;4;1;4;1;1;28
+Sylhet;26;912605004;;Gangu Uttar;Selim Miya;10;40;15;1;1;3;1;2;2;2;2;2;2;3;2;2;4;1;4;34
+Sylhet;26;912605005;;Gangu Uttar;Rukul Miya Colony;15;70;20;1;1;1;2;1;1;1;2;2;1;2;4;1;4;1;1;26
+Sylhet;26;912606001;;MominkholaPurbo;Baipas Alauddain Miya;55;300;20;1;1;2;1;2;2;1;2;1;1;2;2;2;4;1;4;29
+Sylhet;27;912701001;;DokkhinKushighat&Hobinandi;Kushe Ghat;350;1500;50;2;1;4;1;1;3;4;3;3;3;3;4;4;4;4;4;48
+Sylhet;27;912701002;;DokkhinKushighat&Hobinandi;Habonde;200;1000;60;2;1;4;1;1;3;4;4;3;3;3;4;4;4;4;4;49
+Sylhet;27;912701003;;DokkhinKushighat&Hobinandi;GangaNagar;400;2000;60;2;1;4;1;1;3;4;4;3;3;3;4;4;4;4;4;49
+Sylhet;27;912701004;;DokkhinKushighat&Hobinandi;GangaNagar (Rakib Miyar Bari);150;750;60;2;1;4;1;1;2;4;3;3;3;3;4;4;4;4;4;47
+Sylhet;27;912701005;;DokkhinKushighat&Hobinandi;Ganga Nagar (Iqball Ahomod Ar Bari);300;1500;60;2;1;4;1;1;2;4;3;3;3;3;4;4;4;4;4;47
+Sylhet;27;912701006;;DokkhinKushighat&Hobinandi;Hobendo (Rajon Miyar Bari);600;3000;60;2;1;4;1;1;2;4;4;3;3;3;4;4;4;4;4;48
+Sylhet;27;912702001;;Alampur;Alompur;20;100;2;3;1;4;1;1;4;4;4;3;3;3;4;4;4;4;4;51
+Sylhet;27;912702002;;Alampur;Alompur ( Sahed Ahomed Ar Bari);115;575;60;2;1;4;1;1;3;3;4;3;3;3;4;4;4;4;4;48
+Sylhet;27;912702003;;Alampur;Alompur (Sahed Ahomoder Bai);250;1250;70;2;1;4;1;1;3;2;3;3;3;3;4;4;4;4;4;46
+Sylhet;27;912702004;;Alampur;Habonda Dokhin Kusheghat;28;140;30;2;1;4;1;1;2;1;3;3;2;2;4;3;4;4;4;41
+Sylhet;27;912703001;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Joghi Sashon (Juneder Bari);250;1250;40;1;1;4;1;1;2;4;3;3;4;3;1;3;4;1;1;37
+Sylhet;27;912703002;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Joghi Sashon (Lahener Bari);40;200;35;2;1;4;1;1;4;4;4;4;3;3;4;4;4;4;4;51
+Sylhet;27;912703003;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Gotatekor Point;50;250;15;4;4;4;2;1;4;3;3;3;3;3;4;1;4;1;1;45
+Sylhet;27;912703004;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Uch Bari;50;250;60;2;1;4;1;1;3;4;3;3;3;3;4;4;4;4;4;48
+Sylhet;27;912703005;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Gotatekor Uch Bari;100;500;20;3;3;4;1;1;2;4;3;3;3;2;4;1;4;1;1;40
+Sylhet;27;912703006;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Gotateka;60;300;50;2;3;4;1;1;3;3;3;3;3;3;4;4;4;4;4;49
+Sylhet;27;912703007;;"BSIC &GutatikarPurba Para 
+&Uchbari&Jugishashon";Gotatekar Purbo Para;400;2000;50;2;1;4;1;1;2;3;3;3;3;3;4;4;4;4;4;46
+Sylhet;27;912704001;;Gutatikar Masjid Colony;Mokbular Colony;71;355;35;2;1;4;2;1;2;2;3;1;1;2;1;1;4;1;1;29
+Sylhet;27;912704002;;Gutatikar Masjid Colony;Gotatikar Passport Office Ar Pashe;10;50;5;1;1;4;2;1;4;3;3;3;3;3;1;1;4;1;1;36
+Sylhet;27;912704003;;Gutatikar Masjid Colony;Gotatikar Seraj Miyar Colony;15;125;20;1;1;4;1;1;1;2;3;1;3;2;1;1;4;2;2;30
+Sylhet;27;912705001;;ShayetGhar&Lalmati;Jakareyar Dokan;180;900;100;1;1;4;1;1;2;2;3;1;1;3;3;2;4;4;4;37
+Sylhet;27;912705002;;ShayetGhar&Lalmati;Sajur Dokan;20;100;50;1;1;4;1;1;2;2;3;3;3;3;2;2;4;4;4;40
+Sylhet;27;912705003;;ShayetGhar&Lalmati;Suiyab Hasaner Dokan;200;1000;50;1;1;3;1;1;2;1;3;3;3;3;1;1;4;1;4;33
+Sylhet;27;912706001;;"Poytta Para &
+AcarjoparaGutatikar";Saimod Alir Bari;50;250;100;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Sylhet;27;912706002;;"Poytta Para &
+AcarjoparaGutatikar";Roton Babur Bari;400;2000;100;1;1;4;1;1;2;2;4;3;3;4;3;3;4;4;4;44
+Sylhet;27;912706003;;"Poytta Para &
+AcarjoparaGutatikar";Moltaba Al And Sons Sonlogno;70;350;100;1;1;3;1;1;2;2;3;3;3;3;2;2;4;1;3;35
+Sylhet;27;912706004;;"Poytta Para &
+AcarjoparaGutatikar";Soncheto Kemad Dever Bari;200;1000;100;1;1;3;1;1;2;3;3;3;3;3;2;2;4;1;3;36
+Sylhet;27;912706005;;"Poytta Para &
+AcarjoparaGutatikar";Monuj Kande Rayer Bari Ar Pichone;120;600;100;1;1;4;1;1;3;1;2;3;3;3;2;2;4;1;3;35
+Sylhet;27;912707001;;Pathan Para;Khan Bari Masjeed Ar Pashe;150;750;100;1;1;4;1;1;3;3;4;3;3;3;1;3;4;4;4;43
+Sylhet;27;912707002;;Pathan Para;Bunu Miyar Bari;400;2000;100;1;1;4;1;1;2;3;2;3;3;3;3;2;4;4;4;41
+Sylhet;27;912707003;;Pathan Para;Dokhin Khan Bari;60;300;100;1;1;4;1;1;3;2;2;3;3;3;4;4;4;4;4;44
+Sylhet;27;912707004;;Pathan Para;aplur Dokan;30;150;50;1;1;2;1;1;3;1;3;3;3;3;2;1;4;4;4;37
+Sylhet;27;912707005;;Pathan Para;Sumon Tragam;200;1000;100;1;1;4;1;1;2;3;4;3;3;3;3;2;4;4;4;43
+Sylhet;27;912707006;;Pathan Para;Mesars Mairan Estor;200;1000;100;1;1;4;1;1;2;3;2;3;3;3;2;2;4;1;3;36
+Sylhet;27;912708001;;"BandorGhat&Kishonpur
+&Sheebbari";Krisha Pur Radha Madber Pashe;57;280;20;2;1;4;2;1;1;3;3;1;2;2;2;2;4;1;1;32
+Sylhet;27;912708002;;"BandorGhat&Kishonpur
+&Sheebbari";Krishno Pur Ustar Miyar Bari Ar Pashe;37;185;40;3;1;4;2;1;1;2;2;2;2;2;1;2;4;1;1;31
+Sylhet;27;912708003;;"BandorGhat&Kishonpur
+&Sheebbari";Boro Bari;76;380;30;1;1;4;1;1;2;2;2;1;2;2;1;2;4;1;1;28
+Sylhet;27;912708004;;"BandorGhat&Kishonpur
+&Sheebbari";Babul Miya Bari;112;560;100;2;1;4;2;1;2;1;3;1;2;2;1;3;4;1;1;31
+Sylhet;27;912708005;;"BandorGhat&Kishonpur
+&Sheebbari";Shib Monderer Manek Lal Bad;40;200;100;1;1;3;1;1;2;2;2;2;2;2;1;3;4;1;1;29
+Sylhet;27;912708006;;"BandorGhat&Kishonpur
+&Sheebbari";Shiv Bari Bazar Atiyar Moholer Pashe;35;175;15;2;3;3;2;1;1;3;3;3;3;2;1;2;3;1;1;34
+Sylhet;27;912708007;;"BandorGhat&Kishonpur
+&Sheebbari";Pathan Para;400;2000;50;3;1;4;1;1;3;3;3;3;3;3;4;4;4;4;4;48
+Sylhet;27;912708008;;"BandorGhat&Kishonpur
+&Sheebbari";Pathan Para;600;3000;50;3;4;4;1;1;3;2;3;3;3;3;4;4;4;4;4;50
+Sylhet;27;912708009;;"BandorGhat&Kishonpur
+&Sheebbari";Jownpur;500;2500;50;2;1;4;1;1;3;1;3;3;3;3;4;4;4;4;4;45
+Sylhet;27;912708010;;"BandorGhat&Kishonpur
+&Sheebbari";Nupur Aplor Bari;200;1000;50;2;1;4;1;1;4;3;3;3;3;3;4;4;4;4;4;48

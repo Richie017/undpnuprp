@@ -1,0 +1,291 @@
+{% extends 'reports/base/_viewport.html' %}
+
+{% load blackwidow_filter %}
+
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-4">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-7 map-info">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right load-map-button generic-btn-style">Update Map</button>
+                </h1>
+            </li>
+        </ul>
+    </div> <!--//.COL-->
+{% endblock %}
+
+
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <div class="" style="padding: 0;">
+            <form class="col-md-12 col-sm-12">
+                <div class="custom-col-12 col-md-12 col-sm-12" style="padding: 5px 0 0 0;">
+                    {% for field in parameters.G1 %}
+                        {% if field|is_datetime %}
+                            <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                                <label for="datetimepicker1">{{ field.label }}</label>
+                                <div class='col-md-12 col-sm-12 input-append date datetimepicker controls'
+                                     id='datetimepicker1'
+                                     style="padding-left: 0;">
+                                    {% render_field field|add_error_class:'input-validation-error' %}
+                                    <span class="add-on date-sel">
+                                        <i data-date-icon="icon-calendar"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        {% else %}
+                            <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                                <label for="{{ field.name.lower }}">{{ field.label }}</label>
+                                <div class="col-md-12 col-sm-12 controls"
+                                     style="padding-left: 0;">
+                                    {% render_field field|add_error_class:'input-validation-error' %}
+                                    <span class="field-validation-valid" data-valmsg-replace="true"
+                                          data-valmsg-for="{{ field.name.lower }}"></span>
+                                    {{ field.errors }}
+                                </div>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+                        <div class="col-md-12 col-sm-12 controls list-unstyled map-list" style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    </div>
+                {% endfor %}
+                {% for field in parameters.G3 %}
+                    <div class="custom-col-3 col-md-3 col-sm-6 form-group" style="display: block; padding: 0;">
+                        <div class="col-md-12 col-sm-12 controls list-unstyled map-list" style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <label for="id_{{ field.name.lower }}"
+                                   style="cursor: pointer;">{{ field.label }}</label>
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    </div>
+                {% endfor %}
+            </form>
+        </div> <!--//.COL 3-->
+
+        <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+            <div class="col-md-12  col-sm-12" style="padding-left: 0;">
+                <span id="map-title" class="text-left"></span>
+                <div id="map-view" class="row-fluid map-container"
+                     style="margin: 0; padding: 0; position: relative"></div>
+                <div id="legend">
+                    <h2>Legend</h2>
+                    <ul class="legend" style="max-height: 450px; overflow: hidden; ">
+                        {% for legend in legend_items %}
+                            <li style="position:relative;" data-id="{{ legend.id }}" data-color="{{ legend.color }}">
+                                <span style="margin-right:0;">{% include 'static/img/marker-dynamic-color.svg' with color=legend.color %}</span>
+                                <span style="display: block; position:absolute; top: 4px; right: 15px; height:100%; width:130px;">{{ legend.name }}</span>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div> <!--//.COL-->
+    {% endwith %}
+{% endblock %}
+
+
+{% block childscripts2 %}
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var map = null;
+            var center = {lat: 35.0, lng: 70.0};
+            var markers = [];
+            var infowindows = [];
+            var icons = [];
+
+            var img = new Image();
+            img.src = "/static/img/distrib2.svg";
+            img.src = "/static/img/apared.svg";
+            img.src = "/static/img/apagreen.svg";
+            function initialize(center) {
+                var mapOptions = {
+                    center: center,
+                    zoom: 10
+                };
+                return new google.maps.Map(document.getElementById('map-view'), mapOptions);
+            }
+
+            function update_map(data, action_callback) {
+                $.ajax({
+                    url: '?format=json',
+                    type: 'get',
+                    data: data,
+                    dataType: 'json',
+                    success: function (result) {
+                        action_callback(result);
+                        $('body,html').animate({scrollTop: document.body.scrollHeight}, 1000);
+                        if (result != null) {
+                            $("#map-title").html(result.title);
+                            for (var i = 0; i < markers.length; i++) {
+                                markers[i].setMap(null);
+                            }
+                            markers = [];
+                            icons = [];
+                            infowindows = [];
+                            var bounds = new google.maps.LatLngBounds();
+                            var center = {lat: 35, lng: 70};
+                            for (var i = 0; i < result.items.length; i++) {
+                                var data = result.items[i];
+                                var lat = data.latitude;
+                                var lng = data.longitude;
+                                var myLatLng = new google.maps.LatLng(lat, lng);
+                                icons[i] = get_icon(data.client_type);
+                                markers[i] = new google.maps.Marker({
+                                    position: myLatLng,
+                                    title: data.title,
+                                    icon: icons[i],
+                                    client_type: data.client_type
+                                });
+
+                                infowindows[i] = "<div style='color: " + get_color(data.client_type) + ";'>Name of Household: " + data.name + "<br/>";
+                                infowindows[i] += data.address_label + ": " + data.address_name + "<br/>";
+                                infowindows[i] += "</div>";
+
+                                bounds.extend(markers[i].position);
+
+                                center.lat = (center.lat * i + lat) / (i + 1);
+                                center.lng = (center.lng * i + lng) / (i + 1);
+                            }
+                            if (result.items.length == 1) {
+                                bounds.extend(new google.maps.LatLng(34.543896, 69.160652));
+                                bounds.extend(new google.maps.LatLng(34.543896, 69.160652));
+                                map.setCenter(center)
+                            }
+                            else if (result.items.length > 1) {
+                                map.setCenter(bounds.getCenter());
+                            } else {
+                                bounds.extend(new google.maps.LatLng(34, 70));
+                                bounds.extend(new google.maps.LatLng(35, 70));
+                                map.setCenter(center)
+                            }
+                            setTimeout(function () {
+                                for (var i = 0; i < markers.length; i++) {
+                                    markers[i].setMap(map);
+                                    attachMessage(map, markers[i], infowindows[i]);
+                                }
+                                map.fitBounds(bounds);
+                            }, 500);
+                        }
+                    },
+                    error: function (ad) {
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    }
+                })
+            }
+
+
+            function attachMessage(map, marker, message) {
+                var infowindow = new google.maps.InfoWindow(
+                    {
+                        content: message,
+                        size: new google.maps.Size(50, 50)
+                    });
+                google.maps.event.addListener(marker, 'click', function () {
+                    infowindow.open(map, marker);
+                });
+            }
+
+            function get_icon(value) {
+                var $legend_element = $('ul.legend');
+                var _path = $legend_element.find("li[data-id=" + value + "] svg g path").attr('d');
+                var _fill_color = $legend_element.find("li[data-id=" + value + "] svg g path").css('fill');
+                var _svg_img = {
+                    url: '/static/img/marker-purple.svg',
+                    scaledSize: new google.maps.Size(20, 30),
+                    origin: new google.maps.Point(0, 0),
+                    anchor: new google.maps.Point(12, 12)
+                };
+
+                if (_path != null && _fill_color != null) {
+                    _svg_img = {
+                        path: _path,
+                        fillColor: _fill_color,
+                        fillOpacity: 1,
+                        scaledSize: new google.maps.Size(20, 30),
+                        origin: new google.maps.Point(0, 0),
+                        anchor: new google.maps.Point(12, 12),
+                        scale: .07
+                    };
+                }
+                return _svg_img;
+            }
+
+            function get_color(value) {
+                var _color = $('ul.legend').find("li[data-id=" + value + "]").data('color');
+                if (_color == null) {
+                    _color = '#dd00dd'
+                }
+                return _color;
+            }
+
+            $(function () {
+                resizeDiv();
+                $(".date-selector").datepicker({
+                    format: 'dd-mm-yyyy'
+                });
+                $(".datetimepicker").datetimepicker({
+                    pick12HourFormat: true,
+                    pickTime: false
+                });
+
+                map = initialize(center);
+                map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('legend'));
+
+                //load map data
+                $(".map-info").on('click', '.load-map-button', function () {
+                    var tthis = this;
+                    $(tthis).removeClass('generic-btn-style').addClass('generic-danger-btn-style').html('Please wait... Updating Map');
+                    var parameters = {};
+                    update_map(parameters, function (result) {
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    });
+                });
+                $("ul.legend li").on('click', function (event) {
+                    var selected_marker_id = $(this).data('id');
+                    for (var i = 0; i < markers.length; i++) {
+                        if (markers[i].client_type == selected_marker_id) {
+                            if (!markers[i].getVisible()) {
+                                markers[i].setVisible(true);
+                            } else {
+                                markers[i].setVisible(false);
+                            }
+                        }
+                    }
+                });
+            });
+
+            var parameters = {};
+            update_map(parameters, function (result) {
+            });
+            window.onresize = function (event) {
+                resizeDiv();
+            };
+            function resizeDiv() {
+                var window_height = $(window).height();
+                var title_height = $("#map-title").height();
+                var vph = window_height - title_height * 1.5;
+                $('#map-view').css({'height': vph + 'px'});
+            }
+        });
+    </script>
+{% endblock %}

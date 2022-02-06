@@ -1,0 +1,253 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Gopalganj;1;060111;10600101001;Moulvipara;Moulavi Para Girzar Nikot;5;26;25;1;3;4;1;3;3;1;2;3;2;3;4;3;2;4;4;43
+Gopalganj;1;060112;10600101002;Moulvipara;Diku Mollar Barir Nikot;6;27;30;3;1;4;1;1;1;3;3;3;1;2;2;1;3;1;1;31
+Gopalganj;1;060113;10600101003;Moulvipara;Selim Ukiler Barir Nikot;5;37;22;2;1;4;1;2;3;2;2;3;1;2;1;2;3;1;3;33
+Gopalganj;1;060114;10600101004;Moulvipara;Girzar Nikot;5;29;30;3;1;4;1;4;2;4;3;3;1;3;4;2;4;4;4;47
+Gopalganj;1;060115;10600101005;Moulvipara;Babu Mollar Barir Nikot;6;32;25;1;1;4;1;1;3;1;3;3;1;2;4;1;4;4;4;38
+Gopalganj;1;060116;10600101006;Moulvipara;Dalim Khaner Barir Nikot;7;37;20;2;1;4;1;2;2;1;2;3;1;2;3;2;3;1;2;32
+Gopalganj;1;060117;10600101007;Moulvipara;Shahida Begumer Barir Pase;7;40;30;4;4;4;1;3;3;2;2;3;1;3;4;3;4;4;4;49
+Gopalganj;1;060118;10600101008;Moulvipara;Iliyas Chowdhurir Barir Nikot;5;27;20;2;1;4;1;3;2;3;2;3;1;3;3;3;3;1;2;37
+Gopalganj;1;060119;10600101009;Moulvipara;Pintu Mollar Barir Nikot;5;25;15;2;2;4;1;4;3;2;3;3;1;3;1;2;3;1;2;37
+Gopalganj;1;0601110;10600101010;Moulvipara;Shahed Mollar Barir Nikot;10;53;30;2;2;4;1;3;3;2;2;3;1;3;3;2;3;1;2;37
+Gopalganj;1;0601111;10600101011;Moulvipara;Jashimer Dokaner Pishe;5;27;15;2;1;3;1;3;2;1;3;3;1;3;2;2;3;1;2;33
+Gopalganj;1;0601112;10600101012;Moulvipara;Hakimder Barir Paser Bosoti;9;42;15;2;1;4;1;2;1;4;3;3;1;4;1;3;4;1;3;38
+Gopalganj;1;0601113;10600101013;Moulvipara;Khayer Saber Barir Paser Bosoti;6;32;30;1;2;4;1;2;4;1;4;4;1;4;4;3;4;4;4;47
+Gopalganj;1;0601114;10600101014;Moulvipara;Basu Mollar Barir Paser Bosoti;7;30;43;2;2;4;1;2;3;1;3;3;1;3;4;3;4;4;4;44
+Gopalganj;1;0601115;10600101015;Moulvipara;Enamuler Barir Nikoter Bosoti;8;40;30;1;1;4;1;3;3;1;3;3;4;3;4;3;4;4;4;46
+Gopalganj;1;0601116;10600101016;Moulvipara;Kobirer Barir Paser Bosoti;8;35;36;1;4;4;1;3;4;1;3;3;1;3;4;3;3;3;2;43
+Gopalganj;1;0601117;10600101017;Moulvipara;Martiner Bosoti;8;42;25;1;2;4;1;4;3;1;3;3;1;4;4;3;4;4;4;46
+Gopalganj;1;0601118;10600101018;Moulvipara;Alomgirer Bosoti;8;40;45;2;3;4;1;4;3;1;3;3;3;4;4;3;4;4;4;50
+Gopalganj;1;0601119;10600101019;Moulvipara;Furir Barir Nikoter Bosoti;7;40;45;2;1;4;1;3;3;1;3;3;1;3;4;3;4;4;4;44
+Gopalganj;1;0601120;10600101020;Moulvipara;Shahin Vaier Barir Paser Bosoti;9;45;30;1;2;4;1;4;3;1;3;3;1;4;4;3;3;1;1;39
+Gopalganj;1;0601121;10600101021;Moulvipara;Sakhayet Mollar Barir Paser Bosoti;8;40;35;2;1;4;1;4;3;2;4;3;1;3;4;3;4;1;1;41
+Gopalganj;1;0601122;10600101022;Moulvipara;Basharer Bosoti;14;60;35;2;1;4;1;4;3;4;4;3;2;3;1;3;3;4;4;46
+Gopalganj;1;060121;10600102001;Munshi Para;Ashok Dadar Barir Pase;10;53;30;2;3;4;1;2;3;1;4;2;1;2;4;3;4;4;4;44
+Gopalganj;1;060122;10600102002;Munshi Para;Nihar Bishasher Bari;9;38;42;2;1;4;1;1;2;2;4;3;1;2;4;3;4;4;3;41
+Gopalganj;1;060123;10600102003;Munshi Para;Hanif Kazir Barir Pase;7;41;30;4;4;4;1;4;3;4;4;3;2;2;4;3;4;4;3;53
+Gopalganj;1;060124;10600102004;Munshi Para;Shahider Bari;6;32;25;1;1;4;1;4;3;1;4;3;2;2;4;3;4;4;4;45
+Gopalganj;1;060125;10600102005;Munshi Para;Jakir Bhaiyer Bari;7;35;25;1;1;4;1;4;3;1;4;3;2;2;4;3;4;4;4;45
+Gopalganj;1;060126;10600102006;Munshi Para;Panir Tankir Paser Goli (Jahid);8;33;20;1;1;4;1;4;3;1;4;3;2;2;1;3;4;1;1;36
+Gopalganj;1;060127;10600102007;Munshi Para;Halimer Barir Nikot;8;40;30;2;3;4;1;3;3;2;4;3;1;3;3;3;3;1;1;40
+Gopalganj;1;060128;10600102008;Munshi Para;Babul Kazir Bari;10;62;45;2;1;4;1;3;3;1;4;3;3;3;4;3;4;4;4;47
+Gopalganj;1;060129;10600102009;Munshi Para;Jhontu Bhaiyer Barir Pase;6;27;25;2;1;4;1;1;3;1;3;3;2;2;4;3;4;4;4;42
+Gopalganj;1;0601210;10600102010;Munshi Para;Tapan Mastarer Barir Pase;5;38;40;2;3;4;1;4;3;2;3;3;3;3;4;3;4;4;4;50
+Gopalganj;1;0601211;10600102011;Munshi Para;CDC Office Chottor;12;45;30;2;2;4;1;3;3;1;3;3;1;3;4;3;3;4;4;44
+Gopalganj;1;060151;10600105001;Bedgram Purbo Para;Najim Sekher Bosoti;8;35;25;1;1;3;1;1;1;1;2;2;2;4;2;1;2;1;2;27
+Gopalganj;1;060152;10600105002;Bedgram Purbo Para;Ulu Sekher Bosoti;6;27;35;2;1;3;1;1;1;1;2;1;2;4;4;1;4;4;4;36
+Gopalganj;1;060153;10600105003;Bedgram Purbo Para;Jhorna Begumer Bari;6;25;28;1;1;4;1;1;1;1;3;3;2;1;1;1;2;1;3;27
+Gopalganj;1;060154;10600105004;Bedgram Purbo Para;Homeo College'r Poschim Paser Bosoti;8;45;35;1;1;4;1;1;1;1;3;3;2;2;1;1;1;1;3;27
+Gopalganj;1;060155;10600105005;Bedgram Purbo Para;Chayna Begum'r Bari;8;40;30;1;1;3;1;1;1;1;1;2;2;4;1;1;1;1;3;25
+Gopalganj;1;060156;10600105006;Bedgram Purbo Para;Dhali Bari-1;8;25;24;2;1;3;1;1;1;1;2;3;2;4;2;1;4;1;3;32
+Gopalganj;1;060157;10600105007;Bedgram Purbo Para;Dhali Bari-2;7;20;26;2;1;3;1;1;1;1;1;2;3;4;1;1;1;1;3;27
+Gopalganj;1;060158;10600105008;Bedgram Purbo Para;Dhali Bari-3;7;29;22;2;1;4;1;1;1;1;3;3;2;4;1;1;1;1;3;30
+Gopalganj;1;060159;10600105009;Bedgram Purbo Para;Sahid Seikh'r Bosoti;6;30;23;1;1;3;1;1;1;1;3;3;3;1;3;1;4;4;4;35
+Gopalganj;1;0601510;10600105010;Bedgram Purbo Para;Enayet Mollar Bosoti;7;26;21;1;1;3;1;1;1;1;1;2;3;4;1;1;4;4;4;33
+Gopalganj;1;0601511;10600105011;Bedgram Purbo Para;Tikka Sekher Bari;6;27;16;1;1;3;1;1;1;1;4;3;2;4;1;1;2;1;3;30
+Gopalganj;1;0601512;10600105012;Bedgram Purbo Para;Sobur Bosoti;10;40;30;1;1;3;1;1;1;1;4;3;2;4;3;1;4;4;4;38
+Gopalganj;1;0601513;10600105013;Bedgram Purbo Para;Foyez Shekher Bari;11;42;45;1;1;3;1;1;1;1;2;1;3;4;1;2;4;4;4;34
+Gopalganj;1;0601514;10600105014;Bedgram Purbo Para;Bedgram Purbopara Bosoti;21;90;20;2;1;4;1;3;1;1;3;3;1;4;1;1;1;1;3;31
+Gopalganj;1;0601515;10600105015;Bedgram Purbo Para;Tuta Chowdury Bosoti;15;75;45;1;1;3;1;1;2;1;3;3;2;4;4;1;4;4;4;39
+Gopalganj;1;060141;10600104001;Bedgram Fire Service Road;Abbas Shekher Bosoti;8;36;30;1;1;4;1;4;4;1;4;3;1;4;4;4;4;4;4;48
+Gopalganj;1;060142;10600104002;Bedgram Fire Service Road;Umul Shiler Barir Nikot;5;23;30;4;4;4;1;4;4;1;4;3;1;3;4;3;4;4;4;52
+Gopalganj;1;060143;10600104003;Bedgram Fire Service Road;Durga Mondir Bari;10;47;30;2;2;4;1;3;4;1;4;3;1;4;4;3;4;4;4;48
+Gopalganj;1;060144;10600104004;Bedgram Fire Service Road;Shajahan Sikder'r Bari;5;23;35;3;1;4;1;4;4;1;4;3;1;4;4;4;4;4;4;50
+Gopalganj;1;060145;10600104005;Bedgram Fire Service Road;Hira Bari;8;35;40;2;2;1;1;4;4;1;4;3;1;4;4;3;4;4;4;46
+Gopalganj;1;060146;10600104006;Bedgram Fire Service Road;Fireman Ilias'r Bari;8;35;30;1;2;4;1;4;4;1;4;3;1;4;4;3;4;4;4;48
+Gopalganj;1;060147;10600104007;Bedgram Fire Service Road;Bajinather Bari;13;30;25;2;2;4;1;3;4;1;4;3;1;4;4;3;4;4;4;48
+Gopalganj;1;060131;10600103001;Gatepara;Habib Gazir Basar Samne;8;35;6;1;1;4;1;2;1;4;4;3;1;4;1;1;1;2;2;33
+Gopalganj;1;060132;10600103002;Gatepara;Osmaner Varatia Bari;6;25;2;4;1;4;1;1;1;4;1;2;2;4;1;1;1;2;1;31
+Gopalganj;1;060133;10600103003;Gatepara;Hanif Munshir Bari;7;27;2;1;1;4;1;1;3;1;3;1;1;4;2;2;3;1;3;32
+Gopalganj;1;060134;10600103004;Gatepara;Kuddus Mollar Bari;8;42;60;1;1;4;1;1;2;1;4;2;3;4;1;1;1;1;1;29
+Gopalganj;1;060135;10600103005;Gatepara;Khalil Munshir Bari;6;30;80;1;3;4;1;1;1;1;2;3;3;4;1;1;3;1;1;31
+Gopalganj;1;060136;10600103006;Gatepara;Khalida Apar Bari;6;20;8;2;1;3;4;1;3;1;1;3;2;1;4;3;4;4;3;40
+Gopalganj;1;060137;10600103007;Gatepara;Rupul Bhiar Bari;10;40;32;1;3;4;3;1;3;1;3;3;2;4;3;1;3;4;4;43
+Gopalganj;1;060138;10600103008;Gatepara;Sobor Miar Bari;8;35;30;1;1;4;1;1;1;1;2;3;2;4;3;1;3;4;4;36
+Gopalganj;1;060139;10600103009;Gatepara;Lily'r Bari;6;22;35;1;1;4;1;1;1;1;3;3;2;4;1;1;1;1;3;29
+Gopalganj;1;0601310;10600103010;Gatepara;Sahidir Bari;10;31;8;1;1;4;1;1;1;1;3;3;2;4;1;1;2;1;3;30
+Gopalganj;1;0601311;10600103011;Gatepara;Badal Munshir Bari;8;30;60;2;1;4;1;1;1;1;4;3;3;4;3;3;3;1;3;38
+Gopalganj;1;0601312;10600103012;Gatepara;Malek Khandaker ar Bari;10;27;65;2;1;3;1;1;1;1;4;2;3;4;3;3;3;4;4;40
+Gopalganj;2;060251;10600205001;Natun Bazar;Natun Bazar Bosoti;15;70;80;4;1;3;1;4;2;2;3;2;2;2;3;2;1;1;3;36
+Gopalganj;2;060261;10600206001;Thana Para;Jaman Miar Vita;17;105;50;1;1;4;4;1;4;1;4;4;4;3;4;1;1;1;1;39
+Gopalganj;2;060262;10600206002;Thana Para;Bapari Para Bosoti;15;300;150;1;2;4;3;4;1;1;4;4;4;4;4;1;3;4;4;48
+Gopalganj;3;060311;10600301001;Bedgram Dakshin Para;Methodics School ar Uttar Pas;12;66;12;1;1;4;1;3;3;1;4;3;1;4;4;3;4;4;4;45
+Gopalganj;3;060312;10600301002;Bedgram Dakshin Para;Paurashavar Pokur ar Purbo Pas;8;40;32;2;2;4;1;1;2;1;4;3;1;4;4;4;4;4;4;45
+Gopalganj;3;060313;10600301003;Bedgram Dakshin Para;Ramjan Mollar Bari;6;24;20;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Gopalganj;3;060314;10600301004;Bedgram Dakshin Para;Liton Sarkarer Bari;9;41;17;3;2;3;1;3;2;1;4;4;3;3;3;2;4;4;4;46
+Gopalganj;3;060315;10600301005;Bedgram Dakshin Para;Mohila Madrashar Pase;6;22;35;3;2;4;1;4;2;2;4;2;1;3;4;2;4;4;4;46
+Gopalganj;3;060321;10600302001;Bedgram Kadomtoli Masjid Para;Kulubari;12;75;13;1;1;4;1;2;2;1;2;3;2;2;1;3;4;1;3;33
+Gopalganj;3;060322;10600302002;Bedgram Kadomtoli Masjid Para;Shouvor Dokan;7;45;12;2;1;4;1;3;1;3;3;4;2;1;1;3;4;1;3;37
+Gopalganj;3;060323;10600302003;Bedgram Kadomtoli Masjid Para;CCDB Machbazar Road;13;70;18;2;1;4;1;3;1;1;3;3;1;2;1;1;4;1;3;32
+Gopalganj;3;060324;10600302004;Bedgram Kadomtoli Masjid Para;Sobur Mollar Bagan;6;30;9;1;1;4;1;2;3;1;4;4;2;2;4;3;4;4;4;44
+Gopalganj;3;060325;10600302005;Bedgram Kadomtoli Masjid Para;Daria Bari;18;95;25;2;1;3;2;2;2;1;3;3;1;1;2;2;2;1;2;30
+Gopalganj;3;060326;10600302006;Bedgram Kadomtoli Masjid Para;Bedgram Moshjid;14;90;25;3;1;4;1;3;1;2;4;1;1;1;2;3;4;1;3;35
+Gopalganj;3;060331;10600303001;Mia Para;Khelada Apar Dokan;8;50;15;2;1;2;1;2;2;1;3;3;1;1;1;1;4;1;3;29
+Gopalganj;3;060332;10600303002;Mia Para;Atimkhanar Picha;7;45;15;2;1;4;1;2;1;1;4;3;1;2;1;1;4;1;3;32
+Gopalganj;3;060333;10600303003;Mia Para;Atimkhanar Pasa;6;30;18;2;1;4;1;2;1;1;4;1;1;2;3;2;4;1;3;33
+Gopalganj;3;060341;10600304001;Borobari;Barobarir Dokkhinna;15;120;20;1;1;4;1;1;1;1;3;3;1;1;1;1;4;1;3;28
+Gopalganj;3;060342;10600304002;Borobari;Lipir Dokan;18;120;22;1;1;4;1;1;1;1;4;3;2;2;1;2;4;1;3;32
+Gopalganj;3;060343;10600304003;Borobari;Koborsthan Ar Purba Pasa;12;75;18;2;1;4;1;1;1;2;4;2;2;2;1;1;4;1;3;32
+Gopalganj;3;060344;10600304004;Borobari;Merrystope ar pesa;8;50;35;2;1;3;1;2;2;1;3;3;1;2;2;1;4;1;3;32
+Gopalganj;3;060351;10600305001;Uttar Mia Para;Mission ar Picha;7;35;20;2;1;4;1;1;3;1;4;3;1;3;2;1;4;1;3;35
+Gopalganj;3;060352;10600305002;Uttar Mia Para;Panirktanki;8;60;18;2;1;4;1;2;2;1;3;3;1;2;2;1;4;1;3;33
+Gopalganj;3;060353;10600305003;Uttar Mia Para;Azgar Ukil;5;22;13;2;1;4;1;2;2;1;4;3;1;2;2;1;4;1;3;34
+Gopalganj;3;060361;10600306001;Bakultola;Bakultola Poschim Koborosthan;6;28;25;1;1;4;1;4;3;3;3;3;2;4;4;2;3;1;1;40
+Gopalganj;3;060362;10600306002;Bakultola;Abul Basar Road;7;40;20;4;4;4;3;4;3;4;4;2;2;4;4;3;4;4;4;57
+Gopalganj;3;060363;10600306003;Bakultola;Abul Basar Dokahinara;5;30;22;4;4;4;3;4;4;4;3;3;2;3;4;3;4;4;4;57
+Gopalganj;3;060364;10600306004;Bakultola;Abul Basar Uttarpara;8;38;15;4;4;4;2;3;3;3;3;3;1;3;4;3;4;4;4;52
+Gopalganj;3;060371;10600307001;Christian Para;Christian Para;5;24;18;4;4;4;4;4;4;4;4;3;4;4;4;3;4;4;4;62
+Gopalganj;3;060372;10600307002;Christian Para;Miapara;5;24;22;4;4;4;3;4;4;4;4;3;4;4;4;3;4;4;4;61
+Gopalganj;3;060381;10600308001;Thanapara;Thanapar;6;27;25;4;3;4;3;4;3;4;3;3;2;3;4;3;4;4;4;55
+Gopalganj;3;060382;10600308002;Thanapara;Thanapara Shamor Daroga Bari;5;27;22;4;3;4;3;4;3;3;4;4;3;3;4;3;4;4;4;57
+Gopalganj;4;060411;10600401001;Poschim Mia Para;Masuder Bosoti;18;20;60;2;2;3;1;0;1;2;2;3;2;1;1;2;1;1;2;26
+Gopalganj;4;060412;10600401002;Poschim Mia Para;Purano Sonali Bank Para;17;21;50;1;2;3;1;1;1;1;1;1;2;2;1;1;1;1;1;21
+Gopalganj;4;060413;10600401003;Poschim Mia Para;Gosh Para Bosoti;16;63;40;1;4;4;1;4;1;4;2;1;1;1;1;1;1;3;2;32
+Gopalganj;4;060414;10600401004;Poschim Mia Para;Sorosotir Bosoti;12;30;70;3;1;4;1;1;1;3;2;2;2;2;4;4;4;4;4;42
+Gopalganj;4;060421;10600402001;Dakshin Mia Para;Fatemar Bosoti;31;40;15;1;1;3;2;1;1;2;2;2;1;1;1;2;3;1;1;25
+Gopalganj;4;060422;10600402002;Dakshin Mia Para;Aziar Bosoti;12;62;42;2;1;4;1;3;2;2;4;3;1;3;3;2;2;1;1;35
+Gopalganj;4;060423;10600402003;Dakshin Mia Para;Mosarek;4;21;45;2;2;4;1;0;2;3;2;2;2;3;4;3;4;1;4;39
+Gopalganj;4;060424;10600402004;Dakshin Mia Para;Sukhir Bosoti;18;55;26;2;3;3;2;2;2;2;3;2;1;3;2;1;2;1;1;32
+Gopalganj;4;060425;10600402005;Dakshin Mia Para;Piyasar Bosoti;8;34;23;2;1;3;2;3;2;3;1;2;1;2;3;3;4;1;4;37
+Gopalganj;4;060426;10600402006;Dakshin Mia Para;Saylar Bosoti;12;33;15;1;1;3;2;1;1;2;1;2;1;1;2;2;3;1;1;25
+Gopalganj;4;060427;10600402007;Dakshin Mia Para;Ami Roner Bosoti;15;48;22;1;1;3;2;1;1;2;4;3;1;3;1;2;3;1;1;30
+Gopalganj;4;060428;10600402008;Dakshin Mia Para;Ismoter Bosoti;8;37;29;1;1;3;2;1;1;2;4;3;1;3;1;2;3;1;1;30
+Gopalganj;4;060429;10600402009;Dakshin Mia Para;Jalaler Bosoti;25;80;70;1;1;4;2;2;1;2;4;2;1;1;1;2;2;1;1;28
+Gopalganj;4;0604210;10600402010;Dakshin Mia Para;Hanofar Bosoti;17;70;70;2;1;4;1;1;1;2;4;3;1;3;1;1;4;1;1;31
+Gopalganj;4;060431;10600403001;Dakshin Mia Para;Hazi Kabile Bosoti;7;26;50;1;1;3;1;1;1;2;1;3;1;3;2;1;4;4;4;33
+Gopalganj;4;060432;10600403002;Dakshin Mia Para;Mutalab Sir ar Bosoti;10;25;10;1;0;3;1;1;1;2;2;3;1;1;1;2;2;1;1;23
+Gopalganj;4;060433;10600403003;Dakshin Mia Para;Khadizar Bosoti;8;40;30;1;1;3;1;1;1;1;2;0;1;1;1;1;4;1;2;22
+Gopalganj;4;060434;10600403004;Dakshin Mia Para;Sardar Bari;6;25;9;1;1;3;1;1;1;1;2;3;1;2;1;2;1;1;1;23
+Gopalganj;4;060435;10600403005;Dakshin Mia Para;Nazmul Vita;6;24;4;1;1;3;1;1;1;2;2;1;1;3;2;3;4;4;4;34
+Gopalganj;4;060436;10600403006;Dakshin Mia Para;Sobrer Bari;6;20;20;1;1;3;1;1;1;1;1;1;1;2;1;3;4;4;4;30
+Gopalganj;4;060437;10600403007;Dakshin Mia Para;Kabul Mollar Bosti;6;22;15;1;1;3;1;2;1;1;3;1;3;1;6;4;1;1;1;31
+Gopalganj;4;060438;10600403008;Dakshin Mia Para;Surojer Vita;6;21;10;1;1;3;1;1;1;1;1;1;1;2;1;1;1;1;1;19
+Gopalganj;4;060441;10600404001;Dakshin Mia Para;Mera janer Bosti;19;75;25;4;1;2;1;2;1;2;4;3;1;4;3;1;1;1;1;32
+Gopalganj;4;060442;10600404002;Dakshin Mia Para;Konar Bosoti;25;112;26;2;1;2;1;2;2;2;4;2;2;3;3;2;2;4;1;35
+Gopalganj;4;060443;10600404003;Dakshin Mia Para;Reboti Bosoti;7;30;26;2;1;4;1;2;1;2;4;2;1;3;3;1;3;1;1;32
+Gopalganj;4;060444;10600404004;Dakshin Mia Para;Sahiner Bosoti;15;53;20;2;1;3;1;2;1;2;4;1;1;3;1;1;2;1;1;27
+Gopalganj;4;060445;10600404005;Dakshin Mia Para;Kalamer Bosoti;20;92;18;2;1;2;1;1;1;2;3;1;1;3;1;1;2;1;1;24
+Gopalganj;4;060446;10600404006;Dakshin Mia Para;Rahilar Bari;28;87;22;1;1;3;1;1;1;1;3;2;1;1;3;1;2;1;1;24
+Gopalganj;5;060511;10600501001;Power House Road;Azamer Mohalla;81;342;64;4;3;4;2;3;3;1;4;3;2;2;3;2;3;4;1;44
+Gopalganj;5;060512;10600501002;Power House Road;Tutol Mollar Mahalla;46;192;64;2;1;4;2;4;2;1;3;1;2;1;2;2;2;4;1;34
+Gopalganj;5;060513;10600501003;Power House Road;Ranjit Sarker ar Mohalla;65;246;52;4;3;4;2;4;3;1;4;3;3;3;3;3;3;4;3;50
+Gopalganj;5;060514;10600501004;Power House Road;Younus Ali Mollar Mahalla;42;163;50;3;3;4;2;3;3;1;4;3;2;3;2;3;2;4;1;43
+Gopalganj;5;060521;10600502001;Udayan Road Mahalla;Commissioner Khosru;72;320;62;4;3;4;2;3;3;2;4;2;2;3;3;2;2;4;1;44
+Gopalganj;5;060522;10600502002;Udayan Road Mahalla;Sanu Bhuyian;110;520;56;2;2;4;2;2;2;1;4;2;2;3;3;1;1;4;1;36
+Gopalganj;5;060541;10600504001;Dakshin Moulvipara;Hannan Mollah;30;135;13;1;3;4;1;4;1;1;3;3;4;4;4;1;2;1;4;41
+Gopalganj;5;060542;10600504002;Dakshin Moulvipara;Tanju Mollah;34;103;22;4;1;4;2;4;1;1;4;3;3;4;4;1;2;4;4;46
+Gopalganj;6;060611;10600601001;Purbo Arambag;Jibon Bisshasher Bashati;6;30;25;1;1;1;1;1;4;1;4;4;1;4;4;4;4;4;4;43
+Gopalganj;6;060613;10600601003;Purbo Arambag;Khorshed Khondaker;4;15;25;1;1;1;1;1;1;1;4;4;2;4;4;2;1;1;2;31
+Gopalganj;6;060615;10600601005;Purbo Arambag;Daud Sheikh;8;25;20;2;1;4;1;2;4;1;4;4;1;4;4;4;4;4;4;48
+Gopalganj;6;060616;10600601006;Purbo Arambag;Monoronjon Bisshash;8;35;15;2;1;3;1;2;4;1;4;4;1;4;4;4;4;4;4;47
+Gopalganj;6;060621;10600602001;Arambag;Bashu Bala;10;45;20;2;1;4;1;2;4;1;3;4;1;4;4;2;1;1;2;37
+Gopalganj;6;060622;10600602002;Arambag;Alamgir Shikdar;8;25;20;2;1;4;1;4;4;1;4;4;1;4;4;1;1;1;2;39
+Gopalganj;6;060624;10600602004;Arambag;Mijan Kazi;5;15;35;4;4;4;4;4;4;4;4;4;3;4;4;4;4;4;4;63
+Gopalganj;6;060623;10600602003;Arambag;Shekhor Bisshash;6;18;30;4;3;4;4;4;4;4;4;4;2;4;4;4;4;4;4;61
+Gopalganj;6;060625;10600602005;Arambag;Upen Bala;10;35;50;1;1;4;1;1;4;1;4;4;2;4;4;4;4;4;4;47
+Gopalganj;6;060627;10600602007;Arambag;Shobhash Bisshash;7;30;40;3;1;4;1;4;4;4;4;4;2;4;4;4;4;4;4;55
+Gopalganj;6;060628;10600602008;Arambag;Amjed Molla;14;60;30;2;1;4;1;4;4;1;4;4;1;4;4;1;1;1;2;39
+Gopalganj;6;060629;10600602009;Arambag;Gurachad Bisshash;6;24;25;2;2;4;1;4;4;4;2;4;2;4;4;1;1;1;2;42
+Gopalganj;6;0606210;10600602010;Arambag;Poritosh Bain;10;28;30;3;1;4;1;4;4;2;4;3;2;4;4;4;4;4;4;52
+Gopalganj;6;0606211;10600602011;Arambag;Apu Shikhdar;6;22;17;3;1;4;1;4;4;2;4;4;2;4;4;2;1;1;2;43
+Gopalganj;6;0606212;10600602012;Arambag;Salam Sheikh;5;16;20;1;1;4;1;3;4;1;3;4;1;4;4;1;1;1;2;36
+Gopalganj;6;0606213;10600602013;Arambag;Promoth Shil;15;52;50;1;1;4;1;1;1;1;4;4;1;4;4;1;1;1;2;32
+Gopalganj;6;0606214;10600602014;Arambag;Mele;5;22;30;1;1;4;1;1;2;1;1;4;1;4;4;1;1;1;2;30
+Gopalganj;6;0606215;10600602015;Arambag;Dulal Khan;5;19;16;2;1;4;1;2;4;1;4;4;1;4;4;1;1;1;2;37
+Gopalganj;6;0606216;10600602016;Arambag;Amol Krishno Dash;6;37;25;2;1;4;1;4;4;2;4;4;2;3;4;1;4;4;4;48
+Gopalganj;6;060626;10600602006;Arambag;Kishore Bisshash;5;21;35;3;1;4;1;4;4;4;4;4;2;4;4;4;4;4;4;55
+Gopalganj;6;0606217;10600602017;Arambag;Shukomar Sarkar;6;25;20;2;1;4;1;4;4;1;4;4;2;4;4;4;4;4;4;51
+Gopalganj;6;060631;10600603001;Janata Road Mahalla;Ghullibari Bashati-1;25;85;100;3;2;4;1;4;1;4;4;4;1;4;2;4;3;4;4;49
+Gopalganj;6;060632;10600603002;Janata Road Mahalla;Ghullibari Bashati-2;10;45;100;3;2;4;1;1;4;4;4;3;4;1;1;4;4;4;4;48
+Gopalganj;6;060633;10600603003;Janata Road Mahalla;Ajad Khaner Bashati;15;60;25;1;4;4;1;2;2;4;4;3;1;4;1;1;2;1;2;37
+Gopalganj;6;060634;10600603004;Janata Road Mahalla;Selim Khar Bashati;8;32;15;1;1;4;1;1;1;4;4;3;1;4;1;1;1;1;2;31
+Gopalganj;6;060635;10600603005;Janata Road Mahalla;Pulmiar Bashati;28;115;22;2;1;4;1;1;1;1;4;3;1;4;1;1;1;1;2;29
+Gopalganj;6;060636;10600603006;Janata Road Mahalla;Bash Bari Bashati-1;16;50;100;4;4;4;1;3;2;2;4;3;1;4;4;1;4;4;4;49
+Gopalganj;6;060637;10600603007;Janata Road Mahalla;Bash Bari Bashati-2;17;65;50;4;4;4;1;3;2;2;4;3;1;4;1;1;4;4;2;44
+Gopalganj;6;060638;10600603008;Janata Road Mahalla;Rokon Sheikher Bari;20;75;25;4;4;4;4;2;2;4;4;3;1;4;4;1;4;4;4;53
+Gopalganj;6;060641;10600604001;Gohata Bottola;Vhom Shadhur Bari;7;30;150;2;2;3;1;2;1;2;1;4;1;4;3;1;2;1;1;31
+Gopalganj;6;060642;10600604002;Gohata Bottola;Wahid Chairman ar Barir Pase;8;40;30;4;4;3;2;1;2;4;3;4;1;4;3;1;2;1;2;41
+Gopalganj;6;060643;10600604003;Gohata Bottola;Bite Bari;7;28;150;4;4;4;4;3;3;4;3;4;1;4;2;1;2;1;2;46
+Gopalganj;6;060651;10600605001;Janata Bilane Mahalla;Hasan Mour Bashati;5;20;15;4;4;4;1;3;2;4;4;3;1;4;1;1;1;1;1;39
+Gopalganj;6;060652;10600605002;Janata Bilane Mahalla;Ashadur Jaman Mollar Bari;7;24;22;4;4;4;4;4;4;4;4;3;1;4;3;3;2;1;1;50
+Gopalganj;6;060653;10600605003;Janata Bilane Mahalla;Majed Mollar Bari;8;32;35;1;1;4;4;3;3;4;4;3;1;4;2;3;2;1;1;41
+Gopalganj;6;060654;10600605004;Janata Bilane Mahalla;Johora Monjhil;10;45;18;4;4;4;1;3;3;4;4;3;1;4;2;2;2;2;1;44
+Gopalganj;6;060661;10600606001;Model School Mahalla;Roy Bari (Ideal);10;50;100;4;4;4;2;3;4;4;3;4;4;4;4;1;4;3;3;55
+Gopalganj;6;060662;10600606002;Model School Mahalla;Noresh Chandra Daser Bari;5;19;30;3;1;4;1;4;3;4;3;4;3;4;3;1;2;1;2;43
+Gopalganj;6;060663;10600606003;Model School Mahalla;Ropok Bisshasher Bari;7;30;100;4;4;4;4;4;4;4;4;4;2;4;2;1;2;1;2;50
+Gopalganj;6;060664;10600606004;Model School Mahalla;Roy Bari (Bottola);8;45;200;4;4;4;4;4;4;4;3;4;2;4;2;1;2;1;2;49
+Gopalganj;7;060711;10600701001;Adarsha Polli;Boishakhi Road Mollabari;12;62;20;2;4;4;4;4;3;4;4;4;4;4;4;2;1;1;2;51
+Gopalganj;7;060712;10600701002;Adarsha Polli;Boishakhi Road;6;28;25;2;1;4;1;1;3;4;4;4;4;4;1;1;1;1;1;37
+Gopalganj;7;060721;10600702001;Chadmari Mohammad Para;Sabujbagh South Road;5;17;12;4;2;4;4;4;4;4;4;2;2;4;4;3;4;1;3;53
+Gopalganj;7;060722;10600702002;Chadmari Mohammad Para;Sabujbagh Road;6;17;10;2;2;4;2;4;4;4;4;3;3;4;4;4;4;1;3;52
+Gopalganj;7;060723;10600702003;Chadmari Mohammad Para;Mohammad Para Noton School;5;15;5;4;4;4;2;4;4;4;4;3;4;4;4;4;4;1;3;57
+Gopalganj;7;060731;10600703001;Court Masjid Chadmari;Court Masjhid Bailane;6;25;16;2;1;4;1;4;4;1;4;3;3;4;4;2;4;1;3;45
+Gopalganj;7;060732;10600703002;Court Masjid Chadmari;Bigghanagar Road;5;13;40;2;1;4;4;4;4;4;4;3;3;4;4;1;4;4;4;54
+Gopalganj;7;060733;10600703003;Court Masjid Chadmari;Chadmari Road;6;15;21;2;2;4;2;4;4;4;4;3;3;3;4;4;4;4;4;55
+Gopalganj;7;060751;10600705001;Bankpara- 1;Shishu Bon;21;105;25;2;1;4;1;1;2;1;1;2;2;3;4;1;4;1;4;34
+Gopalganj;7;060752;10600705002;Bankpara- 1;Shishu Bon Public Library;16;96;22;2;1;4;1;1;1;1;3;2;1;3;4;1;3;1;4;33
+Gopalganj;7;060753;10600705003;Bankpara- 1;Shishu Bon Shishu Kallyan Primary School;19;95;25;2;1;4;4;4;3;1;4;3;2;3;4;1;4;1;4;45
+Gopalganj;7;060754;10600705004;Bankpara- 1;Hanif Nagar;15;45;35;2;1;4;1;4;3;4;1;4;2;3;4;1;4;1;4;43
+Gopalganj;8;060811;10600801001;Purbo Teghuria;Omvitabala Barir Pisone;16;72;100;1;2;4;1;2;4;1;4;4;4;3;4;4;4;4;4;50
+Gopalganj;8;060821;10600802001;Mohammad Para;Mohammad Para Jame Moshjid Area;45;348;50;2;1;3;1;2;1;1;2;3;2;3;2;2;2;1;2;30
+Gopalganj;8;060822;10600802002;Mohammad Para;Maleha School ar Dakshin Pas;45;202;40;1;1;3;1;2;1;2;2;3;2;3;1;2;2;1;2;29
+Gopalganj;8;060823;10600802003;Mohammad Para;Back Side of Pinu Mia's House, Asram Road;42;193;38;1;1;3;1;2;1;1;2;3;1;3;2;2;2;1;2;28
+Gopalganj;8;060824;10600802004;Mohammad Para;Nargis Clinic ar Pisan Aleka;55;273;50;2;1;3;1;2;2;1;2;3;2;3;1;2;2;3;2;32
+Gopalganj;8;060831;10600803001;Islambag;Shivaj Darugar Pisan Golli;70;294;30;4;4;4;1;3;2;1;2;3;2;3;2;2;4;1;2;40
+Gopalganj;8;060832;10600803002;Islambag;Chatal Aleka;65;305;35;3;1;3;1;2;1;2;2;3;2;3;2;2;2;1;2;32
+Gopalganj;8;060833;10600803003;Islambag;Talukder Barir Pison;75;315;40;4;2;4;1;3;2;1;3;3;1;3;2;3;2;1;2;37
+Gopalganj;8;060841;10600804001;Checheniya Kandi;Baoali Bari;91;382;100;2;1;4;1;3;2;1;4;3;3;3;4;4;4;4;4;47
+Gopalganj;8;060842;10600804002;Checheniya Kandi;East Mohammad Para Mosque Area;151;649;35;2;1;4;1;4;4;1;4;4;4;3;4;4;4;4;4;52
+Gopalganj;8;060843;10600804003;Checheniya Kandi;Boddho Bari;106;434;100;2;1;4;1;3;2;1;4;4;3;3;4;4;4;4;4;48
+Gopalganj;8;060851;10600805001;Mandartola;Mandartola Shamil Area;60;246;30;2;1;4;1;2;2;1;4;4;3;3;4;4;4;4;4;47
+Gopalganj;8;060852;10600805002;Mandartola;Chichania Kandi;205;922;100;2;1;4;1;1;2;1;4;4;3;3;4;4;4;4;4;46
+Gopalganj;9;060911;10600901001;Teguria Pachuria;Ashrom;8;33;35;1;1;4;1;2;2;2;4;2;2;3;1;3;3;1;1;33
+Gopalganj;9;060912;10600901002;Teguria Pachuria;Bimol  Daktarer Bari;8;30;30;2;1;4;1;2;2;1;4;2;2;3;1;2;3;1;1;32
+Gopalganj;9;060913;10600901003;Teguria Pachuria;Laylar Bari;20;80;30;1;1;3;1;1;1;1;2;2;2;3;1;1;3;1;1;25
+Gopalganj;9;060914;10600901004;Teguria Pachuria;Chamelir Bari;19;82;40;1;1;4;1;1;2;1;2;2;2;3;2;2;3;1;1;29
+Gopalganj;9;060915;10600901005;Teguria Pachuria;Bala Bari;8;24;50;1;1;4;1;1;2;1;3;2;2;3;3;2;4;4;4;38
+Gopalganj;9;060916;10600901006;Teguria Pachuria;Shikder Bari;22;80;30;1;1;4;1;2;2;1;3;2;2;3;4;3;4;4;4;41
+Gopalganj;9;060917;10600901007;Teguria Pachuria;Champar Bosoti;20;90;50;1;1;4;1;1;2;1;2;2;2;3;1;2;4;1;1;29
+Gopalganj;9;060921;10600902001;Poshchim Pachuria;Enamul Kabirer Bosoti;9;37;40;2;1;4;1;3;3;3;3;2;2;3;2;1;3;1;1;35
+Gopalganj;9;060922;10600902002;Poshchim Pachuria;Iskcon Mondir Bosoti;10;50;53;1;2;4;1;2;2;2;4;3;3;3;3;3;3;4;4;44
+Gopalganj;9;060923;10600902003;Poshchim Pachuria;Sharif Plazar Pichhoner Bosoti;8;35;30;1;1;3;1;1;1;1;2;2;2;3;1;1;1;1;1;23
+Gopalganj;9;060931;10600903001;Nobin Bag;Aleyar Bosoti;20;95;28;2;1;4;1;3;3;4;4;3;1;3;3;2;4;1;3;42
+Gopalganj;9;060932;10600903002;Nobin Bag;Dulir Bosoti;15;70;30;1;1;4;1;3;2;3;4;3;1;3;3;2;4;1;3;39
+Gopalganj;9;060933;10600903003;Nobin Bag;Salehar Bosoti;9;31;30;4;4;4;2;2;3;3;4;3;1;3;3;2;4;1;3;46
+Gopalganj;9;060934;10600903004;Nobin Bag;Custom er Bosoti;24;86;21;1;3;4;1;3;2;3;4;2;1;3;3;2;4;1;3;40
+Gopalganj;9;060935;10600903005;Nobin Bag;Afrozar Bosoti;10;55;40;3;1;4;1;3;1;4;4;2;1;3;3;3;4;4;3;44
+Gopalganj;9;060936;10600903006;Nobin Bag;Shilar Bosoti;12;45;30;1;1;2;1;2;1;3;4;3;1;3;3;2;4;1;3;35
+Gopalganj;9;060937;10600903007;Nobin Bag;Kapali Par Bosoti;30;85;40;1;4;4;1;3;2;3;4;1;1;3;3;3;4;1;3;41
+Gopalganj;9;060941;10600904001;Chorsonakur;Taslir Bosoti;20;60;30;2;2;4;1;3;3;4;4;3;1;3;3;2;4;1;3;43
+Gopalganj;9;060942;10600904002;Chorsonakur;Tanjinar Bosoti;12;59;20;1;1;3;1;1;2;1;3;2;1;3;3;2;2;3;2;31
+Gopalganj;9;060943;10600904003;Chorsonakur;Yad Alir Bosoti;12;62;30;2;1;4;1;4;3;4;3;3;3;3;4;2;4;4;4;49
+Gopalganj;9;060944;10600904004;Chorsonakur;Nazir Mollar Bosoti;10;60;40;1;1;4;1;2;2;4;3;3;1;2;3;1;2;3;3;36
+Gopalganj;9;060945;10600904005;Chorsonakur;Billar Mollar Bosoti;10;45;30;1;4;4;1;2;3;1;3;2;1;3;3;2;3;4;4;41
+Gopalganj;9;060946;10600904006;Chorsonakur;Arjaner Bosoti;11;48;25;1;1;4;1;2;2;4;3;2;1;2;4;2;4;2;2;37
+Gopalganj;9;060947;10600904007;Chorsonakur;Rehanar Bosoti;12;67;25;1;2;4;1;1;2;1;2;2;2;3;1;2;4;1;1;30
+Gopalganj;9;060948;10600904008;Chorsonakur;Siraz Mollar Bosoti;20;95;40;1;4;4;1;3;2;1;3;2;1;2;3;1;3;3;3;37
+Gopalganj;9;060949;10600904009;Chorsonakur;Miraz Mollar Bosoti;12;57;30;1;1;4;1;2;2;1;3;1;1;2;3;2;3;3;3;33
+Gopalganj;9;0609410;10600904010;Chorsonakur;Tokan Mollar Bosoti;16;69;30;1;1;4;1;3;2;1;4;3;2;2;3;3;3;3;3;39
+Gopalganj;9;0609411;10600904011;Chorsonakur;Shahjahan Mollar Bosoti;17;80;20;1;1;4;1;3;3;1;4;3;2;3;3;3;3;3;3;41
+Gopalganj;9;0609412;10600904012;Chorsonakur;Jemel Bari;11;60;20;1;1;4;1;1;2;1;3;1;1;2;3;1;3;3;2;30
+Gopalganj;9;060951;10600905001;Marcaz Mahalla;Hanif Miar Bosoti;7;30;37;4;2;4;1;2;3;3;4;3;2;3;4;3;3;1;3;45
+Gopalganj;9;060952;10600905002;Marcaz Mahalla;Raja Miar Bosoti;5;26;37;1;1;4;1;1;3;3;4;3;1;3;4;3;3;4;3;42
+Gopalganj;9;060953;10600905003;Marcaz Mahalla;Rokeya Bari;10;40;37;2;1;4;1;2;2;3;4;3;2;3;4;3;3;1;3;41
+Gopalganj;9;060954;10600905004;Marcaz Mahalla;Sifat Miar Bosoti;20;65;20;1;1;4;1;2;1;3;3;3;1;3;4;1;3;1;3;35
+Gopalganj;9;060955;10600905005;Marcaz Mahalla;Horijon Polli;35;220;22;2;4;4;1;2;2;3;3;2;3;3;4;2;3;3;3;44
+Gopalganj;9;060956;10600905006;Marcaz Mahalla;Rijiar Bosoti;8;50;30;1;1;4;1;1;2;3;4;2;1;3;1;3;4;1;3;35
+Gopalganj;9;060957;10600905007;Marcaz Mahalla;Bithir Bosoti;30;130;15;1;1;4;1;3;2;3;3;2;1;3;1;3;4;1;3;36
+Gopalganj;9;060961;10600906001;Char Manik Dair;Awlad shikder er Bosoti;5;30;15;1;1;4;1;3;1;3;4;2;1;3;4;1;3;1;1;34
+Gopalganj;9;060962;10600906002;Char Manik Dair;Polasher Bosoti;6;20;15;1;1;4;1;2;2;2;3;2;1;3;4;2;3;1;2;34
+Gopalganj;9;060963;10600906003;Char Manik Dair;Sourav Mollar Bosoti;6;21;19;1;1;4;1;2;3;3;4;3;2;3;4;2;3;1;2;39
+Gopalganj;9;060964;10600906004;Char Manik Dair;Tota Mollar Bosoti;7;28;16;1;1;4;1;2;2;3;4;3;3;3;4;2;3;1;2;39
+Gopalganj;9;060965;10600906005;Char Manik Dair;Mahabub Miar Bosoti;5;18;12;1;1;4;2;3;2;3;4;2;3;3;4;3;3;1;2;41
+Gopalganj;9;060966;10600906006;Char Manik Dair;Rohmot Miar Bosoti;7;35;17;1;1;4;2;2;2;3;4;3;2;3;4;2;3;1;2;39
+Gopalganj;9;060967;10600906007;Char Manik Dair;Safayet Miar Bosoti;10;40;16;1;1;4;1;2;2;3;3;3;2;3;4;2;3;1;2;37
+Gopalganj;9;060968;10600906008;Char Manik Dair;Totar Bosoti;8;40;19;1;2;4;2;3;2;1;4;2;2;3;4;3;3;4;2;42
+Gopalganj;9;060969;10600906009;Char Manik Dair;Mahmudar Bosoti;25;100;20;1;1;4;1;2;2;3;4;3;1;3;4;3;3;1;2;38
+Gopalganj;9;0609610;10600906010;Char Manik Dair;Vulu Miar bosoti;8;29;20;1;1;4;2;2;2;3;4;2;2;3;4;3;3;1;2;39
+Gopalganj;9;0609611;10600906011;Char Manik Dair;Rubyr Bosoti;10;45;12;1;2;4;2;1;2;3;3;2;2;3;4;2;3;1;2;37
+Gopalganj;9;0609612;10600906012;Char Manik Dair;Habib er Bosoti;6;20;10;1;1;4;1;1;2;3;3;3;2;3;4;3;3;1;2;37
+Gopalganj;3;060316;10600301006;Bedgram Dakshin Para;Foringa Bari;35;120;20;4;1;4;1;2;1;2;4;4;4;4;4;2;1;4;4;46
+Gopalganj;6;060612;10600601002;Purbo Arambag;Fajar Daria;5;23;20;1;1;1;1;1;4;1;4;4;1;4;4;4;4;4;4;43
+Gopalganj;6;060614;10600601004;Purbo Arambag;Chan Mia;6;22;20;1;1;1;1;1;4;1;4;4;2;4;4;4;4;4;4;44
+Gopalganj;8;060853;10600805003;Mandartola;Shopner Thiknana;148;815;3;2;2;4;3;4;4;1;1;4;1;1;2;4;2;3;3;41

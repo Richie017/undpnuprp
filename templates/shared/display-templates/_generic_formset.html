@@ -1,0 +1,88 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+<div id="id_child_{{ child_form.prefix }}">
+    {% if child_form.inline == False %}
+        {% if child_form.header %}
+            <h6 class="header blue h6-text">{{ child_form.header }}</h6>
+        {% endif %}
+    {% endif %}
+    {% if child_form.management_form %}
+        {% if child_form.render_table %}
+            <div class="management-form-container" data-prefix="{{ child_form.prefix }}">
+                {{ child_form.management_form }}
+            </div>
+            {% for f in child_form %}
+                <table class="table table-condensed">
+                    <tr style="border: none;">
+                        {% for c in f %}
+                            {% if c|is_hidden %}
+                            {% else %}
+                                <td style="border: none; padding-left: 0px;">{{ c.label }}</td>
+                            {% endif %}
+                        {% endfor %}
+                        <td style="border: none; padding-left: 0px;"> Actions</td>
+                    </tr>
+                    <tr class="{{ child_form.prefix }}-formset-container" style="border: none;">
+                        {#                    <tr>#}
+                        {% include 'shared/display-templates/_generic_form.html' with form=f counter=forloop.counter0 %}
+                        {% if child_form.add_more %}
+                            <td style="padding: 0px;border-top:none; ">
+                                {% for c in f %}
+                                    {% if c|is_hidden %}
+                                        {% render_field field|add_error_class:'input-validation-error' %}
+                                    {% endif %}
+                                {% endfor %}
+                                <button class="btn btn-small btn-danger btn-inline-remove pull-right"
+                                        data-prefix="{{ child_form.prefix }}" type="button" style="margin-right: 67px;">
+                                    <i class="icon-remove"></i></button>
+                            </td>
+                        {% endif %}
+                        {#                    </tr>#}
+                    </tr>
+                    <tr class="{{ child_form.prefix }}-formset-addmore-container">
+                        {% if child_form.add_more %}
+                            <td colspan="{{ f.field_count }}">
+                                <button class="btn btn-small btn-success btn-inline-addmore pull-right"
+                                        data-prefix="{{ child_form.prefix }}" type="button" style="margin-right: 67px;">
+                                    <i class="icon-plus"></i>
+                                </button>
+                            </td>
+                        {% endif %}
+                    </tr>
+                </table>
+            {% endfor %}
+        {% else %}
+            <div class="management-form-container" data-prefix="{{ child_form.prefix }}">
+                {{ child_form.management_form }}
+            </div>
+            {% for f in child_form %}
+                <div class="row-fluid clearfix {{ child_form.prefix }}-formset-container">
+                    {% include 'shared/display-templates/_generic_form.html' with form=f counter=forloop.counter0 %}
+                    {% if child_form.add_more %}
+                        <div class="span2">
+                            <button class="btn btn-small fis-remove-ico btn-inline-remove pull-right"
+                                    data-prefix="{{ child_form.prefix }}" type="button"
+                                    style="margin-right: 67px; display: none;">
+                            </button>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+            <div class="row-fluid clearfix {{ child_form.prefix }}-formset-addmore-container">
+                {% if child_form.add_more %}
+                    {#                <div class="col-md-1"></div>#}
+                    <div class="col-md-1 col-sm-1 col-xs-1">
+                        <button class="btn btn-small fis-plus-ico btn-inline-addmore"
+                                data-prefix="{{ child_form.prefix }}" type="button"
+                                style="margin-right: 67px;">
+                        </button>
+                    </div>
+                    <div class="col-md-10 col-sm-10 col-xs-10" style="border-top: solid 1px #d5e3ef;">
+                    </div>
+                {% endif %}
+            </div>
+        {% endif %}
+    {% else %}
+        {% include 'shared/display-templates/_generic_form.html' with form=child_form counter=counter0 %}
+    {% endif %}
+</div>

@@ -1,0 +1,97 @@
+.daterangepicker td.active, .daterangepicker td.active:hover {
+    background-color: #00a99d;
+    border-color: transparent;
+    color: #fff;
+}
+
+.ranges li {
+    font-size: 13px;
+    background-color: #00a99d;
+    border: 1px solid #00a99d;
+    border-radius: 4px;
+    color: white;
+    padding: 3px 12px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.ranges li:hover {
+    background-color: #004742;
+    border: 1px solid #004742;
+    color: #ffffff;
+}
+
+.ranges li.active {
+    background-color: #004742;
+    border: 1px solid #004742;
+    color: #ffffff;
+}
+
+.applyBtn {
+    background-color: #00a99d;
+    border: 1px solid #00a99d;
+    width: 48%
+
+}
+.cancelBtn {
+    background-color: #00a99d;
+    border: 1px solid #00a99d;
+    width: 48%;
+    color: #ffffff;
+
+}
+
+
+
+.applyBtn:hover{
+    background-color: #004742;
+    border: 1px solid #004742;
+    color: #ffffff;
+
+}
+.applyBtn:active:focus{
+    background-color: #004742 ;
+    border: 1px solid #004742;
+    color: #ffffff ;
+
+}
+.cancelBtn:active:focus{
+    background-color: #004742;
+    border: 1px solid #004742;
+    color: #ffffff;
+
+}
+
+.cancelBtn:hover{
+    background-color: #004742;
+    border: 1px solid #004742;
+    color: #ffffff;
+
+}
+
+.applyBtn[disabled]{
+    background-color: #00a99d;
+    border: 1px solid #00a99d;
+    color: #ffffff;
+
+}
+.applyBtn[disabled]:hover{
+    background-color: #00a99d;
+    border: 1px solid #00a99d;
+    color: #ffffff;
+
+}
+
+.applyBtn:hover, .applyBtn:focus {
+    background-image: none;
+    border-radius: 0;
+    background-color: #004742;
+    color: #ffffff;
+}
+
+.cancelBtn:hover, .cancelBtn:focus {
+    background-image: none;
+    border-radius: 0;
+    background-color: #004742;
+    color: #ffffff;
+}

@@ -1,0 +1,474 @@
+{% extends 'reports/base/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <style>
+        #map-view {
+            opacity: 0.4;
+        }
+    </style>
+
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/loader.css">
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-4">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-7 map-info">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right load-map-button generic-btn-style">Update Map</button>
+                </h1>
+            </li>
+        </ul>
+    </div> <!--//.COL-->
+{% endblock %}
+
+
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G1 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G3 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-8 col-sm-12 col-xs-12 form-horizontal report-content-top pull-left"
+                 style="padding-right: 0;">
+                {% for field in parameters.G4 %}
+                    {% if field|is_datetime %}
+                        <div class="col-md-6 col-sm-6 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="datetimepicker1">{{ field.label }}</label>
+
+                            <div class='col-md-12 col-sm-12 input-append date datetimepicker controls'
+                                 id='datetimepicker1'
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="col-md-12 col-sm-12 form-group"
+                             style="display: block; padding: 0;">
+                            <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                            <div class="col-md-12 col-sm-12 controls"
+                                 style="padding-left: 0;">
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true"
+                                      data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                            {% if field|is_multiple_choice %}
+                                <label class="checkbox-label">
+                                    <input class="add_all" type="checkbox"
+                                           name="{{ field.name.lower }}_add_all">
+                                    <span></span>
+                                    Add all
+                                </label>
+
+                                <label class="checkbox-label">
+                                    <input class="clear_all" type="checkbox"
+                                           name="{{ field.name.lower }}_clear_all">
+                                    <span></span>
+                                    Clear all
+                                </label>
+                            {% endif %}
+
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    {% endwith %}
+    <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+        <div class="col-md-12  col-sm-12" style="padding-left: 0;">
+            <span id="map-title" class="text-left"></span>
+            <div id="loader" style="display: none">Loading</div>
+            <div id="map-view" class="row-fluid map-container"
+                 style="margin: 0; padding: 0; position: relative"></div>
+            <div id="legend">
+                <h2>Legend</h2>
+                <ul class="legend" style="max-height: 450px; overflow: hidden; ">
+                    {% for legend in legend_items %}
+                        <li style="position:relative;" data-id="{{ legend.id }}"
+                            data-color="{{ legend.color }}">
+                            <span style="margin-right:0;">{% include 'static/img/marker-dynamic-color.svg' with color=legend.color %}</span>
+                            <span style="display: block; position:absolute; top: 4px; right: 15px; height:100%; width:130px;">{{ legend.name }}</span>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div> <!--//.COL-->
+{% endblock %}
+
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js"></script>
+
+    <!-- library for custom sorting in time manipulation-->
+    <script src="{{ STATIC_URL }}js/datatable/moment.min.js"></script>
+
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/report/date_range_picker/date_range_picker.js"></script>
+
+    <!-- Include Custom Handler For Date Range Picker -->
+    <script type="text/javascript"
+            src="{{ STATIC_URL }}js/report/date_range_picker/date_time_range_handler.js"></script>
+
+    <!-- Include Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/date_range_picker.css"/>
+
+    <!-- Include Custom Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/custom_date_range_picker.css"/>
+
+
+    <script type="text/javascript">
+
+        function loadReportData() {
+            $(document).ready(function () {
+                var map = null;
+                var markerCluster = null;
+                var center = {lat: 23.76, lng: 90.41};
+                var markers = [];
+                var infowindows = [];
+                var icons = [];
+
+                var img = new Image();
+                img.src = "/static/img/distrib2.svg";
+                img.src = "/static/img/apared.svg";
+                img.src = "/static/img/apagreen.svg";
+                function initialize(center) {
+                    var mapOptions = {
+                        center: center,
+                        zoom: 7
+                    };
+                    return new google.maps.Map(document.getElementById('map-view'), mapOptions);
+                }
+
+                var serialize_list_values = function (param) {
+                    if (param != undefined && param != '') {
+                        return param.join(',');
+                    }
+                    return param;
+                };
+
+                function lazyLoad() {
+                    var loader = document.getElementById("loader");
+                    loader.style.display = "none";
+                    // get map view
+                    var mapView = document.getElementById("map-view");
+                    mapView.style.opacity = 1;
+                }
+
+                function showLoader() {
+                    document.getElementById("loader").style.display = "block";
+                    document.getElementById("map-view").style.opacity = 0.4;
+                }
+
+                function update_map(data, action_callback) {
+                    // Show loader when update map is clicked
+                    showLoader();
+                    var params = {
+                        division: serialize_list_values($('#id_division').val()),
+                        city_corporation: $("#id_city_corporation").val(),
+                        ward: $("#id_ward").val(),
+                        date_range: $("#id_date_range").val().trim()
+                    };
+
+                    $.ajax({
+                        url: '?format=json',
+                        type: 'get',
+                        data: params,
+                        dataType: 'json',
+                        success: function (result) {
+                            action_callback(result);
+                            $('body,html').animate({scrollTop: document.body.scrollHeight}, 1000);
+                            if (result != null) {
+                                $("#map-title").html(result.title);
+                                for (var i = 0; i < markers.length; i++) {
+                                    markers[i].setMap(null);
+                                }
+                                markers = [];
+                                icons = [];
+                                infowindows = [];
+                                var bounds = new google.maps.LatLngBounds();
+                                var center = {lat: 23.76, lng: 90.42};
+                                for (var i = 0; i < result.items.length; i++) {
+                                    var data = result.items[i];
+                                    var lat = data.latitude;
+                                    var lng = data.longitude;
+                                    var myLatLng = new google.maps.LatLng(lat, lng);
+                                    icons[i] = {
+                                        url: get_icon(data.client_type),
+                                        scaledSize: new google.maps.Size(20, 30),
+                                        origin: new google.maps.Point(0, 0),
+                                        anchor: new google.maps.Point(12, 12)
+                                    };
+                                    markers[i] = new google.maps.Marker({
+                                        position: myLatLng,
+                                        title: data.title,
+                                        icon: icons[i],
+                                        type: data.type,
+                                        name: data.name,
+                                        survey_time: data.survey_time
+                                    });
+
+                                    infowindows[i] = "<div style='color: " + get_color(data.type) + ";'>Household Head: " + data.name + "<br/>";
+                                    infowindows[i] += "Survey Time: " + data.survey_time + "<br/>";
+                                    infowindows[i] += "</div>";
+
+                                    bounds.extend(markers[i].position);
+
+                                    center.lat = (center.lat * i + lat) / (i + 1);
+                                    center.lng = (center.lng * i + lng) / (i + 1);
+                                }
+                                // initialize marker cluster to load marker as cluster
+                                if (markerCluster != null) {
+                                    markerCluster.clearMarkers();
+                                }
+                                markerCluster = _InitializeMarkerCluster(map, markers.concat(markers));
+                                if (result.items.length === 1) {
+                                    bounds.extend(new google.maps.LatLng(23.76, 90.42));
+                                    bounds.extend(new google.maps.LatLng(23.76, 90.42));
+                                    map.setCenter(center)
+                                }
+                                else if (result.items.length > 1) {
+                                    // map.setCenter(bounds.getCenter());
+                                } else {
+                                    bounds.extend(new google.maps.LatLng(23.76, 90.42));
+                                    bounds.extend(new google.maps.LatLng(23.76, 90.42));
+                                    map.setCenter(center)
+                                }
+                                // map.fitBounds(bounds);
+                                setTimeout(function () {
+                                    for (var i = 0; i < markers.length; i++) {
+                                        // This function call taking a long breath. Will look at this later. Now iit has no job
+                                        // markers[i].setMap(map);
+                                        attachMessage(map, markers[i], infowindows[i]);
+                                    }
+                                    // by force it will cented to default lat & lng
+                                    // uncomment this for make bounds
+                                    // map.fitBounds(bounds);
+                                    lazyLoad();
+                                }, 1000);
+                            }
+                        },
+                        error: function (ad) {
+                            $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                        }
+                    })
+                }
+
+
+                function attachMessage(map, marker, message) {
+                    var infowindow = new google.maps.InfoWindow(
+                        {
+                            content: message,
+                            size: new google.maps.Size(50, 50)
+                        });
+                    google.maps.event.addListener(marker, 'click', function () {
+                        infowindow.open(map, marker);
+                    });
+                }
+
+                function get_icon(value) {
+                    return '/static/img/apagreen.svg';
+                }
+
+                function get_color(value) {
+                    var _color = $('ul.legend').find("li[data-id=" + value + "]").data('color');
+                    if (_color == null) {
+                        _color = '#dd00dd'
+                    }
+                    return _color;
+                }
+
+                $(function () {
+                    resizeDiv();
+                    $(".date-selector").datepicker({
+                        format: 'dd-mm-yyyy'
+                    });
+                    $(".datetimepicker").datetimepicker({
+                        pick12HourFormat: true,
+                        pickTime: false
+                    });
+
+                    map = initialize(center);
+                    map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('legend'));
+
+                    //load map data
+                    $(".map-info").on('click', '.load-map-button', function () {
+                        var tthis = this;
+                        $(tthis).removeClass('generic-btn-style').addClass('generic-danger-btn-style').html('Please wait... Updating Map');
+                        var parameters = {};
+                        update_map(parameters, function (result) {
+                            $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                        });
+                    });
+                    $("ul.legend li").on('click', function (event) {
+                        var selected_marker_id = $(this).data('id');
+                        for (var i = 0; i < markers.length; i++) {
+                            if (markers[i].type === selected_marker_id) {
+                                if (!markers[i].getVisible()) {
+                                    markers[i].setVisible(true);
+                                } else {
+                                    markers[i].setVisible(false);
+                                }
+                            }
+                        }
+                    });
+                });
+
+                window.onresize = function (event) {
+                    resizeDiv();
+                };
+                function resizeDiv() {
+                    var window_height = $(window).height();
+                    var title_height = $("#map-title").height();
+                    var vph = window_height - title_height * 1.5;
+                    $('#map-view').css({'height': vph + 'px'});
+                }
+            });
+        }
+
+        loadReportData();
+
+        ClusterIcon.prototype.triggerClusterClick = function (event) {
+            var markerClusterer = this.cluster_.getMarkerClusterer();
+
+            // Trigger the clusterclick event.
+            google.maps.event.trigger(markerClusterer, 'clusterclick', this.cluster_, event);
+
+            var get_color = function (value) {
+                var _color = $('ul.legend').find("li[data-id=" + value + "]").data('color');
+                if (_color == null) {
+                    _color = '#dd00dd'
+                }
+                return _color;
+            };
+            var previousPrevZoom = markerClusterer.prevZoom_;
+            var clusterInfoWindowText = '';
+            var listItemOpeningTag = '<li style="list-style-type: none">';
+            var listItemClosingTag = '</li>';
+            for (i = 0; i < this.cluster_.markers_.length; i++) {
+                var individualMarkerInfo = '';
+                individualMarkerInfo += "<div style='color: " + get_color(this.cluster_.markers_[i].type) + ";'>Household Head: " + this.cluster_.markers_[i].name + "<br/>";
+                if (this.cluster_.markers_[i].survey_time !== null) {
+                    individualMarkerInfo += "Survey Time: " + this.cluster_.markers_[i].survey_time + "<br/>";
+                }
+                individualMarkerInfo += "</div>";
+                clusterInfoWindowText += listItemOpeningTag + individualMarkerInfo + listItemClosingTag + '</br>';
+            }
+            if (markerClusterer.isZoomOnClick()) {
+                this.map_.fitBounds(this.cluster_.getBounds());
+            }
+            var currentPrevZoom = markerClusterer.prevZoom_;
+            if (previousPrevZoom === currentPrevZoom) {
+                // the following task should be done on click if the cluster isn't splittable
+                var infowindow = new google.maps.InfoWindow({
+                    content: clusterInfoWindowText
+                });
+                infowindow.setPosition(this.cluster_.center_);
+                infowindow.open(this.map_);
+            }
+        };
+    </script>
+{% endblock %}

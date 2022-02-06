@@ -1,0 +1,553 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Rajshahi;1;200101001;;Kashiyadanga;Kashiya Danga, Rahman Oil pump Ar Pashe;30;132;70;3;2;4;1;1;1;4;4;4;4;3;4;2;4;4;4;49
+Rajshahi;1;200102001;;Aduburi;Adu Buri, Dabir Uddain Cilin Ar Pashe;50;215;65;2;1;4;2;4;1;4;4;4;3;1;4;2;4;4;4;48
+Rajshahi;1;200102002;;Aduburi;Kashiya Danga, Mor Sat Tolar Pichone;15;58;120;2;1;4;1;4;4;1;4;4;4;3;4;2;4;4;4;50
+Rajshahi;1;200102003;;Aduburi;Adu Buri, Hafija Begum Ar Bari;22;85;24;3;1;4;2;1;1;4;4;4;4;1;1;1;1;2;1;35
+Rajshahi;1;200102004;;Aduburi;Adu Buri, Bagan Bostee;7;32;65;1;1;4;1;1;1;1;4;4;3;1;4;3;4;4;4;41
+Rajshahi;1;200103001;;New Harupur;New Harupur Panir Pump Bostee;40;155;35;1;1;4;1;1;1;1;4;4;3;1;1;1;1;3;1;29
+Rajshahi;1;200103002;;New Harupur;Oli Mistry Ar Bari;36;143;95;4;3;4;2;4;2;4;4;4;4;2;4;3;4;4;4;56
+Rajshahi;1;200103003;;New Harupur;Kathal Baria Emaj Mondol Ar Bari;32;122;103;3;3;4;2;3;2;4;4;4;4;1;4;1;4;4;4;51
+Rajshahi;1;200103004;;New Harupur;Kathal Baria Hatu Vanga Mor Ar Bosotee;18;75;90;2;1;4;1;4;4;2;4;4;4;2;4;1;4;4;4;49
+Rajshahi;1;200104001;;Kathal Bariya- Shahajipara;Kathal Bariya Mor Ar Pichone;320;1320;60;2;1;3;4;3;3;3;3;3;1;2;2;2;3;3;2;40
+Rajshahi;1;200104002;;Kathal Bariya- Shahajipara;Shahajipara Pukurer Shamne;500;2172;60;2;1;4;4;3;3;4;3;3;1;2;2;2;3;3;2;42
+Rajshahi;1;200105001;;Shairgacha;Darogar Bagan;70;350;40;2;1;4;4;4;4;3;4;2;1;2;2;2;3;3;2;43
+Rajshahi;1;200105002;;Shairgacha;Gorosthaner Pashe;30;123;30;1;1;4;4;3;3;3;4;3;1;2;4;4;3;3;4;47
+Rajshahi;1;200106001;;Raipara;Raypara Rail Crossing Ar Pashe;40;152;55;1;1;4;1;1;1;1;4;4;1;1;1;1;1;2;1;26
+Rajshahi;1;200106002;;Raipara;Raypara Jora Bot Tola Bostee;95;305;42;1;1;4;1;1;2;1;4;4;4;2;1;1;1;2;1;31
+Rajshahi;1;200106003;;Raipara;Raypara Mor Bostee;8;42;45;1;1;4;1;1;3;1;4;3;3;2;1;1;1;3;1;31
+Rajshahi;1;200106004;;Raipara;Chalna Saka Bostee;35;145;60;1;1;4;1;1;1;1;4;4;4;1;2;2;2;3;1;33
+Rajshahi;1;200106005;;Raipara;Purbo Raipara School Er Pichone;30;118;55;2;4;4;4;4;3;4;4;4;4;4;1;1;1;2;1;47
+Rajshahi;1;200107001;;Golzarbug Guripara;Markuta Mor Ar Pichone;30;125;45;1;1;4;1;1;2;1;4;3;1;1;1;1;1;2;1;26
+Rajshahi;1;200107002;;Golzarbug Guripara;Baitul Mamur Masjeer Ar Pashe;5;22;49;2;1;4;4;4;2;4;4;3;1;1;2;2;4;4;4;46
+Rajshahi;1;200107003;;Golzarbug Guripara;Sofiqul Ar Bashar Pashe;9;43;41;2;4;4;4;4;4;1;4;3;1;2;2;2;4;4;4;49
+Rajshahi;1;200107004;;Golzarbug Guripara;Rajob Alir Bostee;5;23;60;2;4;4;4;4;3;4;3;3;1;3;2;2;2;1;2;44
+Rajshahi;1;200107005;;Golzarbug Guripara;Chirar Pukur Ar Pashe;21;95;56;2;3;4;4;4;4;4;4;3;1;3;2;4;2;1;2;47
+Rajshahi;1;200107006;;Golzarbug Guripara;Golger Bag Masjeed Ae Purbo Pashe;8;31;61;2;4;4;4;4;4;1;4;3;1;2;2;1;1;1;2;40
+Rajshahi;1;200107007;;Golzarbug Guripara;Masjeed Ar Purbo Pashe;21;95;52;4;4;4;4;4;4;4;4;3;1;4;1;1;1;2;1;46
+Rajshahi;1;200108001;;Mursipar-Horogram;Pir Saheb Para Rail Line Ar Pashe;19;65;44;1;2;4;4;1;2;1;4;3;1;1;1;1;1;2;1;30
+Rajshahi;2;200201001;;Horogram Notunpara;Biddir Patal;15;62;86;2;1;4;3;3;3;4;4;3;3;3;4;2;4;4;4;51
+Rajshahi;2;200201002;;Horogram Notunpara;Bidir Patol;6;26;50;3;2;4;4;4;3;4;4;3;3;3;4;2;4;4;4;55
+Rajshahi;2;200201003;;Horogram Notunpara;Char Khuta, Railway Line;23;89;60;4;4;4;4;1;2;4;3;3;1;2;1;1;1;2;1;38
+Rajshahi;2;200202001;;Horogram Purbopara;Court College Talipara-2;58;279;37;4;1;4;4;1;3;4;4;3;1;1;1;1;1;2;1;36
+Rajshahi;2;200202002;;Horogram Purbopara;Baganpara Rob Member Ar Bari;10;35;40;4;1;4;2;4;1;4;4;3;1;1;4;1;4;4;4;46
+Rajshahi;2;200202003;;Horogram Purbopara;Horo Gram Purbo Bagan Para;110;640;55;1;1;4;4;1;2;4;4;3;1;1;1;1;1;2;1;32
+Rajshahi;2;200202004;;Horogram Purbopara;By Pass Girija Dabtola Bostee;25;100;70;2;1;4;2;1;2;4;4;3;1;1;4;1;4;4;4;42
+Rajshahi;2;200202005;;Horogram Purbopara;By Pass Urban Clinic Bostee;24;82;35;4;3;4;4;4;2;4;4;3;2;1;1;1;3;3;2;45
+Rajshahi;2;200202006;;Horogram Purbopara;Tultuly Para Railway;100;343;28;1;1;3;2;1;1;4;4;1;1;1;1;1;1;2;1;26
+Rajshahi;2;200203001;;Mollapara;Molla Para, Sawtal Para;16;61;72;3;1;4;1;1;2;3;4;4;1;1;1;1;1;1;1;30
+Rajshahi;2;200203002;;Mollapara;Molla Para, Math Para;11;47;40;2;1;4;3;4;3;4;4;3;3;2;4;2;4;4;4;51
+Rajshahi;2;200204001;;Nagarpara;Horo Gram Shak Para Jame Masjeed Ar Pashe;10;42;49;3;1;4;3;2;2;4;3;3;1;3;4;2;4;4;4;47
+Rajshahi;2;200204002;;Nagarpara;Horo Gram Shekh Para Masjeed Ar Piche;12;51;73;2;1;4;1;1;1;1;3;3;1;3;4;2;4;4;4;39
+Rajshahi;2;200204003;;Nagarpara;Shekh Para Masjeed Ar Shamne;11;49;70;3;1;4;1;1;2;3;4;3;1;3;4;2;4;4;4;44
+Rajshahi;2;200204004;;Nagarpara;Nagar Para;21;88;48;3;2;4;4;3;4;4;4;3;3;3;4;2;4;4;4;55
+Rajshahi;2;200204005;;Nagarpara;Nagar Para r Ses Matha;9;37;67;3;1;4;4;3;3;4;4;3;2;3;4;1;4;4;4;51
+Rajshahi;2;200204006;;Nagarpara;Nagar Primary School Ar Pashe;47;209;130;3;1;4;4;4;3;4;4;3;3;3;4;2;4;4;4;54
+Rajshahi;2;200204007;;Nagarpara;Holder Para Jame Masjeed Ar Pashe;21;89;95;3;2;4;4;4;3;4;4;3;3;3;4;1;4;4;4;54
+Rajshahi;2;200204008;;Nagarpara;Nagar Para Notun Masjeed Ar Pashe;9;38;30;2;1;4;3;1;2;1;4;3;3;3;4;2;4;4;4;45
+Rajshahi;2;200205001;;Collony Asroyon;Asroyon Thosa Para;25;120;30;2;1;4;2;4;3;4;4;3;1;2;4;2;4;4;4;48
+Rajshahi;2;200205002;;Collony Asroyon;Molla Para Rap-05, Asroyon;500;2500;21;2;1;4;4;1;1;4;4;3;1;1;1;1;1;2;3;34
+Rajshahi;2;200205003;;Collony Asroyon;Lily Holer More;400;1600;50;4;4;4;4;2;2;4;4;3;2;2;4;2;4;4;4;53
+Rajshahi;2;200205004;;Collony Asroyon;B.M Collag ar pashe;350;1420;65;1;1;4;2;4;1;4;4;3;1;1;2;4;1;1;1;35
+Rajshahi;2;200206001;;Sheikhpara;Bash Bolod, Shekh Para;21;87;47;3;1;3;1;1;4;1;4;4;1;3;4;1;4;4;4;43
+Rajshahi;2;200206002;;Sheikhpara;Shekh Para Masjeed Ar Pashe;11;46;50;3;1;4;4;2;2;4;4;3;3;3;4;2;4;4;4;51
+Rajshahi;3;200301001;;Dingadoba Ghoshmohal;Panapukur Poschim Pash;100;400;25;4;1;3;1;3;1;2;4;2;2;2;4;3;4;4;4;44
+Rajshahi;3;200301002;;Dingadoba Ghoshmohal;Panapukur Purbo Pash;500;2000;30;3;3;3;1;3;1;3;4;1;1;2;4;3;4;4;4;44
+Rajshahi;3;200302001;;Dingadoba;Nimtola;60;258;30;2;1;4;3;3;3;2;2;2;1;2;4;1;4;4;4;42
+Rajshahi;3;200302002;;Dingadoba;Purbo Para;150;500;30;2;1;3;3;3;2;2;2;2;1;3;4;3;4;4;4;43
+Rajshahi;3;200303001;;Dashpukur (South);Rutiyala Para;350;1250;25;2;3;4;2;4;2;3;3;3;2;1;4;3;4;4;4;48
+Rajshahi;3;200304001;;Dashpukur (North);Dashpukur Ses Matha;100;400;19;1;1;3;1;2;2;1;3;1;1;2;3;3;3;3;3;33
+Rajshahi;3;200305001;;Dhorompur (West);Kamar Para;88;308;55;3;4;4;2;4;3;4;3;3;4;3;4;3;4;4;4;56
+Rajshahi;3;200305002;;Dhorompur (West);BohoromSes Matha- Akramer Mor;400;1540;30;4;4;4;4;4;4;4;4;4;2;4;4;3;4;4;4;61
+Rajshahi;3;200305003;;Dhorompur (West);Hobir Goli;70;400;40;3;3;4;4;4;4;4;4;4;2;4;4;3;4;4;4;59
+Rajshahi;3;200306001;;Dohormpur (East);Kali Pukur;12;48;25;3;3;4;3;4;4;4;4;4;2;4;4;4;4;4;4;59
+Rajshahi;3;200307001;;Bilshimla (Bondho Gate);Khichri Para;70;370;55;4;4;4;4;4;4;1;4;4;1;3;4;3;4;4;4;56
+Rajshahi;3;200307002;;Bilshimla (Bondho Gate);Bombo Gate;120;480;35;4;4;4;4;4;4;4;4;4;2;4;4;3;4;4;4;61
+Rajshahi;3;200308001;;Bilshimla;Railer Bostee;5;28;3;1;1;1;1;1;1;1;3;4;1;1;1;1;1;2;1;22
+Rajshahi;3;200308002;;Bilshimla;Golaper Bostee;70;245;3;1;1;1;1;1;1;1;3;4;1;1;1;1;1;2;1;22
+Rajshahi;4;200401001;;Keshabpur;MotinDoctor Ar Goli;157;630;45;3;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;53
+Rajshahi;4;200401002;;Keshabpur;Bader Dhar;315;1275;40;3;4;4;4;4;1;4;1;4;4;1;1;1;1;1;1;39
+Rajshahi;4;200401003;;Keshabpur;Keshobpur Masjeed Ar Pashe;250;840;75;3;3;4;4;1;1;4;1;3;4;1;1;1;1;1;1;34
+Rajshahi;4;200402001;;Nowabganj Ghoshpara;Goshara;923;3010;65;2;4;3;4;4;1;4;4;3;3;1;1;1;1;1;1;38
+Rajshahi;4;200402002;;Nowabganj Ghoshpara;Keshobpur Dokkhin Para;683;2420;60;2;4;3;4;4;1;4;4;3;3;1;1;1;1;1;1;38
+Rajshahi;4;200403001;;Goalpara;Nobi Nagar;30;125;70;3;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;53
+Rajshahi;4;200403002;;Goalpara;Purbo Nobi Nagar;18;65;45;2;4;4;4;4;1;4;4;3;4;1;1;1;4;4;4;49
+Rajshahi;4;200403003;;Goalpara;Choto Masjeed;38;162;75;4;4;4;4;4;3;3;4;3;4;2;1;2;4;4;4;54
+Rajshahi;4;200404001;;Gulonpur;Piyon Para;70;305;40;2;4;4;4;4;1;4;4;3;4;1;1;1;2;2;3;44
+Rajshahi;4;200404002;;Gulonpur;Julfiya School Gate;21;72;40;2;4;4;4;4;1;4;4;3;4;1;1;1;1;1;1;40
+Rajshahi;4;200404003;;Gulonpur;Koroitola;30;155;42;4;4;4;4;4;1;3;4;3;4;1;1;1;1;1;1;41
+Rajshahi;4;200404004;;Gulonpur;Goshpara Road;60;270;65;4;4;4;4;4;3;3;4;3;4;2;4;2;4;4;4;57
+Rajshahi;4;200404005;;Gulonpur;Madrasa Gate;48;202;35;2;4;4;4;1;4;4;3;4;1;1;1;1;1;3;3;41
+Rajshahi;4;200405001;;Horogram;Police Fari Road;35;150;45;4;4;4;4;4;3;3;4;3;4;1;4;1;4;4;4;55
+Rajshahi;5;200501001;;Uttor Para- Line Para;Line Para Railway Colony;7;30;20;1;1;3;1;2;1;3;1;1;2;3;2;2;1;2;2;28
+Rajshahi;5;200501002;;Uttor Para- Line Para;Line Para;109;470;20;1;1;3;1;2;1;3;4;1;2;3;2;2;1;2;2;31
+Rajshahi;5;200501003;;Uttor Para- Line Para;Line Para Juwel Goli;45;195;20;1;1;3;1;2;1;2;4;1;1;3;2;2;2;2;2;30
+Rajshahi;5;200501004;;Uttor Para- Line Para;Votopara;40;190;15;1;1;3;1;2;1;1;3;3;3;4;1;2;1;2;2;31
+Rajshahi;5;200502001;;Mohishbathan Purbo Para;Satal Para;25;115;45;3;3;3;1;2;2;2;2;2;3;2;4;3;4;4;4;44
+Rajshahi;5;200503001;;Bhata Para;Momin Hujur Para;25;115;70;2;1;3;3;2;2;3;1;2;1;2;4;2;4;4;4;40
+Rajshahi;5;200503002;;Bhata Para;Nuruzz Aman Goli;24;123;50;2;1;4;2;3;2;2;3;2;2;3;4;2;4;4;4;44
+Rajshahi;5;200504001;;Raj Para;Poschim Rajpara;20;80;50;2;1;3;2;2;2;2;1;2;2;2;4;2;4;4;4;39
+Rajshahi;5;200504002;;Raj Para;Mohalal Pukur;45;190;50;1;1;3;1;2;2;1;1;2;1;2;4;2;4;4;4;35
+Rajshahi;5;200504003;;Raj Para;Kolatola Rajpara;60;255;50;2;1;3;2;2;2;1;2;2;2;4;4;2;4;4;4;41
+Rajshahi;5;200504004;;Raj Para;Kodomtola Bosotee;15;50;50;1;1;3;2;2;2;1;1;1;1;2;4;2;4;4;4;35
+Rajshahi;5;200504005;;Raj Para;Dabtola Bosotee;35;155;50;1;1;3;1;2;2;1;2;2;1;2;4;2;4;4;4;36
+Rajshahi;5;200505001;;Mission Para-Adhibashi Para;Adibashi Para;42;185;60;2;1;4;1;3;1;2;2;2;3;4;4;2;4;4;4;43
+Rajshahi;5;200506001;;Mohishbathan;Chora Para;40;194;50;3;1;3;1;2;2;2;2;2;2;2;4;2;4;4;4;40
+Rajshahi;5;200506002;;Mohishbathan;Ghupchipara;22;118;50;2;1;3;2;2;2;2;2;2;2;2;4;2;4;4;4;40
+Rajshahi;5;200507001;;Khulu para;Khulu Para;7;40;30;3;3;3;2;2;2;2;2;2;2;2;4;2;4;4;4;43
+Rajshahi;5;200507002;;Khulu para;Nurul Hok Ar Goli;5;26;35;1;1;3;1;2;2;2;2;2;2;2;4;2;4;4;4;38
+Rajshahi;5;200507003;;Khulu para;Munsad;16;70;35;1;1;3;1;2;2;2;2;2;2;2;4;2;4;4;4;38
+Rajshahi;6;200601001;;Laxmipur Vatapara;Sakopara Bosotee;20;95;100;3;3;4;4;4;2;4;3;3;3;3;1;1;1;2;1;42
+Rajshahi;6;200602001;;Vatapara Bakermor;Moti Chottor Ar Pashe;27;126;100;4;3;4;4;4;2;4;3;3;3;3;1;1;1;2;1;43
+Rajshahi;6;200602002;;Vatapara Bakermor;Dingadoba;18;87;80;3;3;4;4;3;3;4;4;3;3;3;2;2;1;2;1;45
+Rajshahi;6;200603001;;Hindupara (Whole);Ram Krishno Polli;110;510;30;4;4;4;4;4;3;4;3;3;3;3;4;3;4;4;4;58
+Rajshahi;6;200603002;;Hindupara (Whole);Bakir Mor Railway;25;120;80;1;1;3;4;1;1;2;2;3;2;1;1;2;2;2;1;29
+Rajshahi;6;200604001;;IHT;ID Baganpara;150;680;30;4;4;4;4;4;3;4;3;3;3;3;4;3;4;4;4;58
+Rajshahi;6;200604002;;IHT;Railway Para;15;68;80;1;1;3;4;2;1;2;2;3;2;1;2;2;2;2;1;31
+Rajshahi;6;200605001;;TB Pukur;Pyara Medecal Ar Shamne;20;105;50;4;4;4;4;4;3;4;3;3;3;3;4;3;4;4;4;58
+Rajshahi;6;200605002;;TB Pukur;TB Hospital Ar Pichone;22;110;70;2;2;3;3;2;2;2;2;3;2;3;1;1;1;2;1;32
+Rajshahi;6;200606001;;Greater Road;Railway Ar Pichone;25;120;50;2;2;3;3;3;2;3;2;3;2;3;1;1;1;2;1;34
+Rajshahi;7;200701001;;Sree Rampur;T Badher Dhar;380;1520;50;2;3;4;4;4;1;4;4;3;4;1;1;1;1;1;1;39
+Rajshahi;7;200702001;;Bethiapara;Horijon Polli;23;92;58;2;1;4;3;4;1;2;4;3;4;1;1;1;1;1;1;34
+Rajshahi;7;200703001;;Chandipur;Ghunpara;15;60;50;2;3;4;4;4;1;4;4;3;4;1;1;1;1;1;1;39
+Rajshahi;7;200703002;;Chandipur;Kodomtola Mor;18;74;60;2;2;4;4;4;2;1;4;4;4;1;4;1;4;4;4;49
+Rajshahi;7;200704001;;Vatapara;Adorsopara;15;65;50;4;3;4;4;4;1;4;4;4;4;1;4;1;4;4;4;54
+Rajshahi;8;200801001;;Shipai Para-01;T.T. Collage Bosotee;20;100;100;2;2;3;3;2;3;3;4;1;1;3;4;2;4;4;4;45
+Rajshahi;8;200801002;;Shipai Para-01;Sadek Goli;18;100;60;2;2;2;3;2;3;3;2;2;1;3;4;2;4;4;4;43
+Rajshahi;8;200801003;;Shipai Para-01;Razzaker Goli;11;55;60;2;2;4;3;2;3;3;1;2;2;3;4;2;4;4;4;45
+Rajshahi;8;200801004;;Shipai Para-01;Ramvojon Goli;20;80;60;2;3;2;3;3;3;2;3;1;2;3;4;3;4;4;4;46
+Rajshahi;8;200802001;;Shipai Para-02;Babur Goli;10;47;50;3;3;2;2;3;2;1;3;2;1;3;4;3;4;4;4;44
+Rajshahi;8;200802002;;Shipai Para-02;Doctor Collage Goli Bosoty;10;35;60;2;4;2;3;2;2;3;3;2;1;3;4;3;4;4;4;46
+Rajshahi;8;200802003;;Shipai Para-02;Purbo Para Bosotee;40;205;70;1;2;3;3;2;3;4;2;2;1;3;4;3;4;4;4;45
+Rajshahi;8;200803001;;Kazihata-01;Hamider Goli Bosotee;40;150;70;2;2;3;3;3;3;3;2;1;2;2;4;3;4;4;4;45
+Rajshahi;8;200804001;;Kazihata-02;D.B. r Goli;15;65;80;1;1;3;3;4;2;4;3;1;1;3;4;2;4;4;4;44
+Rajshahi;8;200805001;;Kazihata-03;Mondir Para;25;100;70;1;1;4;4;3;3;3;3;1;1;2;4;3;4;4;4;45
+Rajshahi;8;200805002;;Kazihata-03;Sajader Goli;10;38;70;2;2;3;1;3;3;4;4;1;1;3;4;3;4;4;4;46
+Rajshahi;8;200806001;;Kazihata-04;Goshpara Bosotee;10;40;80;1;2;2;3;1;1;2;1;1;1;3;2;2;2;2;2;28
+Rajshahi;8;200806002;;Kazihata-04;Goshpara Rod Pukur Goli;20;100;70;1;2;4;3;3;2;3;3;1;2;3;4;3;4;4;4;46
+Rajshahi;8;200806003;;Kazihata-04;Talpotti;12;50;60;2;3;3;3;3;3;3;4;1;1;2;4;2;4;4;4;46
+Rajshahi;9;200902001;;Sheikh Para;Masuder Barir Goli;5;22;50;4;4;4;4;4;3;4;4;4;4;3;4;3;4;4;4;61
+Rajshahi;9;200902002;;Sheikh Para;Mukseder Barir Alaka;8;32;50;2;1;4;4;4;3;4;4;4;2;3;3;1;2;1;3;45
+Rajshahi;9;200903001;;Hossainiganj;Marshaler Bari;11;60;50;4;4;4;4;4;3;4;4;3;2;3;4;3;4;4;4;58
+Rajshahi;9;200903002;;Hossainiganj;Lijar Barir Goli;13;53;52;4;4;4;4;4;3;4;4;3;2;3;4;3;4;4;4;58
+Rajshahi;9;200903003;;Hossainiganj;Rahir Barir Pashe;12;46;45;4;3;4;4;4;3;4;4;4;2;3;4;3;4;4;4;58
+Rajshahi;9;200903004;;Hossainiganj;Bipur Barir Goli;15;58;52;4;4;4;4;4;3;4;4;3;2;3;4;3;4;4;4;58
+Rajshahi;9;200903005;;Hossainiganj;Helal Shekher Basar Pashe;12;52;55;2;3;4;4;4;3;4;4;4;1;3;4;3;4;4;4;55
+Rajshahi;9;200903006;;Hossainiganj;Jahid Hajir Bosotee;17;72;45;1;3;4;4;4;3;4;4;4;2;4;4;3;4;4;4;56
+Rajshahi;9;200904001;;Jothmohesh (Pathan Para);Jalaler Bosotee;20;110;50;2;3;4;4;4;3;4;3;3;1;2;2;2;2;2;2;43
+Rajshahi;9;200904002;;Jothmohesh (Pathan Para);Bobiner Bosotee;6;30;40;4;4;4;4;4;3;4;4;3;1;3;4;3;4;4;4;57
+Rajshahi;9;200904003;;Jothmohesh (Pathan Para);Rubeler Bosotee;30;124;45;4;3;4;4;3;3;4;3;3;2;3;4;3;4;4;4;55
+Rajshahi;9;200904004;;Jothmohesh (Pathan Para);Lalar Bostee;11;52;45;4;4;4;4;4;3;4;4;3;1;3;4;3;4;4;4;57
+Rajshahi;9;200904005;;Jothmohesh (Pathan Para);Salauddain Ar Goli;6;30;45;2;1;4;4;4;3;4;4;3;1;3;4;3;4;4;4;52
+Rajshahi;9;200904006;;Jothmohesh (Pathan Para);Nadimer Goli;20;106;45;2;1;4;4;4;3;3;4;3;1;3;4;3;4;4;4;51
+Rajshahi;9;200904007;;Jothmohesh (Pathan Para);Sujoner Goli;8;44;45;2;4;4;4;4;3;4;4;3;1;3;4;3;4;4;4;55
+Rajshahi;9;200904008;;Jothmohesh (Pathan Para);Nadim Mostofar Bosotee;5;22;52;4;4;4;4;4;3;4;4;4;2;3;4;3;4;4;4;59
+Rajshahi;9;200905001;;Jothmohesh (Kasai Para);Hafejer Bosotee;5;28;40;4;3;4;3;4;4;4;3;4;1;4;4;3;4;4;4;57
+Rajshahi;9;200906001;;Dargapara;Bacchu Vaiyar Bosotee;6;36;40;4;4;4;3;3;2;1;1;4;1;4;2;2;2;1;2;40
+Rajshahi;9;200906002;;Dargapara;Late. Kamaluddain Ar Basa;5;19;35;3;3;4;3;4;3;2;4;4;2;4;4;3;4;4;4;55
+Rajshahi;9;200906003;;Dargapara;Dedar Sekh Ar Bari;5;17;45;4;4;4;3;4;4;4;4;3;3;4;4;4;4;4;4;61
+Rajshahi;10;201001001;;Goyalpara-Lichubagan;Lal Chan Ar Bosoty;5;22;45;1;2;4;4;4;4;4;4;2;3;3;3;3;4;2;2;49
+Rajshahi;10;201003001;;Hatem Khan;Paruler Bostee;12;48;30;1;2;4;4;3;4;4;4;3;3;3;2;2;4;1;2;46
+Rajshahi;10;201003002;;Hatem Khan;Shimuler Bostee;8;45;50;1;2;4;4;4;4;4;4;3;2;4;3;3;4;2;2;50
+Rajshahi;10;201003003;;Hatem Khan;Usufer Bostee;15;80;40;2;2;4;4;4;4;1;4;3;3;3;3;2;4;2;2;47
+Rajshahi;11;201101001;;Methor Para;Horojon Plly-1;79;408;100;2;3;4;3;4;1;4;4;4;2;2;1;1;1;1;1;38
+Rajshahi;11;201101002;;Methor Para;Horijon Polli-2;105;540;100;2;3;4;3;4;1;4;4;4;2;2;1;1;1;1;1;38
+Rajshahi;11;201102001;;Shahaji Para;Suboner Bosotee;14;62;50;2;3;4;4;4;3;3;4;4;4;4;4;2;4;4;4;57
+Rajshahi;11;201102002;;Shahaji Para;Clinic Bosotee;5;26;60;2;2;4;4;4;4;4;4;4;3;3;4;2;4;4;4;56
+Rajshahi;11;201103001;;Sobjipara;Gawer Bosotee;22;100;100;2;2;4;4;4;3;3;4;4;3;3;4;2;4;4;4;54
+Rajshahi;11;201103002;;Sobjipara;Janota Bank Ar Pasher Bosotee;13;60;50;4;3;4;4;4;4;4;4;4;2;3;4;2;4;4;4;58
+Rajshahi;11;201103003;;Sobjipara;Dulaler Bosotee;6;25;50;2;4;4;4;4;4;4;4;4;3;3;4;2;4;4;4;58
+Rajshahi;11;201103004;;Sobjipara;Shahiner Bosotee;23;116;10;2;2;4;4;4;4;4;4;4;4;3;4;2;4;4;4;57
+Rajshahi;11;201104001;;Karigorpara;Kodom Tola Bostee;8;42;70;2;3;4;4;4;4;2;4;3;3;3;4;2;4;4;4;54
+Rajshahi;11;201104002;;Karigorpara;Alama Pukur Bari;6;24;18;2;4;4;4;4;3;3;4;4;3;4;2;2;2;1;3;49
+Rajshahi;11;201105001;;Rajarhata;Siddik Ar Bari;15;73;45;2;3;4;4;4;3;3;4;3;4;3;4;2;4;4;4;55
+Rajshahi;11;201105002;;Rajarhata;Halder Para;18;95;55;2;2;4;4;4;3;3;4;4;3;3;4;2;4;4;4;54
+Rajshahi;12;201201001;;Master Para- Baro Kuthipara (Shaheb Bazar);Borokuthi Para Padma Gaden Ar Pashe;325;1490;120;1;1;4;4;4;1;2;4;4;2;2;1;1;1;1;1;34
+Rajshahi;12;201202001;;Kumar Para- Fudki Para (Shaheb Ganj);Kumarpara, Dhopa Parar Jodda Factorer Pashe;6;29;120;4;4;4;4;4;1;4;4;4;1;2;4;1;4;4;4;53
+Rajshahi;12;201202002;;Kumar Para- Fudki Para (Shaheb Ganj);Fudkipara Kali Monder Ar Herar Dokan Ar Pashe;5;20;120;4;3;4;4;4;2;4;4;4;1;3;4;2;4;4;4;55
+Rajshahi;12;201202003;;Kumar Para- Fudki Para (Shaheb Ganj);Fudkpara Kali Monder Ar Shamner Mannaner Bari;22;78;40;4;3;4;4;4;2;1;4;4;2;3;1;1;1;1;1;40
+Rajshahi;12;201202004;;Kumar Para- Fudki Para (Shaheb Ganj);Fudkipara Munnujon School;8;38;6;4;4;4;4;4;4;4;4;3;1;3;1;1;1;1;1;44
+Rajshahi;12;201202005;;Kumar Para- Fudki Para (Shaheb Ganj);Fudkipara Fozur Goli;13;48;120;4;4;4;4;4;1;4;4;4;2;3;4;2;1;4;4;53
+Rajshahi;12;201202006;;Kumar Para- Fudki Para (Shaheb Ganj);Fudkipara Gopinather Monder Ar Pashe;14;65;120;4;3;4;4;4;1;4;4;4;1;3;1;1;1;2;1;42
+Rajshahi;12;201203001;;Miya Para- Gonok Para;Ganokpara Oliullah Homio Doctor Ar Shamner Bari;5;30;18;4;4;4;4;3;2;4;4;4;1;4;1;1;1;1;1;43
+Rajshahi;12;201203002;;Miya Para- Gonok Para;Harun Er Barir Samner Goli;7;35;60;4;4;4;4;4;1;4;4;4;1;4;4;1;4;4;4;55
+Rajshahi;12;201203003;;Miya Para- Gonok Para;Badol Khan Er Bari;15;67;50;4;4;4;4;4;1;4;4;3;1;3;4;1;4;4;4;53
+Rajshahi;12;201203004;;Miya Para- Gonok Para;Haqe Ar Barir Pichone;58;186;32;4;4;4;4;4;2;4;4;4;1;4;4;1;4;4;4;56
+Rajshahi;12;201203005;;Miya Para- Gonok Para;Bicuit Factory Ar Shamne;18;90;150;4;4;4;4;4;1;4;4;4;1;3;4;1;4;4;4;54
+Rajshahi;12;201203006;;Miya Para- Gonok Para;Raj Mohal Hotel Ar Shamne;5;20;70;4;4;4;4;4;2;4;4;4;1;4;4;1;4;4;4;56
+Rajshahi;12;201204001;;Rani Bazar- Malo Para;Chinipotti Goli Bosti;7;32;70;4;4;4;4;4;2;4;4;4;1;3;1;1;1;2;3;46
+Rajshahi;12;201204002;;Rani Bazar- Malo Para;Ghori Ahaner Pichone;6;30;100;4;4;4;4;4;2;4;4;4;1;3;1;1;1;1;1;43
+Rajshahi;12;201204003;;Rani Bazar- Malo Para;Rontur Bari;8;40;100;4;2;4;4;3;2;4;4;4;1;3;4;1;4;4;4;52
+Rajshahi;12;201204004;;Rani Bazar- Malo Para;Rani Bazar Masjeed Ar Pichone;7;30;25;1;1;4;4;4;1;1;4;4;1;3;1;1;1;1;2;34
+Rajshahi;12;201204005;;Rani Bazar- Malo Para;Koli Factory Ar Pichone;5;20;70;4;3;4;4;4;2;4;4;4;1;3;4;1;4;4;4;54
+Rajshahi;12;201204006;;Rani Bazar- Malo Para;Rani Bazar Boba School Ar Pashe;6;25;20;4;4;4;4;4;2;4;4;4;1;3;1;1;1;1;1;43
+Rajshahi;12;201204007;;Rani Bazar- Malo Para;Shastitola Masjeed Ar Pichone;5;25;100;4;4;4;4;4;1;4;4;4;1;3;4;1;4;4;4;54
+Rajshahi;12;201204008;;Rani Bazar- Malo Para;Malapara Mohila Collage Ar Pichone;6;22;100;4;4;4;4;4;1;4;4;4;4;2;3;1;4;4;4;55
+Rajshahi;13;201301001;;Gourhanga;Nagar Vaban Ar Pashe;15;65;30;2;4;4;2;3;1;3;2;3;2;2;1;2;1;1;2;35
+Rajshahi;13;201302001;;Sosthitola;Sahjahan Ar Bosotee;10;35;40;3;2;4;4;2;2;2;3;2;2;2;1;2;2;1;1;35
+Rajshahi;13;201302002;;Sosthitola;Jale Para;20;110;60;3;3;4;4;3;3;3;3;2;2;2;4;3;4;4;4;51
+Rajshahi;13;201302003;;Sosthitola;Samim Chowdhury;20;95;30;2;2;3;3;3;2;3;2;2;2;2;1;1;2;1;1;32
+Rajshahi;13;201303001;;Dokkhin Dori Khorbona;Bornalir Pasher Bosotee;17;90;30;4;3;4;4;4;3;3;3;2;2;3;4;3;4;4;4;54
+Rajshahi;13;201304001;;Hetem Kha;Nur Uddain;10;35;40;4;4;4;4;3;2;3;3;3;2;2;4;3;4;4;4;53
+Rajshahi;14;201401001;;Uposohor-1;Uttor Cilinik Mor;6;22;25;4;4;4;4;1;4;4;3;1;3;1;1;1;1;2;1;39
+Rajshahi;14;201401002;;Uposohor-1;Uposohor New Market;15;80;20;2;3;4;1;4;3;4;4;3;1;3;1;1;1;2;1;38
+Rajshahi;14;201401003;;Uposohor-1;Uposohor New Market-1;15;82;20;2;3;4;1;4;3;3;4;4;3;1;3;1;1;2;1;40
+Rajshahi;14;201402001;;Uposohor-2,3;Makaj Masjeed Ar Poschim Pashe;5;25;40;4;3;4;4;4;1;4;4;3;1;3;1;1;1;2;1;41
+Rajshahi;14;201402002;;Uposohor-2,3;Makaj Masjeed Ar Purbo Pashe;10;45;15;4;4;4;1;1;1;4;4;3;1;3;1;1;1;2;1;36
+Rajshahi;14;201402003;;Uposohor-2,3;Sater Light Town High School Ar Pashe;8;38;15;4;4;4;4;4;4;4;4;4;4;3;4;3;4;4;4;62
+Rajshahi;14;201403001;;Terokhadiya Uttor;Nahar School Ar Shamne;10;52;5;2;3;4;4;4;3;4;4;3;2;3;4;2;4;4;4;54
+Rajshahi;14;201403002;;Terokhadiya Uttor;Nurani Madrasar Pashe;55;248;25;2;2;4;2;3;3;3;3;3;3;3;4;3;4;4;4;50
+Rajshahi;14;201403003;;Terokhadiya Uttor;Najmuler Bostee;11;50;10;4;3;4;4;4;3;4;3;3;2;3;4;2;4;4;4;55
+Rajshahi;14;201403004;;Terokhadiya Uttor;Uttor Para;80;356;20;1;1;4;3;4;3;4;3;3;3;3;4;2;4;4;4;50
+Rajshahi;14;201404001;;Terokhadiya Moddho;Councilor Ar Chamber Ar Nikot;95;420;35;1;1;4;3;4;3;4;3;3;2;3;4;3;4;4;4;50
+Rajshahi;14;201404002;;Terokhadiya Moddho;Disuri School Ar Pashe;8;36;7;3;1;4;4;4;3;4;3;3;3;3;4;3;4;4;4;54
+Rajshahi;14;201404003;;Terokhadiya Moddho;Dos Tolar Pichone;15;70;20;1;1;4;4;4;3;4;4;3;4;3;4;3;4;4;4;54
+Rajshahi;14;201405001;;Terokhadiya Poschim;Ajijuler Bostee;40;190;18;3;1;4;4;4;2;4;4;3;1;3;1;1;2;1;1;39
+Rajshahi;14;201405002;;Terokhadiya Poschim;Ajijuler Bostee-1;32;135;15;4;1;4;4;4;2;4;3;3;1;3;1;1;1;1;1;38
+Rajshahi;14;201405003;;Terokhadiya Poschim;Nobiner Mor;20;95;20;4;4;4;4;4;3;4;4;3;2;3;4;2;4;4;4;57
+Rajshahi;14;201405004;;Terokhadiya Poschim;Jaforer Bostee;12;53;5;2;1;4;4;4;3;4;3;3;1;3;1;1;1;1;1;37
+Rajshahi;14;201406001;;Dabtola;Bot tola;6;30;5;4;3;4;4;4;3;4;4;3;3;3;1;2;1;1;1;45
+Rajshahi;14;201406002;;Dabtola;Sohel Ar Bostee;12;60;12;2;1;4;1;1;2;1;2;3;1;2;4;2;4;4;4;38
+Rajshahi;14;201406003;;Dabtola;Amdadul Ar Bostee;8;40;3;2;1;4;1;3;3;2;4;3;2;4;4;3;4;4;4;48
+Rajshahi;14;201406004;;Dabtola;Bosuya Uttor Para Masjeed Ar Shamne;40;175;15;4;3;4;4;4;3;4;3;3;3;3;4;3;4;4;4;57
+Rajshahi;14;201406005;;Dabtola;Salam PIPI;17;60;15;4;3;4;2;4;3;4;4;3;3;3;4;2;4;4;4;55
+Rajshahi;14;201406006;;Dabtola;Dabtola Ar Nicha;8;36;20;4;3;4;4;4;3;4;4;3;3;3;4;3;4;4;4;58
+Rajshahi;14;201406007;;Dabtola;Balur Mather Pashe;8;38;15;3;2;4;3;3;3;4;4;3;2;3;4;2;4;4;4;52
+Rajshahi;15;201501001;;Shalbagan;Shalbagan CNB Couter;8;28;35;2;1;4;1;4;2;1;3;4;3;3;2;1;1;1;1;34
+Rajshahi;15;201501002;;Shalbagan;Setara Bosotee;20;67;28;2;1;4;4;4;1;3;4;4;2;3;3;1;4;1;2;43
+Rajshahi;15;201502001;;Sopura;Sorkar Shorishar Mil Ar Pashe;6;28;20;3;3;4;3;3;2;2;4;4;4;4;3;2;2;1;3;47
+Rajshahi;15;201502002;;Sopura;Sopura Bottola;11;56;20;4;4;4;4;4;2;4;4;4;2;3;3;2;2;1;3;50
+Rajshahi;15;201502003;;Sopura;Sorpura Gorosthan Ar Pasher Bosotee;5;20;6;2;1;4;4;4;4;4;4;4;3;3;1;3;4;1;2;48
+Rajshahi;15;201502004;;Sopura;Surpura Jame Masjeed Ar Pasher Bosotee;5;29;3;4;3;4;4;4;4;4;4;4;3;4;3;3;3;1;2;54
+Rajshahi;15;201502005;;Sopura;Surpura Shahi Jame Masjeed Ar Pasher Bosotee;4;22;4;4;4;4;4;4;3;4;4;4;3;3;3;2;3;1;2;52
+Rajshahi;15;201503001;;Dorikhorgona (Uttor);Railgate Suiper Colony;19;85;19;1;3;4;2;4;4;4;4;3;4;3;3;2;4;2;3;50
+Rajshahi;15;201503002;;Dorikhorgona (Uttor);Railline Dhare Sahiner Barir Shamner Bosotee;25;88;7;4;4;4;4;4;4;4;4;3;1;4;1;1;1;2;2;47
+Rajshahi;15;201503003;;Dorikhorgona (Uttor);Railline Dhare Babor Mistry Ar Barir Shamne;8;34;4;2;4;4;4;4;4;4;4;4;2;4;1;1;3;2;2;49
+Rajshahi;15;201503004;;Dorikhorgona (Uttor);Railliner Rahman Khaner Barir Shamne;5;20;1;2;3;4;4;4;3;4;2;3;1;4;4;1;4;2;2;47
+Rajshahi;15;201503005;;Dorikhorgona (Uttor);Railliner Jalal Khorshed O Papurler Bari;20;68;5;4;4;4;3;4;4;4;3;4;3;4;3;3;3;2;2;54
+Rajshahi;15;201503006;;Dorikhorgona (Uttor);Dhori Khobrona Rohim Bostee;27;90;20;4;4;4;4;4;1;4;1;3;1;4;2;2;3;2;3;46
+Rajshahi;15;201503007;;Dorikhorgona (Uttor);Motleb O Asmar Bari;12;42;4;4;4;4;4;4;4;4;3;4;3;4;3;3;4;3;3;58
+Rajshahi;15;201504001;;Khadirganj Dorikhorgana;Robi/ Late. Jomir Bari;26;95;7;4;4;4;4;4;4;4;4;3;1;4;4;3;4;1;1;53
+Rajshahi;15;201504002;;Khadirganj Dorikhorgana;Late. Kashem Amin Ar Bostee;12;39;5;4;4;4;4;4;4;4;4;4;1;4;4;3;4;3;3;58
+Rajshahi;15;201504003;;Khadirganj Dorikhorgana;Late. Nader Bari O Kola Anamul Bari;19;72;8;4;4;4;4;4;4;4;4;4;4;4;4;3;4;4;2;61
+Rajshahi;15;201504004;;Khadirganj Dorikhorgana;Sohid A.H.M Kamrujaman Collage Ar Pichone;20;75;17;4;4;4;4;4;4;4;4;4;3;4;4;3;4;3;3;60
+Rajshahi;15;201504005;;Khadirganj Dorikhorgana;Arjan O Nasimar Bari;18;75;22;3;3;4;4;4;4;4;4;4;2;4;1;2;3;3;3;52
+Rajshahi;15;201504006;;Khadirganj Dorikhorgana;Ibrahim Driver Ar Bari;11;68;3;4;4;4;4;4;4;4;3;4;3;4;4;2;4;3;2;57
+Rajshahi;15;201504007;;Khadirganj Dorikhorgana;Sohidul Hajir Bari;12;45;20;4;4;4;4;4;4;4;4;4;3;4;4;1;4;3;3;58
+Rajshahi;15;201504008;;Khadirganj Dorikhorgana;Asraf Var O Khokon Ar Bari;7;28;30;4;4;4;4;4;3;4;4;4;3;4;4;1;4;4;3;58
+Rajshahi;15;201504009;;Khadirganj Dorikhorgana;Pochapukur Ranar Bostee;10;39;3;4;4;4;4;4;4;4;3;4;3;4;4;3;3;3;3;58
+Rajshahi;15;201504010;;Khadirganj Dorikhorgana;Master Ar Bostee;13;54;21;4;4;4;4;4;4;4;2;4;1;4;3;4;4;3;3;56
+Rajshahi;15;201504011;;Khadirganj Dorikhorgana;Sirin Pochapukur Munnader Bari;15;58;10;4;4;4;4;4;3;4;4;4;3;4;4;2;4;3;3;58
+Rajshahi;15;201504012;;Khadirganj Dorikhorgana;Reja Pagla Runa Bari;12;39;5;4;4;4;4;4;4;4;3;3;3;4;4;2;4;4;2;57
+Rajshahi;15;201504013;;Khadirganj Dorikhorgana;Labonder Bari;15;68;5;4;4;4;4;4;4;4;3;3;2;4;3;1;4;1;2;51
+Rajshahi;15;201504014;;Khadirganj Dorikhorgana;Kalam/Poros O Jemder Bari;16;57;30;4;4;4;3;4;3;4;3;3;2;3;3;3;4;4;4;55
+Rajshahi;15;201505001;;Kadirganj Ambagan;Sofiqul Ar Bari;15;67;20;4;4;4;4;4;4;4;1;4;3;4;1;2;4;3;3;53
+Rajshahi;15;201505002;;Kadirganj Ambagan;Chaner Bari Railline Ar Dhare;5;20;35;4;4;4;4;4;4;4;4;4;3;4;4;3;4;4;4;62
+Rajshahi;15;201505003;;Kadirganj Ambagan;Railline Ar Dhare Islam O Wadud Khan Are Bari;7;28;8;2;3;4;4;4;4;4;4;4;3;4;4;1;3;2;2;52
+Rajshahi;15;201505004;;Kadirganj Ambagan;Aynal Van Alar Bari;5;30;30;4;3;4;4;4;4;4;4;4;3;4;3;1;4;4;4;58
+Rajshahi;15;201505005;;Kadirganj Ambagan;Pukur Hajir Bari;9;36;20;3;3;4;4;4;4;4;3;4;1;4;3;1;4;3;3;52
+Rajshahi;15;201505006;;Kadirganj Ambagan;Nurul Driver O Hanif Ar Bari;17;55;21;4;4;4;4;4;4;4;4;2;1;4;4;4;4;4;4;59
+Rajshahi;15;201505007;;Kadirganj Ambagan;Jafor Ali O Polir Bari;8;26;5;4;4;4;4;4;4;4;3;4;1;4;1;3;4;4;4;56
+Rajshahi;15;201505008;;Kadirganj Ambagan;Abir Thikader Ar Bari;6;26;15;4;4;4;4;4;4;4;4;4;1;4;1;1;3;4;3;53
+Rajshahi;16;201601001;;Mothurdanga&Jinnanagar;Santur Bari;50;250;40;4;4;4;4;4;1;4;4;3;4;2;4;3;4;4;4;57
+Rajshahi;16;201601002;;Mothurdanga&Jinnanagar;Sohidul Master Ar Bari;201;804;45;3;4;4;4;4;1;4;4;3;4;2;4;1;4;4;4;54
+Rajshahi;16;201601003;;Mothurdanga&Jinnanagar;Montazer Bari;30;120;50;3;4;4;4;4;1;4;4;3;4;2;4;1;4;4;4;54
+Rajshahi;16;201601004;;Mothurdanga&Jinnanagar;Vadur Goli;101;405;50;4;4;4;4;4;1;4;4;4;1;2;4;1;4;4;4;53
+Rajshahi;16;201601005;;Mothurdanga&Jinnanagar;Jinnanagar Jame Masjeed Ar Pashe;101;409;52;4;3;4;4;4;3;4;4;3;4;3;4;1;4;4;4;57
+Rajshahi;16;201601006;;Mothurdanga&Jinnanagar;Soheler Bari;107;420;50;4;3;4;4;4;3;4;4;3;2;3;4;1;4;4;4;55
+Rajshahi;16;201601007;;Mothurdanga&Jinnanagar;Altaber  Bari;98;360;52;4;3;4;4;4;3;4;4;3;2;3;4;1;4;4;4;55
+Rajshahi;16;201602001;;Bokhtiarabad (Maldhaho Colony);Maldhaho Colony;1705;6820;58;2;3;4;4;1;4;4;3;3;1;1;1;1;1;1;1;35
+Rajshahi;16;201603001;;Koyerdara (Poschim);Alongirer Bari;290;1160;30;4;3;4;4;4;1;4;4;3;4;1;4;4;4;4;4;56
+Rajshahi;16;201603002;;Koyerdara (Poschim);Hakimer Bari;165;660;35;4;3;4;4;4;1;4;4;3;4;2;4;4;4;4;4;57
+Rajshahi;16;201603003;;Koyerdara (Poschim);Naktarer Goli;181;724;50;2;3;4;4;4;1;4;4;3;4;2;4;4;4;4;4;55
+Rajshahi;16;201603004;;Koyerdara (Poschim);Surjer Hasi Clinic;162;648;50;4;3;3;4;4;1;3;4;3;3;1;3;2;4;4;4;50
+Rajshahi;16;201603005;;Koyerdara (Poschim);Vuttu Dekoretorer Bosotee;75;300;15;2;1;3;4;4;1;1;1;4;3;3;1;3;4;4;4;43
+Rajshahi;16;201604001;;Sujanagar Mul;Atkoshi School Ar Pashe;70;300;50;2;3;4;4;4;1;4;4;3;3;1;4;1;4;4;4;50
+Rajshahi;16;201604002;;Sujanagar Mul;Biharir Bostee;22;106;45;2;3;4;4;4;1;4;4;3;3;1;4;1;4;4;4;50
+Rajshahi;16;201604003;;Sujanagar Mul;Henar Barir Bosotee;18;90;40;2;3;4;4;3;1;3;3;3;2;1;4;4;4;4;4;49
+Rajshahi;16;201604004;;Sujanagar Mul;Babor Koshai Ar Bosotee;25;125;45;4;3;4;4;4;1;4;4;3;3;1;4;4;4;4;4;55
+Rajshahi;16;201604005;;Sujanagar Mul;Rahman Daroger Bari;45;280;50;4;3;4;4;4;1;3;4;3;3;1;1;4;4;4;4;51
+Rajshahi;16;201604006;;Sujanagar Mul;Bokur Chottor Ar Pashe;305;1517;40;2;3;4;4;3;1;3;4;3;2;1;4;4;4;4;4;50
+Rajshahi;16;201604007;;Sujanagar Mul;Mitaly Club Ar Pichone;35;137;45;2;3;4;4;4;1;3;4;3;2;1;4;4;4;4;4;51
+Rajshahi;16;201604008;;Sujanagar Mul;Foridar Bosoty;205;730;35;4;3;4;4;4;1;3;4;3;2;1;4;4;4;4;4;53
+Rajshahi;16;201605001;;Koyadara (Purbo);Kabil Chottor Ar Pashe;120;482;42;2;3;4;4;4;1;4;4;3;4;1;4;2;4;4;4;52
+Rajshahi;16;201605002;;Koyadara (Purbo);Kalu Mistry Chottor Ar Pashe;160;640;35;2;3;4;4;4;1;4;4;3;4;1;4;2;4;4;4;52
+Rajshahi;16;201605003;;Koyadara (Purbo);Sofiq Ringpat Choot Ar Pashe;205;820;55;2;3;4;4;1;4;4;2;4;2;4;2;4;4;4;4;52
+Rajshahi;16;201605004;;Koyadara (Purbo);Borhan Chottor;7;35;33;2;3;4;4;4;1;4;4;3;4;2;4;1;4;4;4;52
+Rajshahi;16;201605005;;Koyadara (Purbo);Rumaly Chotto Ar Pashe;65;325;15;2;1;4;4;1;1;4;4;3;4;2;4;1;4;4;4;47
+Rajshahi;16;201605006;;Koyadara (Purbo);Babor Ali Choot Ar Pashe;27;108;45;2;2;4;4;4;1;4;4;3;4;2;4;1;4;4;4;51
+Rajshahi;16;201606001;;Surjanaga (Uttorpara);Noyon Art Bosoty;55;270;40;2;3;4;4;4;1;3;4;3;1;1;4;4;4;4;4;50
+Rajshahi;16;201606002;;Surjanaga (Uttorpara);Samimar Bosoty;180;650;47;2;3;4;4;4;1;3;4;3;1;1;1;1;1;1;1;35
+Rajshahi;16;201606003;;Surjanaga (Uttorpara);Bablu Chotpotir Walar Bosoty;35;148;30;2;3;4;4;1;2;4;3;1;1;1;1;1;1;1;1;31
+Rajshahi;16;201606004;;Surjanaga (Uttorpara);Mostoker Bosoty;50;250;35;2;3;4;4;1;2;4;3;1;1;4;4;4;4;4;4;49
+Rajshahi;16;201606005;;Surjanaga (Uttorpara);Uttor Muchupara;105;395;35;2;2;4;4;1;4;4;3;3;2;1;1;1;1;1;1;35
+Rajshahi;16;201606006;;Surjanaga (Uttorpara);Debur Bosoty;27;90;35;3;3;4;4;4;1;3;4;3;3;1;4;4;4;4;4;53
+Rajshahi;17;201701001;;Uttor Nowdapara;Kalur Mor;63;297;74;1;1;4;1;2;3;2;3;4;1;2;4;3;4;4;4;43
+Rajshahi;17;201702001;;Moddho Nowdapara;Moddho Nowdapara Boste;55;269;70;2;1;4;1;3;3;2;3;4;1;3;4;2;4;4;4;45
+Rajshahi;17;201703001;;Dokkhin Nowdapara;Talpukur Para Bostee;55;259;70;3;1;4;1;3;3;2;3;3;1;3;4;2;4;4;4;45
+Rajshahi;17;201704001;;Varali Para;Uttor Varali Para Bostee;72;339;50;2;3;4;1;2;3;2;3;3;1;2;4;3;3;4;4;44
+Rajshahi;17;201704002;;Varali Para;Dokkhin Varali Para Bostee;73;344;34;1;1;4;4;4;2;2;4;2;2;2;4;2;4;4;4;46
+Rajshahi;17;201705001;;Baganpara;Baganpara Bostee;160;752;62;2;1;3;1;2;2;1;3;1;1;2;1;3;1;1;1;26
+Rajshahi;17;201706001;;Baropara;Mojib Bostee;108;436;33;2;1;4;1;3;2;2;2;3;1;1;1;1;1;1;1;27
+Rajshahi;17;201706002;;Baropara;Boro Pukur Para Bosotee;212;996;44;1;1;3;1;2;1;1;3;2;1;1;1;1;1;1;1;22
+Rajshahi;17;201706003;;Baropara;Pabna Para Bosotee;227;931;37;2;1;4;1;3;1;2;3;2;1;1;1;1;1;1;1;26
+Rajshahi;17;201706004;;Baropara;DSP Para;283;1330;51;2;2;3;1;3;3;3;3;2;1;1;1;1;1;1;1;29
+Rajshahi;17;201707001;;Chakpara;Hotat Bosotee;44;207;21;1;1;4;1;1;1;1;3;3;1;2;1;1;1;2;1;25
+Rajshahi;17;201708001;;Namopara;Namopara Bosotee;25;118;21;2;1;4;1;1;2;1;2;3;1;2;1;1;1;2;1;26
+Rajshahi;17;201709001;;Sheikhpara;Sheikhpara;22;90;18;1;1;3;1;1;3;1;3;3;1;2;4;2;4;4;4;38
+Rajshahi;18;201801001;;Assam Colony;Badshar Bari;20;90;17;1;1;4;3;4;2;2;4;4;1;2;1;1;2;1;3;36
+Rajshahi;18;201801002;;Assam Colony;soiyad Alir Bastee;25;112;7;1;1;4;4;4;1;1;2;4;1;2;1;1;1;1;3;32
+Rajshahi;18;201801003;;Assam Colony;City Garager Pashe;15;75;25;1;1;4;4;4;1;1;4;4;2;2;1;1;1;1;3;35
+Rajshahi;18;201801004;;Assam Colony;Khorshed Alom;50;230;35;1;1;4;4;4;1;4;3;4;3;2;4;1;4;4;4;48
+Rajshahi;18;201801005;;Assam Colony;Rober Mor;70;300;40;1;1;4;4;4;2;1;3;4;3;2;4;1;4;4;4;46
+Rajshahi;18;201801006;;Assam Colony;Khajar Barir Pashe;60;270;25;1;1;4;4;4;2;1;2;4;2;2;1;1;1;2;1;33
+Rajshahi;18;201801007;;Assam Colony;Pipe Factoryr Pashe;150;700;180;1;2;4;4;4;2;4;3;4;3;2;4;1;4;4;4;50
+Rajshahi;18;201801008;;Assam Colony;Math School Ar Pashe;120;540;25;1;1;4;4;4;2;4;2;4;3;2;4;1;4;4;4;48
+Rajshahi;18;201802001;;Shalbagan;Mahabub Contenter Ar Bari;45;190;20;2;1;4;4;4;2;1;1;4;2;2;2;1;2;1;3;36
+Rajshahi;18;201805001;;Poba Notunpara;Ayatullah Madrasar Pashe;30;135;4;2;1;4;1;4;2;1;4;4;3;2;1;1;2;1;3;36
+Rajshahi;18;201805002;;Poba Notunpara;Jiya Paker Piche;15;70;20;2;1;4;1;1;2;1;4;4;3;2;4;2;4;4;4;43
+Rajshahi;18;201805003;;Poba Notunpara;Poba Notunpara Masjeed Ar Pashe;8;40;14;4;4;4;4;4;2;4;4;3;3;2;2;1;2;1;3;47
+Rajshahi;18;201805004;;Poba Notunpara;Modoner Pukurer Purbo Pashe;14;70;7;3;1;4;1;1;2;1;4;3;3;2;2;2;2;1;3;35
+Rajshahi;18;201805005;;Poba Notunpara;Sufinagar;7;35;3;4;4;4;1;4;3;4;4;4;3;2;2;1;2;1;3;46
+Rajshahi;18;201805006;;Poba Notunpara;Gangpara;50;220;50;2;1;4;1;4;2;1;4;4;3;2;4;1;4;4;4;45
+Rajshahi;18;201805007;;Poba Notunpara;Satttal Para;50;220;30;3;1;4;4;4;3;4;3;3;4;2;4;2;4;4;4;53
+Rajshahi;18;201805008;;Poba Notunpara;Shamokhdom Thanar Mor;18;110;25;4;4;4;4;4;2;4;4;1;3;2;1;2;1;2;1;43
+Rajshahi;19;201901001;;Siroil Colony;Siroil Colony School Math Ar Pashe;200;880;40;1;1;3;4;4;3;3;4;4;3;3;3;4;3;4;4;51
+Rajshahi;19;201901002;;Siroil Colony;Siroil Colonyr Poschim Pashe;204;889;50;4;4;4;4;4;3;3;4;3;3;3;4;3;4;4;4;58
+Rajshahi;19;201902001;;Railway Colony;Railway Colony Bostee;100;440;20;2;1;3;1;4;3;2;4;3;2;2;2;1;2;2;1;35
+Rajshahi;19;201902002;;Railway Colony;Bypas Bostee;50;220;30;2;2;3;3;3;2;2;4;4;2;3;2;1;2;2;1;38
+Rajshahi;19;201903001;;Hazra Pukur, New Colony & Pabna Para;New Colony Koylan;13;57;30;1;1;4;1;4;3;1;4;4;2;3;2;3;3;1;1;38
+Rajshahi;19;201903002;;Hazra Pukur, New Colony & Pabna Para;New Colony Mahotso Jabi Masjeed;300;1320;50;4;4;4;4;3;3;4;4;3;3;3;1;4;3;2;2;51
+Rajshahi;19;201903003;;Hazra Pukur, New Colony & Pabna Para;Hazra Pukur Bostee;12;53;20;1;1;3;1;4;3;1;4;4;2;3;1;1;2;2;1;34
+Rajshahi;19;201903004;;Hazra Pukur, New Colony & Pabna Para;Azad Kanar Bostee;50;220;25;1;1;1;1;4;3;1;4;4;2;3;1;2;3;2;1;34
+Rajshahi;19;201904001;;Choto Bongram (Purbopara);Hari Cha Ar Nichar Bosotee;43;190;8;4;1;3;1;2;4;1;4;3;2;4;2;1;2;1;3;38
+Rajshahi;19;201904002;;Choto Bongram (Purbopara);Chondrima Abashik Bosotee;21;88;3;4;1;4;4;4;4;4;3;3;1;4;1;1;2;1;2;43
+Rajshahi;19;201904003;;Choto Bongram (Purbopara);Niror Bari Baypas;10;42;25;4;1;4;4;3;4;4;4;4;2;4;2;2;3;1;3;49
+Rajshahi;19;201904004;;Choto Bongram (Purbopara);Masjeed Potti;18;76;30;4;4;4;4;2;4;1;4;3;1;4;1;2;1;1;1;41
+Rajshahi;19;201904005;;Choto Bongram (Purbopara);Hannan Masjeed Ar Pashe;10;42;6;2;1;4;4;4;4;4;4;3;1;1;3;3;3;2;2;45
+Rajshahi;19;201904006;;Choto Bongram (Purbopara);Boro Bari Bostee;16;64;15;4;1;3;1;3;4;1;4;1;1;4;2;1;2;2;3;37
+Rajshahi;19;201904007;;Choto Bongram (Purbopara);Haddi Potti Bostee;110;484;17;2;1;4;4;4;4;3;3;4;1;1;3;1;1;3;3;42
+Rajshahi;19;201904008;;Choto Bongram (Purbopara);Modina Nagar Muchi Potii;6;24;2;1;1;1;4;2;4;1;4;2;1;4;1;1;1;1;1;30
+Rajshahi;19;201905001;;Choto Bongram (Poschimpara);Lalar Bari;25;115;8;4;4;4;4;3;2;3;3;2;2;3;1;4;2;1;3;45
+Rajshahi;19;201905002;;Choto Bongram (Poschimpara);Sorkar Bari Bosotee;30;126;10;4;4;4;3;2;2;3;4;2;1;4;2;2;2;1;3;43
+Rajshahi;19;201905003;;Choto Bongram (Poschimpara);Kola Pukur Lichu Bagan;23;96;10;4;1;3;1;2;2;1;4;2;1;4;3;1;1;1;3;34
+Rajshahi;19;201905004;;Choto Bongram (Poschimpara);Poschim Para Shurori Bari;20;83;15;4;1;4;4;4;4;3;3;4;1;4;3;2;1;3;1;46
+Rajshahi;19;201906001;;Choto Bongram (Uttor para);Uttor Para Bosotee;9;38;15;4;4;4;4;4;3;1;3;3;1;3;4;3;4;4;4;53
+Rajshahi;19;201907001;;Choto Bongram (Dokkhin para);Club More Mithu Dokan Ar Pashe;10;40;15;3;1;4;1;3;2;2;3;3;2;1;1;2;2;2;1;33
+Rajshahi;20;202001001;;Sultanabad;Bewa Colony;15;70;64;3;1;2;2;2;2;2;3;3;2;3;4;2;4;4;4;43
+Rajshahi;20;202001002;;Sultanabad;Hecha Bosotee;20;95;30;2;2;2;3;3;2;2;2;3;3;3;4;2;4;4;4;45
+Rajshahi;20;202001003;;Sultanabad;Rasid, Potol, Hosen Ar Bosotee;14;68;20;2;1;3;4;2;3;4;3;4;3;2;4;2;4;4;4;49
+Rajshahi;20;202002001;;Ranibazar;Iskon Mondir Mor;45;210;55;3;3;4;2;3;3;2;3;2;3;3;4;2;4;4;4;49
+Rajshahi;20;202003001;;Reshompotti;Muktijodda Mor;20;100;50;2;1;4;2;3;2;2;2;3;2;3;4;2;4;4;4;44
+Rajshahi;20;202003002;;Reshompotti;Belir Bosotee;10;40;70;3;2;3;3;2;1;3;1;2;3;3;4;2;4;4;4;44
+Rajshahi;20;202003003;;Reshompotti;Rakhal Gosh;10;48;50;2;1;4;3;4;2;3;3;2;3;3;4;2;4;4;4;48
+Rajshahi;20;202003004;;Reshompotti;Javeder Bari;30;145;70;3;3;3;3;4;1;3;2;2;3;2;4;2;4;4;4;47
+Rajshahi;20;202003005;;Reshompotti;Halima Ar Bosotee;10;45;30;2;1;4;2;3;2;2;2;2;2;3;4;2;4;4;4;43
+Rajshahi;20;202004001;;Beldarpara;Bewa Colony Goli;25;110;35;2;1;4;2;3;2;2;2;2;2;1;4;2;4;4;4;41
+Rajshahi;20;202004002;;Beldarpara;Tora Bosotee;15;70;30;2;2;3;1;3;1;1;2;2;2;3;4;2;4;4;4;40
+Rajshahi;20;202005001;;Munshidanga;Narayan Ar Bosotee;15;70;30;3;2;3;2;1;3;3;3;2;3;2;4;2;4;4;4;45
+Rajshahi;20;202005002;;Munshidanga;Julakha Ar Bosotee;30;140;30;3;2;3;4;3;2;3;3;3;3;3;4;2;4;4;4;50
+Rajshahi;20;202005003;;Munshidanga;Salam Ar Bosotee;10;40;20;3;2;4;3;4;2;2;2;3;2;3;4;2;4;4;4;48
+Rajshahi;20;202005004;;Munshidanga;Gosh Bari;10;40;35;2;3;4;3;4;2;2;3;2;3;2;4;2;4;4;4;48
+Rajshahi;20;202005005;;Munshidanga;Musjeed Ar Mor;10;40;40;2;3;3;3;3;2;3;2;3;3;3;4;2;4;4;4;48
+Rajshahi;21;202101001;;Bastuhara Para;Bastuhara Para;600;2500;50;2;4;4;4;3;3;4;1;4;2;2;3;3;2;3;3;47
+Rajshahi;21;202103001;;Bollabganj/ Moholdarpara;Machuya Para;300;1100;65;3;2;4;3;4;2;3;1;2;2;2;4;2;4;4;4;46
+Rajshahi;21;202103002;;Bollabganj/ Moholdarpara;Khuli Para;50;215;70;3;1;4;3;4;2;3;2;3;2;2;4;3;4;4;4;48
+Rajshahi;21;202103003;;Bollabganj/ Moholdarpara;Bihari Para;200;700;85;4;3;4;4;3;3;4;2;3;2;2;4;3;4;4;4;53
+Rajshahi;21;202104001;;Bish Colony;Molla Mel Ar Pashe;20;100;55;2;3;4;4;4;3;4;2;3;3;3;4;3;4;4;4;54
+Rajshahi;21;202105001;;Rajshahi Rail Station;Rail Bastohara;50;200;45;2;3;4;4;3;3;4;1;3;2;4;2;1;2;2;2;42
+Rajshahi;22;202201001;;Kumarpara;Ghoshpara and Camp;40;180;110;2;1;4;1;1;1;2;3;4;1;2;2;2;2;2;1;31
+Rajshahi;22;202201002;;Kumarpara;Raseler Goly Bosotee;15;60;100;1;1;1;1;2;2;1;3;2;1;2;2;2;2;2;1;26
+Rajshahi;22;202201003;;Kumarpara;Barek Miyar Bari Bosotee;15;60;35;1;1;3;1;2;1;2;3;2;1;1;2;2;2;2;1;27
+Rajshahi;22;202201004;;Kumarpara;Podda Mondirer Goly songlogno Bosotee;25;150;55;1;1;2;1;3;2;2;3;3;1;2;4;3;4;4;4;40
+Rajshahi;22;202201005;;Kumarpara;Ghoshpara;10;45;100;1;1;3;1;2;1;2;2;1;1;1;4;3;4;4;4;35
+Rajshahi;22;202202001;;Sagorpara;Sagorpara;7;31;105;3;1;4;4;4;3;4;4;3;1;3;4;3;4;4;4;53
+Rajshahi;22;202202002;;Sagorpara;Sagorpara Baitul Aman Jame Masjeed er Pasher Bosotee;11;45;85;2;1;4;1;4;4;4;4;2;1;3;4;3;3;4;4;48
+Rajshahi;22;202202003;;Sagorpara;Ali Hossain er Bari songlogno Bosotee;7;25;65;2;2;4;4;4;3;4;4;3;1;3;4;3;4;4;4;53
+Rajshahi;22;202203001;;Ghoramara;Rajshahi B.B Hindu Academy ar Opor Pashe;5;20;85;2;2;4;2;4;2;2;3;2;1;4;1;2;1;1;1;34
+Rajshahi;22;202204001;;Kansaman Chak;Borendra College back side;8;35;40;2;1;4;4;4;2;2;3;3;1;4;2;1;2;1;1;37
+Rajshahi;22;202205001;;Rampur Bazar;Kakolir Mathy;6;25;75;2;1;4;3;3;2;3;4;3;1;3;2;1;2;2;1;37
+Rajshahi;23;202301001;;Tikapara;Monir Bosotee;60;260;25;2;2;3;3;3;2;3;3;2;2;3;4;2;4;4;4;46
+Rajshahi;23;202301002;;Tikapara;Banar Bari;45;200;45;2;1;4;3;3;2;2;3;2;3;3;4;2;4;4;4;46
+Rajshahi;23;202301003;;Tikapara;Saidar Bosoti;25;120;20;2;2;2;3;2;2;2;2;2;2;2;4;2;4;4;4;41
+Rajshahi;23;202302001;;Ramchandrapur;Monir Ar Bosotee;40;180;45;3;3;3;2;3;2;2;3;3;3;3;4;2;4;4;4;48
+Rajshahi;23;202302002;;Ramchandrapur;Mohoromi Bosotee;90;420;38;3;3;3;2;2;2;2;2;2;3;3;4;2;4;4;4;45
+Rajshahi;23;202303001;;Bospara;Cheru Dalim Er Bosotee;60;250;40;3;3;2;2;3;2;3;3;2;2;3;4;2;4;4;4;46
+Rajshahi;23;202303002;;Bospara;Piyaler Bari;25;110;35;2;3;2;3;3;2;2;3;2;2;3;4;2;4;4;4;45
+Rajshahi;23;202304001;;Shekherchar(Poschim);Mohodar Para;50;260;30;3;1;4;3;3;2;3;3;2;2;4;2;2;3;2;2;41
+Rajshahi;23;202304002;;Shekherchar(Poschim);House Of Aitul;45;210;25;2;2;2;2;2;2;2;3;3;3;3;2;2;2;2;2;36
+Rajshahi;23;202304003;;Shekherchar(Poschim);Poschim Math Masjeed Mor;150;725;30;2;2;2;2;3;2;2;3;3;2;2;2;2;2;2;2;35
+Rajshahi;23;202304004;;Shekherchar(Poschim);Madrasa Math;160;750;30;2;2;3;2;3;2;2;3;2;2;3;2;2;2;2;2;36
+Rajshahi;23;202305001;;Shekherchar(Purbo);Ponchoboti Sosaner Mor;150;735;20;2;2;3;2;3;2;2;3;2;2;2;2;2;2;2;2;35
+Rajshahi;24;202401001;;Shadhur Mor-Mirer Chok;Mirer Chok RamChandropur Baghur Bari;13;50;50;2;1;4;3;1;1;4;4;2;1;1;4;3;4;4;4;43
+Rajshahi;24;202402001;;Hadir More-Beratola;Hadir More- Beratola Janu Mistryr Bari;6;25;40;3;1;4;3;1;2;2;1;4;1;2;4;3;4;4;4;43
+Rajshahi;24;202402002;;Hadir More-Beratola;Beratola Mokbuler Bari;22;79;4;1;1;4;1;4;1;1;1;4;2;4;1;1;1;1;1;29
+Rajshahi;24;202402003;;Hadir More-Beratola;Beratola Khan Villar Shamne;7;24;30;1;1;4;1;4;4;2;4;3;1;4;1;1;4;4;4;43
+Rajshahi;24;202402004;;Hadir More-Beratola;Hadir Mor Haripara;10;41;100;1;1;4;4;2;4;3;4;3;4;2;1;4;1;4;4;46
+Rajshahi;24;202402005;;Hadir More-Beratola;Hadir Mor Bow Bazar;5;21;20;1;1;4;1;4;2;1;4;3;1;4;4;1;4;4;4;43
+Rajshahi;24;202403001;;Khorbona;Khorbana Kalu Mistry Mor;8;37;60;1;1;4;4;4;3;3;4;4;4;2;4;1;4;4;4;51
+Rajshahi;24;202403002;;Khorbona;Khorbana Bablu Khalifar Bari;9;35;60;4;4;4;4;4;4;4;4;4;1;2;4;1;4;4;4;56
+Rajshahi;24;202403003;;Khorbona;Khorbona Najim Uddain Ar Bari;28;125;100;3;2;3;4;4;3;3;3;3;1;2;4;1;4;4;4;48
+Rajshahi;24;202403004;;Khorbona;Khorbona Counsilour Ar Barir Poschim Pashe;30;135;200;2;1;4;4;4;3;4;4;4;1;2;4;1;4;4;4;50
+Rajshahi;24;202403005;;Khorbona;Councilor Ar Bari;15;75;100;4;1;4;4;4;3;4;4;3;1;2;4;1;4;4;4;51
+Rajshahi;24;202403006;;Khorbona;Sondhar Hotel Ar Pichone;25;125;60;2;3;3;4;3;3;4;4;3;1;2;1;1;3;2;1;40
+Rajshahi;24;202404001;;Badsha Tea Stall-Kahar Para;Badsha Bari;27;129;80;2;4;4;4;4;2;4;4;4;1;3;4;1;4;4;4;53
+Rajshahi;24;202404002;;Badsha Tea Stall-Kahar Para;Kahar Para Ali Hajat Masjeed;35;162;50;2;1;4;4;1;3;4;4;3;1;2;4;1;4;4;4;46
+Rajshahi;24;202404003;;Badsha Tea Stall-Kahar Para;Bashar Road Siddik Ar Bari;11;50;100;1;4;4;4;4;3;4;4;3;1;2;4;1;4;4;4;51
+Rajshahi;24;202405001;;Ponchopoti- Nodir Dhar;Khorbona Lala Saked Councilor Ar Officer Pashe;120;620;80;2;1;4;4;4;4;4;4;3;1;4;1;1;1;2;1;41
+Rajshahi;24;202406001;;Akbar Bari-Chamra Ali Bari;Chamra Ali Bari Nodir Dhare;50;250;20;1;1;1;1;3;1;1;1;1;1;2;1;1;1;3;1;21
+Rajshahi;24;202407001;;Hindu Para-Moldar Para Mosque;Hindu para- Moldar Para Mosque Nodir Dharer Bosotee;550;2550;40;2;1;3;1;2;2;1;3;2;1;2;1;1;1;2;1;26
+Rajshahi;24;202408001;;Kedurmor-Nodir Dhar;Kedurmor- Nodir Dhar Tansur Ar Dhokaner Pashe;250;1125;40;1;1;3;1;4;1;1;4;2;1;2;1;1;1;2;1;27
+Rajshahi;24;202409001;;Hadir Mor-Liton Bari;Hadir Mor Nodir Dharer Bosotee;100;450;36;1;1;4;1;4;1;4;4;3;1;3;1;1;1;2;1;33
+Rajshahi;24;202409002;;Hadir Mor-Liton Bari;Nodir Dhar Liton Ar Bari;140;620;40;1;1;4;1;4;3;1;4;4;1;3;1;1;1;2;1;33
+Rajshahi;24;202410001;;Dablu Tea Stall-Nodir Dhar;Nodir Mor Khademul School Ar Pashe;300;1505;40;1;1;1;4;4;1;4;4;4;1;3;1;1;1;2;1;34
+Rajshahi;24;202411001;;Sohid Minar-Nodir Dhar;Sohid Minar Nodir Dhar;150;630;48;1;1;4;1;4;1;4;4;3;1;3;1;1;1;2;1;33
+Rajshahi;25;202501001;;Talaimari (Uttor);Riponer Bari;7;35;25;2;1;4;4;4;1;3;4;3;4;1;4;1;4;4;4;48
+Rajshahi;25;202501002;;Talaimari (Uttor);Habol Bosotee;14;56;30;2;1;4;4;4;1;4;4;3;4;1;4;3;4;4;4;51
+Rajshahi;25;202501003;;Talaimari (Uttor);Hajar Bosotee;9;36;15;3;4;4;4;4;1;1;4;3;3;1;4;3;4;4;4;51
+Rajshahi;25;202501004;;Talaimari (Uttor);Toslim Ar Bosotee;14;65;20;2;1;4;4;4;1;1;4;3;2;1;4;3;4;4;4;46
+Rajshahi;25;202501005;;Talaimari (Uttor);Sahin School Ar Pichone;13;65;20;3;1;4;4;4;1;1;4;3;4;1;4;3;4;4;4;49
+Rajshahi;25;202501006;;Talaimari (Uttor);Shagor Rer Bari;10;50;30;4;4;4;4;4;1;2;4;3;4;1;4;1;4;4;4;52
+Rajshahi;25;202501007;;Talaimari (Uttor);Sorifer Bosotee;9;54;40;4;1;4;4;4;1;1;4;3;4;1;4;1;4;4;4;48
+Rajshahi;25;202501008;;Talaimari (Uttor);Rohimer Bosotee;9;36;15;2;1;4;4;4;1;2;4;3;3;1;4;3;4;4;4;48
+Rajshahi;25;202501009;;Talaimari (Uttor);Notun Para;10;60;14;4;3;4;4;4;1;4;4;3;4;1;4;3;4;4;4;55
+Rajshahi;25;202501010;;Talaimari (Uttor);Raslim Driver Ar Bari;17;85;12;2;1;4;4;4;1;2;4;3;1;1;4;1;4;4;4;44
+Rajshahi;25;202501011;;Talaimari (Uttor);Amashar Ar Bosotee;12;60;20;2;1;4;4;4;1;4;4;3;3;1;4;1;4;4;4;48
+Rajshahi;25;202501012;;Talaimari (Uttor);Kali Mandir;10;60;25;2;1;4;4;4;1;4;4;3;1;1;1;1;1;1;1;34
+Rajshahi;25;202501013;;Talaimari (Uttor);Pocha Pukur;40;200;40;2;4;4;4;4;1;4;4;3;2;1;4;1;4;4;4;50
+Rajshahi;25;202502001;;Talaimari (Dokkhin);Kukur Alar Goli;5;25;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202502002;;Talaimari (Dokkhin);Giyas Ar Bari;5;20;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202502003;;Talaimari (Dokkhin);Babor Ali Road;6;25;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202502004;;Talaimari (Dokkhin);Raihan Ar Barir Pashe;5;22;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202502005;;Talaimari (Dokkhin);Nagodh Office Ar Piche;6;28;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202503001;;Raninagar (Uttor);Mithur Bari;8;40;15;2;1;4;4;4;1;1;4;3;4;1;4;1;4;4;4;46
+Rajshahi;25;202503002;;Raninagar (Uttor);Shaplar Bari;18;88;20;1;1;4;4;4;1;1;4;3;1;1;4;1;4;4;4;42
+Rajshahi;25;202503003;;Raninagar (Uttor);Shakildar Bari;13;52;25;2;1;4;4;4;1;4;4;3;3;1;4;3;4;4;4;50
+Rajshahi;25;202503004;;Raninagar (Uttor);Bagan Bari;41;205;15;2;1;4;4;4;1;4;4;3;4;1;1;1;1;1;1;37
+Rajshahi;25;202503005;;Raninagar (Uttor);Shib Mondir Ar Pashe;15;60;20;2;1;4;4;4;1;3;4;3;3;1;4;3;4;4;4;49
+Rajshahi;25;202503006;;Raninagar (Uttor);Hajur Bostee;15;60;25;3;1;4;4;4;1;1;4;3;1;1;4;3;4;4;4;46
+Rajshahi;25;202503007;;Raninagar (Uttor);Irener Bari;20;68;20;2;1;4;4;4;1;2;4;3;3;1;4;3;4;4;4;48
+Rajshahi;25;202503008;;Raninagar (Uttor);Babor Er Bari;15;60;20;2;2;4;4;4;1;3;4;3;2;1;4;3;4;4;4;49
+Rajshahi;25;202503009;;Raninagar (Uttor);Munsur Bari;12;48;20;2;1;4;4;4;1;4;4;3;2;1;4;3;4;4;4;49
+Rajshahi;25;202503010;;Raninagar (Uttor);Munjur Bari;7;35;22;1;1;4;4;4;1;4;4;3;4;1;1;1;1;1;1;36
+Rajshahi;25;202503011;;Raninagar (Uttor);Joner Bari;20;78;20;4;3;4;4;4;1;4;4;3;3;1;4;3;4;4;4;54
+Rajshahi;25;202503012;;Raninagar (Uttor);Bobotar Bari;20;80;30;2;1;4;4;4;1;2;4;3;3;1;4;1;4;4;4;46
+Rajshahi;25;202504001;;Raninagar (Moddho);Baitul Hamdh Jame Masjeed Ar Pashe;5;22;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202504002;;Raninagar (Moddho);Bow Bazar;5;24;20;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202504003;;Raninagar (Moddho);Khademul School Ar Shamner Bosotee;6;26;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202504004;;Raninagar (Moddho);Chumkir Bari;6;26;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202505001;;Raninagar (Dokkhin);Khademul School Ar Pashe;5;25;30;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202505002;;Raninagar (Dokkhin);S.B. Lab;5;19;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;25;202505003;;Raninagar (Dokkhin);Chonchol Ar Bari;6;27;40;4;4;4;4;4;1;4;4;3;4;1;4;1;4;4;4;54
+Rajshahi;26;202601001;;Meherchondi Moddhopara;Anarul Ar Bosotee;17;77;2;2;1;4;3;2;2;4;4;4;3;1;1;1;1;1;1;35
+Rajshahi;26;202601002;;Meherchondi Moddhopara;Azar Hauqe Ar Bosotee;13;60;50;4;3;4;4;4;3;4;3;3;3;3;4;3;4;4;4;57
+Rajshahi;26;202601003;;Meherchondi Moddhopara;Koroytola Bosote;125;520;40;2;1;4;4;3;3;3;4;3;4;2;4;2;4;4;4;51
+Rajshahi;26;202602001;;Meherchondi Purbopara;Meherchondi Purbopara Eidgha Ar Pashe;25;120;30;1;2;3;1;3;3;4;4;3;3;2;4;3;4;4;4;48
+Rajshahi;26;202602002;;Meherchondi Purbopara;Shadina Ar Bari;40;180;40;1;1;4;1;4;3;1;4;4;3;1;4;3;4;4;4;46
+Rajshahi;26;202602003;;Meherchondi Purbopara;Royal Ar Amer Bagan;18;80;10;1;1;4;1;4;3;1;4;3;3;1;4;3;4;4;4;45
+Rajshahi;26;202602004;;Meherchondi Purbopara;Hotath Para;105;450;20;1;1;4;2;4;3;4;4;3;4;1;4;3;4;4;4;50
+Rajshahi;26;202602005;;Meherchondi Purbopara;Badsha Kamar Bari;106;450;25;1;1;4;1;2;3;1;4;3;2;1;4;3;4;4;4;42
+Rajshahi;26;202602006;;Meherchondi Purbopara;Titir Bosotee;28;150;50;1;1;4;1;1;3;1;2;3;1;1;1;1;1;1;1;24
+Rajshahi;26;202603001;;Chokpara;Ruhul Ar Bosotee;35;220;10;4;4;4;4;4;2;3;4;3;3;3;4;3;4;4;4;57
+Rajshahi;26;202603002;;Chokpara;Sahafuddain Ar Bosotee;42;201;32;4;4;4;4;3;3;3;4;3;3;2;4;3;4;4;4;56
+Rajshahi;26;202603003;;Chokpara;Repon Ar Bosotee;13;42;3;4;2;4;4;4;2;4;3;3;3;2;4;3;4;4;4;54
+Rajshahi;26;202603004;;Chokpara;Ruhun Ar Bosotee;27;95;30;4;4;4;4;3;2;4;4;4;4;4;4;3;4;4;4;60
+Rajshahi;26;202603005;;Chokpara;Moti Ar Bosotee;55;285;25;4;4;4;4;3;2;3;3;3;3;4;4;3;4;4;4;56
+Rajshahi;26;202603006;;Chokpara;Mintu Ar Bosotee;42;190;30;4;4;4;4;3;3;3;4;4;3;3;4;3;4;4;4;58
+Rajshahi;26;202604001;;Jamalpur;Kholil Ar Bosotee;25;102;50;4;3;3;4;4;3;3;4;3;4;3;4;3;4;4;4;57
+Rajshahi;26;202604002;;Jamalpur;Chana Ar Bosotee;47;205;20;4;4;4;3;3;3;4;4;3;3;2;4;3;4;4;4;56
+Rajshahi;26;202605001;;Nomovodra;Ruhul Ar Bosotee;27;93;50;4;4;4;4;3;3;3;4;3;3;4;4;3;4;4;4;58
+Rajshahi;26;202605002;;Nomovodra;Faruk Ar Bosotee;17;59;40;4;4;4;4;3;3;3;3;3;3;3;4;3;4;4;4;56
+Rajshahi;26;202606001;;Meherchondi Uttorpara;Thandarpara Mili Apar Basha;25;120;20;1;1;4;1;1;3;4;4;3;2;2;4;3;4;4;4;45
+Rajshahi;26;202606002;;Meherchondi Uttorpara;Dairapak Baste;140;730;38;2;1;3;2;3;3;3;4;3;3;1;4;1;4;4;4;45
+Rajshahi;27;202701001;;RUET;Upor Vodra;12;48;25;2;1;3;1;4;1;4;2;4;2;3;2;1;1;1;3;35
+Rajshahi;27;202702001;;Upor Vodra;Agroni School Ar Dokkhin Pashe;9;36;40;2;2;3;4;4;4;4;3;4;2;3;4;4;2;1;4;50
+Rajshahi;27;202702002;;Upor Vodra;Masder;5;20;20;3;3;4;3;4;4;4;3;4;2;3;4;3;4;4;4;56
+Rajshahi;27;202702003;;Upor Vodra;Kalam Vodra MasjeedAr Pichone;8;30;1;3;3;3;3;3;3;3;4;3;3;3;3;3;2;1;3;46
+Rajshahi;27;202703001;;Balia Pukur;Balia Pukur Masjeed Ar Pashe Bakkor Bari;12;54;15;4;3;4;4;4;4;4;4;4;4;4;4;4;4;4;4;63
+Rajshahi;27;202703002;;Balia Pukur;Ajijul Bari;5;25;100;4;4;4;4;4;4;4;4;4;4;4;4;2;4;4;4;62
+Rajshahi;27;202703003;;Balia Pukur;Dostola Ar Pashe Muslim Ar Bari;7;25;12;3;4;4;4;4;4;4;3;4;4;4;4;2;4;4;4;60
+Rajshahi;27;202705001;;Shantibagh;Reshom Road Gate Khamar Bari;30;105;30;3;2;4;2;2;4;2;3;4;4;4;4;2;4;4;4;52
+Rajshahi;27;202706001;;Moth Pukur;Moth Pukur Mander Ar Pashe;7;28;60;4;3;4;3;4;2;4;4;4;2;4;4;3;4;4;4;57
+Rajshahi;27;202706002;;Moth Pukur;Moth Pukur Math Uttor Kone;5;21;40;4;1;4;3;4;3;4;4;3;4;3;3;2;1;1;3;47
+Rajshahi;27;202706003;;Moth Pukur;Shajahan Shekh Sadhu Ar Bosotee;14;56;50;1;2;4;3;4;4;4;4;4;2;3;4;3;4;4;4;54
+Rajshahi;27;202706004;;Moth Pukur;Harej Uddain Ar Bosotee;7;33;60;2;3;4;1;4;4;4;4;4;2;2;4;3;4;4;4;53
+Rajshahi;27;202708001;;Raninagar;Roadpara;6;28;30;2;2;3;3;1;4;4;3;4;2;3;4;4;4;4;4;51
+Rajshahi;27;202708002;;Raninagar;Rani Nagar-1;10;36;17;4;3;3;2;3;4;4;2;4;2;3;2;1;2;1;3;43
+Rajshahi;27;202708003;;Raninagar;Rani Nagar-2;7;33;25;4;2;4;4;3;4;4;4;3;2;3;1;1;1;2;2;44
+Rajshahi;27;202708004;;Raninagar;Rani Nagar-3;7;35;35;2;1;3;3;1;4;3;1;3;1;3;1;1;1;1;2;31
+Rajshahi;27;202708005;;Raninagar;Rani Nagar-4;5;24;15;4;3;4;3;4;3;3;1;3;2;2;2;1;2;1;3;41
+Rajshahi;27;202708006;;Raninagar;Monnafar Mor;7;25;30;2;1;4;2;1;2;1;3;3;2;3;4;2;4;4;4;42
+Rajshahi;27;202708007;;Raninagar;Sadhur Mor;10;45;25;4;4;4;4;3;4;4;3;4;3;3;4;1;3;1;3;52
+Rajshahi;27;202709001;;Debishing Para;Omor Lalu Puraton Eid Gha Ar  Pashe;7;28;100;3;3;3;3;4;3;3;4;3;3;3;4;3;3;1;3;49
+Rajshahi;28;202801001;;Kajla (West);Kajla Primary School Ar Mor;250;1115;30;2;2;3;2;2;2;2;2;2;2;2;4;2;4;4;4;41
+Rajshahi;28;202801002;;Kajla (West);Moddho Para;20;95;35;2;2;3;2;2;2;2;2;2;2;3;4;2;4;4;4;42
+Rajshahi;28;202801003;;Kajla (West);Actor Mor;150;650;35;2;2;2;2;3;2;2;2;2;3;2;4;2;4;4;4;42
+Rajshahi;28;202802001;;Kajla (East);Ghos Para;150;720;30;2;2;3;2;3;2;2;3;2;2;3;4;2;4;4;4;44
+Rajshahi;28;202802002;;Kajla (East);Mujib Doctor Ar Barir Mor;50;175;45;2;2;3;2;2;2;2;2;2;3;3;4;2;4;4;4;43
+Rajshahi;28;202802003;;Kajla (East);Bil Para;50;240;38;2;2;2;2;3;2;3;3;2;3;3;4;2;4;4;4;45
+Rajshahi;28;202802004;;Kajla (East);Kajlar Mor;40;185;30;2;2;3;2;3;2;2;2;2;2;3;4;2;4;4;4;43
+Rajshahi;28;202803001;;Char Kajla;Zahaj Ghat Badh;300;1350;70;1;2;3;1;2;1;2;1;1;1;2;2;2;2;2;2;27
+Rajshahi;28;202803002;;Char Kajla;Fultola Badh;250;1125;70;1;2;3;1;1;1;1;1;2;1;1;2;2;2;2;2;25
+Rajshahi;28;202803003;;Char Kajla;Zahaj Ghat Shahaji Para;150;600;60;2;3;3;1;3;3;2;2;3;3;3;3;2;3;3;3;42
+Rajshahi;28;202803004;;Char Kajla;Felu Bagan;100;450;65;1;3;3;1;2;2;2;3;2;2;3;3;2;3;3;3;38
+Rajshahi;28;202804001;;Dhorompur (West);Alomer Mor;250;1145;30;2;3;4;2;4;2;3;3;2;3;4;4;2;4;4;4;50
+Rajshahi;28;202804002;;Dhorompur (West);Felu Bagan-2;350;1580;40;3;2;3;2;3;2;3;2;3;2;2;4;2;4;4;4;45
+Rajshahi;28;202804003;;Dhorompur (West);Ice Factory Ar Pashe;200;910;30;2;3;4;2;1;2;3;3;2;3;3;4;2;4;4;4;46
+Rajshahi;28;202804004;;Dhorompur (West);Tati Para;250;1130;35;2;2;3;2;3;2;3;3;3;3;4;4;2;4;4;4;48
+Rajshahi;28;202804005;;Dhorompur (West);Satara Mart;300;1355;38;2;2;4;3;4;2;2;3;3;3;4;4;2;4;4;4;50
+Rajshahi;28;202805001;;Talaimari (East Part);Badul Tola;300;1360;75;3;3;3;3;3;2;2;2;3;2;1;2;2;2;2;2;37
+Rajshahi;28;202805002;;Talaimari (East Part);Pawor House Para;150;690;75;2;3;3;3;3;2;2;2;3;2;2;2;2;2;2;2;37
+Rajshahi;28;202805003;;Talaimari (East Part);Thana Para;70;330;80;3;3;3;3;3;2;2;2;3;2;2;2;2;2;2;2;38
+Rajshahi;28;202805004;;Talaimari (East Part);Nodir Dhor;70;340;30;1;2;2;1;1;1;1;1;3;1;2;4;2;4;4;4;34
+Rajshahi;28;202805005;;Talaimari (East Part);Fultola;100;460;105;3;3;4;3;3;2;2;2;3;2;2;4;2;4;4;4;47
+Rajshahi;28;202805006;;Talaimari (East Part);Baze Kazia Bou Bazar;150;685;100;3;3;4;3;3;2;2;2;3;2;2;4;2;4;4;4;47
+Rajshahi;28;202806001;;Dhorompur;Sura Khan Ar Mor;250;1130;40;2;1;3;2;3;3;3;3;1;1;1;4;1;4;4;4;40
+Rajshahi;28;202806002;;Dhorompur;Choi Muddain Er Mor;200;1000;70;3;3;4;3;3;2;2;3;2;1;2;2;2;2;2;2;38
+Rajshahi;28;202806003;;Dhorompur;Jahangir Ar Mor;150;675;60;3;3;3;2;3;3;3;2;1;2;1;4;2;4;4;4;44
+Rajshahi;28;202806004;;Dhorompur;Saira Khatun School Ar Mor;200;890;40;3;3;3;2;3;2;3;3;2;2;2;4;2;4;4;4;46
+Rajshahi;29;202901001;;Khojapur Dokkhin;Khojpur Nodir Dharer Bosotee;367;1468;58;2;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;49
+Rajshahi;29;202901002;;Khojapur Dokkhin;Chor Sathbari Poschim;260;1040;58;2;2;4;4;1;1;4;4;3;4;1;4;1;4;4;4;47
+Rajshahi;29;202901003;;Khojapur Dokkhin;Khojpur Nodir Dharer Bosotee-2;260;1040;58;2;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;49
+Rajshahi;29;202902001;;Khojapur Uttor;Kashem Ar Mor;120;480;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202902002;;Khojapur Uttor;Danish Mari Uttor Pashe;70;280;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202902003;;Khojapur Uttor;Dasmari;277;1030;58;2;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;49
+Rajshahi;29;202902004;;Khojapur Uttor;Khojapur Moddho Para;410;1640;58;2;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;49
+Rajshahi;29;202902005;;Khojapur Uttor;Khojapur Uttor Para;110;440;58;2;2;4;4;1;1;4;4;3;4;1;4;1;4;4;4;47
+Rajshahi;29;202903001;;Satbaria;Satbaria;180;720;58;2;1;4;4;4;1;4;4;3;4;1;4;1;4;4;4;49
+Rajshahi;29;202904001;;Dashmari;Kalidor Mor Purbo Pashe;110;440;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202904002;;Dashmari;Karidor Mor Poschim Pashe;70;280;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202904003;;Dashmari;Forazipara;75;300;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202904004;;Dashmari;Dashmari Uttor Para;190;760;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202904005;;Dashmari;Dashmari Purbo Para;280;1120;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;29;202905001;;Char Shatbari;Char Shatbari Purbo Pash;250;1250;58;2;2;4;4;4;1;4;4;3;4;1;4;1;4;4;4;50
+Rajshahi;30;203001001;;Poschim Bodhpara;Molla Masjeed Mor;20;90;15;1;2;2;1;2;2;1;1;2;2;1;4;2;4;4;4;35
+Rajshahi;30;203001002;;Poschim Bodhpara;Arman Ar Bosotee;90;405;40;2;1;2;2;1;1;2;1;2;1;1;4;2;4;4;4;34
+Rajshahi;30;203001003;;Poschim Bodhpara;Masder Bosotee;90;420;25;1;2;1;2;2;1;1;2;1;2;2;4;2;4;4;4;35
+Rajshahi;30;203002001;;Meherchondi Budhpara;Khalek Ar Bosotee;30;135;15;1;2;2;1;2;2;1;1;2;2;1;4;2;4;4;4;35
+Rajshahi;30;203003001;;New Budhpara;Gonir Dhalan Bosotee;50;225;30;1;2;1;1;1;1;1;2;2;1;2;4;4;4;4;4;35
+Rajshahi;30;203003002;;New Budhpara;Moukbul Ar Bosotee;70;310;35;2;2;3;1;2;1;1;2;1;1;2;4;2;4;4;4;36
+Rajshahi;30;203003003;;New Budhpara;Nazir Ar Bosotee;40;190;30;2;2;3;2;1;1;2;2;1;2;1;4;2;4;4;4;37
+Rajshahi;30;203003004;;New Budhpara;Akbor Ar Bosotee;30;150;20;1;2;2;1;2;3;1;1;2;3;2;1;2;4;4;4;35
+Rajshahi;30;203004001;;Moulvi Budhpara;Eidris Ar Bosotee;35;158;40;1;1;2;2;2;2;2;1;2;2;2;4;2;4;4;4;37
+Rajshahi;30;203004002;;Moulvi Budhpara;Nobi Ar Bosotee;40;160;40;1;2;2;1;2;2;2;1;2;2;2;4;2;4;4;4;37
+Rajshahi;30;203004003;;Moulvi Budhpara;Tuhiner Bosotee;75;338;40;1;2;2;1;2;2;2;1;2;2;2;4;2;4;4;4;37
+Rajshahi;30;203005001;;Boudhpara;Kalur Bostee;50;240;35;1;2;2;1;2;2;1;1;2;1;2;4;2;4;4;4;35
+Rajshahi;30;203006001;;Rajshahi University;Binodpur Bostee;13;60;25;2;1;2;3;2;1;4;2;2;2;1;1;1;1;2;1;28
+Rajshahi;30;203008001;;Fruit Research;Furit Research Er Poschim Pashe;10;48;20;2;2;4;4;2;3;2;2;1;1;1;4;2;4;4;4;42
+Rajshahi;30;203009001;;Agro Farm (Rice, Paddy);Agro Farm Dokkhin Pare;10;49;30;2;2;4;4;2;2;2;2;1;1;4;4;1;4;4;4;43
+Rajshahi;30;203010001;;Mirzapur Poschim;Miju Koshy- Zakariya Ar Bari;40;225;45;2;2;4;2;3;2;3;3;3;2;3;4;2;4;4;4;47
+Rajshahi;30;203010002;;Mirzapur Poschim;Manik Paper- Bow Bazare Ar Pashe;120;540;40;1;1;4;2;3;2;3;3;2;2;2;4;2;4;4;4;43
+Rajshahi;30;203010003;;Mirzapur Poschim;Madob- Bacchu Muchi Ar Bosote;125;575;45;2;2;4;3;3;2;3;3;2;2;2;4;2;4;4;4;46
+Rajshahi;30;203010004;;Mirzapur Poschim;Late. Kolimuddain Ar Bosote;30;135;40;2;2;4;3;4;3;3;3;3;2;2;4;2;4;4;4;49
+Rajshahi;30;203011001;;Mirzapur Purbo;Kasam Gosh Ar Bosotee;45;220;50;2;2;4;2;3;2;3;3;3;2;3;4;2;4;4;4;47
+Rajshahi;30;203011002;;Mirzapur Purbo;Aniser Mor- Mithon Kasi Ar Bosotee;60;270;45;2;2;4;2;3;3;3;3;3;2;3;4;2;4;4;4;48
+Rajshahi;30;203012001;;Binodpur;Habib Tea Stol Ar Pashe;20;90;45;2;2;4;3;4;3;4;4;3;3;3;4;2;4;4;4;53
+Rajshahi;30;203012002;;Binodpur;Islamiya Collage Ar Pashe;45;210;35;3;3;4;3;3;3;3;3;3;3;2;4;2;4;4;4;51
+Rajshahi;30;203012003;;Binodpur;Khorsher Ar Bosotee;70;320;30;4;3;4;3;4;3;4;3;4;3;3;4;2;4;4;4;56
+Rajshahi;30;203013001;;Mohonpur;Mohonpur Chok Para;40;175;40;2;2;4;4;2;2;3;2;1;1;4;4;1;4;4;4;44
+Rajshahi;30;203013002;;Mohonpur;Mohonpur Mon Aloka;45;195;40;2;2;4;4;2;2;2;2;1;1;4;4;1;4;4;4;43
+Rajshahi;30;203013003;;Mohonpur;Rajshahi University Horijon Polli;45;220;50;2;2;3;2;2;2;3;2;2;3;1;2;1;2;3;3;35
+Rajshahi;30;203014001;;Maskatadighi;Alo Asha School Ar Pashe;40;180;25;1;1;3;1;1;2;2;2;1;2;1;4;2;4;4;4;35
+Rajshahi;30;203014002;;Maskatadighi;Dhan Gobeshona Garer Purbo Pashe;30;135;15;1;1;2;1;1;2;1;2;1;2;3;4;2;4;4;4;35
+Rajshahi;30;203015001;;Choddopai;Choddopay South Para;60;280;30;2;2;4;4;2;3;2;2;1;1;1;4;1;4;4;4;41
+Rajshahi;30;203015002;;Choddopai;Dhan Gobeshona Garer Dokkhin Pashe;10;45;40;2;2;4;4;2;2;2;2;1;1;4;4;2;4;4;4;44

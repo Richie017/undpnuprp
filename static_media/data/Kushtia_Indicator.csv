@@ -1,0 +1,907 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Kushtia;1;300101001;10500101001;Banda Hati Titumir Road;Raipweak Ar Purbo Pasher Para;30;140;10;1;1;4;1;1;1;4;4;3;4;1;1;1;1;2;1;31
+Kushtia;1;300101002;10500101002;Banda Hati Titumir Road;Habub Barei Thake Aloter Bari;20;78;30;3;3;4;1;1;3;4;4;3;4;3;1;3;2;2;1;42
+Kushtia;1;300101007;10500101007;Banda Hati Titumir Road;Sohid Titumir Sarak;15;75;70;3;3;4;1;2;4;4;4;4;4;4;4;3;4;4;4;56
+Kushtia;1;300101005;10500101005;Banda Hati Titumir Road;Momenar Ma O Mumar Goli;20;110;25;1;3;1;1;1;2;1;4;3;4;1;1;1;1;1;1;27
+Kushtia;1;300101006;10500101006;Banda Hati Titumir Road;Shopon Miya (Nepal) ar goli;15;75;25;4;3;4;1;1;1;2;4;2;3;2;1;2;3;4;4;41
+Kushtia;1;300101009;10500101009;Banda Hati Titumir Road;Askar Ali Mondol Para;45;225;30;4;3;4;1;1;3;3;4;3;4;3;1;3;1;2;1;41
+Kushtia;1;300101004;10500101004;Banda Hati Titumir Road;Kuti Monir Goli;20;105;25;4;3;4;1;1;3;1;4;3;4;2;1;2;1;2;1;37
+Kushtia;1;300101008;10500101008;Banda Hati Titumir Road;Banda Haji Goli;16;65;70;4;3;4;4;3;4;4;4;3;4;4;4;4;4;4;4;61
+Kushtia;1;300101010;10500101010;Banda Hati Titumir Road;Horijon Colony;22;110;70;3;3;4;1;1;1;1;4;2;4;3;3;3;2;1;1;37
+Kushtia;1;300101003;10500101003;Banda Hati Titumir Road;Motin Ar Bari Thake Rubin Ar Bari;20;110;30;3;3;4;1;1;3;4;4;3;4;3;2;3;3;2;1;44
+Kushtia;1;300102002;10500102002;NS Road;Conselar Uddain Sarak;11;44;70;2;3;4;1;4;2;2;4;2;4;2;4;2;4;4;4;48
+Kushtia;1;300102001;10500102001;NS Road;Shot Nagar;60;270;50;2;3;4;1;3;2;2;4;3;4;3;4;2;4;4;4;49
+Kushtia;1;300103001;10500103001;Kamlapur;Chor Komolapur;16;68;18;1;1;3;1;1;2;3;3;4;4;3;1;2;3;2;3;37
+Kushtia;1;300103002;10500103002;Kamlapur;Komolapur (bridge ar pashe);67;298;100;2;1;4;1;2;2;3;4;2;4;3;4;3;4;4;4;47
+Kushtia;1;300103003;10500103003;Kamlapur;Komolapur (Pagol Para);8;36;79;2;3;4;1;3;3;2;4;3;4;4;4;3;4;4;4;52
+Kushtia;2;300201001;10500201001;Char Thana Para ,Puraton Badh;Bridge Sonlogno Pischim Pashe;200;900;15;3;3;4;1;1;2;1;4;3;3;2;2;2;2;3;1;37
+Kushtia;2;300201002;10500201002;Char Thana Para ,Puraton Badh;Bridge Sonlogno Pischim (Modho Khan);50;225;20;2;3;4;1;1;2;1;4;3;3;3;2;2;2;3;1;37
+Kushtia;2;300201003;10500201003;Char Thana Para ,Puraton Badh;Puraton Badh Sonlogno Poschim Ar (Modho Khan);30;135;10;2;1;3;1;1;2;1;4;3;3;3;2;2;2;3;1;34
+Kushtia;2;300201004;10500201004;Char Thana Para ,Puraton Badh;Puraton Badh Sonlogno Poschim Pash;100;400;20;4;3;4;4;1;2;4;4;3;3;3;3;2;1;3;1;45
+Kushtia;2;300201005;10500201005;Char Thana Para ,Puraton Badh;Mosjid Ar Pashe;90;405;20;3;3;4;1;1;3;1;4;2;4;4;4;3;2;3;1;43
+Kushtia;2;300201006;10500201006;Char Thana Para ,Puraton Badh;Sutir Mar Barir Pichon Sonlogno;110;495;20;3;3;4;1;1;2;3;4;3;3;4;3;2;4;3;1;44
+Kushtia;2;300201007;10500201007;Char Thana Para ,Puraton Badh;Bridge Ar Niche Uttor Pash;100;450;15;2;3;4;1;1;3;4;4;2;2;3;2;3;1;3;1;39
+Kushtia;2;300201008;10500201008;Char Thana Para ,Puraton Badh;Masjid Ar Shamne;100;450;30;4;3;4;2;1;3;4;4;3;4;4;3;3;1;3;1;47
+Kushtia;2;300201009;10500201009;Char Thana Para ,Puraton Badh;Switch Gate Sonblogno Poschim Pash;60;270;18;2;3;4;2;1;3;1;4;2;2;4;3;2;2;3;1;39
+Kushtia;2;300202003;10500202003;Abul Kasem ToShasi vuson Road;Switch Gate Sonlogno- Sonar Bari Projonto;48;206;28;2;1;3;1;1;2;1;3;2;4;2;1;3;1;3;1;31
+Kushtia;2;300202002;10500202002;Abul Kasem ToShasi vuson Road;Rojob Ar Dokan - Alom Ar Bari;40;175;28;3;1;4;2;1;4;4;4;3;4;1;2;2;2;4;4;45
+Kushtia;2;300202001;10500202001;Abul Kasem ToShasi vuson Road;Jhumkir Barir Shamne;55;275;25;2;1;4;1;1;3;1;4;2;4;1;2;2;1;2;1;32
+Kushtia;2;300202005;10500202005;Abul Kasem ToShasi vuson Road;Pollober Barir Shamne;40;200;35;3;3;4;1;4;2;4;4;4;4;4;2;3;2;2;2;48
+Kushtia;2;300202007;10500202007;Abul Kasem ToShasi vuson Road;Baborer Barir Goli;5;27;60;2;2;2;1;1;2;4;3;2;4;3;4;3;4;4;3;44
+Kushtia;2;300202006;10500202006;Abul Kasem ToShasi vuson Road;Polan Brok Road (Taltola);5;20;65;4;4;4;2;3;2;4;2;2;4;3;4;3;4;4;4;53
+Kushtia;2;300202004;10500202004;Abul Kasem ToShasi vuson Road;Monder Ar Pichon Ar Prothom Goli;19;94;37;2;3;4;2;4;4;4;4;4;4;4;3;3;3;3;1;52
+Kushtia;2;300203001;10500203001;Joyaddar To Khodadad khan Road;Sokhivuson Prathomik Lain sonlogno Dokhin Pashe;37;167;40;4;4;4;4;3;4;4;4;3;4;4;4;2;4;4;4;60
+Kushtia;2;300203002;10500203002;Joyaddar To Khodadad khan Road;Sotsong Mander Ar Pashe;23;104;45;4;4;4;4;3;4;4;4;4;4;4;4;2;4;4;4;61
+Kushtia;2;300203003;10500203003;Joyaddar To Khodadad khan Road;Sotsong Mander Ar Dokhin Purbanse;17;77;40;4;3;4;4;3;4;4;4;4;4;3;4;2;4;4;4;59
+Kushtia;2;300203006;10500203006;Joyaddar To Khodadad khan Road;M.A Poribohon Ar Pashe;8;37;35;4;3;4;4;3;4;4;4;4;4;4;4;2;4;4;4;60
+Kushtia;2;300203004;10500203004;Joyaddar To Khodadad khan Road;Porimol Tawar Ar Pichon A;8;37;40;1;1;3;3;3;4;1;4;4;4;4;4;3;4;4;4;51
+Kushtia;2;300203005;10500203005;Joyaddar To Khodadad khan Road;Alor Desh;9;41;38;2;1;4;3;3;4;1;4;4;4;4;4;2;4;4;4;52
+Kushtia;2;300204001;10500204001;Golam Rahman to shamsul Obayed, Angshik khodadad;Puja Monderer Shamne;5;22;25;2;3;4;4;3;3;4;4;4;4;4;4;3;4;4;3;57
+Kushtia;2;300204002;10500204002;Golam Rahman to shamsul Obayed, Angshik khodadad;Mannan Hat Ar Shamne;7;32;25;2;3;4;2;4;3;4;4;3;3;4;3;3;4;4;4;54
+Kushtia;2;300205002;10500205002;Chad Muhammad to khodadad khan more ,didir More;Sotabde Vobon Ar Pichon Sonlogno;6;24;45;2;1;4;4;4;4;1;4;4;4;4;4;2;4;4;4;54
+Kushtia;2;300205001;10500205001;Chad Muhammad to khodadad khan more ,didir More;Laibrarir Pichon A;8;38;55;4;3;4;4;4;4;4;4;3;4;4;4;2;4;4;4;60
+Kushtia;2;300206002;10500206002;Thana To singer more ,babur ali gate to thanar pichone;Horijon Bosote Gymnastic Club Sonlogno;10;40;35;4;4;4;2;1;3;1;4;4;4;4;3;2;4;3;1;48
+Kushtia;2;300206003;10500206003;Thana To singer more ,babur ali gate to thanar pichone;Rail Lain Sonlogno (Civil Sargen Ar Pichon A);17;70;55;1;4;4;2;4;4;4;4;3;4;4;4;2;4;4;4;56
+Kushtia;2;300206004;10500206004;Thana To singer more ,babur ali gate to thanar pichone;Das Para;27;121;60;3;1;4;1;1;3;1;4;4;4;4;4;2;4;4;4;48
+Kushtia;2;300206001;10500206001;Thana To singer more ,babur ali gate to thanar pichone;Ragister Offir Ar Pichon;18;78;45;1;1;4;1;1;2;1;4;4;3;4;2;2;4;3;1;38
+Kushtia;3;300301005;10500301005;Amlapara Slum;Comisonar Ar Basha;235;830;45;4;3;4;1;1;4;4;4;4;4;2;3;4;2;3;3;50
+Kushtia;3;300301004;10500301004;Amlapara Slum;Roton Ghora Alar Bari;175;793;25;2;3;4;1;1;3;2;4;4;4;2;2;2;3;2;2;41
+Kushtia;3;300301003;10500301003;Amlapara Slum;Parul Ar Basha;72;335;17;3;3;4;1;1;3;3;3;2;4;2;2;2;2;2;2;39
+Kushtia;3;300301002;10500301002;Amlapara Slum;Hat Kata Foyaj;50;236;15;1;1;4;1;1;1;2;3;2;4;2;2;2;2;2;2;32
+Kushtia;3;300301001;10500301001;Amlapara Slum;Chonchol Basha;12;56;13;2;1;4;1;1;2;1;3;2;4;2;2;2;2;2;2;33
+Kushtia;3;300301006;10500301006;Amlapara Slum;Momotaj Bangal;73;338;12;1;1;2;1;1;1;1;2;3;4;2;2;1;2;2;2;28
+Kushtia;3;300301007;10500301007;Amlapara Slum;Hasaner Bari;72;332;15;1;1;2;1;1;1;1;2;3;4;2;2;1;2;2;2;28
+Kushtia;3;300301008;10500301008;Amlapara Slum;Jibon Ar Bari;83;356;17;1;1;2;1;1;1;1;2;3;4;2;2;1;2;2;2;28
+Kushtia;3;300301009;10500301009;Amlapara Slum;Sonter Bari;30;137;15;1;1;1;1;1;1;1;2;3;4;2;2;1;2;2;2;27
+Kushtia;3;300301010;10500301010;Amlapara Slum;Jakirer Bari;24;113;17;2;3;4;1;1;3;2;4;4;4;2;2;2;3;2;2;41
+Kushtia;3;300301011;10500301011;Amlapara Slum;Mofajel (7 Up);12;57;17;2;3;4;1;1;3;2;4;4;4;2;2;2;3;2;2;41
+Kushtia;3;300302001;10500302001;Amlapara;Sorif Ar Bari;12;57;37;1;1;4;1;3;3;3;3;3;2;2;3;2;4;3;2;40
+Kushtia;3;300302002;10500302002;Amlapara;Rosifer Bari (Purbe);11;53;30;1;1;4;1;3;3;3;3;3;2;2;3;2;4;3;3;41
+Kushtia;3;300302003;10500302003;Amlapara;Roshidul Hasan (Muktijodha);5;25;30;1;1;4;1;3;3;3;3;3;2;3;3;2;4;3;2;41
+Kushtia;3;300302004;10500302004;Amlapara;Akter Ar Bari;7;36;30;1;1;4;1;3;3;3;3;3;2;3;3;2;4;3;2;41
+Kushtia;3;300302005;10500302005;Amlapara;Narur Bari Pichon Datobo;5;23;35;4;3;4;3;4;4;3;4;4;4;3;4;2;4;4;4;58
+Kushtia;3;300302006;10500302006;Amlapara;Muktijodha Bari (7 Rir Ciment Dokan);5;23;47;1;1;4;1;3;3;3;3;2;2;3;3;2;4;3;2;40
+Kushtia;3;300302007;10500302007;Amlapara;Tutul Mamar Barir Shamne;6;28;30;3;3;4;1;3;3;2;3;4;4;3;4;2;4;4;4;51
+Kushtia;3;300302008;10500302008;Amlapara;Umar Dokan;12;57;35;3;3;4;1;3;3;2;3;4;4;3;4;2;4;4;4;51
+Kushtia;3;300302009;10500302009;Amlapara;Vanga Bari;19;85;48;1;1;3;1;1;1;1;2;4;2;1;1;1;1;1;1;23
+Kushtia;3;300302010;10500302010;Amlapara;Borundhar Bari Mondhir Ar Shamne;7;30;30;1;1;4;1;3;3;3;3;3;2;3;3;2;4;3;2;41
+Kushtia;3;300302011;10500302011;Amlapara;Modoner Bari;8;43;30;1;1;4;1;3;3;3;3;3;2;2;3;2;4;3;2;40
+Kushtia;3;300302012;10500302012;Amlapara;Shagorer Bari;12;50;30;1;1;4;1;3;3;3;3;3;2;3;3;2;4;3;2;41
+Kushtia;3;300304001;10500304001;Kuthipara;Niyamot Ar Barir Sathe;8;37;25;1;2;3;1;1;2;2;3;3;4;2;2;2;3;3;2;36
+Kushtia;3;300305001;10500305001;Thanapara Slum;Modoner Bari;6;29;25;1;1;4;1;1;2;2;2;3;4;1;2;2;2;3;1;32
+Kushtia;3;300306001;10500306001;Thanapara;Montu Sir Ar Basha;33;141;30;4;4;4;2;3;3;3;3;4;4;3;4;2;4;4;4;55
+Kushtia;3;300306002;10500306002;Thanapara;Momotaj Ulum Madrasha (Shamne);7;35;33;1;1;4;1;1;4;2;4;4;2;2;1;2;4;4;4;41
+Kushtia;3;300306003;10500306003;Thanapara;Alauddain Ar Goli Te;6;28;42;4;4;2;3;3;4;3;3;4;4;4;4;2;4;3;4;55
+Kushtia;4;300401004;10500401004;Uttor Purbo 1 ( Court Para);Rohmoter Bari;9;37;30;1;1;4;1;1;2;4;4;3;4;3;3;3;1;1;3;39
+Kushtia;4;300401003;10500401003;Uttor Purbo 1 ( Court Para);Dorbar Goli;12;56;100;1;1;4;1;1;2;4;4;3;4;3;4;2;4;4;4;46
+Kushtia;4;300401002;10500401002;Uttor Purbo 1 ( Court Para);Ushotah Para Colony;10;47;40;1;1;4;1;1;1;4;4;3;4;3;1;2;1;1;3;35
+Kushtia;4;300401001;10500401001;Uttor Purbo 1 ( Court Para);Muslim High School Ar Pichone;10;42;99;1;1;4;1;1;3;4;4;3;4;3;4;3;4;4;4;48
+Kushtia;4;300402001;10500402001;Uttor Purbo 2 ( Court Para);Milon Ar Bari;7;32;70;1;1;4;1;4;2;4;4;3;4;3;4;2;4;4;4;49
+Kushtia;4;300403004;10500403004;Dokkin poschim 3 ( court Para);Roton;8;34;33;2;1;4;1;4;2;4;4;3;3;2;1;2;1;1;1;36
+Kushtia;4;300403001;10500403001;Dokkin poschim 3 ( court Para);Mokumiya;20;86;30;1;1;4;1;4;3;4;4;3;2;2;1;3;1;1;1;36
+Kushtia;4;300403002;10500403002;Dokkin poschim 3 ( court Para);Suborto;5;21;20;2;1;4;1;4;2;4;4;3;2;3;1;2;1;1;1;36
+Kushtia;4;300403003;10500403003;Dokkin poschim 3 ( court Para);Rowshon;6;26;31;1;1;4;1;4;2;4;4;3;2;2;1;2;1;1;1;34
+Kushtia;4;300404006;10500404006;Uttor poschim 3 ( court Para);Ajom Villa;10;44;90;2;1;4;3;4;3;3;4;4;4;3;4;3;4;4;4;54
+Kushtia;4;300404005;10500404005;Uttor poschim 3 ( court Para);Bacchu Bari;9;38;80;3;1;4;1;1;3;3;4;3;4;3;4;3;4;4;4;49
+Kushtia;4;300404007;10500404007;Uttor poschim 3 ( court Para);T.N.T;50;220;100;2;1;4;4;4;1;4;4;4;4;4;4;3;4;3;1;51
+Kushtia;4;300404004;10500404004;Uttor poschim 3 ( court Para);Nur Ali Shak Ar Bari;10;42;80;3;1;4;1;1;3;3;4;3;4;3;4;3;4;4;4;49
+Kushtia;4;300404003;10500404003;Uttor poschim 3 ( court Para);Kohinur Ar Bari;25;110;80;3;1;4;1;3;2;3;4;3;4;3;4;3;4;4;3;49
+Kushtia;4;300404002;10500404002;Uttor poschim 3 ( court Para);Kalur Bari;40;170;80;1;1;4;1;3;3;3;4;3;4;3;4;3;4;4;4;49
+Kushtia;4;300404001;10500404001;Uttor poschim 3 ( court Para);Suk Nagar;300;1332;25;1;1;4;1;3;1;1;4;2;4;2;1;2;1;2;1;31
+Kushtia;5;300501001;10500501001;Chourahas Fultola;Kollanpara Pobitom;98;490;25;1;1;3;1;1;2;1;2;3;4;1;1;1;3;2;1;28
+Kushtia;5;300501002;10500501002;Chourahas Fultola;Nur Mohammad O Satgar Lain;12;60;40;2;1;4;4;3;3;3;4;4;4;3;4;3;4;4;4;54
+Kushtia;5;300502004;10500502004;Adorshopara-1;Kollanpara Purbo;120;680;25;1;1;3;1;1;2;1;2;3;4;1;1;1;3;2;1;28
+Kushtia;5;300502003;10500502003;Adorshopara-1;Rup Nagar;40;200;25;1;1;4;1;1;3;1;3;4;4;2;4;2;4;4;4;43
+Kushtia;5;300502001;10500502001;Adorshopara-1;Najir Por;40;100;35;1;1;4;1;1;2;1;3;3;4;2;4;2;4;4;4;41
+Kushtia;5;300502002;10500502002;Adorshopara-1;Bekolop Goli;165;825;40;2;1;4;1;2;3;1;3;4;4;2;4;2;4;4;4;45
+Kushtia;5;300503001;10500503001;Adorshopara-2;Asroyon Prokolpo;80;400;40;2;1;3;1;1;1;1;3;3;4;2;4;1;4;4;3;38
+Kushtia;5;300503002;10500503002;Adorshopara-2;Delowar Goli (Uttor) Mahabuler Bari Thake Maleker Bari;12;60;30;2;1;4;1;1;3;1;3;3;4;2;3;1;4;3;3;39
+Kushtia;5;300503006;10500503006;Adorshopara-2;Asroyon Prokolpo (Modho);30;150;40;2;3;4;1;1;1;1;3;3;4;1;4;1;4;4;3;40
+Kushtia;5;300503005;10500503005;Adorshopara-2;Asroyon Prokolpo (Poschim);105;525;40;2;3;4;1;1;1;1;3;3;4;1;4;1;4;4;3;40
+Kushtia;5;300503003;10500503003;Adorshopara-2;Delowar Ar Goli (Dokhin);20;100;40;2;1;4;1;1;3;2;4;3;4;3;3;2;4;3;4;44
+Kushtia;5;300503007;10500503007;Adorshopara-2;Kajlir Khalar Goli;25;125;40;2;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;43
+Kushtia;5;300503008;10500503008;Adorshopara-2;Ajij Khaner Goli;20;100;30;2;1;4;1;1;3;2;3;4;4;3;4;2;4;4;4;46
+Kushtia;5;300503004;10500503004;Adorshopara-2;Comasheyal Bostee;28;140;18;1;1;3;1;1;1;1;3;3;4;1;1;1;3;2;1;28
+Kushtia;5;300504001;10500504001;Stediumpara;Sattam Driver;10;44;42;2;1;4;4;2;2;3;4;4;4;2;4;2;4;4;4;50
+Kushtia;5;300504002;10500504002;Stediumpara;Luvsor;8;38;35;2;1;4;4;1;2;2;4;3;4;2;4;3;4;4;4;48
+Kushtia;5;300504003;10500504003;Stediumpara;Modan Jalal;12;52;42;1;1;4;2;1;2;3;4;4;4;3;4;3;4;4;4;48
+Kushtia;5;300504004;10500504004;Stediumpara;Jumarot;14;60;45;2;1;4;2;1;2;2;4;4;4;2;4;3;4;4;4;47
+Kushtia;5;300505002;10500505002;Peyara Tola-1;Janur Ma Goli;35;138;20;2;1;4;2;1;2;3;4;4;4;1;4;1;4;4;4;45
+Kushtia;5;300505001;10500505001;Peyara Tola-1;Medho Poribar;15;72;20;2;1;4;1;1;2;2;4;4;4;1;4;1;4;4;4;43
+Kushtia;5;300506004;10500506004;Peyara Tola-2;Keramot Mostan;12;62;45;2;1;4;2;3;2;3;4;4;4;1;4;2;4;4;4;48
+Kushtia;5;300506003;10500506003;Peyara Tola-2;Lalur Dokan;6;28;40;2;1;4;2;1;2;4;4;4;4;1;4;1;4;4;4;46
+Kushtia;5;300506001;10500506001;Peyara Tola-2;Bot Bazar Bostee;20;97;35;2;1;3;2;1;2;2;3;4;4;1;4;2;4;4;4;43
+Kushtia;5;300506002;10500506002;Peyara Tola-2;Nader Chairman Goli;30;145;40;2;1;4;2;2;2;3;4;4;4;1;4;1;4;4;4;46
+Kushtia;5;300507004;10500507004;Tali Para;Bunopara-2;20;102;40;2;1;3;2;2;2;2;3;4;4;1;4;2;4;4;4;44
+Kushtia;5;300507003;10500507003;Tali Para;Mabil Vaiyar Goli;15;72;35;2;1;3;2;2;2;2;3;4;4;1;4;2;4;4;4;44
+Kushtia;5;300507002;10500507002;Tali Para;Anser Ar Bostee;10;43;35;1;1;3;1;1;2;1;3;4;4;2;4;2;4;4;4;41
+Kushtia;5;300507001;10500507001;Tali Para;Bunopara-1;20;98;47;2;1;3;2;1;1;2;1;2;3;2;4;1;4;4;4;37
+Kushtia;6;300601013;10500601013;Block-A;Wab Ar Bari;75;337;55;2;1;4;4;1;2;2;4;3;2;3;3;3;3;3;3;43
+Kushtia;6;300601001;10500601001;Block-A;Asroyon Prokolpo Sumon Bari;85;384;45;2;1;4;1;1;1;1;4;2;3;2;2;2;2;2;3;33
+Kushtia;6;300601002;10500601002;Block-A;Mojina Bari Asroyon Prokolpo;50;272;45;2;1;4;1;1;2;1;4;2;3;2;2;2;2;2;3;34
+Kushtia;6;300601003;10500601003;Block-A;Rohima Bari Asroyon Prokolpo;10;27;45;4;1;4;1;1;2;4;4;2;3;2;2;2;2;2;3;39
+Kushtia;6;300601005;10500601005;Block-A;Anoyar Rowya Bari;25;115;56;3;3;4;3;1;2;4;4;2;2;3;3;2;3;3;3;45
+Kushtia;6;300601007;10500601007;Block-A;Fatema Hanif Bari;22;105;55;1;1;4;4;1;3;3;4;3;3;4;3;3;4;3;3;47
+Kushtia;6;300601009;10500601009;Block-A;Ajim Uddain (Sahin);21;91;55;3;1;4;4;1;1;3;4;3;2;4;1;2;1;2;3;39
+Kushtia;6;300601004;10500601004;Block-A;Sufiya Bari, Jiya nagar Bari;35;175;40;2;1;4;4;1;1;1;4;2;1;3;1;1;1;2;1;30
+Kushtia;6;300601006;10500601006;Block-A;Mahabub Bari;20;80;55;2;3;4;4;2;3;4;4;3;2;3;3;3;3;3;3;49
+Kushtia;6;300601008;10500601008;Block-A;Hannan Bari;72;324;55;4;3;4;4;1;2;3;4;2;2;3;3;3;3;3;3;47
+Kushtia;6;300601010;10500601010;Block-A;Soheler Bari;52;235;55;3;3;4;4;2;2;2;4;3;2;3;3;3;3;3;3;47
+Kushtia;6;300601011;10500601011;Block-A;Rashider Bari;55;249;55;2;1;4;4;1;1;2;4;2;2;3;3;3;3;3;3;41
+Kushtia;6;300601012;10500601012;Block-A;Nasimar Bari;75;338;55;3;1;4;3;2;2;3;4;2;2;4;3;3;3;3;3;45
+Kushtia;6;300601015;10500601015;Block-A;Lipi;22;102;55;3;3;4;3;1;3;3;4;3;2;4;3;3;3;3;3;48
+Kushtia;6;300601014;10500601014;Block-A;Nupur Ar Bari;60;270;55;3;3;4;4;1;1;3;4;2;2;3;3;3;3;3;3;45
+Kushtia;6;300602011;10500602011;Block-B;Kodom Tolar Masjeed Ar Shamne;32;140;60;3;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;43
+Kushtia;6;300602012;10500602012;Block-B;Helal Ar Lain;28;128;60;3;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;43
+Kushtia;6;300602008;10500602008;Block-B;Akter Comitonar Ar Lain;16;73;60;2;3;4;2;1;2;2;4;3;4;3;3;2;3;3;3;44
+Kushtia;6;300602007;10500602007;Block-B;Sishir Bekari Lain;19;98;60;3;3;4;2;1;2;4;4;3;4;2;3;2;3;2;3;45
+Kushtia;6;300602013;10500602013;Block-B;Anowar Ukil Ar Lain;20;105;60;2;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;42
+Kushtia;6;300602006;10500602006;Block-B;Gas Mintur AR Lain;18;96;60;2;3;4;2;1;2;3;4;2;4;3;4;3;3;2;3;45
+Kushtia;6;300602005;10500602005;Block-B;Babul Comisonar Ar Bari;18;88;60;3;3;4;2;1;2;3;4;3;4;3;4;2;4;4;4;50
+Kushtia;6;300602004;10500602004;Block-B;Panir Tank Ar Shamne (Adom Ali Bari);22;112;55;3;3;4;2;1;2;2;4;3;4;2;2;2;3;2;3;42
+Kushtia;6;300602003;10500602003;Block-B;Panir Tank (Shamim Ar Bari);20;91;55;2;3;4;1;1;2;1;4;3;4;2;2;2;2;2;3;38
+Kushtia;6;300602002;10500602002;Block-B;Vitor Bari (Bazar Road);10;45;55;2;2;4;1;1;2;2;4;3;4;3;3;2;3;2;3;41
+Kushtia;6;300602001;10500602001;Block-B;Golpukur Bstee;267;1280;40;1;1;3;1;1;1;1;3;3;4;2;1;1;2;2;1;28
+Kushtia;6;300602016;10500602016;Block-B;Panir Tank Ar Uttor Pash;10;47;60;2;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;42
+Kushtia;6;300602015;10500602015;Block-B;Monirar Barir Lain;22;102;60;3;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;43
+Kushtia;6;300602014;10500602014;Block-B;Lalmiyar Lain;30;126;60;3;3;4;2;1;2;2;4;3;4;2;3;2;3;2;3;43
+Kushtia;6;300602009;10500602009;Block-B;Chitro Ar Lain;15;68;60;2;3;4;2;1;2;2;4;3;4;3;3;2;3;3;3;44
+Kushtia;6;300602010;10500602010;Block-B;Kodom Tolar Mor;8;36;60;1;3;4;2;1;1;4;4;3;4;2;3;2;3;2;3;42
+Kushtia;6;300603001;10500603001;Block- C & D;Taltola Bostee;29;125;35;2;1;4;1;1;2;2;4;3;2;2;1;1;2;3;1;32
+Kushtia;6;300603004;10500603004;Block- C & D;Taltola Bosteer Purbo Pash, Alir Barir Pashe;15;70;45;3;1;4;1;1;2;4;4;3;2;3;2;3;3;2;2;40
+Kushtia;6;300603015;10500603015;Block- C & D;Housing C Bock Dokhin Bostee-1;205;905;35;1;1;4;1;1;2;3;4;3;1;3;1;1;2;2;1;31
+Kushtia;6;300603014;10500603014;Block- C & D;Housing C Bock Dokhin Bostee-2;165;755;35;1;1;4;1;1;3;3;4;3;1;3;1;1;2;2;1;32
+Kushtia;6;300603007;10500603007;Block- C & D;Housing C Bock Pukur Par (Uttor);16;75;35;3;1;4;1;2;2;4;4;3;1;3;2;2;3;2;2;39
+Kushtia;6;300603008;10500603008;Block- C & D;Housing C Bock Pukur Par (Purbo);21;105;30;3;1;4;1;1;1;4;4;3;1;3;1;1;3;3;1;35
+Kushtia;6;300603009;10500603009;Block- C & D;Housing C Bock Mukul Barir Shamne;9;36;40;2;1;4;2;2;3;3;2;2;2;3;3;2;3;2;2;38
+Kushtia;6;300603006;10500603006;Block- C & D;Housing C Bock Pukur Par (Uttor-Purbo Dek) Sahin Sir Ar Barir Asepase;14;65;40;3;1;4;1;2;2;4;4;3;1;3;2;2;3;2;2;39
+Kushtia;6;300603005;10500603005;Block- C & D;Housing C Bock Pukur Par (Uttor-Para BADC Office Ar Shamne;9;42;45;3;1;4;2;3;3;3;4;3;1;3;2;3;3;2;2;42
+Kushtia;6;300603003;10500603003;Block- C & D;Housing C Bock Tinshed, Nisan Ar Lain;9;40;40;3;1;4;1;2;3;3;4;2;2;2;3;2;3;2;2;39
+Kushtia;6;300603002;10500603002;Block- C & D;Housing C Bock Tinshed, Ujir Pashe;10;45;40;3;1;4;2;2;3;2;4;3;2;3;2;3;3;2;2;41
+Kushtia;6;300603013;10500603013;Block- C & D;Housing C Bock Girls Collage Ar Purbo Dekh;12;55;40;2;2;4;2;2;3;4;4;3;4;3;3;2;3;2;2;45
+Kushtia;6;300603011;10500603011;Block- C & D;Housing C Bock Pukurer Dokhin Ajaj Sir Ar Barir Pashe;16;78;45;2;1;4;2;2;3;3;4;3;1;3;2;3;3;2;2;40
+Kushtia;6;300603010;10500603010;Block- C & D;Housing C Bock Pirer Barir Shamne;11;52;45;2;1;4;1;2;3;4;4;2;1;3;2;2;3;2;2;38
+Kushtia;6;300603012;10500603012;Block- C & D;Housing C Bock Babu Vaiyar Barir Pasher Lain;11;50;40;2;2;4;2;2;3;3;4;3;2;3;2;2;3;2;2;41
+Kushtia;7;300701006;10500701006;Poscchim Para;Jel Khanar Pichon;9;32;62;2;2;4;1;1;2;1;4;3;4;2;4;2;4;4;4;44
+Kushtia;7;300701005;10500701005;Poscchim Para;Jel Khanar Pashe;7;26;60;2;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;7;300701007;10500701007;Poscchim Para;Mistry Para;25;112;72;1;1;4;1;1;2;1;4;4;4;2;4;2;4;4;4;43
+Kushtia;7;300701004;10500701004;Poscchim Para;Mlla Para Masjeed Ar Pashe;56;195;60;2;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;7;300701003;10500701003;Poscchim Para;Molla Para;37;163;55;3;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;7;300701001;10500701001;Poscchim Para;Sordar Para;40;180;100;2;4;4;1;3;2;1;4;3;4;2;4;2;4;4;4;48
+Kushtia;7;300701002;10500701002;Poscchim Para;Holi Chaild School Ar Pashe;40;105;40;3;1;4;1;1;1;1;4;3;4;2;4;1;4;4;4;42
+Kushtia;7;300702001;10500702001;Dokkhin para;Nuru Koler Pashe;5;20;50;2;2;4;1;1;2;1;4;3;4;2;4;2;4;4;4;44
+Kushtia;7;300702002;10500702002;Dokkhin para;Nuru Koler Pichone;15;50;70;2;2;4;1;1;2;3;4;3;4;2;4;2;4;4;4;46
+Kushtia;7;300702003;10500702003;Dokkhin para;Molla Para Masjeed Ar Shamne;18;72;63;2;1;4;1;1;2;2;4;3;4;4;4;2;4;4;4;46
+Kushtia;7;300702004;10500702004;Dokkhin para;Koshay Para Mor;8;28;52;2;2;4;1;1;2;2;4;3;4;2;4;2;4;4;4;45
+Kushtia;7;300702007;10500702007;Dokkhin para;Haji Sobiutullah AR Pashe;7;30;80;1;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;7;300702006;10500702006;Dokkhin para;Soddar Para;20;75;70;1;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;7;300702005;10500702005;Dokkhin para;Neddar Para;25;90;80;3;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;7;300702008;10500702008;Dokkhin para;Dokhin Para;5;20;60;3;3;4;1;1;1;2;4;3;4;2;4;2;4;4;4;46
+Kushtia;7;300702011;10500702011;Dokkhin para;17No. School Ar Pashe;18;85;60;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;7;300702009;10500702009;Dokkhin para;Panir Pamp Ar Pashe;32;112;90;2;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;7;300702010;10500702010;Dokkhin para;BAC Ar Pashe;10;38;55;1;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;7;300703008;10500703008;Purbo Para;Bojlar Mather Shamne;5;16;42;3;2;4;1;1;3;3;4;2;4;2;4;2;4;4;4;47
+Kushtia;7;300703009;10500703009;Purbo Para;Mosalem Arader Barir Shamne;10;38;60;3;3;4;1;2;3;2;4;3;4;3;4;2;4;4;4;50
+Kushtia;7;300703006;10500703006;Purbo Para;Sobuj Kanon School Ar Shamne;6;22;40;3;1;4;1;1;1;2;3;2;4;2;4;2;4;4;4;42
+Kushtia;7;300703005;10500703005;Purbo Para;Jorj Bari Shamne;7;26;50;2;1;4;1;1;2;2;4;3;4;3;3;2;4;4;4;44
+Kushtia;7;300703004;10500703004;Purbo Para;Jorj Bari Purbo Pash;10;40;70;2;2;4;1;1;2;1;4;3;4;2;4;2;4;4;4;44
+Kushtia;7;300703003;10500703003;Purbo Para;Alek Member Ar Bashar Shamne;10;40;60;2;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;7;300703001;10500703001;Purbo Para;Malitha Para-1;15;55;60;2;2;4;1;1;2;1;4;3;4;1;4;2;4;4;4;43
+Kushtia;7;300703002;10500703002;Purbo Para;Malitha Para-2;10;38;70;1;1;4;1;1;2;1;4;3;4;1;4;2;4;4;4;41
+Kushtia;7;300703007;10500703007;Purbo Para;Nisan Goli;10;39;60;2;2;4;1;1;3;1;4;2;4;2;4;2;2;4;4;42
+Kushtia;7;300704017;10500704017;Moddho Para;Jamtola Mor;6;22;42;2;2;2;1;1;2;2;4;2;4;2;4;2;4;4;4;42
+Kushtia;7;300704013;10500704013;Moddho Para;Hindu Para-2;18;68;60;1;1;4;1;2;1;2;4;3;4;1;4;2;4;4;4;42
+Kushtia;7;300704015;10500704015;Moddho Para;Ulkar Pashe;9;37;66;3;2;4;3;2;2;3;4;3;4;2;4;2;4;4;4;50
+Kushtia;7;300704012;10500704012;Moddho Para;Hindu Para;40;120;20;3;1;4;1;1;4;4;4;4;4;2;4;2;4;4;4;50
+Kushtia;7;300704014;10500704014;Moddho Para;Hindu Para-3;6;23;50;2;1;4;1;1;2;2;4;3;4;2;4;2;4;4;4;44
+Kushtia;7;300704016;10500704016;Moddho Para;Mridha Manjel Ar Shamne;7;25;67;3;2;4;1;2;2;2;4;3;4;4;4;2;4;4;4;49
+Kushtia;7;300704019;10500704019;Moddho Para;Mohela Dokaner Pashe;10;40;82;3;2;4;1;2;2;2;4;3;4;3;4;2;4;4;4;48
+Kushtia;7;300704003;10500704003;Moddho Para;Khan Ar Barir Pichon A;24;68;76;2;1;4;2;2;2;2;4;3;4;3;4;2;4;4;4;47
+Kushtia;7;300704007;10500704007;Moddho Para;Mojaher Molla Sarak;15;52;60;3;1;4;1;1;2;2;4;2;4;2;4;2;4;4;4;44
+Kushtia;7;300704008;10500704008;Moddho Para;Mojahar Molla Sarak;7;28;90;3;3;4;3;2;3;3;4;3;4;3;4;2;4;4;4;53
+Kushtia;7;300704009;10500704009;Moddho Para;Moslem Aroder Bashar Pichone;26;97;70;2;2;4;1;1;1;3;4;3;4;2;4;2;4;4;4;45
+Kushtia;7;300704010;10500704010;Moddho Para;Pura Amaner Dokaner Pichone;18;70;80;2;2;4;3;2;2;1;4;3;4;2;4;2;4;4;4;47
+Kushtia;7;300704011;10500704011;Moddho Para;Hindu Para, KaliSotkorpur;7;27;60;3;2;4;1;2;2;1;4;3;4;2;4;2;4;4;4;46
+Kushtia;7;300704001;10500704001;Moddho Para;Army Camp Ar Pichone;12;46;80;3;1;4;1;2;2;2;4;2;4;2;4;2;4;4;4;45
+Kushtia;7;300704002;10500704002;Moddho Para;Dim Babur Bartiri Pashe;16;60;70;3;1;4;1;1;2;3;4;2;4;3;4;2;4;4;4;46
+Kushtia;7;300704006;10500704006;Moddho Para;Salamot Barir Sahmne;5;18;80;3;2;4;1;1;2;2;4;3;4;2;4;2;4;4;4;46
+Kushtia;7;300704004;10500704004;Moddho Para;Samad Comisonar Ar Bashar Pichon A;7;25;65;2;2;4;1;1;2;2;4;3;4;2;4;2;4;4;4;45
+Kushtia;7;300704005;10500704005;Moddho Para;Samad Comisonar Ar Barir ochim Pashe;6;23;67;2;2;4;2;1;1;1;4;3;4;1;4;2;4;4;4;43
+Kushtia;7;300704018;10500704018;Moddho Para;Jamal Sanbadik Bashar Shamne;6;24;38;2;1;4;1;1;2;3;4;2;4;3;4;2;4;4;4;45
+Kushtia;7;300705003;10500705003;Uttor Para;Baytul Salam Jame Masjeed;7;28;72;2;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;44
+Kushtia;7;300705005;10500705005;Uttor Para;Baytul Salam Jame Masjeed Ar Pichon Sde;17;70;90;3;3;4;2;2;2;3;4;3;4;3;4;2;4;4;4;51
+Kushtia;7;300705004;10500705004;Uttor Para;Jameler Bari;13;60;80;2;2;4;2;2;3;3;4;3;4;3;4;2;4;4;4;50
+Kushtia;7;300705006;10500705006;Uttor Para;UBC Garden Ar Shamne;7;27;80;3;3;4;2;3;3;3;4;3;4;3;4;2;4;4;4;53
+Kushtia;7;300705002;10500705002;Uttor Para;Khaner Dokaner Pichone;7;26;70;3;3;4;2;2;3;1;4;3;4;2;4;2;4;4;4;49
+Kushtia;7;300705001;10500705001;Uttor Para;Alek Club Ar Pashe;7;26;60;3;2;4;2;2;3;3;4;4;4;3;4;2;4;4;4;52
+Kushtia;21;302101001;10502101001;Lahini Purbo Para;Asadurzaman (dulal)bari sonlogno;43;195;100;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;21;302101002;10502101002;Lahini Purbo Para;roton kumur kormokar songlono;14;65;100;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;21;302101003;10502101003;Lahini Purbo Para;counciler road ar songlono;35;160;100;1;1;4;1;1;1;1;4;3;4;2;4;1;4;4;4;40
+Kushtia;21;302101004;10502101004;Lahini Purbo Para;jhumur ar bari songlono;17;80;100;1;1;4;1;1;1;1;4;2;4;3;4;2;4;4;4;41
+Kushtia;21;302101005;10502101005;Lahini Purbo Para;robiul/arshed ar bari songlono;35;160;100;1;1;4;1;1;1;1;4;2;4;2;4;1;4;4;4;39
+Kushtia;21;302101006;10502101006;Lahini Purbo Para;rajon ar bari songlono;34;155;100;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;21;302101007;10502101007;Lahini Purbo Para;sajad ar dokan;40;180;100;1;1;4;1;1;1;3;4;3;4;3;4;1;4;4;4;43
+Kushtia;21;302101008;10502101008;Lahini Purbo Para;jolil mondol ar bari songlono;20;90;100;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;21;302101009;10502101009;Lahini Purbo Para;modhopara aksan barir songlono;20;90;100;1;1;4;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;21;302101010;10502101010;Lahini Purbo Para;modhopara montaz ar bari songlono;38;170;100;1;1;1;1;1;1;1;4;3;4;3;4;1;4;4;4;38
+Kushtia;21;302101011;10502101011;Lahini Purbo Para;karigor para;25;115;100;1;1;4;1;1;2;1;4;4;4;3;4;1;4;4;4;43
+Kushtia;21;302101012;10502101012;Lahini Purbo Para;miakha road thaka nur bari pojonto;60;270;100;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Kushtia;21;302101013;10502101013;Lahini Purbo Para;montu member ar bari songlono;25;115;100;1;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;21;302101014;10502101014;Lahini Purbo Para;saidul bapari bari songlono;30;135;100;1;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;43
+Kushtia;21;302102008;10502102008;Lahini School Para;Md.Manan (barai asapasa);14;68;100;1;1;1;1;2;2;1;4;4;4;4;4;3;4;4;4;44
+Kushtia;21;302102007;10502102007;Lahini School Para;md.Didar sheikh barir asapasa;24;108;100;1;1;1;1;1;2;1;4;4;4;4;4;3;4;4;4;43
+Kushtia;21;302102001;10502102001;Lahini School Para;saidul kontakdar bari aspas;30;135;100;1;1;4;1;2;2;1;4;4;4;4;4;3;4;4;4;47
+Kushtia;21;302102002;10502102002;Lahini School Para;late.golzar member ar barir asapasa;35;160;100;1;1;4;1;2;2;1;4;4;4;4;4;2;4;4;4;46
+Kushtia;21;302102003;10502102003;Lahini School Para;md.jalal uddin (TNT)barir asapasa;17;77;100;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302102004;10502102004;Lahini School Para;sakandoctor barir asapasa;20;90;100;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302102006;10502102006;Lahini School Para;md.sayed barir asapasa;17;81;100;1;1;4;1;1;1;1;4;4;4;4;4;3;4;4;4;45
+Kushtia;21;302102005;10502102005;Lahini School Para;md.Hanif sheikh barir asapasa;21;97;100;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302102012;10502102012;Lahini School Para;Aziz sha barir asapasa;20;96;100;1;1;4;1;1;1;1;4;4;4;4;4;3;4;4;4;45
+Kushtia;21;302102013;10502102013;Lahini School Para;Md.Khokhar (boitol)barir asapasa;40;180;100;1;1;4;1;1;1;1;4;4;4;4;4;3;4;4;4;45
+Kushtia;21;302102014;10502102014;Lahini School Para;Mir Jahurul islam barir asapasa;20;90;100;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Kushtia;21;302102015;10502102015;Lahini School Para;Md.Masid mia barir asapasa;21;95;100;1;1;4;1;1;1;1;4;4;4;4;4;3;4;4;4;45
+Kushtia;21;302102016;10502102016;Lahini School Para;Md.Razaul kal barir asapasa;25;117;100;1;1;4;1;1;3;1;4;4;4;4;4;3;4;4;4;47
+Kushtia;21;302102010;10502102010;Lahini School Para;Late.Mir aiyub molbir barir asapasa;25;113;100;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Kushtia;21;302102009;10502102009;Lahini School Para;late.Shajahan ali barir asapasa;35;158;100;1;1;4;1;1;2;1;4;4;4;4;4;3;4;4;4;46
+Kushtia;21;302102017;10502102017;Lahini School Para;Md.Hamid (mondir)barir asapasa;15;70;100;1;1;4;1;1;3;1;4;4;4;4;4;3;4;4;4;47
+Kushtia;21;302103001;10502103001;Lahini Pochim Para;Lahini pochim para;10;45;100;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;21;302103002;10502103002;Lahini Pochim Para;Dhali para;25;113;100;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Kushtia;21;302103003;10502103003;Lahini Pochim Para;Ajnu mondol barir asapasa;20;90;100;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Kushtia;21;302103008;10502103008;Lahini Pochim Para;Rantu dhalir barir asapasa;40;180;100;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Kushtia;21;302103009;10502103009;Lahini Pochim Para;Dobir uddin barir asapasa;100;450;100;2;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;21;302103010;10502103010;Lahini Pochim Para;Mokul joyardar;40;180;120;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302103014;10502103014;Lahini Pochim Para;Saydul islam (dhokin kanal asapasa);80;360;30;1;1;3;1;1;1;1;4;4;4;4;1;1;1;1;1;30
+Kushtia;21;302103004;10502103004;Lahini Pochim Para;Gorosthan para;20;90;100;1;1;4;1;1;1;1;4;4;4;3;1;1;1;1;1;30
+Kushtia;21;302103005;10502103005;Lahini Pochim Para;Md.Ali hossain barir asapsa;80;360;35;1;1;4;1;1;1;1;4;4;4;3;4;2;3;4;4;42
+Kushtia;21;302103006;10502103006;Lahini Pochim Para;Nogor mohammadpur uttor para;123;554;100;3;2;4;1;1;1;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;21;302103011;10502103011;Lahini Pochim Para;Abdul sattar member (asapasa);50;225;115;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302103012;10502103012;Lahini Pochim Para;Hanif sarder (barir asapasa);70;315;35;1;1;3;1;1;2;1;3;4;4;4;4;3;2;4;4;42
+Kushtia;21;302103013;10502103013;Lahini Pochim Para;Lotif joyardar barir asapasa;20;90;30;1;1;3;1;1;1;1;4;4;4;4;3;1;3;4;4;40
+Kushtia;21;302103007;10502103007;Lahini Pochim Para;Tilam dhalir asapasa;30;135;100;2;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;21;302104001;10502104001;Mollataghoria School Para;shukur sheikh;8;36;20;1;1;4;1;1;1;1;4;4;4;3;4;1;4;4;4;42
+Kushtia;21;302104002;10502104002;Mollataghoria School Para;ar barir asapasa;7;32;20;1;1;4;1;1;1;1;4;4;4;4;4;1;4;4;4;43
+Kushtia;21;302104003;10502104003;Mollataghoria School Para;Md.Nasir sheikh barir asapasa;20;90;30;1;1;4;1;1;1;1;4;4;4;4;4;1;4;4;4;43
+Kushtia;21;302104004;10502104004;Mollataghoria School Para;Md.late.sadar barir asapasa;5;23;25;1;1;4;1;1;1;1;4;4;4;4;4;1;4;4;4;43
+Kushtia;21;302104005;10502104005;Mollataghoria School Para;Md.Alaf (barir asapasa mosjid gali);55;249;110;1;1;1;1;1;1;1;4;4;4;4;4;2;4;4;4;41
+Kushtia;21;302104006;10502104006;Mollataghoria School Para;Md.Kalo sheikh (barir asapasa);100;450;100;1;1;1;1;1;1;1;4;4;4;1;4;2;4;4;4;38
+Kushtia;21;302104011;10502104011;Mollataghoria School Para;Md.porosh barir asapasa;100;450;35;1;1;1;1;1;1;1;4;4;4;4;1;2;2;3;1;32
+Kushtia;21;302104012;10502104012;Mollataghoria School Para;Md.Kanu sheikh(barir asapasa);50;225;35;1;1;3;1;1;1;1;4;4;4;4;1;1;2;4;4;37
+Kushtia;21;302104010;10502104010;Mollataghoria School Para;Md.Fokor (barir asapasa);35;158;30;1;1;1;1;1;2;1;4;4;4;4;4;3;4;4;4;43
+Kushtia;21;302104009;10502104009;Mollataghoria School Para;Ajlu molla barir asapasa;40;181;100;1;1;1;1;1;3;1;4;4;4;4;4;3;4;4;4;44
+Kushtia;21;302104008;10502104008;Mollataghoria School Para;Md.Salam sheikh (barir asapasa);50;225;100;1;1;1;1;1;2;1;4;4;4;4;3;2;4;4;4;41
+Kushtia;21;302104007;10502104007;Mollataghoria School Para;Md.Gama sheikh (barir asapasa);50;225;100;1;1;1;1;1;2;1;4;4;4;4;4;2;4;4;4;42
+Kushtia;21;302104013;10502104013;Mollataghoria School Para;Md.Liton sheikh barir asapasa;25;113;35;1;1;4;1;1;3;1;4;4;4;4;1;1;2;3;1;36
+Kushtia;21;302104014;10502104014;Mollataghoria School Para;Joba begum(barir asapasa);60;270;35;1;1;3;1;1;3;1;4;4;4;4;1;1;2;3;1;35
+Kushtia;21;302105010;10502105010;Mollataghoria Purbo Para;Eusuf ar bari songlono;10;45;100;1;1;4;1;1;1;1;4;2;4;2;1;2;4;4;4;37
+Kushtia;21;302105008;10502105008;Mollataghoria Purbo Para;Dorud ar bari songlono;20;90;100;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Kushtia;21;302105009;10502105009;Mollataghoria Purbo Para;Sodor ar bari songlono;40;110;100;1;1;4;1;1;1;1;4;2;4;3;4;2;4;4;4;41
+Kushtia;21;302105007;10502105007;Mollataghoria Purbo Para;Eidga thaka kayhan ar bari songlono;35;157;100;1;1;4;1;1;1;1;4;2;4;3;4;2;4;4;4;41
+Kushtia;21;302105006;10502105006;Mollataghoria Purbo Para;Hazi goli songlono;30;135;100;1;1;4;1;1;2;1;4;2;4;3;4;2;4;4;4;42
+Kushtia;21;302105005;10502105005;Mollataghoria Purbo Para;Joj ar bari songlono;70;315;100;2;1;4;1;1;2;1;4;3;4;3;2;1;4;4;4;41
+Kushtia;21;302105003;10502105003;Mollataghoria Purbo Para;Nihal ar barir songlono;60;270;100;1;1;4;1;1;2;1;4;2;4;3;4;2;4;4;4;42
+Kushtia;21;302105001;10502105001;Mollataghoria Purbo Para;Sordar para daroga barir sonlogno;20;90;100;1;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;42
+Kushtia;21;302105002;10502105002;Mollataghoria Purbo Para;Moslam mondol songlono;15;70;100;1;1;3;1;1;2;1;4;3;4;3;4;2;4;4;4;42
+Kushtia;21;302105004;10502105004;Mollataghoria Purbo Para;Montu molla bari songlono;60;270;100;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Kushtia;21;302106005;10502106005;Mollataghoria Pochim Para;Budo murgir dokan songlono;30;135;100;2;1;4;1;1;1;1;4;3;4;3;4;2;4;4;4;43
+Kushtia;21;302106004;10502106004;Mollataghoria Pochim Para;Sahinur islam labu barir songlono;50;225;100;1;1;4;1;1;2;1;4;3;4;2;4;3;4;4;4;43
+Kushtia;21;302106003;10502106003;Mollataghoria Pochim Para;Sona anamot ar bari songlono;15;70;100;2;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;44
+Kushtia;21;302106002;10502106002;Mollataghoria Pochim Para;Moffazul ar bari songlono;30;135;100;1;1;1;1;1;1;1;4;3;4;3;4;2;4;4;4;39
+Kushtia;21;302106001;10502106001;Mollataghoria Pochim Para;Akhter ar bari songlono;30;135;100;1;1;4;1;1;2;1;4;3;4;3;4;3;4;4;4;44
+Kushtia;21;302107007;10502107007;Mollapara;Rokir barir aspa;15;70;30;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107006;10502107006;Mollapara;Kurbanar barir asapasa;25;115;15;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107005;10502107005;Mollapara;Rokir barir asapasa;40;180;12;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107004;10502107004;Mollapara;Billal kazi dokan darar asapasa;35;158;15;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107003;10502107003;Mollapara;Md.Mohir dokan darar asapasa;30;135;30;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107002;10502107002;Mollapara;Badsha dokan darar barir asapasa;30;135;30;1;1;4;1;1;1;1;4;4;4;4;1;1;1;2;1;32
+Kushtia;21;302107001;10502107001;Mollapara;Md.Junar barir asapasa;20;90;100;1;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;20;302001004;10502001004;Kumargara School para;Karigor para;150;650;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302001003;10502001003;Kumargara School para;Bashtola mor;100;420;70;2;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;20;302001002;10502001002;Kumargara School para;Kumargara aamtola mor;100;430;70;2;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;43
+Kushtia;20;302001001;10502001001;Kumargara School para;Kumargara uttor para;50;210;15;1;1;4;1;1;1;1;2;3;4;2;4;1;4;4;4;38
+Kushtia;20;302002005;10502002005;Kumargara Moddo Para;Kazi para;130;550;50;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302002004;10502002004;Kumargara Moddo Para;Modho para;150;650;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302002001;10502002001;Kumargara Moddo Para;School para;100;430;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302002002;10502002002;Kumargara Moddo Para;B T S para;150;650;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302002003;10502002003;Kumargara Moddo Para;Hindu para;100;450;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302003003;10502003003;Kumargara Poccim Para;pochim para;90;380;60;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302003002;10502003002;Kumargara Poccim Para;Firuji para;80;350;40;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302003001;10502003001;Kumargara Poccim Para;Bisik para;100;430;60;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302003004;10502003004;Kumargara Poccim Para;Rasta para;50;220;60;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302004001;10502004001;Chourhash Canal Para;Gorosthan purbo;40;200;30;1;1;4;1;1;1;1;4;3;4;2;1;1;1;2;1;29
+Kushtia;20;302004003;10502004003;Chourhash Canal Para;Kanal para pochim;80;320;60;1;1;4;1;1;2;1;3;3;4;1;4;1;4;4;4;39
+Kushtia;20;302004004;10502004004;Chourhash Canal Para;Bisik para;140;520;60;1;1;4;1;1;1;1;4;3;4;2;3;2;3;4;4;39
+Kushtia;20;302004005;10502004005;Chourhash Canal Para;Bisik pochim para;40;180;50;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302004002;10502004002;Chourhash Canal Para;Adorsho gramm;80;300;60;1;1;3;1;1;1;1;3;3;4;2;4;1;4;4;4;38
+Kushtia;20;302005003;10502005003;Jogoti Mondol Para Krisok Para;gobor para;70;300;70;1;1;3;1;1;2;1;4;3;4;3;4;2;4;4;4;42
+Kushtia;20;302005001;10502005001;Jogoti Mondol Para Krisok Para;jogoti station para;90;400;30;1;1;3;1;1;1;1;3;3;4;1;1;1;1;2;1;26
+Kushtia;20;302005002;10502005002;Jogoti Mondol Para Krisok Para;jogoti pochim para;50;220;50;1;1;4;1;1;1;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;20;302005006;10502005006;Jogoti Mondol Para Krisok Para;jogoti dhokin para kanal para;30;130;20;1;2;4;1;1;1;1;4;3;4;1;1;1;1;3;3;32
+Kushtia;20;302005005;10502005005;Jogoti Mondol Para Krisok Para;jogoti dhokin para;80;400;50;1;1;4;1;1;1;1;3;3;4;1;4;1;4;4;4;38
+Kushtia;20;302005004;10502005004;Jogoti Mondol Para Krisok Para;Kishok para;105;500;60;1;1;3;1;1;2;1;4;3;4;3;4;1;4;4;4;41
+Kushtia;20;302006003;10502006003;Chechua & Bottoil;chechua School para;80;320;70;1;1;4;1;1;2;1;4;3;4;2;4;2;4;4;4;42
+Kushtia;20;302006004;10502006004;Chechua & Bottoil;Railline para;50;230;15;1;1;4;1;1;2;1;4;3;4;2;1;1;4;2;2;34
+Kushtia;20;302006002;10502006002;Chechua & Bottoil;Kanelpara,chechua;60;240;40;1;1;4;1;1;2;1;4;3;4;2;2;2;3;2;2;35
+Kushtia;20;302006001;10502006001;Chechua & Bottoil;Kanal para,bottoil;110;490;20;1;1;4;1;1;2;1;4;3;4;2;1;2;1;2;1;31
+Kushtia;19;301901001;10501901001;Jogoti Poschim Para;uttor para jama mosjid alaka;120;600;65;1;1;4;1;1;2;2;3;1;4;1;1;1;2;2;3;30
+Kushtia;19;301901002;10501901002;Jogoti Poschim Para;jogoti 1 no colony;25;125;60;1;1;4;1;1;2;2;3;3;4;1;1;2;3;2;3;34
+Kushtia;19;301901005;10501901005;Jogoti Poschim Para;sheikh para and rail dhar;55;220;50;1;1;4;1;1;1;1;3;1;4;1;2;1;3;2;2;29
+Kushtia;19;301901007;10501901007;Jogoti Poschim Para;jogotoi hat para;130;650;60;1;1;3;1;1;1;1;3;3;4;1;2;1;2;2;2;29
+Kushtia;19;301901004;10501901004;Jogoti Poschim Para;shaha para;200;800;50;1;1;4;1;1;1;1;3;2;1;1;2;2;2;2;2;27
+Kushtia;19;301901006;10501901006;Jogoti Poschim Para;jogoti karikor parapailot school ar satha;70;350;46;1;1;1;1;1;1;1;2;3;4;1;4;1;4;4;4;34
+Kushtia;19;301901003;10501901003;Jogoti Poschim Para;jogoti kali mondi para;120;500;55;1;1;1;1;1;2;1;1;3;4;1;4;2;4;4;4;35
+Kushtia;19;301901008;10501901008;Jogoti Poschim Para;jogoti nara mor;20;90;50;1;1;4;1;1;1;1;3;3;4;1;4;2;4;4;4;39
+Kushtia;19;301902004;10501902004;Dokkin Para Colony;Hotat para colony;30;88;5;2;1;4;1;3;1;2;3;3;4;2;1;1;2;2;1;33
+Kushtia;19;301902005;10501902005;Dokkin Para Colony;Moti mia rail line ar pasa;100;450;40;2;1;4;1;3;1;2;3;3;4;2;1;1;2;2;1;33
+Kushtia;19;301902003;10501902003;Dokkin Para Colony;Colony 3;300;1600;60;2;1;4;1;3;1;2;3;3;4;2;1;1;2;2;1;33
+Kushtia;19;301902001;10501902001;Dokkin Para Colony;Colony;65;300;60;2;1;4;1;1;1;2;3;3;4;2;1;1;2;2;1;31
+Kushtia;19;301902002;10501902002;Dokkin Para Colony;Colony 2;30;150;60;2;1;4;1;3;1;2;3;3;4;2;1;1;2;2;1;33
+Kushtia;19;301902008;10501902008;Dokkin Para Colony;Chorhas pukur para;20;100;50;1;4;4;1;1;1;3;3;4;2;1;1;2;2;2;2;34
+Kushtia;19;301902007;10501902007;Dokkin Para Colony;Chorhas mor kacha bazar ar pichona;15;75;70;1;1;4;1;1;1;2;3;3;4;2;3;1;4;4;4;39
+Kushtia;19;301902006;10501902006;Dokkin Para Colony;Chorhas mor;10;50;70;1;1;4;1;1;1;2;3;3;4;2;3;1;4;4;4;39
+Kushtia;19;301903005;10501903005;Purbo Para Chourhas;stedium para;7;35;60;1;1;2;1;1;2;4;2;2;4;2;4;2;4;4;4;40
+Kushtia;19;301903001;10501903001;Purbo Para Chourhas;Chorhas malitha para-1;10;45;60;1;1;4;1;1;2;2;3;2;4;2;4;2;4;4;4;41
+Kushtia;19;301903002;10501903002;Purbo Para Chourhas;Chorhas malitha para-2;15;70;70;1;1;4;1;1;2;2;3;2;4;2;4;2;4;4;4;41
+Kushtia;19;301903003;10501903003;Purbo Para Chourhas;Mosjid para;10;50;70;3;1;4;1;1;2;2;2;2;4;2;4;2;4;4;4;42
+Kushtia;19;301903006;10501903006;Purbo Para Chourhas;Chorhas kolabag;6;30;65;1;1;4;1;1;2;2;3;2;4;2;4;2;4;4;4;41
+Kushtia;19;301903004;10501903004;Purbo Para Chourhas;20 no school para;10;45;50;1;1;4;1;1;2;2;2;2;4;2;4;2;4;4;4;40
+Kushtia;19;301904007;10501904007;Utoor Para upozila;Moti mia rail gate;55;220;60;1;1;4;1;1;1;1;4;3;4;1;4;1;4;4;4;39
+Kushtia;19;301904006;10501904006;Utoor Para upozila;Indra dhhokin para;300;1240;60;1;1;4;1;1;1;1;3;3;4;1;4;1;4;4;4;38
+Kushtia;19;301904003;10501904003;Utoor Para upozila;Kolabag;120;600;60;1;1;4;1;1;1;2;4;3;4;1;4;2;4;4;4;41
+Kushtia;19;301904002;10501904002;Utoor Para upozila;Hotat para colony;60;300;60;1;1;4;1;1;1;1;3;3;4;2;3;1;4;4;4;38
+Kushtia;19;301904001;10501904001;Utoor Para upozila;Custom mor para;40;200;65;2;3;4;1;1;2;2;4;3;4;1;4;2;4;4;4;45
+Kushtia;19;301904005;10501904005;Utoor Para upozila;Upazalla para;85;500;50;1;1;4;1;1;1;2;3;3;4;1;4;1;4;4;4;39
+Kushtia;19;301904004;10501904004;Utoor Para upozila;Balir maath  para;80;400;40;1;1;4;1;1;1;2;3;3;4;1;4;1;4;4;4;39
+Kushtia;18;301801001;10501801001;Purbo Mojompur 1;Purbo Mojompur 1;6;30;40;1;1;3;1;1;3;1;4;4;4;4;4;3;2;4;4;44
+Kushtia;18;301801002;10501801002;Purbo Mojompur 2;Mofiz uddin lane;5;20;20;2;1;3;1;1;1;1;4;4;4;4;2;3;2;4;4;41
+Kushtia;18;301801004;10501801004;Purbo Mojompur 4;Ghora line;25;125;30;2;1;3;1;1;3;1;3;3;4;2;2;2;2;2;1;33
+Kushtia;18;301801003;10501801003;Purbo Mojompur 3;Mojompur  gate;5;20;20;1;1;3;1;1;2;2;1;3;4;3;1;1;1;2;1;28
+Kushtia;18;301801005;10501801005;Purbo Mojompur 5;Baltola;15;75;35;1;1;3;1;1;2;1;2;3;4;2;1;2;1;2;1;28
+Kushtia;18;301802001;10501802001;Purbo Mojompur 2;Indra para;35;195;20;2;1;3;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;18;301802002;10501802002;Purbo Mojompur 3;Madar tola;40;220;30;2;1;3;1;1;2;1;2;3;4;1;1;1;1;2;1;27
+Kushtia;18;301802005;10501802005;Purbo Mojompur 6;Upozala mondol bari;20;120;50;1;1;3;1;1;2;1;3;3;4;1;4;3;4;4;4;40
+Kushtia;18;301802003;10501802003;Purbo Mojompur 4;Shahin chairman barir samna;5;20;25;2;1;3;4;1;4;1;2;4;4;4;4;3;4;4;4;49
+Kushtia;18;301802004;10501802004;Purbo Mojompur 5;Sokal sondha golir pasa;5;20;45;2;1;4;1;1;3;1;3;4;4;4;3;2;4;4;3;44
+Kushtia;18;301802006;10501802006;Purbo Mojompur 7;Hasan mansion pichonar goli;15;77;35;1;1;3;1;1;2;1;3;3;4;4;3;3;4;4;4;42
+Kushtia;18;301803008;10501803008;Poschim Mojompur;Fokir Master Goli;20;100;50;2;1;3;3;1;3;1;3;3;4;4;3;3;4;4;4;46
+Kushtia;18;301803006;10501803006;Poschim Mojompur;Helal Sarak;30;150;20;2;1;4;1;1;1;1;2;3;4;4;1;1;1;1;3;31
+Kushtia;18;301803005;10501803005;Poschim Mojompur;Ali Akbor Sarak;15;80;30;2;1;4;1;1;2;4;2;2;4;4;4;3;4;4;4;46
+Kushtia;18;301803002;10501803002;Poschim Mojompur;Karikor Para-2;40;220;40;1;1;4;1;1;1;4;2;1;2;2;3;2;4;2;4;35
+Kushtia;18;301803003;10501803003;Poschim Mojompur;Karikor Para-1;65;320;100;1;1;4;1;1;1;1;3;1;4;4;3;2;4;4;4;39
+Kushtia;18;301803001;10501803001;Poschim Mojompur;Dayrapara;30;144;30;1;1;3;2;1;2;1;2;2;2;3;4;2;4;4;4;38
+Kushtia;18;301803007;10501803007;Poschim Mojompur;Bel Tola 2;15;70;40;2;1;4;1;1;2;1;2;4;4;2;1;3;1;2;1;32
+Kushtia;18;301803004;10501803004;Poschim Mojompur;Lotif Para;30;130;70;1;1;4;1;1;1;1;2;1;4;4;4;3;4;4;4;40
+Kushtia;18;301804016;10501804016;Udhi Bari;Dayra Park Goli;22;89;70;1;1;4;1;1;3;1;3;3;4;2;4;3;4;4;4;43
+Kushtia;18;301804010;10501804010;Udhi Bari;Udhebari School Ar Sathe;11;51;56;2;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;44
+Kushtia;18;301804008;10501804008;Udhi Bari;Proga Doctor Ar Barir Pashe;20;75;22;1;1;3;1;1;3;1;3;3;4;2;4;3;4;4;4;42
+Kushtia;18;301804006;10501804006;Udhi Bari;Colony Para;210;789;62;1;1;3;1;1;1;1;3;3;4;1;1;1;4;1;1;28
+Kushtia;18;301804004;10501804004;Udhi Bari;Hindu Para;53;237;62;1;1;3;1;1;1;1;3;3;4;2;4;1;4;4;4;38
+Kushtia;18;301804003;10501804003;Udhi Bari;Karigoli Para-2;25;119;52;1;1;4;1;1;2;2;4;3;4;3;4;2;4;4;4;44
+Kushtia;18;301804002;10501804002;Udhi Bari;Karigor Para-1;21;98;52;1;1;3;1;1;2;1;4;3;4;2;4;2;4;4;4;41
+Kushtia;18;301804001;10501804001;Udhi Bari;Motin Miyar Rail Gate;12;62;28;1;1;4;1;1;2;4;3;2;4;3;4;2;4;4;4;44
+Kushtia;18;301804013;10501804013;Udhi Bari;Molla Bari;34;177;75;1;1;3;1;1;2;1;3;3;4;3;3;3;4;4;4;41
+Kushtia;18;301804012;10501804012;Udhi Bari;Mondol Para-2;6;27;42;1;1;3;1;1;2;1;4;3;4;3;3;2;4;1;1;35
+Kushtia;18;301804007;10501804007;Udhi Bari;Mondol Para-1;44;177;70;1;1;3;1;1;2;1;3;3;4;2;4;3;4;4;4;41
+Kushtia;18;301804011;10501804011;Udhi Bari;Saddar Para;32;133;52;2;1;4;1;1;1;1;4;3;4;3;4;2;4;4;4;43
+Kushtia;18;301804014;10501804014;Udhi Bari;Molla Para;71;160;49;1;1;3;1;1;3;1;3;3;4;3;3;3;4;4;4;42
+Kushtia;18;301804015;10501804015;Udhi Bari;Majarer Pashe;69;335;52;1;1;3;1;1;3;1;3;3;4;3;4;3;4;4;4;43
+Kushtia;18;301804009;10501804009;Udhi Bari;Proga Doctor goli;25;115;52;1;1;3;1;1;4;1;3;3;4;2;4;3;4;4;4;43
+Kushtia;18;301804005;10501804005;Udhi Bari;Holder Para (Colony Pashe);36;185;65;1;1;3;1;1;1;1;3;3;4;2;4;2;4;4;4;39
+Kushtia;17;301701001;10501701001;Jogoti Colony 1.2.3;Samsul Ar Bari;15;68;48;3;1;4;1;1;2;1;4;3;4;3;1;2;1;2;3;36
+Kushtia;17;301701002;10501701002;Jogoti Colony 1.2.3;Adol Mosh/Nerar Bari;20;90;70;2;1;4;1;1;1;2;3;4;3;1;1;2;2;3;1;32
+Kushtia;17;301701003;10501701003;Jogoti Colony 1.2.3;Foju Eid Gha Ghor;35;135;25;2;1;2;1;1;1;1;2;3;4;3;1;2;1;3;3;31
+Kushtia;17;301701004;10501701004;Jogoti Colony 1.2.3;Md. Hafej Dokandar;10;45;48;2;1;4;1;1;2;1;4;3;4;3;1;2;4;3;3;39
+Kushtia;17;301701005;10501701005;Jogoti Colony 1.2.3;Atrum;10;45;40;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301701006;10501701006;Jogoti Colony 1.2.3;Mojid Dokander;20;90;30;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301701007;10501701007;Jogoti Colony 1.2.3;Akter Bari;15;68;48;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301701008;10501701008;Jogoti Colony 1.2.3;Nojur Bari;20;90;30;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301701009;10501701009;Jogoti Colony 1.2.3;Modhur Bri;20;90;48;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301701010;10501701010;Jogoti Colony 1.2.3;Mojebar Relince school Ar Pashe;25;112;48;2;1;4;1;1;2;1;4;3;4;3;4;3;4;4;4;45
+Kushtia;17;301701011;10501701011;Jogoti Colony 1.2.3;Amin Ar Bari;30;135;48;2;1;4;1;1;2;1;4;3;4;3;1;2;1;2;3;35
+Kushtia;17;301701012;10501701012;Jogoti Colony 1.2.3;Shamim Ar Bari;30;135;48;2;1;4;1;1;2;1;4;3;4;3;1;2;1;3;3;36
+Kushtia;17;301702002;10501702002;Fulbaria o Dhaka Purbo para;Ujjol Ar Barir Pashe;17;76;25;1;1;4;1;1;1;1;4;3;4;3;4;2;4;4;4;42
+Kushtia;17;301702001;10501702001;Fulbaria o Dhaka Purbo para;Ripon Ar Pukurer Uttor Pashe;12;54;48;4;1;4;1;1;2;1;3;4;4;4;4;4;3;4;4;48
+Kushtia;17;301702004;10501702004;Fulbaria o Dhaka Purbo para;Nur Muhammad;30;135;48;1;1;4;1;1;2;1;4;3;4;3;4;3;4;4;4;44
+Kushtia;17;301702003;10501702003;Fulbaria o Dhaka Purbo para;Rustom Vai Masjeer Ar Shamne;20;90;48;2;1;4;1;1;2;1;4;2;4;3;4;3;4;4;4;44
+Kushtia;17;301702005;10501702005;Fulbaria o Dhaka Purbo para;Md. Hasimul Islam;55;248;48;3;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;45
+Kushtia;17;301702007;10501702007;Fulbaria o Dhaka Purbo para;Late. Ribel Hossain;22;99;35;2;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;44
+Kushtia;17;301702006;10501702006;Fulbaria o Dhaka Purbo para;Robul Driver;20;90;40;2;1;4;1;1;2;1;4;3;4;3;4;3;4;4;4;45
+Kushtia;17;301703012;10501703012;Dhaka;Poramanik Para;28;126;150;2;1;4;1;2;4;1;1;3;4;3;1;2;3;4;4;40
+Kushtia;17;301703013;10501703013;Dhaka;Mondol Para;28;126;200;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301703014;10501703014;Dhaka;Fokir Para;29;131;200;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301703005;10501703005;Dhaka;Mojebarer Dokan;9;43;110;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703006;10501703006;Dhaka;Mojaher Mondol;23;109;160;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703011;10501703011;Dhaka;Mujgar Fokir Para;21;98;130;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301703015;10501703015;Dhaka;Moni Mondol Ar Bari;12;54;200;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301703007;10501703007;Dhaka;Collan Para;9;41;18;1;1;4;1;1;1;1;4;3;4;3;4;1;3;4;4;40
+Kushtia;17;301703003;10501703003;Dhaka;Jel Hossain;9;43;10;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703004;10501703004;Dhaka;Rija Beshah Bari;15;75;160;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703002;10501703002;Dhaka;Barek Beshas;21;97;130;2;2;4;1;4;4;1;4;4;4;3;4;1;4;4;4;50
+Kushtia;17;301703001;10501703001;Dhaka;Aftab Mondol;12;56;130;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703010;10501703010;Dhaka;Beshas Para;14;65;120;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703009;10501703009;Dhaka;Eskar Shek;16;75;80;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;17;301703008;10501703008;Dhaka;Nur Islam Beshas;10;45;50;2;1;4;1;1;2;1;4;3;4;3;4;1;4;4;4;43
+Kushtia;16;301601001;10501601001;Mongolbaria;Robiul Chotpoti Bari Purbo Pashe;28;125;20;1;1;3;1;1;1;1;3;2;2;1;2;2;2;4;4;31
+Kushtia;16;301601002;10501601002;Mongolbaria;Moyut Ar Poschim O Uttor Bosote;36;180;40;1;1;4;1;1;1;1;3;2;2;4;4;4;4;4;4;41
+Kushtia;16;301601003;10501601003;Mongolbaria;Mongol Barir Puraton Jame Masjeed;63;315;45;2;1;4;1;1;1;1;4;4;2;3;4;4;4;4;4;44
+Kushtia;16;301601004;10501601004;Mongolbaria;Jesab Uddain Ar Bari;70;350;40;1;1;4;1;1;2;1;3;3;2;1;4;4;4;4;4;40
+Kushtia;16;301601005;10501601005;Mongolbaria;Faruk Kamarer Bari;83;495;10;1;1;4;1;1;1;1;2;2;2;1;1;1;1;1;1;22
+Kushtia;16;301602001;10501602001;Mongolbaria Hore Krisnopur;GP Anter Prige Supar Market;25;125;43;2;1;4;1;1;1;1;3;1;2;2;4;4;4;4;4;39
+Kushtia;16;301602002;10501602002;Mongolbaria Hore Krisnopur;Late. Kofiuddain Ar Bari;10;50;25;2;4;4;2;1;2;1;3;2;2;3;4;4;4;4;4;46
+Kushtia;16;301602003;10501602003;Mongolbaria Hore Krisnopur;Mongol Barir Shib Kalir Monder;50;240;80;2;1;4;1;1;1;1;3;2;2;1;2;3;2;2;3;31
+Kushtia;16;301602004;10501602004;Mongolbaria Hore Krisnopur;Helal Comisonar Ar Barir Purbo Pash;56;280;44;2;1;4;2;1;2;1;4;2;2;3;4;4;4;4;4;44
+Kushtia;16;301602005;10501602005;Mongolbaria Hore Krisnopur;Eidgha Ar Poschi Dike;74;370;43;2;4;4;2;1;4;1;4;2;2;3;4;4;4;4;4;49
+Kushtia;16;301602007;10501602007;Mongolbaria Hore Krisnopur;<uktijodar Abdul Kuddus Ar Barir Uttor Pashe;72;315;45;2;1;4;2;1;3;1;3;3;2;1;4;4;4;4;4;43
+Kushtia;16;301602006;10501602006;Mongolbaria Hore Krisnopur;Ujir Ar Barir Uttor Pashe;90;540;40;1;1;4;1;1;1;1;4;2;2;1;4;4;4;4;4;39
+Kushtia;16;301602008;10501602008;Mongolbaria Hore Krisnopur;Muna Haser Barir Uttor Pash;30;150;40;2;1;4;2;1;1;1;3;2;2;1;4;4;4;4;4;40
+Kushtia;16;301603003;10501603003;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Nujruler Barir Pashe;80;408;40;2;1;4;1;1;1;1;4;4;4;1;4;4;4;4;4;44
+Kushtia;16;301603004;10501603004;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Mintu Mastarer Bariri Pashe;65;308;40;2;1;4;1;1;1;1;4;4;4;1;4;4;4;4;4;44
+Kushtia;16;301603006;10501603006;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Karbuler Barir Pashe;50;253;40;2;1;4;1;1;1;1;4;4;4;1;4;4;4;4;4;44
+Kushtia;16;301603005;10501603005;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Koradde Vata Para;80;400;38;2;1;4;1;1;1;1;2;2;2;1;4;4;4;4;4;38
+Kushtia;16;301603002;10501603002;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Sekendar Mastarer Barir Goli;37;180;12;2;1;3;1;1;1;1;3;3;3;3;1;3;3;4;4;37
+Kushtia;16;301603001;10501603001;Baradi Uttarpara & Kanabil Morh Murgir Farm Para;Bokkarer Bari Hoyte Dokhin Pashe;50;251;20;2;1;4;1;1;1;1;4;2;2;1;1;1;1;2;1;26
+Kushtia;16;301604001;10501604001;Baradi Moddhpara;Mora Goyaler Dhare Nojur Bari;13;57;50;2;1;4;1;1;2;1;2;4;4;4;1;4;4;4;4;43
+Kushtia;16;301604002;10501604002;Baradi Moddhpara;Eid Gha Mor Thake Abuler Bari;10;58;20;1;1;4;1;1;4;1;3;4;3;4;1;4;4;4;4;44
+Kushtia;16;301604003;10501604003;Baradi Moddhpara;Baradde Koboresthan Ar Pashe;15;50;25;3;1;4;1;1;1;1;1;3;2;4;1;1;3;3;4;34
+Kushtia;16;301604006;10501604006;Baradi Moddhpara;Eyakul Alir Marir Pashe;37;183;42;2;1;4;1;1;3;1;3;4;4;3;1;4;4;4;4;44
+Kushtia;16;301604004;10501604004;Baradi Moddhpara;Khobir Mollar Barir Pashe;50;223;40;2;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;16;301604005;10501604005;Baradi Moddhpara;Bir Muktejodda Abdullar Ar Bari;60;316;42;2;1;4;1;1;4;1;4;4;4;4;1;4;4;4;4;47
+Kushtia;16;301604007;10501604007;Baradi Moddhpara;Afjalelr Barir Pashe;65;307;42;2;1;4;1;1;3;1;3;3;4;3;3;4;3;4;4;44
+Kushtia;16;301604009;10501604009;Baradi Moddhpara;TMSS Ar Thake Purbo Dheka;35;158;42;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Kushtia;16;301604008;10501604008;Baradi Moddhpara;Nuru Pagoler Majare Pashe;45;237;42;2;1;4;1;1;4;1;4;4;4;3;4;4;4;4;4;49
+Kushtia;16;301605004;10501605004;Baradi Fokirpara;Akkas Mistry Ar Barir Pashe;18;67;35;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Kushtia;16;301605001;10501605001;Baradi Fokirpara;Eidgha Mor Hoyte Koboesthan Projonto;30;123;32;2;1;4;1;1;1;1;3;3;4;3;1;4;4;4;4;41
+Kushtia;16;301605002;10501605002;Baradi Fokirpara;Eid Gha Mor Thake Kochi Barir Pashe;52;186;42;2;1;4;1;1;1;1;3;4;3;2;1;4;4;4;4;40
+Kushtia;16;301605003;10501605003;Baradi Fokirpara;Khokoner Dokan Thake Murgir Farm Projonto;38;103;33;1;1;4;1;1;1;1;3;3;3;3;4;4;4;4;4;42
+Kushtia;16;301605005;10501605005;Baradi Fokirpara;Nojur Barir Pashe;27;119;35;2;1;4;4;1;1;1;4;4;4;4;4;4;4;4;4;50
+Kushtia;16;301605006;10501605006;Baradi Fokirpara;Khobir Muktarer Barir Pashe;43;173;40;1;1;4;1;1;1;1;4;3;3;3;4;4;4;4;4;43
+Kushtia;16;301605007;10501605007;Baradi Fokirpara;Babu Para;19;108;42;1;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;46
+Kushtia;16;301605008;10501605008;Baradi Fokirpara;Baradi Fokir Para;40;197;42;2;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;47
+Kushtia;16;301605009;10501605009;Baradi Fokirpara;Hafijer Barir Pashe;33;120;40;2;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;47
+Kushtia;16;301605010;10501605010;Baradi Fokirpara;Saheder Barir Pashe;30;152;42;3;1;4;1;1;1;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;16;301605011;10501605011;Baradi Fokirpara;Montur Barir Pashe;41;183;42;2;1;3;1;1;1;1;3;3;4;3;4;4;4;4;4;43
+Kushtia;16;301605012;10501605012;Baradi Fokirpara;Rohimer Barir Shamner Dekha;19;109;40;2;1;4;1;1;1;1;4;3;3;3;3;4;4;4;4;43
+Kushtia;16;301605013;10501605013;Baradi Fokirpara;Seraser Barir Pashe;17;47;40;2;1;3;1;1;1;1;3;3;4;1;4;4;4;4;4;41
+Kushtia;16;301606001;10501606001;Baradi Schoolpara & Baradi Poshchim Para;Sohiful Ar Barir Pashe;40;200;40;2;1;4;1;4;1;1;3;2;2;1;4;4;4;4;4;42
+Kushtia;16;301606002;10501606002;Baradi Schoolpara & Baradi Poshchim Para;Bitlar Barir Pashe;50;250;41;2;1;4;1;1;1;1;2;3;4;1;1;1;1;2;2;28
+Kushtia;16;301606003;10501606003;Baradi Schoolpara & Baradi Poshchim Para;Jamal Sordar Barir Talpath;80;370;40;2;1;4;1;1;1;1;2;2;2;1;1;1;1;1;2;24
+Kushtia;16;301606004;10501606004;Baradi Schoolpara & Baradi Poshchim Para;Tofik Ar Pashe;10;50;42;2;1;4;1;1;1;1;2;2;2;1;4;4;4;4;4;38
+Kushtia;16;301606005;10501606005;Baradi Schoolpara & Baradi Poshchim Para;Aftab Ar Bari;20;100;43;2;1;4;1;1;1;1;3;3;4;1;4;4;4;4;4;42
+Kushtia;16;301606006;10501606006;Baradi Schoolpara & Baradi Poshchim Para;Bari Masjeed Para;20;100;42;2;1;4;1;4;1;1;4;4;4;3;4;4;4;4;4;49
+Kushtia;15;301501003;10501501003;Uttor Para;Amebuler Bari;50;125;30;1;1;4;1;1;2;1;3;3;4;3;4;1;4;4;4;41
+Kushtia;15;301501002;10501501002;Uttor Para;Kanu Dorji Bari/Matyh Thake Badh Dhare Vetore;20;90;50;1;1;4;1;1;1;1;4;2;2;2;4;1;3;4;4;36
+Kushtia;15;301501001;10501501001;Uttor Para;Malek Member/ Ajmol;20;90;100;1;1;4;1;1;2;1;4;3;4;4;4;2;4;4;4;44
+Kushtia;15;301502001;10501502001;Dash Para;Jogiya Uttor Karigori Para Osman Miyar Bari;22;95;35;1;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;44
+Kushtia;15;301502002;10501502002;Dash Para;Jogiya Das Para Sukumar Ar Bari;100;450;30;1;1;4;1;1;1;2;4;3;3;3;4;1;4;4;4;41
+Kushtia;15;301502003;10501502003;Dash Para;Chor Para/ Hothat Para;25;125;2;1;1;3;1;1;1;1;1;2;2;2;4;1;3;2;1;27
+Kushtia;15;301502004;10501502004;Dash Para;Udgah Para;100;450;70;1;1;4;1;1;2;1;2;3;2;3;4;1;4;4;4;38
+Kushtia;15;301503002;10501503002;School Para;Ajmol Meyer Barir Shamne;25;112;60;1;1;4;1;1;3;1;2;3;3;3;4;2;4;4;4;41
+Kushtia;15;301503001;10501503001;School Para;Akaba Nasarir Pashe;8;36;50;1;1;4;1;1;3;1;2;2;3;3;4;2;4;4;4;40
+Kushtia;15;301504002;10501504002;Pukur Para;Roton Sir Ar Bari;21;100;45;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301504003;10501504003;Pukur Para;Chader Barir Pichone;20;60;100;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Kushtia;15;301504004;10501504004;Pukur Para;Mannan bari Pichone;25;112;100;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Kushtia;15;301504001;10501504001;Pukur Para;Lalon Bari;22;97;50;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301504005;10501504005;Pukur Para;Dokhil Math Para;12;60;100;1;1;4;1;1;3;1;3;3;4;3;4;2;4;4;4;43
+Kushtia;15;301505005;10501505005;Mondol Bari;Khadem Islam (Bader Niche);45;185;50;2;1;4;1;1;2;1;4;4;4;4;3;3;3;4;4;45
+Kushtia;15;301505004;10501505004;Mondol Bari;Md. Usuf (Doctor);40;180;80;1;1;4;1;1;4;1;4;4;4;4;4;3;4;4;4;48
+Kushtia;15;301505003;10501505003;Mondol Bari;Md. Mamun (Profesor);50;220;100;2;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;50
+Kushtia;15;301505002;10501505002;Mondol Bari;Md. Shamim Beshas (Doli);30;130;100;2;1;4;1;1;4;1;4;4;4;4;4;3;4;4;4;49
+Kushtia;15;301505001;10501505001;Mondol Bari;Md. Ujir (Brack Office Ar Shamne);20;85;35;1;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;15;301506002;10501506002;Voto Para;Ajad Dokandar Ar Bari;34;165;120;1;2;4;1;1;2;1;3;3;4;1;4;1;3;4;3;38
+Kushtia;15;301506005;10501506005;Voto Para;Korik Dokander;48;225;130;1;1;4;1;1;3;1;4;3;4;3;4;2;4;4;4;44
+Kushtia;15;301506003;10501506003;Voto Para;Nur Jaman Bari;25;112;125;1;2;4;1;1;3;1;3;4;4;2;4;3;4;4;4;45
+Kushtia;15;301506004;10501506004;Voto Para;Anoyar Housing;35;160;120;1;2;4;1;1;3;1;2;3;4;2;4;2;4;4;4;42
+Kushtia;15;301506006;10501506006;Voto Para;Sahjahan Saju;21;100;150;1;2;4;1;1;4;1;4;4;4;3;4;3;4;4;4;48
+Kushtia;15;301506007;10501506007;Voto Para;Nuruddain Haji Bari;20;95;160;1;1;4;1;1;4;1;4;4;4;3;4;3;4;4;4;47
+Kushtia;15;301506008;10501506008;Voto Para;Jofir Bari;48;225;140;1;1;4;1;1;2;1;2;3;4;2;4;2;4;4;4;40
+Kushtia;15;301506001;10501506001;Voto Para;Lal Muhammad;25;115;140;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301507008;10501507008;Dorga Para;Abdular Bari;11;64;140;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301507006;10501507006;Dorga Para;Soroyarer Barir Pichone;20;90;120;1;1;4;1;1;3;1;3;4;4;3;4;2;4;4;4;44
+Kushtia;15;301507007;10501507007;Dorga Para;Soroyarer Membarer Bari;45;220;150;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301507001;10501507001;Dorga Para;Bokkor Driver Bari;30;140;150;1;2;4;1;1;3;1;3;3;4;1;4;2;4;4;4;42
+Kushtia;15;301507002;10501507002;Dorga Para;Samsul Sir Ar Bari;20;90;45;1;2;3;1;1;3;1;3;3;4;1;4;2;4;4;4;41
+Kushtia;15;301507009;10501507009;Dorga Para;Halim Sonokar Ar Bari;28;135;130;1;1;4;1;1;3;1;3;3;4;2;4;2;4;4;4;42
+Kushtia;15;301507003;10501507003;Dorga Para;Amirul Driver Ar Bari;15;70;45;1;2;4;1;1;3;1;3;3;4;2;4;2;4;4;4;43
+Kushtia;15;301507004;10501507004;Dorga Para;Comisonar Ber Barir Piche;10;45;150;1;1;4;1;1;3;1;3;4;4;2;4;3;4;4;4;44
+Kushtia;15;301507005;10501507005;Dorga Para;Monir Hujur Bari;25;115;160;1;1;4;1;1;4;1;4;3;4;2;4;2;4;4;4;44
+Kushtia;15;301508001;10501508001;Adorsho Para;Tofajel Hok;45;180;50;2;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;15;301508002;10501508002;Adorsho Para;Md. Khoyaj (Muktejodha);40;180;40;2;1;4;1;1;4;1;4;4;4;3;4;3;4;4;4;48
+Kushtia;15;301508003;10501508003;Adorsho Para;Md. Lotif (Doctor);40;180;55;2;1;4;1;1;4;1;4;4;4;3;4;3;4;4;4;48
+Kushtia;15;301509001;10501509001;Math Para;Datar Mor Thake Vetore;70;315;30;1;1;4;1;1;1;2;2;2;2;3;4;2;4;4;4;38
+Kushtia;15;301509002;10501509002;Math Para;Sabdaker Bari;80;360;70;1;1;4;1;1;2;1;2;3;2;3;4;1;4;4;4;38
+Kushtia;15;301509003;10501509003;Math Para;Kolimdder Bari;10;45;40;1;1;4;1;1;1;1;4;3;3;3;4;3;4;4;4;42
+Kushtia;14;301401001;10501401001;Palpara;Jugiya Pal Para Nijan Bari;50;225;70;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Kushtia;14;301401002;10501401002;Palpara;Rastar Para meherer Bari;40;180;35;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Kushtia;14;301401003;10501401003;Palpara;Jogiya Palpara Afijuler Bari;45;200;35;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301401004;10501401004;Palpara;Jogiya Palpara Monoyara Bari;44;250;35;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301401005;10501401005;Palpara;Buri Bottola Asraf Master Bari;10;45;15;1;1;4;1;1;2;1;3;3;4;3;4;1;4;4;4;41
+Kushtia;14;301401006;10501401006;Palpara;Buri Bottola Alongir Bari;6;28;18;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301401007;10501401007;Palpara;Buri Bottola Nihajer Bari;20;90;30;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301401008;10501401008;Palpara;Kodomtola Akul Masjeder Bari;15;68;40;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301401009;10501401009;Palpara;Jugiya Kodomtola Roshidul Islam Bari;15;70;40;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301402001;10501402001;Jugia Kodomtala;Buri Bottola Amir Ali Goriyon;15;68;10;1;1;4;1;1;1;1;3;3;4;3;4;3;4;4;4;42
+Kushtia;14;301402002;10501402002;Jugia Kodomtala;Buri Bottola Selimer Bari;20;90;20;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301402003;10501402003;Jugia Kodomtala;Buri Kodomtola Akur Bari;20;90;20;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301402004;10501402004;Jugia Kodomtala;Buri Kodomtola Ikram Bari;25;115;40;1;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;41
+Kushtia;14;301402005;10501402005;Jugia Kodomtala;Buri Kodomtola Vuminhin Para;33;160;25;1;1;4;1;1;1;1;3;3;4;3;1;1;3;2;1;31
+Kushtia;14;301402006;10501402006;Jugia Kodomtala;Jugiya Gorsaner Dokhin Pashe;5;22;25;1;1;4;1;1;1;1;3;4;4;4;4;1;4;4;4;42
+Kushtia;14;301402007;10501402007;Jugia Kodomtala;Jugiya Gorsaner Uttor Pashe;12;52;35;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301402010;10501402010;Jugia Kodomtala;Buri Kodomtola Mohorer Bari;12;54;40;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301402008;10501402008;Jugia Kodomtala;Hesaber Pukurer Pare Asha Miyar Bari;5;17;15;1;1;4;1;1;1;1;3;3;4;4;4;1;4;4;4;41
+Kushtia;14;301402009;10501402009;Jugia Kodomtala;Jugiya Poschim Para Seguler Bari;100;425;30;1;1;4;1;1;1;1;3;3;4;3;1;1;3;3;1;32
+Kushtia;14;301403001;10501403001;Madrasa Poschim Para;Kollek Hossain;15;68;30;1;1;4;1;1;2;1;2;2;4;3;4;2;4;4;4;40
+Kushtia;14;301403002;10501403002;Madrasa Poschim Para;Abed Kosayer Bari;16;72;50;1;1;4;1;1;1;1;2;2;4;3;4;2;4;4;4;39
+Kushtia;14;301403003;10501403003;Madrasa Poschim Para;Noyon Ar Dokan;9;41;35;1;1;4;1;1;2;1;3;3;4;3;4;3;4;4;4;43
+Kushtia;14;301403004;10501403004;Madrasa Poschim Para;Mannar Ar Bari;19;86;50;1;1;4;1;1;1;1;2;2;4;3;2;1;1;3;1;29
+Kushtia;14;301404004;10501404004;Mirpara;Shekh Raysul Hasan Bari;25;113;55;1;1;4;1;1;4;1;3;3;4;3;4;4;4;4;4;46
+Kushtia;14;301404005;10501404005;Mirpara;Akkas Ar Dokan;6;27;30;2;1;4;1;1;3;3;4;2;4;3;4;3;4;4;4;47
+Kushtia;14;301404006;10501404006;Mirpara;Kalu Sordar (Trimohoni Masjer Ar Khadem);7;32;55;2;1;3;1;1;1;2;4;2;4;3;4;3;4;4;4;43
+Kushtia;14;301404001;10501404001;Mirpara;anjad Hossain Bari;10;45;60;1;1;4;1;1;3;1;3;2;4;3;4;4;4;4;4;44
+Kushtia;14;301404002;10501404002;Mirpara;Shek Saiful Ar Bari;20;90;60;1;1;4;1;1;2;1;2;4;4;3;4;4;4;4;4;44
+Kushtia;14;301404007;10501404007;Mirpara;Shek Abul Malek;12;54;60;1;1;3;1;1;4;1;4;2;4;3;4;4;4;4;4;45
+Kushtia;14;301404003;10501404003;Mirpara;Sohel Rana (Raju);8;36;30;1;1;3;1;1;3;2;3;2;4;3;4;4;4;4;4;44
+Kushtia;14;301405001;10501405001;Mondol Para;Kaji Somser;11;50;64;1;1;4;1;1;3;1;3;2;4;4;4;3;4;4;4;44
+Kushtia;14;301405011;10501405011;Mondol Para;Shek Nurul Amin;5;23;82;2;1;4;1;1;4;1;4;2;4;4;4;4;4;4;4;48
+Kushtia;14;301405010;10501405010;Mondol Para;Ummoty Eramonik;11;50;80;2;1;4;1;1;4;1;3;2;4;4;4;4;4;4;4;47
+Kushtia;14;301405009;10501405009;Mondol Para;Md. Lablu Hossain;7;32;45;2;1;4;1;1;4;1;4;2;4;4;4;4;4;4;4;48
+Kushtia;14;301405005;10501405005;Mondol Para;Beshu Shek (Bagan Para);25;113;72;1;1;3;1;1;3;1;3;3;4;3;4;3;4;4;4;43
+Kushtia;14;301405006;10501405006;Mondol Para;Eyar Uddain (Bagan Para);8;36;80;1;1;4;4;1;2;1;1;3;4;4;4;3;4;4;4;45
+Kushtia;14;301405007;10501405007;Mondol Para;Robiyul Islam (Napit);15;68;60;2;1;4;1;1;4;2;4;3;4;3;4;4;4;4;4;49
+Kushtia;14;301405008;10501405008;Mondol Para;Lotif (School Ar Pichone);11;50;60;2;1;4;1;1;4;1;4;2;4;4;4;4;4;4;4;48
+Kushtia;14;301405004;10501405004;Mondol Para;Jiya Sadhu;8;36;75;1;1;4;1;1;3;1;3;2;4;3;4;4;4;4;4;44
+Kushtia;14;301405002;10501405002;Mondol Para;Sajahan Molla;10;45;60;1;1;4;1;1;4;1;3;2;4;3;4;4;4;4;4;45
+Kushtia;14;301405003;10501405003;Mondol Para;Bodorer Dokan;8;36;65;1;1;3;1;1;2;1;2;2;4;3;4;4;4;4;4;41
+Kushtia;14;301406008;10501406008;Dalal Para;Mondol Para Sadeker Bari;25;113;35;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301406007;10501406007;Dalal Para;Mondol Para Ummote Promaniker Bari;30;135;50;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301406006;10501406006;Dalal Para;Bottola Para Mamuner Bari;20;90;40;1;1;4;1;1;2;1;3;4;4;3;4;1;4;4;4;42
+Kushtia;14;301406005;10501406005;Dalal Para;Dalal Para Imran Sir Ar Bari;26;117;40;1;1;4;1;1;2;1;3;4;4;3;4;1;4;4;4;42
+Kushtia;14;301406003;10501406003;Dalal Para;Dalal Para Muktarer Bari;18;81;36;1;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;42
+Kushtia;14;301406004;10501406004;Dalal Para;Dalal Para Babur Bari;22;99;50;1;1;4;1;1;2;1;3;4;4;3;4;2;4;4;4;43
+Kushtia;14;301406002;10501406002;Dalal Para;Dalal Para Asaduler Bari;15;68;35;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301406001;10501406001;Dalal Para;Dalal Para Jamaler Bari;20;90;50;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301407008;10501407008;Pukurpara;Madar Sha Rajjak Estorer Bari;18;81;38;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301407005;10501407005;Pukurpara;Pukur Para Abdul Rajaker Bari;17;76;50;1;1;4;1;1;1;1;2;2;4;3;3;2;4;4;4;38
+Kushtia;14;301407007;10501407007;Pukurpara;Sadar Sha Roushon Ar Bari;14;63;40;1;1;4;1;1;2;1;3;3;4;3;4;2;4;4;4;42
+Kushtia;14;301407006;10501407006;Pukurpara;Pukur Para Nobin Uddain Ar Bari;10;45;30;1;1;4;1;1;2;1;3;4;4;3;4;2;4;4;4;43
+Kushtia;14;301407001;10501407001;Pukurpara;Madrasha Pukur Para;13;59;50;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301407002;10501407002;Pukurpara;A Merikan Mor Pukur Par;11;49;35;1;1;4;1;1;1;1;3;3;4;4;4;1;4;4;4;41
+Kushtia;14;301407004;10501407004;Pukurpara;A Merikan Mor Pukur Para Mokbuler Bari;11;50;40;1;1;4;1;1;1;1;3;4;4;4;4;1;4;4;4;42
+Kushtia;14;301407003;10501407003;Pukurpara;A Merikan Mor Pukur Para Sal Ali Bari;16;72;40;1;1;4;1;1;2;1;3;4;4;3;4;2;4;4;4;43
+Kushtia;14;301407009;10501407009;Pukurpara;Pukur Para Nur Uddain Bari;19;86;40;1;1;4;1;1;1;1;3;4;4;3;4;1;4;4;4;41
+Kushtia;14;301408001;10501408001;Sordarpara;Jogiya Pahar Ghadi Surmar Bari;5;22;40;3;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;42
+Kushtia;14;301408002;10501408002;Sordarpara;Jogiya Pukur Para Fokir Muhammad Bari;30;135;70;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408003;10501408003;Sordarpara;Monsur Birir Shamne Amirul Bari;10;45;40;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408004;10501408004;Sordarpara;Jogiya Kana Pukur Rohim Fokir Bari;10;42;50;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408005;10501408005;Sordarpara;Jogiya Kodomtola Surjo Dokan;6;28;70;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408006;10501408006;Sordarpara;Jogiya Kodomtola Mohuiduler Bari;18;80;40;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408011;10501408011;Sordarpara;Jogiya Kodomtola Abul Miyar Bari;7;30;60;1;1;4;1;1;2;1;3;3;4;3;4;1;4;4;4;41
+Kushtia;14;301408010;10501408010;Sordarpara;Jogiya Pal Para Anondo Paler Bari;15;70;60;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;14;301408009;10501408009;Sordarpara;15no. Jogiya School Ar Pichone;50;225;50;1;1;4;1;1;1;1;3;3;4;3;4;1;4;4;4;40
+Kushtia;13;301301001;10501301001;Barkhada Uttor para;Hafijur (Haji Sarak);100;505;45;2;1;4;1;1;2;1;4;4;3;3;4;1;4;4;4;43
+Kushtia;13;301301002;10501301002;Barkhada Uttor para;Kalam Kha. Bari;40;220;70;1;1;4;1;1;2;1;4;4;3;3;4;1;4;4;4;42
+Kushtia;13;301301003;10501301003;Barkhada Uttor para;Sumon Ar Bari Elaka;105;525;70;1;1;4;1;1;2;1;4;4;4;2;4;1;4;4;4;42
+Kushtia;13;301301007;10501301007;Barkhada Uttor para;Gaydul Kha. Bari;70;340;50;2;1;4;1;1;3;1;4;3;4;3;4;3;4;4;4;46
+Kushtia;13;301301004;10501301004;Barkhada Uttor para;Soyfaler Bari Elaka;15;75;70;2;1;4;1;1;2;1;4;4;3;3;4;2;4;4;4;44
+Kushtia;13;301301008;10501301008;Barkhada Uttor para;Hatem Ali Para;20;95;50;2;1;4;2;1;3;1;4;4;4;2;4;3;4;4;4;47
+Kushtia;13;301301006;10501301006;Barkhada Uttor para;Nur Uddain Miyar Para;80;410;70;1;1;4;1;1;1;1;4;4;3;3;4;3;4;4;4;43
+Kushtia;13;301301005;10501301005;Barkhada Uttor para;Magataf Shak Elaka;70;350;60;1;1;4;1;1;2;1;4;4;3;3;4;1;4;4;4;42
+Kushtia;13;301301009;10501301009;Barkhada Uttor para;Koborestha Ar uttor Para;80;405;70;3;1;4;1;4;1;1;4;4;4;3;4;3;4;4;4;49
+Kushtia;13;301302001;10501302001;Moddopara;Kudduser Para;10;50;28;1;1;4;1;1;2;1;3;4;4;3;4;1;4;4;4;42
+Kushtia;13;301302002;10501302002;Moddopara;Nazim Uddain Bari;40;200;50;1;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;44
+Kushtia;13;301302003;10501302003;Moddopara;Esabor Ali Para;50;260;50;1;1;4;1;1;2;1;4;4;4;3;4;1;4;4;4;43
+Kushtia;13;301302004;10501302004;Moddopara;Edris Malit Para;80;400;65;1;1;4;1;1;3;1;4;4;4;3;4;2;4;4;4;45
+Kushtia;13;301302005;10501302005;Moddopara;Modho Para Jame Masjeed Ar Purbo Pashe;50;240;75;1;1;4;1;1;2;1;4;4;4;1;4;1;4;4;4;41
+Kushtia;13;301302006;10501302006;Moddopara;Hosne Alaka O Karigori Para;125;600;50;1;1;4;1;1;1;1;4;4;4;3;4;2;4;4;4;43
+Kushtia;13;301302007;10501302007;Moddopara;Mondol Para;50;245;50;4;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;47
+Kushtia;13;301302008;10501302008;Moddopara;Anim Miyar Para;45;230;75;3;1;4;1;1;1;1;4;4;4;4;1;2;4;4;1;40
+Kushtia;13;301302009;10501302009;Moddopara;Ashadul Miyar Para;40;200;60;2;1;4;1;1;3;1;4;4;4;3;4;1;4;4;4;45
+Kushtia;13;301303005;10501303005;Mirpara;Afaj Uddain Ar Bari Hote Mollik Bari;30;150;60;2;1;4;1;1;2;1;4;3;4;3;1;2;4;4;4;41
+Kushtia;13;301303004;10501303004;Mirpara;Kitab Alir Dokan Thake Mer Para;15;70;40;1;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;44
+Kushtia;13;301303003;10501303003;Mirpara;Jame Masjeed Para;60;300;70;1;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;44
+Kushtia;13;301303006;10501303006;Mirpara;Mahabub Ar Baru;25;105;70;2;1;4;1;1;2;1;4;4;3;3;4;2;4;4;4;44
+Kushtia;13;301303002;10501303002;Mirpara;Mir Barir Shamner Uttor Para;40;200;60;1;1;4;1;1;2;1;4;4;4;3;4;1;4;4;4;43
+Kushtia;13;301303001;10501303001;Mirpara;Mir Para Mor;25;105;30;1;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;44
+Kushtia;13;301304005;10501304005;Schoolpara;Abdul/Roshid Ar Bari Hote Filmil Projonto;25;100;75;2;1;4;1;1;2;1;4;4;4;2;4;2;4;4;4;44
+Kushtia;13;301304003;10501304003;Schoolpara;Roniull Ar Bari Elaka;26;130;44;2;1;4;1;1;1;4;4;4;4;1;4;1;4;4;4;44
+Kushtia;13;301304004;10501304004;Schoolpara;Ibrahim Ahamed Ar Para;30;155;48;2;1;4;1;1;4;4;4;4;4;4;4;2;4;4;4;51
+Kushtia;13;301304002;10501304002;Schoolpara;Tofajol Hosen Ar Para;20;100;65;4;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;48
+Kushtia;13;301304001;10501304001;Schoolpara;Amin Uddain Mondol Para;30;150;70;2;1;4;1;1;3;1;4;4;4;2;4;3;4;4;4;46
+Kushtia;13;301304011;10501304011;Schoolpara;Sihab Der Bari;29;160;72;1;1;4;1;1;3;1;4;4;4;4;4;1;4;4;4;45
+Kushtia;13;301304010;10501304010;Schoolpara;Sumon Beshas Bari Elaka;25;105;72;2;1;4;1;1;4;1;4;4;4;2;4;2;4;4;4;46
+Kushtia;13;301304009;10501304009;Schoolpara;Saydur Ar Bari Hote Londrir Dokan;25;125;40;2;1;4;1;1;3;1;4;4;4;2;4;2;4;4;4;45
+Kushtia;13;301304008;10501304008;Schoolpara;Omon Alir Bari Elaka;25;105;72;2;1;4;1;1;2;1;4;4;4;2;4;2;4;4;4;44
+Kushtia;13;301304007;10501304007;Schoolpara;Johir Ar Bari;15;70;50;2;1;4;1;1;3;1;4;4;4;3;4;2;4;4;4;46
+Kushtia;13;301304006;10501304006;Schoolpara;Saydur Islam Ar Para;35;170;55;4;1;4;1;1;4;1;4;4;4;4;4;2;4;4;4;50
+Kushtia;13;301305003;10501305003;Palpara;Johirul Islam;27;135;62;2;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Kushtia;13;301305002;10501305002;Palpara;Giyasuddain;22;105;64;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;13;301305001;10501305001;Palpara;Dinep Odhikari;25;125;55;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;13;301305009;10501305009;Palpara;Shamim Aamed;13;65;28;1;1;4;1;1;2;1;4;4;4;3;4;4;4;4;4;46
+Kushtia;13;301305010;10501305010;Palpara;Palpara (2jong Para Mor);25;125;65;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;13;301305008;10501305008;Palpara;Jeyar Hossain;26;130;72;1;1;4;1;1;3;1;4;4;4;3;4;4;4;4;4;47
+Kushtia;13;301305007;10501305007;Palpara;Palpara Mor;18;90;20;1;3;4;1;1;3;1;4;4;4;4;4;4;4;4;4;50
+Kushtia;13;301305006;10501305006;Palpara;Alauddain Sha;20;100;70;1;3;4;1;1;4;1;4;4;4;4;4;4;4;4;4;51
+Kushtia;13;301305005;10501305005;Palpara;Roshid;45;225;50;1;1;4;1;1;1;1;2;4;4;4;1;1;1;1;1;29
+Kushtia;13;301305004;10501305004;Palpara;Hasan;25;130;46;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;13;301306007;10501306007;Kolonipara;Imon Hosen;27;135;37;1;1;4;4;3;4;4;4;4;4;1;3;4;4;4;4;53
+Kushtia;13;301306006;10501306006;Kolonipara;Roshidul Islam;14;70;37;1;1;4;4;4;4;4;1;4;4;1;4;4;4;4;4;52
+Kushtia;13;301306002;10501306002;Kolonipara;Al Ar Mondol;35;175;55;1;1;4;1;1;1;1;4;4;4;3;4;4;4;4;4;45
+Kushtia;13;301306001;10501306001;Kolonipara;Netali Mollik;17;85;24;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Kushtia;13;301306003;10501306003;Kolonipara;Allal Paromanfi;75;375;47;4;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;52
+Kushtia;13;301306005;10501306005;Kolonipara;Johirul;20;100;65;2;1;4;1;1;4;1;4;4;4;3;4;4;4;4;4;49
+Kushtia;13;301306004;10501306004;Kolonipara;Amirul Islam;35;175;52;1;1;4;1;1;4;4;4;4;4;4;4;4;4;4;4;52
+Kushtia;13;301307009;10501307009;Mollikpara;Rajjak Chacha R Para;20;100;15;1;1;4;1;1;1;2;4;4;4;2;1;2;4;2;1;35
+Kushtia;13;301307008;10501307008;Mollikpara;Abdul Ar Bari Hoyte Islamer Bari;35;175;35;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307010;10501307010;Mollikpara;Sofik Kha Para;20;100;45;1;1;4;1;1;1;2;4;4;4;2;4;1;1;2;1;34
+Kushtia;13;301307011;10501307011;Mollikpara;Chobon Uddain Mollik Para;50;250;25;1;1;4;1;1;1;2;4;4;4;2;4;2;1;2;1;35
+Kushtia;13;301307001;10501307001;Mollikpara;Habdar Mistry Para;16;75;27;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307003;10501307003;Mollikpara;Sojam Begum Bari;36;175;24;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307002;10501307002;Mollikpara;Romjan Alir Bari;30;150;22;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307004;10501307004;Mollikpara;Khayrul Bari;40;200;23;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307005;10501307005;Mollikpara;Altaf Mondol Ar Para;50;250;27;1;1;4;1;1;1;2;4;4;4;2;1;2;1;2;1;32
+Kushtia;13;301307007;10501307007;Mollikpara;Monirul Chachar Bari;20;100;26;1;1;4;1;1;1;1;4;4;4;2;4;2;4;2;1;37
+Kushtia;13;301307006;10501307006;Mollikpara;Faruk/Ismam;15;75;30;1;1;4;1;1;1;1;4;4;4;2;4;2;4;2;1;37
+Kushtia;13;301308004;10501308004;Treemohoni;Shuvo;20;100;20;4;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;47
+Kushtia;13;301308003;10501308003;Treemohoni;Shimul;25;125;30;1;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;44
+Kushtia;13;301308002;10501308002;Treemohoni;Polan;20;100;40;1;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;44
+Kushtia;13;301308001;10501308001;Treemohoni;Mukter Bari Thake Maleyar Bari;10;50;40;4;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;47
+Kushtia;13;301308005;10501308005;Treemohoni;Josim;25;125;22;1;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;44
+Kushtia;13;301308006;10501308006;Treemohoni;Shri Vorot Rag Bongsi;10;50;40;1;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;44
+Kushtia;13;301308007;10501308007;Treemohoni;Bijon;15;75;27;1;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;44
+Kushtia;13;301309001;10501309001;Kanalpara (Treemohoni);Md. Siddik;20;100;25;4;1;4;1;1;1;1;4;4;4;2;1;2;2;2;2;36
+Kushtia;13;301309002;10501309002;Kanalpara (Treemohoni);Md. Roni Islam;30;150;40;4;1;4;1;1;1;1;4;4;4;2;4;2;4;2;4;43
+Kushtia;13;301309003;10501309003;Kanalpara (Treemohoni);Md. Ayruf Ali;25;125;25;4;1;4;1;1;1;4;4;4;4;2;1;2;2;2;1;38
+Kushtia;13;301309004;10501309004;Kanalpara (Treemohoni);Md. Santu Miya;10;40;35;4;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;47
+Kushtia;13;301309005;10501309005;Kanalpara (Treemohoni);Rofikul;15;75;12;4;1;4;1;1;1;1;4;4;4;2;4;2;4;4;4;45
+Kushtia;13;301309006;10501309006;Kanalpara (Treemohoni);Md. Lutfor Hossain;45;225;20;4;1;4;1;1;1;4;4;4;4;2;4;1;4;4;4;47
+Kushtia;13;301309007;10501309007;Kanalpara (Treemohoni);Mokjul;20;100;20;4;1;4;1;1;1;4;4;4;2;1;4;4;4;4;4;47
+Kushtia;13;301309008;10501309008;Kanalpara (Treemohoni);ajela;10;40;15;4;1;4;1;1;1;1;4;4;4;2;4;4;4;4;4;47
+Kushtia;12;301201004;10501201004;Moksed Ali 1;Hannan Doctor Bari Thake Kha Para;255;1275;80;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301201003;10501201003;Moksed Ali 1;Ajiber Bari Hote Hari Puraton Bari;260;1300;80;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301201002;10501201002;Moksed Ali 1;Khapara Abed Ali Chairman Ar Bari Elaka;35;175;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301201001;10501201001;Moksed Ali 1;Khapara Somiler Purbo Pash;30;150;50;1;1;4;1;1;3;2;4;3;4;2;4;1;4;4;4;43
+Kushtia;12;301202006;10501202006;Moksed Ali 2;Nadim Mondoler Bari Thake Gure Lokhay Mistry Ar Bari;35;175;80;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202007;10501202007;Moksed Ali 2;CDC natri rejiyar bari;20;100;70;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202005;10501202005;Moksed Ali 2;Jolil Ar Bari Thake Sona Mondol Ar Bari;174;870;80;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202004;10501202004;Moksed Ali 2;Hannan Doctor Barir Shamne;36;180;70;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202003;10501202003;Moksed Ali 2;Kha Para Ahammod Delar Bari;185;850;70;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202002;10501202002;Moksed Ali 2;Kha Para Masjeed Ar Purbo Pashe;50;250;55;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301202001;10501202001;Moksed Ali 2;Kha Para, Masjeed Ar Poshim Pashe;30;150;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301203007;10501203007;Horisonkorpur;Jonir Bari Thake Housing Fature Bari;70;350;40;1;1;4;1;2;2;2;4;3;4;2;4;1;4;4;4;43
+Kushtia;12;301203001;10501203001;Horisonkorpur;Sosir Bari Thake Saydul Ar Bari;50;250;90;1;1;4;1;3;2;2;4;3;4;2;4;1;4;4;4;44
+Kushtia;12;301203002;10501203002;Horisonkorpur;Rahman Master Ar Bari Thake Khor Baganer Masjed;130;650;90;1;1;4;1;2;2;2;4;3;4;2;4;1;4;4;4;43
+Kushtia;12;301203003;10501203003;Horisonkorpur;Hujur Ar Dokan Ar Shamne;250;1250;30;1;1;4;1;2;2;2;4;3;4;2;4;1;4;4;4;43
+Kushtia;12;301203004;10501203004;Horisonkorpur;Sorif Ar bari Tipur Dokan;70;350;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301203005;10501203005;Horisonkorpur;Shamim Ar Dokan Thake Sattare Ar Bari;95;475;60;1;1;4;1;2;2;2;4;3;4;2;4;1;4;4;4;43
+Kushtia;12;301203006;10501203006;Horisonkorpur;Rina Causilor ar Bari Thake Mithu Bari;150;750;50;1;1;4;4;3;2;2;1;3;4;2;4;1;4;4;4;44
+Kushtia;12;301204004;10501204004;Ghautola Mondolpara;Surafer Bari Thake Jawgad Projonto;155;775;70;1;1;4;2;2;2;2;4;3;4;2;4;1;4;4;4;44
+Kushtia;12;301204003;10501204003;Ghautola Mondolpara;Ansarer Bari Thake Hanif Ar Bari;160;700;70;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301204002;10501204002;Ghautola Mondolpara;Ansarer Bari Thake Hanun Misty Bari;150;750;70;1;1;4;2;2;2;2;4;3;4;2;4;1;4;4;4;44
+Kushtia;12;301204001;10501204001;Ghautola Mondolpara;Somimon Math Thake Amanoter Bari;130;350;70;1;1;4;2;2;2;2;4;3;4;2;4;1;4;4;4;44
+Kushtia;12;301205001;10501205001;Mondolpara Uttor Lahini;Dr. Para Hoyte Amlamer Bari;15;75;60;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301205002;10501205002;Mondolpara Uttor Lahini;Badshar Bari Thake Bondur Bari;30;150;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301205003;10501205003;Mondolpara Uttor Lahini;Bokul Tola Thake Jahangir Bari;35;175;70;1;1;4;1;1;2;2;4;3;4;4;4;1;4;4;4;44
+Kushtia;12;301205004;10501205004;Mondolpara Uttor Lahini;Mohammader Bari Alaka;20;100;50;1;1;4;1;1;2;2;4;3;4;4;4;1;4;4;4;44
+Kushtia;12;301206001;10501206001;Daspara Mistiripara;Engeniyar Delowar Vai Ar Bari Thake Anondo Shamar Bari;70;350;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301206002;10501206002;Daspara Mistiripara;Ram Ar Bari Thake Mamber ar bari;39;195;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;12;301206003;10501206003;Daspara Mistiripara;Ajaharer Bari Thake Lala Doctor Bari;52;260;50;1;1;4;1;1;2;2;4;3;4;2;4;1;4;4;4;42
+Kushtia;11;301101004;10501101004;Mohinimill Coater;Formila Quarter 11/12;40;190;90;2;2;4;3;2;2;1;3;2;4;2;2;1;2;1;1;34
+Kushtia;11;301101003;10501101003;Mohinimill Coater;Formila Quarter 1/10;95;458;85;2;2;4;3;2;2;1;3;2;4;2;2;1;2;1;1;34
+Kushtia;11;301101002;10501101002;Mohinimill Coater;Mil Lain Single Cowater;56;290;80;2;2;4;3;2;2;1;3;2;4;2;2;1;2;1;1;34
+Kushtia;11;301101001;10501101001;Mohinimill Coater;Mil Lain Single Quarter 1/4;45;250;80;2;2;4;3;2;2;1;3;2;4;2;2;1;2;1;1;34
+Kushtia;11;301102006;10501102006;Uttor Lihini 2;Horisonkor pur gate Motiyar Master Ar Bari;19;87;65;1;1;4;1;3;2;3;4;3;4;4;4;2;4;4;4;48
+Kushtia;11;301102005;10501102005;Uttor Lihini 2;Horisonkor pur Mrjonar Bari;22;107;60;2;2;4;1;2;2;4;4;2;4;4;4;2;4;4;4;49
+Kushtia;11;301102004;10501102004;Uttor Lihini 2;Dhopapara Sodor Uddian Ar Bari;25;112;90;2;2;4;1;2;2;2;3;2;4;3;3;2;4;4;4;44
+Kushtia;11;301102003;10501102003;Uttor Lihini 2;Dhopapara Mandir Ar Pashe Pachu Ajider Bari;20;98;70;2;1;4;1;3;2;3;2;2;4;3;3;2;4;4;4;44
+Kushtia;11;301102002;10501102002;Uttor Lihini 2;Dhopapara Mandir Ar Pashe Pachu Sorkar Bari;9;40;65;2;1;4;1;2;2;1;3;2;4;2;4;2;4;4;4;42
+Kushtia;11;301102001;10501102001;Uttor Lihini 2;Horijon Quarter;22;99;90;2;2;4;3;2;2;1;3;2;4;2;2;1;2;1;1;34
+Kushtia;11;301103001;10501103001;Uttor Lihini 1;Milpara Eid Gha Usuf Khan Bari;5;25;25;2;1;4;1;4;2;4;4;4;4;4;3;1;1;2;3;44
+Kushtia;11;301103002;10501103002;Uttor Lihini 1;Adorsho Collage Dokhi Pashe Sukur Bari;12;54;35;4;1;4;1;4;3;4;4;4;4;3;4;2;4;4;4;54
+Kushtia;11;301103003;10501103003;Uttor Lihini 1;Moheni Mil Puraton Hospital Lablu Bari;13;58;30;2;1;4;1;4;1;1;4;3;4;3;2;1;4;2;2;39
+Kushtia;11;301103008;10501103008;Uttor Lihini 1;Uttor Lain Horishankar Purbo Army Islam Bari;15;68;20;4;3;4;1;4;4;4;3;3;4;3;4;2;4;4;4;55
+Kushtia;11;301103006;10501103006;Uttor Lihini 1;Uttor Layne Panir Tanki Uttor Pashe Riyaj Mondol Bari;25;112;40;4;1;4;1;4;3;1;3;3;4;3;4;2;4;4;4;49
+Kushtia;11;301103005;10501103005;Uttor Lihini 1;Horisonkor Pur Masjeed Pichon Ar Riyaj Bari;10;45;60;2;1;4;1;4;3;1;4;3;4;4;4;2;4;4;4;49
+Kushtia;11;301103004;10501103004;Uttor Lihini 1;Horisonkor Pur Masjeed Shapla Bari Pashe;8;36;33;2;1;4;1;3;3;4;4;3;4;4;4;3;4;4;4;52
+Kushtia;11;301103007;10501103007;Uttor Lihini 1;Uttor Layne Panir Tanki Uttor Purbo Pashe Atiyar Rahman Bari;30;135;20;2;1;4;1;4;2;2;3;3;4;3;4;2;4;4;4;47
+Kushtia;11;301104001;10501104001;Milpara;Kanu Babur Bagan Bari;40;180;50;2;1;4;1;1;2;2;2;4;2;1;1;4;3;1;1;32
+Kushtia;11;301104013;10501104013;Milpara;Monder Ar Pashe Tetul Ar Dokan;5;20;30;3;1;4;1;4;3;4;4;4;4;4;1;1;3;2;2;45
+Kushtia;11;301104007;10501104007;Milpara;Mil Para Adorsho Collage;15;65;60;4;1;4;1;4;1;1;4;3;4;3;4;3;4;4;4;49
+Kushtia;11;301104006;10501104006;Milpara;Sohid Dider Lain Mil Para;56;130;20;1;4;4;1;4;1;1;4;2;4;4;4;1;4;4;4;47
+Kushtia;11;301104005;10501104005;Milpara;Mohiny Mil Puraton Hospital Billal Master Bari;12;55;35;2;1;4;1;4;1;4;4;3;4;3;4;2;4;4;4;49
+Kushtia;11;301104004;10501104004;Milpara;Horishokor Pur Purbo Masjeed Pashe;8;36;40;2;1;4;1;4;1;4;4;3;4;3;4;2;4;4;4;49
+Kushtia;11;301104003;10501104003;Milpara;Horishokor Pur Am Madina Milon Bari;26;120;55;1;1;4;1;3;3;2;3;4;4;2;4;3;4;4;4;47
+Kushtia;11;301104008;10501104008;Milpara;Chawl Border Ajim Dokan Para;25;110;35;1;1;4;1;4;1;3;4;3;4;3;4;2;4;4;4;47
+Kushtia;11;301104009;10501104009;Milpara;Chawl Boder Sonlogno Sorkar Tutuli Bari;35;180;45;2;1;4;1;3;2;1;3;3;4;2;4;2;4;4;4;44
+Kushtia;11;301104011;10501104011;Milpara;Chawl Boder S Khan Kamran Khan Bari;20;90;38;4;1;4;1;4;2;4;4;3;4;3;4;2;4;4;4;52
+Kushtia;11;301104010;10501104010;Milpara;Chawl Boder S Khan Sorkar Mohol Dokan;8;35;25;2;1;4;1;4;3;4;1;3;4;2;4;2;4;4;4;47
+Kushtia;11;301104012;10501104012;Milpara;Sohi Jame Masjeed Ar Poshim Pashe;25;112;30;4;1;4;1;4;1;4;3;3;4;3;4;2;4;4;4;50
+Kushtia;11;301104002;10501104002;Milpara;7no. School Purbo Pashe;20;112;25;4;1;4;3;2;2;4;4;3;4;3;1;2;4;2;3;46
+Kushtia;11;301105002;10501105002;Chouler Border;Moheni Mil Ar Dokhin Mauddain Sohag Ar Basha;15;68;80;3;3;4;1;3;3;1;4;3;4;3;4;2;4;4;4;50
+Kushtia;11;301105010;10501105010;Chouler Border;Mil Para Chawl Boarder purbo Pash Rahman Ar basha;10;45;70;4;3;4;4;4;3;4;4;4;3;1;4;3;4;4;4;57
+Kushtia;11;301105001;10501105001;Chouler Border;Ma Monosa Masder Mojumder Ar Basha;11;50;70;3;1;4;3;2;3;1;4;1;4;4;4;1;4;2;2;43
+Kushtia;11;301105007;10501105007;Chouler Border;Mil Para Sahe Jame Masjeed Ar Shamne;15;70;65;3;2;4;1;4;3;1;4;3;4;2;4;2;4;4;4;49
+Kushtia;11;301105009;10501105009;Chouler Border;Chawl Boader Anis Koraymir Basha;10;45;80;2;2;4;3;4;4;1;4;3;4;4;4;3;4;4;4;54
+Kushtia;11;301105005;10501105005;Chouler Border;Choto Wairless Ar Pashe Alabag;12;55;60;2;1;4;2;3;3;2;4;3;4;4;4;2;4;4;4;50
+Kushtia;11;301105003;10501105003;Chouler Border;Moheni Mil Ar Poschim Pashe;30;135;75;1;1;4;1;3;2;1;4;2;4;4;4;2;4;4;4;45
+Kushtia;11;301105004;10501105004;Chouler Border;Moheni Mil Ar Poschim Pashe Masu Ar Basha;40;180;70;2;1;4;1;3;3;1;4;3;4;3;4;3;4;4;4;48
+Kushtia;11;301105008;10501105008;Chouler Border;Chawl Boader Kaji Bappi Ar Basha;6;25;55;1;1;4;3;4;3;1;4;3;4;4;4;2;4;4;4;50
+Kushtia;11;301105006;10501105006;Chouler Border;Nepaly Quarter;40;190;75;3;3;4;1;4;2;1;4;3;4;2;4;1;4;2;2;44
+Kushtia;10;301001002;10501001002;Boro Bazar Char Amlapara;Gobah Math Hoyte Kali Mander;150;750;35;1;1;4;1;2;3;3;3;3;1;2;1;1;1;2;1;30
+Kushtia;10;301001001;10501001001;Boro Bazar Char Amlapara;Chaki Babur Bari Hote Kali Mandir;120;450;30;2;3;4;1;2;3;3;4;3;1;2;1;1;1;1;1;33
+Kushtia;10;301001003;10501001003;Boro Bazar Char Amlapara;Kali Mander Ar Purbo Pash Bader Pather Para;50;200;35;1;1;4;1;2;2;2;4;3;4;2;1;1;1;2;1;32
+Kushtia;10;301001004;10501001004;Boro Bazar Char Amlapara;Nodir Pash Hoyte Govay math;85;400;35;1;1;4;1;1;3;3;3;3;1;2;1;1;1;2;1;29
+Kushtia;10;301001005;10501001005;Boro Bazar Char Amlapara;Govay Mather Uttor Pash Bad Ar Pashe;110;500;35;1;1;4;1;1;3;2;3;4;4;2;1;1;1;2;1;32
+Kushtia;10;301001006;10501001006;Boro Bazar Char Amlapara;Gofurer Barir Pashe;65;320;35;1;1;3;1;1;3;2;4;3;4;2;1;1;1;4;4;36
+Kushtia;10;301001007;10501001007;Boro Bazar Char Amlapara;Ghora Ghat Road Hoyte Bad Projonto;75;350;35;2;1;4;1;1;2;2;3;3;4;2;1;1;1;2;1;31
+Kushtia;10;301002003;10501002003;Madartola;Prithom Hotel Masud Rumi Collage;60;250;30;1;1;4;1;1;2;4;3;3;1;2;1;1;2;4;3;34
+Kushtia;10;301002002;10501002002;Madartola;Atiyur Hujurer Bari Najmar Bari;75;300;25;1;3;4;1;1;3;3;3;3;1;2;1;1;1;2;1;31
+Kushtia;10;301002001;10501002001;Madartola;,Hamidul Ar Dokan Hote Kechmot Ar Bari;110;450;25;4;1;4;1;1;3;3;3;3;1;2;1;1;1;2;1;32
+Kushtia;10;301003002;10501003002;Abason Procolpo;Eyar Ali Bari Hoyte Khelar Matth;70;300;14;1;1;3;1;1;2;1;2;3;1;2;4;1;4;4;4;35
+Kushtia;10;301003001;10501003001;Abason Procolpo;Kakolir Ghor Hoyte Mobaroker Bari;70;280;14;2;1;3;1;1;2;1;2;3;1;2;4;1;4;4;4;36
+Kushtia;10;301003003;10501003003;Abason Procolpo;Srithy Mar Bari Hoyte Liyakot Ar Bari;60;280;14;1;1;3;1;1;2;1;2;3;3;2;4;1;4;4;4;37
+Kushtia;10;301004005;10501004005;Uttor Milpara Middle Part;Enjil Ar Bari Hoyte Kasur Bari;75;300;40;2;1;4;1;3;3;3;4;3;2;2;1;1;2;2;1;35
+Kushtia;10;301004002;10501004002;Uttor Milpara Middle Part;Mufar Bari Hoyte Ukil Bari Projoten;90;254;35;1;1;3;1;1;3;2;2;3;1;2;1;1;1;2;1;26
+Kushtia;10;301004001;10501004001;Uttor Milpara Middle Part;Balika Math Hamaner Bari Hoyte Malfot Bari;95;420;30;1;1;3;1;1;2;1;2;3;4;2;1;1;1;2;1;27
+Kushtia;10;301004003;10501004003;Uttor Milpara Middle Part;Bonnar Dokan Hoyte Jorenar Bari;100;500;35;3;3;4;1;1;3;3;4;3;2;2;1;1;1;2;1;35
+Kushtia;10;301004004;10501004004;Uttor Milpara Middle Part;Ayenuddin Bari Hoyte Mison School;120;600;40;3;1;4;1;3;4;4;3;3;2;3;1;1;1;2;1;37
+Kushtia;10;301004006;10501004006;Uttor Milpara Middle Part;Masjeed Hoyte Pan Alar Bari;75;400;40;2;3;4;1;1;4;2;4;4;2;1;1;1;1;1;1;33
+Kushtia;10;301004008;10501004008;Uttor Milpara Middle Part;Boder Bari Hoyte Selimer Bari;90;450;25;1;1;2;1;1;1;1;2;3;1;2;1;1;1;2;1;22
+Kushtia;10;301004007;10501004007;Uttor Milpara Middle Part;Nijayer Bari Hoyte Sabaner Bari;75;300;400;3;3;3;1;1;3;1;3;3;2;2;1;1;1;2;1;31
+Kushtia;10;301004009;10501004009;Uttor Milpara Middle Part;Barek Ar Bari Boro Drain;80;450;25;1;1;3;1;1;1;1;3;3;2;2;1;1;1;2;1;25
+Kushtia;10;301004010;10501004010;Uttor Milpara Middle Part;Ayub Ar Bari Hoyte Rubel Ar Dokan;130;600;35;1;1;3;1;2;2;3;3;3;1;2;1;1;1;2;1;28
+Kushtia;10;301004011;10501004011;Uttor Milpara Middle Part;Armir Bari Hoyte Mollar Mil;30;150;50;4;1;4;1;2;3;3;4;3;3;3;4;1;4;4;4;48
+Kushtia;10;301005001;10501005001;Balughat to Mohashasan;Sujon Ar Bari Hoyte Najur Bari;42;210;35;1;1;4;1;1;2;1;3;3;4;2;1;1;1;2;1;29
+Kushtia;10;301005002;10501005002;Balughat to Mohashasan;Korim Ar Bari Hoyte daul Shil Sultaner Bari;55;275;30;1;1;4;1;1;2;1;3;3;4;2;1;1;1;2;1;29
+Kushtia;10;301005003;10501005003;Balughat to Mohashasan;Elaher Bari Hote Faruk Ar Bari;40;200;30;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301005004;10501005004;Balughat to Mohashasan;Rebar Bari Hote Pannar Bari;30;150;30;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301005005;10501005005;Balughat to Mohashasan;Maleker Bari Thake Kolponar Bari;50;250;30;1;1;4;1;1;2;1;3;3;4;2;1;1;1;2;1;29
+Kushtia;10;301005006;10501005006;Balughat to Mohashasan;Hakimer Bari Musan;63;315;30;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301005007;10501005007;Balughat to Mohashasan;Mosiur Bari Thake Khaleker Bari;40;200;30;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301005008;10501005008;Balughat to Mohashasan;Notun Para Vul Para;40;200;30;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301005009;10501005009;Balughat to Mohashasan;Sasoner Purbo Pash Elaka;20;100;30;1;1;3;1;1;3;1;4;3;4;2;1;1;1;2;1;30
+Kushtia;10;301005010;10501005010;Balughat to Mohashasan;Park Ar Pashe Notun Para-2;20;100;30;1;1;2;1;1;2;1;4;3;4;2;1;1;1;2;2;29
+Kushtia;10;301005011;10501005011;Balughat to Mohashasan;Park Ar Pashe Notun Para-1;25;100;20;1;1;4;1;1;2;1;2;3;4;2;1;1;1;2;1;28
+Kushtia;10;301006013;10501006013;Milpara East Debi Proshad Road;Sosti Babur Bari Sihab Ar Bari;25;125;70;1;1;4;1;2;2;2;4;3;4;2;1;1;1;2;1;32
+Kushtia;10;301006012;10501006012;Milpara East Debi Proshad Road;Kanti Ar Bari Hoyte Adisir Bari;30;150;70;2;1;4;1;2;2;2;4;3;4;2;1;1;1;2;1;33
+Kushtia;10;301006011;10501006011;Milpara East Debi Proshad Road;Khil Bazar Hoyte Bishonath Ar Bari;35;175;55;4;4;4;1;4;4;3;4;3;4;3;4;1;4;2;1;50
+Kushtia;10;301006006;10501006006;Milpara East Debi Proshad Road;Khokon Ar Bari Hoyte Sakor Mor Hoyte Poschim Rojir Bari Projonto;40;200;40;3;1;4;1;4;2;4;4;3;4;2;1;1;1;2;1;38
+Kushtia;10;301006005;10501006005;Milpara East Debi Proshad Road;Apjaler Bari Hoyte Rohman Ar Bari Poschim Bari Projonto;40;200;40;3;1;4;1;2;2;2;4;3;4;2;1;1;1;2;1;34
+Kushtia;10;301006007;10501006007;Milpara East Debi Proshad Road;Sujon Ar Bari Hoyte Sukular Bari Projon to;50;250;40;2;1;4;1;1;2;1;4;3;4;2;1;1;1;2;1;31
+Kushtia;10;301006008;10501006008;Milpara East Debi Proshad Road;Soleman Ar Bari Hoyte dholar Bari Rajjak;45;225;40;2;1;4;1;1;2;1;4;3;4;2;1;1;1;2;1;31
+Kushtia;10;301006009;10501006009;Milpara East Debi Proshad Road;Moynar Bari Hoyte Raju Bari;60;300;40;1;1;4;1;1;2;1;4;3;4;2;1;1;1;2;1;30
+Kushtia;10;301006010;10501006010;Milpara East Debi Proshad Road;Sohidul Ar Bari Hoyte Khajar Factory Rail Gate Projonto;20;100;40;1;1;4;1;1;2;2;3;3;4;2;1;1;1;2;1;30
+Kushtia;10;301006001;10501006001;Milpara East Debi Proshad Road;Hospital Hotel Soleman Ar Bari/ Mintu Bari Projonto;60;300;40;3;1;4;1;4;2;4;4;3;4;2;1;1;1;2;1;38
+Kushtia;10;301006002;10501006002;Milpara East Debi Proshad Road;Jalaler Bari Thake Amjad Bari;80;400;40;3;1;4;1;4;2;4;4;3;4;2;1;1;1;2;1;38
+Kushtia;10;301006003;10501006003;Milpara East Debi Proshad Road;Gopaler Bari Hote Bacchur Bari Projonto;40;200;40;3;1;4;1;4;2;4;4;3;4;2;1;1;1;2;1;38
+Kushtia;10;301006004;10501006004;Milpara East Debi Proshad Road;Mukaddem Vai Ar Bari Hoyte Delep Ar Bari/ Jiyar Bari Projonto;50;250;40;3;2;4;1;4;2;3;4;3;4;2;1;1;1;2;1;38
+Kushtia;10;301007004;10501007004;Station Road & Daoasle Para;Fomsul Ulum Madrasha Hoyte Kalar Dokan;70;350;70;2;2;4;1;2;2;2;4;3;3;2;1;1;1;2;1;33
+Kushtia;10;301007001;10501007001;Station Road & Daoasle Para;Rotin Chowdory Ar Bari Hoyte Mambubar Bari;45;225;70;3;2;4;1;2;2;2;4;2;4;2;1;1;1;2;1;34
+Kushtia;10;301007002;10501007002;Station Road & Daoasle Para;Birijaber Bari Hoyte Tehajer Bari;80;400;70;1;2;4;1;2;2;2;4;2;4;2;1;1;1;2;1;32
+Kushtia;10;301007003;10501007003;Station Road & Daoasle Para;Emasdas Para Hoyte Nofor Sahar Majar;90;450;70;2;2;4;1;2;2;2;4;3;4;2;1;1;1;2;1;34
+Kushtia;10;301008003;10501008003;Moddho Milpara;Muslim School/ Lalon Jamal School Food Godown;50;250;60;2;2;4;1;2;2;2;4;3;4;2;1;1;1;2;1;34
+Kushtia;10;301008002;10501008002;Moddho Milpara;Suypar Colony;90;450;60;1;1;4;1;4;2;2;1;2;4;2;1;1;1;2;1;30
+Kushtia;10;301008001;10501008001;Moddho Milpara;Boshir Khan Ar Bari Hoyte Hasan Ar Dokan;40;200;60;2;2;4;1;2;2;2;4;3;4;2;1;1;1;2;1;34
+Kushtia;9;300901001;10500901001;D Block And E Block;Moniyar Ali Road/ Eid gha Ar Pichon Pashe o Profesor Tawar Ar Goli;5;22;24;1;2;4;3;3;1;4;3;3;4;4;4;2;4;4;4;50
+Kushtia;9;300902008;10500902008;Eyakub Road And Liyakot Road;Abu Bokkor Hujur o Sohidullah Khan Ar Bari Goli;18;81;20;1;1;4;1;4;1;4;2;3;4;4;4;2;4;4;4;47
+Kushtia;9;300902007;10500902007;Eyakub Road And Liyakot Road;Mostofa, Toksed Chacha o Ansar Mori Ar Bari;12;54;29;1;1;4;1;3;1;4;4;4;4;4;4;1;4;4;4;48
+Kushtia;9;300902002;10500902002;Eyakub Road And Liyakot Road;Rohmot Ali Bayler (Kebil Khan Ar Bari);5;22;72;1;1;4;1;3;2;4;4;2;4;4;4;4;4;4;4;50
+Kushtia;9;300902001;10500902001;Eyakub Road And Liyakot Road;Nojrul Ar Bari Masjeed Ar Pichone;5;24;25;4;1;4;4;1;4;4;4;3;4;4;4;1;4;4;4;54
+Kushtia;9;300902015;10500902015;Eyakub Road And Liyakot Road;Torun, Giyas Ar Bari;11;47;33;1;1;4;1;2;1;4;3;3;4;4;4;1;4;4;4;45
+Kushtia;9;300902012;10500902012;Eyakub Road And Liyakot Road;Ainur, Asay/ Alim Rofikul Ar Bari;14;63;80;2;1;4;1;3;1;4;2;3;4;4;4;1;4;4;4;46
+Kushtia;9;300902014;10500902014;Eyakub Road And Liyakot Road;Abdul Jabbar, Atiyur Rahman Ar Bari;5;22;92;1;1;4;1;1;2;4;3;3;4;4;4;3;4;4;4;47
+Kushtia;9;300902013;10500902013;Eyakub Road And Liyakot Road;Bablu, Janu o Masud Master Ar Bari;22;98;90;2;3;4;1;2;2;4;3;3;4;4;4;2;4;4;4;50
+Kushtia;9;300902010;10500902010;Eyakub Road And Liyakot Road;Kutila, Joli/ Jabed Amsur Ar Bari;20;91;26;1;1;4;1;3;1;4;2;3;4;4;4;2;4;4;4;46
+Kushtia;9;300902011;10500902011;Eyakub Road And Liyakot Road;Pavel Polash/ Rojsar Chacha o Hanif Musa Ar Bari;20;90;38;1;1;4;1;3;1;3;3;3;4;3;4;1;4;4;4;44
+Kushtia;9;300902009;10500902009;Eyakub Road And Liyakot Road;aliul o Alim Ar Bari ba Sohidul Ar Bari;17;77;47;1;1;3;1;1;1;2;2;2;4;4;4;1;4;4;4;39
+Kushtia;9;300902006;10500902006;Eyakub Road And Liyakot Road;Ajgor, Agbor/ Akter Hamja Ar Bari;13;59;34;1;2;4;1;3;1;4;4;3;2;4;4;1;4;4;4;46
+Kushtia;9;300902005;10500902005;Eyakub Road And Liyakot Road;Darud Kamal Unus/ Khokon mohor ar bari;12;55;42;3;1;4;1;1;1;4;4;4;4;4;4;1;4;4;4;48
+Kushtia;9;300902004;10500902004;Eyakub Road And Liyakot Road;Hasni Jaman Lalon Baylen Amirul Forid Ati/ Omon Fojor Ar Bvari;11;54;68;1;1;4;1;1;2;4;3;3;4;4;4;1;4;4;4;45
+Kushtia;9;300902003;10500902003;Eyakub Road And Liyakot Road;Shimul Polash/ Nur Jala Chacha Der Bari;10;38;55;1;1;4;1;1;1;4;4;2;3;4;4;1;4;4;4;43
+Kushtia;9;300903015;10500903015;Hori Bashor;Isfon Mondir Mostofa;20;90;70;1;1;4;3;1;1;4;2;4;4;3;4;1;4;4;4;45
+Kushtia;9;300903016;10500903016;Hori Bashor;Sohidul/Ohidul;15;68;70;1;1;4;1;1;1;4;4;3;4;3;4;1;4;4;4;44
+Kushtia;9;300903007;10500903007;Hori Bashor;Nur Islam Kota;25;113;70;1;1;4;1;2;2;4;3;4;4;4;4;2;4;4;4;48
+Kushtia;9;300903005;10500903005;Hori Bashor;Sukumar Dao;15;68;60;2;2;4;2;2;1;4;2;4;4;3;4;2;4;4;4;48
+Kushtia;9;300903006;10500903006;Hori Bashor;Narayon Chokroborte;60;270;40;2;1;4;2;2;2;4;2;3;4;3;4;1;4;4;4;46
+Kushtia;9;300903004;10500903004;Hori Bashor;Tekon/Tapos;25;113;60;1;1;4;1;2;3;4;3;3;4;3;4;1;4;4;4;46
+Kushtia;9;300903003;10500903003;Hori Bashor;Biman Kola Bikreta;20;90;80;1;1;4;1;4;2;4;3;3;4;3;4;1;4;4;4;47
+Kushtia;9;300903001;10500903001;Hori Bashor;Mir Mosarof Hosen Road, Torun Basa;15;67;70;1;3;4;3;3;2;4;3;3;4;3;4;2;4;4;4;51
+Kushtia;9;300903002;10500903002;Hori Bashor;Monir Ujjamin Sarak, Golam Rabbi;20;90;50;2;2;4;3;3;3;4;3;2;4;3;4;3;4;4;4;52
+Kushtia;9;300903009;10500903009;Hori Bashor;Amir Ali/ Nisan;20;90;72;2;1;4;4;1;1;4;3;3;4;3;4;1;4;4;4;47
+Kushtia;9;300903010;10500903010;Hori Bashor;Piyar/ Eyar;25;113;70;1;1;4;2;4;3;4;3;3;4;1;4;2;4;4;4;48
+Kushtia;9;300903013;10500903013;Hori Bashor;Sowrob/Hanif;40;88;50;1;1;4;1;2;1;4;3;3;4;3;4;1;4;4;4;44
+Kushtia;9;300903008;10500903008;Hori Bashor;Rasu Islam;26;113;70;1;2;4;1;4;1;4;2;3;4;3;4;1;4;4;4;46
+Kushtia;9;300903011;10500903011;Hori Bashor;Alom/Aslam;20;55;60;1;1;4;3;2;1;4;3;3;4;2;4;3;4;4;4;47
+Kushtia;9;300903012;10500903012;Hori Bashor;Gandi/Alom Mondol;15;68;60;3;1;4;2;3;3;4;3;3;4;3;4;2;4;4;4;51
+Kushtia;9;300903017;10500903017;Hori Bashor;E-Block Khalar Mather Uttor;17;75;60;1;1;4;1;3;2;4;3;3;4;3;4;2;4;4;4;47
+Kushtia;9;300903014;10500903014;Hori Bashor;Bokkar/Mukul;20;90;50;1;1;4;3;1;1;4;3;3;4;3;4;1;4;4;4;45
+Kushtia;9;300904004;10500904004;Bishwass Para;SB Sol Lain Babul Khan;6;19;65;3;1;4;1;1;3;4;3;3;4;3;4;3;4;4;4;49
+Kushtia;9;300904002;10500904002;Bishwass Para;Volenath Shal Mem Dolir Bari;20;90;30;1;1;4;1;1;1;1;3;3;4;4;4;1;4;4;4;41
+Kushtia;9;300904001;10500904001;Bishwass Para;Dow Para Volanath Pan Lain Beplob Sikder;6;23;20;1;1;4;3;4;2;4;4;4;4;4;4;3;4;4;4;54
+Kushtia;9;300904007;10500904007;Bishwass Para;SB Sol Lain Tofajol Tese Kanu;6;21;55;3;1;4;1;4;3;4;3;4;4;4;4;1;4;4;4;52
+Kushtia;9;300904008;10500904008;Bishwass Para;Monirujaman Lain Dis Babu;15;80;100;1;1;4;1;1;1;1;3;3;3;4;4;1;4;4;4;40
+Kushtia;9;300904012;10500904012;Bishwass Para;BB 1 Lain Roshidul;12;42;90;1;2;4;1;2;1;3;2;4;4;4;4;1;4;4;4;45
+Kushtia;9;300904006;10500904006;Bishwass Para;SB Sol Lain Ayua Para;13;38;90;1;1;4;1;4;3;4;3;3;4;4;3;2;4;4;4;49
+Kushtia;9;300904011;10500904011;Bishwass Para;Monirul Jaman Sarak Bablu;7;19;100;2;1;4;1;1;1;1;3;4;3;4;4;4;4;4;4;45
+Kushtia;9;300904003;10500904003;Bishwass Para;Dow Para Volenath Pal Lain Roton Beshas;5;23;20;1;1;4;1;3;2;4;3;3;4;4;4;1;4;4;4;47
+Kushtia;9;300904014;10500904014;Bishwass Para;Bahadur Bishas 1 Lain, Rina Ma;15;55;40;1;2;3;1;3;3;4;1;3;3;4;4;4;4;4;4;48
+Kushtia;9;300904015;10500904015;Bishwass Para;BB 1 Lain Jahagir Master Ali;6;30;70;2;3;4;2;1;2;4;3;3;4;4;4;2;4;4;4;50
+Kushtia;9;300904016;10500904016;Bishwass Para;BB 1 Lain, Juyal;16;62;60;1;3;4;2;2;1;4;1;3;4;4;3;1;4;4;4;45
+Kushtia;9;300904017;10500904017;Bishwass Para;BB 1 Lain, Golamer Bari;10;41;90;2;3;3;2;3;2;4;3;2;4;4;4;2;4;4;4;50
+Kushtia;9;300904018;10500904018;Bishwass Para;Abdul Ajij Sarak Miku;9;48;70;4;4;4;1;1;1;4;3;3;3;4;4;1;4;4;4;49
+Kushtia;9;300904010;10500904010;Bishwass Para;Monirul Jamal Sarak Nojrul Islam;8;28;80;3;1;4;2;4;3;4;3;4;4;4;4;1;4;4;4;53
+Kushtia;9;300904009;10500904009;Bishwass Para;Monirujaman Sarak Rofikul Islam Babu;7;21;60;2;1;2;2;1;2;1;3;4;3;4;4;1;4;4;4;42
+Kushtia;9;300904005;10500904005;Bishwass Para;SB Sol Lain Faruk;7;25;69;2;1;4;1;1;3;4;3;3;4;4;4;2;4;4;4;48
+Kushtia;9;300904013;10500904013;Bishwass Para;BB 1 Lain Omon Ali Masum Goli;18;53;90;3;1;4;4;3;2;4;2;4;3;4;4;1;4;4;4;51
+Kushtia;9;300905004;10500905004;Rajar Hat;Rojob Ali Khan Road Molla;15;53;60;3;1;3;2;2;1;4;1;2;2;3;2;1;3;4;3;37
+Kushtia;9;300905001;10500905001;Rajar Hat;Chonromiya Sonal Estil/Bubul/Mishe Ali;12;35;70;4;1;4;1;3;1;4;4;4;4;4;4;4;4;4;4;54
+Kushtia;9;300905003;10500905003;Rajar Hat;Abdula Ajij Sarak Mojdul Ala;6;36;70;2;3;4;3;2;2;3;3;3;3;4;4;2;3;4;4;49
+Kushtia;9;300905002;10500905002;Rajar Hat;BK Saha Ahamed Ali, Mas Ali;18;50;70;3;1;4;4;2;2;4;2;2;2;1;4;1;4;4;4;44
+Kushtia;9;300905008;10500905008;Rajar Hat;Shri Ram Sureka Lain Kurban Ali;8;24;100;3;3;4;4;3;3;4;1;1;1;4;4;1;4;2;3;45
+Kushtia;9;300905006;10500905006;Rajar Hat;Rojob Ali Khan Road Rema Selom;10;60;50;2;3;3;4;1;1;3;1;2;2;4;1;1;1;2;3;34
+Kushtia;9;300905007;10500905007;Rajar Hat;Rojob Ali Khan Road Ujjol;12;45;80;3;3;4;4;2;2;4;3;4;4;4;4;1;4;4;4;54
+Kushtia;9;300905005;10500905005;Rajar Hat;Rojon Ali Khan Road Rina;24;61;29;2;2;4;2;1;1;4;2;3;3;4;4;1;3;2;4;42
+Kushtia;8;300801005;10500801005;Mondol Para;Salam Baburchir Bari;20;85;60;2;3;4;1;1;1;2;3;1;1;1;1;1;4;4;4;34
+Kushtia;8;300801004;10500801004;Mondol Para;Sahin Denter Ar Bari;30;150;60;2;3;3;2;1;2;4;3;1;3;4;4;4;1;4;4;45
+Kushtia;8;300801002;10500801002;Mondol Para;Dughu Vai Bari;15;65;50;2;1;4;2;1;3;4;4;3;4;2;4;4;4;4;4;50
+Kushtia;8;300801001;10500801001;Mondol Para;Roton Sohber Bari Kuddus Misrty Bari;10;35;32;1;1;3;1;1;3;1;3;1;2;3;4;1;4;4;4;37
+Kushtia;8;300801003;10500801003;Mondol Para;Mannaner Bari;18;50;40;3;1;2;2;1;3;4;4;4;4;4;4;4;4;4;4;52
+Kushtia;8;300801006;10500801006;Mondol Para;Maruder Bari;15;55;40;2;2;4;4;1;1;4;4;1;1;1;3;3;4;4;4;43
+Kushtia;8;300801007;10500801007;Mondol Para;Forida Parvin Ar Barir Pashe Ashad Chachar Goli;16;60;50;3;3;4;2;1;2;4;3;2;3;1;3;3;4;4;4;46
+Kushtia;8;300801008;10500801008;Mondol Para;Momotaj Cauncilor;30;135;50;3;3;4;2;1;1;2;4;3;2;1;1;3;4;1;4;39
+Kushtia;8;300802006;10500802006;Mondol Para 2;Anisur Rahman Ar Barir Pashe;25;100;60;1;1;3;1;1;1;4;3;2;4;1;4;1;4;4;4;39
+Kushtia;8;300802002;10500802002;Mondol Para 2;Villu At Barir Pashe;20;80;60;1;1;3;3;1;3;3;4;3;4;4;4;4;4;4;4;50
+Kushtia;8;300802008;10500802008;Mondol Para 2;Sosir Dokan Goli;8;32;80;1;1;2;1;1;2;4;4;4;4;3;4;4;4;4;4;47
+Kushtia;8;300802009;10500802009;Mondol Para 2;Maniker Barir Pashe;11;45;60;2;1;1;1;1;2;4;4;3;4;2;4;4;4;4;4;45
+Kushtia;8;300802010;10500802010;Mondol Para 2;Bishu Driver ar Bari;10;34;70;1;1;1;1;1;1;4;4;2;4;3;4;4;4;4;4;43
+Kushtia;8;300802007;10500802007;Mondol Para 2;Abdul Rajjar Ar Dokaner Pashe, Abul Barir Pichone;15;60;60;1;1;2;3;1;1;2;4;2;4;2;4;4;4;4;4;43
+Kushtia;8;300802005;10500802005;Mondol Para 2;Barir Pashe Pant Khowa;25;100;70;1;1;2;1;1;1;3;3;2;4;2;3;4;4;4;4;40
+Kushtia;8;300802004;10500802004;Mondol Para 2;Kajir Barir Para;15;60;40;2;2;4;4;1;2;4;4;2;4;3;4;4;4;4;4;52
+Kushtia;8;300802003;10500802003;Mondol Para 2;Muslima Chachir Bari Sahar Ali;30;130;60;1;1;3;2;1;2;3;4;2;4;3;4;4;4;4;4;46
+Kushtia;8;300802001;10500802001;Mondol Para 2;Forid Bari Chacha;15;62;90;1;1;3;4;1;2;3;4;2;4;3;4;4;4;4;4;48
+Kushtia;8;300803003;10500803003;Tula Potti;Rahman Goli;12;48;70;1;2;3;2;3;2;4;4;3;4;4;4;4;3;4;4;51
+Kushtia;8;300803002;10500803002;Tula Potti;Moni;25;113;50;1;1;3;1;1;2;2;3;3;4;2;3;1;3;4;4;38
+Kushtia;8;300803001;10500803001;Tula Potti;Kotol Sogor Bari;15;70;40;2;1;3;1;1;2;3;2;3;4;2;2;1;3;4;4;38
+Kushtia;8;300804007;10500804007;Arua para- Mosque bari;Boro Goli;20;90;60;2;2;4;2;2;3;4;3;3;4;2;4;3;4;4;4;50
+Kushtia;8;300804008;10500804008;Arua para- Mosque bari;Sohid Didar Pichoner Goli;18;83;15;1;1;2;1;1;2;1;2;3;4;2;3;1;2;3;3;32
+Kushtia;8;300804006;10500804006;Arua para- Mosque bari;Jalal Chachar Goli;15;67;55;2;1;3;2;3;3;4;3;3;4;2;4;1;4;4;4;47
+Kushtia;8;300804009;10500804009;Arua para- Mosque bari;Saheb Ali Vai Aqr Goli;17;77;14;1;1;2;1;1;2;1;3;3;4;2;2;1;3;2;2;31
+Kushtia;8;300804001;10500804001;Arua para- Mosque bari;Runu Chachar Bari;15;68;45;3;1;3;2;1;2;2;3;3;4;2;4;1;4;4;4;43
+Kushtia;8;300804002;10500804002;Arua para- Mosque bari;Hayder Masud Bosote;34;135;50;2;1;3;1;1;2;3;2;3;4;2;4;1;4;4;4;41
+Kushtia;8;300804003;10500804003;Arua para- Mosque bari;Sohel Kakar Goli;20;90;40;2;1;3;3;2;1;2;3;3;4;2;4;1;4;4;4;43
+Kushtia;8;300804004;10500804004;Arua para- Mosque bari;Rajsafer Goli;25;113;40;2;1;3;2;2;3;3;3;3;4;2;4;1;4;4;4;45
+Kushtia;8;300804005;10500804005;Arua para- Mosque bari;Kek Sen Ar Goli;11;47;70;2;3;3;1;4;2;4;4;4;4;4;4;4;4;4;4;55
+Kushtia;9;300904019;10500904019;Bishwass Para;Abdul Ajij Sarak, Ami Miya Omon Ali Anjuman;13;58;50;2;2;3;1;4;1;4;1;2;4;4;4;2;4;4;4;46
+Kushtia;3;300303014;10500303014;Kuthipara Slum;Ripon Vai Ar Estor Dokan;97;486;30;3;3;4;1;3;3;3;3;4;4;3;4;2;4;4;4;52
+Kushtia;3;300303015;10500303015;Kuthipara Slum;Julumiyar Bari;62;280;32;3;3;4;1;3;3;3;3;4;4;3;4;2;4;4;4;52
+Kushtia;3;300303016;10500303016;Kuthipara Slum;SA Poribohon Ar Pichon A Rofikul Vai;129;597;35;3;4;4;1;3;3;3;4;3;4;3;4;2;4;4;4;53
+Kushtia;3;300303003;10500303003;Kuthipara Slum;Afsarer Bari;32;127;17;2;3;4;1;1;2;1;3;3;4;2;3;2;2;2;2;37
+Kushtia;3;300303002;10500303002;Kuthipara Slum;Pannar Bari;48;207;20;2;3;4;1;1;2;1;3;3;4;2;2;2;2;2;2;36
+Kushtia;3;300303001;10500303001;Kuthipara Slum;Haji Md. Santom;42;196;15;3;3;4;1;1;2;1;3;3;4;2;2;2;2;2;2;37
+Kushtia;3;300303004;10500303004;Kuthipara Slum;Murader Bari;57;241;17;2;3;4;1;1;2;1;3;3;4;2;3;2;2;2;2;37
+Kushtia;3;300303005;10500303005;Kuthipara Slum;Selimer Bari;35;149;18;2;3;4;1;1;2;1;3;3;4;2;3;2;2;2;2;37
+Kushtia;3;300303009;10500303009;Kuthipara Slum;Sompa Apar Bari;87;397;23;3;3;4;1;1;2;1;2;2;3;2;2;2;3;2;3;36
+Kushtia;3;300303006;10500303006;Kuthipara Slum;Sorif Mistry;32;131;22;2;3;4;1;1;2;1;3;3;4;2;3;2;2;2;2;37
+Kushtia;3;300303007;10500303007;Kuthipara Slum;Vuttar Bari;29;137;20;2;3;4;1;1;2;2;3;3;4;2;3;2;2;2;3;39
+Kushtia;3;300303011;10500303011;Kuthipara Slum;Anjader Bari;11;49;20;2;3;4;1;1;2;1;2;3;4;2;2;2;2;2;2;35
+Kushtia;3;300303008;10500303008;Kuthipara Slum;Rajur Bari;35;169;22;3;3;4;1;1;2;2;1;2;4;2;3;2;2;2;3;37
+Kushtia;3;300303010;10500303010;Kuthipara Slum;Moyna;155;620;25;3;3;4;1;1;2;2;2;2;4;2;2;2;3;2;3;38
+Kushtia;3;300303012;10500303012;Kuthipara Slum;Bablur Bari;33;137;23;2;3;4;1;1;2;1;2;3;4;2;2;2;2;2;2;35
+Kushtia;3;300303013;10500303013;Kuthipara Slum;Tube Well Ar Pichone Gada Bosote;280;1301;25;2;3;4;1;1;2;1;2;3;4;2;2;2;2;2;2;35
+Kushtia;17;301704005;10501704005;Mina Para;Purbo Fokir Para;27;100;150;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301704004;10501704004;Mina Para;Fokir Para;34;153;200;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301704003;10501704003;Mina Para;Modho Para;84;378;200;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301704002;10501704002;Mina Para;Sohidul Beshs Para;48;219;180;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301704001;10501704001;Mina Para;Beshs Para;21;95;140;2;1;4;1;1;2;1;4;3;4;3;4;1;3;4;4;42
+Kushtia;17;301705001;10501705001;Jhalu Para;Makhon Miya Bari;10;45;100;2;1;4;1;1;1;1;3;3;4;2;4;1;4;4;4;40
+Kushtia;17;301705004;10501705004;Jhalu Para;Gonapara Shehaber Bari;20;105;125;2;1;4;1;1;1;4;4;3;4;3;4;2;4;4;4;46
+Kushtia;17;301705003;10501705003;Jhalu Para;Sowkoter Bari;15;75;120;2;1;4;1;1;1;2;3;3;4;2;4;2;4;4;4;42
+Kushtia;17;301705002;10501705002;Jhalu Para;Refajer Dokan;22;110;120;2;1;4;1;1;1;1;3;3;4;3;4;2;4;4;4;42
+Kushtia;17;301705005;10501705005;Jhalu Para;Masjeed Para;20;97;100;2;1;4;1;1;1;4;4;3;4;3;4;2;4;4;4;46
+Kushtia;17;301705009;10501705009;Jhalu Para;Soyrof Mondol;11;39;70;1;1;2;1;1;1;1;4;3;4;4;3;1;4;4;4;39
+Kushtia;17;301705008;10501705008;Jhalu Para;Mintu Doctor;11;55;50;1;1;4;1;1;2;1;4;3;4;3;4;2;4;4;4;43
+Kushtia;17;301705011;10501705011;Jhalu Para;Wasim Ar Bari;14;59;25;2;1;4;1;1;1;1;3;3;4;3;3;2;3;4;4;40
+Kushtia;17;301705006;10501705006;Jhalu Para;Jora Bot Gach;8;45;100;2;1;4;1;1;2;3;4;3;4;4;3;3;4;4;4;47
+Kushtia;17;301705010;10501705010;Jhalu Para;Eidgha Para;15;80;70;1;1;4;1;1;1;1;4;3;4;3;3;1;3;3;4;38
+Kushtia;17;301705015;10501705015;Jhalu Para;Eskar Birer Bari;20;110;120;2;2;4;1;1;1;1;4;2;4;3;4;3;4;4;4;44
+Kushtia;17;301705014;10501705014;Jhalu Para;Habibur Master;8;40;70;2;2;4;1;1;1;2;4;3;4;3;4;4;4;4;4;47
+Kushtia;17;301705013;10501705013;Jhalu Para;Rohij Mondol;30;150;130;2;1;4;1;1;1;1;4;3;4;3;4;4;4;4;4;45
+Kushtia;17;301705012;10501705012;Jhalu Para;Rahim;30;140;80;1;1;4;1;1;1;1;4;3;4;3;3;1;4;4;4;40
+Kushtia;17;301705007;10501705007;Jhalu Para;Mosarof Beshaser Bari;15;85;70;1;1;4;1;1;1;1;4;3;4;4;4;3;4;4;4;44

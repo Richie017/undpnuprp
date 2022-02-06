@@ -1,0 +1,12 @@
+<div id="main-nav" class="hidden-phone hidden-tablet">
+    <ul>
+        {% for menuitem in context.menu %}
+            <li>
+            <a href="{{ menuitem.link }}" class="{{ menuitem.active }}">
+                {{ menuitem.title }}
+            </a>{{ menuitem.title }}
+
+        {% endfor %}
+    </ul>
+    <div class="clearfix"></div>
+</div>

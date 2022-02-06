@@ -1,0 +1,14 @@
+<!-- TODO List of options should be shown
+
+<a href="" ng-click="toggle_response_list(item)" ng-class="item.meta.question_type_class">
+<i ng-class="item.meta.question_type_icon_class + ' ' + item.meta.question_type_icon" ng-show="item.type === 'select_one' || item.type === 'select_many' || item.type === 'select_multiple' || item.type === 'free_choice_field'"></i>
+-->
+
+<a href="" ng-click="toggle_response_list(item)" ng-class="item.meta.question_type_class">
+    <i ng-class="item.meta.question_type_icon_class + ' ' + item.meta.question_type_icon" ng-show="false"></i>
+
+    {{ item.type }}
+</a>
+<ul class="question__responses" ng-show="item.meta.show_responses">
+    <li class="question__response-option" ng-repeat="response in item.responses">{{ response }}</li>
+</ul>

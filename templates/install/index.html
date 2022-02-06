@@ -1,0 +1,40 @@
+{% extends "account/_login_layout.html" %}
+
+{% block title %}
+    Login: Reach Plus
+{% endblock %}
+
+{% block content %}
+    <div class="container-fluid">
+        {% include "shared/_plain_header.html" %}
+        <div class="span4" style="float:none; margin:100px auto auto;">
+            <fieldset>
+                <legend>System Information</legend>
+                <form role="form" action="" method="post">
+                    {% csrf_token %}
+                    {% load widget_tweaks %}
+                    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+                        {% for field in form %}
+                            <div class="form-group">
+                                <label for="{{ field.name.lower }}">{{ field.label }}</label>
+                                {% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ field.name.lower }}"></span>
+                                {{ field.errors }}
+                            </div>
+                        {% endfor %}
+                        <hr/>
+                    {% endwith %}
+                    <input type="submit" name="submit" class="btn btn-default pull-right" value="Login" />
+                </form>
+            </fieldset>
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    <script src="{{STATIC_URL}}assets/js/jquery-2.0.3.min.js?v=1.1.0"></script>
+    <script src="{{STATIC_URL}}assets/js/date-time/bootstrap-datepicker.min.js?v=1.1.0"></script>
+    <script src="{{BLACKWIDOW_LIBS_URL}}validation/jquery.validate.min.js?v=1.1.0"></script>
+    <script src="{{BLACKWIDOW_LIBS_URL}}validation/jquery.validate.unobtrusive.min.js?v=1.1.0"></script>
+    <script src="{{STATIC_URL}}overrides/js/form-validation.js?v=1.1.0"></script>
+{% endblock %}

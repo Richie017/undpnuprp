@@ -1,0 +1,247 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-6 col-md-6 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+{% endblock %}
+{% block styles %}
+    <style>
+        h1 {
+            text-align: center;
+            font-size: large;
+            margin-top: -10px;
+            margin-bottom: 10px;
+        }
+
+        .custom-widget {
+            background-color: #FFFAFA;
+            box-shadow: 10px 10px 5px #888888;
+            border-radius: 6px;
+            padding-top: 30px;
+        }
+
+        #id_widget_0, #id_widget_1 {
+            height: 150px;
+        }
+
+        #id_widget_2, #id_widget_3 {
+            height: 300px;
+        }
+
+        .custom-row-fluid {
+            padding-bottom: 50px;
+            padding-top: 10px;
+        }
+
+        .table-container > table {
+            margin: 0 auto;
+            width: 80%;
+        }
+
+        .custom-data-table {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 90%;
+        }
+
+        .custom-data-table th, .custom-data-table td {
+            border: 1px solid #ddd;
+            text-align: center;
+            padding: 3px;
+        }
+
+        .custom-data-table tr:nth-child(even) {
+            background-color: #f2f2f2
+        }
+
+        .custom-data-table tr:hover {
+            background-color: #ddd;
+        }
+
+        .custom-data-table th {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-color: #00a99d;
+            color: white;
+        }
+
+    </style>
+
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+        {% load widget_tweaks %}
+        {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            <div class="col-lg-6 col-md-6 col-sm-8 form-horizontal report-content-top">
+                {% for field in parameters.G1 %}
+                    <div class="control-group">
+                        <label class="control-label"
+                               for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="controls">
+                            <div class="input-append date datetimepicker">
+                                &nbsp;&nbsp;
+                                &nbsp;&nbsp;{% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-8 form-horizontal report-content-top">
+                <div class="control-group">
+                    <label class="control-label"></label>
+
+                    <div class="controls">
+                        <button class="btn generic-btn-style btn-large" id="dashboard-refresh-btn" style="float: right;">
+                            Update Data
+                        </button>
+                    </div>
+                </div>
+            </div>
+        {% endwith %}
+    </div>
+    <legend></legend>
+    <div class="row-fluid report-container" style="margin: 20px 0;">
+        <div id="report-view" class="span11">
+            <div class="col-lg-6 col-md-6 form-horizontal report-content-top">
+                <div class="row-fluid custom-row-fluid">
+                    <div class="row-fluid" style="margin-bottom: 20px;">
+                        <div class="custom-widget" id="id_widget_0">
+                            <h1>Loading...</h1>
+
+                            <div class="table-container">
+                                <table></table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="custom-widget" id="id_widget_2">
+                            <h1>Loading...</h1>
+
+                            <div class="table-container">
+                                <table class="custom-data-table"></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 form-horizontal report-content-top">
+                <div class="row-fluid custom-row-fluid">
+                    <div class="row-fluid" style="margin-bottom: 20px;">
+                        <div class="custom-widget" id="id_widget_1">
+                            <h1>Loading...</h1>
+
+                            <div class="table-container">
+                                <table></table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="custom-widget" id="id_widget_3">
+                            <h1>Loading...</h1>
+
+                            <div class="table-container">
+                                <table class="custom-data-table"></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+
+        function loadReportData() {
+            var parameters = {
+                from_date: $("#id_from_date").val(),
+                to_date: $("#id_to_date").val()
+            };
+            $('#dashboard-refresh-btn').html('Updating...');
+            for (var i = 0; i < 4; i++) {
+                $('#id_widget_' + i).children('h1').html('Loading...');
+                $('#id_widget_' + i).children('div').children('table').html("<div class='alert alert-info'>Please, wait for a moment.</div>");
+            }
+
+            $.ajax({
+                url: '?format=json',
+                type: 'get',
+                data: parameters,
+                dataType: 'json',
+                success: function (result) {
+                    console.log(result);
+                    $('#dashboard-refresh-btn').html('Update Data');
+
+                    for (var i = 0; i < 4; i++) {
+                        var widgetElement = $('#id_widget_' + i);
+                        $(widgetElement).children('h1').html(result[i]['header']);
+                        if (result[i]['data'].length > 0) {
+                            $(widgetElement).children('div').children('table').html(result[i]['data']);
+                        } else {
+                            $(widgetElement).children('div').children('table').html("<center>No record in the specified time range.</center>");
+                        }
+                    }
+                },
+                error: function (ad) {
+
+                }
+            });
+        }
+
+        $(function () {
+            $(".date-selector").datepicker({format: 'dd-mm-yyyy'});
+            $(".datetimepicker").datetimepicker({
+                pick12HourFormat: true,
+                pickTime: false
+            });
+            if ($("#id_from_date").val() == "") {
+                var today = new Date();
+                var one_week = (today.getDate() - 7);
+                var one_week_old_date = new Date(today.setDate(one_week));
+
+                var year_start = new Date();
+                year_start.setYear(one_week_old_date.getFullYear());
+                year_start.setMonth(one_week_old_date.getMonth());
+                year_start.setDate(one_week_old_date.getDate());
+                year_start.setHours(0);
+                year_start.setMinutes(0);
+                year_start.setSeconds(0);
+                $("#id_from_date").val($.datepicker.formatDate("d/mm/yy", one_week_old_date));
+            }
+            if ($("#id_to_date").val() == "") {
+                var today = new Date();
+                var yesterday = (today.getDate()-1);
+                var yesterday_date = new Date(today.setDate(yesterday));
+                $("#id_to_date").val($.datepicker.formatDate("d/mm/yy", yesterday_date));
+            }
+
+            $(document).on("click", ".date-button-left", function () {
+                var input = $(this).parent().find(".date-time-picker");
+                input.val($.datepicker.formatDate("d/mm/yy", new Date($.datepicker.parseDate("d/mm/yy", input.val()).getTime() - (1 * 24 * 60 * 60 * 1000))));
+            });
+
+            $(document).on("click", ".date-button-right", function () {
+                var input = $(this).parent().find(".date-time-picker");
+                input.val($.datepicker.formatDate("d/mm/yy", new Date($.datepicker.parseDate("d/mm/yy", input.val()).getTime() + (1 * 24 * 60 * 60 * 1000))));
+            });
+
+            $('#dashboard-refresh-btn').on("click", function () {
+                loadReportData();
+            });
+
+            $('#dashboard-refresh-btn').trigger('click');
+        });
+    </script>
+{% endblock %}

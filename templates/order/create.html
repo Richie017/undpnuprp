@@ -1,0 +1,87 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <h1>
+        {{ model_meta.model_name }}
+        <small>
+            <i class="icon-double-angle-right"></i>
+            create &amp; edit
+        </small>
+        <div class="btn-group pull-right">
+            <input type="button" name="submit" id="submit_top" class="manage-button btn btn-primary btn-medium"
+                   value="Save"/>
+            <input type="button" name="cancel" class="manage-button btn btn-cancel btn-medium" value="Cancel"/>
+        </div>
+    </h1>
+{% endblock %}
+
+{% block content %}
+    {% if form.allow_encryption == False %}
+        <form id="create_form" action="" method="post" class="form form-horizontal">
+    {% else %}
+        <form id="create_form" enctype="multipart/form-data" action="" method="post" class="form form-horizontal">
+    {% endif %}
+{% csrf_token %}
+{% include 'shared/display-templates/_generic_form.html' with  form=form %}
+<div class="form-actions">
+    <input type="submit" name="submit" class="btn btn-primary btn-medium" value="Save"/>
+    <input type="button" name="cancel" class="btn btn-cancel btn-medium" value="Cancel"/>
+</div>
+</form>
+
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/create-view.js?v=1.1.5"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#submit_top").on('click', function () {
+                $("#create_form").find("input[name='submit']").click();
+            });
+
+            $(".btn-cancel").on('click', function () {
+                history.go(-1);
+            });
+        });
+    </script>
+
+    <script src="{{ STATIC_URL }}assets/js/knockout-3.3.0.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}assets/js/knockout.mapping-latest.js?v=1.1.0"></script>
+    {% for key, child_form, v in form.child_forms %}
+        {% if child_form.render_table %}
+            <script type="text/javascript">
+                var FormModel_{{ child_form.prefix|replace_with_underscore:'-' }} = function(){
+                    var self = this;
+                    return self;
+                };
+
+                var FormSetModel_{{ child_form.prefix|replace_with_underscore:'-' }} = function(){
+                    var self = this;
+                    return self;
+                };
+
+                var CreateViewModel_{{ child_form.prefix|replace_with_underscore:'-' }} = function(){
+                    var self = this;
+                    self.formsets = ko.observableArray([]);
+                    self.add_formset = function(obj, e){
+                        self.formsets.push(new FormSetModel_{{ child_form.prefix|replace_with_underscore:'-' }}());
+                        updateSelect2Fields($(e.currentTarget).closest("table"));
+                    };
+                    self.remove_formset = function(obj, e){
+                        self.formsets.remove(obj);
+                    };
+                    return self;
+                };
+
+
+                var view_model_{{ child_form.prefix|replace_with_underscore:'-' }} = new CreateViewModel_{{ child_form.prefix|replace_with_underscore:'-' }}();
+                $(function(){
+                    ko.applyBindings(view_model_{{ child_form.prefix|replace_with_underscore:'-' }}, $("#div-" + "{{ child_form.prefix }}").get(0));
+                });
+            </script>
+        {% else %}
+        {% endif %}
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,228 @@
+{% extends "shared/_viewport.html" %}
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ display_model }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-7">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            {% for btn in manage_buttons %}
+                {% if btn.action_type == 'all-multi-action' %}
+                    <li>
+                        <a class="btn btn-medium manage-action {{ btn.action_type }} dropdown-toggle"
+                           data-toggle="dropdown" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}&nbsp;<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for submenuitem in btn.items %}
+                                <li><a data-url="{% url submenuitem.url_name %}{{ submenuitem.parameters }}"
+                                       href="{% url submenuitem.url_name %}{{ submenuitem.parameters }}">{{ submenuitem.name }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% else %}
+                    <li>
+                        <a class="manage-action  btn btn-medium {{ btn.action_type }}"
+                           disabled="true" data-url="{{ btn.link }}" href="{{ btn.link }}">
+                            <i class="{{ btn.icon }}"></i>
+                            <span>{{ btn.name }}</span>
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+    </div> <!--//.COL-->
+{% endblock %}
+
+{% block content %}
+    <div style="margin-bottom: 30px">
+        <h4>MPI Calculation (Must run before indicators and grantees)</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="mpi">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Calculate MPI"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="clear_mpi">
+            <input type="submit" name="submit" class="btn btn-medium btn-danger" value="Erase All MPI"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>PG Member Indicators (Used in dashboards, must run before grantees)</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_pg_member_indicator">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Update PG Members Indicator"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="clear_pg_member_info_cache">
+            <input type="submit" name="submit" class="btn btn-medium btn-danger" value="Erase PG Member Indicators"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Developers</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="write_api_log">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Write API Logs to Database"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Eligible Grantee List</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_eligible_grantees">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Generate Eligible Grantee List"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="clear_eligible_grantees">
+            <input type="submit" name="submit" class="btn btn-medium btn-danger" value="Erase Eligible Grantees"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Send Email with Survey Data</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="survey_export_email">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Prepare & Send Survey Response Excel"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Survey Response Excel</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="survey_response_excel">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Prepare Survey Response Excel"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>CDC & SCG Report</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_savings_and_credit_alert">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Generate Savings and Credit Alert"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="auto_approve_pending_cdc_scg_report">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Approve SCG & CDC Reports(pending)"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Survey Statistics</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_survey_statistics">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Generate Survey Statistics"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="clear_survey_statistics">
+            <input type="submit" name="submit" class="btn btn-medium btn-danger" value="Erase All Survey Statistics"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Dynamic Survey</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="delete_disabled_survey_and_its_responses">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Delete disabled survey and its responses"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Cumulative Report</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_cumulative_report">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Generate Cumulative Report"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="clear_cumulative_report">
+            <input type="submit" name="submit" class="btn btn-medium btn-danger" value="Erase All Cumulative Report"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Short Listed Eligible Grantee</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_poverty_index_short_listed_grantee">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Update MPI Score"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_todays_exported_files">
+            <input type="submit" name="submit" class="btn btn-medium btn-success"
+                   value="Generate Today's Exported Files"/>
+        </form>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_exported_files">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Generate Exported Files"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Update Third Party API Data</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_third_party_api_data">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Update API Data"/>
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Update MPI Score for Short Listed Grantee's Survey Response</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="generate_poverty_index_short_listed_grantee">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Update MPI Score"/>
+
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Create Missing/New SCG from Existing/Newly-Created PG</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="create_scg_for_newly_created_pg">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Create SCG from PG"/>
+
+        </form>
+    </div>
+    <div style="margin-bottom: 30px">
+        <h4>Process Scheduled PMF Queues</h4>
+        <form action="" method="post" class="form form-horizontal">
+            {% csrf_token %}
+            <input type="hidden" name="service" value="process_scheduled_pmf_queues">
+            <input type="submit" name="submit" class="btn btn-medium btn-success" value="Process Queues"/>
+
+        </form>
+    </div>
+{% endblock %}
+
+{% block childscripts %}
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/jquery.floatThead.min.js?v=1.1.0"></script>
+    {% if enable_map == True %}
+        <script src="{{ STATIC_URL }}js/map-view.js?v=1.1.0"></script>
+    {% endif %}
+{% endblock %}

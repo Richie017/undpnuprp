@@ -1,0 +1,103 @@
+{% load report_tags %}
+
+<div id="dynamic_survey_form" style="display: none; padding: 50px 50px 50px 10px"
+     class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+
+
+        <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+             style="padding-right: 0;">
+            {% for field in parameters.G1 %}
+                <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                     style="display: block; padding: 0;">
+                    <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                    <div class="col-md-12 col-sm-12 controls"
+                         style="padding-left: 0;">
+                        {% render_field field|add_error_class:'input-validation-error' %}
+                        <span class="field-validation-valid" data-valmsg-replace="true"
+                              data-valmsg-for="{{ field.name.lower }}"></span>
+                        {{ field.errors }}
+                    </div>
+                    {% if field|is_multiple_choice %}
+                        <label class="checkbox-label">
+                            <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                            <span></span>
+                            Add all
+                        </label>
+
+                        <label class="checkbox-label">
+                            <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                            <span></span>
+                            Clear all
+                        </label>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+             style="padding-right: 0;">
+            {% for field in parameters.G2 %}
+                <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                     style="display: block; padding: 0;">
+                    <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                    <div class="col-md-12 col-sm-12 controls"
+                         style="padding-left: 0;">
+                        {% render_field field|add_error_class:'input-validation-error' %}
+                        <span class="field-validation-valid" data-valmsg-replace="true"
+                              data-valmsg-for="{{ field.name.lower }}"></span>
+                        {{ field.errors }}
+                    </div>
+                    {% if field|is_multiple_choice %}
+                        <label class="checkbox-label">
+                            <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                            <span></span>
+                            Add all
+                        </label>
+
+                        <label class="checkbox-label">
+                            <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                            <span></span>
+                            Clear all
+                        </label>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="custom-col-3 col-md-4 col-sm-12 form-horizontal report-content-top"
+             style="padding-right: 0;">
+            {% for field in parameters.G3 %}
+                <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                     style="display: block; padding: 0;">
+                    <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                    <div class="col-md-12 col-sm-12 controls"
+                         style="padding-left: 0;">
+                        {% render_field field|add_error_class:'input-validation-error' %}
+                        <span class="field-validation-valid" data-valmsg-replace="true"
+                              data-valmsg-for="{{ field.name.lower }}"></span>
+                        {{ field.errors }}
+                    </div>
+                    {% if field|is_multiple_choice %}
+                        <label class="checkbox-label">
+                            <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                            <span></span>
+                            Add all
+                        </label>
+
+                        <label class="checkbox-label">
+                            <input class="clear_all" type="checkbox" name="{{ field.name.lower }}_clear_all">
+                            <span></span>
+                            Clear all
+                        </label>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+    {% endwith %}
+</div>

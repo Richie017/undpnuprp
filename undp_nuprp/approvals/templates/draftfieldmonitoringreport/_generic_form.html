@@ -1,0 +1,64 @@
+{% load widget_tweaks %}
+{% load blackwidow_filter %}
+{% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+    {% if form.Meta.render_tab %}
+        {% include 'shared/display-templates/_generic_tabbed_form.html' %}
+    {% else %}
+        {% for child_form in form.prefix_child_forms %}
+            {% if child_form.render_table %}
+                {% include 'undp_nuprp/approvals/templates/draftfieldmonitoringreport/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% else %}
+                {% include 'undp_nuprp/approvals/templates/draftfieldmonitoringreport/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% endif %}
+        {% endfor %}
+        {% if form.render_table %}
+            {% for group_name, form_fields in form|apply_fields_grouping|name_value_pair:False %}
+                {% if group_name != '' %}
+                    <h6 class="header blue h6-text">{{ group_name }}</h6>
+                {% endif %}
+                {% for field in form_fields %}
+                    {% include 'shared/display-templates/_generic_table_form_field.html' %}
+                {% endfor %}
+            {% endfor %}
+        {% else %}
+            {% for group_name, form_fields in form|apply_fields_grouping|name_value_pair:False %}
+                {% if group_name != '' %}
+                    <h6 class="header blue h6-text">{{ group_name }}</h6>
+                {% endif %}
+                <div class="col-sm-12 fbx-content-shop">
+                    <div class="fbz-product-content-left">
+                        {% if form.show_form_inline %}
+                            <ul class="list-inline"> {% endif %}
+                        {% for field in form_fields %}
+                            {% include 'shared/display-templates/form-field/_generic_form_field.html' %}
+                        {% endfor %}
+                        {% if form.show_form_inline %} </ul> {% endif %}
+                    </div>
+                    <!--//PRODUCT CONTENT LEFT-->
+                </div> <!--//.COL 6-->
+            {% endfor %}
+        {% endif %}
+        {% for child_form in form.suffix_child_forms %}
+            {% if child_form.render_table %}
+                {% include 'undp_nuprp/approvals/templates/draftfieldmonitoringreport/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% else %}
+                {% include 'undp_nuprp/approvals/templates/draftfieldmonitoringreport/_generic_formset.html' with child_form=child_form counter=forloop.counter0 %}
+            {% endif %}
+        {% endfor %}
+        {% if form.editable_tables %}
+            {% for editable_tables in form.editable_tables %}
+                {% include "common/tables/custom_table_editable_renderer.html" with table_data=editable_tables %}
+            {% endfor %}
+        {% endif %}
+    {% endif %}
+{% endwith %}
+{% block childscripts2 %}
+    <script>
+        function loadSelect2() {
+            $('.select').select2();
+        }
+
+        window.onload = loadSelect2;
+    </script>
+    {#    <script type="text/javascript" src="{{ STATIC_URL }}js/specific/editable-table/editable-table-renderer.js"/>#}
+{% endblock %}

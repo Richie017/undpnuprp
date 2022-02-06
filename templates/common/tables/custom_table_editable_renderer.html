@@ -1,0 +1,54 @@
+<style>
+    .edit-button {
+        display: none;
+    }
+
+    .tb-cell:hover .edit-button {
+        display: block;
+    }
+
+    #tb-cell-input {
+        display: none;
+    }
+</style>
+
+{% load blackwidow_filter %}
+
+<div class="profile-info-row col-md-12 col-sm-12" style="float: none">
+    <div style="font-size: 14px;font-weight: bold;padding: 15px 0px 10px 5px;">{{ table_data.name }}</div>
+    {% if table_data.description %}
+        <p>{{ table_data.description }}</p>
+    {% endif %}
+    <table class="table table-striped table-bordered table-condensed dataTable no-footer"
+           style="padding: 5px 5px 15px 5px;">
+        <thead>
+        {% for header in table_data.headers %}
+            <th>{{ header }}</th>
+        {% endfor %}
+        </thead>
+        <tbody>
+        {% for row in table_data.rows %}
+            <tr>
+                {% for cell in row %}
+                    <td class="tb-cell">
+                        {% if forloop.counter0 == 0 %}
+                            {% if cell|check_type == 'dict' %}{{ cell.value }}{% else %}{{ cell }}{% endif %}
+                        {% else %}
+                            <input type="{{ cell.input_type }}" style="width: 95%;" class="table-cell-input"
+                                   id="table-input-{{ table_data.table_value_id }}-{{ cell.row_id }}-{{ cell.column_id }}"
+                                   name="table-input-{{ table_data.table_value_id }}-{{ cell.row_id }}-{{ cell.column_id }}"
+                                   value="{% if cell|check_type == 'dict' %}{{ cell.value }}{% else %}{{ cell }}{% endif %}"/>
+                            </td>
+                        {% endif %}
+                {% endfor %}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script type="text/javascript">
+    $(".table-cell-input").change(function () {
+        $(this).css("border-color", "cyan");
+    });
+</script>

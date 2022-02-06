@@ -1,0 +1,191 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        $(".control-label").css("width", "400px");
+
+        $(function () {
+            $("select[id$='loan_status']").each(function () {
+                var loan_status = $(this).val();
+                if (loan_status === 'Applied' || loan_status === 'Approved' || loan_status === '') {
+                    hide_loan_status_fields(this);
+                } else {
+                    show_loan_status_fields(this);
+                }
+            });
+
+            $("select[id$='is_pg_member']").each(function () {
+                var is_pg_member = $(this).val();
+                if (is_pg_member === 'Yes' || is_pg_member === 'Yes') {
+                    show_pg_member_fields(this);
+                } else {
+                    hide_pg_member_fields(this);
+                }
+            });
+
+            calculate_repayment_status_fields();
+        });
+
+        var hide_pg_member_fields = function (id_pg_member_fields) {
+            $("input[id$='pg_member_number']").parents('.control-group').hide();
+            $("input[id$='pg_name']").parents('.control-group').hide();
+            $("input[id$='cdc_name']").parents('.control-group').hide();
+            $("input[id$='cdc_cluster_name']").parents('.control-group').hide();
+        }
+
+        var show_pg_member_fields = function (id_pg_member_fields) {
+            $("input[id$='pg_member_number']").parents('.control-group').show();
+            $("input[id$='pg_name']").parents('.control-group').show();
+            $("input[id$='cdc_name']").parents('.control-group').show();
+            $("input[id$='cdc_cluster_name']").parents('.control-group').show();
+        }
+
+        var hide_loan_status_fields = function (id_loan_status_fields) {
+            $("input[id$='approved_loan_amount']").parents('.control-group').hide();
+            $("input[id$='loan_tenure']").parents('.control-group').hide();
+            $("input[id$='loan_start_date']").parents('.control-group').hide();
+            $("input[id$='loan_end_date']").parents('.control-group').hide();
+            $("input[id$='interest_rate']").parents('.control-group').hide();
+        };
+
+        var show_loan_status_fields = function (id_loan_status_fields) {
+            $("input[id$='approved_loan_amount']").parents('.control-group').show();
+            $("input[id$='loan_tenure']").parents('.control-group').show();
+            $("input[id$='loan_start_date']").parents('.control-group').show();
+            $("input[id$='loan_end_date']").parents('.control-group').show();
+            $("input[id$='interest_rate']").parents('.control-group').show();
+        };
+
+        var calculate_repayment_status_fields = function () {
+            var loan_amount = parseFloat($("input[id$='approved_loan_amount']").val());
+            var loan_tenure = parseInt($("input[id$='loan_tenure']").val());
+            var interest_rate = parseFloat($("input[id$='interest_rate']").val());
+            var number_of_due_installments = parseFloat($("input[id$='number_of_due_installments']").val());
+            var number_of_paid_installments = parseFloat($("input[id$='number_of_paid_installments']").val());
+            if (loan_amount === '') {
+                loan_amount = 0.00
+            }
+            if (loan_tenure === '') {
+                loan_tenure = 0
+            }
+            if (interest_rate === '') {
+                interest_rate = 0.00
+            }
+            if (number_of_due_installments === '') {
+                number_of_due_installments = 0
+            }
+            if (number_of_paid_installments === '') {
+                number_of_paid_installments = 0
+            }
+            var monthly_installment_amount = 0;
+            var total_due_amount = 0;
+            var total_repayment_amount = 0;
+            var number_of_overdue_installments = 0;
+            var overdue_amount = 0;
+            if (loan_amount > 0 && loan_tenure > 0) {
+                // Equation = (Loan Amount*Interest Rate * 0.01/12)/(1-(1+ Interest Rate * 0.01/12)^(-Loan Tenure))
+                monthly_installment_amount = (loan_amount * interest_rate * 0.01 / 12) / (1 - (1 + interest_rate * 0.01 / 12) ** (-loan_tenure))
+            }
+            total_due_amount = monthly_installment_amount * number_of_due_installments
+            total_repayment_amount = monthly_installment_amount * number_of_paid_installments
+            number_of_overdue_installments = number_of_due_installments - number_of_paid_installments
+            overdue_amount = total_due_amount - total_repayment_amount
+
+            $("[id$='-monthly_installment_amount']").each(function () {
+                $(this)[0].value = monthly_installment_amount.toFixed(2)
+            })
+            $("[id$='-total_due_amount']").each(function () {
+                $(this)[0].value = total_due_amount.toFixed(2)
+            })
+            $("[id$='-total_repayment_amount']").each(function () {
+                $(this)[0].value = total_repayment_amount.toFixed(2)
+            })
+            $("[id$='-number_of_overdue_installments']").each(function () {
+                $(this)[0].value = number_of_overdue_installments.toFixed(2)
+            })
+            $("[id$='-overdue_amount']").each(function () {
+                $(this)[0].value = overdue_amount.toFixed(2)
+            })
+        }
+
+        $("select[id$='loan_status']").on('change', function () {
+            var loan_status = $(this).val();
+            if (loan_status === 'Applied' || loan_status === 'Approved' || loan_status === '') {
+                hide_loan_status_fields(this);
+            } else {
+                show_loan_status_fields(this);
+            }
+        });
+
+        $("select[id$='is_pg_member']").on('change', function () {
+            var is_pg_member = $(this).val();
+            if (is_pg_member === 'Yes' || is_pg_member === 'Yes') {
+                show_pg_member_fields(this);
+            } else {
+                hide_pg_member_fields(this);
+            }
+        });
+
+        $("input[id$='approved_loan_amount']").on('change', function () {
+            calculate_repayment_status_fields()
+        });
+        $("input[id$='loan_tenure']").on('change', function () {
+            calculate_repayment_status_fields()
+        });
+        $("input[id$='interest_rate']").on('change', function () {
+            calculate_repayment_status_fields()
+        });
+        $('.btn-inline-addmore').on('click', function () {
+            setTimeout('calculate_repayment_status_fields()', 2000);
+        })
+
+        $("input[id$='monthly_installment_amount'], input[id$='number_of_due_installments']").on('change', function () {
+            calculate_repayment_status_fields()
+        })
+
+        $("input[id$='monthly_installment_amount'], input[id$='number_of_paid_installments']").on('change', function () {
+            calculate_repayment_status_fields()
+        })
+
+        $("input[id$='number_of_due_installments'], input[id$='number_of_paid_installments']").on('change', function () {
+            calculate_repayment_status_fields()
+        })
+
+        $("input[id$='total_due_amount'], input[id$='total_repayment_amount']").on('change', function () {
+            calculate_repayment_status_fields()
+        })
+
+        $("input[id$='pg_member_number']").on('change', function () {
+            var assigned_code = $(this).val()
+            $.ajax({
+                type: "GET",
+                url: "/primary-group-members/",
+                dataType: "json",
+                data: {
+                    'assigned_code': assigned_code,
+                    'search': 1,
+                    'format': 'json'
+                },
+                success: function (result) {
+                    console.log(result)
+                    if (result['items'].length == 1) {
+                        let item = result['items'][0];
+                        if (assigned_code == item['assigned_code']) {
+                            $("input[id$='pg_name']")[0].value = item['primary_group']
+                            $("input[id$='cdc_name']")[0].value = item['cdc']
+                            $("input[id$='cdc_cluster_name']")[0].value = item['cdc_cluster']
+                        } else {
+                            $("input[id$='pg_name']")[0].value = ""
+                            $("input[id$='cdc_name']")[0].value = ""
+                            $("input[id$='cdc_cluster_name']")[0].value = ""
+                        }
+                    } else {
+                        $("input[id$='pg_name']")[0].value = ""
+                        $("input[id$='cdc_name']")[0].value = ""
+                        $("input[id$='cdc_cluster_name']")[0].value = ""
+                    }
+                }
+            });
+        })
+    </script>
+{% endblock %}

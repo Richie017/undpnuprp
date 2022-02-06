@@ -1,0 +1,162 @@
+{% load staticfiles %}
+{% load custom_tags %}
+<html>
+<head>
+    <title>Invoice</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}" media="screen,projection">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/print.css' %}" media="print">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+</head>
+<body>
+<div class="page">
+    <header>
+        <h3>Invoice</h3>
+    </header>
+    <div id="invoice_heading">
+        <h5>ORDER REFERENCE:
+            {% if data.delivery_transaction %}
+                {{ data.delivery_transaction.pk }}
+            {% else %}
+                ---<br><br>DRAFT CHALLAN
+            {% endif %}
+        </h5>
+    </div>
+    <table id="first_table" border="1">
+        <tr>
+            <td style="padding: 5px" rowspan="3" class="top-left-text">
+                <p><strong> Invoice </strong><br>
+                    {{ data.warehouse.address }}
+                </p>
+            </td>
+            <td style="padding: 5px" class="entry-field"> Invoice
+                No.<br><strong>{{ data.delivery_transaction.pk }} </strong></td>
+            <td style="padding: 5px" class="entry-field"> Dated: <br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" class="entry-field"> Delivery Note <br></td>
+            <td style="padding: 5px" class="entry-field"> Mode/Terms of Payment <br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" class="entry-field"> Supplier's Ref. <br></td>
+            <td style="padding: 5px" class="entry-field"> Mode/Terms of Payment <br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" rowspan="5" class="top-left-text">
+                <p> Buyer<br><strong>{{ data.client.code }}-{{ data.client.name }}</strong></p>
+            </td>
+            <td style="padding: 5px" class="entry-field"> Buyer's Order No.<br></td>
+            <td style="padding: 5px" class="entry-field"> Dated<br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" class="entry-field"> Despatch Document No.<br></td>
+            <td style="padding: 5px" class="entry-field"> Dated<br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" class="entry-field"> Despatched through<br></td>
+            <td style="padding: 5px" class="entry-field"> Dated<br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" class="entry-field"> Despatched through<br></td>
+            <td style="padding: 5px" class="entry-field"> Destination<br></td>
+        </tr>
+        <tr>
+            <td style="padding: 5px" colspan="2" class="entry-field-big"> Terms of Delivery</td>
+        </tr>
+    </table>
+    <table id="second_table">
+        <tr id="second_head_row">
+            <td class="sl_no">Sl No</td>
+            <td class="desc_group"> Description Of Goods</td>
+            <td class="quantity"> Quantity</td>
+            <td class="rate"> Rate</td>
+            <td class="per"> Per</td>
+            <td class="amount"> Amount</td>
+        </tr>
+        {% for i in data.breakdown.all %}
+            <tr style="padding: 5px" id="second_content_row">
+                <td style="padding:5px; text-align:center;"><p> {{ forloop.counter }} </p></td>
+                <td style="padding:5px; font-weight:bold;"><p> {{ i.product.name }} {{ i.product.description }} </p>
+                </td>
+                <td style="padding:5px; text-align:right;"><p> {{ i.quantity }} {{ i|unit_name }} </p></td>
+                <td style="padding:5px; text-align:right;"><p> {{ i.unit_price }} </p></td>
+                <td style="padding:5px; text-align:right;"><p> {{ i|unit_name }} </p></td>
+                <td style="padding:5px; text-align:right;"><p> {{ i.total }} </p></td>
+            </tr>
+        {% endfor %}
+        <tr id="second_content_row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <hr>
+            </td>
+        </tr>
+        <tr id="second_content_row">
+            <td style="text-align:center;"></td>
+            <td style="font-weight:bold;"></td>
+            <td style="text-align:right;"></td>
+            <td style="text-align:right;"></td>
+            <td style="text-align:right;"></td>
+            <td style="padding:5px; text-align:right;">
+                {{ data.render_total_transaction_value }}
+            </td>
+        </tr>
+        <tr id="second_content_row">
+            <td></td>
+            <td style="padding:5px; font-weight:bold; text-align: right;"> Advance Vat
+                (Ref: {{ data.remarks|vat_reference }})
+            </td>
+            <td style="text-align:right;"></td>
+            <td style="text-align:right;"></td>
+            <td style="text-align:right;"></td>
+            <td style="padding:5px; text-align:right;">
+                {{ data.remarks|vat_amount }}
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="total_row">
+            <td></td>
+            <td style="padding:5px; " colspan="4"> Total</td>
+            <td style="padding:5px; text-align:right;"> {{ data|grand_total }} </td>
+        </tr>
+    </table>
+    <table class="third_table">
+        <tr id="in_words_row">
+            <td style="padding:5px; " colspan="2"><p> Amount Chargeable (in words)<br><span
+                    style="font-weight:bold"> Taka {{ data.invoice.render_in_words }} Only </span></p></td>
+        </tr>
+        <tr>
+            <td style="padding:5px; border: none">
+                <p> Declaration<br> We declare that this invoice shows the actual price of the goods described and that
+                    all particulars are true and correct.</p>
+            </td>
+            <td style="padding:5px; " id="bottom-align-text"><p> Invoice </p>
+
+                <p class=""></p>
+
+                <p class="text-right"> Authorized Signature </p>
+            </td>
+        </tr>
+    </table>
+
+</div>
+<script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        window.print();
+        window.location.href = "/tx-stock-out/";
+    });
+</script>
+</body>
+</html>

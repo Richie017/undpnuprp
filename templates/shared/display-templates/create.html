@@ -1,0 +1,131 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs">
+
+    </div>
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ model_meta.model_name }}</h3>
+            {#                <small>Create &amp; Edit</small>#}
+        </div>
+    </div>
+    {% if not form.Meta.render_tab %}
+        <div class="col-xs-12 col-sm-6 col-md-7">
+            <ul class=" list-inline text-right bfz-adminbtn-list">
+                <li>
+                    <a name="submit" id="submit_top" class="manage-button fbx-save btn">
+                        <i class="fbx-rightnav-save"></i>
+                        <span>&nbsp;Save</span>
+                    </a>
+                </li>
+                <li>
+                    <a name="cancel" class="manage-button btn" id="btn_cancel">
+                        <i class="fbx-rightnav-cancel"></i>
+                        <span>&nbsp;Cancel</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid" style="padding-left: 15px; padding-right:15px;">
+        {% if form.allow_encryption == False %}
+            <form id="create_form" action="" method="post" class="form form-horizontal">
+        {% else %}
+            <form id="create_form" enctype="multipart/form-data" action="" method="post" class="form form-horizontal">
+        {% endif %}
+        {% csrf_token %}
+        {% include 'shared/display-templates/_generic_form.html' with  form=form %}
+
+       <div class="col-sm-12 fbx-actionbtn fbx-content-shop">
+            <div class="fbz-product-content-left">
+                <div class="control-group">
+                    <label class="col-md-6 control-label"></label>
+                    <button id="save_item" class="btn fbx-save" type="submit" name="submit" value="Save">
+                        <i> </i>
+                        <span>Save</span>
+                    </button>
+                    <button class="btn btn-cancel fbx-cancel" type="reset" name="cancel" value="Cancel">
+                        <i> </i>
+                        <span>Cancel</span>
+                    </button>
+                    {% if form.Meta.render_tab %}
+                        <button type="button" class="tabbed-form-next btn fbx-next"><i> </i><span>Next</span>
+                        </button>
+                        <button type="button" class="tabbed-form-previous btn fbx-previous">
+                            <i> </i><span>Previous</span>
+                        </button>
+                    {% endif %}
+                </div>
+            </div>
+            <!--//PRODUCT CONTENT LEFT-->
+        </div>
+        <!--//.COL 6-->
+        </form>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/create-view.js?v=1.1.5"></script>
+    <script type="text/javascript" src='http://maps.google.com/maps/api/js?libraries=places'></script>
+    <script src="{{ STATIC_URL }}assets/js/location-picker/locationpicker.jquery.min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/create-view-map.js?v=1.1.0"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#submit_top").on('click', function () {
+                {#                $("#create_form").find("input[name='submit']").click();#}
+                $("#save_item").click();
+            });
+
+            $("#btn_cancel").on('click', function () {
+                history.go(-1);
+            });
+
+            $(".btn-cancel").on('click', function () {
+                history.go(-1);
+            });
+        });
+    </script>
+
+    {% if 'alert-config/' in request.build_absolute_uri %}
+        <script type="text/javascript">
+            function model_descriptor() {
+                $(document).on('change', '.model-descriptor', function () {
+                    var mod_prop = $(this).closest('.form-horizontal').find('.model-property');
+                    console.log(mod_prop);
+                    var value = $(this).find(":selected").val();
+                    if (value.length > 0) {
+                        var url = "{% url 'model_descriptor' %}";
+                        $.ajax({
+                            url: url,
+                            type: "get",
+                            data: 'model_name=' + value,
+                            success: function (data) {
+                                mod_prop
+                                    .find('option')
+                                    .remove()
+                                    .end();
+                                $(data.property_list).each(function () {
+                                    var option = $('<option />');
+                                    option.attr('value', this).text(this);
+                                    $(mod_prop).append(option);
+                                });
+                                $(mod_prop).append($('<option />').attr('value', 'None').text('None'));
+                            }
+                        })
+                    }
+                });
+
+            }
+            ;
+            $(window).load(function () {
+                model_descriptor();
+            });
+        </script>
+    {% endif %}
+{% endblock %}

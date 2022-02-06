@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+{% load i18n %}
+{% load blackwidow_filter %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %} {{ context.organization.name }} {% endblock %}</title>
+
+    <!--  FAVICON AND TOUCH ICONS -->
+    <link rel="icon" href="{{ STATIC_URL }}fieldbuzz_themes/img/favicon.ico?v=1.1.0">
+    <link rel="apple-touch-icon" href="{{ STATIC_URL }}fieldbuzz_themes/img/apple-touch-icon.png?v=1.1.0">
+
+    {% load static %}
+
+    {#        <link href="{{STATIC_URL}}assets/css/main.css" rel="stylesheet" />#}
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/bootstrap.min.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/content.css?v=1.1.0"/>
+    <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/font-awesome.min.css?v=1.1.0" media="all"/>
+    <!-- CUSTOM  CSS  -->
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/style.css?v=1.1.3" media="all"/>
+
+    <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/jquery-ui-1.10.4.custom.min.css?v=1.1.0"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}assets/css/bootstrap-datetimepicker.min.css?v=1.1.0"/>
+
+    {% if enable_js_menu_rendering %}
+        <script src="{{ STATIC_URL }}assets/js/jquery.min.js?v=1.1.0"></script>
+        <script src="{{ STATIC_URL }}assets/js/jquery.browser.min.js?v=1.1.0"></script>
+        <!-- JS Menu Renderer -->
+        <script type="text/javascript" src="{{ STATIC_URL|get_role_menu_js:user }}"></script>
+        <script src="{{ STATIC_URL }}js/menu_manager/menu_renderer.js?v=1.1.1"></script>
+    {% endif %}
+
+    <link href="{{ STATIC_URL }}ace.min.css?v=1.1.0" rel="stylesheet"/>
+    <link href="{{ STATIC_URL }}assets/icomoon/style.css?v=1.1.0" rel="stylesheet">
+    <link rel="stylesheet" href="{{ STATIC_URL }}assets/select2-3.5.1/select2.css?v=1.1.0"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}assets/select2-3.5.1/select2-bootstrap.css?v=1.1.0"/>
+    <link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css?v=1.1.0" rel="stylesheet"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/form.css?v=1.1.0"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/custom.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/datepicker.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/form.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/header.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/input.css?v=1.1.1" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/map.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/select2.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/button.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/notification_fx/notification_fx.css?v=1.1.0" media="all"/>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/jquery.dataTables.css?v=1.1.0"/>
+
+    {% block styles %}
+    {% endblock %}
+
+    <!-- MODERNIZER CSS  -->
+    <script src="{{ STATIC_URL }}fieldbuzz_themes/js/vendor/modernizr-2.8.3.min.js?v=1.1.0"></script>
+</head>
+
+<body class="home" itemscope itemtype="http://schema.org/WebPage">
+{% block viewport %}
+{% endblock %}
+{% block footer %}
+    <div class="pull-right" style="font-size: 12px; padding: 7px; text-align: right; margin-right: 6px">Built on <a
+            href="http://field.buzz"
+            target="_blank"
+            style="color: #00a99d;">
+        <img style="max-width: 16%; margin-top: -3px"
+             src="{{ STATIC_URL }}fieldbuzz_themes/img/fis_logo.png?v=1.1.0" alt="">
+    </a> platform | <a href="http://field.buzz/impressum/" target="_blank">About</a> | <a
+            href="http://field.buzz/attributions/" target="_blank">Attributions</a> |
+        {% if USE_I18N %}
+            {% get_current_language as LANGUAGE_CODE %}
+            <input type="hidden" value="{{ LANGUAGE_CODE }}" id="site-language"/>
+            {#            <select id="language-select" style="padding: 4px 5px; background: transparent; border: 1px solid #ccc;">#}
+            {#                {% for l_code, l_name in languages %}#}
+            {#                    <option value="{{ l_code }}"#}
+            {#                            {% if LANGUAGE_CODE == l_code %}selected{% endif %}>{{ l_name }}</option>#}
+            {#                {% endfor %}#}
+            {#            </select>#}
+        {% endif %}
+    </div>
+{% endblock footer %}
+{% block scripts %}
+{% endblock %}
+</body>
+</html>

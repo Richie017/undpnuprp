@@ -1,0 +1,220 @@
+{% extends 'reports/base/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-6 col-md-6 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-5 col-md-5">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+            <li>
+                <a id="download" name="download" class="manage-button btn"
+                   onclick="exportReportFile()">
+                    <i class="fbx-rightnav-download"></i>
+                    <span id="download-text">&nbsp;Export & Download</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <a class="btn btn-export btn-primary" style="display: none;" href="javascript://" id="a_export_download"></a>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/datatable/fixedColumns.min.css?v=1.1.0">
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/datatable/custom.css?v=1.1.0">
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid reports-div fbx-content fbx-grossprofit-content">
+        {% load widget_tweaks %}
+        {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+            <div class="col-lg-6 col-md-6 col-sm-8 form-horizontal report-content-top">
+                {% for field in parameters.G1 %}
+                    <div class="control-group" style="clear: both;">
+                        <label class="control-label" for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="controls">
+                            &nbsp;&nbsp;{% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-8 form-horizontal report-content-top">
+                {% for field in parameters.G2 %}
+                    <div class="control-group">
+                        <label class="control-label"
+                               for="{{ form.prefix }}-{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="controls">
+                            <div class="input-append date datetimepicker">
+                                &nbsp;&nbsp;
+                                &nbsp;&nbsp;{% render_field field|add_error_class:'input-validation-error' %}
+                                <span class="add-on date-sel">
+                                    <i data-date-icon="icon-calendar"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+                <div class="control-group">
+                    <label class="control-label"></label>
+                    <div class="controls">
+                        <button class="btn generic-btn-style btn-large" id="dashboard-refresh-btn"
+                                style="margin-left: 24px;">Update Table
+                        </button>
+                    </div>
+                </div>
+            </div>
+        {% endwith %}
+    </div>
+    <legend></legend>
+    <div class="row-fluid report-container" style="margin: 20px 0;">
+        <div id="report-view" class="span11">
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/datatable/fixedColumns.min.js?v=1.1.0"></script>
+    <!-- library for custom sorting in DataTable strat-->
+    <script src="{{ STATIC_URL }}js/datatable/datetime-moment.js?v=1.1.0"></script>
+    <!-- library for custom sorting in DataTable end-->
+
+    <!-- library for custom sorting in time manipulation-->
+    <script src="{{ STATIC_URL }}js/datatable/moment.min.js"></script>
+
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="{{ STATIC_URL }}js/report/date_range_picker/date_range_picker.js"></script>
+
+    {#    <!-- Include Custom Handler For Date Range Picker -->#}
+    <script type="text/javascript"
+            src="{{ STATIC_URL }}js/report/date_range_picker/date_time_range_handler.js"></script>
+
+    <!-- Include Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/date_range_picker.css"/>
+
+    <!-- Include Custom Styling For Date Range Picker -->
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/date_range_picker/custom_date_range_picker.css"/>
+
+
+    <script type="text/javascript">
+        function loadReportData() {
+            var parameters = {
+                role: $("#id_role").val(),
+                console_users: $("#id_console_users").val(),
+                date_range: $("#id_date_range").val().trim()
+            };
+
+            $("#report-view").html("<div class='alert alert-info' style='height:100%;'>Loading data ... </div>");
+
+            $.ajax({
+                url: '?format=json',
+                type: 'get',
+                data: parameters,
+                dataType: 'json',
+                success: function (result) {
+                    var report_view = $("#report-view");
+                    report_view.empty();
+                    console.log(result);
+                    var report = result['report'];
+                    var table_header = report[0];
+                    var table_data = report.slice(1, report.length);
+                    var str = '<table id="nice-table" class="table custom-data-table table-bordered table-striped"><thead><tr>';
+                    for (var hd in table_header) {
+                        str += '<th>' + table_header[hd] + '</th>';
+                    }
+                    str += '</tr></thead></table>';
+
+                    report_view.html(str);
+                    <!-- initialize datetime format for datetime column sorting-->
+                    $.fn.dataTable.moment('DD/MM/YYYY - HH:mm a');
+
+                    $('#nice-table').dataTable({
+                        "data": table_data,
+                        "scrollX": true,
+                        "deferRender": true,
+                        "scrollCollapse": true
+                    });
+                    InitializeDataTableCss();
+                },
+                error: function (ad) {
+                }
+            });
+        }
+
+        function exportReportFile() {
+            $("#a_export_download").click();
+        }
+
+        $(function () {
+            var $dashboard_refresh_btn = $('#dashboard-refresh-btn');
+            $dashboard_refresh_btn.on("click", function () {
+                loadReportData();
+            });
+
+            $("#download").on("click", function () {
+                var tthis = this;
+                var parameters = {
+                    date_range: $("#id_date_range").val().trim(),
+                    role: $("#id_role").val(),
+                    console_users: $("#id_console_users").val()
+                };
+                document.getElementById("download-text").innerHTML = "Preparing for download";
+                $.ajax({
+                    url: '?export=True&format=json',
+                    type: 'get',
+                    data: parameters,
+                    dataType: 'json',
+                    success: function (result) {
+                        if (result.success) {
+                            document.getElementById("download-text").innerHTML = "Download Now";
+                            window.open(result.url, "_self");
+                            $("#download").bind("click", function () {
+                                window.open(result.url, "_self");
+                            });
+                        } else {
+                            $(tthis).html("An error occurred. Please reload the page to try again.");
+                            $("#download").val("Downloading failed");
+                        }
+                    },
+                    error: function (ad) {
+
+                    }
+                });
+                return false;
+            });
+
+            $dashboard_refresh_btn.trigger('click');
+        });
+
+        function InitializeDataTableCss() {
+            var _dataTableSearchBox = $('.dataTables_filter label');
+            var _dataTableSearchField = $('.dataTables_filter input');
+            var _dataTableLengthBox = $('.dataTables_length select');
+            _dataTableSearchBox.contents().get(0).remove();
+            _dataTableSearchField.attr({
+                'placeholder': 'Search',
+                'class': 'form-control input-sm'
+            });
+            _dataTableSearchField.css({
+                'margin-left': '-2px',
+                'border-radius': '2px'
+
+            });
+            _dataTableLengthBox.css({
+                'background-color': '#fff',
+                'padding': '3px 10px',
+                'border': '1px solid #ccc',
+                'display': 'inline-block',
+                'border-radius': '2px'
+            });
+
+        }
+    </script>
+{% endblock %}

@@ -1,0 +1,633 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Chandpur;1;130101001;12500101001;Meghna Biri Factory Merkatiz Road Uttor;Suifer Colony;55;275;80;2;1;3;1;1;1;3;2;2;2;2;2;1;2;3;1;29
+Chandpur;1;130101002;12500101002;Meghna Biri Factory Merkatiz Road Uttor;Kobud Gazi Bari;50;250;100;1;1;3;1;1;1;3;2;2;2;2;4;1;4;4;4;36
+Chandpur;1;130101003;12500101003;Meghna Biri Factory Merkatiz Road Uttor;Taj Bepary Bari Thaka Muslim Meda Bari Porjonto;90;450;100;1;1;3;1;1;1;3;1;2;3;3;4;1;4;4;4;37
+Chandpur;1;130101004;12500101004;Meghna Biri Factory Merkatiz Road Uttor;Sadek Soyal Bari;60;300;80;1;1;3;1;1;1;3;2;2;2;2;4;1;4;4;4;36
+Chandpur;1;130101005;12500101005;Meghna Biri Factory Merkatiz Road Uttor;Billal Khan Bari;80;400;90;2;1;3;1;2;1;3;2;2;2;2;4;1;4;4;4;38
+Chandpur;1;130101006;12500101006;Meghna Biri Factory Merkatiz Road Uttor;Rofik Ar Bari Thaka Nur Ar Bari Pojonto;40;200;80;1;1;3;1;1;1;3;2;2;2;2;4;1;4;4;4;36
+Chandpur;1;130101007;12500101007;Meghna Biri Factory Merkatiz Road Uttor;Mofej Bepary Bari Thaka Badol Khan Bari Pojonto;45;225;70;3;1;4;1;2;2;4;3;3;3;2;4;3;4;4;4;47
+Chandpur;1;130101008;12500101008;Meghna Biri Factory Merkatiz Road Uttor;Nobopolli;70;300;70;2;1;3;1;2;1;3;3;2;3;3;4;1;4;4;4;41
+Chandpur;1;130102001;12500102001;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Sobenar Bari Thaka Samdod Bepari Bari;50;250;100;1;1;3;1;1;1;3;2;2;3;3;4;1;4;4;4;38
+Chandpur;1;130102002;12500102002;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Roshid Member Bari;170;850;95;2;1;3;1;1;1;3;2;2;2;3;4;1;4;4;4;38
+Chandpur;1;130102003;12500102003;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Anoyar Soyel Bari Thaka Islam Pato Bari Pojonto;45;225;10;2;1;3;1;1;1;3;2;2;2;3;4;1;4;4;4;38
+Chandpur;1;130102004;12500102004;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Sohed Loskor Thaka Tawar Pojonto;80;400;70;1;1;3;1;1;1;3;2;2;2;3;4;1;4;4;4;37
+Chandpur;1;130102005;12500102005;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Club Ar Pichona Momen Bepari Bari;50;250;65;2;1;3;1;1;2;3;3;2;2;3;4;2;4;4;4;41
+Chandpur;1;130102006;12500102006;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Dewan Abul Khayer Bari;160;800;100;2;1;3;1;2;2;3;3;2;3;3;4;1;4;4;4;42
+Chandpur;1;130102007;12500102007;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Roshid Pato Bari;100;500;110;1;1;3;1;1;1;3;3;2;3;3;4;1;4;4;4;39
+Chandpur;1;130102008;12500102008;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Sona Miya o Mobarok Bari Thaka Somed Khan Bari Pojonto;210;1050;100;1;1;2;1;1;1;3;3;2;2;2;4;1;4;4;4;36
+Chandpur;1;130102009;12500102009;Moddoh Shriramdi- 03 Merkatiz Road Uttor;Monir Kaji Bari Thaka Nel Bari Pojonto;45;225;100;1;1;3;1;1;1;3;2;3;2;2;4;1;4;4;4;37
+Chandpur;1;130103001;12500103001;Refuge Colony And Bakali Potti;Mach Bazar Kasu Gazi Bari Thaka Dat Chekitsa Loy Pojonto;165;825;100;1;1;3;1;2;1;3;2;3;2;3;2;1;4;4;4;37
+Chandpur;1;130103002;12500103002;Refuge Colony And Bakali Potti;Mokhles Mollik Bari Thaka Bisho Nath Bari Pojonto;60;300;100;1;1;3;1;2;1;3;2;2;2;2;2;4;4;4;4;38
+Chandpur;1;130103003;12500103003;Refuge Colony And Bakali Potti;Haji Korim Hawlader Bari;25;125;50;2;2;3;1;2;1;1;2;3;4;3;2;1;4;4;4;39
+Chandpur;1;130103004;12500103004;Refuge Colony And Bakali Potti;Mejan Ar Bari haka Moina Bari Pojonto;200;1000;100;2;1;3;1;1;1;3;2;2;2;3;2;1;3;2;1;30
+Chandpur;1;130103005;12500103005;Refuge Colony And Bakali Potti;Rofik Ar Bari Thaka Rusu Bari Pojonto;200;1000;100;2;1;3;1;1;1;2;2;2;2;3;2;1;3;2;1;29
+Chandpur;1;130103006;12500103006;Refuge Colony And Bakali Potti;Puran Farar Sarvice Khoteja Bari;30;150;50;1;1;3;1;1;1;3;2;2;2;2;2;1;1;3;1;27
+Chandpur;1;130103007;12500103007;Refuge Colony And Bakali Potti;Mojudhale Bari;100;500;700;1;2;3;1;2;1;3;4;2;3;2;2;1;4;4;4;39
+Chandpur;1;130104001;12500104001;Dudh Bazar;Rulamin Khan Bari Thaka Talukdar Bari Pojonto;150;750;100;1;1;3;1;1;1;3;2;3;2;2;2;1;3;1;1;28
+Chandpur;1;130104002;12500104002;Dudh Bazar;Lotef Kha Bari Thaka Yasen Kha Bari Pojonto;200;1000;90;1;1;3;1;2;2;2;2;3;2;2;2;1;4;4;4;36
+Chandpur;1;130105001;12500105001;Kuli Bagan Nital Gang Uttor;Nur Meje Bari Thaka Hamid Store Pojonto;100;500;100;2;1;3;1;1;1;3;3;2;2;3;2;1;4;4;4;37
+Chandpur;1;130105002;12500105002;Kuli Bagan Nital Gang Uttor;Jonu Gazi Bari Thaka Kashem Monse Bari Pojonto;55;275;110;1;1;3;1;1;1;3;3;2;3;3;4;1;4;4;4;39
+Chandpur;1;130105003;12500105003;Kuli Bagan Nital Gang Uttor;Bonge Das Bari Thaka Roshid Chondro Bari;60;300;70;2;1;3;1;1;1;3;3;2;3;3;4;1;4;4;4;40
+Chandpur;1;130105004;12500105004;Kuli Bagan Nital Gang Uttor;Paner Gola Pichona Vimer Ar Bari;80;400;100;1;1;3;1;1;1;3;3;3;3;3;4;1;4;4;4;40
+Chandpur;1;130105005;12500105005;Kuli Bagan Nital Gang Uttor;Usuf Meje Bari Thaka Manek Maje Bari Pojonto;20;100;80;2;2;3;1;2;1;3;3;3;3;2;4;1;4;4;4;42
+Chandpur;1;130106001;12500106001;Mom Factory Nital Gang Dokkhin;Ansar Ali Bari Thaka Jamai Bari Pojonto;150;750;100;1;1;3;1;2;1;3;2;2;2;2;1;1;2;4;4;32
+Chandpur;1;130106002;12500106002;Mom Factory Nital Gang Dokkhin;Gofur Bepary Bari Thaka Amanullah Bari Pojonto;220;1100;100;1;1;3;1;1;1;3;2;2;2;2;1;1;1;3;1;26
+Chandpur;1;130106003;12500106003;Mom Factory Nital Gang Dokkhin;Toimer Bari Thaka Hasim Bepary Bari Pojonto;170;850;100;1;1;3;1;1;1;3;2;2;2;2;2;1;4;4;4;34
+Chandpur;1;130106004;12500106004;Mom Factory Nital Gang Dokkhin;Janur Bari Thaka Jonu Bari Pojonto;150;750;100;1;1;3;1;1;1;3;2;2;3;2;1;1;4;4;4;34
+Chandpur;1;130106005;12500106005;Mom Factory Nital Gang Dokkhin;Jakariya Botu Bari Thaka Kartik Saha Bari Pojonto;160;800;100;2;2;3;1;3;2;3;3;3;3;3;3;3;4;4;4;46
+Chandpur;1;130106006;12500106006;Mom Factory Nital Gang Dokkhin;Shornolli Thaka Dulal Daot Bari Pojonto;185;925;100;2;2;3;1;3;3;3;3;3;3;3;3;3;4;4;4;47
+Chandpur;2;130201001;12500201001;Horishova Road(Nur Bukol Bari);Nur Bokeail Bare Alaka;180;720;45;2;1;4;1;1;1;4;4;3;4;4;4;2;4;2;4;45
+Chandpur;2;130201002;12500201002;Horishova Road(Nur Bukol Bari);Nur Bokeail Bare Alaka;220;880;50;1;1;4;1;2;4;4;3;3;3;2;4;2;4;4;4;46
+Chandpur;2;130202001;12500202001;West Sriramdi Edris Khan Road;Edres Khan Bare Alaka;40;160;100;1;2;3;1;2;1;4;3;3;1;1;4;2;4;4;4;40
+Chandpur;2;130202002;12500202002;West Sriramdi Edris Khan Road;Edres Khan Bare Alaka;45;180;20;1;2;4;1;3;1;4;3;3;1;2;2;2;1;3;1;34
+Chandpur;2;130202003;12500202003;West Sriramdi Edris Khan Road;Budai Barer Alaka;50;200;100;1;2;4;1;3;4;4;4;3;1;4;4;3;4;4;4;50
+Chandpur;2;130203001;12500203001;Gosh Para Dash Bari;Durga Monder Alaka;100;460;200;3;1;3;1;2;2;3;3;3;4;2;4;4;4;4;4;47
+Chandpur;2;130203002;12500203002;Gosh Para Dash Bari;Geta Monder Alaka;100;520;200;3;1;4;1;2;2;1;2;3;3;2;4;4;4;4;4;44
+Chandpur;2;130203003;12500203003;Gosh Para Dash Bari;Sotho Vum Rai Thakur Monder Alaka;130;550;200;3;1;4;1;1;2;1;2;3;3;2;2;4;4;4;4;41
+Chandpur;2;130203004;12500203004;Gosh Para Dash Bari;Uttom Vo. Ar Das Bare Alaka;110;500;70;3;1;3;3;2;0;3;2;3;4;2;4;3;4;4;4;45
+Chandpur;2;130203005;12500203005;Gosh Para Dash Bari;Baba Mehlos Ariya;50;150;40;1;1;4;1;2;2;3;3;4;3;4;2;3;4;4;4;45
+Chandpur;2;130204001;12500204001;West Jafrabadh;Kader Master Bare Alaka;75;300;100;2;2;4;1;1;1;1;4;3;1;4;4;2;4;4;4;42
+Chandpur;2;130204002;12500204002;West Jafrabadh;Halim Gazi Bare Alaka;80;320;10;2;1;4;1;2;1;4;3;3;1;1;4;2;4;4;4;41
+Chandpur;2;130204003;12500204003;West Jafrabadh;Anoyar Khan Bare Alaka;45;180;15;2;1;3;1;4;2;4;4;3;1;1;4;3;4;4;4;45
+Chandpur;2;130204004;12500204004;West Jafrabadh;Delu Bepare Bare Alaka;35;144;30;1;1;4;1;2;2;4;4;2;1;4;4;3;4;4;4;45
+Chandpur;2;130204005;12500204005;West Jafrabadh;Mijan Gazi Bare Alaka;25;100;60;1;1;4;1;3;1;1;4;3;1;4;4;2;4;4;4;42
+Chandpur;2;130204006;12500204006;West Jafrabadh;Roshid Khan Bare Alaka;24;95;45;1;1;4;1;3;1;1;4;3;1;4;4;2;4;4;4;42
+Chandpur;2;130205001;12500205001;Moddom Sriramdi Koborstan;Koboresthan Road/East Miji Bare Pojonto;220;652;80;2;1;3;1;1;1;3;1;1;1;1;3;1;4;4;4;32
+Chandpur;2;130205002;12500205002;Moddom Sriramdi Koborstan;Usuf Miji Bare South Pash Jolil Gazi Bare Pojonto;160;654;70;1;1;3;1;1;2;3;1;1;1;1;1;3;4;4;4;32
+Chandpur;2;130206001;12500206001;Moddom Sriramdi Bou Bazar;Koboresthan Road/Bou Bajar East Putul Bare Pojonto;300;1200;110;1;1;3;1;1;1;3;1;1;1;1;4;1;4;4;4;32
+Chandpur;2;130206002;12500206002;Moddom Sriramdi Bou Bazar;Babul Mumni Bare And PouroSova Pukur Pojonto;170;685;95;1;1;3;1;1;1;3;2;1;1;1;4;1;4;4;4;33
+Chandpur;2;130207001;12500207001;Paner Boro Allar Bil (Solaiman Gazi Bari Area);Ainal Bil/Vowyal Bare/ Solaman Gazi Bare;270;1087;90;1;1;3;1;2;1;3;2;1;2;1;4;1;4;4;4;35
+Chandpur;2;130207002;12500207002;Paner Boro Allar Bil (Solaiman Gazi Bari Area);Usf Gazi Bare/ Pourosova Pukur Pojonto;215;874;100;1;1;3;1;2;2;2;2;1;1;1;4;1;4;4;4;34
+Chandpur;2;130208001;12500208001;Modina Masjid/Notun Road Elaka (Yusuf Gazi Bari/Manager Bari);Senajar Bare/Lotif Bishas Bare;250;1017;100;1;1;3;1;2;2;3;2;1;1;1;4;1;4;4;4;35
+Chandpur;2;130208002;12500208002;Modina Masjid/Notun Road Elaka (Yusuf Gazi Bari/Manager Bari);Mohijuddin/Gazi Bare/Modina Mosjed;150;602;60;1;1;3;1;2;2;3;2;1;1;1;4;1;4;4;4;35
+Chandpur;3;130301001;12500301001;Uttor Das Para;Bonse Daser Bare;32;150;170;2;1;4;1;3;1;4;4;4;4;4;4;4;4;4;4;52
+Chandpur;3;130301002;12500301002;Uttor Das Para;Nirmol Daser Bare;21;70;150;2;1;4;1;4;1;4;2;4;4;4;4;4;4;4;4;51
+Chandpur;3;130301003;12500301003;Uttor Das Para;Matisalt Beparer Bare;30;160;150;2;1;4;1;4;4;4;4;4;4;4;4;4;4;4;4;56
+Chandpur;3;130301004;12500301004;Uttor Das Para;Puran Bare (Narayon Das);40;203;150;1;1;4;1;2;2;1;4;4;4;4;4;2;4;4;4;46
+Chandpur;3;130302001;12500302001;Dokkhin Das Para;Forid Didar ( Amjad Ali Road);320;1603;100;1;1;4;1;3;2;1;3;3;4;3;4;3;4;4;4;45
+Chandpur;3;130302002;12500302002;Dokkhin Das Para;Badam Toli Bare;112;563;100;2;4;3;1;2;2;1;4;3;4;4;4;2;4;4;4;48
+Chandpur;3;130302003;12500302003;Dokkhin Das Para;Boro Bare (Golap Minder);50;260;170;2;1;4;1;2;2;1;4;3;4;4;4;2;4;4;4;46
+Chandpur;3;130302004;12500302004;Dokkhin Das Para;Royaj Road ( Moina Moti Rice Mil);12;60;40;2;1;3;1;2;2;4;2;3;4;4;4;2;4;4;4;46
+Chandpur;3;130302005;12500302005;Dokkhin Das Para;Bonse Daser Bare;60;270;200;1;1;3;1;2;2;1;4;4;4;4;4;1;4;4;4;44
+Chandpur;3;130303001;12500303001;Poschim Shriramdi;Badsha Dapare Bare;30;150;70;2;1;4;1;3;2;1;2;3;4;4;4;1;4;4;4;44
+Chandpur;3;130303002;12500303002;Poschim Shriramdi;Samsul Khan;35;175;50;2;1;4;1;4;1;1;4;2;4;4;4;1;4;4;4;45
+Chandpur;3;130303003;12500303003;Poschim Shriramdi;Motin Beoare Bare;75;371;112;2;1;4;1;3;2;4;4;1;4;4;4;2;4;4;4;48
+Chandpur;3;130303004;12500303004;Poschim Shriramdi;Chali Bare;50;245;100;1;1;2;1;2;1;1;3;2;2;4;3;4;4;4;4;39
+Chandpur;3;130303005;12500303005;Poschim Shriramdi;Ledu Talukdar Bare;60;430;170;2;1;3;1;2;2;4;4;3;4;4;4;2;4;4;4;48
+Chandpur;3;130303006;12500303006;Poschim Shriramdi;Dewan Bare (Bdai Barer Math);23;109;45;2;1;2;1;2;2;1;4;3;4;4;4;2;4;4;4;44
+Chandpur;3;130303007;12500303007;Poschim Shriramdi;Chiyal Bare;70;545;100;2;1;3;1;3;2;3;3;2;3;4;4;3;4;4;4;46
+Chandpur;3;130303008;12500303008;Poschim Shriramdi;Meshol Bare;80;395;82;2;1;2;1;2;2;1;4;3;4;4;4;2;4;4;4;44
+Chandpur;3;130303009;12500303009;Poschim Shriramdi;Forid Komisnarer Bare;65;320;100;2;1;4;1;2;2;4;4;3;4;4;4;4;4;4;4;51
+Chandpur;3;130303010;12500303010;Poschim Shriramdi;Haji Bare;35;160;70;2;1;2;1;2;2;2;2;2;3;4;4;2;4;4;4;41
+Chandpur;3;130303011;12500303011;Poschim Shriramdi;Patwae Bare;40;200;40;1;1;3;1;3;2;3;3;2;3;4;4;2;4;4;4;44
+Chandpur;3;130304001;12500304001;Pal Para;Mijanur Rahman Gazi Bare;20;85;200;1;1;4;1;3;2;1;4;4;3;3;4;2;4;4;4;45
+Chandpur;3;130304002;12500304002;Pal Para;Dr. Robi Chondro Rai (Mukti Jodda);15;70;199;1;1;4;1;4;3;1;4;4;3;3;4;3;2;4;4;46
+Chandpur;3;130304003;12500304003;Pal Para;Tagore Bare /Pal bare;18;120;200;3;1;4;1;2;3;1;4;4;4;4;4;3;4;4;4;50
+Chandpur;3;130304004;12500304004;Pal Para;Md. Hanif Mollah Bare;33;160;200;1;1;4;1;2;3;4;4;4;3;3;4;1;4;4;4;47
+Chandpur;3;130304005;12500304005;Pal Para;Bagan Bare;25;130;200;2;1;4;1;2;1;1;4;4;4;4;4;1;4;4;4;45
+Chandpur;3;130304006;12500304006;Pal Para;Sekal Bare;25;135;40;1;1;4;1;1;1;1;4;4;3;4;4;1;4;4;4;42
+Chandpur;3;130304007;12500304007;Pal Para;Bokal Bare/Pat.;11;60;37;1;1;3;1;1;1;1;3;2;4;3;1;1;1;3;3;30
+Chandpur;3;130305001;12500305001;Uttor Jafrabad;Sahajan Chairman Ar Bare;15;80;154;3;1;4;1;4;4;3;4;4;4;4;4;1;4;4;4;53
+Chandpur;3;130305002;12500305002;Uttor Jafrabad;Khal Par (Bepari Bare);150;700;200;3;1;3;1;3;2;1;4;4;4;4;4;1;4;4;4;47
+Chandpur;3;130305003;12500305003;Uttor Jafrabad;Joinal Gazi Bare ( Patware Pol);10;45;150;1;1;3;1;4;3;4;4;4;4;4;4;4;4;4;4;53
+Chandpur;3;130306001;12500306001;Poschim Jafrabad;Patwae Bare;34;220;200;1;1;4;1;4;2;1;4;4;4;4;4;1;4;4;4;47
+Chandpur;3;130306002;12500306002;Poschim Jafrabad;Billal Hossain Gazi Bare;51;299;200;1;1;4;1;3;2;1;4;4;4;4;4;1;4;4;4;46
+Chandpur;3;130306003;12500306003;Poschim Jafrabad;Sohid Gazi Bare;15;69;200;1;1;4;1;3;1;1;4;4;4;4;4;1;4;4;4;45
+Chandpur;3;130306004;12500306004;Poschim Jafrabad;Jamal Shek Bare;16;100;80;1;1;4;1;2;2;1;3;4;4;4;4;1;4;4;4;44
+Chandpur;3;130306005;12500306005;Poschim Jafrabad;siraj Miyaji Bare;20;92;200;1;1;3;1;2;1;1;4;3;4;4;4;1;4;4;4;42
+Chandpur;3;130306006;12500306006;Poschim Jafrabad;Lokman Gazi;12;64;10;4;2;4;1;4;1;2;4;4;4;4;4;2;4;4;4;52
+Chandpur;3;130306007;12500306007;Poschim Jafrabad;Dali Bare;20;112;70;1;1;4;1;3;3;1;4;4;4;4;4;1;4;4;4;47
+Chandpur;3;130306008;12500306008;Poschim Jafrabad;Sam Gazi Bare;49;315;200;2;1;3;1;3;2;1;4;2;4;4;4;2;4;4;4;45
+Chandpur;3;130306009;12500306009;Poschim Jafrabad;Late. Malek Master;12;52;12;1;2;3;1;1;1;1;3;4;4;4;4;4;4;4;4;45
+Chandpur;3;130306010;12500306010;Poschim Jafrabad;Late. Abdul Lotif;25;145;200;1;1;3;1;2;1;1;4;2;4;4;4;1;4;4;4;41
+Chandpur;3;130306011;12500306011;Poschim Jafrabad;Md. Khokon Membar;35;169;100;1;2;4;1;3;2;1;4;4;4;4;4;2;4;4;4;48
+Chandpur;3;130307001;12500307001;Purbo Jafrabad;Md. Nannu Membar (Parware);60;260;200;1;1;3;1;2;3;1;4;4;4;4;4;2;4;4;4;46
+Chandpur;3;130307002;12500307002;Purbo Jafrabad;Md. Kalu Khan Bare;60;315;200;1;1;4;1;4;2;1;4;4;4;4;4;3;4;4;4;49
+Chandpur;3;130307003;12500307003;Purbo Jafrabad;Molla Bare;10;60;150;1;1;3;1;3;3;4;4;4;4;4;4;3;4;4;4;51
+Chandpur;3;130307004;12500307004;Purbo Jafrabad;Rohman Gazi Bare;30;160;200;1;1;3;1;1;1;1;4;4;4;4;4;1;4;4;4;42
+Chandpur;3;130307005;12500307005;Purbo Jafrabad;Chofor Ali Bapare Bare;18;100;110;1;1;3;1;1;2;1;4;4;4;4;4;1;4;4;4;43
+Chandpur;3;130307006;12500307006;Purbo Jafrabad;Rohman Siraj Bare;10;60;70;1;1;4;1;1;1;1;4;4;4;4;4;1;4;4;4;43
+Chandpur;3;130307007;12500307007;Purbo Jafrabad;Roshid Miyaji Bare;25;120;150;1;1;4;1;1;1;1;4;4;4;4;4;1;4;4;4;43
+Chandpur;3;130307008;12500307008;Purbo Jafrabad;Mojid Khan Bare;6;15;100;1;1;4;1;3;2;1;4;4;4;4;4;4;4;4;4;49
+Chandpur;4;130401001;12500401001;East Side of East Sriramdi;Woahab Majir Bare;32;148;87;2;1;4;1;2;4;1;3;1;1;1;4;1;4;4;4;38
+Chandpur;4;130401002;12500401002;East Side of East Sriramdi;sona Miya Dewan Bare;14;65;72;1;1;4;1;4;1;1;3;2;1;1;4;1;4;4;4;37
+Chandpur;4;130401003;12500401003;East Side of East Sriramdi;Mahfuj Bepari Bare;33;152;100;2;1;4;1;4;1;1;3;3;1;1;4;1;4;4;4;39
+Chandpur;4;130401004;12500401004;East Side of East Sriramdi;Hafej Member/Jogor Munsi Bare;25;115;80;2;1;3;1;4;2;1;3;2;2;1;2;3;4;4;4;39
+Chandpur;4;130401005;12500401005;East Side of East Sriramdi;Miyaji bare/Gazi Bare;15;50;100;2;1;4;1;4;3;1;4;4;3;4;4;3;4;4;4;50
+Chandpur;4;130401006;12500401006;East Side of East Sriramdi;Miyaj Bare/ Patware Bare;30;140;100;1;1;4;1;4;3;1;3;4;3;4;4;3;4;4;4;48
+Chandpur;4;130401007;12500401007;East Side of East Sriramdi;Abbas Miji Bare;15;65;80;2;1;4;1;4;3;3;3;4;3;4;4;3;4;4;4;51
+Chandpur;4;130401008;12500401008;East Side of East Sriramdi;Munsi Bare;15;70;100;2;1;4;1;4;3;3;3;4;3;4;4;3;4;4;4;51
+Chandpur;4;130401009;12500401009;East Side of East Sriramdi;Gazi Bare;15;69;90;2;1;4;1;4;3;3;3;4;3;4;4;3;4;4;4;51
+Chandpur;4;130401010;12500401010;East Side of East Sriramdi;Gofur Miya ji;150;670;100;2;3;4;1;4;3;3;4;4;3;4;4;3;4;4;4;54
+Chandpur;4;130401011;12500401011;East Side of East Sriramdi;Khan Bare;20;600;100;2;1;4;1;4;3;3;3;4;3;4;4;3;4;4;4;51
+Chandpur;4;130401012;12500401012;East Side of East Sriramdi;Haji Mofijuddin Bepari Bare;27;125;80;2;1;4;1;4;1;3;4;4;3;4;4;3;4;4;4;50
+Chandpur;4;130402001;12500402001;West Side of East Sriramdi;Molla bare (Motin Molla);30;138;70;4;1;4;1;3;1;3;3;3;1;1;1;2;4;4;4;40
+Chandpur;4;130402002;12500402002;West Side of East Sriramdi;Halim Bepari Bare;19;87;70;4;1;4;1;4;1;4;3;3;1;1;4;1;4;4;4;44
+Chandpur;4;130402003;12500402003;West Side of East Sriramdi;Mohot Ali Dewan Bare;12;55;85;3;2;4;1;4;1;4;4;4;1;3;4;1;4;4;4;48
+Chandpur;4;130402004;12500402004;West Side of East Sriramdi;Abdul Malek Miyaji Bae;15;69;130;3;1;4;1;4;1;4;4;4;2;3;4;4;4;4;4;51
+Chandpur;4;130402005;12500402005;West Side of East Sriramdi;Abul Kaseam Chowdore Bare;12;55;75;3;1;4;1;4;3;4;4;4;4;3;4;1;4;4;4;52
+Chandpur;4;130402006;12500402006;West Side of East Sriramdi;Molla Bare/patware Pul;13;59;80;1;1;4;1;3;1;3;3;2;1;2;4;1;4;4;4;39
+Chandpur;4;130402007;12500402007;West Side of East Sriramdi;Korim Miyaju Bare;20;92;60;1;1;4;1;3;1;4;3;3;1;3;4;1;4;4;4;42
+Chandpur;4;130402008;12500402008;West Side of East Sriramdi;Munaf Dali Bare;21;97;56;2;1;4;1;4;1;3;3;3;1;3;4;1;4;4;4;43
+Chandpur;4;130402009;12500402009;West Side of East Sriramdi;Chokidar Bare;18;83;52;2;1;3;1;4;1;1;3;1;1;1;3;1;4;4;4;35
+Chandpur;4;130402010;12500402010;West Side of East Sriramdi;Jolil Gazi Bare;11;51;55;1;1;4;1;4;1;1;4;2;1;2;4;1;4;4;4;39
+Chandpur;4;130402011;12500402011;West Side of East Sriramdi;Jafor Ali Gazi Bare;13;60;70;1;1;4;1;4;1;1;3;2;1;2;3;1;4;4;4;37
+Chandpur;4;130402012;12500402012;West Side of East Sriramdi;Abdul Roshid Maji Bare;24;110;80;2;1;4;1;3;1;1;3;3;1;2;4;1;4;4;4;39
+Chandpur;4;130402013;12500402013;West Side of East Sriramdi;Khalek Munsi Bare;7;33;82;1;1;4;1;4;1;1;4;4;1;2;4;1;4;4;4;41
+Chandpur;4;130402014;12500402014;West Side of East Sriramdi;Malek Maji Bare;8;37;73;1;1;4;1;4;1;1;3;1;1;2;4;1;4;4;4;37
+Chandpur;4;130402015;12500402015;West Side of East Sriramdi;Nasir Uddain Ahmed (Meyor);12;56;92;2;1;4;1;4;1;3;4;4;3;4;4;2;4;4;4;49
+Chandpur;4;130402016;12500402016;West Side of East Sriramdi;Woahab Master Bare;27;125;78;2;1;4;1;4;1;1;3;4;1;3;4;1;4;4;4;42
+Chandpur;4;130403001;12500403001;Jafrabad (South);Matbor Bare;60;230;100;1;1;3;1;2;2;1;3;2;2;2;4;1;4;4;4;37
+Chandpur;4;130403002;12500403002;Jafrabad (South);Nuru Master (Khan Bare);40;184;100;1;1;4;1;1;1;1;3;2;2;1;4;1;4;4;4;35
+Chandpur;4;130403003;12500403003;Jafrabad (South);Raja Bare;15;69;40;3;1;4;1;3;3;3;3;3;3;2;4;2;4;4;4;47
+Chandpur;4;130404001;12500404001;Jafrabad (North);Akhondo Bare;50;230;100;2;1;3;1;2;1;1;4;2;2;2;4;1;4;4;4;38
+Chandpur;4;130404002;12500404002;Jafrabad (North);Rari Bare;35;161;200;1;1;3;1;2;1;1;3;3;1;2;4;1;4;4;4;36
+Chandpur;4;130404003;12500404003;Jafrabad (North);Bapare Bare;15;69;40;1;1;4;1;2;2;3;3;4;3;3;4;3;4;4;4;46
+Chandpur;4;130404004;12500404004;Jafrabad (North);Patwae Bare;20;92;50;3;1;4;1;2;3;2;3;4;3;2;4;3;4;4;4;47
+Chandpur;4;130404005;12500404005;Jafrabad (North);Maji Bare ( D.C. Road);12;56;100;2;1;4;1;3;1;2;3;3;1;2;4;1;4;4;4;40
+Chandpur;4;130405001;12500405001;Bridge`r gora (North);Momin Bag Abasik Alaka;727;357;11;2;1;4;1;3;3;1;3;4;1;3;4;2;4;4;4;44
+Chandpur;4;130405002;12500405002;Bridge`r gora (North);Bacchu Miji Barer Alaka;115;535;110;2;1;4;1;4;2;1;3;4;1;3;4;3;4;4;4;45
+Chandpur;4;130405003;12500405003;Bridge`r gora (North);Collage Road Sonlogno Bostee;35;175;12;1;1;4;1;1;1;1;2;4;1;3;1;1;2;2;1;27
+Chandpur;4;130406001;12500406001;Bridge`r gora (South);Kadir Munshi Bare;24;125;100;1;1;4;1;3;3;4;3;3;3;3;4;2;4;4;4;47
+Chandpur;4;130406002;12500406002;Bridge`r gora (South);Mukbul Munshi And Billal Bepari Bare;250;1365;100;1;1;4;1;4;3;4;3;3;3;3;4;2;4;4;4;48
+Chandpur;4;130406003;12500406003;Bridge`r gora (South);Kadir Mal, Bokael, Khan Bare;75;475;50;2;1;4;1;4;4;3;4;3;2;3;4;4;4;4;4;51
+Chandpur;4;130407001;12500407001;Dash Para (East);Chowduri Bare;30;138;96;3;1;4;1;4;3;2;4;4;4;3;4;4;4;4;4;53
+Chandpur;4;130407002;12500407002;Dash Para (East);Bepari Bare;100;460;150;3;1;4;1;1;1;1;4;3;2;2;4;2;4;4;4;41
+Chandpur;4;130407003;12500407003;Dash Para (East);Gones Das Bare;70;322;150;3;1;4;1;1;1;2;3;1;1;2;4;1;4;4;4;37
+Chandpur;4;130407004;1250407004;No S.Card;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Chandpur;4;130408001;12500408001;W. Rahman Jute Mill Elaka;W. Rahman Jute Mill;20;100;100;2;1;4;1;4;2;2;2;4;1;4;4;3;4;4;4;46
+Chandpur;4;130408002;12500408002;W. Rahman Jute Mill Elaka;Star Al Kayej Jute Mill;20;100;80;2;1;4;1;4;2;4;2;4;1;3;4;3;4;4;4;47
+Chandpur;5;130501001;12500501001;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;BoKael/Shek Bare/Vuiya Bare;55;325;200;2;1;4;1;1;1;1;3;3;4;1;4;1;4;4;4;39
+Chandpur;5;130501002;12500501002;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Nannu Miyaj Bare;15;75;60;2;1;4;1;1;2;2;4;3;4;3;4;1;4;4;4;44
+Chandpur;5;130501003;12500501003;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Mojumdar/Miyaj/Akhondo;41;201;150;2;1;4;1;2;2;3;4;4;4;4;4;1;4;4;4;48
+Chandpur;5;130501004;12500501004;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Gazi Bare/ Halim Gazi Bare;40;197;100;2;1;4;1;2;1;2;3;3;3;4;4;1;4;4;4;43
+Chandpur;5;130501005;12500501005;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Khan/Molla/Gazi/Soyal/Shek Bare;41;203;100;2;1;4;1;1;1;1;4;3;4;2;4;1;4;4;4;41
+Chandpur;5;130501006;12500501006;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Abu Bokor Siddik (Ra.) Madrasa And Yateem Khana;2;169;4;2;1;4;1;1;1;1;4;3;2;4;4;1;4;4;4;41
+Chandpur;5;130501007;12500501007;G.C Baliya Bari Purbo Pash/Shekh Bari/Jalil Bari;Jolil Kaji/Bapare/Khan/Gazi Bare;44;220;120;1;1;4;1;1;1;1;4;2;1;2;4;1;4;4;4;36
+Chandpur;5;130502001;12500502001;Hazi Karim Uttor/Asrayon Prok;Gazi/Shek/Pondit Khan Bare;45;224;100;1;2;4;1;1;1;1;4;3;2;2;4;1;4;4;4;39
+Chandpur;5;130502002;12500502002;Hazi Karim Uttor/Asrayon Prok;Kashem Patware;23;108;100;2;1;4;1;1;1;1;3;3;2;2;4;1;4;4;4;38
+Chandpur;5;130502003;12500502003;Hazi Karim Uttor/Asrayon Prok;Ashron Prokolpo;191;1000;19;2;1;2;1;1;1;1;1;3;1;1;2;1;4;2;1;25
+Chandpur;5;130503001;12500503001;Choyal Ghat/Dall Ghat/Sorafatulla Potti;Soyal Bare/Harun Bepare;50;250;110;2;1;3;1;1;1;1;3;3;1;2;4;2;4;4;4;37
+Chandpur;5;130503002;12500503002;Choyal Ghat/Dall Ghat/Sorafatulla Potti;Soraftulla Pato;33;165;150;2;1;4;1;1;1;1;2;3;1;1;4;1;4;4;4;35
+Chandpur;5;130504001;12500504001;Purbo Jafrabad Soudagor Bari/Dhon Gazi;Late. Abdul Mojil Khan Bare;600;2400;100;2;1;4;1;1;1;1;1;2;2;4;4;4;4;4;4;40
+Chandpur;5;130504002;12500504002;Purbo Jafrabad Soudagor Bari/Dhon Gazi;Ar Mannan Shek;400;1600;100;1;1;4;1;1;2;1;2;2;2;4;4;4;4;4;4;41
+Chandpur;5;130504003;12500504003;Purbo Jafrabad Soudagor Bari/Dhon Gazi;Josem Gaji/Late. Siraj Gazi;60;300;100;1;1;4;1;1;1;4;3;2;2;2;4;4;4;4;4;42
+Chandpur;5;130505001;12500505001;Kashim Buiya/Haque Saheb Bare;Kashem Vuiya Bare;150;600;200;2;1;4;1;2;4;4;3;2;2;4;4;4;4;4;4;49
+Chandpur;5;130506001;12500506001;Poschim G.R Baliya Bari/Amalot;Late. Jiya Gazi (Rare Bare);50;250;150;1;1;4;1;1;1;1;3;2;2;4;4;4;4;4;4;41
+Chandpur;5;130506002;12500506002;Poschim G.R Baliya Bari/Amalot;Late. Jiya Gazi (Rare Bare);60;250;150;1;1;4;1;1;2;4;3;2;2;4;4;4;4;4;4;45
+Chandpur;5;130506003;12500506003;Poschim G.R Baliya Bari/Amalot;Late. Jiya Gazi (Rare Bare);60;300;150;1;1;4;1;3;2;4;1;1;2;4;4;4;4;4;4;44
+Chandpur;5;130506004;12500506004;Poschim G.R Baliya Bari/Amalot;Late. Jiya Gazi (Rare Bare);40;200;150;1;1;4;1;3;1;1;4;1;2;4;4;4;4;4;4;43
+Chandpur;5;130507001;12500507001;Jafor Khan Bari/Hazi Bari(Jafor Khan Bari Uttor);Gofur Raja Bare/Mir Bare;65;260;155;1;1;3;1;1;1;1;3;1;2;4;4;4;4;4;4;39
+Chandpur;5;130507002;12500507002;Jafor Khan Bari/Hazi Bari(Jafor Khan Bari Uttor);Jafor Khan Bare;40;160;150;3;1;4;1;1;4;1;4;1;2;4;4;4;4;4;4;46
+Chandpur;5;130507003;12500507003;Jafor Khan Bari/Hazi Bari(Jafor Khan Bari Uttor);Nue Mohammad Miya ( Haji Bare);40;200;100;1;1;4;1;1;1;4;4;1;2;4;4;4;4;4;4;44
+Chandpur;5;130508001;12500508001;Oyabda Beribad Uttor/Bosarot Gazi Bari;Bosorot Gazi Bare;330;1518;200;1;1;4;1;1;1;1;4;2;2;3;4;1;4;4;4;38
+Chandpur;5;130508002;12500508002;Oyabda Beribad Uttor/Bosarot Gazi Bari;Haji A Korim Bare;86;397;100;2;1;4;1;1;1;2;4;3;3;3;4;1;4;4;4;42
+Chandpur;5;130508003;12500508003;Oyabda Beribad Uttor/Bosarot Gazi Bari;Abdul Khan Bare/Shiru Gazi Bare;85;391;100;1;1;4;1;1;1;1;2;3;1;3;4;1;4;4;4;36
+Chandpur;5;130508004;12500508004;Oyabda Beribad Uttor/Bosarot Gazi Bari;Miftahul Ulum Madrasa And yateem khana;3;110;80;2;1;2;1;1;1;1;4;3;1;4;4;1;4;4;4;38
+Chandpur;5;130508005;12500508005;Oyabda Beribad Uttor/Bosarot Gazi Bari;Saheb Alir Bare/ Yasin Ar Bare;32;148;20;1;2;3;1;1;1;1;1;1;1;1;1;1;3;2;1;22
+Chandpur;5;130508006;12500508006;Oyabda Beribad Uttor/Bosarot Gazi Bari;Sattar Gazi Bare/Muslim Shek Bare;25;115;30;1;1;4;1;1;1;1;1;3;1;3;4;1;4;4;4;35
+Chandpur;5;130509001;12500509001;Oyabda Beribad Dokkhin/Joinal Khan Bari Bari;Joinal Khan Bare/Haji Forman Khan;38;175;100;1;1;4;1;1;2;1;4;2;4;4;4;3;4;4;4;44
+Chandpur;5;130509002;12500509002;Oyabda Beribad Dokkhin/Joinal Khan Bari Bari;Ronja Gazi Bare/Yasim Khan Bare;42;194;100;1;1;4;1;1;1;1;2;3;2;3;4;1;4;4;4;37
+Chandpur;5;130509003;12500509003;Oyabda Beribad Dokkhin/Joinal Khan Bari Bari;Ator Khan Bare/Kajol Khan Bare;59;272;40;1;1;4;1;1;1;1;3;3;1;3;4;1;4;4;4;37
+Chandpur;5;130509004;12500509004;Oyabda Beribad Dokkhin/Joinal Khan Bari Bari;Hawlader Bare/Siraj Pathan Bare;38;175;15;1;1;4;1;1;1;1;2;3;1;4;4;1;4;4;4;37
+Chandpur;6;130601001;12500601001;5 No. Ghat Nodir Par;Khotom Ali Bepary Poschim Chor;100;460;100;1;1;2;1;1;1;1;1;1;1;1;1;1;3;2;2;21
+Chandpur;6;130601002;12500601002;5 No. Ghat Nodir Par;Malek Bepari Bari Modho Chor;150;690;12;1;1;1;1;1;1;1;1;1;1;1;1;1;3;2;1;19
+Chandpur;6;130602001;12500602001;Nodir Par Chor Bepari Bari;Malek Sordhar Bari Purbo Chor;120;495;12;1;1;1;1;1;1;1;1;1;1;1;1;1;3;2;1;19
+Chandpur;6;130603001;12500603001;5 No. Ghar/Behind Akkas Ali School;5 No. Railway Colony;30;138;60;1;1;3;1;1;1;1;2;1;1;1;4;1;4;2;1;26
+Chandpur;6;130603002;12500603002;5 No. Ghar/Behind Akkas Ali School;Abul Mejer Bostee;70;420;50;1;1;4;1;1;1;1;1;1;1;1;3;1;4;2;1;25
+Chandpur;6;130603003;12500603003;5 No. Ghar/Behind Akkas Ali School;5 No. Ghat Sobhan Shes Bahi;50;230;65;1;1;2;1;1;1;1;1;1;1;1;4;1;4;2;1;24
+Chandpur;6;130604001;12500604001;Koyla Ghat;Koyla Ghat/ Gazi Sikhot;75;345;40;1;1;2;1;1;1;1;2;1;1;1;4;1;4;2;1;25
+Chandpur;6;130604002;12500604002;Koyla Ghat;Mogafiya Dorbar Soref;70;322;40;1;1;3;1;1;1;1;2;1;1;4;4;1;4;2;1;29
+Chandpur;6;130605001;12500605001;Bakul Tola/Mail Colony;Mota Sohid Khan;18;82;60;1;1;3;1;1;1;1;4;3;1;4;4;1;4;2;2;34
+Chandpur;6;130605002;12500605002;Bakul Tola/Mail Colony;Fateha Bari/ Chittagong Loho;53;250;70;2;1;3;1;1;1;1;4;3;4;3;2;2;3;2;3;36
+Chandpur;6;130605003;12500605003;Bakul Tola/Mail Colony;Manek Ar bari;45;230;60;1;1;3;1;1;1;1;2;2;1;1;2;1;2;2;3;25
+Chandpur;6;130605004;12500605004;Bakul Tola/Mail Colony;Ibrahim;100;450;50;1;1;3;1;1;1;1;4;1;3;1;1;1;2;2;3;27
+Chandpur;6;130606001;12500606001;J.M Sengujpto Road;Christian Para/ Juyel Padar Bari;30;140;100;2;1;4;2;3;3;2;4;3;3;3;4;4;4;4;3;49
+Chandpur;6;130606002;12500606002;J.M Sengujpto Road;Fajel Uddain Pato;17;80;200;1;1;3;1;3;1;3;3;2;2;2;1;1;4;1;3;32
+Chandpur;6;130606003;12500606003;J.M Sengujpto Road;Gowtom And Begomer Bari;12;55;60;1;1;3;1;2;1;2;3;1;2;2;4;1;4;4;4;36
+Chandpur;7;130701001;12500701001;Pilot House/ Railway Banglo (3);Pilot House;300;1600;35;1;1;3;1;1;1;1;3;4;2;3;1;1;3;2;1;29
+Chandpur;7;130701002;12500701002;Pilot House/ Railway Banglo (3);Railway Banglo -3;200;1100;43;1;1;3;1;1;1;1;4;4;2;3;1;1;3;2;1;30
+Chandpur;7;130702001;12500702001;Jamuna Road/Meaghna Nodir Par Kandi (Nodir Sesh Matha);Jamunna Road;600;3000;65;2;1;4;1;1;2;1;4;4;4;3;2;1;3;2;1;36
+Chandpur;7;130702002;12500702002;Jamuna Road/Meaghna Nodir Par Kandi (Nodir Sesh Matha);Meaghna Par Kandi;400;2000;17;1;1;3;1;1;1;1;2;3;2;3;1;1;1;2;1;25
+Chandpur;7;130703001;12500703001;Tila Bari Road/Three Bridge Connection Point;Tila Bari Road;400;2000;70;1;1;4;1;1;1;1;3;3;3;4;4;3;4;2;2;38
+Chandpur;7;130703002;12500703002;Tila Bari Road/Three Bridge Connection Point;Three Bridge Connection Point;150;750;70;1;1;4;1;1;1;1;3;3;3;4;4;3;4;2;2;38
+Chandpur;7;130704001;12500704001;Club Road/Railway Colony;Club Road Poschim;300;1400;45;2;1;4;1;1;1;1;4;3;3;1;4;2;4;2;2;36
+Chandpur;7;130704002;12500704002;Club Road/Railway Colony;Club Road Purbo;150;650;45;2;1;4;1;1;1;1;4;3;3;4;3;2;4;2;2;38
+Chandpur;7;130704003;12500704003;Club Road/Railway Colony;Railway Colony;100;500;70;2;3;4;1;1;1;1;2;3;3;3;4;2;4;2;2;38
+Chandpur;7;130705001;12500705001;Railway Labor Colony/ G.R Fi Colony/Railway Lok Colony;Railway Lok Colony;200;1050;60;1;3;3;1;1;1;1;3;3;1;3;1;1;1;2;1;27
+Chandpur;7;130705002;12500705002;Railway Labor Colony/ G.R Fi Colony/Railway Lok Colony;Railway Labor Colony;250;1000;70;1;1;3;1;1;1;1;2;4;3;4;4;1;4;2;3;36
+Chandpur;7;130705003;12500705003;Railway Labor Colony/ G.R Fi Colony/Railway Lok Colony;G.R Fi Colony;100;500;100;1;1;3;1;1;1;1;2;3;3;2;4;2;4;2;2;33
+Chandpur;7;130706001;12500706001;Madrasha Road/Koborstan Road;Selim Soyel;250;1250;45;2;1;4;1;1;1;1;4;2;2;1;4;1;4;3;3;35
+Chandpur;7;130706002;12500706002;Madrasha Road/Koborstan Road;Kha Kandi;80;400;45;2;2;4;1;1;1;1;4;3;3;1;4;1;4;3;3;38
+Chandpur;7;130706003;12500706003;Madrasha Road/Koborstan Road;Osman Bepary;300;1500;45;2;2;4;1;1;1;1;4;3;3;1;4;1;4;3;3;38
+Chandpur;7;130706004;12500706004;Madrasha Road/Koborstan Road;Hasem Degi;650;3250;45;2;3;4;1;1;1;1;4;3;3;1;4;1;4;3;3;39
+Chandpur;7;130707001;12500707001;Horijan Swiper Colony/Gang Colony;Horijan Swiper Colony;85;425;100;3;1;2;1;1;1;1;4;4;1;3;2;3;3;2;1;33
+Chandpur;7;130707002;12500707002;Horijan Swiper Colony/Gang Colony;Gang Colony;30;150;70;1;1;3;1;2;1;1;3;2;1;1;3;1;3;2;2;28
+Chandpur;7;130707003;12500707003;Horijan Swiper Colony/Gang Colony;Akas Ali School Ar Poschim Pasha Maji Bari;320;1350;30;2;1;3;1;1;1;1;3;2;3;1;3;1;3;2;2;30
+Chandpur;7;130707004;1250707004;No S.Card;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Chandpur;7;130708001;12500708001;Katcha Colony/Maya Bari;Maya Bari;400;2000;45;1;1;4;1;1;1;1;1;3;3;1;2;2;3;2;3;30
+Chandpur;7;130708002;12500708002;Katcha Colony/Maya Bari;Kacha Kolmi;1500;6500;45;1;1;3;1;2;1;1;2;1;3;1;1;1;1;3;1;24
+Chandpur;7;130709001;12500709001;Nishi Building/Chirstain Koborstan Road/Kosai Khana Road;Pisi Building Poschim;350;1750;35;1;1;3;1;1;1;1;2;2;3;1;2;2;4;2;3;30
+Chandpur;7;130709002;12500709002;Nishi Building/Chirstain Koborstan Road/Kosai Khana Road;Emam Hossain Mollar Bari;38;185;80;1;1;3;1;1;1;1;1;2;1;1;2;2;3;2;3;26
+Chandpur;7;130709003;12500709003;Nishi Building/Chirstain Koborstan Road/Kosai Khana Road;Kosai Khana;400;2000;85;1;1;3;1;1;1;1;1;4;3;1;4;2;4;4;3;35
+Chandpur;7;130710001;12500710001;Jamtola/Koyla Bagan (Jamtola);Md. Ali Sikdar Bari;250;1000;100;2;1;4;1;3;1;1;3;4;3;1;4;1;4;2;3;38
+Chandpur;7;130710002;12500710002;Jamtola/Koyla Bagan (Jamtola);Rohim Gazir Bari;50;205;100;3;3;4;1;1;1;1;3;4;2;1;4;1;4;2;3;38
+Chandpur;7;130710003;12500710003;Jamtola/Koyla Bagan (Jamtola);Bot Tola;105;650;100;3;1;3;1;1;1;1;2;4;1;1;3;1;4;2;1;30
+Chandpur;7;130710004;12500710004;Jamtola/Koyla Bagan (Jamtola);Babur Bari;50;250;100;2;1;3;1;2;1;2;2;4;4;3;4;2;4;2;3;40
+Chandpur;7;130710005;12500710005;Jamtola/Koyla Bagan (Jamtola);Vuiya Bari;200;1050;100;2;1;3;1;2;1;1;3;4;2;1;4;1;4;4;4;38
+Chandpur;8;130801001;12500801001;Uttor Koraliya;Gazi Bari;160;800;150;3;3;4;1;3;3;4;4;3;4;3;4;3;4;4;4;54
+Chandpur;8;130801002;12500801002;Uttor Koraliya;Miji Bari Pir Badsa Mosjid;150;800;100;1;1;4;1;2;2;1;4;3;4;3;4;1;4;4;4;43
+Chandpur;8;130801003;12500801003;Uttor Koraliya;Chali Bari;150;800;100;3;1;4;3;1;3;4;4;4;4;4;4;2;4;4;4;53
+Chandpur;8;130802001;12500802001;Moddho Koraliya;Joira Bari;140;780;100;2;1;3;1;1;1;1;4;3;4;3;4;1;4;4;4;41
+Chandpur;8;130802002;12500802002;Moddho Koraliya;Sailase Bari;150;740;600;1;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Chandpur;8;130802003;12500802003;Moddho Koraliya;Master Bari;150;750;100;3;3;3;1;3;3;3;4;3;4;3;4;3;4;4;4;52
+Chandpur;8;130802004;12500802004;Moddho Koraliya;Hawlader Bari;100;500;100;4;1;3;2;2;3;2;4;3;4;3;4;3;4;4;4;50
+Chandpur;8;130803001;12500803001;Dokkin Koraliya/Ghos Para/Adorsho Muslim Para/Sha;Jahangir Parwarer Bari;85;420;130;1;1;2;1;3;1;2;3;2;2;2;4;1;4;4;4;37
+Chandpur;8;130803002;12500803002;Dokkin Koraliya/Ghos Para/Adorsho Muslim Para/Sha;Modon Sahar Bari;75;340;130;1;1;2;1;3;1;2;3;3;2;2;4;1;4;4;4;38
+Chandpur;8;130803003;12500803003;Dokkin Koraliya/Ghos Para/Adorsho Muslim Para/Sha;Topon Mondol And Hore Krish No Ghos Ar bari;35;175;150;2;1;4;1;2;1;2;3;2;2;2;4;2;4;4;4;40
+Chandpur;8;130803004;12500803004;Dokkin Koraliya/Ghos Para/Adorsho Muslim Para/Sha;Male Bari;22;108;120;2;1;2;1;3;2;2;3;1;2;2;1;1;4;4;4;35
+Chandpur;8;130803005;12500803005;Dokkin Koraliya/Ghos Para/Adorsho Muslim Para/Sha;Afjal Beparir Bari;13;60;100;1;1;3;2;2;2;3;3;2;2;2;4;2;4;4;4;41
+Chandpur;8;130804001;12500804001;Poschim Koraliya;Rati Bari;40;200;100;1;1;2;1;1;3;3;4;2;4;3;4;3;4;4;4;44
+Chandpur;8;130804002;12500804002;Poschim Koraliya;Kathayare Bari;60;300;100;1;1;4;1;1;3;3;4;3;3;3;1;4;4;4;4;44
+Chandpur;8;130805001;12500805001;Station Road J.T.C Colony;J.T.C Colony Purbo Dhik;193;932;100;1;1;3;1;1;1;1;1;2;2;1;2;1;2;2;1;23
+Chandpur;8;130805002;12500805002;Station Road J.T.C Colony;J.T.C Colony Poschim Dhik;220;1050;100;1;1;3;1;1;1;1;1;2;2;1;2;1;2;2;1;23
+Chandpur;8;130806001;12500806001;Guya Khola;Pochu Bepari Bari;20;95;120;2;1;3;1;2;3;1;3;3;3;3;4;2;4;4;4;43
+Chandpur;8;130806002;12500806002;Guya Khola;Usuf Prodhaniya;6;30;70;2;1;4;4;3;3;4;3;4;3;4;4;2;4;4;4;53
+Chandpur;8;130806003;12500806003;Guya Khola;Chokdar Bari;10;53;60;1;1;3;1;2;2;1;3;3;4;4;4;2;4;4;4;43
+Chandpur;8;130806004;12500806004;Guya Khola;Habib Ulah Mal;30;120;15;3;3;4;4;4;3;3;4;4;4;4;4;2;4;4;4;58
+Chandpur;8;130806005;12500806005;Guya Khola;Kadir Bepary Bari;25;95;100;1;1;4;4;4;4;1;4;4;4;4;4;3;4;4;4;54
+Chandpur;8;130806006;12500806006;Guya Khola;Mindol Bari Elaka;20;86;50;2;1;4;4;4;3;2;4;4;4;4;4;3;4;4;4;55
+Chandpur;8;130806007;12500806007;Guya Khola;Poncho Boti Para;16;64;70;2;1;4;4;4;3;3;4;4;4;4;4;3;4;4;4;56
+Chandpur;8;130806008;12500806008;Guya Khola;Kondet Para Elaka;12;48;100;2;2;4;1;3;3;1;3;4;4;4;4;3;4;4;4;50
+Chandpur;8;130806009;12500806009;Guya Khola;Kundu Bari Elaka;20;60;120;1;1;4;4;4;3;3;4;4;4;4;4;3;4;4;4;55
+Chandpur;8;130806010;12500806010;Guya Khola;Nayem Vila Elaka;11;44;70;2;4;4;4;3;3;3;4;4;4;4;4;3;4;4;4;58
+Chandpur;8;130807001;12500807001;Chowdhury Para;M.A Mannar Sorok;31;104;80;4;4;4;4;4;4;3;4;3;3;4;4;4;4;4;4;61
+Chandpur;8;130807002;12500807002;Chowdhury Para;Mahabub Patwari;16;70;100;3;1;4;4;4;4;3;4;4;4;4;4;4;4;4;4;59
+Chandpur;8;130807003;12500807003;Chowdhury Para;Khoka Dotto;16;64;100;4;4;4;4;4;4;3;4;4;4;4;4;4;4;4;4;63
+Chandpur;8;130808001;12500808001;Poschim Haji Mohsin Road;Jontu Dash Ar Bari;12;50;130;2;2;3;2;3;1;3;3;2;2;2;1;2;4;4;4;40
+Chandpur;8;130808002;12500808002;Poschim Haji Mohsin Road;Mojumdar Bari;25;115;250;2;1;3;3;2;2;3;3;2;2;2;4;2;4;4;4;43
+Chandpur;8;130808003;12500808003;Poschim Haji Mohsin Road;Rolo Loder Bari;17;80;90;1;1;3;1;3;1;3;3;2;3;2;4;1;4;4;4;40
+Chandpur;9;130901001;12500901001;Uttor-Purbo Bishnudi;Chokidar Bari;90;450;200;1;1;2;1;1;1;1;2;2;4;1;4;2;4;4;4;35
+Chandpur;9;130901002;12500901002;Uttor-Purbo Bishnudi;Meda Bari;105;460;200;1;1;2;1;2;1;1;2;2;4;2;4;2;4;4;4;37
+Chandpur;9;130901003;12500901003;Uttor-Purbo Bishnudi;Mida Bari;80;450;150;1;1;1;1;2;1;1;3;2;2;4;4;4;4;4;4;39
+Chandpur;9;130902001;12500902001;Uttor-Poschim Bishnudi;Khan/ Sardhar Bari;75;375;200;1;1;2;1;1;1;1;3;4;4;2;4;1;4;4;4;38
+Chandpur;9;130902002;12500902002;Uttor-Poschim Bishnudi;Gazi/Khondokor Bari;150;750;200;1;1;2;1;1;1;1;2;4;4;2;4;2;4;4;4;38
+Chandpur;9;130902003;12500902003;Uttor-Poschim Bishnudi;Bokaiel Bari;80;400;200;1;1;2;1;1;1;1;2;4;4;2;4;2;4;4;4;38
+Chandpur;9;130902004;12500902004;Uttor-Poschim Bishnudi;Meje Bari;7;35;200;1;1;1;1;1;2;1;1;4;4;4;4;2;4;4;4;39
+Chandpur;9;130903001;12500903001;Purbo Koraliya;Matabbor Bari;25;125;150;1;1;1;1;1;2;1;3;4;4;2;4;3;4;4;4;40
+Chandpur;9;130903002;12500903002;Purbo Koraliya;Dewan Bari;30;150;150;1;1;1;1;1;1;1;3;4;4;1;3;4;4;4;4;38
+Chandpur;9;130903003;12500903003;Purbo Koraliya;Haji/Chokidar Bari;45;300;150;1;1;1;1;1;1;1;2;2;2;1;3;1;4;4;4;30
+Chandpur;9;130903004;12500903004;Purbo Koraliya;Aiub Ali Dali Bari;55;330;180;1;1;2;1;1;1;1;4;4;4;1;4;2;4;4;4;39
+Chandpur;9;130903005;12500903005;Purbo Koraliya;Mijan Gazi;25;125;40;1;1;1;1;1;1;1;4;4;4;1;2;1;4;4;4;35
+Chandpur;9;130903006;12500903006;Purbo Koraliya;Usuf Gazi/Sadek Bari;50;300;150;1;1;1;1;1;1;1;2;4;4;1;4;2;4;4;4;36
+Chandpur;9;130903007;12500903007;Purbo Koraliya;Rowson Ali Gazi Ar Bari;70;350;150;1;1;4;1;1;1;1;4;4;4;1;4;2;4;4;4;41
+Chandpur;9;130903008;12500903008;Purbo Koraliya;Bokaiel Bari;15;90;150;1;1;1;1;1;1;1;2;4;4;2;4;1;4;4;4;36
+Chandpur;9;130904001;12500904001;Majhi Bari Area;Soleman Gone Bari;7;35;100;3;1;2;1;1;2;2;2;2;2;1;4;2;4;4;4;37
+Chandpur;9;130904002;12500904002;Majhi Bari Area;Maji Bari;70;350;150;2;1;3;1;1;1;2;3;2;2;3;4;2;4;4;4;39
+Chandpur;9;130904003;12500904003;Majhi Bari Area;Shek Bari;100;480;100;1;1;3;1;2;1;2;3;2;2;2;4;2;4;4;4;38
+Chandpur;9;130904004;12500904004;Majhi Bari Area;Nuru Jomdar;6;42;35;1;1;2;1;1;1;1;1;1;1;1;4;2;4;4;4;30
+Chandpur;9;130904005;12500904005;Majhi Bari Area;Sor Khola;200;980;55;2;1;4;3;1;1;3;3;2;1;2;4;3;4;3;3;40
+Chandpur;9;130904006;12500904006;Majhi Bari Area;Maji Bari Area;200;970;70;2;1;4;1;2;2;4;2;3;3;1;4;3;4;4;4;44
+Chandpur;9;130905001;12500905001;Bokaul Bari Area;Dale Bari;30;150;120;2;1;2;1;2;2;2;3;3;3;2;4;2;4;4;4;41
+Chandpur;9;130905002;12500905002;Bokaul Bari Area;Bepari Bari;120;500;120;1;1;2;1;2;2;2;3;3;2;4;4;4;4;4;4;43
+Chandpur;9;130905003;12500905003;Bokaul Bari Area;Jom,adar Bari;75;375;150;2;2;3;1;3;2;3;3;3;3;2;4;2;4;4;4;45
+Chandpur;9;130906001;12500906001;Molla Bari Area;Mobbot Ali Bari;60;300;120;2;1;4;1;1;1;1;2;2;3;1;4;2;4;4;4;37
+Chandpur;9;130906002;12500906002;Molla Bari Area;Gazi Bari;40;200;120;2;1;2;1;1;1;1;2;2;3;1;4;2;4;4;4;35
+Chandpur;9;130906003;12500906003;Molla Bari Area;Chokidar Bari;50;250;95;1;1;2;1;2;1;2;2;2;3;1;4;2;4;4;4;36
+Chandpur;9;130906004;12500906004;Molla Bari Area;Molla  Bari;100;450;100;2;1;2;1;1;1;1;2;1;1;1;4;3;4;4;4;33
+Chandpur;9;130907001;12500907001;Sordar Khan Bari-Professor Para-Singha;Afjal Bepary Bari;8;40;110;2;1;4;1;4;4;2;4;4;4;1;4;4;4;4;4;51
+Chandpur;9;130907002;12500907002;Sordar Khan Bari-Professor Para-Singha;Sordar Khan Bari;30;150;120;4;1;4;1;4;1;1;4;4;4;1;4;4;4;4;4;49
+Chandpur;9;130907003;12500907003;Sordar Khan Bari-Professor Para-Singha;Munse Bari;75;375;130;4;1;4;1;1;1;3;4;4;4;2;4;2;4;4;4;47
+Chandpur;10;131001001;12501001001;Adalot Para;Gonesdas Ar Bari;12;60;70;1;1;3;1;2;2;3;3;2;2;3;4;1;4;4;4;40
+Chandpur;10;131001002;12501001002;Adalot Para;Motumodar Bari;14;62;70;1;1;3;1;1;1;1;3;1;2;3;4;1;4;4;4;35
+Chandpur;10;131001003;12501001003;Adalot Para;Mostofar Bari;23;108;80;2;1;1;2;2;1;3;2;1;1;3;4;1;4;1;4;33
+Chandpur;10;131003001;12501003001;Alim Para;Alim Para Bepary Bari;7;30;100;2;3;4;2;4;3;2;4;4;4;4;4;1;4;4;4;53
+Chandpur;10;131003002;12501003002;Alim Para;Mobarok Bari;5;25;20;1;1;4;2;4;2;2;4;3;4;3;4;2;4;4;4;48
+Chandpur;10;131004001;12501004001;Ukil Para;Robidas Bari;14;70;100;1;3;3;3;2;2;1;4;3;2;4;4;1;4;4;4;45
+Chandpur;10;131004002;12501004002;Ukil Para;Hok Saheber Bari;6;30;50;2;3;3;3;2;2;1;4;3;4;4;4;1;4;4;4;48
+Chandpur;10;131004003;12501004003;Ukil Para;Sardar Bari;9;45;100;2;3;4;3;3;1;1;4;3;4;4;4;1;4;4;4;49
+Chandpur;10;131005001;12501005001;Ganguli Para;Ganguli Para Purbo Pash Bosoty;15;65;50;2;1;3;1;1;1;1;2;3;3;3;3;1;4;2;3;34
+Chandpur;10;131005002;12501005002;Ganguli Para;Dhopa Bari Bosoty;20;80;40;2;1;4;1;2;1;1;2;1;1;2;3;1;4;2;3;31
+Chandpur;10;131005003;12501005003;Ganguli Para;Noni Gopal O Poresher Bari;12;55;60;1;3;3;3;1;3;4;4;2;2;4;4;1;4;4;2;45
+Chandpur;10;131006001;12501006001;Protap Shah Road;Noton Der Bari;10;46;36;2;1;4;1;4;3;2;4;2;4;3;1;2;4;1;2;40
+Chandpur;10;131006002;12501006002;Protap Shah Road;Sofneth Munsher Bari;40;200;100;2;1;4;1;4;2;3;4;3;4;4;4;2;4;4;2;48
+Chandpur;10;131006003;12501006003;Protap Shah Road;Protap Shah Road;7;35;40;2;1;4;1;3;3;1;3;3;4;4;3;1;4;4;4;45
+Chandpur;10;131007001;12501007001;Pal Para;Sowkot Patwarer Bari;30;15;40;1;1;4;1;4;2;4;4;3;2;4;4;2;4;4;4;48
+Chandpur;10;131007002;12501007002;Pal Para;Abdul Ali;25;100;40;2;1;4;4;4;2;4;4;3;2;4;4;2;4;4;4;52
+Chandpur;10;131007003;12501007003;Pal Para;Jodu Par bAri;40;150;50;3;1;4;4;4;2;4;4;3;2;4;4;2;4;4;4;53
+Chandpur;10;131007004;12501007004;Pal Para;Waibe Kha Bari;200;1000;51;2;4;4;4;4;4;4;4;3;2;4;4;2;4;4;4;57
+Chandpur;10;131008001;12501008001;Notun Bazar;B.IT. Purbo Pash Goina Bosoty;54;230;60;1;1;2;1;2;1;2;1;1;1;2;4;1;4;3;2;29
+Chandpur;10;131009001;12501009001;Shahid Javed Road;Vuiya Bari;65;300;70;2;3;4;2;4;1;4;2;2;4;4;4;3;4;4;4;51
+Chandpur;10;131009002;12501009002;Shahid Javed Road;Habebur Rahman;6;30;70;2;1;3;4;3;1;2;4;3;4;3;4;2;4;4;4;48
+Chandpur;10;131010001;12501010001;Rahamotpur Residential Area;Sattar Khan Bari;200;100;15;2;1;4;4;4;3;3;4;3;2;4;4;2;4;4;4;52
+Chandpur;10;131010002;12501010002;Rahamotpur Residential Area;Taleb Dhale;50;200;50;2;4;3;4;4;1;4;4;3;2;4;4;2;4;4;4;53
+Chandpur;10;131010003;12501010003;Rahamotpur Residential Area;Moju Vuiya Bari;15;60;50;2;1;4;4;4;2;3;4;3;2;4;4;3;4;4;4;52
+Chandpur;11;131101001;12501101001;Uttor Ginrajdi Gazi Sarkar;Mofajon Gazi;15;72;50;2;1;4;1;2;3;2;3;3;3;3;4;2;4;4;4;45
+Chandpur;11;131101002;12501101002;Uttor Ginrajdi Gazi Sarkar;Bokaiel Bari;27;81;120;2;1;4;1;3;3;2;3;3;3;3;4;1;4;4;4;45
+Chandpur;11;131101003;12501101003;Uttor Ginrajdi Gazi Sarkar;Talukdar Bari;35;211;130;1;1;3;1;2;3;1;3;3;2;3;4;1;4;4;4;40
+Chandpur;11;131101004;12501101004;Uttor Ginrajdi Gazi Sarkar;Khan Bari;21;103;70;2;1;4;1;3;3;1;3;3;3;3;4;1;4;4;4;44
+Chandpur;11;131101005;12501101005;Uttor Ginrajdi Gazi Sarkar;Kholil Gazi Bari;43;204;100;2;1;4;1;3;3;2;3;3;3;3;4;1;4;4;4;45
+Chandpur;11;131101006;12501101006;Uttor Ginrajdi Gazi Sarkar;Gazu Bari Got;37;158;90;2;1;4;1;2;4;2;3;3;3;3;4;1;4;4;4;45
+Chandpur;11;131101007;12501101007;Uttor Ginrajdi Gazi Sarkar;Vuiya Got;47;228;70;2;1;4;1;2;3;2;3;3;3;3;4;1;4;4;4;44
+Chandpur;11;131101008;12501101008;Uttor Ginrajdi Gazi Sarkar;Hawlader Bari;58;266;120;2;4;4;1;2;3;2;3;2;3;3;4;1;4;4;4;46
+Chandpur;11;131102001;12501102001;Moddho Ginrajdi G.T. Road;Miji Bari;23;97;80;2;1;4;1;2;2;2;4;3;3;3;1;1;4;4;4;41
+Chandpur;11;131102002;12501102002;Moddho Ginrajdi G.T. Road;Mostan Bari;51;233;100;2;1;4;1;3;4;2;4;3;3;3;4;1;4;4;4;47
+Chandpur;11;131102003;12501102003;Moddho Ginrajdi G.T. Road;Vuiya Bari;34;153;90;2;1;4;1;2;4;2;4;3;3;3;4;1;4;4;4;46
+Chandpur;11;131102004;12501102004;Moddho Ginrajdi G.T. Road;Gazi/ Chaporashi;33;148;75;2;1;4;4;2;4;1;4;3;3;3;4;1;4;4;4;48
+Chandpur;11;131103001;12501103001;Khalifa Bari Road;Vuiya Bari;150;750;120;1;1;1;1;2;1;2;3;2;2;2;4;1;4;4;4;35
+Chandpur;11;131103002;12501103002;Khalifa Bari Road;Hawlader Bari;35;160;150;1;1;2;1;3;1;1;3;2;2;1;4;1;4;4;4;35
+Chandpur;11;131103003;12501103003;Khalifa Bari Road;F.D.O Patwari Bari;50;245;140;1;1;2;1;2;1;1;3;2;2;3;4;1;4;4;4;36
+Chandpur;11;131103004;12501103004;Khalifa Bari Road;Bepary Bari;30;140;80;1;1;1;1;3;1;3;2;1;1;3;4;1;4;4;4;35
+Chandpur;11;131104001;12501104001;Tempu Ghat Kabir Patyuri Road;Ajij Khorika Bari;65;300;200;1;1;4;1;3;3;1;3;3;3;2;3;1;4;4;4;41
+Chandpur;11;131104002;12501104002;Tempu Ghat Kabir Patyuri Road;Amir Ahamed Vuiya Bari;175;850;200;1;1;4;1;2;1;1;4;2;2;1;4;2;4;4;4;38
+Chandpur;11;131104003;12501104003;Tempu Ghat Kabir Patyuri Road;Tonu Patyuri Bari;25;125;110;1;1;1;1;3;1;2;2;2;2;3;4;1;4;4;4;36
+Chandpur;11;131105001;12501105001;Abdul Rashid Patyuri Road;Abul Hossain Sordar Elaka;45;250;100;1;1;3;1;1;1;1;3;3;2;2;4;3;4;4;4;38
+Chandpur;11;131105002;12501105002;Abdul Rashid Patyuri Road;Gazi Bari;200;1000;120;1;1;4;1;2;3;1;4;3;2;3;4;3;4;4;4;44
+Chandpur;11;131105003;12501105003;Abdul Rashid Patyuri Road;Fojlul Hok Patyuri Bari;150;750;150;1;1;4;1;3;1;2;4;3;3;2;4;3;4;4;4;44
+Chandpur;11;131106001;12501106001;Habibulla Patyuri Road;Mostofa Sordar;40;200;150;1;1;4;1;3;3;1;4;4;3;4;4;4;4;4;4;49
+Chandpur;11;131106002;12501106002;Habibulla Patyuri Road;Ali Master;250;1250;150;1;1;3;1;1;2;2;3;3;1;3;4;4;4;4;4;41
+Chandpur;11;131106003;12501106003;Habibulla Patyuri Road;Rohman Bepary Bosoty;30;150;70;1;1;4;1;1;4;1;4;3;3;4;3;1;4;4;4;43
+Chandpur;11;131106004;12501106004;Habibulla Patyuri Road;Yasin Bepary Bosoty;15;75;50;1;1;4;1;1;4;1;4;4;4;4;4;3;4;4;4;48
+Chandpur;11;131107001;12501107001;Adorsho Guchcho Gram;Meya Bari;35;175;43;1;1;4;1;1;3;3;4;4;4;4;4;4;4;4;4;50
+Chandpur;11;131107002;12501107002;Adorsho Guchcho Gram;Maji Bandi;150;600;40;1;1;1;1;1;4;4;4;3;4;4;4;4;4;4;4;48
+Chandpur;11;131107003;12501107003;Adorsho Guchcho Gram;Hamim Bepary Bari;130;680;45;2;1;1;1;1;2;1;4;4;2;4;2;4;4;4;4;41
+Chandpur;11;131108001;12501108001;Dewyan Bari;Munchur Dhali Bari;100;500;40;1;1;2;1;2;1;4;4;3;4;4;4;4;4;4;4;47
+Chandpur;11;131108002;12501108002;Dewyan Bari;Dewan Bari;50;250;45;1;1;1;1;1;4;4;4;3;4;4;4;4;4;4;4;48
+Chandpur;11;131108003;12501108003;Dewyan Bari;Moti Shek Ar Bari;60;280;45;1;1;1;1;1;2;4;4;3;4;4;4;4;4;4;4;46
+Chandpur;11;131109001;12501109001;Dokkhin Echuli;Jolil Gazi Bare;25;120;35;1;1;1;1;2;1;3;4;4;4;4;4;2;4;4;4;44
+Chandpur;11;131109002;12501109002;Dokkhin Echuli;Ajul Master Ar Bari;25;75;55;1;1;2;1;1;1;4;4;3;4;4;4;1;4;4;4;43
+Chandpur;11;131109003;12501109003;Dokkhin Echuli;Bepary Bari;52;228;52;1;1;4;1;1;1;4;4;4;4;4;4;4;4;4;4;49
+Chandpur;11;131110001;12501110001;Char Raghunathpur Bapari Bari;Adom Khoni Bari;30;160;65;2;1;4;1;1;2;4;4;4;4;4;4;2;4;4;4;49
+Chandpur;11;131110002;12501110002;Char Raghunathpur Bapari Bari;Sizan Bepari Bari;155;775;150;1;1;3;1;1;1;4;4;2;4;4;4;4;4;4;4;46
+Chandpur;11;131110003;12501110003;Char Raghunathpur Bapari Bari;Md. Momin Shek Bari;50;260;45;1;1;2;1;1;2;1;4;3;4;4;4;4;4;4;4;44
+Chandpur;12;131201001;12501201001;Chan Gunrajdi;Ansar Ullah Bari Ealaka;10;45;50;1;1;1;1;1;1;1;1;1;1;2;4;1;4;4;4;29
+Chandpur;12;131201002;12501201002;Chan Gunrajdi;Hawlader /Gazi;27;130;100;1;1;1;1;1;1;1;1;1;1;2;4;1;4;4;4;29
+Chandpur;12;131201003;12501201003;Chan Gunrajdi;Patwari Bari/Mojumder Bari Ealaka;25;120;100;1;1;1;1;1;1;1;1;1;1;3;4;1;4;4;4;30
+Chandpur;12;131201004;12501201004;Chan Gunrajdi;Mojumder/Gazi/Shek Bari Ealaka;30;140;70;1;1;1;1;1;1;1;1;1;1;2;4;1;4;4;4;29
+Chandpur;12;131202001;12501202001;Dorji Ghat;Tohsilder Bari;25;115;110;1;1;1;1;1;1;1;2;1;1;3;4;1;4;4;4;31
+Chandpur;12;131202002;12501202002;Dorji Ghat;Talukder Bari Bosoty;30;140;100;1;1;1;1;1;1;1;3;1;1;3;4;1;4;4;4;32
+Chandpur;12;131202003;12501202003;Dorji Ghat;Gazi/Dorji Onser Mosjid;40;92;110;1;1;1;1;1;1;1;3;2;2;3;4;1;4;4;4;34
+Chandpur;12;131202004;12501202004;Dorji Ghat;Dorji/Gazi/Bepary/Kalam Bepary Bari Ealaka;100;480;140;1;1;2;1;1;1;1;3;1;1;1;4;1;4;4;4;31
+Chandpur;12;131202005;12501202005;Dorji Ghat;Molla/Repadi/Kobi Raj Kalam Miji Bari Ealaka;210;980;120;1;1;1;1;1;1;1;3;1;1;3;4;1;4;4;4;32
+Chandpur;12;131203001;12501203001;South G.T Road;Modu Meyaji Bari;105;485;200;2;1;4;1;2;4;1;4;3;3;3;4;3;4;4;4;47
+Chandpur;12;131203002;12501203002;South G.T Road;Bacchu Miyaji Bari Road;25;125;30;2;1;4;2;4;4;4;4;4;4;3;4;3;4;4;4;55
+Chandpur;12;131203003;12501203003;South G.T Road;Abul Shek Ar Bari;8;40;100;2;1;4;1;4;4;1;4;4;4;4;4;3;4;4;4;52
+Chandpur;12;131203004;12501203004;South G.T Road;Nuru Khan/Taju Khan Ar Bari;8;40;50;2;1;4;1;4;3;4;4;3;1;4;4;1;4;4;4;48
+Chandpur;12;131203005;12501203005;South G.T Road;Gofur Sorkar Bari Road;40;190;300;2;1;4;2;4;4;1;4;3;4;3;4;3;4;4;4;51
+Chandpur;12;131203006;12501203006;South G.T Road;Goni Miyar Bari;50;250;200;2;1;4;4;1;4;2;4;4;4;2;3;4;4;4;4;51
+Chandpur;12;131203007;12501203007;South G.T Road;Faruk Sorkar Ar Bari;40;200;200;2;1;1;1;1;4;4;4;4;4;4;4;4;4;4;4;50
+Chandpur;12;131203008;12501203008;South G.T Road;Tafajjal Hossain Sorkar;60;300;200;1;1;4;2;2;4;2;4;4;4;4;4;4;4;4;4;52
+Chandpur;12;131204001;12501204001;Madrasha Road;Oxford School Ar Pichon Area;30;130;40;1;1;3;1;2;1;1;3;2;2;3;4;1;4;4;4;37
+Chandpur;12;131204002;12501204002;Madrasha Road;Munshi Bari Bosoty;80;400;150;1;1;2;1;2;2;1;4;2;2;4;4;1;4;4;4;39
+Chandpur;12;131204003;12501204003;Madrasha Road;Miji/ Hazi Bari Bosoty;25;130;50;2;1;3;1;2;2;1;3;2;2;3;4;2;4;4;4;40
+Chandpur;12;131204004;12501204004;Madrasha Road;Roran Theya Bosoty;20;90;30;2;1;3;1;2;2;2;4;2;2;3;4;2;4;4;4;42
+Chandpur;12;131205001;12501205001;Stadium Road;Besondi Seneyar Madrsha Poschem;30;120;40;1;1;2;1;1;1;1;3;2;2;3;4;2;4;4;4;36
+Chandpur;12;131205002;12501205002;Stadium Road;Selim Monse;35;140;50;1;1;3;1;1;1;1;2;2;2;3;4;1;4;4;4;35
+Chandpur;12;131206001;12501206001;Bangabondhu Road (North Side);Mojumder Bari Bosoty;25;115;120;1;1;1;1;1;1;2;3;1;1;3;4;1;4;4;4;33
+Chandpur;12;131206002;12501206002;Bangabondhu Road (North Side);Vuiya Bari o Molla Bari;63;285;130;1;1;2;1;3;2;1;2;1;1;3;4;1;4;4;4;35
+Chandpur;12;131206003;12501206003;Bangabondhu Road (North Side);Khan/ Sardhar Bari;80;400;150;1;1;2;1;2;2;2;3;1;1;3;4;1;4;4;4;36
+Chandpur;12;131206004;12501206004;Bangabondhu Road (North Side);Haji/Miji/Dhali/Bepary Bari;185;900;120;1;1;3;1;2;1;1;3;1;1;3;1;2;4;4;4;33
+Chandpur;12;131206005;12501206005;Bangabondhu Road (North Side);Shadu/Talukder/Master Bari;50;200;120;1;1;3;1;3;2;2;3;1;1;3;4;2;4;4;4;39
+Chandpur;12;131207001;12501207001;Mission Road (North Side);Golap Kha;6;30;50;1;1;4;1;4;4;4;4;4;4;4;4;3;4;4;4;54
+Chandpur;12;131207002;12501207002;Mission Road (North Side);Hawlader Bari;26;425;100;1;4;4;1;1;2;1;4;3;4;4;4;2;4;4;4;47
+Chandpur;12;131207003;12501207003;Mission Road (North Side);Monu Haji Barii;10;50;30;1;1;4;1;1;3;1;4;3;4;4;4;3;4;4;4;46
+Chandpur;12;131207004;12501207004;Mission Road (North Side);Kheremed Alom Bari;8;40;60;1;2;4;4;4;4;4;4;4;4;4;4;3;4;4;4;58
+Chandpur;12;131207005;12501207005;Mission Road (North Side);Monu Haji;10;50;100;1;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;61
+Chandpur;12;131208001;12501208001;Khan Road-Gazi Road(North Side);Khan/Dhali/Patwary Bari;105;505;110;1;1;2;1;1;1;1;3;1;1;2;4;1;4;4;4;32
+Chandpur;12;131208002;12501208002;Khan Road-Gazi Road(North Side);Romjan Bari Ealka;120;610;100;1;1;2;1;3;2;1;3;2;2;3;4;2;4;4;4;39
+Chandpur;12;131208003;12501208003;Khan Road-Gazi Road(North Side);Sofeulla/Badsha Gazui Bari Ealka;180;870;120;2;1;3;1;3;1;1;3;1;1;2;4;1;4;4;4;36
+Chandpur;12;131208004;12501208004;Khan Road-Gazi Road(North Side);Gazi Bari Elaka;70;350;120;3;1;3;1;3;3;2;3;3;1;1;4;2;4;4;4;42
+Chandpur;12;131208005;12501208005;Khan Road-Gazi Road(North Side);Talukder/Shali Bari Elaka;110;510;120;3;1;3;1;3;2;1;3;1;1;2;3;2;3;4;4;37
+Chandpur;12;131209001;12501209001;Nazir Para;Romjan Ali Dewan;60;300;100;1;1;4;1;4;1;1;4;4;2;4;4;3;4;1;2;41
+Chandpur;12;131209002;12501209002;Nazir Para;Royad Mondol Ar Pichon Ar Bosoty;10;50;40;1;1;4;4;4;4;4;4;4;4;4;4;4;4;2;2;54
+Chandpur;12;131209003;12501209003;Nazir Para;Doctor Mahabub Saheb;30;150;20;1;1;4;4;4;1;4;4;4;4;4;4;3;4;4;4;54
+Chandpur;12;131209004;12501209004;Nazir Para;Bonde Ali Hazi Bari;10;50;30;1;1;4;4;4;1;4;4;4;4;4;4;3;4;4;2;52
+Chandpur;12;131209005;12501209005;Nazir Para;Bonde Ali Hazi Bari 2;110;550;150;2;1;4;1;4;1;1;4;3;1;3;4;3;4;4;4;44
+Chandpur;12;131209006;12501209006;Nazir Para;Sofikul Islam Dewan;200;1000;150;2;1;4;1;3;1;4;4;1;4;4;1;4;4;4;4;46
+Chandpur;12;131209007;12501209007;Nazir Para;Abuler Dokan Talukder Bari;10;50;30;1;1;4;3;4;4;1;4;4;3;4;4;4;4;4;4;53
+Chandpur;12;131209008;12501209008;Nazir Para;Chowyal Bari;50;250;100;1;1;3;1;2;2;1;4;2;3;3;2;4;4;4;4;41
+Chandpur;13;131301001;12501301001;Police Line Elaka;Muslim Khan Bari;6;25;20;2;1;4;1;1;4;1;4;3;2;4;4;4;4;4;4;47
+Chandpur;13;131301002;12501301002;Police Line Elaka;Sattar Khan Bari;35;300;170;1;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;40
+Chandpur;13;131301003;12501301003;Police Line Elaka;Jubraj Tipra;15;72;35;2;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;44
+Chandpur;13;131301004;12501301004;Police Line Elaka;Kader Patware Bari;6;30;45;1;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;42
+Chandpur;13;131301005;12501301005;Police Line Elaka;Sayed Shek Bari;17;60;150;1;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;40
+Chandpur;13;131301006;12501301006;Police Line Elaka;Noyon Mali;21;70;300;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Chandpur;13;131301007;12501301007;Police Line Elaka;Kader Miji Bari;10;50;70;1;1;4;1;1;4;1;4;3;3;3;4;3;4;4;4;45
+Chandpur;13;131301008;12501301008;Police Line Elaka;Md. Micher Ali;6;30;37;1;1;3;1;1;2;4;4;4;4;4;4;1;4;4;4;46
+Chandpur;13;131301009;12501301009;Police Line Elaka;Thakur Bari Boba School Ar Pichna;31;150;150;1;1;3;1;1;1;1;4;4;3;4;4;4;4;4;4;44
+Chandpur;13;131301010;12501301010;Police Line Elaka;Mostofa Kamal Sahporan Jame Masjid;8;32;25;3;1;4;1;1;1;1;4;3;2;3;4;4;4;4;4;44
+Chandpur;13;131301011;12501301011;Police Line Elaka;Aiyub Ali Dhali Bari;29;100;110;1;1;2;1;1;1;1;4;3;3;3;4;4;4;4;4;41
+Chandpur;13;131301012;12501301012;Police Line Elaka;Joinal Abedin;6;30;55;1;1;4;1;1;1;1;4;3;3;4;4;4;4;4;4;44
+Chandpur;13;131301013;12501301013;Police Line Elaka;Jonu Gazi Bari;7;28;35;1;1;2;1;1;1;1;4;3;3;4;4;1;4;4;4;39
+Chandpur;13;131301014;12501301014;Police Line Elaka;Laterf Patwary Bari;7;28;30;2;1;3;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Chandpur;13;131301015;12501301015;Police Line Elaka;Nuru Miya Bari;5;20;40;2;1;3;1;1;1;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131302001;12501302001;Bono Bivag And Protibondi School;Bosu Gazi;35;250;170;1;1;4;1;1;1;1;4;3;3;4;4;4;4;4;4;44
+Chandpur;13;131302002;12501302002;Bono Bivag And Protibondi School;Chan Mita Bepary;26;110;150;1;1;4;1;1;1;1;4;3;3;1;4;4;4;4;4;41
+Chandpur;13;131302003;12501302003;Bono Bivag And Protibondi School;Waibe Kha Bari;22;100;120;1;1;4;1;1;1;1;4;3;2;4;4;4;4;4;4;43
+Chandpur;13;131302004;12501302004;Bono Bivag And Protibondi School;Sahajahan Member Ar Bari;30;150;100;1;1;4;1;1;1;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131302005;12501302005;Bono Bivag And Protibondi School;Kiyaj Patwary;36;150;180;2;1;3;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Chandpur;13;131302006;12501302006;Bono Bivag And Protibondi School;Mijan Hujurar Elaka;16;68;80;2;1;3;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Chandpur;13;131302007;12501302007;Bono Bivag And Protibondi School;Abu Prodhaniya Bari;32;150;180;1;1;3;1;1;2;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131302008;12501302008;Bono Bivag And Protibondi School;Sekandar Khan Bari;40;200;120;1;1;3;1;1;2;1;4;4;4;4;4;2;4;4;4;44
+Chandpur;13;131302009;12501302009;Bono Bivag And Protibondi School;Laba Gazi Bari;10;150;300;1;1;4;1;1;1;1;4;3;3;4;4;4;4;4;4;44
+Chandpur;13;131302010;12501302010;Bono Bivag And Protibondi School;Harun Gazi Bari;11;50;100;1;1;4;1;1;1;1;4;3;3;4;4;4;4;4;4;44
+Chandpur;13;131303001;12501303001;Oyabda And Technical School;Esan Ali Bari;60;300;100;1;2;4;1;1;2;1;4;3;1;4;4;2;4;4;4;42
+Chandpur;13;131303002;12501303002;Oyabda And Technical School;Miji Bari/Alem Khan;20;100;50;1;2;3;1;1;2;1;4;3;1;3;4;1;4;4;4;39
+Chandpur;13;131303003;12501303003;Oyabda And Technical School;Baji Rostom Member;50;250;70;1;2;3;1;1;2;1;3;3;1;3;4;2;4;4;4;39
+Chandpur;13;131303004;12501303004;Oyabda And Technical School;Mir Gazi;20;100;60;1;1;4;1;1;2;1;4;1;1;3;3;4;2;4;4;37
+Chandpur;13;131303005;12501303005;Oyabda And Technical School;Aner Akhon Bari;18;95;75;1;1;4;1;1;3;1;4;3;1;3;4;4;4;4;4;43
+Chandpur;13;131303006;12501303006;Oyabda And Technical School;Sah Alom Prodhaniya Bari;17;80;60;1;2;4;1;1;3;1;4;3;1;3;4;4;4;4;4;44
+Chandpur;13;131304001;12501304001;Bahir Khalishaduil;Akkas Gazi;35;315;70;1;2;3;1;1;1;1;4;3;2;4;4;1;4;4;4;40
+Chandpur;13;131304002;12501304002;Bahir Khalishaduil;Jahangir Miji;18;90;40;1;2;1;1;1;1;1;4;1;1;3;4;1;4;4;4;34
+Chandpur;13;131304003;12501304003;Bahir Khalishaduil;Dulal Seyal;5;30;55;1;1;3;1;1;2;1;2;2;2;4;4;4;4;4;4;40
+Chandpur;13;131304004;12501304004;Bahir Khalishaduil;Dr. Suddir Babu;25;124;75;2;2;3;1;1;2;2;2;3;3;3;4;4;4;4;4;44
+Chandpur;13;131304005;12501304005;Bahir Khalishaduil;Lokman Gazi Bari;10;50;60;2;2;3;1;1;2;1;2;3;2;3;4;4;4;4;4;42
+Chandpur;13;131305001;12501305001;Dhokkin Khalishaduil And Pallkandi;Nurul Islam;25;125;60;1;2;4;1;1;1;1;4;3;1;4;4;3;4;4;4;42
+Chandpur;13;131305002;12501305002;Dhokkin Khalishaduil And Pallkandi;Millal Borokndar Bari;45;150;30;1;2;3;1;1;1;1;4;3;1;3;4;1;4;4;4;38
+Chandpur;13;131305003;12501305003;Dhokkin Khalishaduil And Pallkandi;Chohoran Gazi;20;100;60;1;1;4;1;1;3;1;4;3;1;3;4;4;4;4;4;43
+Chandpur;13;131305004;12501305004;Dhokkin Khalishaduil And Pallkandi;Hossain Miji;20;100;150;1;1;4;1;1;1;1;4;3;1;4;4;4;1;4;4;39
+Chandpur;13;131305005;12501305005;Dhokkin Khalishaduil And Pallkandi;Sekandar Mowlana;40;260;100;1;3;4;1;1;1;1;4;3;1;4;4;2;4;4;4;42
+Chandpur;13;131305006;12501305006;Dhokkin Khalishaduil And Pallkandi;Tajajul Khone Bari;25;125;150;1;1;4;1;1;1;1;4;3;4;4;4;3;4;4;4;44
+Chandpur;13;131306001;12501306001;Mirzapur;Soiyal Bari;25;150;150;1;1;4;1;1;1;1;3;3;1;4;4;2;4;4;4;39
+Chandpur;13;131306002;12501306002;Mirzapur;Seraj Hok Gazi;8;40;150;1;1;4;1;1;2;1;4;3;4;3;4;4;4;4;4;45
+Chandpur;13;131306003;12501306003;Mirzapur;Khorsed Membert;25;150;150;1;2;4;1;1;1;1;3;2;1;4;4;2;4;4;4;39
+Chandpur;13;131306004;12501306004;Mirzapur;Khorsed Membert Poschim Deka;15;75;22;1;3;4;1;1;1;1;4;2;1;4;4;1;4;4;4;40
+Chandpur;13;131306005;12501306005;Mirzapur;Sofekul Rahman Gazi;5;20;32;1;1;4;1;1;1;1;4;3;1;4;4;2;4;4;4;40
+Chandpur;13;131306006;12501306006;Mirzapur;Faruk Khan Ar Bari;35;175;150;1;3;4;1;1;4;1;4;4;1;4;4;3;4;4;4;47
+Chandpur;13;131307001;12501307001;Enayet Nagar;Chorer Bari;27;135;100;1;1;1;1;1;1;1;2;3;2;1;4;1;4;4;4;32
+Chandpur;13;131307002;12501307002;Enayet Nagar;Das Bari;35;170;100;1;1;4;1;1;1;1;3;1;2;4;4;3;4;4;4;39
+Chandpur;13;131307003;12501307003;Enayet Nagar;Ibrahim Molla Gazi Bari;5;25;30;1;1;4;1;1;1;1;4;3;2;4;4;2;4;4;4;41
+Chandpur;13;131307004;12501307004;Enayet Nagar;Kader Gazi Bari;8;35;120;1;2;4;1;1;1;1;4;3;2;3;1;1;4;4;4;37
+Chandpur;13;131307005;12501307005;Enayet Nagar;Chokidar Bari;21;105;100;1;1;4;1;1;1;1;3;3;2;4;4;2;4;4;4;40
+Chandpur;13;131307006;12501307006;Enayet Nagar;Miya Bari;6;30;45;1;1;4;1;1;2;1;4;3;2;4;4;3;4;4;4;43
+Chandpur;13;131307007;12501307007;Enayet Nagar;Mota Gazi Bari;12;60;40;1;1;4;1;1;1;1;3;3;2;4;4;2;4;4;4;40
+Chandpur;13;131307008;12501307008;Enayet Nagar;Roshid Kaji Bari;14;70;70;1;2;4;1;1;1;1;4;3;2;3;4;3;4;4;4;42
+Chandpur;13;131307009;12501307009;Enayet Nagar;Samsuddain Soiyal Bari;6;30;50;1;1;4;1;1;3;1;4;3;3;4;4;3;4;4;4;45
+Chandpur;13;131307010;12501307010;Enayet Nagar;Aiyeub Ali;20;100;50;1;1;3;1;1;1;1;4;3;2;1;4;2;4;4;4;37
+Chandpur;13;131307011;12501307011;Enayet Nagar;Sattar Maji Bari;10;50;60;1;1;4;1;1;1;1;4;3;1;3;4;3;4;4;4;40
+Chandpur;13;131307012;12501307012;Enayet Nagar;Soyal Bari;9;45;46;2;1;4;1;1;2;1;4;3;2;2;4;2;4;4;4;41
+Chandpur;13;131307013;12501307013;Enayet Nagar;Moner Doctor/Chokedar Bari;19;95;100;1;2;4;1;1;4;1;4;1;1;3;4;1;4;4;4;40
+Chandpur;13;131308001;12501308001;Sirajul Islam Borkandas Road;Serajul Islam Bari;6;30;100;1;1;4;1;1;1;1;4;3;1;3;4;3;4;4;4;40
+Chandpur;13;131308002;12501308002;Sirajul Islam Borkandas Road;Sekdar Monna Bari;6;30;50;1;1;4;1;1;4;1;4;4;3;4;4;4;4;4;4;48
+Chandpur;13;131308003;12501308003;Sirajul Islam Borkandas Road;Ruhul Amin;5;30;100;1;1;4;1;1;3;1;4;3;2;3;4;1;4;4;4;41
+Chandpur;13;131308004;12501308004;Sirajul Islam Borkandas Road;Babul Gazi Bari;15;75;60;2;1;4;1;1;2;1;4;3;1;3;4;1;4;4;4;40
+Chandpur;13;131308005;12501308005;Sirajul Islam Borkandas Road;Sabubor Bagan Bari;20;100;70;1;1;4;1;1;4;1;4;4;4;3;4;4;4;4;4;48
+Chandpur;13;131308006;12501308006;Sirajul Islam Borkandas Road;Hakem Ali Gazi Bari;25;105;250;1;1;3;1;1;2;1;4;4;3;4;4;2;4;4;4;43
+Chandpur;13;131308007;12501308007;Sirajul Islam Borkandas Road;Majumode Bari;27;115;150;2;1;3;1;1;2;1;4;4;3;4;4;2;4;4;4;44
+Chandpur;13;131308008;12501308008;Sirajul Islam Borkandas Road;Md. Hasan;26;140;150;1;1;3;1;1;2;1;4;3;4;4;4;2;4;4;4;43
+Chandpur;13;131308009;12501308009;Sirajul Islam Borkandas Road;Jinnad Dorje Bari;20;100;150;1;1;3;1;1;2;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131308010;12501308010;Sirajul Islam Borkandas Road;Ache Mollik Bari;30;130;170;2;1;4;1;1;2;1;4;4;4;4;4;2;4;4;4;46
+Chandpur;13;131309001;12501309001;Majhar Area;Kaji Bari;34;170;150;2;1;3;1;1;1;1;3;2;2;3;4;4;4;4;4;40
+Chandpur;13;131309002;12501309002;Majhar Area;Kasem Ali Dewan Bari;30;150;150;2;1;3;1;1;1;1;4;3;2;2;4;4;4;4;4;41
+Chandpur;13;131309003;12501309003;Majhar Area;Nuru Molla Bari;25;100;170;2;1;3;1;1;1;1;4;2;2;2;4;4;4;4;4;40
+Chandpur;13;131309004;12501309004;Majhar Area;Miji Bari;18;80;150;1;1;3;1;1;1;1;4;3;3;4;4;1;4;4;4;40
+Chandpur;13;131309005;12501309005;Majhar Area;Shemana Shel;15;60;130;1;1;3;1;1;2;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131309006;12501309006;Majhar Area;Kader Kha;12;50;150;1;1;3;1;1;2;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;13;131309007;12501309007;Majhar Area;Ali Maji Bari;12;50;60;1;1;3;1;1;2;1;4;3;3;4;4;2;4;4;4;42
+Chandpur;13;131309008;12501309008;Majhar Area;Omor Ali Dewan Bari;15;60;170;2;1;3;1;1;2;1;4;4;4;4;4;2;4;4;4;45
+Chandpur;13;131309009;12501309009;Majhar Area;Lotef Sorkar Bari;29;120;150;1;1;3;1;1;1;1;4;3;3;4;4;1;4;4;4;40
+Chandpur;13;131310001;12501310001;Dokkhin Torpur Chandi;Md. Mahabub Kaji Bari;21;85;170;2;1;3;1;1;3;1;4;3;2;3;2;4;3;4;4;41
+Chandpur;13;131310002;12501310002;Dokkhin Torpur Chandi;Fojol Dewan Bari;14;70;170;1;1;3;1;1;3;1;4;3;2;3;2;4;4;4;4;41
+Chandpur;13;131310003;12501310003;Dokkhin Torpur Chandi;Lotip Kholifa Bari;17;70;150;2;1;4;1;1;1;1;4;2;2;2;4;4;3;4;4;40
+Chandpur;13;131311001;12501311001;Upazila And Shakh Bari;Mojomdar Bari;8;40;60;2;1;4;1;1;2;1;4;4;4;3;4;4;4;4;4;47
+Chandpur;13;131311002;12501311002;Upazila And Shakh Bari;Gaji Bari;13;65;200;1;1;3;1;1;1;1;4;2;3;2;4;4;4;4;4;40
+Chandpur;13;131311003;12501311003;Upazila And Shakh Bari;Sakh Moten Bari;22;85;170;2;1;3;1;1;3;2;3;4;4;3;4;4;4;4;4;47
+Chandpur;13;131311004;12501311004;Upazila And Shakh Bari;Hafej Gazi Bari;34;140;150;2;1;4;1;2;1;4;4;4;4;3;3;3;3;4;4;47
+Chandpur;13;131311005;12501311005;Upazila And Shakh Bari;Rostom Bepary Bari;25;100;120;2;1;4;1;2;2;2;4;4;4;4;4;1;4;4;4;47
+Chandpur;13;131311006;12501311006;Upazila And Shakh Bari;Rowsan Ali Mastar Bari;8;35;170;2;2;3;1;1;2;1;4;4;4;4;4;4;4;4;4;48
+Chandpur;13;131311007;12501311007;Upazila And Shakh Bari;Md. Mojebuddain Dhali;22;88;170;2;2;3;1;1;2;1;4;4;4;3;4;1;4;4;4;44
+Chandpur;13;131311008;12501311008;Upazila And Shakh Bari;Momotaj Uddain Gazi;14;55;170;1;2;3;1;1;1;1;4;3;2;4;4;1;4;4;4;40
+Chandpur;13;131311009;12501311009;Upazila And Shakh Bari;Chan Gazi;7;35;170;2;1;3;1;1;1;4;4;3;3;4;4;1;4;4;4;44
+Chandpur;13;131311010;12501311010;Upazila And Shakh Bari;Khotef Soyan;6;30;55;2;1;3;1;1;1;4;4;4;3;4;4;1;4;4;4;45
+Chandpur;13;131311011;12501311011;Upazila And Shakh Bari;Nasir Mawlana Puran Bari;11;50;160;2;1;3;1;1;1;4;4;4;3;4;4;1;4;4;4;45
+Chandpur;13;131311013;12501311013;Upazila And Shakh Bari;Refoji Colony;24;95;75;2;3;3;1;1;1;1;4;3;1;3;2;1;3;3;2;34
+Chandpur;13;131311014;12501311014;Upazila And Shakh Bari;Ali Akbor Gazi;50;250;100;2;3;3;1;1;2;1;4;3;3;4;4;2;4;4;4;45
+Chandpur;13;131311015;12501311015;Upazila And Shakh Bari;Refoji Colony;24;95;75;2;3;3;1;1;1;1;4;3;1;3;2;1;3;3;2;34
+Chandpur;13;131312001;12501312001;Ghora Mara Asrayon Prokolpo;Ghora Mara Asrayon Prokolpo;250;1230;16;2;3;4;1;1;1;1;3;1;2;1;1;4;4;4;4;37
+Chandpur;13;131313001;12501313001;Shekherhat Asrayon Prokolpo;Shekherhat Asrayon Prokolpo ( Parulen Bari);30;150;17;4;3;4;1;1;1;1;1;3;1;3;4;1;4;3;3;38
+Chandpur;13;131313002;12501313002;Shekherhat Asrayon Prokolpo;Shekherhat Asrayon Prokolpo ( Josemar Bari);60;140;17;2;1;4;1;1;1;1;1;3;2;1;4;1;1;3;3;30
+Chandpur;13;131313003;12501313003;Shekherhat Asrayon Prokolpo;Chokidar Bari/Osman;6;30;100;1;2;4;1;1;1;1;1;3;2;3;4;2;4;4;4;38
+Chandpur;14;131401001;12501401001;North Ashi Kati;Samsul Mal;6;32;50;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131401002;12501401002;North Ashi Kati;Bokka Bari;9;47;70;1;1;4;1;1;3;4;4;3;3;3;4;1;4;4;4;45
+Chandpur;14;131401003;12501401003;North Ashi Kati;Member Abul Mal;31;143;150;1;1;4;1;1;3;1;4;3;4;3;4;1;4;4;4;43
+Chandpur;14;131401004;12501401004;North Ashi Kati;Mokles Mal;6;33;35;1;1;4;1;1;3;1;4;3;4;3;4;1;4;4;4;43
+Chandpur;14;131401005;12501401005;North Ashi Kati;Nemai Dr. Ar Bari;17;75;100;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131401006;12501401006;North Ashi Kati;Derendro Shel Bari;18;143;200;1;1;4;1;1;3;1;4;4;4;4;4;1;4;4;4;45
+Chandpur;14;131401007;12501401007;North Ashi Kati;Tapu Maler Bari;17;85;70;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131401008;12501401008;North Ashi Kati;Rakhal Shel;7;39;60;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131401009;12501401009;North Ashi Kati;Nur Topdar Bari;13;67;70;1;1;4;1;1;4;1;4;3;3;3;4;1;4;4;4;43
+Chandpur;14;131401010;12501401010;North Ashi Kati;Hojol Seyaler Bari;17;85;85;1;1;4;1;1;3;1;4;3;3;3;1;1;4;4;4;39
+Chandpur;14;131401011;12501401011;North Ashi Kati;Ajad Patware;17;85;50;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131401012;12501401012;North Ashi Kati;Wayad Mawlanar Bari;8;43;30;1;1;4;1;1;1;1;3;3;3;3;4;3;4;4;4;41
+Chandpur;14;131401013;12501401013;North Ashi Kati;Sattar Maler Bari;45;250;120;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Chandpur;14;131402001;12501402001;South Ashi Kati;Deloyar Chairman O Sarkar Bari;24;125;60;2;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131402002;12501402002;South Ashi Kati;Motin Khan Bari;17;85;50;1;1;4;1;3;3;1;4;3;3;3;4;1;4;4;4;44
+Chandpur;14;131402003;12501402003;South Ashi Kati;Korem Master Bari;10;55;80;1;1;4;1;1;3;1;4;3;3;3;1;1;4;4;4;39
+Chandpur;14;131402004;12501402004;South Ashi Kati;Haji Poja Dorga/Juyel Khan;7;17;150;1;1;4;1;1;3;1;4;3;2;3;4;1;4;4;4;41
+Chandpur;14;131402005;12501402005;South Ashi Kati;Jolel Miji Bari;15;80;60;1;1;1;1;1;3;1;4;3;3;3;4;1;4;4;4;39
+Chandpur;14;131402006;12501402006;South Ashi Kati;Hafej Maler Bari;7;35;70;1;1;4;1;1;1;1;4;3;3;4;4;1;4;4;4;41
+Chandpur;14;131402007;12501402007;South Ashi Kati;Amer Hossain Shekh;15;95;65;1;1;4;1;1;3;1;3;3;3;3;4;1;4;4;4;41
+Chandpur;14;131402008;12501402008;South Ashi Kati;Dilep Chowdory Bari;9;35;25;1;1;4;1;1;1;1;4;3;3;3;3;1;4;4;4;39
+Chandpur;14;131402009;12501402009;South Ashi Kati;Sukmor Bar Ranu;49;255;50;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131403001;12501403001;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Khan Bari;30;135;40;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131403002;12501403002;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Monnan Maler Bari;22;101;150;1;1;4;1;1;4;1;4;3;4;3;4;1;4;4;4;44
+Chandpur;14;131403003;12501403003;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Khan Sahadur Barir Dokkhien And East Pash;29;150;66;1;1;4;1;1;3;1;4;3;2;3;3;1;3;4;4;39
+Chandpur;14;131403004;12501403004;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Khan Bahadur Ar Bari;55;300;66;1;1;4;1;1;3;1;4;3;4;4;3;1;3;4;4;42
+Chandpur;14;131403005;12501403005;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Amin Mojunder Ar Bari;5;27;60;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131403006;12501403006;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Moten Mojunder;11;85;100;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131403007;12501403007;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Sohedullah Master Ar Bari;36;165;100;1;1;4;1;1;3;1;4;3;3;3;1;1;4;4;4;39
+Chandpur;14;131403008;12501403008;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Pathan Bari;24;109;120;1;1;4;1;1;4;1;4;3;2;4;4;1;4;4;4;43
+Chandpur;14;131403009;12501403009;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Delayor Hossain Khan Bari;28;155;100;1;1;4;1;1;3;1;4;3;4;4;4;1;4;4;4;44
+Chandpur;14;131403010;12501403010;Dash Dai (1)_ Babur Hat- City Town (Beside Model Town);Munsi Bari;8;37;100;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131404001;12501404001;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Renu Doctor;9;47;15;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131404002;12501404002;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Oyei Babur Degi;17;77;40;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131404003;12501404003;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Oyei Babur Degi Purbo Pash;30;160;40;1;1;4;1;1;2;1;4;3;2;2;3;1;3;4;4;37
+Chandpur;14;131404004;12501404004;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Guddu Shek Ar Bari;49;245;42;1;1;4;1;1;2;1;3;3;2;1;4;1;4;4;4;37
+Chandpur;14;131404005;12501404005;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Deren Doctor Bari;25;120;200;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131404006;12501404006;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Sah Jahan Gazi;17;85;200;1;1;4;1;1;3;1;4;3;4;3;4;1;4;4;4;43
+Chandpur;14;131404007;12501404007;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Rahman Dhali;12;65;40;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131404008;12501404008;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Masud Praloyar;27;125;50;1;1;4;1;1;3;1;4;3;3;3;3;1;3;4;4;40
+Chandpur;14;131404009;12501404009;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Mohsin Proloyar;105;610;70;1;1;4;1;1;2;1;4;3;2;2;2;1;3;2;1;31
+Chandpur;14;131404010;12501404010;Dash Dai (2)_ City Town West Side-  Model Town North Side- Shopon`s House;Patwari Bari;13;65;64;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131405001;12501405001;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Kader Talukder Bari;8;35;60;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131405002;12501405002;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Dos aner Degir Purbo Par;21;100;55;1;1;4;1;1;3;1;4;3;3;3;3;1;3;4;4;40
+Chandpur;14;131405003;12501405003;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Dos aner Degir Uttor Par;8;38;55;1;1;4;1;1;3;1;4;3;3;3;1;1;3;2;4;36
+Chandpur;14;131405004;12501405004;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Dos aner Degir Poschem Par;40;180;42;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131405005;12501405005;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Rongo Gazir Bari;11;52;50;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131405006;12501405006;Dash Dai (3)_ East Side Of Shopon`s House-Hazrat Ali Gazi Bari- Mazi Bari (West);Bolomto Khan Bari;5;16;50;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406001;12501406001;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Rofikul Islam Bari;25;105;150;1;1;4;1;1;3;1;4;3;4;3;4;1;4;4;4;43
+Chandpur;14;131406002;12501406002;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Hamed Shek AR Bari/Kalam Bepary;41;187;65;1;1;4;1;1;2;1;3;3;3;3;4;1;4;4;4;40
+Chandpur;14;131406003;12501406003;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Bepary Bari;39;185;120;1;1;4;1;1;2;1;4;3;2;2;4;1;4;4;4;39
+Chandpur;14;131406004;12501406004;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Fojlul Bepary Bari;10;50;40;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406005;12501406005;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Abutaher Bari;5;18;35;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406006;12501406006;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Mannan Shek Nur Shek;40;180;50;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406007;12501406007;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Manek Gazi/Khan;26;112;60;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406008;12501406008;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Esmayel Khan Bari;15;51;60;1;1;4;1;1;3;1;4;3;3;3;4;1;4;4;4;42
+Chandpur;14;131406009;12501406009;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Golap Dhale Bari;15;70;200;1;1;4;1;1;3;1;4;3;4;4;4;1;4;4;4;44
+Chandpur;14;131406010;12501406010;Dash Dai (4)_ Model Town South Side- Mazi Bari South Side Nur Sekh Bari (West)- Manik Khan Bari- Nimal Babur Bari;Usuf Khan Bari;35;135;80;1;1;4;1;1;3;1;4;3;4;3;3;1;3;4;4;41
+Chandpur;14;131407001;12501407001;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Vuiya Bari;15;60;70;1;1;4;1;1;3;1;4;2;3;4;3;1;4;2;3;38
+Chandpur;14;131407002;12501407002;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Mote Patwary Bari;12;48;70;1;1;4;1;1;4;1;4;2;3;3;4;1;4;4;4;42
+Chandpur;14;131407003;12501407003;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Kader Shek Ar Bari;35;175;80;1;1;4;1;1;4;4;3;3;3;4;3;1;3;4;4;44
+Chandpur;14;131407004;12501407004;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Taju And Sofek Miji;40;210;75;1;1;4;1;1;4;1;4;3;3;4;4;1;4;4;4;44
+Chandpur;14;131407005;12501407005;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Jobbor Patwary;14;56;80;1;1;4;1;1;4;1;4;3;3;4;4;1;4;4;4;44
+Chandpur;14;131407006;12501407006;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Veno Dr. Bari;15;75;150;1;1;4;1;1;4;1;4;4;4;4;4;1;4;4;4;46
+Chandpur;14;131407007;12501407007;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Ghorkari/Patwary;53;239;65;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131407008;12501407008;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Hossain Shek Ar Bari;41;186;83;1;1;4;1;1;2;1;4;3;3;4;4;1;4;4;4;42
+Chandpur;14;131407009;12501407009;Shilondia (1)_ Shamsur Sahed Bari(north)-C.M B. Canal & Comilla Road (West) Anwar Patwary Bari (South)- Mohsin Road;Seraj Hajri;62;279;77;1;1;4;1;1;3;1;4;3;3;4;4;1;4;4;4;43
+Chandpur;14;131408001;12501408001;Shilondia (2)_ Anwar Khan Bari (North)- Mazumdar Bari (South) C.M.B Canal (West)- Moisadi Road (East) & Poddar Bari;Nuru Mojimder And Bahadur Kha;37;167;85;2;1;4;1;1;3;1;4;3;3;3;4;4;4;4;4;46
+Chandpur;14;131408002;12501408002;Shilondia (2)_ Anwar Khan Bari (North)- Mazumdar Bari (South) C.M.B Canal (West)- Moisadi Road (East) & Poddar Bari;Lokman Ar Bari Thaka Harun Hawlader Ar Bari Pojonto;52;237;55;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Chandpur;14;131408003;12501408003;Shilondia (2)_ Anwar Khan Bari (North)- Mazumdar Bari (South) C.M.B Canal (West)- Moisadi Road (East) & Poddar Bari;Purbo Harun Hawlader/Bode Alom Chowdory/Poschem Sahjahan Gazi Bari Pojonto;45;203;65;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131408004;12501408004;Shilondia (2)_ Anwar Khan Bari (North)- Mazumdar Bari (South) C.M.B Canal (West)- Moisadi Road (East) & Poddar Bari;Selim Khan;30;150;75;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131408005;12501408005;Shilondia (2)_ Anwar Khan Bari (North)- Mazumdar Bari (South) C.M.B Canal (West)- Moisadi Road (East) & Poddar Bari;Jadul MuDa Bari;110;565;80;1;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;40
+Chandpur;14;131409001;12501409001;Shilondia (3)_Moisadi Road (West) - Mokles Misi Bari (East)-Harun Kha Bari Road (North);Nojrul Kerane;47;213;65;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Chandpur;14;131409002;12501409002;Shilondia (3)_Moisadi Road (West) - Mokles Misi Bari (East)-Harun Kha Bari Road (North);Mokles Mal;75;338;85;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Chandpur;14;131409003;12501409003;Shilondia (3)_Moisadi Road (West) - Mokles Misi Bari (East)-Harun Kha Bari Road (North);Halem Gazi;60;240;75;1;1;4;1;1;2;1;4;3;3;3;4;1;4;4;4;41
+Chandpur;14;131410001;12501410001;C.M.B Canal (North)- Moisadi Road (West)- Munsi Bari Road (East);Anoyar Khan Bari;18;75;45;1;1;4;1;1;4;1;4;3;2;4;4;1;4;4;4;43
+Chandpur;14;131410002;12501410002;C.M.B Canal (North)- Moisadi Road (West)- Munsi Bari Road (East);Sah Alamin;23;118;65;1;1;4;1;1;4;1;4;3;2;4;4;1;4;4;4;43
+Chandpur;14;131410003;12501410003;C.M.B Canal (North)- Moisadi Road (West)- Munsi Bari Road (East);Bepary Bari;30;155;75;1;1;4;1;1;4;1;4;3;3;4;4;1;4;4;4;44
+Chandpur;14;131410004;12501410004;C.M.B Canal (North)- Moisadi Road (West)- Munsi Bari Road (East);Chular Khal;42;400;50;1;1;3;1;1;1;1;3;2;2;2;4;1;4;4;4;35
+Chandpur;15;131501001;12501501001;North Side Of Biddyaboti Khal;Patwary/ Chetu Bepary;90;450;100;1;1;1;1;1;1;1;2;3;1;3;4;3;4;4;4;35
+Chandpur;15;131501002;12501501002;North Side Of Biddyaboti Khal;Aiweb Ali/Patwary;12;60;100;1;1;4;1;4;4;2;3;3;3;4;4;4;4;4;4;50
+Chandpur;15;131501003;12501501003;North Side Of Biddyaboti Khal;Talukder/Bechu Bari;40;200;100;1;1;4;1;1;3;4;3;3;3;4;4;3;4;4;4;47
+Chandpur;15;131501004;12501501004;North Side Of Biddyaboti Khal;Gazi Bari/Kalu Gazi;20;100;90;1;1;4;1;3;4;1;3;4;4;3;4;3;4;4;4;48
+Chandpur;15;131501005;12501501005;North Side Of Biddyaboti Khal;Faruk Miji/Malek Miji Monir Miji;20;200;100;1;1;4;1;2;3;1;3;3;3;3;4;3;4;4;4;44
+Chandpur;15;131501006;12501501006;North Side Of Biddyaboti Khal;Baret Molla;30;120;100;1;1;1;1;1;2;1;2;1;2;3;4;1;4;4;4;33
+Chandpur;15;131501007;12501501007;North Side Of Biddyaboti Khal;Mil Bari;50;260;100;1;1;4;1;4;4;4;3;3;3;4;4;4;4;4;4;52
+Chandpur;15;131501008;12501501008;North Side Of Biddyaboti Khal;Jogi Bari/Hanef Gazi;20;200;100;1;1;4;1;3;4;1;3;3;3;3;4;3;4;4;4;46
+Chandpur;15;131502001;12501502001;South Side Of Biddyaboti Khal;Esmayel Molla;30;150;70;1;1;3;1;1;2;1;3;2;3;4;4;4;4;4;4;42
+Chandpur;15;131502002;12501502002;South Side Of Biddyaboti Khal;Mofu Molla;40;250;90;3;3;4;1;1;4;4;4;4;4;4;4;2;4;4;4;54
+Chandpur;15;131502003;12501502003;South Side Of Biddyaboti Khal;Amin Bepary Bari;12;80;20;4;4;4;1;4;4;4;2;3;2;3;4;3;4;4;4;54
+Chandpur;15;131502004;12501502004;South Side Of Biddyaboti Khal;Sattar Gazi;30;250;100;2;3;4;4;4;4;3;4;3;3;3;4;3;4;4;4;56
+Chandpur;15;131502005;12501502005;South Side Of Biddyaboti Khal;Miya Bari;250;500;100;2;4;4;2;3;4;4;4;2;3;2;4;2;4;4;4;52
+Chandpur;15;131502006;12501502006;South Side Of Biddyaboti Khal;Sidu Gazi;250;450;100;2;1;3;1;1;2;4;4;2;1;4;4;4;4;4;4;45
+Chandpur;15;131503001;12501503001;North Side Of C.M.B Road;Dr. Bari;20;110;60;2;1;4;1;3;1;1;3;1;2;3;4;1;4;4;4;39
+Chandpur;15;131503002;12501503002;North Side Of C.M.B Road;Akher Bapary Bari;16;75;140;2;1;4;1;3;2;1;3;2;2;3;3;1;4;4;4;40
+Chandpur;15;131503003;12501503003;North Side Of C.M.B Road;Habu Bepary Bari;26;160;100;2;1;4;1;3;2;1;3;1;2;3;4;1;4;4;4;40
+Chandpur;15;131503004;12501503004;North Side Of C.M.B Road;Arman Gazi Bari;16;100;500;2;1;4;1;2;3;1;2;1;3;3;4;1;4;4;4;40
+Chandpur;15;131503005;12501503005;North Side Of C.M.B Road;Profesor Ar Rosed;30;200;100;1;1;4;1;3;3;1;3;3;2;3;4;2;4;4;4;43
+Chandpur;15;131503006;12501503006;North Side Of C.M.B Road;Siddik Miji Bari;80;400;100;1;1;4;1;3;3;1;3;3;3;3;4;2;4;4;4;44
+Chandpur;15;131503007;12501503007;North Side Of C.M.B Road;Amir Miji;70;500;100;1;1;4;1;3;3;1;3;3;3;3;4;2;4;4;4;44
+Chandpur;15;131504001;12501504001;G.T Road (East) & B.T Road (West);Roshid Commision Ar Bari;8;74;100;1;1;4;1;3;4;3;4;3;4;3;4;4;4;4;4;51
+Chandpur;15;131504002;12501504002;G.T Road (East) & B.T Road (West);Akhon Bari;48;350;100;3;4;4;1;3;3;2;4;3;3;3;4;4;4;4;4;53
+Chandpur;15;131504003;12501504003;G.T Road (East) & B.T Road (West);Kayek molla;27;200;22;2;1;4;1;2;3;1;2;1;2;3;4;1;4;4;4;39
+Chandpur;15;131504004;12501504004;G.T Road (East) & B.T Road (West);Barek Akhon Bari;22;125;100;2;1;4;4;4;3;1;1;2;2;3;4;1;4;4;4;44
+Chandpur;15;131504005;12501504005;G.T Road (East) & B.T Road (West);Malek Komi Sonarer Bari;40;225;60;2;1;4;1;3;4;3;4;3;4;3;4;4;3;4;4;51
+Chandpur;15;131504006;12501504006;G.T Road (East) & B.T Road (West);Hok Molla;41;300;100;2;2;4;1;2;3;1;3;2;2;3;4;1;4;4;4;42
+Chandpur;15;131504007;12501504007;G.T Road (East) & B.T Road (West);Badsha Molla;50;275;100;2;2;4;1;2;3;1;3;2;2;3;4;1;4;4;4;42
+Chandpur;15;131504008;12501504008;G.T Road (East) & B.T Road (West);Akass/Sahalom Bari;19;120;100;2;2;4;1;2;3;1;3;2;2;3;4;1;4;4;4;42
+Chandpur;15;131504009;12501504009;G.T Road (East) & B.T Road (West);Akas Kha Bari;18;100;100;2;2;4;1;2;3;1;3;1;2;3;4;1;4;4;4;41
+Chandpur;15;131504010;12501504010;G.T Road (East) & B.T Road (West);Khondokar Bari;13;80;100;2;2;4;1;2;3;1;3;2;2;3;4;1;4;4;4;42
+Chandpur;15;131504011;12501504011;G.T Road (East) & B.T Road (West);Kolndor Kha Puran Bari;24;150;100;2;2;4;1;2;3;1;3;2;2;4;4;1;4;4;4;43
+Chandpur;15;131505001;12501505001;B.T Road (East);Thaku Bari;7;35;80;1;1;4;3;4;4;4;4;4;4;4;4;3;4;4;4;56
+Chandpur;15;131505002;12501505002;B.T Road (East);Jamal Soyal Bari;25;115;50;1;1;4;1;1;2;4;4;3;3;4;4;1;4;4;4;45
+Chandpur;15;131505003;12501505003;B.T Road (East);Vhuiya Bari;20;85;60;1;1;4;1;2;3;4;4;3;4;4;4;3;3;4;4;49
+Chandpur;15;131505004;12501505004;B.T Road (East);Esmayel Khan Bari;40;200;55;1;1;4;3;4;2;4;4;3;4;4;4;1;4;4;4;51
+Chandpur;15;131505005;12501505005;B.T Road (East);Osman Kha/Kolon Kha;15;70;80;1;1;4;1;1;3;4;4;3;3;4;4;1;4;4;4;46
+Chandpur;15;131505006;12501505006;B.T Road (East);Asan Ulla Khan Bari;18;80;80;1;1;4;1;2;3;4;4;4;4;4;4;2;4;4;1;47
+Chandpur;15;131505007;12501505007;B.T Road (East);Chowdory Bari/ Dr. Bari;15;70;55;1;1;4;1;3;3;4;4;4;4;4;4;2;4;4;4;51
+Chandpur;15;131505008;12501505008;B.T Road (East);Khamar Bari;20;75;60;1;1;3;1;2;2;1;4;4;4;4;4;4;4;4;4;47
+Chandpur;15;131506001;12501506001;B.T Road (North-East);Miji Bari;67;395;100;2;1;3;1;2;2;2;4;3;4;3;4;2;4;4;4;45
+Chandpur;15;131506002;12501506002;B.T Road (North-East);Molla Bari;19;85;80;2;1;3;1;1;1;3;2;3;4;4;2;1;3;3;3;37
+Chandpur;15;131506003;12501506003;B.T Road (North-East);Malek To Sikdar Khan Bari;20;85;80;1;1;3;1;1;3;1;4;3;4;4;4;2;4;4;4;44
+Chandpur;15;131506004;12501506004;B.T Road (North-East);Ajij Tamelder Bari;19;110;80;1;1;3;1;1;2;1;3;3;4;4;4;3;4;4;4;43
+Chandpur;15;131506005;12501506005;B.T Road (North-East);Chowdory Bari/ Dr. Bari;19;110;60;1;1;3;1;2;2;2;4;3;4;4;4;2;4;4;4;45

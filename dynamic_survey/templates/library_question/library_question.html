@@ -1,0 +1,22 @@
+{% extends "base/base_survey_design.html" %}
+{% load staticfiles %}
+{% block app_script %}
+    <script src="{% static 'jsapp/kobo/app_library_questions.js' %}"></script>
+    <style>
+        .js-expand-row-selector.btn.btn--addrow.btn--block.add-row-btn {
+            visibility: hidden;
+        }
+
+        .row__questiontypes--namer input {
+            border-color: #00a99d;
+        }
+
+        .question__tags {
+            margin-top: 7px !important;
+        }
+
+        .question-filter__filters .question-filter__show-responses {
+            visibility: hidden;
+        }
+    </style>
+{% endblock %}

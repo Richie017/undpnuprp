@@ -1,0 +1,53 @@
+{% extends "shared/display-templates/create.html" %}
+
+{% block childscripts3 %}
+    <script type="text/javascript">
+        var _pg_member_id, _pre_pg_member_id, _post_pg_member_id;
+{#        $(function () {#}
+{#            _pg_member_id = $('#id_pg_member_id').val();#}
+{#            _pre_pg_member_id = _pg_member_id.substring(0, 10);#}
+{#            _post_pg_member_id = _pg_member_id.substr(10, 2);#}
+{#            var _html = '<input id="id_pg_member_post_id" name="id_pg_member_post_id" type="number" value="" required="" min="1" max="99">' +#}
+{#                '<span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="id_pg_member_post_id"></span>';#}
+{#            $('#id_pg_member_id').parent().append(_html);#}
+{#            $('#id_pg_member_id').val(_pre_pg_member_id);#}
+{#            $('#id_pg_member_post_id').val(_post_pg_member_id);#}
+{#        });#}
+
+{#        $("#fbx-maincontent").on('input', '#id_pg_member_post_id', function () {#}
+{#            var _post_pg_mem_id = $("#id_pg_member_post_id").val();#}
+{#            $("#id_pg_member_post_id").val(_post_pg_mem_id);#}
+{#        });#}
+
+{#        $("#id_assigned_to").change(function () {#}
+{#            var pgm_id = $("#id_assigned_to").val();#}
+{#            console.log(pgm_id);#}
+{#            var parameters = {#}
+{#                'id': pgm_id#}
+{#            };#}
+{#            $.ajax({#}
+{#                url: $("#id_assigned_to").attr("data-url") + "&id=",#}
+{#                type: 'get',#}
+{#                data: parameters,#}
+{#                dataType: 'json',#}
+{#                success: function (result) {#}
+{#                    var _data = result['items'];#}
+{#                    if (_data != undefined && _data.length > 0) {#}
+{#                        var assigned_code = _data[0]['assigned_code'];#}
+{#                        $("#id_pg_member_id").val(assigned_code);#}
+{#                        if (_pre_pg_member_id !=assigned_code) {#}
+{#                            $("#id_pg_member_post_id").val("");#}
+{#                        }#}
+{#                        else{#}
+{#                            $("#id_pg_member_post_id").val(_post_pg_member_id);#}
+{#                        }#}
+{#                    }#}
+{#                },#}
+{#                error: function (result) {#}
+{##}
+{#                }#}
+{#            });#}
+{#        });#}
+        $(".control-label").css("width", "450px");
+    </script>
+{% endblock %}

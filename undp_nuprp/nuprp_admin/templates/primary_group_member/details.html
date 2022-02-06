@@ -1,0 +1,222 @@
+{% extends 'shared/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title xs-text-center">
+            <h3>{{ model_meta.properties|get_name }}</h3>
+            {#            <small>Details</small>#}
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-7">
+        <ul class="list-inline text-right bfz-adminbtn-list">
+            {% for a in details_link_config %}
+                <li>
+                    {% if a.name|is_print_btn %}
+                        {% if model_meta.properties|get_name != 'Import File Queue' %}
+                            <a class="{{ a.classes }} manage-button btn" target="_blank"
+                               onclick="window.open(this.href, 'Print', 'width=800, height=600, left=24, top=24, scrollbars, resizable'); return false;"
+                               href="{% url a.url_name data.id %}">
+                                <i class="fbx-rightnav-print"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% endif %}
+                    {% elif a.name == 'Reset Password' %}
+                        {% if a.url_params.user_id %}
+                            <a class="{{ a.classes }} manage-button btn load-reset-modal load-ajax=1"
+                               href="{% url a.url_name a.url_params.user_id %}" data-id="{{ data.id }}">
+                                <i class="fbx-rightnav-resetpass"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% else %}
+                            <a class="{{ a.classes }} manage-button btn load-reset-modal load-ajax=1"
+                               href="{% url a.url_name data.id %}" data-id="{{ data.id }}">
+                                <i class="fbx-rightnav-resetpass"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% endif %}
+                    {% elif a.name == 'Restore Version' %}
+                        <a class="{{ a.classes }} btn"
+                           href="{% url a.url_name a.action app_pabel model_name master_object.pk object.pk %}">
+                            <i class="{{ a.icon }}"></i>
+                            <span>&nbsp;{{ a.name }}</span>
+                        </a>
+                    {% else %}
+                        {% if not a.ignore_id %}
+                            <a class="{{ a.classes }} manage-button btn"
+                               href="{% url a.url_name data.id %}{% if 'params' in a %}?{{ a.params }}{% endif %}">
+                                <i class="{{ a.icon }}"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% else %}
+                            <a class="{{ a.classes }} manage-button btn"
+                               href="{% url a.url_name %}{% if 'params' in a %}?{{ a.params }}{% endif %}"
+                               {% if a.object_id %}data-object-id="{{ a.object_id }}"{% endif %}>
+                                <i class="{{ a.icon }}"></i>
+                                <span>&nbsp;{{ a.name }}</span>
+                            </a>
+                        {% endif %}
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix row-fluid">
+        <div class="profile-user-info profile-user-info-striped span12">
+            {% for prop, value in model_meta.properties|name_value_pair %}
+                <div class="profile-info-row col-md-6 col-sm-8" style="display: inline-block;">
+                    <div class="profile-info-name col-md-5 col-sm-7"
+                         style="text-align: left; width: 30%;">
+                        <span>{{ prop }}</span>
+                    </div>
+                    <div class="profile-info-value col-md-5 col-sm-7">
+                        <span id="username">{{ value|safe }}</span>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        {% if data.has_map %}
+            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+            <script type="text/javascript">
+                function initialize() {
+                    var myLatlng = new google.maps.LatLng(-25.363882, 131.044922);
+                    var mapOptions = {
+                        zoom: 18,
+                        center: myLatlng
+                    };
+                    var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+                    var marker = new google.maps.Marker({
+                        position: myLatlng,
+                        map: map,
+                        title: 'Hello World!'
+                    });
+                }
+
+                google.maps.event.addDomListener(window, 'load', initialize);
+            </script>
+        {% endif %}
+    </div>
+
+    <div class="clearfix row-fluid" style="padding: 30px">
+        <div class="profile-user-info profile-user-info-striped span12">
+            <table border="1" class="table table-bordered table-striped" id="survey_response_table">
+                {% for section in model_meta.sections %}
+                    <tr>
+                        <td colspan="3"><h4>{{ section.name }}</h4></td>
+                    </tr>
+                    {% for key, question in section.questions.items %}
+                        <tr>
+                            <td><strong>{{ question.code }}</strong></td>
+                            <td>{{ question.question }}</td>
+                            <td>{{ question.answer }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+    <div class="clearfix col-xs-12  " style="padding-top: 20px; padding-left: 0; padding-right: 0;">
+    <div class="tabbable">
+        <ul id="myTab" class="nav nav-tabs">
+            {% for tab in model_meta.tabs %}
+                {% if forloop.counter == 1 %}
+                    <li class="active">
+                        {% else %}
+                    <li>
+                {% endif %}
+            <a class="loading" href="#{{ tab.access_key }}" data-toggle="tab">
+                {{ tab.title }}
+            </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <div class="tab-content">
+            {% for tab in model_meta.tabs %}
+                {% if forloop.counter == 1 %}
+                    <div class="tab-pane in active tab-ajax" id="{{ tab.access_key }}"
+                         url="{% url tab.route_name pk=data.id tab=tab.access_key %}"
+                         data-child-tabs="{{ tab.child_tabs }}">
+                {% else %}
+                    <div class="tab-pane in tab-ajax" id="{{ tab.access_key }}"
+                         url="{% url tab.route_name pk=data.id tab=tab.access_key %}"
+                         data-child-tabs="{{ tab.child_tabs }}">
+                {% endif %}
+            {% if tab.message %}
+                <div class="alert alert-info">{{ tab.message }}</div>
+            {% endif %}
+            {% if tab.actions %}
+                <div class="btn-group">
+            {% endif %}
+            {% for a in tab.actions %}
+                {% if a.enable_multiple_create == 'all-multi-action' %}
+                    <div id="new-multiple" class="btn-group">
+                        <a style="margin-top:-5px; margin-bottom: 5px; margin-left: 0px;" data-toggle="dropdown"
+                           class="btn btn-small {{ a.css_class }} dropdown-toggle"
+                           data-wide="{{ a.wide }}" data-id="{{ data.id }}"
+                           data-action="{{ a.action }}" data-ajax="{{ a.ajax }}" href="javascript://">
+                            <i class="{{ a.icon }}"></i>&nbsp;{{ a.title }}&nbsp;<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for submenuitem in a.items %}
+                                <li><a class="load-modal" data-wizard="{{ a.wizard }}"
+                                       data-url="
+
+
+                                               {% url submenuitem.route_name data.id tab.access_key %}{{ submenuitem.parameters }}"
+                                       href="
+
+
+                                               {% url submenuitem.route_name data.id tab.access_key %}{{ submenuitem.parameters }}"
+                                >{{ submenuitem.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% else %}
+                    <a class="btn btn-small {{ a.css_class }}"
+                       style="margin-top:0px; margin-bottom: 0px; margin-left: 10px;"
+                       data-wide="{{ a.wide }}" data-id="{{ data.id }}"
+                       data-wizard="{{ a.wizard }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}"
+                            {% if a.action == 'partial-edit' %}
+                       href="{% url a.route_name data.id '' %}" disabled="disabled"
+                            {% elif a.action == 'partial-remove' %}
+                       href="{% url a.route_name data.id tab.access_key %}" disabled="disabled"
+                            {% else %}
+                       href="{% url a.route_name data.id tab.access_key %}"
+                            {% endif %}>
+                        {#                        <i class="{{ a.icon }}"></i>#}
+                    </a>
+                {% endif %}
+            {% endfor %}
+            {% if tab.actions %}
+                </div>
+            {% endif %}
+            <div class="content ajax-container">
+            </div>
+            </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/details-tabs.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/datatable/dataTables.fixedColumns.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#survey_response_table').dataTable();
+        });
+    </script>
+{% endblock %}

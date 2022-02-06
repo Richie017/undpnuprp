@@ -1,0 +1,28 @@
+{% load i18n %}
+<style>
+    .col-md-6 {
+        width: 100%;
+    }
+</style>
+
+<form id="id_advanced_export_form" action="advanced-export/" method="GET">
+    <input type="hidden" name="search" value="1"/>
+    {% if form %}
+        <div class="col-sm-12 fbx-content-shop">
+            <div class="fbz-product-content-left">
+                {% for field in form %}
+                    {% include 'shared/display-templates/form-field/_generic_form_field.html' %}
+                {% endfor %}
+            </div>
+        </div>
+    {% else %}
+        {% trans 'Click Start Export below to start' %}
+    {% endif %}
+</form>
+
+<script>
+    function loadSelect2() {
+        $('select').select2();
+    }
+    window.onload = loadSelect2();
+</script>

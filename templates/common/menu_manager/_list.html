@@ -1,0 +1,85 @@
+{% extends "shared/_viewport.html" %}
+{% load menu_manager_tags %}
+
+{% block header %}
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-5 col-md-4 titleclass">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ display_model }}</h3>
+        </div>
+    </div>
+    <form id="create_form" action="" method="post" class="">
+        <input type="hidden" id="menu_data" name="menu_data"/>
+        <div class="col-xs-12 col-sm-6 col-md-7">
+            <ul class=" list-inline text-right bfz-adminbtn-list">
+                <li>
+                    <a name="submit" id="submit_top" class="manage-button fbx-save btn">
+                        <i class="fbx-rightnav-save"></i>
+                        <span>&nbsp;Save</span>
+                    </a>
+                    <button type="submit" name="submit" id="submit" style="display: none;"></button>
+                </li>
+                <li>
+                    <a name="cancel" class="manage-button btn" id="btn_cancel">
+                        <i class="fbx-rightnav-cancel"></i>
+                        <span>&nbsp;Cancel</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </form>
+{% endblock %}
+
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}fieldbuzz_themes/{{ color }}/css/custom/menumanager.css?v=1.1.0" media="all"/>
+{% endblock %}
+
+{% block content %}
+    <ol class="menu_manager vertical" compact="compact">
+        {% for main_module in top_modules %}
+            <li data-id="{{ main_module.pk }}" data-name="{{ main_module.name }}">
+                <p>{{ main_module.name }}</p>
+                <ol class="vertical side_module">
+                    {% for chils_module in main_module|get_modules:side_modules %}
+                        <li class="group-li" data-id="{{ chils_module.pk }}" data-name="{{ chils_module.name }}">
+                            <i class="fa fa-arrows drag-icon"></i>
+                            <p class="group-p" data-id="{{ chils_module.pk }}">{{ chils_module.name }}</p>&nbsp;
+                            <input class="edit-group-box hide" value="{{ chils_module.name }}" type="text"
+                                   placeholder="Change Name..." data-id="{{ chils_module.pk }}"/>
+                            <i class="edit-group-icon fa fa-edit" data-id="{{ chils_module.pk }}"></i>
+                            <ol class="vertical side_menu_item">
+                                {% for menu_item in chils_module|get_menu_items:side_menu_items %}
+                                    <li class="item-li" data-id="{{ menu_item.pk }}"
+                                        data-name="{{ menu_item.display_name }}">
+                                        <i class="fa fa-arrows drag-icon"></i>
+                                        <p class="item-p"
+                                           data-id="{{ menu_item.pk }}">{{ menu_item.display_name }}</p>&nbsp;
+                                        <input class="edit-item-box hide" value="{{ menu_item.display_name }}"
+                                               type="text" placeholder="Change Name..." data-id="{{ menu_item.pk }}"/>
+                                        <i class="edit-item-icon fa fa-edit" data-id="{{ menu_item.pk }}"></i>
+                                    </li>
+                                {% endfor %}
+                            </ol>
+                        </li>
+                    {% endfor %}
+                </ol>
+            </li>
+        {% endfor %}
+    </ol>
+{% endblock %}
+
+{% block childscripts %}
+    <script>
+    </script>
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    {% if enable_map == True %}
+        <script src="{{ STATIC_URL }}js/map-view.js?v=1.1.0"></script>
+    {% endif %}
+    <script src="{{ STATIC_URL }}js/draggable/jquery-sortable-min.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/menu_manager/menu_manager.js?v=1.1.0"></script>
+{% endblock %}

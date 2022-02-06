@@ -1,0 +1,889 @@
+{% extends 'reports/base/_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% load report_tags %}
+{% block header %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/loader.css">
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/mapbox/mapbox-gl.css"/>
+    <style>
+        #map-view {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        #info-window {
+            position: absolute;
+            font-family: sans-serif;
+            margin-top: 5px;
+            margin-left: 5px;
+            padding: 5px;
+            width: 30%;
+            border: 2px solid #808080;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 3px;
+        }
+        #table-window {
+            position: absolute;
+            font-family: sans-serif;
+            margin-top: 80px;
+            margin-left: 100px;
+            padding: 5px;
+            width: 80%;
+            height: 495px;
+            border: 2px solid #808080;
+            background: rgba(255, 255, 255, 1.0);
+            border-radius: 3px;
+            z-index: 2;
+        }
+
+        table th, table td {
+            padding: 4px 0;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        .infoWindow-titleContainer {
+            width: 95%;
+            border-bottom: solid #808080 2px;
+            font-size: 1.2em;
+        }
+
+        .infoWindow-datatable {
+            font-family: FontAwesome, Open Sans, sans-serif;
+            font-size: 1em;
+            width: 95%;
+        }
+
+        .infoWindow-datatable td {
+            padding-right: 10px;
+            vertical-align: bottom;
+            line-height: 150%;
+        }
+
+        .infoWindow-dataItem {
+            text-align: center;
+            width: 25px;
+        }
+
+        .mapboxgl-popup-content {
+            background: rgba(255, 255, 255, 0.2);
+            color: #0b0b0b;
+            height: 26px;
+        }
+        .marker {
+            {#background-image: url('{{ STATIC_URL }}img/invoice.svg');#}
+            background-size: cover;
+            width: 13px;
+            height: 20px;
+            cursor: pointer;
+        }
+        .marker-popup-content {
+            font-size: 10px;
+            margin: 0px;
+            font-weight: bold;
+            line-height: 10px;
+            font-family: "Arial Narrow";
+        }
+
+        .custom-data-table {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            table-layout: auto;
+            width: 100% !important;
+        }
+
+        .custom-data-table th, .custom-data-table td {
+            border: 1px solid #ddd;
+        }
+
+        .custom-data-table tr:nth-child(even) {
+            background-color: #f2f2f2
+        }
+
+        .custom-data-table th {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-color: #00a99d;
+            color: white;
+        }
+
+        .custom-widget div span {
+            font-size: 10px;
+            font-weight: 600;
+
+        }
+
+        div.dt-buttons {
+            float: right;
+            margin-right: -2px;
+
+        }
+
+        .custom-widget h1 {
+            font-size: 16px;
+        }
+
+        .legend {
+            background-color: #fff;
+            border-radius: 3px;
+            top: 200px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            padding: 10px;
+            position: absolute;
+            right: 10px;
+            z-index: 1;
+        }
+
+        .legend h5 {
+            margin: 0 0 10px;
+            margin-bottom: 5px;
+        }
+
+        .legend div span {
+            display: inline-block;
+            height: 10px;
+            margin-right: 5px;
+            width: 70px;
+        }
+
+    </style>
+    <div class="col-sm-1 hidden-xs"></div>
+    <div class="col-sm-4">
+        <div class="fbx-title  xs-text-center">
+            <h3>{{ title }}</h3>
+        </div>
+    </div>
+    <div class="col-sm-7 map-info">
+        <ul class=" list-inline text-right bfz-adminbtn-list">
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right load-map-button generic-btn-style">Update Map</button>
+                </h1>
+            </li>
+            <li>
+                <h1>
+                    <button class="btn btn-medium pull-right generic-btn-style show-table">Show Data</button>
+                </h1>
+            </li>
+        </ul>
+    </div>
+{% endblock %}
+
+
+{% block content %}
+    {% load widget_tweaks %}
+    {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+        <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G1 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12 form-horizontal report-content-top"
+                 style="padding-right: 0;">
+                {% for field in parameters.G2 %}
+                    <div class="custom-col-12 col-md-12 col-sm-12 form-group"
+                         style="display: block; padding: 0;">
+                        <label for="{{ field.name.lower }}">{{ field.label }}</label>
+
+                        <div class="col-md-12 col-sm-12 controls"
+                             style="padding-left: 0;">
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true"
+                                  data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                        {% if field|is_multiple_choice %}
+                            <label class="checkbox-label">
+                                <input class="add_all" type="checkbox" name="{{ field.name.lower }}_add_all">
+                                <span></span>
+                                Add all
+                            </label>
+
+                            <label class="checkbox-label">
+                                <input class="clear_all" type="checkbox"
+                                       name="{{ field.name.lower }}_clear_all">
+                                <span></span>
+                                Clear all
+                            </label>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-md-9 col-sm-7 col-xs-12">
+            <p style="font-size: 14px; margin: -10px 0 4px;">
+                The ward numbers are colored as per the <a target="_blank" href="{{ note_url }}">Ward Prioritization Index - Poverty Index</a>.
+                Critically Underdeveloped Areas are Colored in <span style="color: #4d0000"><b>Dark Red</b></span>
+                and Relatively High Developed Areas are Colored in <span style="color: #ff6666"><b>light Red</b></span>.
+            </p>
+        </div>
+    {% endwith %}
+    <div class="col-md-12  col-sm-12" style="padding: 0; margin-left: 15px;">
+        <div class="col-md-12  col-sm-12" style="padding-left: 0;">
+            <div id="loader" style="display: none">Loading</div>
+            <div id="map-view" class="row-fluid map-container"></div>
+            <div id='info-window' style="display: none"></div>
+        </div>
+        <div id='table-window' style="display: none">
+            <div class="modal-header">
+            <button class="btn btn-medium pull-right generic-btn-style cancel-table">Cancel</button>
+            <button id="table-export-btn" class="btn btn-medium pull-right generic-btn-style" style="margin-right: 3px">Export</button>
+            </div>
+            <div class="custom-widget"
+                 style="padding: 25px;">
+                <table class="custom-data-table custom-widget-pane"></table>
+            </div>
+        </div>
+        <div id="city-legend" class="legend">
+            <h5>{{ legend_label }}</h5>
+        </div>
+    </div>
+{% endblock %}
+
+
+{% block childscripts2 %}
+    <script src="{{ STATIC_URL }}js/manage/bw_select2_add_clear_button.js"></script>
+    <script src="{{ STATIC_URL }}js/specific/mapbox/mapbox-gl.js"></script>
+
+    <script src="{{ STATIC_URL }}js/sheetjs/xlsx.full.min.js?v=1.0.1"></script>
+    <script src="{{ STATIC_URL }}js/sheetjs/FileSaver.js?v=1.0.1"></script>
+    <script type="text/javascript">
+        var serialize_list_values = function (param) {
+            if (param != undefined && param != '') {
+                return param.join(',');
+            }
+            return param;
+        };
+        $(document).ready(function () {
+            var map = null;
+            var cityHoveredStateId = null;
+            var wardHoveredStateId = null;
+            var center = [90.3563, 23.6850];
+            var boundingCoordsGeojsonUrl = "{{ bounding_coords_url }}";
+            var boundingCoords = {};
+            var city_data = {};
+            var city_dict = {};
+            var countryGeojsonUrl = "{{ country_geojson_url }}";
+            var cityGeojsonUrl = "{{ city_geojson_url }}";
+            var wardGeojsonUrl = "{{ ward_geojson_url }}";
+            var hasSecondLayer = {{ has_second_layer }};
+            var color_range = {{ color_range | safe }};
+            var total_strategy = "{{ total_strategy }}";
+            total_strategy = total_strategy.replace(/&#39;/g, '"')
+            total_strategy = JSON.parse(total_strategy.replace(/(\d+):/g,"\"$1\":"))
+            var zoomTransition = 22; // set maximum zoom level
+
+            function initialize(center) {
+                mapboxgl.accessToken = "{{ mapbox_access_token }}";
+                var mapOptions = {
+                    container: 'map-view',
+                    style: 'mapbox://styles/mapbox/light-v10',
+                    center: center,
+                    zoom: 6.5
+                };
+                return new mapboxgl.Map(mapOptions);
+            }
+
+            function updateInfoWindow(geography_name, color_code, level_name, parent_name, data) {
+                var infoHtml = "";
+                infoHtml += '<table class="infoWindow-titleContainer"><tbody>';
+                if (level_name === 'ward') {
+                    infoHtml += '<tr><td>City/Town</td><td>' + parent_name + '</td></tr>';
+                    infoHtml += '<tr><td>Ward No</td><td>' + geography_name + '</td></tr>';
+                } else {
+                    infoHtml += '<tr><td>City/Town</td><td>' + geography_name + '</td></tr>';
+                }
+                infoHtml += '</tbody></table>';
+                infoHtml += '<table class="infoWindow-datatable"><tbody>';
+                $.each(data, function (key, value) {
+                    infoHtml += '<tr><td>' + key + '</td><td class="infoWindow-dataItem">' + value + '</td></tr>';
+                });
+                infoHtml += '</tbody></table>';
+                return "<div style='color: #0000ff;'>" + infoHtml + "</div>";
+            }
+
+            map = initialize(center);
+
+            // download bounding coords which will use to apply fit bounds
+            $.ajax({
+                url: boundingCoordsGeojsonUrl,
+                success: function (result) {
+                    if ($.type(result) === 'string'){
+                        boundingCoords = JSON.parse(result);
+                    } else {
+                        boundingCoords = result;
+                    }
+                }
+            });
+
+            //download city boundary data to show marker and associate data in each city
+            $.ajax({
+                url: cityGeojsonUrl,
+                success: function (result) {
+                    if ($.type(result) === 'string') {
+                        city_data = JSON.parse(result);
+                    } else {
+                        city_data = result;
+                    }
+                    $.each(city_data['features'], function (key, value) {
+                        city_dict[value['properties']['geography_id']] = value['properties']['geography_name']
+                    });
+                }
+            });
+
+            // Add zoom and rotation controls to the map.
+            map.addControl(new mapboxgl.NavigationControl());
+
+            map.on('load', function () {
+                // merge color info to city geojson
+                $.each(city_data["features"], function (key, value) {
+                    city_id = parseInt(value['properties']['geography_id']);
+                    if (color_range.hasOwnProperty(city_id)) {
+                        total = parseInt(color_range[city_id])
+                        value['properties'].color_index = parseInt(total)
+                    }
+                    else{
+                        value['properties'].color_index = 0
+                    }
+                });
+                // Add a source for the country polygons.
+                map.addSource('country', {
+                    'type': 'geojson',
+                    'data': countryGeojsonUrl,
+                    'generateId': true // This ensures that all features have unique IDs
+                });
+
+                // Add a source for the city polygons.
+                map.addSource('cities', {
+                    'type': 'geojson',
+                    'data': city_data,
+                    'generateId': true // This ensures that all features have unique IDs
+                });
+
+                zoomTransition = 11; // Transition zoom from City to Ward, and for legend changes
+                // Add a source for the ward polygons.
+                map.addSource('wards', {
+                    'type': 'geojson',
+                    'data': wardGeojsonUrl,
+                    'generateId': true // This ensures that all features have unique IDs
+                });
+
+                // add layer for country
+                map.addLayer({
+                    'id': 'country-borders',
+                    'source': 'country',
+                    'type': 'line',
+                    'maxzoom': 7,
+                    'layout': {},
+                    'paint': {
+                        'line-opacity': 1,
+                        'line-width': 1.6,
+                        'line-color': '#280404'
+                    }
+                });
+
+
+                // add layer for cities
+                map.addLayer({
+                    'id': 'city-fills',
+                    'source': 'cities',
+                    'maxzoom': zoomTransition,
+                    'type': 'fill',
+                    'filter': ['==', 'level_name', 'city'],
+                    'paint': {
+                        'fill-color': {
+                            property: 'color_index',
+                            stops: [
+                                [1, '#99ccff'],
+                                [2, '#1aa3ff'],
+                                [3, '#3366ff'],
+                                [4, '#003cb3'],
+                            ]
+                        },
+                        'fill-opacity': {
+                                property: 'color_index',
+                                stops: [
+                                    [0, 0],
+                                    [1, 1],
+                                    [2, 1],
+                                    [3, 1],
+                                    [4, 1],
+                                ]
+                            }
+                    }
+                });
+                map.addLayer({
+                    'id': 'city-label',
+                    'type': 'symbol',
+                    'source': 'cities',
+                    'maxzoom': zoomTransition,
+                    'minzoom': 7,
+                    'filter': ['==', 'level_name', 'city'],
+                    'layout': {
+                        'text-field': ['get', 'geography_name'],
+                        'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                        'text-radial-offset': 0.5,
+                        'text-justify': 'auto',
+                        'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                    },
+                });
+                map.addLayer({
+                    'id': 'city-borders',
+                    'source': 'cities',
+                    'type': 'line',
+                    'maxzoom': zoomTransition,
+                    'filter': ['==', 'level_name', 'city'],
+                    'layout': {},
+                    'paint': {
+                        'line-opacity': 0.50,
+                        'line-width': {base: .65, stops: [[6, .65], [7, 1], [8, 1.25], [9, 1.5]]},
+                        'line-color': '#000000'
+                    }
+                });
+
+                if (hasSecondLayer) {
+                    // add layer for wards
+                    map.addLayer({
+                        'id': 'ward-label',
+                        'type': 'symbol',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {
+                            'text-field': ['get', 'geography_name'],
+                            'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                            'text-radial-offset': 0.5,
+                            'text-justify': 'auto',
+                            'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                        }
+                    });
+                    map.addLayer({
+                        'id': 'ward-fills',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'type': 'fill',
+                        'filter': ['==', 'level_name', 'ward'],
+                        'paint': {
+                            'fill-color': ['get', 'color_code'],
+                            'fill-opacity': [
+                                'case',
+                                ['boolean', ['feature-state', 'hover'], false],
+                                0.80,
+                                0.60
+                            ]
+                        }
+                    });
+                    map.addLayer({
+                        'id': 'ward-borders',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'type': 'line',
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {},
+                        'paint': {
+                            'line-opacity': 0.50,
+                            'line-width': {base: .65, stops: [[6, .65], [7, 1], [8, 1.25], [9, 1.5]]},
+                            'line-color': '#000000'
+                        }
+                    });
+                }
+
+                // start section: apply color on ward label based on ward prioritization poverty index
+                map.addLayer({
+                        'id': 'ward-label',
+                        'type': 'symbol',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {
+                            'text-field': ['get', 'geography_name'],
+                            'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                            'text-radial-offset': 0.5,
+                            'text-justify': 'auto',
+                            'text-size': 18,
+                            'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+                        },
+                        'paint': {
+                            'text-color': {
+                                property: 'Poverty Index',
+                                stops: [
+                                    [1, '#4d0000'],
+                                    [2, '#b30000'],
+                                    [3, '#ff1a1a'],
+                                    [4, '#ff6666'],
+                                ]
+                            },
+                            'text-opacity': {
+                                property: 'Poverty Index',
+                                stops: [
+                                    [0, 0],
+                                    [1, 1],
+                                    [2, 1],
+                                    [3, 1],
+                                    [4, 1],
+                                ]
+                            }
+                        }
+                });
+
+                map.addLayer({
+                        'id': 'ward-borders',
+                        'source': 'wards',
+                        'minzoom': 11,
+                        'type': 'line',
+                        'filter': ['==', 'level_name', 'ward'],
+                        'layout': {},
+                        'paint': {
+                            'line-opacity': 0.50,
+                            'line-width': {base: .65, stops: [[6, .65], [7, 1], [8, 1.25], [9, 1.5]]},
+                            'line-color': '#000000'
+                        }
+                    });
+                // end section: apply color on ward label based on ward prioritization poverty index
+
+
+                // When the user moves their mouse over the city-fill layer, we'll update the
+                // feature state for the feature under the mouse.
+                map.on('mousemove', 'city-fills', function (e) {
+                    if (e.features.length > 0) {
+                        if (cityHoveredStateId != null) {
+                            map.setFeatureState(
+                                {source: 'cities', id: cityHoveredStateId},
+                                {hover: false}
+                            );
+                        }
+                        cityHoveredStateId = e.features[0].id;
+                        map.setFeatureState(
+                            {source: 'cities', id: cityHoveredStateId},
+                            {hover: true}
+                        );
+                    }
+                });
+
+                // When the mouse leaves the city-fill layer, update the feature state of the
+                // previously hovered feature.
+                map.on('mouseleave', 'city-fills', function () {
+                    if (cityHoveredStateId != null) {
+                        map.setFeatureState(
+                            {source: 'cities', id: cityHoveredStateId},
+                            {hover: false}
+                        );
+                    }
+                    cityHoveredStateId = null;
+                });
+
+                if (hasSecondLayer) {
+                    // When the user moves their mouse over the ward-fill layer, we'll update the
+                    // feature state for the feature under the mouse.
+                    map.on('mousemove', 'ward-fills', function (e) {
+                        if (e.features.length > 0) {
+                            if (wardHoveredStateId) {
+                                map.setFeatureState(
+                                    {source: 'wards', id: wardHoveredStateId},
+                                    {hover: false}
+                                );
+                            }
+                            wardHoveredStateId = e.features[0].id;
+                            map.setFeatureState(
+                                {source: 'wards', id: wardHoveredStateId},
+                                {hover: true}
+                            );
+                        }
+                    });
+
+                    // When the mouse leaves the ward-fill layer, update the feature state of the
+                    // previously hovered feature.
+                    map.on('mouseleave', 'ward-fills', function () {
+                        if (wardHoveredStateId) {
+                            map.setFeatureState(
+                                {source: 'wards', id: wardHoveredStateId},
+                                {hover: false}
+                            );
+                        }
+                        wardHoveredStateId = null;
+                    });
+                }
+
+                // resize map while toggle sidebar
+                document.querySelector(".sidebar-toggle").addEventListener("click", () => map.resize());
+            });
+
+            // initiate update_map call after loaded map style
+            map.on('style.load', function (e) {
+                const waiting = function (e) {
+                    if (!map.isStyleLoaded()) {
+                        setTimeout(waiting, 200);
+                    } else {
+                        update_map({}, function (result) {
+                        });
+                    }
+                };
+                waiting();
+            });
+
+            function showLoader() {
+                document.getElementById("loader").style.display = "block";
+                document.getElementById("map-view").style.opacity = 0.4;
+            }
+
+            //load map data
+            $(".map-info").on('click', '.load-map-button', function () {
+                var tthis = this;
+                $(tthis).removeClass('generic-btn-style').addClass('generic-danger-btn-style').html('Please wait... Updating Map');
+                var parameters = {};
+                update_map(parameters, function (result) {
+                    $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                });
+            });
+
+            $(".show-table").on('click', function () {
+                $('#table-window').show();
+                $(".custom-data-table th").trigger('click');
+            });
+            $(".cancel-table").on('click', function () {
+                $('#table-window').hide();
+            });
+            var loadTableData = function (result, tableSelector) {
+                var _data = result;
+                var first_object = _data["data"][Object.keys(_data["data"])[0]]
+                var table_html_str = '';
+                var exportable_table_html_str = '';
+                var thead_str = '<thead>';
+                thead_str += '<th>City</th>';
+                var exportable_thead_str = '<thead>';
+                exportable_thead_str += '<th>City</th>';
+                $.each(Object.getOwnPropertyNames(first_object), function (key, value) {
+                    thead_str += '<th>' + value + '</th>';
+
+                    exportable_thead_str += '<th>' + value + '</th>';
+                });
+                thead_str += '</thead>';
+                exportable_thead_str += '</thead>';
+                table_html_str += thead_str;
+                exportable_table_html_str += exportable_thead_str;
+                var tbody_str = '<tbody>';
+                var exportable_tbody_str = '<tbody>';
+                $.each(_data['data'], function (key, value) {
+                    if( parseInt(key) in city_dict ){
+                        tbody_str += '<tr>';
+                        tbody_str += '<td>' + city_dict[parseInt(key)] + '</td>';
+                        exportable_tbody_str += '<tr>';
+                        exportable_tbody_str += '<td>' + city_dict[parseInt(key)] + '</td>';
+                        $.each(value, function (key, value) {
+                            tbody_str += '<td>' + value + '</td>';
+                            exportable_tbody_str += '<td>' + value + '</td>';
+                        });
+                        tbody_str += '</tr>';
+                        exportable_tbody_str += '</tr>';
+                    }
+                });
+                tbody_str += '</tbody>';
+                exportable_tbody_str += '</tbody>';
+                table_html_str += tbody_str;
+                exportable_table_html_str += exportable_tbody_str;
+
+                if ($.fn.DataTable.isDataTable(tableSelector)) {
+                    $(tableSelector).DataTable().clear().destroy();
+                }
+                tableSelector.html(table_html_str);
+
+                $("#table-export-btn").on("click", function (e) {
+                    var exportable_table = "<table id='exportable_table' style='display:none'>" + exportable_table_html_str + "</table>";
+                    $(document).find('#exportable_table').remove();
+                    $(tableSelector).parent().parent().parent().parent().append(exportable_table);
+                    var _exportable_file_title = $(tableSelector).parent().parent().parent().parent().parent().parent().parent().parent().parent().children().find('h3').html()
+                    ExportAsExcel('exportable_table', _exportable_file_title)
+                });
+
+                var ExportAsExcel = function (exportable_element_id, content_title) {
+                    export_table_to_excel(exportable_element_id, 'xlsx', content_title);
+
+                    function s2ab(s) {
+                        if (typeof ArrayBuffer !== 'undefined') {
+                            var buf = new ArrayBuffer(s.length);
+                            var view = new Uint8Array(buf);
+                            for (var i = 0; i != s.length; ++i) view[i] = s.charCodeAt(i) & 0xFF;
+                            return buf;
+                        } else {
+                            var buf = new Array(s.length);
+                            for (var i = 0; i != s.length; ++i) buf[i] = s.charCodeAt(i) & 0xFF;
+                            return buf;
+                        }
+                    }
+
+                    function export_table_to_excel(id, type, fn) {
+                        var wb = XLSX.utils.table_to_book(document.getElementById(id), {sheet: "Sheet 1", raw: true});
+                        var wbout = XLSX.write(wb, {bookType: type, bookSST: true, type: 'binary'});
+                        var fname = fn + '.' + type || 'test.' + type;
+                        try {
+                            saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), fname);
+                        } catch (e) {
+                            if (typeof console !== 'undefined') console.log(e, wbout);
+                        }
+                        return wbout;
+                    }
+                }
+
+                tableSelector.DataTable({
+                    dom: 'Bfrtip',
+                    buttons: [],
+                    searching: false,
+                    "scrollX": true
+                });
+
+                $.fn.dataTable.ext.errMode = 'none';
+            };
+
+            $(function () {
+                city_color = color_range["city_range"]
+                $("#city-legend div").html('');
+                colors = ['#99ccff', '#1aa3ff', '#3366ff', '#003cb3']
+                $.each(city_color, function (key, value) {
+                    $("#city-legend").append(`<div><span style="background-color: ${colors[key]}"></span><b>${value}</b></div>`)
+                });
+            });
+
+            function update_map(data, action_callback) {
+                $('#table-window').hide();
+                // Show loader when update map is clicked
+                showLoader();
+                var params = {};
+                params.city = serialize_list_values($("#id_city").val());
+                if (hasSecondLayer) {
+                    params.ward = $("#id_ward").val();
+                }
+
+                $.ajax({
+                    url: '?format=json',
+                    type: 'get',
+                    data: params,
+                    dataType: 'json',
+                    success: function (result) {
+                        action_callback(result);
+                        $('body,html').animate({
+                            scrollTop: $('#fbx-maincontent').height() + $('#fbx-header').height() - 16
+                        }, 1000);
+                        if (result != null) {
+                            var map_data = result['data'];
+                            loadTableData(result, $('.custom-data-table'));
+                            var info_html = null
+                            // add marker and assocaiate data for each city
+                            $.each(city_data["features"], function (key, value) {
+                                city_id = parseInt(value['properties']['geography_id']);
+                                if (boundingCoords.hasOwnProperty(city_id) && total_strategy.hasOwnProperty(city_id)) {
+                                    coordinate = value['geometry']['coordinates'][0][0][0]
+                                    point_index = Math.floor(value['geometry']['coordinates'][0][0].length / 2)
+                                    $.each(total_strategy[city_id], function (key, value) {
+                                        info_html = '<p class="marker-popup-content">'+ key+': '+ value + '</p>'
+                                    });
+                                    var el = document.createElement('div');
+                                    el.className = 'marker';
+                                    var color_val = color_range[city_id];
+                                    el.style.backgroundImage = `url('{{ STATIC_URL }}img/blue4.svg')`;
+                                    var marker1 = new mapboxgl.Marker(el)
+                                        .setLngLat(coordinate)
+                                        .addTo(map)
+                                    var popup = new mapboxgl.Popup({
+                                        closeOnClick: false,
+                                        closeButton: false,
+                                        anchor: 'left',
+                                        offset: 5
+                                    })
+                                        .setLngLat(coordinate)
+                                        .setHTML(info_html)
+                                        .addTo(map)
+                                }
+                            });
+
+                            // prepare fit bound coords
+                            var coordinates = [];
+                            $.each(map_data, function (key, value) {
+                                if (boundingCoords.hasOwnProperty(key)) {
+                                    coordinates.push(boundingCoords[key][0]);
+                                    coordinates.push(boundingCoords[key][1]);
+                                }
+                            });
+
+                            if (coordinates.length > 0) {
+                                var bounds = coordinates.reduce(function (bounds, coord) {
+                                    return bounds.extend(coord);
+                                }, new mapboxgl.LngLatBounds(coordinates[0], coordinates[0]));
+
+                                map.fitBounds(bounds, {
+                                    padding: 30
+                                });
+                            }
+
+                            map.on('click', function (e) {
+                                var layers = ['city-fills',];
+                                if (hasSecondLayer) {
+                                    layers.push('ward-fills');
+                                }
+                                var features = map.queryRenderedFeatures(e.point, {layers: layers});
+                                if (features.length > 0) {
+                                    var properties = features[0].properties;
+                                    if (map_data.hasOwnProperty(properties['geography_id']) === true) {
+                                        var geography_name = properties['geography_name'];
+                                        var color_code = properties['color_code'];
+                                        var level_name = properties['level_name'];
+                                        var parent_name = properties['parent_name'];
+                                        var node = updateInfoWindow(
+                                            geography_name, color_code, level_name,
+                                            parent_name, map_data[properties['geography_id']]
+                                        );
+                                        $('#info-window').html(node);
+                                        $('#info-window').show();
+                                    } else {
+                                        $('#info-window').hide();
+                                    }
+                                } else {
+                                    $('#info-window').hide();
+                                }
+                            });
+                        }
+                        setTimeout(function () {
+                            var loader = document.getElementById("loader");
+                            loader.style.display = "none";
+                            // get map view
+                            var mapView = document.getElementById("map-view");
+                            mapView.style.opacity = 1;
+                        }, 1000);
+                    },
+                    error: function (ad) {
+                        $(tthis).addClass('generic-btn-style').removeClass('generic-danger-btn-style').html('Update Map');
+                    }
+                })
+            }
+        });
+    </script>
+{% endblock %}

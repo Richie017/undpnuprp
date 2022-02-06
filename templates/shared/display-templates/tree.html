@@ -1,0 +1,108 @@
+{% extends "shared/_viewport.html" %}
+{% block header %}
+    <h1>
+        {{ display_model }}
+        <small>
+            <i class="icon-double-angle-right"></i>
+            Hierarchy View
+        </small>
+        <div class="pull-right">
+            {% for btn in manage_buttons %}
+                {% if btn.action_type == 'all-multi-action' %}
+                    <a class="manage-action {{ btn.action_type }}" data-toggle="dropdown"
+                       data-target="#submenu-{{ btn.unique_name }}" data-url="{{ btn.link }}" href="{{ btn.link }}"><i
+                            class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}</a>
+                    <ul class="dropdown-menu in" aria-labelledby="dropdownMenu" id="submenu-{{ btn.unique_name }}">
+                        {% for submenuitem in btn.items %}
+                            <li><a data-url="{{ submenuitem.url }}" href="{{ submenuitem.url }}"><i
+                                    class="{{ btn.icon }}"></i>&nbsp;{{ submenuitem.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <a class="manage-action  btn btn-medium {{ btn.action_type }}" disabled="true"
+                       data-url="{{ btn.link }}" href="{{ btn.link }}"><i
+                            class="{{ btn.icon }}"></i>&nbsp;{{ btn.name }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </h1>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}overrides/../../../static/css/tree.css"/>
+{% endblock %}
+
+{% block content %}
+    <div class="tree">
+        <ul>
+            <li class="parent">
+                <span> Home </span>
+                <a href="javascript://">/</a>
+                <ul class="child">
+                    {% for d in object_list %}
+                        {% include 'shared/display-templates/_generic_tree_item.html' with item=d %}
+                    {% endfor %}
+                </ul>
+            </li>
+        </ul>
+    </div>
+{% endblock %}
+
+{% block childscripts %}
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    <script type="text/javascript">
+        $(function () {
+            function bindevents() {
+                $('.tree li:has(ul)').addClass('parent_li').find(' > span').attr('title', 'Collapse this branch');
+                $('.tree li.parent_li > span').on('click', function (e) {
+                    var children = $(this).parent('li.parent_li').find(' > ul > li');
+                    if (children.is(":visible")) {
+                        children.hide('fast');
+                        $(this).attr('title', 'Expand this branch').find(' > i').addClass('icon-plus-sign').removeClass('icon-minus-sign');
+                    } else {
+                        children.show('fast');
+                        $(this).attr('title', 'Collapse this branch').find(' > i').addClass('icon-minus-sign').removeClass('icon-plus-sign');
+                    }
+                    e.stopPropagation();
+                });
+
+                $(".tree li.child, .tree ul.child")
+                    .draggable({
+                        revert: 'invalid',
+                        helper: 'clone'
+                    });
+                $(".tree ul")
+                    .droppable({
+                        greedy: true,
+                        revert: 'invalid',
+                        accept: ".tree li",
+                        drop: function (event, ui) {
+                            var $cont = $(this);
+                            ui.draggable.fadeOut(function () {
+                                ui.draggable.remove();
+                                ui.draggable.appendTo($cont);
+                                ui.draggable.fadeIn();
+                                bindevents();
+                                {#                                ui.draggable.slideDown();#}
+                            });
+                            $(this).closest('li').children('span:first').removeClass('drop_active');
+                        },
+                        over: function (event, ui) {
+                            $(this).closest('li').children('span:first').addClass('drop_active');
+
+                        },
+                        out: function (event, ui) {
+                            $(this).closest('li').children('span:first').removeClass('drop_active');
+                        }
+                    });
+                $(".tree li.child").sortable();
+            }
+
+            bindevents()
+        });
+    </script>
+{% endblock %}

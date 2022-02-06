@@ -1,0 +1,125 @@
+{% extends 'shared/_plain_viewport.html' %}
+
+{% load blackwidow_filter %}
+{% block header %}
+    <h1>
+        {{ model_meta.properties|get_name }}
+        <small>
+            <i class="icon-double-angle-right"></i>
+            details
+        </small>
+    </h1>
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix">
+    <div class="profile-user-info profile-user-info-striped span12">
+        {% for prop, value in model_meta.properties|name_value_pair %}
+            <div class="profile-info-row span6">
+                <div class="profile-info-name"> {{ prop }} </div>
+                <div class="profile-info-value">
+                    <span id="username" class="" style="display: inline;">{{ value|safe }}</span>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    {#        {% if data.has_map %}#}
+    {#            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>#}
+    {#            <script type="text/javascript">#}
+    {#                function initialize() {#}
+    {#                    var myLatlng = new google.maps.LatLng(-25.363882,131.044922);#}
+    {#                    var mapOptions = {#}
+    {#                        zoom: 18,#}
+    {#                        center: myLatlng#}
+    {#                    }#}
+    {#                    var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);#}
+    {##}
+    {#                    var marker = new google.maps.Marker({#}
+    {#                        position: myLatlng,#}
+    {#                        map: map,#}
+    {#                        title: 'Hello World!'#}
+    {#                    });#}
+    {#                }#}
+    {##}
+    {#                google.maps.event.addDomListener(window, 'load', initialize);#}
+    {#            </script>#}
+    {#        {% endif %}#}
+    {#    </div>#}
+    <div class="clearfix" style="padding-top: 20px">
+    <div class="tabbable">
+    <ul id="myTab" class="nav nav-tabs">
+        {#            {% for tab in model_meta.tabs %}#}
+        {#                {% if forloop.counter == 1 %}#}
+        {#                    <li class="active">#}
+        {#                        {% else %}#}
+        {#                    <li class="active">#}
+        {#                {% endif %}#}
+        {#            <a class="loading" href="#{{ tab.id }}" data-toggle="tab">#}
+        {#                {{ tab.name }}#}
+        {#            </a>#}
+        {#            </li>#}
+        {#            {% endfor %}#}
+    </ul>
+    <div class="tab-content">
+{#        {% for tab in model_meta.tabs %}#}
+{#            <li class="active"><b>{{ tab.name }}</b></li>#}
+{#            {% if forloop.counter == 1 %}#}
+{#                <div class="tab-pane in active tab-ajax" data-print="1" id="{{ tab.id }}"#}
+{#                     data-property="{{ tab.property }}"#}
+{#                     url="{% url tab.url_name pk=data.id tab=tab.id %}?disable_pagination=true&printable=1">#}
+{#            {% else %}#}
+{#                <div class="tab-pane in active tab-ajax" data-print="1" id="{{ tab.id }}"#}
+{#                     url="{% url tab.url_name pk=data.id tab=tab.id %}?disable_pagination=true&printable=1">#}
+{#            {% endif %}#}
+{#            {% if tab.message %}#}
+{#                <div class="alert alert-info">{{ tab.message }}</div>#}
+{#            {% endif %}#}
+{#            {% if tab.actions %}#}
+{#                <div class="btn-group">#}
+{#            {% endif %}#}
+{#        {% for a in tab.actions %}#}
+{#            {% if a.action_type == 'all-multi-action' %}#}
+                {#                    <div id="new-multiple" class="btn-group">#}
+                {#                        <a style="margin-top:-5px; margin-bottom: 5px; margin-left: 0px;" data-toggle="dropdown"  class="btn btn-small {{ a.classes }} dropdown-toggle" data-wide="{{ a.wide }}" data-id="{{ data.id }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}">#}
+                {#                            <i class="{{ a.icon }}"></i>&nbsp;{{ a.name }}&nbsp;<span class="caret"></span>#}
+                {#                        </a>#}
+                {#                        <ul class="dropdown-menu" role="menu">#}
+                {#                            {% for submenuitem in a.items %}#}
+                {#                                <li><a class="load-modal" data-wizard="{{ a.wizard }}" >{{ submenuitem.name }}</a></li>#}
+                {#                            {% endfor %}#}
+                {#                        </ul>#}
+                {#                    </div>#}
+{#            {% else %}#}
+                {#                    <a style="margin-top:-5px; margin-bottom: 5px; margin-left: 0px;" class="btn btn-small {{ a.classes }}" data-wide="{{ a.wide }}" data-id="{{ data.id }}" data-wizard="{{ a.wizard }}" data-action="{{ a.action }}" data-ajax="{{ a.ajax }}" >#}
+                {#                        <i class="{{ a.icon }}"></i> {{ a.name }}#}
+                {#                    </a>#}
+{#            {% endif %}#}
+{#        {% endfor %}#}
+        {#            {% if tab.actions %}#}
+        {#                </div>#}
+        {#            {%  endif %}#}
+{#        <div class="content ajax-container">#}
+{#        </div>#}
+{#        </div>#}
+{#        {% endfor %}#}
+        </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block childscripts2 %}
+
+    <script src="{{ STATIC_URL }}js/details-tabs.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-button-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-form-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-checkbox-action.js?v=1.1.0"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-table-search.js?v=1.1.1"></script>
+    <script src="{{ STATIC_URL }}js/manage/bw-pagination.js?v=1.1.0"></script>
+    <script>
+        $(document).ready(function () {
+            $(".pagination").remove();
+            $(".search-filter").remove();
+        });
+    </script>
+
+{% endblock %}

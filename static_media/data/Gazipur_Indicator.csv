@@ -1,0 +1,858 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Gazipur;28;2022801001;12022801001;Uttar Rajbari Tongi Side;Shoshanpara;60;290;25;1;1;4;1;1;2;1;2;3;2;2;2;1;1;2;2;28
+Gazipur;28;2022802001;12022802001;Rothkhola;Shantipolli;50;310;25;1;1;4;1;1;2;1;3;4;3;3;4;4;4;1;1;38
+Gazipur;28;2022803001;12022803001;Borda-Harinal Uttar;Uttar-Chayabithi Bosoti;100;450;30;2;1;4;2;1;3;1;3;3;2;3;4;1;4;1;2;37
+Gazipur;28;2022804001;12022804001;Lagalia-Harinal Dakshin;Lebubagan Bosoti;80;370;25;3;1;4;2;1;3;3;4;3;3;2;4;1;4;4;4;46
+Gazipur;28;2022804002;12022804002;Lagalia-Harinal Dakshin;Lagalia Dakshinpara Bosoti;70;310;20;2;2;4;1;1;3;1;3;3;2;2;4;1;4;4;4;41
+Gazipur;29;2022901002;12022901002;Hazibag Cha Bagan Vora;Billal Mistri-er Bosoti;15;75;35;2;2;4;3;1;3;2;4;3;2;2;3;2;2;1;2;38
+Gazipur;29;2022901001;12022901001;Hazibag Cha Bagan Vora;Ibrahim-er Bari;15;80;30;3;2;4;3;2;4;3;4;3;2;2;3;4;3;1;1;44
+Gazipur;29;2022901003;12022901003;Hazibag Cha Bagan Vora;Jogoddish-er Bari;10;40;35;2;2;4;3;1;3;4;4;3;2;2;4;4;3;4;1;46
+Gazipur;29;2022902002;12022902002;Choto Dewra Shamantapur;Aysha Kindergarten and Kaji Bari Songlogno;180;800;15;2;1;4;2;4;4;2;4;4;1;1;4;4;4;4;4;49
+Gazipur;29;2022902004;12022902004;Choto Dewra Shamantapur;Baitul & Ahasan Masjid Songlogno;40;160;14;2;1;4;1;4;2;2;4;4;2;1;4;1;4;4;4;44
+Gazipur;29;2022902005;12022902005;Choto Dewra Shamantapur;Primary School-er Purbo Pashe;60;240;7;2;1;4;1;1;4;2;4;4;2;1;4;2;4;4;4;44
+Gazipur;29;2022903001;12022903001;Sharpara Chaitanyapur;Shomser Ali-er Bari;45;225;40;2;1;4;1;1;2;1;3;3;2;3;3;3;3;4;4;40
+Gazipur;29;2022904001;12022904001;Adabor Shamantapur;Khalil-er Bari;20;100;30;1;1;2;1;1;2;1;1;2;2;3;2;3;4;4;4;34
+Gazipur;29;2022904002;12022904002;Adabor Shamantapur;Moinadipara Mofijuddin-er Bari;30;140;20;2;2;4;1;1;1;1;2;3;2;3;4;4;4;4;4;42
+Gazipur;29;2022904003;12022904003;Adabor Shamantapur;Adachboir Moynuddin para;100;500;30;2;1;4;1;1;2;1;4;3;4;4;4;4;4;4;4;47
+Gazipur;29;2022904004;12022904004;Adabor Shamantapur;Bagar Pukur Par;15;70;50;1;1;3;1;1;1;1;2;1;2;3;1;1;1;2;1;23
+Gazipur;29;2022904005;12022904005;Adabor Shamantapur;Bagmarar Tek (Dukhu Mia-er Bari);10;40;35;2;1;4;1;1;2;1;2;2;3;3;4;4;4;4;4;42
+Gazipur;32;2023201001;12023201001;Moiran-Bashura-Ghosora;Dori Bari;70;350;70;1;1;4;1;1;2;1;4;3;1;2;2;1;2;2;1;29
+Gazipur;32;2023201002;12023201002;Moiran-Bashura-Ghosora;Latif-er Pukur Parer Bosoti;18;120;60;1;2;4;1;1;3;1;4;3;1;1;1;1;2;2;1;29
+Gazipur;32;2023201003;12023201003;Moiran-Bashura-Ghosora;Colony Para;30;180;70;2;1;4;1;1;1;1;4;4;2;3;3;2;3;2;1;35
+Gazipur;32;2023201004;12023201004;Moiran-Bashura-Ghosora;Bashura Central Masjid-er Dakshin Purbo Dike;12;80;70;2;1;4;1;1;2;1;4;4;4;3;4;2;4;4;4;45
+Gazipur;32;2023201005;12023201005;Moiran-Bashura-Ghosora;Didaira Para;40;250;80;2;1;4;1;1;1;1;4;4;4;3;4;2;4;4;4;44
+Gazipur;32;2023202001;12023202001;Jajhar and Nagpur;Nagpur Ghaspukur Par;24;127;60;1;1;4;1;1;4;1;4;4;1;4;1;4;1;1;1;34
+Gazipur;32;2023202002;12023202002;Jajhar and Nagpur;Bashar Bari;16;90;80;1;1;4;1;1;4;1;4;4;1;4;4;1;4;4;4;43
+Gazipur;32;2023202003;12023202003;Jajhar and Nagpur;Baitun Nur Jame Masjid-er Uttar Pashe;25;125;80;1;1;4;1;1;4;4;4;4;1;4;4;3;4;4;4;48
+Gazipur;32;2023202004;12023202004;Jajhar and Nagpur;Dagar Bari;22;120;70;1;1;4;1;1;4;1;4;4;1;4;4;3;4;4;4;45
+Gazipur;32;2023203001;12023203001;Ishwarda and Degerchala;Bina Pukur Par;47;235;60;2;1;4;1;1;4;1;4;3;1;4;1;1;1;2;1;32
+Gazipur;32;2023203002;12023203002;Ishwarda and Degerchala;Pagla Bari;24;124;80;1;1;2;1;1;4;1;4;4;1;4;1;2;4;4;4;39
+Gazipur;32;2023204001;12023204001;Baliyara-Gutiyara-Shakhauri;Md. Moslem Uddin-er Bari;7;40;30;3;1;4;2;1;4;3;4;4;2;4;1;1;1;2;1;38
+Gazipur;32;2023204002;12023204002;Baliyara-Gutiyara-Shakhauri;Md. Kudrut Ali-er Bari;8;30;20;2;1;4;1;1;3;1;4;4;2;4;4;4;4;4;4;47
+Gazipur;32;2023204003;12023204003;Baliyara-Gutiyara-Shakhauri;Siraj Uddin-er Bari;8;35;20;2;1;4;2;1;4;1;4;3;1;4;4;3;4;4;4;46
+Gazipur;32;2023204004;12023204004;Baliyara-Gutiyara-Shakhauri;Md. Sirajul Islam-er Bari;12;50;25;2;1;4;2;1;4;1;3;4;2;4;2;3;4;4;4;45
+Gazipur;1;2020101001;12020101001;Madhabpur;Barisal Tek;130;650;20;2;1;4;1;1;4;1;4;3;1;2;1;1;1;2;1;30
+Gazipur;1;2020102001;12020102001;Shibrampur-Paschim Panishail;Shibrampur-Paschim Para Bosoti;150;600;100;2;2;4;3;1;3;2;3;3;3;3;3;1;3;2;2;40
+Gazipur;1;2020104001;12020104001;Dakshin Panishail;Sonali Polli Bot-tola Bosoti;80;320;21;2;1;4;3;1;3;2;3;3;2;3;3;1;2;2;2;37
+Gazipur;2;2020201002;12020201002;Latifpur-Mozarmil-Tetuibari;Mohammadi Nogor Bosoti;30;150;10;2;1;3;1;1;1;2;2;3;1;2;2;1;2;4;4;32
+Gazipur;2;2020201001;12020201001;Latifpur-Mozarmil-Tetuibari;Muktijoddhar Tek Bosoti;140;700;11;2;1;4;2;1;2;1;1;2;2;1;3;2;1;2;1;28
+Gazipur;2;2020201003;12020201003;Latifpur-Mozarmil-Tetuibari;Latifpur Khan Para Bosoti;50;250;20;2;1;4;1;1;3;2;3;1;1;1;4;4;4;4;4;40
+Gazipur;2;2020202001;12020202001;Chakrabarti-BEXIMCO;Banglalink Tower;120;250;20;2;1;4;4;1;4;1;4;3;2;4;4;4;4;4;4;50
+Gazipur;2;2020202006;12020202006;Chakrabarti-BEXIMCO;Mozarmil Masjid-er Uattar Pashe;20;65;20;2;1;4;3;1;4;1;4;3;3;4;1;2;4;4;3;44
+Gazipur;2;2020202004;12020202004;Chakrabarti-BEXIMCO;Md. Sirajul Islam-er Bosoti;20;60;25;2;1;4;1;1;4;1;4;3;3;4;1;2;4;4;4;43
+Gazipur;2;2020202005;12020202005;Chakrabarti-BEXIMCO;Samad Mia-er Bosoti;17;85;23;2;1;4;1;1;4;1;4;3;3;4;1;2;4;4;4;43
+Gazipur;2;2020202007;12020202007;Chakrabarti-BEXIMCO;Kafil Uddin School-er Pashe;13;64;25;2;1;4;1;1;4;1;4;3;3;4;1;3;4;4;4;44
+Gazipur;2;2020202003;12020202003;Chakrabarti-BEXIMCO;Joynul Abedin-er Bosoti;15;55;26;2;1;4;3;1;3;1;4;3;3;4;4;3;4;1;4;45
+Gazipur;2;2020203001;12020203001;Bhabanipur-Mamun Nagar-Sarabo;Md. Munna-er Bosoti;10;50;30;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Gazipur;2;2020203002;12020203002;Bhabanipur-Mamun Nagar-Sarabo;Md. Jamil Hossain-er Bosoti;8;50;100;1;1;4;1;1;2;4;4;3;2;2;4;4;4;2;4;43
+Gazipur;2;2020203003;12020203003;Bhabanipur-Mamun Nagar-Sarabo;Purbopara Jame Masjid-er Dakshin Pashe;50;200;100;2;1;4;1;1;4;1;4;4;1;4;4;2;4;2;4;43
+Gazipur;2;2020204002;12020204002;Lohakar-Lashkharchela;Andhar Manik Bosoti;60;200;15;2;1;4;1;1;4;1;4;3;1;3;4;2;3;2;3;39
+Gazipur;2;2020204001;12020204001;Lohakar-Lashkharchela;Borochela Irad Ali Fakir Madrasa-er Sathe;18;100;100;2;1;4;1;1;1;1;2;2;1;2;1;4;3;2;1;29
+Gazipur;2;2020204003;12020204003;Lohakar-Lashkharchela;Morar Tek;125;450;20;2;1;4;1;1;1;1;3;1;1;1;1;1;1;2;1;23
+Gazipur;3;2020302001;12020302001;Barendra Paschim;Chadpur Padri-er Bosoti;170;650;13;2;1;4;2;3;3;2;4;4;3;3;1;1;2;2;1;38
+Gazipur;3;2020301001;12020301001;Anayetpur;Abedali Market-er Paschim Pashe;550;1800;12;2;1;4;2;1;2;2;3;2;1;2;4;2;4;1;1;34
+Gazipur;3;2020301002;12020301002;Anayetpur;Sobuj Kanon School-er Purbo and Paschim Pashe;900;3200;13;2;1;4;1;1;3;1;3;3;1;1;4;2;4;1;4;36
+Gazipur;3;2020301003;12020301003;Anayetpur;Masjidul Kura-er Paschim Pashe;200;1000;15;2;1;4;2;1;2;1;1;4;1;2;4;4;1;4;4;38
+Gazipur;3;2020303002;12020303002;Barendra Purbo;Moksed Molla-er Barir Pashe;350;1240;17;1;1;4;1;1;2;1;3;2;1;1;4;3;3;3;3;34
+Gazipur;3;2020303004;12020303004;Barendra Purbo;F Khan Academy-er Purbo Pashe;147;560;16;1;1;4;1;1;2;1;3;2;1;2;4;1;3;3;3;33
+Gazipur;3;2020303003;12020303003;Barendra Purbo;Sobur Molla-er Barir Pashe;75;295;10;2;1;4;1;1;2;1;3;3;1;2;4;2;3;2;2;34
+Gazipur;3;2020303001;12020303001;Barendra Purbo;Councilor Barir Dakshin Pashe;150;550;15;1;1;4;1;1;3;2;4;2;1;1;4;2;4;1;1;33
+Gazipur;4;2020404001;12020404001;Sultan Market, Bhuiyanpara, Aynal Market, Ricemill, Boxvanga, Khanbari;Boxvanga;300;1200;10;1;1;4;2;1;2;3;3;2;2;2;1;1;1;2;1;29
+Gazipur;4;2020404002;12020404002;Sultan Market, Bhuiyanpara, Aynal Market, Ricemill, Boxvanga, Khanbari;Bhuiyan Para, Kazi Para, Munsi Para;1200;4800;12;2;1;4;2;1;3;3;4;4;3;2;4;1;3;1;2;40
+Gazipur;4;2020401001;12020401001;Matabbarpara, Sanda, Kashempur Metropolitan Thana and N Block;Bahadur Khan-er Barir Purbo Pashe;200;900;10;2;1;4;2;1;3;4;4;3;3;3;3;2;4;1;2;40
+Gazipur;4;2020401002;12020401002;Matabbarpara, Sanda, Kashempur Metropolitan Thana and N Block;Kazi Market and Matabbarpara;2000;8000;15;2;4;4;2;1;3;3;3;4;3;2;4;2;4;1;2;44
+Gazipur;4;2020401003;12020401003;Matabbarpara, Sanda, Kashempur Metropolitan Thana and N Block;Sanda Elaka;300;1200;10;3;1;4;2;1;2;3;3;3;2;2;1;2;2;2;3;36
+Gazipur;4;2020402002;12020402002;Haji Market, Square and M Block;Sultan Market, Dana Road-er Pashe;300;1400;12;2;1;4;2;1;2;3;4;4;3;2;4;1;4;1;2;40
+Gazipur;5;2020501001;12020501001;Sarupaitoly;Nama Para;25;120;50;2;1;4;1;1;3;1;3;3;2;3;4;3;4;4;4;43
+Gazipur;5;2020502001;12020502001;Bagbari;Gayen Bari;65;1250;50;2;1;4;1;1;4;1;4;4;3;3;4;4;4;4;4;48
+Gazipur;5;2020503002;12020503002;Shoildubi;Chandpur Para;25;150;20;2;2;4;1;1;4;1;4;4;4;4;4;3;4;4;4;50
+Gazipur;5;2020503001;12020503001;Shoildubi;Jahura Begum School-er Dakshin Pashe;13;70;15;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Gazipur;5;2020504004;12020504004;Sura Bari;Shakil Synthia-er Dakshin Pashe;60;300;20;1;2;4;2;1;4;1;4;4;3;3;4;4;4;4;4;49
+Gazipur;5;2020504003;12020504003;Sura Bari;Refugee Para;100;500;70;2;2;4;1;1;4;4;4;4;4;3;2;4;3;4;4;50
+Gazipur;5;2020504001;12020504001;Sura Bari;Ashroyon Prokolpo;200;1500;20;2;2;4;1;1;4;4;3;4;4;3;4;1;4;4;4;49
+Gazipur;6;2020601002;12020601002;Jarun Dakshin;Monir-e Bosoti;200;730;20;4;4;1;4;1;3;1;4;4;4;4;4;4;2;4;4;52
+Gazipur;6;2020601004;12020601004;Jarun Dakshin;Jailkhana-er Pashe;50;200;15;1;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;48
+Gazipur;6;2020601003;12020601003;Jarun Dakshin;Basar Kazi-er Bosoti;40;210;10;1;1;4;1;1;1;1;4;4;4;4;3;4;4;4;4;45
+Gazipur;6;2020601001;12020601001;Jarun Dakshin;Shaker Nol;60;250;25;1;1;4;1;1;3;1;3;4;4;4;4;4;4;4;4;47
+Gazipur;6;2020602003;12020602003;Kashimpur Noyapara;Ideal School-er Pashe;98;400;90;1;1;4;1;1;2;1;4;3;4;4;1;4;1;4;4;40
+Gazipur;6;2020602005;12020602005;Kashimpur Noyapara;Shaker Nol Purbo;16;75;5;3;3;4;4;2;4;1;3;1;3;3;4;4;3;1;3;46
+Gazipur;6;2020602001;12020602001;Kashimpur Noyapara;Mirza Bari Bosoti;200;800;12;1;1;4;3;1;1;1;2;4;4;4;2;3;3;1;1;36
+Gazipur;6;2020603003;12020603003;Kashimpur;Robidaspara & Dulipara;280;1100;20;2;1;4;1;1;3;1;3;3;2;2;2;3;3;1;1;33
+Gazipur;6;2020603004;12020603004;Kashimpur;Fokir Bari;55;250;20;2;1;4;1;1;3;2;3;3;3;2;4;3;4;1;1;38
+Gazipur;6;2020603001;12020603001;Kashimpur;Pal Para;310;1350;25;2;1;4;1;1;2;1;2;3;2;2;3;3;3;1;1;32
+Gazipur;6;2020603002;12020603002;Kashimpur;Kashimpur Jelepara & Buripara;340;1450;30;2;1;4;1;1;3;1;3;3;2;2;3;3;4;1;1;35
+Gazipur;6;2020604002;12020604002;Kashimpur Nodirpar;Jele Para;10;40;50;2;2;4;1;1;3;1;4;3;2;3;1;3;4;1;2;37
+Gazipur;6;2020604003;12020604003;Kashimpur Nodirpar;Nama Para;15;50;70;2;1;4;1;1;2;1;3;3;2;3;4;4;4;4;4;43
+Gazipur;6;2020605002;12020605002;Dhononjoy Khali;Dhononjoy Khali Paschimpara;8;38;60;2;2;4;1;1;2;1;4;3;2;3;4;4;4;4;4;45
+Gazipur;6;2020605003;12020605003;Dhononjoy Khali;Dhononjoy Khali Moddhopara;6;26;70;1;2;4;1;1;1;1;4;2;2;3;4;4;4;4;4;42
+Gazipur;6;2020605004;12020605004;Dhononjoy Khali;Dhononjoy Khali Dakshinpara;5;22;50;1;1;4;1;1;1;1;3;2;2;3;4;4;4;4;4;40
+Gazipur;7;2020701001;12020701001;Jorun Paschimpara;Fatemar Maa-er Bari;6;30;30;1;3;3;4;1;4;1;4;2;1;4;4;3;4;4;4;47
+Gazipur;7;2020701002;12020701002;Jorun Paschimpara;Bindu-er Bari;7;26;30;2;3;3;4;1;3;1;3;3;2;4;4;2;4;4;4;47
+Gazipur;7;2020701003;12020701003;Jorun Paschimpara;Akila-er Bari;5;27;30;2;3;3;3;1;2;1;2;3;3;4;3;2;4;4;4;44
+Gazipur;7;2020704001;12020704001;Jorun Bazar, Namapara, Peyarabagan;Jorun Nama Para-1;100;300;7;2;1;4;4;1;3;3;3;4;2;4;4;1;4;4;4;48
+Gazipur;7;2020704002;12020704002;Jorun Bazar, Namapara, Peyarabagan;Jorun Nama Para-2;100;300;10;2;1;4;3;1;4;2;4;4;4;2;4;1;4;4;4;48
+Gazipur;7;2020704004;12020704004;Jorun Bazar, Namapara, Peyarabagan;Jorun Dakshin Para;503;1500;10;3;3;4;3;1;3;3;4;4;4;4;4;3;4;4;4;55
+Gazipur;7;2020704005;12020704005;Jorun Bazar, Namapara, Peyarabagan;Jorun Purbo Para;150;45;10;2;2;4;4;1;3;3;4;4;4;4;4;1;4;4;4;52
+Gazipur;7;2020703003;12020703003;Jorun Moddhopara;Khan Polli;73;271;10;2;3;4;4;1;4;1;3;3;1;3;4;1;4;1;3;42
+Gazipur;7;2020703004;12020703004;Jorun Moddhopara;Jorun Moddho Para;30;78;150;2;3;4;4;1;4;1;3;3;1;3;4;1;4;1;3;42
+Gazipur;7;2020702001;12020702001;Jorun Uttarpara;Shopan Plastic Bosoti;20;65;2;3;2;4;4;1;3;2;4;4;4;4;4;1;4;4;4;52
+Gazipur;7;2020702002;12020702002;Jorun Uttarpara;Best Wool Road Bosoti;65;260;5;3;2;4;4;1;3;2;4;4;4;4;4;1;4;1;1;46
+Gazipur;7;2020702003;12020702003;Jorun Uttarpara;Kefa Spinning Bosoti;31;95;15;3;2;4;4;1;3;2;4;4;4;4;4;1;4;1;1;46
+Gazipur;7;2020702005;12020702005;Jorun Uttarpara;Shikdar Bari Road Bosoti;150;350;12;2;1;4;1;1;3;2;4;4;1;4;4;1;4;1;1;38
+Gazipur;7;2020702004;12020702004;Jorun Uttarpara;T-Design Road Bosoti;120;445;10;2;1;4;4;1;3;1;4;4;4;2;4;1;4;1;1;41
+Gazipur;8;2020801002;12020801002;Harinachala;Dakshin Harinachala Uttar Pash;350;1000;30;4;1;4;4;1;1;3;2;3;3;4;4;4;4;4;4;50
+Gazipur;8;2020801001;12020801001;Harinachala;Dakshin Harinachala Dakshin Pash;350;800;15;4;1;4;3;1;1;4;4;1;1;2;2;3;2;2;3;38
+Gazipur;8;2020802001;12020802001;Dewalia Bari;Notun Bazar-er Uttar Pash;50;200;6;1;1;3;1;1;1;1;2;4;1;1;1;1;1;2;1;23
+Gazipur;8;2020802002;12020802002;Dewalia Bari;Sona Para Char Rasta Songlogno;200;800;18;4;1;3;2;1;1;3;2;3;1;3;4;4;4;4;4;44
+Gazipur;9;2020903002;12020903002;Pollibiddut, Pukurpar, Kuddusnogor, Haq Medical;Kabiraj Bari;600;2000;16;3;1;4;4;1;4;1;2;2;2;4;4;1;4;1;3;41
+Gazipur;9;2020903003;12020903003;Pollibiddut, Pukurpar, Kuddusnogor, Haq Medical;Kathalbagan;900;2700;8;4;4;4;4;1;4;1;3;2;2;4;4;1;4;1;3;46
+Gazipur;9;2020903004;12020903004;Pollibiddut, Pukurpar, Kuddusnogor, Haq Medical;Kuddusnogor;300;1000;13;4;4;4;4;1;4;1;3;2;2;4;4;1;4;1;3;46
+Gazipur;9;2020902002;12020902002;Konabari Purbopara;Konabari Uttarpara;285;950;15;2;2;4;4;1;4;1;3;4;1;3;4;4;4;1;2;44
+Gazipur;9;2020902001;12020902001;Konabari Purbopara;Refugee Bosoti;21;153;40;1;1;4;4;1;2;1;4;4;2;1;4;4;4;4;4;45
+Gazipur;10;2021002003;12021002003;Ambag Paschimpara-1;Idris-er Bosoti;50;200;10;2;1;4;1;1;4;1;4;4;4;1;1;4;4;4;3;43
+Gazipur;10;2021002004;12021002004;Ambag Paschimpara-1;Shahida-er Bosoti;15;75;7;1;1;4;2;1;4;1;2;3;1;4;2;4;4;4;4;42
+Gazipur;10;2021002002;12021002002;Ambag Paschimpara-1;Boloram-er Bosoti;12;40;7;1;1;4;2;1;4;1;4;3;1;1;3;4;4;4;4;42
+Gazipur;10;2021002001;12021002001;Ambag Paschimpara-1;Alamgir-er Bosoti;10;45;5;1;1;4;2;1;4;1;1;4;1;4;2;4;4;4;4;42
+Gazipur;10;2021001001;12021001001;Meghlal and Ambag Uttarpara;Manikganjpara-1;50;180;21;2;2;4;1;1;4;1;4;2;1;3;2;4;2;2;1;36
+Gazipur;10;2021001002;12021001002;Meghlal and Ambag Uttarpara;Manikganjpara-2;180;700;21;2;2;4;1;1;4;1;4;3;2;3;2;4;2;2;1;38
+Gazipur;10;2021001003;12021001003;Meghlal and Ambag Uttarpara;Koyed Ali Memberpara;390;1230;30;2;2;4;2;1;4;1;4;3;2;3;4;4;4;4;4;48
+Gazipur;10;2021003001;12021003001;Ambag Paschimpara-2;Md. Sobur Mia-er Bosoti;24;80;3;1;1;4;2;1;4;1;3;4;4;1;3;4;4;4;1;42
+Gazipur;10;2021001004;12021001004;Meghlal and Ambag Uttarpara;Nazimuddin Pir Mor Songlogno;210;790;25;2;1;4;1;1;4;1;4;3;3;3;4;4;4;4;4;47
+Gazipur;10;2021004001;12021004001;Ambag Purbopara-1;Greatness School-er Pashe;25;100;12;2;2;4;2;1;4;1;3;4;1;4;4;2;4;1;4;43
+Gazipur;10;2021005003;12021005003;Ambag Purbopara-2;Mofiz Master-er Math-er Uttar Pash;70;280;14;2;2;4;2;1;4;1;3;3;1;4;4;4;4;4;4;47
+Gazipur;10;2021005002;12021005002;Ambag Purbopara-2;Abul Hashem-er Chala;35;140;3;4;1;4;2;1;4;1;3;4;1;4;3;1;4;1;3;41
+Gazipur;10;2021005001;12021005001;Ambag Purbopara-2;Shukur-er Chala;130;520;11;4;1;4;4;1;4;1;3;4;1;4;3;1;4;1;4;44
+Gazipur;11;2021101001;12021101001;Block 1 (Rajabari, Katlakhali, Baghia River Side);Babul-er Bosoti;25;150;57;1;1;4;1;1;1;3;4;2;2;3;4;3;4;4;4;42
+Gazipur;11;2021101002;12021101002;Block 1 (Rajabari, Katlakhali, Baghia River Side);MD. Sazzat Hossain Setu-er Bosoti;23;110;65;1;1;4;2;1;1;3;4;3;2;3;4;3;4;4;4;44
+Gazipur;11;2021101003;12021101003;Block 1 (Rajabari, Katlakhali, Baghia River Side);Sahin Bandaria-er Bosoti;5;50;48;1;1;4;1;4;1;3;1;2;3;3;4;3;4;4;4;43
+Gazipur;11;2021102001;12021102001;Block 2 (Joyertek, Ahaki, Pratappur);Moynal Jamai-er Bosoti;5;40;50;1;1;2;1;1;3;1;4;3;1;1;1;4;4;4;4;36
+Gazipur;11;2021102002;12021102002;Block 2 (Joyertek, Ahaki, Pratappur);Asuruddin-er Bosoti;7;45;32;2;2;2;1;1;1;1;4;1;1;2;4;4;4;4;4;38
+Gazipur;11;2021102003;12021102003;Block 2 (Joyertek, Ahaki, Pratappur);Ambia-er Bosoti;12;84;40;1;1;3;1;1;1;1;4;1;1;1;4;4;4;4;4;36
+Gazipur;11;2021102004;12021102004;Block 2 (Joyertek, Ahaki, Pratappur);Badsha-er Bosoti;10;38;50;3;1;4;1;1;3;4;4;1;1;1;4;4;4;4;4;44
+Gazipur;11;2021102005;12021102005;Block 2 (Joyertek, Ahaki, Pratappur);Doyba-er Bosoti;18;95;50;1;1;2;1;1;2;1;4;1;1;1;4;4;4;4;4;36
+Gazipur;11;2021102006;12021102006;Block 2 (Joyertek, Ahaki, Pratappur);Arun Das-er Bosoti;8;45;50;1;1;4;1;1;1;1;4;1;1;3;4;4;4;4;4;39
+Gazipur;11;2021102007;12021102007;Block 2 (Joyertek, Ahaki, Pratappur);R Rahman-er Bosoti;15;60;12;1;1;2;1;1;1;3;4;2;1;2;4;4;4;4;4;39
+Gazipur;11;2021103001;12021103001;Block 3 (Baghia);Bosir Sarkar-er Bosoti;10;50;6;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103002;12021103002;Block 3 (Baghia);Baghia Mollabari;40;200;200;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103003;12021103003;Block 3 (Baghia);Jahanara Mahalla Dish Pukur Par;6;30;20;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103004;12021103004;Block 3 (Baghia);Baghia Ansar-er Area;10;60;50;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103005;12021103005;Block 3 (Baghia);Rahim-er Area;10;50;20;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103006;12021103006;Block 3 (Baghia);Sahidul-er Area;15;70;100;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021103007;12021103007;Block 3 (Baghia);Shawkat-er Area;20;150;150;1;1;4;1;1;3;2;4;3;1;3;3;4;4;4;4;43
+Gazipur;11;2021104001;12021104001;Block 4 (Kholapara, Kalervita);Purbo Kholapara Abdus Malek-er Bosoti;10;50;70;1;1;4;1;1;3;1;4;3;2;4;4;4;4;4;4;45
+Gazipur;11;2021104002;12021104002;Block 4 (Kholapara, Kalervita);Kholapara, Adam Ali-er Bosoti;7;35;70;3;1;3;1;1;2;1;4;3;2;4;4;4;4;4;4;45
+Gazipur;11;2021104003;12021104003;Block 4 (Kholapara, Kalervita);Kalervita, Sojan Mahmood-er Bosoti;5;30;20;1;1;3;1;1;3;1;4;3;2;3;4;4;4;4;4;43
+Gazipur;11;2021104004;12021104004;Block 4 (Kholapara, Kalervita);Kalervita, Poschim Para Abdul Malek Barisal Potti;50;250;15;3;1;3;1;1;3;1;4;4;2;4;4;2;4;4;4;45
+Gazipur;11;2021104005;12021104005;Block 4 (Kholapara, Kalervita);Kholapara, Noser Market Md. Sahed;7;40;60;1;1;4;1;1;3;1;4;4;3;4;4;3;4;4;4;46
+Gazipur;11;2021104006;12021104006;Block 4 (Kholapara, Kalervita);Kholapara, Nur Market Fazel Mia-er Bosoti;50;220;70;1;1;4;1;1;4;1;4;4;2;4;4;4;4;4;4;47
+Gazipur;12;2021202002;12021202002;Baimail Purbopara;Givency-er Pashe;10;30;20;1;1;4;3;1;4;1;4;4;1;4;4;1;4;1;1;39
+Gazipur;12;2021202001;12021202001;Baimail Purbopara;Adar Potti;50;150;28;3;1;4;1;1;1;2;4;3;1;3;4;2;4;1;1;36
+Gazipur;12;2021202004;12021202004;Baimail Purbopara;Christian Potti;100;250;30;4;4;4;3;1;3;2;3;3;2;3;3;1;3;1;1;41
+Gazipur;12;2021202003;12021202003;Baimail Purbopara;Kashem Cotton 1 No.;15;60;10;4;4;4;4;1;2;1;4;4;1;4;4;1;4;1;3;46
+Gazipur;12;2021204002;12021204002;Baimail Dakshinpara;Nowab Ali Market Songlogno;50;200;45;1;3;4;1;1;4;1;4;4;2;3;4;4;4;4;4;48
+Gazipur;12;2021204001;12021204001;Baimail Dakshinpara;Baimail Dakshinpara;65;260;40;1;4;4;1;1;4;1;3;4;3;3;4;4;4;4;4;49
+Gazipur;12;2021203001;12021203001;Baimail Nodirpar;Uttar Para 1;35;100;50;1;1;4;1;1;1;1;1;1;1;1;2;2;2;4;4;28
+Gazipur;12;2021203002;12021203002;Baimail Nodirpar;Uttar Para 2;35;100;50;2;1;4;1;1;1;1;1;2;1;1;4;4;3;4;4;35
+Gazipur;12;2021203004;12021203004;Baimail Nodirpar;Kodda Bridge-er Paschim;38;114;50;1;1;4;1;1;1;1;1;1;1;1;2;4;2;4;4;30
+Gazipur;12;2021203003;12021203003;Baimail Nodirpar;Noya Para;300;1200;40;1;1;4;1;2;1;1;1;1;1;1;1;1;1;2;1;21
+Gazipur;12;2021203005;12021203005;Baimail Nodirpar;Molla Bari;50;150;50;1;1;4;1;1;1;1;1;1;1;1;2;3;2;1;2;24
+Gazipur;12;2021201002;12021201002;Baimail Paschimpara;Gonir Arot;150;620;35;3;4;4;4;4;3;3;4;4;3;4;4;4;4;4;1;57
+Gazipur;12;2021201001;12021201001;Baimail Paschimpara;Paschim Para;10;25;8;4;4;4;4;3;4;1;3;2;1;4;4;1;4;1;1;45
+Gazipur;12;2021201005;12021201005;Baimail Paschimpara;Bikrampur Potti;90;200;15;4;4;4;4;4;4;3;4;4;3;4;4;4;4;1;1;56
+Gazipur;12;2021201004;12021201004;Baimail Paschimpara;Pukurpar;200;500;25;4;3;4;4;4;4;3;4;4;1;4;4;1;4;1;1;50
+Gazipur;12;2021201003;12021201003;Baimail Paschimpara;Taltola;20;65;10;1;1;4;4;4;4;3;4;4;1;4;4;2;4;1;1;46
+Gazipur;14;2021401001;12021401001;Islampur;Islampur Noyapara;5;26;26;2;2;4;1;1;2;1;2;1;1;4;4;2;4;2;1;34
+Gazipur;14;2021401002;12021401002;Islampur;Islampur Nama Para;11;50;45;2;3;4;4;2;3;4;4;4;2;4;4;3;4;4;4;55
+Gazipur;14;2021401003;12021401003;Islampur;Islampur Bouna Para;5;27;50;4;4;4;4;2;3;4;3;4;3;3;4;1;3;1;1;48
+Gazipur;14;2021401004;12021401004;Islampur;Islampur Kalakur;20;80;20;2;2;4;1;2;2;2;3;1;1;2;3;1;3;1;1;31
+Gazipur;14;2021402001;12021402001;Kodda Nandon;Pator Para;6;32;45;2;1;4;4;1;3;4;3;4;3;3;3;2;3;1;1;42
+Gazipur;14;2021403001;12021403001;Chanpara and Adebasha;Saipara;10;55;30;2;2;4;1;1;3;3;3;4;2;3;4;3;4;1;1;41
+Gazipur;14;2021403002;12021403002;Chanpara and Adebasha;Purba Saipara;16;60;40;2;1;4;1;1;2;1;2;2;1;2;3;1;3;1;1;28
+Gazipur;14;2021403003;12021403003;Chanpara and Adebasha;Adebasha Thakurbari;9;50;50;2;2;4;4;1;3;2;3;1;1;3;3;2;3;1;1;36
+Gazipur;14;2021404001;12021404001;Bashon;Chandrar Tek;6;33;30;2;2;4;1;1;2;3;2;1;1;3;4;1;4;1;1;33
+Gazipur;14;2021404002;12021404002;Bashon;Neki Para;16;60;20;2;1;4;1;1;3;2;3;1;2;3;4;2;4;4;4;41
+Gazipur;14;2021404003;12021404003;Bashon;Kamar Para;9;39;45;2;2;4;3;1;3;2;4;2;2;3;4;3;4;4;4;47
+Gazipur;14;2021404004;12021404004;Bashon;Kali Para;10;45;40;2;2;4;1;1;2;3;3;1;1;3;4;1;4;1;2;35
+Gazipur;14;2021404005;12021404005;Bashon;Bashon Nodir Par;7;37;30;1;2;3;1;1;2;1;1;3;1;3;4;1;3;2;1;30
+Gazipur;16;2021601003;12021601003;Out Para;Molla-er Bosoti;20;120;4;2;2;4;1;1;2;4;2;3;2;4;4;4;4;1;3;43
+Gazipur;16;2021601002;12021601002;Out Para;Manna Sorkar-er Bosoti;83;515;15;4;4;4;1;1;1;4;2;3;2;4;3;4;4;1;3;45
+Gazipur;16;2021601001;12021601001;Out Para;Johurar Par Bosoti;80;400;20;4;4;4;3;1;1;4;2;2;1;3;4;4;4;1;3;45
+Gazipur;16;2021601005;12021601005;Out Para;Nayeeb Bari (Mohiuddin);220;880;12;3;3;3;3;1;3;4;3;3;2;4;4;4;4;4;3;51
+Gazipur;16;2021601004;12021601004;Out Para;Nayeeb Bari Bosoti (Riaz);52;208;15;1;1;3;1;1;1;1;2;3;1;4;4;4;4;4;4;39
+Gazipur;16;2021603002;12021603002;Baroboika;Baroboika, Bosuroddi Choukidar Tek;52;220;75;2;1;4;1;1;4;1;2;1;1;3;4;4;4;4;4;41
+Gazipur;16;2021603001;12021603001;Baroboika;Baroboika, Paschim Para;15;200;150;1;1;1;1;1;4;1;3;4;1;4;4;4;4;4;4;42
+Gazipur;17;2021702001;12021702001;Chandna Purbopara;Purbo Chandna Sorkari Prathomik Biddyaloy Bosoti;46;194;60;1;1;4;1;1;3;1;4;3;3;3;4;3;4;4;4;44
+Gazipur;17;2021702002;12021702002;Chandna Purbopara;Munsi Bari;41;176;115;1;1;4;2;1;3;1;4;3;3;3;4;2;4;4;4;44
+Gazipur;17;2021702003;12021702003;Chandna Purbopara;Newlight;37;155;130;1;1;4;3;1;4;1;4;3;3;3;4;3;4;4;4;47
+Gazipur;17;2021702004;12021702004;Chandna Purbopara;Paler Math;53;224;135;4;4;4;1;1;3;2;4;3;2;3;1;1;1;2;1;37
+Gazipur;17;2021702005;12021702005;Chandna Purbopara;Botam Factory, Paler Math;26;107;90;4;4;4;3;1;2;2;4;3;1;3;1;1;1;2;1;37
+Gazipur;17;2021701001;12021701001;Chandna Paschimpara;Chandu-er Bosoti;42;193;30;2;1;3;3;1;3;1;4;3;3;3;4;4;4;1;4;44
+Gazipur;17;2021701002;12021701002;Chandna Paschimpara;Shaha Driver-er Bari;12;25;35;2;3;3;3;1;3;1;4;3;3;3;4;4;4;1;3;45
+Gazipur;17;2021703001;12021703001;Chandna (Nagbari) Dakshinpara;Rupatullah Shoroni Bosoti;10;44;80;1;1;4;1;1;4;1;4;3;3;2;4;2;4;4;4;43
+Gazipur;17;2021703002;12021703002;Chandna (Nagbari) Dakshinpara;Master Bari;26;107;90;2;1;4;3;1;2;1;3;3;3;3;4;2;4;4;4;44
+Gazipur;17;2021703003;12021703003;Chandna (Nagbari) Dakshinpara;Nagbari Komordoba;42;176;95;2;1;4;2;1;1;1;3;3;3;3;4;4;4;4;4;44
+Gazipur;17;2021703004;12021703004;Chandna (Nagbari) Dakshinpara;Chandna Komordoba;38;155;90;1;1;4;1;1;1;1;3;3;3;3;4;4;4;4;4;42
+Gazipur;17;2021704001;12021704001;Mugorkhal Paschimpara;Shomu Driver-er Barir Purbo Pash;13;80;15;2;1;3;2;1;2;1;4;3;3;2;4;3;4;4;4;43
+Gazipur;17;2021704003;12021704003;Mugorkhal Paschimpara;Shiraj Fokir-er Barir Pashe;40;200;45;2;3;4;2;1;2;1;4;2;2;1;3;3;2;4;4;40
+Gazipur;17;2021704002;12021704002;Mugorkhal Paschimpara;Afa Matobbor-er Barir Purbo Pash;20;120;18;1;1;3;1;1;2;1;4;3;3;1;4;2;4;4;4;39
+Gazipur;17;2021704004;12021704004;Mugorkhal Paschimpara;Mofu Barir Uttar-Paschim Pash;35;200;15;1;1;3;1;1;2;1;3;4;1;1;4;2;4;4;4;37
+Gazipur;17;2021705001;12021705001;Mugorkhal Purbopara;Koborsthan-er Pashe;30;140;40;2;2;3;2;1;2;1;3;3;3;2;4;4;4;4;4;44
+Gazipur;17;2021705002;12021705002;Mugorkhal Purbopara;Mollapara;50;200;50;1;1;4;1;1;4;1;3;3;2;2;4;4;1;4;4;40
+Gazipur;17;2021705003;12021705003;Mugorkhal Purbopara;Rabir Bari Gong;10;70;30;1;1;2;1;1;1;1;2;3;3;1;4;3;4;4;4;36
+Gazipur;17;2021706001;12021706001;Jugitola Paschimpara;Bindar Pukur;15;100;35;1;1;3;1;1;1;1;2;3;3;3;1;1;2;2;3;29
+Gazipur;17;2021706002;12021706002;Jugitola Paschimpara;Borotar Pukur;25;162;45;2;1;3;1;1;3;1;4;3;3;1;3;3;4;2;3;38
+Gazipur;17;2021707001;12021707001;Jugitola Purbopara;Enu Matbor-er Bosoti;35;241;55;1;1;4;1;1;1;1;4;3;3;3;4;4;4;4;4;43
+Gazipur;18;2021801003;12021801003;Telipara;T&T Road-er Uttar Pashe;60;300;10;4;2;4;4;1;4;1;4;4;3;4;2;4;4;1;2;48
+Gazipur;18;2021801002;12021801002;Telipara;T&T Rastar Dakshin Pashe Afaz Mondol-er Bosoti;50;230;18;3;1;4;1;1;3;1;3;3;2;3;4;4;3;1;3;40
+Gazipur;18;2021801001;12021801001;Telipara;Ahammod Ali Mondol Bari;80;400;17;4;2;4;3;1;2;1;3;1;1;3;3;3;4;1;3;39
+Gazipur;18;2021801004;12021801004;Telipara;Satellite Shonglogno Bosoti;70;300;8;3;3;4;4;1;4;1;4;4;4;4;4;1;4;1;3;49
+Gazipur;18;2021802001;12021802001;Naojanipara;Shahidul Islam Shahid Mazar Bosoti;25;120;20;1;1;4;1;3;3;1;2;1;3;3;4;3;4;1;3;38
+Gazipur;18;2021802003;12021802003;Naojanipara;Mot Para;20;50;20;2;1;3;2;3;3;1;3;2;2;2;4;1;4;3;3;39
+Gazipur;18;2021802002;12021802002;Naojanipara;Kachari Pukur Par Bosoti;40;160;20;1;1;4;1;3;2;1;2;3;2;4;4;1;4;1;3;37
+Gazipur;18;2021803002;12021803002;Bariali;Bariali Moddhopara;15;70;20;4;3;4;3;1;4;1;4;4;1;4;4;4;4;4;4;53
+Gazipur;18;2021803001;12021803001;Bariali;Teknagpara;10;40;90;1;1;4;1;1;1;1;2;1;1;4;1;1;1;2;1;24
+Gazipur;18;2021804001;12021804001;Teknagpara;Baitul Huda Masjid-er Purbo Pashe -1;10;35;7;1;2;4;3;1;1;1;3;4;3;1;4;1;4;1;3;37
+Gazipur;18;2021804002;12021804002;Teknagpara;Baitul Huda Masjid-er Purbo Pashe -2;15;55;10;2;1;4;1;1;1;1;3;4;2;2;4;4;3;1;3;37
+Gazipur;18;2021804005;12021804005;Teknagpara;Shining Path School-er Samne;12;50;6;2;2;4;1;1;1;1;2;2;1;2;4;4;3;1;3;34
+Gazipur;18;2021804003;12021804003;Teknagpara;Morhum Kanchon Ali Masjid-er Paschim Pashe;12;50;25;2;1;4;1;1;1;1;3;4;2;3;4;4;3;4;4;42
+Gazipur;18;2021804004;12021804004;Teknagpara;Kanchon Ali Jame Masjid-er Paschim Pashe;10;40;25;2;1;4;1;1;1;1;1;4;1;1;4;4;4;1;3;34
+Gazipur;18;2021804006;12021804006;Teknagpara;Porshinogor School-er Pichone;15;70;8;2;1;4;1;1;1;1;1;2;2;2;4;4;4;1;3;34
+Gazipur;19;2021901002;12021901002;Naga;Naga Ricemill;80;270;80;2;1;4;4;1;4;1;3;3;3;4;4;3;4;4;4;49
+Gazipur;19;2021901001;12021901001;Naga;Shoshi Bari;60;190;120;3;1;4;1;1;4;1;3;4;3;3;4;4;4;4;4;48
+Gazipur;19;2021902001;12021902001;Bagholbary;Moddhopara Madrasa;70;240;130;2;1;4;1;1;4;2;3;3;3;4;4;4;4;4;4;48
+Gazipur;19;2021903001;12021903001;Deshi Para;Moddho Para Jame Masjid-er Pashe;50;200;80;2;1;4;1;1;4;2;3;3;3;4;4;4;4;4;4;48
+Gazipur;19;2021906001;12021906001;Polashtek, Arashpara, Mollahpara, Sandhanipara;Habibur Rahman College-er Dakshin Pashe;15;70;40;1;2;4;1;1;3;1;4;4;4;1;1;4;1;2;1;35
+Gazipur;19;2021905001;12021905001;Dakshin Salna Moddho Para & Mia Para;Bongshi Bari;5;20;50;2;2;4;1;1;4;1;4;4;4;3;4;4;4;4;4;50
+Gazipur;19;2021904001;12021904001;Dakshin Salna Dakshin Para & Jugir Gufa;Saiyed Khan-er Bari;6;20;62;1;1;3;1;1;1;1;4;1;1;1;1;4;4;4;4;33
+Gazipur;20;2022001001;12022001001;Mojlispur;Mosjlispur Majhipara;12;30;40;1;1;4;1;4;1;3;3;3;1;4;4;3;4;4;4;45
+Gazipur;20;2022003003;12022003003;Tekibari;Tekibari Moddhopara;15;105;30;2;1;4;1;4;3;1;4;3;3;3;3;3;3;3;3;44
+Gazipur;20;2022003002;12022003002;Tekibari;Tekibari;20;210;25;2;1;4;1;4;3;1;4;3;3;3;3;2;3;3;3;43
+Gazipur;20;2022003001;12022003001;Tekibari;Tekibari Bastuhara;27;140;25;2;1;4;1;3;2;1;4;2;3;2;2;2;2;2;2;35
+Gazipur;21;2022101001;12022101001;Baraitoli;Baraitoli Nodir Par;15;60;17;1;1;4;1;1;1;1;3;3;1;2;4;2;4;4;4;37
+Gazipur;21;2022102001;12022102001;Mirergaon;Kendriyo Masjid-er Purbo Pashe;15;60;20;4;1;4;1;1;2;2;4;3;1;3;4;2;4;4;4;44
+Gazipur;21;2022102002;12022102002;Mirergaon;Bager Tek;10;40;25;1;1;3;1;1;1;1;2;3;1;2;1;2;4;4;4;32
+Gazipur;21;2022103001;12022103001;Biprobortha;Karkhana Bazar-er Uttar Pashe;23;80;15;1;1;4;1;1;1;1;3;3;1;3;4;3;3;4;4;38
+Gazipur;21;2022103002;12022103002;Biprobortha;Ari Bari Tek;35;130;22;1;1;4;1;1;2;1;3;3;1;3;4;3;4;4;4;40
+Gazipur;21;2022103003;12022103003;Biprobortha;Biprobortha Uttar Para Khan Para;25;100;20;1;3;4;1;1;2;1;3;3;1;3;4;3;4;4;4;42
+Gazipur;21;2022103004;12022103004;Biprobortha;Uttar Para Dish Pukur Para;35;130;25;2;1;4;1;1;1;1;2;3;1;2;4;3;4;4;4;38
+Gazipur;21;2022104001;12022104001;Khalishabortha;Khalishabortha Soytan Bari;23;85;15;4;1;4;1;1;1;1;3;3;1;3;4;3;4;4;4;42
+Gazipur;21;2022104002;12022104002;Khalishabortha;Sikdar Bari;20;80;15;1;1;4;1;1;1;1;3;3;1;3;4;2;4;4;4;38
+Gazipur;21;2022104003;12022104003;Khalishabortha;Eidgah Moydan-er Paschim Pash;17;50;12;1;1;4;1;1;1;1;3;3;1;3;4;2;4;4;4;38
+Gazipur;21;2022105001;12022105001;Jolarpar;Taleber Math-er Uttar Pashe;26;84;20;2;1;4;1;1;2;1;3;2;1;3;4;2;4;4;2;37
+Gazipur;21;2022105002;12022105002;Jolarpar;Balika Madrasar Paschim Pashe;25;100;25;1;1;4;1;1;2;1;4;3;1;2;4;3;4;4;4;40
+Gazipur;21;2022105003;12022105003;Jolarpar;Jolarpar Nag Para;15;60;20;4;1;4;1;1;1;1;3;3;1;2;4;2;4;4;4;40
+Gazipur;21;2022105004;12022105004;Jolarpar;Jolarpar Dakshin Para;30;120;10;2;1;4;1;1;2;1;4;3;1;3;4;3;4;4;4;42
+Gazipur;21;2022105005;12022105005;Jolarpar;Jolarpar Talukdar Para;15;60;25;4;1;4;1;1;3;1;3;3;1;2;4;3;4;4;4;43
+Gazipur;21;2022106001;12022106001;Kaultia;Nama Kaultia;12;50;20;1;1;4;1;1;1;1;3;3;1;3;3;3;4;4;4;38
+Gazipur;21;2022106002;12022106002;Kaultia;Kaultia Uttar para;16;60;12;1;1;4;1;1;1;1;3;3;3;1;4;3;4;4;4;39
+Gazipur;21;2022107001;12022107001;Bawpara;Kholartek;15;60;17;1;1;4;1;1;1;1;3;2;1;2;4;2;4;4;4;36
+Gazipur;21;2022107002;12022107002;Bawpara;College-er Uttar pashe;27;90;25;1;1;4;1;1;2;1;3;2;1;2;2;2;3;4;4;34
+Gazipur;21;2022107003;12022107003;Bawpara;Purbo Bawpara Gorasthan-er Pashe;12;50;12;1;1;4;1;1;1;1;3;3;1;3;4;4;4;4;4;40
+Gazipur;23;2022301001;12022301001;Uttar Salna;Uttar Salna Colony Para Bosoti;450;1500;35;2;2;4;1;1;2;1;4;1;1;1;1;1;2;2;1;27
+Gazipur;23;2022301002;12022301002;Uttar Salna;Uttar Salna Baganbari Colony Para;150;400;35;1;2;4;1;1;2;1;4;1;1;1;1;1;2;2;1;26
+Gazipur;23;2022302001;12022302001;Bhawraid Dakshin and Porabari;Porabari Dakshin Para;250;800;50;2;1;4;1;1;3;1;4;2;1;1;3;3;2;2;2;33
+Gazipur;23;2022302002;12022302002;Bhawraid Dakshin and Porabari;Porabari Purbo Para;270;800;50;2;1;4;1;1;3;1;4;3;2;2;3;3;3;2;2;37
+Gazipur;23;2022303001;12022303001;Bhawraid  Uttar and Komarkhada;Komarkhada Bosoti;150;500;40;1;2;4;1;1;3;1;4;1;1;1;2;1;2;2;1;28
+Gazipur;23;2022303002;12022303002;Bhawraid  Uttar and Komarkhada;Vaoraid Uttar Para Bosoti;300;1500;30;2;2;4;1;1;2;1;4;3;1;1;2;2;3;1;2;32
+Gazipur;23;2022304001;12022304001;Hatiab Paschim Dakshin;Hatiab Dakshinpara Colony;70;300;35;3;2;4;1;1;3;1;4;1;1;1;1;1;2;2;1;29
+Gazipur;23;2022304002;12022304002;Hatiab Paschim Dakshin;Hatiab Mission;40;180;45;1;2;4;1;1;2;1;4;1;1;1;1;1;3;1;1;26
+Gazipur;23;2022304003;12022304003;Hatiab Paschim Dakshin;Hatiab Dakshinpara (Kumirabaid Bosoti);35;150;25;1;2;4;1;1;2;1;4;1;1;2;1;1;1;2;1;26
+Gazipur;23;2022305001;12022305001;Hatiab Uttar Purbo;Bonogram Bosoti;100;600;45;1;2;4;1;1;2;1;4;2;1;1;1;1;2;2;1;27
+Gazipur;23;2022305002;12022305002;Hatiab Uttar Purbo;Hatiab Coachpara Bosoti;250;1000;50;3;1;4;1;1;2;1;4;1;1;1;2;1;2;1;1;27
+Gazipur;23;2022306001;12022306001;Gazipur;Morolpara;200;1300;35;1;2;4;1;1;3;1;4;1;1;1;1;1;1;2;1;26
+Gazipur;23;2022306002;12022306002;Gazipur;Vumihin Bosoti;40;200;30;1;2;4;1;1;1;1;4;1;1;1;1;1;1;2;1;24
+Gazipur;23;2022306003;12022306003;Gazipur;Pagla Market, Seraliabari;200;1100;50;1;2;4;1;1;2;1;4;1;1;1;1;1;2;2;1;26
+Gazipur;24;2022405001;12022405001;Pajulia, Vanua Area;Khaspara;100;500;35;2;1;4;1;1;1;1;2;4;1;2;1;1;1;2;2;27
+Gazipur;24;2022405002;12022405002;Pajulia, Vanua Area;Vannua Khaspara;150;600;40;1;1;4;1;1;2;1;3;3;1;3;1;1;1;2;2;28
+Gazipur;24;2022404001;12022404001;Chapolia, Faokal and Bonnai Para;School-er Pichon-er Bosoti;50;250;32;2;1;4;2;1;2;2;3;2;2;2;1;1;1;2;2;30
+Gazipur;24;2022404002;12022404002;Chapolia, Faokal and Bonnai Para;Rangpura Bosoti;200;800;60;2;1;4;1;1;1;2;4;3;2;2;2;1;2;2;2;32
+Gazipur;24;2022403001;12022403001;Chayatori Area;Chayatori Bosoti;25;100;20;1;1;4;1;1;3;1;3;3;2;2;1;1;3;2;2;31
+Gazipur;24;2022402001;12022402001;Shimultoli Salna Area;Chotor Noyapara Vumihin;800;10000;60;2;1;4;1;1;2;2;3;3;3;1;4;2;4;1;3;37
+Gazipur;24;2022402002;12022402002;Shimultoli Salna Area;A T I Bastuhara;400;1500;60;2;1;4;1;1;2;1;3;2;3;3;2;1;4;2;2;34
+Gazipur;24;2022401003;12022401003;Chatar Bazar Area;Shahid Ahsanullah Nogor;60;300;10;2;1;4;1;1;2;1;2;4;1;3;4;1;4;2;3;36
+Gazipur;24;2022401002;12022401002;Chatar Bazar Area;Kazi-der Chala;45;250;18;2;1;4;1;1;1;1;3;4;2;4;1;1;1;2;1;30
+Gazipur;24;2022401001;12022401001;Chatar Bazar Area;Niyajul-er Bosoti;30;150;15;2;1;4;1;1;1;1;2;4;1;3;4;1;4;4;4;38
+Gazipur;25;2022501001;12022501001;Purbo Bhurulia Majhibari;Markas Bosoti;6;28;20;2;1;4;2;1;3;2;4;3;2;3;4;3;4;4;4;46
+Gazipur;25;2022501002;12022501002;Purbo Bhurulia Majhibari;Purbo Bhurulia Majhibari Bosoti;40;200;15;3;1;4;2;1;2;2;4;3;3;2;3;1;2;1;2;36
+Gazipur;25;2022502001;12022502001;Musabari-Majhibari;Markas Polli Songlogno Area;40;300;15;3;2;4;3;1;1;3;4;3;1;1;1;1;4;2;2;36
+Gazipur;25;2022502002;12022502002;Musabari-Majhibari;Hossain-er Bosoti;30;150;10;3;1;4;1;1;1;1;4;3;1;3;3;1;4;4;4;39
+Gazipur;25;2022502003;12022502003;Musabari-Majhibari;Rofi-shafi-er Bosoti;60;400;20;3;1;4;1;1;1;2;4;3;1;2;3;1;4;4;4;39
+Gazipur;25;2022502004;12022502004;Musabari-Majhibari;Eidgah Math Bosoti;40;340;30;2;1;4;1;1;1;1;4;3;1;2;4;1;4;4;4;38
+Gazipur;25;2022502005;12022502005;Musabari-Majhibari;Paschim Bhurulia Majhipara Bosoti;100;700;30;1;1;4;2;1;2;1;4;3;2;2;4;3;4;4;4;42
+Gazipur;25;2022502006;12022502006;Musabari-Majhibari;Mostafa-er Dhal Songlogno Bosoti;200;1000;30;3;2;4;1;1;1;2;4;3;3;4;4;3;4;4;4;47
+Gazipur;25;2022503001;12022503001;Rangamati Nir (Satta Sarani);Moni Chemical Road Songlogno Bosoti;80;500;30;2;1;4;1;1;1;3;4;3;3;3;3;2;3;1;3;38
+Gazipur;25;2022504001;12022504001;Bhuiyan Para, Talukdar Para;Lalmati Bosoti;100;500;25;3;2;4;2;1;3;2;4;3;2;3;3;1;3;1;2;39
+Gazipur;25;2022504002;12022504002;Bhuiyan Para, Talukdar para;Bhuiyan Para Bosoti;100;550;25;2;1;4;1;1;1;1;4;3;1;2;2;1;4;2;2;32
+Gazipur;25;2022504003;12022504003;Bhuiyan Para, Talukdar para;Talukdar Para Bosoti;70;300;25;3;1;4;1;1;1;1;3;3;2;3;4;3;4;4;4;42
+Gazipur;25;2022504004;12022504004;Bhuiyan Para, Talukdar para;Carton Factory Para;80;400;25;2;1;4;2;1;1;1;3;3;3;3;2;1;4;2;2;35
+Gazipur;25;2022505001;12022505001;Noyabari, Lomburibari;Noyabari Bosoti;50;350;20;2;1;4;1;1;1;2;3;3;1;3;4;1;4;4;4;39
+Gazipur;25;2022505002;12022505002;Noyabari, Lomburibari;Halim-er Bosoti Maijpara;20;100;15;2;1;4;1;1;1;2;4;3;1;3;4;1;4;4;4;40
+Gazipur;25;2022505003;12022505003;Noyabari, Lomburibari;Nuru-er Bosoti;10;50;20;3;1;4;1;1;1;2;3;2;1;3;4;1;4;4;4;39
+Gazipur;25;2022506001;12022506001;Baganbari, Maijpara, Nayebbari;Shahin-er Bosoti;15;120;15;3;2;4;1;1;1;1;4;1;2;3;4;1;4;4;4;40
+Gazipur;26;2022602001;12022602001;Paschim Joydebpur Paschim Part;Kayem-er Bari;10;31;8;2;1;4;1;4;3;2;3;4;3;4;4;3;4;1;3;46
+Gazipur;26;2022602002;12022602002;Paschim Joydebpur Paschim Part;Awal Sab-er bari;5;11;5;3;1;4;1;3;2;3;3;4;1;4;4;2;4;1;3;43
+Gazipur;26;2022602003;12022602003;Paschim Joydebpur Paschim Part;Kayem Sab-er Bosoti;15;55;5;3;3;4;1;4;4;3;4;4;4;4;4;3;4;1;3;53
+Gazipur;26;2022602005;12022602005;Paschim Joydebpur Paschim Part;Mohon Hazi-er bari;30;120;6;1;1;4;3;3;2;3;2;4;2;2;4;2;4;1;3;41
+Gazipur;26;2022602007;12022602007;Paschim Joydebpur Paschim Part;Doctor-er bari;20;63;6;4;3;4;2;3;3;3;3;3;2;3;4;2;4;1;3;47
+Gazipur;26;2022602006;12022602006;Paschim Joydebpur Paschim Part;Ayton Bibi-er Bari;22;67;12;3;2;4;4;3;3;4;4;4;3;2;4;3;4;1;3;51
+Gazipur;26;2022602008;12022602008;Paschim Joydebpur Paschim Part;Mamun-er Bari;8;32;13;3;2;4;1;4;3;3;3;4;3;4;4;1;4;1;3;47
+Gazipur;26;2022602009;12022602009;Paschim Joydebpur Paschim Part;Mujib-er Bari;12;45;7;1;1;4;1;3;2;3;3;4;3;3;4;1;4;1;3;41
+Gazipur;26;2022602011;12022602011;Paschim Joydebpur Paschim Part;Saiful-er Bari;10;37;6;3;2;4;4;4;3;3;4;4;3;3;4;3;4;1;3;52
+Gazipur;26;2022602010;12022602010;Paschim Joydebpur Paschim Part;Mohsin-er Bari;7;23;15;3;2;4;3;4;3;3;4;4;3;4;4;3;4;1;3;52
+Gazipur;26;2022602012;12022602012;Paschim Joydebpur Paschim Part;Tutul-er bari;6;27;5;3;1;4;3;4;3;2;4;4;3;3;4;1;4;1;3;47
+Gazipur;26;2022602013;12022602013;Paschim Joydebpur Paschim Part;Ikbal-er Bari;6;27;6;4;3;4;1;4;3;1;3;4;3;4;4;2;4;1;3;48
+Gazipur;26;2022602015;12022602015;Paschim Joydebpur Paschim Part;Emdad-er Bari;30;105;12;1;1;4;2;4;3;3;4;4;2;4;4;2;4;1;3;46
+Gazipur;26;2022602004;12022602004;Paschim Joydebpur Paschim Part;Makbol Sab-er Bosoti;8;21;15;1;1;4;2;3;3;3;3;3;3;3;4;3;4;1;3;44
+Gazipur;26;2022602014;12022602014;Paschim Joydebpur Paschim Part;Ashraf-er Bari;5;23;6;3;1;4;2;4;4;3;4;4;3;4;4;3;4;1;3;51
+Gazipur;26;2022601002;12022601002;Paschim Joydebpur Purbo Part;Bihari Potti;30;70;8;1;1;3;1;1;2;1;4;3;4;3;1;1;1;2;3;32
+Gazipur;26;2022601006;12022601006;Paschim Joydebpur Purbo Part;Master Bari;27;63;10;2;2;4;2;4;4;1;4;4;1;3;4;1;4;1;1;42
+Gazipur;26;2022601007;12022601007;Paschim Joydebpur Purbo Part;Khola Patti;70;280;20;3;2;4;3;4;4;3;4;4;3;4;2;1;2;1;1;45
+Gazipur;26;2022601005;12022601005;Paschim Joydebpur Purbo Part;Jaynal Mia Bari;6;13;7;4;4;3;2;4;4;3;4;4;4;3;4;1;4;1;1;50
+Gazipur;26;2022601013;12022601013;Paschim Joydebpur Purbo Part;Ranar Bosoti;18;42;7;3;4;4;4;4;4;2;3;4;4;4;4;1;4;1;1;51
+Gazipur;26;2022601001;12022601001;Paschim Joydebpur Purbo Part;Ashad Vuiya Bosoti;16;48;3;1;1;4;1;3;4;1;4;4;3;4;4;2;4;1;1;42
+Gazipur;26;2022601003;12022601003;Paschim Joydebpur Purbo Part;Vandari Bari Bosoti;7;30;3;2;2;4;1;2;4;1;2;4;3;4;3;1;4;1;1;39
+Gazipur;26;2022601004;12022601004;Paschim Joydebpur Purbo Part;Malek Villa;11;40;5;3;3;4;2;4;4;3;4;4;4;3;4;1;4;1;1;49
+Gazipur;26;2022601012;12022601012;Paschim Joydebpur Purbo Part;Subuj Mia Bari;7;17;4;3;4;4;4;4;4;1;3;3;2;4;4;1;4;1;1;47
+Gazipur;26;2022601008;12022601008;Paschim Joydebpur Purbo Part;Paler Pubakuni Pashim side;9;40;4;2;2;4;2;3;4;2;3;2;2;3;2;1;4;1;1;38
+Gazipur;26;2022601009;12022601009;Paschim Joydebpur Purbo Part;Amen-er Tek;13;50;8;2;2;4;1;3;4;1;3;2;3;3;4;1;4;1;1;39
+Gazipur;26;2022601014;12022601014;Paschim Joydebpur Purbo Part;Sattar Miar Bari;7;24;4;2;1;4;2;1;4;3;2;4;3;4;3;1;3;1;1;39
+Gazipur;26;2022601010;12022601010;Paschim Joydebpur Purbo Part;Delu Mia-er Bari;10;37;4;2;3;4;3;3;4;1;4;3;4;4;4;2;4;1;1;47
+Gazipur;26;2022601011;12022601011;Paschim Joydebpur Purbo Part;Awal Hazi Bari;6;17;5;3;3;4;4;4;4;3;3;4;4;4;4;1;4;1;1;51
+Gazipur;26;2022603001;12022603001;Mariyali and Tekvararia;Shamsuddin-er Bosoti;5;18;10;2;3;4;1;1;1;1;4;3;2;4;4;2;4;4;3;43
+Gazipur;26;2022603002;12022603002;Mariyali and Tekvararia;Hossain-er Bosoti;5;15;5;4;1;4;1;4;2;1;4;3;4;4;2;2;4;1;3;44
+Gazipur;26;2022603003;12022603003;Mariyali and Tekvararia;Muntaz-er bosoti;5;20;4;1;1;4;1;4;2;1;4;4;4;4;4;4;4;1;3;46
+Gazipur;26;2022603004;12022603004;Mariyali and Tekvararia;Borkotullah-er Bosoti;6;14;30;1;1;4;1;4;3;1;3;4;4;4;4;4;4;4;4;50
+Gazipur;26;2022603005;12022603005;Mariyali and Tekvararia;Jamila-er Bosoti;7;22;35;1;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;48
+Gazipur;26;2022603006;12022603006;Mariyali and Tekvararia;Jakir Hossain-er Bosoti;5;16;25;1;1;4;1;4;4;1;4;3;4;4;4;4;4;1;3;47
+Gazipur;26;2022603007;12022603007;Mariyali and Tekvararia;Jewel-er Bosoti;6;19;4;2;1;4;1;4;2;1;4;4;3;4;4;4;4;1;3;46
+Gazipur;26;2022603008;12022603008;Mariyali and Tekvararia;Mujibur-er Bosoti;7;16;28;2;1;4;1;4;4;1;4;4;3;4;4;4;4;1;3;48
+Gazipur;26;2022603009;12022603009;Mariyali and Tekvararia;Sadhikul Islam-er Bosoti;6;14;17;2;1;4;1;4;3;1;4;3;3;3;4;4;4;4;4;49
+Gazipur;26;2022603010;12022603010;Mariyali and Tekvararia;Alkach Bosoti;6;14;22;2;1;4;1;4;1;1;4;2;2;3;4;4;4;1;3;41
+Gazipur;26;2022603011;12022603011;Mariyali and Tekvararia;Jasimuddin-er Bosoti;5;12;25;2;1;4;1;1;2;1;3;3;3;4;4;4;4;4;4;45
+Gazipur;26;2022603012;12022603012;Mariyali and Tekvararia;Ruhul Amin-er Bosoti;6;14;10;1;1;4;1;4;3;1;4;3;3;4;4;4;4;1;3;45
+Gazipur;26;2022603013;12022603013;Mariyali and Tekvararia;Motin-er Bosoti;10;23;75;1;1;4;1;4;2;1;3;3;3;3;4;4;4;2;1;41
+Gazipur;26;2022603015;12022603015;Mariyali and Tekvararia;Jafor Ali-er Bosoti;6;17;8;1;1;4;1;2;2;1;3;2;2;4;4;4;4;4;4;43
+Gazipur;26;2022603014;12022603014;Mariyali and Tekvararia;Rafiq-er Bosoti;9;25;18;2;1;4;1;1;2;1;4;4;2;4;4;4;4;4;4;46
+Gazipur;27;2022701001;12022701001;Dhan Krishi Area;Purbo Chandna Bosoti;115;480;20;2;1;4;1;1;2;1;3;3;2;3;4;2;4;1;3;37
+Gazipur;27;2022702001;12022702001;Intermax Area;Rishipara Bosoti;200;600;48;4;4;4;4;1;4;2;4;4;4;4;4;4;4;4;4;59
+Gazipur;27;2022704001;12022704001;Police Line;Alauddin Matborer Bosoti;80;140;25;3;1;4;1;4;4;1;4;4;4;4;4;1;4;1;1;45
+Gazipur;27;2022705001;12022705001;Talukder Pukur Area;Lokkhipura Moddhopara (School Songlogno) Bosoti;17;70;50;1;1;3;4;1;1;1;4;2;2;4;1;4;2;3;3;37
+Gazipur;30;2023003004;12023003004;Niler Para;Haru-er Bari;25;120;25;3;2;4;1;1;3;2;4;3;1;3;4;2;4;4;4;45
+Gazipur;30;2023003002;12023003002;Niler Para;Robi Das Para;20;110;40;3;1;4;1;1;3;2;4;3;1;3;4;1;4;4;4;43
+Gazipur;30;2023003003;12023003003;Niler Para;Morol Bari;15;60;50;3;1;4;1;1;3;2;4;3;1;3;4;1;4;4;4;43
+Gazipur;30;2023003001;12023003001;Niler Para;Colony Para;30;150;23;2;2;4;1;1;3;3;3;3;2;3;4;3;4;4;4;46
+Gazipur;30;2023003005;12023003005;Niler Para;Daksin Niler Para;14;80;27;2;2;4;1;1;3;3;3;3;2;3;4;3;4;4;4;46
+Gazipur;30;2023003006;12023003006;Niler Para;Jahir Udiin Mahalla;26;140;19;1;2;3;1;1;2;1;3;3;2;3;4;2;4;4;4;40
+Gazipur;30;2023004001;12023004001;Kanaya;Noyani Para;10;45;35;4;2;4;1;4;1;4;4;1;1;4;4;4;4;4;4;50
+Gazipur;30;2023004004;12023004004;Kanaya;Kanaya Madrasa-er Pashe;8;35;15;4;2;4;1;1;1;4;4;1;1;3;4;4;4;1;3;42
+Gazipur;30;2023004003;12023004003;Kanaya;Kanaya Purbo Para;5;25;15;4;4;4;1;1;4;4;4;1;1;4;4;4;4;4;4;52
+Gazipur;30;2023002001;12023002001;Bangal Gach;Shukkur Ali Road Songlogno;20;125;10;2;1;4;1;1;1;1;4;2;1;2;1;1;1;1;1;25
+Gazipur;30;2023002004;12023002004;Bangal Gach;Path Finder School Songlogno;20;150;12;2;1;4;1;1;2;1;2;2;1;2;2;2;2;2;2;29
+Gazipur;30;2023002002;12023002002;Bangal Gach;Malauddin Road Songlogno;25;200;15;4;1;4;1;1;3;1;3;2;1;2;2;2;1;1;1;30
+Gazipur;30;2023002003;12023002003;Bangal Gach;Banuchakulia Road Songlogno;15;100;15;2;1;4;1;1;2;1;4;2;1;2;2;1;2;1;1;28
+Gazipur;30;2023001003;12023001003;Baluchakuliye;Ati Bari;5;21;6;2;1;1;1;1;1;4;4;2;1;1;4;1;4;2;4;34
+Gazipur;30;2023001004;12023001004;Baluchakuliye;Mridha Bari;5;25;20;3;2;3;1;1;1;1;4;3;1;1;4;2;4;4;4;39
+Gazipur;30;2023001002;12023001002;Baluchakuliye;Purbo Para;5;20;35;1;2;4;1;3;3;4;4;2;1;2;4;2;4;4;4;45
+Gazipur;31;2023101001;12023101001;Dakshinkhan;Raju Matbor-er Barir Pasher Bosoti;5;13;1;3;2;4;1;2;4;2;4;2;3;4;4;3;4;1;2;45
+Gazipur;31;2023101002;12023101002;Dakshinkhan;Shahidul Islam-er Bari;9;17;3;3;2;4;1;3;4;4;1;4;1;4;1;4;4;1;2;43
+Gazipur;31;2023101003;12023101003;Dakshinkhan;Rabeya Anowara Matrishodon-er Pasher Bosoti;16;32;3;3;2;3;1;2;3;1;2;4;1;4;4;2;4;4;2;42
+Gazipur;31;2023102004;12023102004;Paschim Dhirasram;Hajipara Monna-er Bari;12;60;45;2;1;4;1;1;4;2;4;2;2;4;4;4;4;4;4;47
+Gazipur;31;2023102003;12023102003;Paschim Dhirasram;Rabi-er Bari;5;30;40;2;2;4;1;1;1;1;4;3;1;3;3;1;4;1;1;33
+Gazipur;31;2023102001;12023102001;Paschim Dhirasram;Paschim Para Tekbarir Pasher Bosoti;10;50;30;1;2;4;1;1;3;1;4;3;2;2;4;4;4;4;4;44
+Gazipur;31;2023102002;12023102002;Paschim Dhirasram;Jikson-er Barir Pasher Bosoti;12;70;15;2;2;4;1;1;3;2;4;3;1;2;4;4;4;4;4;45
+Gazipur;31;2023103007;12023103007;Purbo Dhirashram and Vararul Paschim;Rahapara Dighir Par;10;51;40;2;1;4;1;1;4;1;4;3;2;3;4;4;3;4;4;45
+Gazipur;31;2023103003;12023103003;Purbo Dhirashram and Vararul Paschim;Chowdhury Barir Pasher Bosoti;6;22;40;2;2;4;1;1;2;1;3;4;2;3;4;4;4;4;4;45
+Gazipur;31;2023103002;12023103002;Purbo Dhirashram and Vararul Paschim;Rahim Ali Molla Masjid-er Pasher Bosoti;17;35;50;2;2;4;1;1;3;2;4;4;3;3;4;4;4;4;4;49
+Gazipur;31;2023103001;12023103001;Purbo Dhirashram and Vararul Paschim;Pukurpar Bosoti;15;42;30;2;2;4;1;1;3;1;4;3;2;4;4;4;4;4;4;47
+Gazipur;31;2023103005;12023103005;Purbo Dhirashram and Vararul Paschim;Nayeb Barir Pasher Bosoti;8;46;30;2;1;4;1;1;3;2;4;3;2;3;4;4;4;4;4;46
+Gazipur;31;2023103004;12023103004;Purbo Dhirashram and Vararul Paschim;Hamid-er Pukurpar-er Pasher Bosoti;6;25;12;2;1;4;1;1;2;1;4;3;1;3;3;4;4;1;3;38
+Gazipur;31;2023103006;12023103006;Purbo Dhirashram and Vararul Paschim;Selim-er Barir Pasher Bosoti;14;56;50;3;1;4;1;2;2;1;4;3;1;3;4;2;4;4;4;43
+Gazipur;31;2023103008;12023103008;Purbo Dhirashram and Vararul Paschim;Karul Sawmill-er Pasher Bosoti;16;48;30;2;1;4;1;1;3;2;4;3;1;3;4;2;4;4;4;43
+Gazipur;31;2023101004;12023101004;Dakshinkhan;Mamun Bhuiyan-er Barir Pasher Bosoti;5;10;2;3;2;4;1;3;4;2;4;4;1;4;4;4;4;1;2;47
+Gazipur;31;2023101005;12023101005;Dakshinkhan;Rob Molla-er Barir Pasher Bosoti;6;11;5;3;2;4;1;3;4;4;2;4;1;4;4;4;4;1;2;47
+Gazipur;31;2023104004;12023104004;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Pakhirtek Bosoti;13;50;30;2;1;4;1;2;3;3;4;2;1;3;4;3;4;4;4;45
+Gazipur;31;2023104006;12023104006;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Pakoirdeshi Deep Tubewell-er Pasher Bosoti;15;60;20;2;2;4;1;1;1;1;4;4;2;3;4;4;4;4;4;45
+Gazipur;31;2023104002;12023104002;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Vararul Munshi Barir Pasher Bosoti;15;50;50;2;2;4;1;2;3;3;4;2;1;2;4;1;4;4;4;43
+Gazipur;31;2023104005;12023104005;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Idris-er Barir Pasher Bosoti;17;70;20;2;2;4;1;1;3;1;4;4;2;3;4;4;4;4;4;47
+Gazipur;31;2023104001;12023104001;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Farid-er Barir Pasher Bosoti;6;27;40;2;1;4;1;1;3;1;4;4;4;4;4;4;4;4;4;49
+Gazipur;33;2023301001;12023301001;Valukar Tek-Majid Member Bari;Bot-tala Purba  Para;12;52;100;1;1;4;1;1;2;1;4;4;2;3;4;4;4;1;1;38
+Gazipur;33;2023301003;12023301003;Valukar Tek-Majid Member Bari;Mastar Bari;10;60;60;2;1;4;1;1;2;1;4;3;3;4;4;4;4;4;4;46
+Gazipur;33;2023302001;12023302001;Councilor Area;Mirdha Bari Jame Masjid-er Pashe;50;270;15;2;3;4;3;1;3;1;4;2;1;3;4;3;4;4;4;46
+Gazipur;33;2023302002;12023302002;Councilor Area;Dipti Market-er Pashe;11;60;20;4;1;4;3;1;3;1;4;1;1;3;3;4;3;2;1;39
+Gazipur;33;2023302003;12023302003;Councilor Area;Dolkir Pukur-er Pashe;20;92;9;2;1;4;1;1;3;4;3;3;3;3;4;3;4;4;4;47
+Gazipur;33;2023302004;12023302004;Councilor Area;Rohom Ali Jame Masjid-er Pashe;14;56;10;3;1;4;1;1;3;1;2;4;1;3;4;4;4;4;4;44
+Gazipur;33;2023303001;12023303001;Rashidia Madrasa Area;Fojar Barir Pashe;40;200;100;2;1;4;1;1;1;1;4;4;3;4;1;4;1;2;3;37
+Gazipur;33;2023303002;12023303002;Rashidia Madrasa Area;Mijaner Pukur Songlogno;50;220;120;2;1;4;1;1;1;1;4;4;3;4;1;4;1;2;3;37
+Gazipur;33;2023304001;12023304001;Polagach Area (South Road);Mondol Pukurer Pashe;30;150;100;1;1;4;1;1;1;1;4;4;3;4;4;4;1;2;3;39
+Gazipur;33;2023304002;12023304002;Polagach Area (South Road);Chila Pukur Par Songlogno;35;200;120;1;1;4;1;1;1;1;4;4;3;4;4;4;1;2;3;39
+Gazipur;33;2023304003;12023304003;Polagach Area (South Road);Anowar-er Pukur Songlogno;30;150;100;1;1;4;1;1;1;1;4;4;3;4;4;4;1;2;3;39
+Gazipur;33;2023304004;12023304004;Polagach Area (South Road);Sikam Kha Pukur Par Songlogno;35;150;100;1;1;4;1;1;1;1;4;4;3;4;4;4;1;2;3;39
+Gazipur;34;2023403001;12023403001;Konapara;Amu Market-er Dakshin Pashe;70;290;22;4;4;4;1;2;2;1;2;3;1;1;1;1;3;1;3;34
+Gazipur;34;2023403003;12023403003;Konapara;Hashem Market-er Purbo Pashe;20;75;5;4;4;4;2;4;3;1;3;3;1;1;1;1;3;1;3;39
+Gazipur;34;2023403004;12023403004;Konapara;Alam-er Bari;30;110;9;1;1;4;1;3;2;1;2;3;1;3;1;1;3;1;3;31
+Gazipur;34;2023403002;12023403002;Konapara;Hashem Market-er Uttar Pashe;8;35;8;2;1;4;2;4;2;1;3;3;1;1;1;1;3;1;3;33
+Gazipur;34;2023401001;12023401001;Choidana;Choidana Bhumihin Dighi Asroy Kendro Songlogno;200;1100;31;2;1;3;2;2;2;1;2;3;1;2;1;1;2;2;3;30
+Gazipur;34;2023401002;12023401002;Choidana;Choidana Uttarpara;90;550;31;2;1;3;2;2;3;1;2;2;1;2;2;1;3;4;4;35
+Gazipur;34;2023401003;12023401003;Choidana;Choidana Murgir Firm-er Pashe;15;60;70;1;1;2;2;1;2;1;4;2;1;2;1;2;2;4;4;32
+Gazipur;34;2023402001;12023402001;Sarifpur;Holy Life School-er Paschim Pashe;6;20;4;2;1;4;1;4;2;1;1;3;1;2;1;1;2;1;3;30
+Gazipur;34;2023402002;12023402002;Sarifpur;Matrichaya School-er Paschim Pashe;15;62;7;2;1;4;1;4;3;1;3;3;2;2;1;1;2;1;3;34
+Gazipur;34;2023402003;12023402003;Sarifpur;Matrichaya School-er Purbo Pashe;35;125;5;2;1;4;1;4;4;1;4;3;1;2;1;1;2;1;3;35
+Gazipur;34;2023402004;12023402004;Sarifpur;Takbiyatul Dakhil Madrasa-er Uttar Pashe;20;55;8;1;1;4;1;4;3;1;4;3;1;2;1;1;2;1;3;33
+Gazipur;34;2023405002;12023405002;Varari Para;Shipai Bari;30;200;100;2;1;4;2;3;3;4;4;1;1;2;4;1;4;4;4;44
+Gazipur;34;2023405004;12023405004;Varari Para;Chowkidarpara;15;80;70;1;1;4;2;3;4;1;3;3;2;4;4;4;4;4;4;48
+Gazipur;34;2023405003;12023405003;Varari Para;Takbiyatul Madrasa-er Pashe;35;220;100;2;1;4;3;3;4;1;4;1;1;3;4;4;4;4;4;47
+Gazipur;35;2023501001;12023501001;Badhe Kolomossar Uttarpara;Bindahur Dighi Songlogno;500;1500;25;2;1;4;1;1;1;1;2;1;1;4;1;1;1;2;1;25
+Gazipur;35;2023502001;12023502001;Badhe Kolomossar Moddhopara;Jobbar Company Bosoti;200;800;10;2;1;4;2;1;3;1;2;2;1;4;4;4;4;1;3;39
+Gazipur;35;2023502002;12023502002;Badhe Kolomossar Moddhopara;Mondol Bari Bosoti;100;400;8;2;1;4;2;1;3;1;2;2;1;4;4;4;4;1;3;39
+Gazipur;35;2023503003;12023503003;Kolomossor Paschimpara;Late Akkash Mondol-er Bari;100;400;15;2;2;4;4;1;2;2;3;2;1;3;4;2;2;1;2;37
+Gazipur;35;2023503002;12023503002;Kolomossor Paschimpara;Dulal Market-er Pashe;40;200;10;2;2;4;4;1;2;2;3;2;1;3;4;2;2;1;2;37
+Gazipur;35;2023503001;12023503001;Kolomossor Paschimpara;Kolomossor govt. Primary School er Paschim Pashe;300;1000;20;2;2;4;4;1;2;2;3;2;1;3;4;2;2;1;2;37
+Gazipur;35;2023504002;12023504002;Kolomossor Paschim Dakshinpara;Ayesha-er Bosoti;50;15;12;2;2;1;1;1;2;1;2;2;1;2;4;1;2;2;2;28
+Gazipur;35;2023505001;12023505001;Kolomossor Purbo Dakshinpara;Fatema-er Colony;100;350;10;2;2;1;2;1;4;1;2;2;2;3;4;2;2;1;2;33
+Gazipur;35;2023506002;12023506002;Kolomossor Purbo Uttarpara;Habibullah Sarker Masjid Side;10;40;20;4;3;4;3;1;4;2;4;4;4;3;4;3;4;1;3;51
+Gazipur;35;2023506001;12023506001;Kolomossor Purbo Uttarpara;Mridha Barir Pashe;60;200;12;2;1;4;2;1;3;1;3;4;1;4;4;3;4;1;3;41
+Gazipur;36;2023602001;12023602001;Kathora;Kathora Purbopara Jame Masjid-er Pashe;11;40;4;3;1;2;1;1;1;1;1;4;1;4;1;1;1;1;1;25
+Gazipur;36;2023602002;12023602002;Kathora;Kathora Dakshinpara Jame Masjid-er Pashe;10;50;100;1;1;4;1;1;3;1;4;4;2;3;4;4;4;4;4;45
+Gazipur;36;2023601003;12023601003;Gacha Polashona;Gacha, 2 No. Colony;115;345;60;2;2;4;1;3;3;1;4;4;4;3;3;4;4;2;4;48
+Gazipur;36;2023601006;12023601006;Gacha Polashona;Gacha, 3 No. Colony;80;240;60;2;2;4;1;4;3;1;3;4;4;3;3;3;4;2;4;47
+Gazipur;36;2023601004;12023601004;Gacha Polashona;Gacha, 4 No. Colony;100;300;60;2;2;4;1;1;2;1;3;4;4;3;4;4;4;2;4;45
+Gazipur;36;2023601002;12023601002;Gacha Polashona;Gacha, 1 No. Colony;90;270;60;2;2;4;1;1;2;1;3;4;4;3;3;4;4;2;4;44
+Gazipur;36;2023601005;12023601005;Gacha Polashona;Gilaytek;40;120;70;2;2;4;1;2;2;1;3;4;4;2;4;4;4;4;4;47
+Gazipur;36;2023603003;12023603003;Ichor, Mudipara;Jele Para;220;660;90;2;2;4;1;1;2;1;3;4;4;3;4;4;4;4;4;47
+Gazipur;36;2023603001;12023603001;Ichor, Mudipara;Mudipara Paschim Para;40;120;80;2;2;4;1;1;2;1;4;4;4;4;4;4;4;4;4;49
+Gazipur;36;2023603002;12023603002;Ichor, Mudipara;Mudipara , Konapara;20;60;80;2;2;4;1;1;2;1;4;4;4;3;4;4;4;4;4;48
+Gazipur;36;2023606001;12023606001;Ojhar Para;Dai Para;30;100;100;2;2;4;1;1;2;2;4;2;2;2;4;4;4;4;4;44
+Gazipur;36;2023605001;12023605001;Kamarjuri;Guccha Gram;100;300;60;2;2;4;1;1;3;2;4;3;2;2;4;4;4;4;4;46
+Gazipur;36;2023605002;12023605002;Kamarjuri;Patakur;200;800;100;3;2;4;1;1;3;2;4;3;3;2;4;4;4;4;4;48
+Gazipur;36;2023605003;12023605003;Kamarjuri;Dakshin Para;10;40;100;2;2;4;1;1;2;2;4;3;2;2;4;4;4;3;4;44
+Gazipur;36;2023605004;12023605004;Kamarjuri;Binda Bari;200;600;20;2;1;4;2;1;3;2;4;4;3;1;1;1;1;1;1;32
+Gazipur;36;2023604001;12023604001;Doulotpur, Mohisher Tek Batpur, Bitpur;Mofiz Vandari-er Bari;50;200;110;1;1;4;1;1;2;1;4;4;1;3;4;4;4;4;4;43
+Gazipur;36;2023604002;12023604002;Doulotpur, Mohisher Tek Batpur, Bitpur;Doulotpur Paschim Para;20;100;100;2;1;4;1;1;4;1;4;4;2;3;4;4;4;4;4;47
+Gazipur;37;2023701001;12023701001;Tekpara;Sultan Miya-er Bari;12;50;10;4;3;4;4;1;4;1;4;2;4;4;4;4;4;1;2;50
+Gazipur;37;2023704002;12023704002;Chandora;Mojibur Rahman-er Bosoti;9;30;85;1;1;3;1;1;3;1;4;3;2;2;4;4;4;4;4;42
+Gazipur;37;2023703002;12023703002;Kunia Uttarpara;Jakir Master-er Barir Pashe;8;23;50;2;1;4;2;3;3;1;3;2;2;4;4;4;4;4;4;47
+Gazipur;37;2023702001;12023702001;Kunia Dakshinpara;Kunia Moddhopara Bayid;5;50;22;1;1;4;1;1;3;1;4;2;1;3;4;3;4;4;4;41
+Gazipur;37;2023702002;12023702002;Kunia Dakshinpara;Sordar Para, Kunia;5;36;52;3;2;4;1;1;4;2;4;1;1;4;4;4;4;4;4;47
+Gazipur;38;2023801001;12023801001;Block 1;Dakshin Khailkur Koborsthan Songlogno;247;550;50;2;1;3;1;2;1;1;3;1;1;3;2;1;3;2;2;29
+Gazipur;38;2023804001;12023804001;Block 4;Pukurpar Bogar Tek;50;220;40;1;1;4;1;1;2;2;4;3;4;4;4;4;2;2;3;42
+Gazipur;38;2023802002;12023802002;Block 2;Kalikhet;130;250;25;2;1;4;2;4;3;1;4;4;2;1;4;4;4;4;3;47
+Gazipur;38;2023802001;12023802001;Block 2;Dakshin Khailkur Mollabari;30;200;30;1;1;4;1;4;3;1;4;4;3;3;4;4;4;4;4;49
+Gazipur;38;2023803001;12023803001;Block 3;Dakshin Khailkur Pukurpar Songlogno;8;30;50;1;1;4;1;1;4;1;4;3;1;4;4;4;4;1;3;41
+Gazipur;39;2023901005;12023901005;Giraitoli-Hyderabad Purbo Part;Rotkhola Madrasa-er Pashe;30;200;80;1;2;2;3;1;1;1;4;2;2;3;2;4;1;2;1;32
+Gazipur;39;2023901003;12023901003;Giraitoli-Hyderabad Purbo Part;Saber Market;25;100;70;1;1;3;2;1;2;1;1;1;1;1;4;4;2;2;2;29
+Gazipur;39;2023901006;12023901006;Giraitoli-Hyderabad Purbo Part;Hyderabad Madrasa-er Pahse;15;70;60;2;2;3;1;1;4;1;1;1;3;2;1;4;1;1;1;29
+Gazipur;39;2023901007;12023901007;Giraitoli-Hyderabad Purbo Part;Moulobi Bari;35;150;90;1;1;2;2;1;1;2;4;2;2;2;1;1;1;2;2;27
+Gazipur;39;2023901001;12023901001;Giraitoli-Hyderabad Purbo Part;Nai-Tek;20;120;60;2;1;2;1;1;2;1;3;2;2;3;2;2;4;4;4;36
+Gazipur;39;2023901004;12023901004;Giraitoli-Hyderabad Purbo Part;Husnar Tek;10;50;40;1;2;2;3;2;2;2;1;1;1;3;2;1;1;2;2;28
+Gazipur;39;2023901008;12023901008;Giraitoli-Hyderabad Purbo Part;Mojibor Market-er Pashe;50;300;80;1;1;2;1;2;2;1;1;2;2;1;4;4;1;4;4;33
+Gazipur;39;2023903001;12023903001;Hyderabad Paschim Part;Kalai Bari;11;57;85;1;2;2;1;1;1;1;2;3;3;2;2;3;4;4;4;36
+Gazipur;39;2023903002;12023903002;Hyderabad Paschim Part;Bepari Bari;16;112;85;2;1;3;1;1;2;1;3;3;1;1;2;3;4;4;4;36
+Gazipur;39;2023903003;12023903003;Hyderabad Paschim Part;Kobiraj Bari;30;150;50;2;1;3;1;1;1;1;3;2;2;1;4;1;4;4;4;35
+Gazipur;39;2023903005;12023903005;Hyderabad Paschim Part;Afsar Bari;15;75;20;2;1;4;1;1;1;1;4;3;3;1;4;2;4;4;4;40
+Gazipur;39;2023903006;12023903006;Hyderabad Paschim Part;Mondol Bari;25;150;85;2;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;38
+Gazipur;39;2023903007;12023903007;Hyderabad Paschim Part;Hasen Ali-er Bosoti;8;30;50;2;1;4;1;1;1;1;4;3;3;1;4;1;4;4;4;39
+Gazipur;39;2023903008;12023903008;Hyderabad Paschim Part;Hormuz Ali-er Bosoti;20;140;40;2;1;4;1;1;1;1;4;3;2;1;4;1;4;4;4;38
+Gazipur;39;2023903004;12023903004;Hyderabad Paschim Part;Kashem Surveyor-er Bari;7;35;100;2;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;41
+Gazipur;39;2023903011;12023903011;Hyderabad Paschim Part;Boro Bari (Monsur Ali-er Bari);55;230;100;2;1;4;1;1;1;1;4;2;1;1;4;4;4;4;4;39
+Gazipur;39;2023903012;12023903012;Hyderabad Paschim Part;Matbor Bari;30;140;40;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023903016;12023903016;Hyderabad Paschim Part;Nurul Islam Pathan-er Bari;45;250;120;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023903015;12023903015;Hyderabad Paschim Part;Imon Doctor-er Bari;45;220;60;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023901002;12023901002;Giraitoli-Hyderabad Purbo Part;Giraitoli;15;94;50;1;2;2;1;3;4;2;1;3;2;2;1;2;1;4;4;35
+Gazipur;39;2023903013;12023903013;Hyderabad Paschim Part;Abul Kashem-er Bari;200;1000;150;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023903014;12023903014;Hyderabad Paschim Part;Ansar Ali-er Bari;80;300;95;2;1;4;1;1;1;1;4;2;1;1;4;4;4;4;4;39
+Gazipur;39;2023903017;12023903017;Hyderabad Paschim Part;Moddho Hajipara;80;420;100;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023903009;12023903009;Hyderabad Paschim Part;Jabbar Bari;18;100;110;2;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;41
+Gazipur;39;2023904001;12023904001;Shukundir Bag;Jobu Sheikh-er Bari;10;50;20;1;1;3;1;1;2;1;3;2;1;1;3;3;2;4;4;33
+Gazipur;39;2023904008;12023904008;Shukundir Bag;Eidgahpara;35;200;50;1;1;4;1;1;3;1;4;3;2;2;3;3;2;4;4;39
+Gazipur;39;2023904002;12023904002;Shukundir Bag;Kanir Vita;15;80;50;2;1;4;1;1;3;1;4;3;2;2;4;4;4;4;4;44
+Gazipur;39;2023904003;12023904003;Shukundir Bag;Somir Hazi-er Bari;35;150;50;2;2;4;1;1;2;2;3;3;2;2;4;4;4;4;4;44
+Gazipur;39;2023904005;12023904005;Shukundir Bag;Shukundirbag Hajipara;60;300;40;2;1;4;1;1;3;1;4;3;2;2;3;3;3;4;4;41
+Gazipur;39;2023904006;12023904006;Shukundir Bag;Shukundirbag Dakshinpara Sarkar Bari;20;100;40;2;1;4;1;1;1;1;4;3;1;1;3;3;2;4;4;36
+Gazipur;39;2023904009;12023904009;Shukundir Bag;Futipara;40;180;40;1;1;4;1;1;2;1;4;3;2;1;3;3;3;4;4;38
+Gazipur;39;2023902001;12023902001;Hyderabad Uttar Moddho Part;Moddho Hajipara Udayon;35;165;100;3;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;42
+Gazipur;39;2023902002;12023902002;Hyderabad Uttar Moddho Part;Madinatul Ulum Madrasa-er Purbo Pashe;25;130;100;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023902004;12023902004;Hyderabad Uttar Moddho Part;Nor-er Tek;25;120;70;2;1;4;1;1;1;1;4;3;1;1;4;4;4;4;4;40
+Gazipur;39;2023902003;12023902003;Hyderabad Uttar Moddho Part;Gojarir Tek;40;130;20;2;1;4;1;1;1;1;4;3;2;1;4;4;4;4;4;41
+Gazipur;39;2023905004;12023905004;Hyderabad Dakshin Part;Moulobi Bari;25;140;40;2;1;4;1;1;3;1;4;3;2;2;4;3;3;4;4;42
+Gazipur;39;2023905006;12023905006;Hyderabad Dakshin Part;Romoni Kumar School Para;30;200;50;1;1;4;1;1;3;2;4;3;1;1;3;3;3;4;4;39
+Gazipur;39;2023905005;12023905005;Hyderabad Dakshin Part;Nohorir Par;30;180;25;1;1;4;1;1;3;1;4;3;2;2;3;3;3;4;4;40
+Gazipur;39;2023905007;12023905007;Hyderabad Dakshin Part;Khan Bari;35;200;50;1;1;4;1;1;3;1;4;3;2;2;3;3;2;4;4;39
+Gazipur;39;2023905003;12023905003;Hyderabad Dakshin Part;Abdur Rahim Mona-er Bari;55;300;40;2;1;4;1;1;1;1;4;3;1;2;3;2;2;4;4;36
+Gazipur;39;2023905002;12023905002;Hyderabad Dakshin Part;Gojarir Tek;35;180;18;2;1;4;1;1;3;1;3;3;2;2;3;3;2;4;4;39
+Gazipur;39;2023905001;12023905001;Hyderabad Dakshin Part;Dakshinpara Sheikhbari;40;180;40;2;1;4;1;1;2;1;4;3;2;2;3;3;2;4;4;39
+Gazipur;39;2023906007;12023906007;Hyderabad Dakshin Purbo Part;Molla Bari;30;150;80;1;1;2;1;1;2;1;2;2;2;2;4;4;4;4;4;37
+Gazipur;39;2023906003;12023906003;Hyderabad Dakshin Purbo Part;Vooter Bari;35;160;40;2;1;2;1;1;2;1;2;2;2;4;4;4;4;4;4;40
+Gazipur;39;2023906002;12023906002;Hyderabad Dakshin Purbo Part;Karim Market-er Pashe;50;250;60;1;1;2;1;1;2;1;2;2;2;4;4;4;4;4;4;39
+Gazipur;39;2023906001;12023906001;Hyderabad Dakshin Purbo Part;Mizan Market-er Pashe;100;500;30;1;2;2;2;2;1;1;2;2;2;3;4;4;4;4;4;40
+Gazipur;39;2023906004;12023906004;Hyderabad Dakshin Purbo Part;Gutaisha Tek;50;260;70;1;1;2;1;1;2;1;2;2;2;1;4;4;4;4;4;36
+Gazipur;39;2023906005;12023906005;Hyderabad Dakshin Purbo Part;Puber Tek;20;100;30;1;1;2;1;1;2;1;2;2;2;2;4;4;4;4;4;37
+Gazipur;39;2023906006;12023906006;Hyderabad Dakshin Purbo Part;Dilar Tek;50;300;70;2;1;2;1;1;2;1;2;2;2;1;4;4;4;4;4;37
+Gazipur;40;2024001001;12024001001;Majukhan;Bagher Tek;5;22;10;4;3;4;3;1;3;4;4;4;4;4;4;4;4;1;2;53
+Gazipur;40;2024002006;12024002006;Kudabor;Mir-er Bari;9;26;50;2;1;3;1;4;4;1;4;3;3;2;1;2;2;4;4;41
+Gazipur;40;2024002003;12024002003;Kudabor;Guffar Bhuiyan-er Bari;7;26;50;2;1;4;1;3;3;1;3;2;2;3;1;4;1;4;4;39
+Gazipur;40;2024002001;12024002001;Kudabor;Mojibor-er Bari;8;27;15;4;1;4;1;4;4;1;3;1;1;3;4;4;4;1;3;43
+Gazipur;40;2024002005;12024002005;Kudabor;Muttalik Kha-er Bari;18;40;30;3;1;4;1;4;4;1;4;3;3;3;4;2;2;4;4;47
+Gazipur;40;2024002002;12024002002;Kudabor;Monir-er Bari;25;70;20;1;1;3;1;3;3;1;2;3;1;3;2;1;2;1;3;31
+Gazipur;40;2024002004;12024002004;Kudabor;Al-Aksha Jame Masjid-er Pashe;48;145;15;1;1;3;1;1;3;1;1;1;1;2;1;4;1;4;4;30
+Gazipur;40;2024004003;12024004003;Telinagar-Khoraid-Echali;Khoraid Uttar Para;5;28;38;2;1;4;1;2;1;2;4;1;1;3;4;4;4;4;4;42
+Gazipur;40;2024004002;12024004002;Telinagar-Khoraid-Echali;Khoraid Purbo Para;6;30;40;2;1;4;1;3;1;2;4;1;1;3;4;4;4;4;4;43
+Gazipur;40;2024004001;12024004001;Telinagar-Khoraid-Echali;Joynagar;7;42;45;2;1;4;1;3;1;2;4;1;1;3;4;4;4;4;4;43
+Gazipur;40;2024004005;12024004005;Telinagar-Khoraid-Echali;Echali Paschim Para;6;25;40;2;1;4;1;3;1;3;4;4;3;3;4;4;3;4;4;48
+Gazipur;40;2024004004;12024004004;Telinagar-Khoraid-Echali;Telinagar Purbo Para;6;30;45;2;1;4;1;2;1;3;4;4;3;3;3;4;3;4;4;46
+Gazipur;40;2024005001;12024005001;Meghdubi;Jora Pukur Paschim Para;22;78;17;2;1;4;1;1;2;1;4;3;4;4;3;1;1;3;3;38
+Gazipur;40;2024005005;12024005005;Meghdubi;Meghdubi Paschim Para;6;22;42;2;2;4;1;1;3;1;2;3;4;4;4;4;3;3;4;45
+Gazipur;40;2024005003;12024005003;Meghdubi;Puraton Bari Uttar Para;7;24;40;2;1;4;1;1;3;1;3;4;4;4;4;4;4;4;4;48
+Gazipur;40;2024005002;12024005002;Meghdubi;Tekpara;8;27;45;2;2;4;1;1;3;1;4;4;4;4;4;4;4;4;4;50
+Gazipur;40;2024005004;12024005004;Meghdubi;Khan Para;6;27;40;2;2;4;1;1;3;1;4;4;4;4;4;4;4;4;4;50
+Gazipur;41;2024102001;12024102001;Satani Para;Shahjahan Mia-er Bosoti;9;40;11;2;1;2;1;1;4;1;4;4;2;3;1;3;2;1;3;35
+Gazipur;41;2024103001;12024103001;Khilgaon;Apu Sheikh-er Bari;7;34;15;3;1;4;1;1;4;3;4;3;2;4;1;4;2;1;3;41
+Gazipur;41;2024104011;12024104011;Pubail Bazar;Baten Bepari-er Bari;5;16;9;1;1;3;1;1;3;3;2;4;4;4;4;4;4;4;4;47
+Gazipur;41;2024104010;12024104010;Pubail Bazar;Sunny Hossen-er Bari;10;25;12;1;1;3;1;1;3;1;4;4;4;3;3;4;4;4;4;45
+Gazipur;41;2024104001;12024104001;Pubail Bazar;Md. Amin Haque Sarker-er Bosoti;8;14;5;4;2;3;1;1;2;4;3;4;4;3;4;3;4;4;4;50
+Gazipur;41;2024104008;12024104008;Pubail Bazar;Saidul Haque Sarker-er Basoti;15;40;11;3;2;4;1;1;3;3;2;3;4;3;4;4;4;4;4;49
+Gazipur;41;2024104009;12024104009;Pubail Bazar;Alam Hossen-er Bari;11;41;5;2;1;4;1;1;4;3;4;4;2;3;2;3;2;4;4;44
+Gazipur;41;2024104006;12024104006;Pubail Bazar;Harun Mia-er Bosoti;6;20;15;3;2;4;1;1;1;4;3;4;4;3;3;3;3;4;4;47
+Gazipur;41;2024104002;12024104002;Pubail Bazar;Md. Imanol Haque Sarker-er Bosoti;12;37;10;4;2;2;1;1;3;4;3;4;4;4;4;3;4;4;4;51
+Gazipur;41;2024104004;12024104004;Pubail Bazar;Saiful Haque Sarker;6;17;3;1;1;2;1;1;3;1;2;4;4;4;4;3;4;4;4;43
+Gazipur;41;2024104003;12024104003;Pubail Bazar;Sadikul Haque Sarker;7;26;5;1;1;4;1;1;4;1;4;4;4;4;4;4;4;4;4;49
+Gazipur;41;2024104007;12024104007;Pubail Bazar;Kashem Sarker-er Bosoti;10;46;8;2;1;4;1;1;4;1;4;2;2;3;2;2;4;1;3;37
+Gazipur;42;2024201002;12024201002;Talutia;Nabayankur Elurtek;12;50;20;2;1;3;1;1;2;1;3;2;2;3;3;3;4;4;4;39
+Gazipur;42;2024202001;12024202001;Bindhan;Bindhan Ali Khan-er Bari;100;500;60;2;1;4;1;1;3;1;3;2;1;4;4;3;4;4;4;42
+Gazipur;42;2024202002;12024202002;Bindhan;Dhopapara Hibartek;150;600;70;2;1;3;1;1;2;1;2;2;1;3;4;2;4;4;4;37
+Gazipur;42;2024202003;12024202003;Bindhan;Bindhan Uttar Para;20;80;60;3;1;3;1;1;3;1;3;3;1;4;4;3;4;3;4;42
+Gazipur;42;2024203001;12024203001;Nondibari;Khallapara;20;80;50;2;2;4;1;2;2;1;3;3;1;3;4;1;4;4;4;41
+Gazipur;42;2024203002;12024203002;Nondibari;Kodalia;10;50;50;2;2;3;1;1;2;1;3;3;1;3;4;4;4;4;4;42
+Gazipur;42;2024204001;12024204001;Kamargaon;Jaman Filling Station-er Pichone;30;150;40;2;2;4;1;1;3;1;3;4;2;2;3;4;4;4;4;44
+Gazipur;42;2024204002;12024204002;Kamargaon;Najmul Karim Islamia Madrasa;20;100;35;2;1;4;1;1;4;4;3;4;2;1;4;4;4;4;4;47
+Gazipur;42;2024204003;12024204003;Kamargaon;Baitun Shah Jame Masjid-er Pichone;35;175;30;2;1;4;1;1;2;1;2;2;1;2;1;1;1;1;1;24
+Gazipur;42;2024205001;12024205001;Maruka;Maruka Moshiu-er Barir Pashe;10;50;30;2;1;4;1;1;3;1;3;2;1;3;3;3;4;3;4;39
+Gazipur;42;2024205002;12024205002;Maruka;Kalu Market Surjot Ali Barir Pashe;8;40;30;2;1;3;1;1;2;1;3;2;2;3;3;4;4;3;3;38
+Gazipur;43;2024301004;12024301004;Pagar Pathan Para;Haji Market-er Dakshin Pahse;26;100;12;3;3;4;2;1;1;1;2;2;2;3;1;3;2;1;3;34
+Gazipur;43;2024301002;12024301002;Pagar Pathan Para;Pathanpara Dakshin Pashe;67;260;22;4;3;4;2;1;3;2;2;3;2;2;1;3;2;1;3;38
+Gazipur;43;2024301001;12024301001;Pagar Pathan Para;Pathanpara;76;370;25;4;3;4;2;1;3;3;2;3;2;2;1;3;2;1;3;39
+Gazipur;43;2024301003;12024301003;Pagar Pathan Para;Pathanpara Paschim Pashe;53;280;18;2;3;4;2;1;4;2;3;3;2;3;1;3;2;1;3;39
+Gazipur;43;2024302001;12024302001;Pagar Eidgah Road;Pagar School-er Purbo Pashe;32;150;17;3;3;4;2;1;1;2;2;3;2;3;1;4;3;1;3;38
+Gazipur;44;2024401001;12024401001;Purbo Gopalpur;Hajera Khatun-er Bari;90;360;45;1;1;4;1;1;2;1;4;3;2;1;4;1;4;4;4;38
+Gazipur;44;2024401002;12024401002;Purbo Gopalpur;Mijan Master-er Bari;35;140;50;1;1;4;2;2;2;1;4;3;1;1;4;4;4;4;4;42
+Gazipur;44;2024401003;12024401003;Purbo Gopalpur;Ekushe Pathagar-er Sathe;130;520;50;2;1;4;2;4;2;1;4;3;4;4;4;4;2;1;1;43
+Gazipur;44;2024401004;12024401004;Purbo Gopalpur;Rabeya-er Bari;30;120;16;2;4;4;2;1;2;1;3;3;1;1;1;1;2;4;1;33
+Gazipur;44;2024401005;12024401005;Purbo Gopalpur;Zakir Sharif Khan-er Bari;60;240;100;2;4;4;2;1;2;1;3;3;1;1;1;1;2;4;1;33
+Gazipur;44;2024401006;12024401006;Purbo Gopalpur;Tipu-er Bari;60;240;65;2;4;4;2;1;2;1;3;3;1;1;1;1;2;4;1;33
+Gazipur;44;2024402001;12024402001;Paschim Gopalpur;Iqbal-er Bari;25;105;30;3;1;2;1;4;1;1;2;2;3;2;4;3;4;1;2;36
+Gazipur;44;2024402002;12024402002;Paschim Gopalpur;Ismail-er Bari;50;205;20;3;2;4;2;2;3;2;3;2;3;3;4;3;4;1;4;45
+Gazipur;44;2024402003;12024402003;Paschim Gopalpur;Mia Bari;60;246;35;4;3;4;2;4;2;3;2;3;3;3;4;2;4;4;4;51
+Gazipur;44;2024402004;12024402004;Paschim Gopalpur;Sadek Munsi-er Bari;52;214;3;1;1;4;1;4;2;1;4;4;3;3;4;4;4;1;2;43
+Gazipur;44;2024402005;12024402005;Paschim Gopalpur;Lal Mia-er Bari;39;206;25;2;1;4;1;3;1;2;2;2;3;2;4;2;4;1;4;38
+Gazipur;44;2024402006;12024402006;Paschim Gopalpur;Khorshed-er Bari;60;252;30;2;2;4;2;4;2;2;2;2;2;3;4;2;4;1;4;42
+Gazipur;44;2024402007;12024402007;Paschim Gopalpur;Hasan Ali-er Bari;95;369;30;4;2;4;2;4;3;2;2;3;3;2;4;2;4;1;4;46
+Gazipur;44;2024403001;12024403001;Wapda Gate;Kazi Bari;60;246;50;2;2;4;3;4;3;2;2;3;3;3;2;4;4;1;4;46
+Gazipur;44;2024404001;12024404001;BSCIC Fakir Market;Malek-er Bari;150;735;50;4;4;4;4;3;4;4;4;4;4;1;4;4;4;4;4;60
+Gazipur;44;2024405001;12024405001;Alertek Miras Para;Alertek Bosoti;500;2500;40;3;3;4;2;4;4;3;4;4;4;1;4;4;4;1;2;51
+Gazipur;44;2024405002;12024405002;Alertek Miras Para;Mohol-er Bari;100;490;30;4;4;4;2;3;4;1;4;4;4;1;4;2;4;4;3;52
+Gazipur;45;2024501001;12024501001;Railgate Road;Railgate Road Bosoti;110;450;15;2;1;4;4;3;4;3;4;1;1;3;4;4;4;4;3;49
+Gazipur;45;2024501002;12024501002;Railgate Road;Shahid Smrity School Road-er Pashe;60;250;20;4;3;4;4;3;4;3;4;4;1;3;4;4;4;4;3;56
+Gazipur;45;2024502001;12024502001;Shahi Masjid Bhuiyan Para;Tara Masjid Mahalla;150;510;12;1;3;4;4;2;3;2;3;1;1;2;4;4;4;1;3;42
+Gazipur;45;2024502003;12024502003;Shahi Masjid Bhuiyan Para;Rupban-er Ma-er Tek;350;1400;24;2;3;4;4;3;4;2;2;1;1;2;4;4;4;4;3;47
+Gazipur;45;2024502002;12024502002;Shahi Masjid Bhuiyan Para;Montaj Uddin School-er Pashe;70;230;5;2;1;4;4;2;3;2;2;1;1;2;4;4;4;4;3;43
+Gazipur;45;2024503001;12024503001;Purba Arichpur Neharika Road (Bou Bazar);Ijjot Ali Madrasa-er Pashe;220;900;20;4;4;4;4;1;4;3;3;1;1;1;4;4;4;4;3;49
+Gazipur;45;2024503002;12024503002;Purba Arichpur Neharika Road (Bou Bazar);Chatar Gazi School-er Pashe;500;1600;20;2;3;4;4;3;4;4;4;1;1;1;4;4;4;4;3;50
+Gazipur;45;2024504001;12024504001;Sarkar Bari Road (Jamia Nuria Madrasa);Sarker Bari 1;450;3000;27;4;3;4;4;1;4;3;2;1;1;1;4;4;4;4;3;47
+Gazipur;45;2024504002;12024504002;Sarkar Bari Road (Jamia Nuria Madrasa);Sarker Bari 2;430;3200;27;4;3;4;4;1;4;3;2;1;1;1;4;4;4;4;3;47
+Gazipur;45;2024505002;12024505002;Turag Nodi Bondor Road;Sarker Bari 4;25;70;7;4;3;4;4;1;4;3;2;1;1;1;4;4;4;4;3;47
+Gazipur;45;2024505001;12024505001;Turag Nodi Bondor Road;Sarker Bari 3;400;1800;27;4;3;4;4;1;4;3;2;1;1;1;4;4;4;4;3;47
+Gazipur;46;2024601006;12024601006;Sailargati;Helena-er Bair;50;250;40;1;1;1;1;1;1;1;1;3;2;1;1;1;1;1;1;19
+Gazipur;46;2024601005;12024601005;Sailargati;Sohel-er Bari;100;500;25;1;1;3;2;2;1;1;1;2;2;1;1;1;1;1;1;22
+Gazipur;46;2024601004;12024601004;Sailargati;Kari-er Bari;150;600;60;2;1;4;2;3;3;1;3;4;3;2;1;2;3;1;2;37
+Gazipur;46;2024601001;12024601001;Sailargati;Atar Bari (Pump-er Pichone);100;250;18;1;1;2;1;4;1;1;3;4;2;1;1;1;2;1;1;26
+Gazipur;46;2024601002;12024601002;Sailargati;Lalmia and Amena-er Bari;120;400;40;1;1;4;3;3;3;1;3;4;3;4;4;4;4;4;4;50
+Gazipur;46;2024601003;12024601003;Sailargati;Kathpotti (Poshu Hospital-er Pichone);100;300;40;2;1;4;2;4;3;1;4;4;4;4;4;4;4;4;4;53
+Gazipur;46;2024602004;12024602004;Himardighi Paschim;Himardighi 2;70;300;25;1;1;4;1;1;1;1;1;1;1;1;1;1;1;1;1;19
+Gazipur;46;2024602001;12024602001;Himardighi Paschim;Kolabagan;75;300;20;2;3;4;1;1;2;1;1;1;1;1;2;1;1;1;1;24
+Gazipur;46;2024602002;12024602002;Himardighi Paschim;Ansar Camp-er Pichone;100;500;25;2;1;4;3;3;3;1;2;3;4;4;2;4;4;4;3;47
+Gazipur;46;2024602003;12024602003;Himardighi Paschim;Himardighi 1;50;200;30;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;17
+Gazipur;46;2024604002;12024604002;Noagaon Dakshin;Rail Colony;40;94;100;2;3;3;2;3;1;1;2;2;2;2;2;1;2;2;2;32
+Gazipur;46;2024604005;12024604005;Noagaon Dakshin;Bot-tola Rail;31;30;100;2;3;3;2;3;1;2;2;2;2;2;2;1;2;2;2;33
+Gazipur;46;2024604004;12024604004;Noagaon Dakshin;Sadhin-er Bari;38;55;38;2;3;3;2;3;3;2;2;3;2;2;1;2;3;1;3;37
+Gazipur;46;2024604003;12024604003;Noagaon Dakshin;Delowar-er Bari;33;57;30;2;3;4;2;3;3;2;2;3;2;2;2;2;4;1;3;40
+Gazipur;46;2024604001;12024604001;Noagaon Dakshin;Sarkarkhana;100;200;30;1;1;1;1;2;2;1;2;2;2;1;1;1;1;3;1;23
+Gazipur;46;2024605005;12024605005;Noagaon Uttar;Babur Bari- Hamid-er Bari;38;171;26;2;2;3;2;2;2;2;2;4;3;2;1;3;3;1;2;36
+Gazipur;46;2024605004;12024605004;Noagaon Uttar;Amjat-er Bari Rail Line-er Pashe;37;124;40;4;1;3;2;2;1;1;2;3;1;1;1;1;3;1;2;29
+Gazipur;46;2024605001;12024605001;Noagaon Uttar;Hashem-er Bari;8;25;15;1;1;4;1;1;2;1;3;3;2;2;1;2;3;1;2;30
+Gazipur;46;2024605002;12024605002;Noagaon Uttar;Amjat-er Bari;22;102;40;1;1;3;2;1;1;1;2;3;2;1;1;1;3;1;2;26
+Gazipur;46;2024605003;12024605003;Noagaon Uttar;Yunus-er Bari;17;41;29;1;1;3;2;2;3;2;3;4;3;3;1;3;2;2;2;37
+Gazipur;46;2024606003;12024606003;Karanir Tek;Hindupotti Horizon;13;90;12;1;1;1;1;1;2;1;2;1;1;1;1;1;1;2;1;19
+Gazipur;46;2024606001;12024606001;Karanir Tek;Bot-tola Rail;40;250;45;1;1;1;2;1;2;1;2;1;1;1;1;1;1;2;1;20
+Gazipur;46;2024606002;12024606002;Karanir Tek;Sonabanu-er Bari;35;200;45;1;1;1;2;1;2;1;2;1;1;1;1;1;1;2;1;20
+Gazipur;46;2024606007;12024606007;Karanir Tek;Samsu-er Bari;80;600;20;1;1;1;2;1;2;1;2;1;1;1;1;1;1;1;2;20
+Gazipur;46;2024606006;12024606006;Karanir Tek;Parvin-er Bari;50;450;50;1;1;1;2;1;2;1;2;1;1;1;1;1;1;2;2;21
+Gazipur;46;2024606005;12024606005;Karanir Tek;Jakir-er Bari;40;200;50;1;1;1;2;1;2;1;2;1;1;1;1;1;1;2;1;20
+Gazipur;46;2024606004;12024606004;Karanir Tek;Rongmala;42;115;45;1;1;1;2;1;2;1;2;1;1;1;1;1;1;2;1;20
+Gazipur;46;2024607001;12024607001;Amtoli;Kadir-er Bari;40;200;30;2;1;2;2;1;2;1;2;1;1;1;1;1;1;4;4;27
+Gazipur;46;2024607002;12024607002;Amtoli;Sri Lebu Vaskar-er Bari;60;300;25;3;3;2;2;1;1;1;2;1;1;1;1;1;1;1;2;24
+Gazipur;46;2024607003;12024607003;Amtoli;Sultan-er Bari;60;300;50;3;2;2;2;1;2;2;2;1;1;1;1;2;1;1;3;27
+Gazipur;46;2024607004;12024607004;Amtoli;Jaheba-er Bari;6;30;40;1;1;2;2;1;1;1;1;1;1;1;4;2;4;1;3;27
+Gazipur;46;2024607005;12024607005;Amtoli;Sowkot Ali-er Bari;74;370;75;2;1;2;4;1;2;1;3;1;2;1;2;3;3;1;3;32
+Gazipur;46;2024607006;12024607006;Amtoli;Rajab-er Bari;60;300;70;2;2;2;2;1;2;2;2;1;1;1;1;1;3;1;3;27
+Gazipur;46;2024603002;12024603002;Shilpo Elaka Mahalla;Meghna Road Bottola;15;75;20;1;1;2;1;1;1;1;1;2;3;2;1;1;1;2;1;22
+Gazipur;46;2024603001;12024603001;Shilpo Elaka Mahalla;Anowar Silk Pump;5;22;35;4;2;2;2;2;3;2;3;3;3;2;3;3;3;2;2;41
+Gazipur;46;2024603003;12024603003;Shilpo Elaka Mahalla;Delur Bari-er Balur Math-er Pashe;35;170;50;2;4;3;1;2;2;1;3;3;2;2;1;1;3;1;2;33
+Gazipur;46;2024603004;12024603004;Shilpo Elaka Mahalla;Sumon-er Bari;32;128;30;2;2;4;1;2;2;1;3;4;2;2;1;4;3;1;2;36
+Gazipur;46;2024603006;12024603006;Shilpo Elaka Mahalla;Nesaria Masjid-er Pashe;17;40;50;1;1;3;1;3;2;1;3;3;2;1;1;2;3;1;2;30
+Gazipur;46;2024603005;12024603005;Shilpo Elaka Mahalla;Rail-er Pashe;55;244;70;1;1;3;1;2;1;1;2;3;2;1;2;2;1;2;1;26
+Gazipur;46;2024603007;12024603007;Shilpo Elaka Mahalla;Nuruddin Haji and Kadir Haji-er Bari;25;126;80;2;1;4;1;2;2;1;4;3;2;2;1;2;3;1;2;33
+Gazipur;46;2024603008;12024603008;Shilpo Elaka Mahalla;Akbar and Nekbar-er Bari;47;240;80;2;3;3;1;2;2;1;2;2;2;1;2;1;3;1;2;30
+Gazipur;47;2024701001;12024701001;Shilmun Paschimpara;Jalal-er Bari;5;17;30;2;1;4;1;3;1;1;4;3;1;4;4;4;4;4;4;45
+Gazipur;47;2024701003;12024701003;Shilmun Paschimpara;Amanot Ullah Masjid-er Pashe;200;1300;50;1;1;1;1;2;1;1;2;1;1;4;4;4;1;4;4;33
+Gazipur;47;2024702001;12024702001;Shilmun Purbopara;Jugir Tek Purbo Para 2;300;1200;40;1;4;4;1;1;1;1;2;1;1;4;4;1;3;4;4;37
+Gazipur;47;2024702004;12024702004;Shilmun Purbopara;Panir Pump Songlogno;300;1500;40;1;1;4;1;2;1;1;2;1;1;4;4;4;1;4;4;36
+Gazipur;47;2024702002;12024702002;Shilmun Purbopara;Jugir Tek Purbo Para 1;200;1150;50;1;1;1;1;2;1;1;2;1;1;4;4;4;1;4;4;33
+Gazipur;47;2024702003;12024702003;Shilmun Purbopara;Jamburar Tek;300;1500;30;1;1;4;1;2;1;1;2;1;1;4;4;4;1;4;4;36
+Gazipur;47;2024705003;12024705003;Morkun Tek Para;Radha Krishna Mandir Bosoti;450;1200;50;1;1;4;4;1;1;1;4;2;1;2;2;2;4;4;4;38
+Gazipur;47;2024705002;12024705002;Morkun Tek Para;Morkun Gudara Ghat;450;1500;60;1;1;4;4;1;1;1;1;2;1;3;4;2;4;4;4;38
+Gazipur;47;2024705001;12024705001;Morkun Tek Para;Morkun Purbo Para;240;800;50;1;1;4;1;2;1;1;3;2;1;3;4;2;4;4;4;38
+Gazipur;47;2024706001;12024706001;Morkun T&T Bazar Area;T&T-er Pashe;200;750;35;2;1;4;1;1;1;2;2;2;2;1;1;1;1;1;1;24
+Gazipur;47;2024706002;12024706002;Morkun T&T Bazar Area;Morkun Moddhopara;300;1200;50;2;1;2;2;3;1;1;2;2;1;1;1;3;1;1;1;25
+Gazipur;47;2024706003;12024706003;Morkun T&T Bazar Area;Anwar Steel-er Pashe;200;800;55;3;2;4;2;2;1;4;2;3;2;1;1;2;2;1;1;33
+Gazipur;47;2024704001;12024704001;Morkun Moddhopara;Baitul Izzat Masjid Road Songlogno;450;1800;60;1;1;4;1;2;1;1;2;2;2;1;2;2;4;4;4;34
+Gazipur;47;2024704004;12024704004;Morkun Moddhopara;Cocola Road-er Pashe;500;2000;60;1;1;4;1;2;1;1;2;2;1;2;4;2;4;4;4;36
+Gazipur;47;2024704002;12024704002;Morkun Moddhopara;Shaheed Ziauddin Songlogno;430;1350;55;1;1;4;1;2;1;1;2;2;1;1;4;2;4;4;4;35
+Gazipur;47;2024704003;12024704003;Morkun Moddhopara;Medha Bikash School Songlogno;350;1400;60;1;1;4;2;1;1;1;2;2;1;2;2;2;4;4;4;34
+Gazipur;47;2024703002;12024703002;Morkun Paschimpara;Mirer Para Bosoti;250;900;50;2;1;4;3;2;2;2;2;2;2;1;4;2;4;1;4;38
+Gazipur;47;2024703003;12024703003;Morkun Paschimpara;Baitul Fala Songlogno;800;1500;40;2;1;4;3;2;3;1;2;2;2;2;4;4;4;1;4;41
+Gazipur;47;2024703001;12024703001;Morkun Paschimpara;G.R.P Bosti;300;1200;50;1;1;2;1;1;1;1;2;1;1;1;1;1;1;3;3;22
+Gazipur;47;2024703004;12024703004;Morkun Paschimpara;Nechariya Madrasa Songlogno;500;1500;40;3;2;4;2;2;3;2;1;3;2;2;4;4;4;1;4;43
+Gazipur;47;2024703005;12024703005;Morkun Paschimpara;Bou Bazar Songlogno;600;2000;40;1;1;4;2;3;2;1;1;2;2;2;4;4;4;1;4;38
+Gazipur;48;2024801005;12024801005;Bonmala;Baitul Aksa Jame Mashjid Road Songlogno;250;1000;25;2;1;4;1;4;3;2;3;3;1;2;4;1;4;1;2;38
+Gazipur;48;2024801001;12024801001;Bonmala;Iddis Molla-er Bari;50;200;15;4;1;4;1;3;3;2;2;3;1;3;4;1;4;1;2;39
+Gazipur;48;2024801002;12024801002;Bonmala;Baitul Mamun Jame Masjid-er Pashe (Chunnu Miar Barir rasta);450;1500;25;4;1;4;1;3;4;2;4;3;1;3;4;1;4;1;2;42
+Gazipur;48;2024801004;12024801004;Bonmala;Shikder Bari;850;2500;35;3;1;4;1;4;3;2;3;3;1;2;4;1;4;1;2;39
+Gazipur;48;2024802002;12024802002;Shiraj Uddin Sarkar Area;Tek Para Achar Potti;450;1500;25;2;1;4;1;4;3;2;2;2;1;1;4;1;4;1;2;35
+Gazipur;48;2024802003;12024802003;Shiraj Uddin Sarkar Area;Shantibag ( Bonmala Road Songlogno );100;300;20;2;1;4;1;4;4;2;3;3;1;2;4;1;4;1;2;39
+Gazipur;48;2024802001;12024802001;Shiraj Uddin Sarkar Area;Baitul Mamur Jame Masjid Songlogno;300;1200;25;2;1;4;1;4;4;2;3;3;1;2;4;1;4;1;2;39
+Gazipur;48;2024803002;12024803002;Ledu Molla Area;Ledu Molla Road Shahi Jame Masjid;400;1700;25;4;3;4;2;4;4;2;4;2;1;2;4;1;4;1;2;44
+Gazipur;48;2024804001;12024804001;Osman Gani Area;Osman Goni Road (Joynal, Shahabuddin, Iman Ali);120;550;20;2;1;4;2;4;4;2;4;4;2;3;4;1;4;1;2;44
+Gazipur;48;2024804002;12024804002;Osman Gani Area;Amir Ali Market Songlogno;450;1000;25;4;4;4;2;4;4;4;4;4;2;1;4;1;4;1;2;49
+Gazipur;48;2024805003;12024805003;S K Mannan Area;Baitul Mamun Jame Masjid Somogro Area;200;600;20;2;1;4;1;4;3;2;3;3;1;1;4;1;4;1;2;37
+Gazipur;48;2024805001;12024805001;S K Mannan Area;Baitul Mamur Jame Masjid Area;440;1200;30;4;3;4;2;4;4;3;4;3;1;2;4;1;4;1;2;46
+Gazipur;49;2024903005;12024903005;Jamuna (Block 4 & 7);Masjid Goli;200;1000;45;3;1;4;4;1;3;2;4;3;3;3;3;2;3;2;2;43
+Gazipur;49;2024903004;12024903004;Jamuna (Block 4 & 7);7 No. Block (Prothom Goli);100;600;45;1;1;4;4;1;2;1;4;3;2;1;2;1;3;2;2;34
+Gazipur;49;2024903003;12024903003;Jamuna (Block 4 & 7);Gazi Potti;100;450;45;2;1;4;4;1;2;1;4;3;2;3;2;4;4;2;2;41
+Gazipur;49;2024903002;12024903002;Jamuna (Block 4 & 7);Jalil Gazi Bosoti;60;320;45;2;1;4;4;1;2;1;4;2;2;4;2;1;4;2;2;38
+Gazipur;49;2024903001;12024903001;Jamuna (Block 4 & 7);Mymensingh Potti;100;500;40;2;1;4;4;1;3;2;4;3;4;3;4;4;3;2;2;46
+Gazipur;49;2024904009;12024904009;Turag (Block 6 & 8);8 No. Block (8.5);300;1200;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904006;12024904006;Turag (Block 6 & 8);8 No. Block Moddhom (Kazi Bari);200;1000;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904008;12024904008;Turag (Block 6 & 8);Ahsan Ullah Master School Songlogno;150;500;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904007;12024904007;Turag (Block 6 & 8);8 No. Block Moddhom (Saban Factory);100;500;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904001;12024904001;Turag (Block 6 & 8);6 No. Block Dakshin Paschim;100;600;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904002;12024904002;Turag (Block 6 & 8);6 No. Block Purbo Dakshin;550;2800;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904003;12024904003;Turag (Block 6 & 8);Block 6 Beribadh;250;1000;46;2;1;4;1;3;3;1;1;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904004;12024904004;Turag (Block 6 & 8);6 No. Block Uttar Purbo;100;500;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024904005;12024904005;Turag (Block 6 & 8);8 No. Block Dakshin;250;1000;46;2;1;4;1;1;3;1;3;2;1;1;4;1;4;2;2;33
+Gazipur;49;2024901004;12024901004;Padma (Block 1 & 2);Awami League Club Songlogno;5;19;43;2;3;4;4;1;2;2;2;2;4;4;2;2;2;2;2;40
+Gazipur;49;2024901003;12024901003;Padma (Block 1 & 2);Meser Ali Goli 1 No.;5;16;43;1;3;4;4;1;2;4;2;1;4;4;2;2;2;2;2;40
+Gazipur;49;2024901002;12024901002;Padma (Block 1 & 2);Vandari Goli;9;48;43;4;3;4;4;1;2;1;3;2;4;4;2;1;2;2;2;41
+Gazipur;49;2024901001;12024901001;Padma (Block 1 & 2);Sabek Commissioner Goli;7;29;43;2;3;4;4;1;2;2;2;1;4;4;2;1;2;2;2;38
+Gazipur;49;2024902003;12024902003;Meghna (Block 3 & 5);T.D.H-er Paschim Pashe;7;34;40;2;2;3;4;4;3;1;4;3;2;3;2;2;3;2;3;43
+Gazipur;49;2024902002;12024902002;Meghna (Block 3 & 5);Gaffar Bosti;12;62;42;3;1;4;4;1;1;1;4;1;2;2;2;2;1;2;2;33
+Gazipur;49;2024902001;12024902001;Meghna (Block 3 & 5);Masjid Goli (T.D.H) Purbo Pashe;6;32;41;1;1;4;4;1;1;1;2;2;1;2;2;2;3;3;2;32
+Gazipur;49;2024902004;12024902004;Meghna (Block 3 & 5);Mohammed Ali-er Goli;8;45;40;3;1;4;4;1;2;1;3;2;1;3;3;2;2;3;2;37
+Gazipur;49;2024902005;12024902005;Meghna (Block 3 & 5);Chunnur Barir Bosti;9;42;38;2;1;3;4;4;3;1;4;3;2;3;2;2;3;2;3;42
+Gazipur;50;2025001001;12025001001;Gazipura West;Anowar-er Bari;8;26;7;2;4;4;1;1;4;2;4;4;4;4;4;2;4;4;3;51
+Gazipur;50;2025001002;12025001002;Gazipura West;Kabir-er Basoti;20;62;9;2;4;4;1;1;4;2;4;4;4;4;4;2;4;4;3;51
+Gazipur;50;2025001004;12025001004;Gazipura West;Bacchu Mia-er Bosoti;5;18;9;2;1;4;1;1;4;4;4;4;4;4;4;2;4;4;4;51
+Gazipur;50;2025001003;12025001003;Gazipura West;Arab Ali Matbor-er Bosoti;15;51;8;2;1;4;1;1;4;4;4;4;4;2;4;2;4;4;3;48
+Gazipur;50;2025001005;12025001005;Gazipura West;Joshna-er Bosoti;15;46;6;3;1;4;3;1;4;4;4;4;4;4;4;1;4;4;3;52
+Gazipur;50;2025001010;12025001010;Gazipura West;Hashem-er Bari;22;148;16;2;3;4;4;1;4;4;4;4;4;4;1;4;4;4;3;54
+Gazipur;50;2025001009;12025001009;Gazipura West;Taingail-er Bosoti;10;28;14;2;4;4;3;1;4;4;4;4;4;4;4;1;4;4;4;55
+Gazipur;50;2025001006;12025001006;Gazipura West;Annu Molla-er Bosoti;29;71;8;4;4;4;1;1;4;4;4;4;4;4;1;1;4;4;3;51
+Gazipur;50;2025001007;12025001007;Gazipura West;Rahul-er Bosoti;6;22;12;3;1;4;3;1;4;4;4;4;4;4;4;1;4;4;3;52
+Gazipur;50;2025001008;12025001008;Gazipura West;Shirin-er Bosoti;12;33;8;2;4;4;3;1;4;4;4;4;4;4;4;1;4;4;3;54
+Gazipur;50;2025002001;12025002001;Gazipura North-East;Kazi Billal-er Bari;12;52;18;4;4;4;2;3;3;4;4;4;3;3;4;3;4;1;3;53
+Gazipur;50;2025003001;12025003001;Gazipura South-East;Saiyed Ali Molla-er Vita;10;44;32;2;3;4;2;1;3;3;3;4;3;3;4;4;4;1;3;47
+Gazipur;50;2025003002;12025003002;Gazipura South-East;Pach Konna Vita;7;33;17;2;3;4;2;1;3;3;3;4;3;3;4;4;4;1;3;47
+Gazipur;50;2025003003;12025003003;Gazipura South-East;Bokul-er Vita;8;39;8;2;3;4;2;1;3;3;3;4;3;3;4;4;4;1;3;47
+Gazipur;50;2025003004;12025003004;Gazipura South-East;Haji Nurul Islam-er Bari;30;120;12;3;2;2;1;2;2;3;3;4;3;3;4;2;4;1;3;42
+Gazipur;50;2025004001;12025004001;Uttar Datta Para Tekbari;City Bank-er pasher Road;12;50;6;2;1;4;1;1;4;1;4;4;3;4;4;4;4;4;3;48
+Gazipur;50;2025004002;12025004002;Uttar Datta Para Tekbari;Farida-er Bari;8;40;12;4;1;4;4;1;4;1;4;3;3;4;4;3;4;4;3;51
+Gazipur;50;2025004003;12025004003;Uttar Datta Para Tekbari;Habib-er Bari;10;50;10;2;1;4;4;1;3;1;4;4;3;4;4;2;4;4;3;48
+Gazipur;50;2025004004;12025004004;Uttar Datta Para Tekbari;Hadi-er Bari;8;30;20;2;1;4;3;1;4;1;4;3;3;4;4;3;4;4;3;48
+Gazipur;50;2025004005;12025004005;Uttar Datta Para Tekbari;Habibur Rahman Bosoti;10;42;2;2;1;4;3;1;4;1;4;3;3;4;4;2;4;4;3;47
+Gazipur;50;2025004006;12025004006;Uttar Datta Para Tekbari;Billal Mia-er Bari;7;18;10;3;1;4;1;1;1;1;3;3;3;4;4;3;4;4;3;43
+Gazipur;50;2025004007;12025004007;Uttar Datta Para Tekbari;Yakub Ali-er Bari;14;60;15;1;1;4;3;1;2;1;3;3;3;3;4;3;4;4;3;43
+Gazipur;50;2025004008;12025004008;Uttar Datta Para Tekbari;Jakir-er Bari;8;30;15;4;4;4;3;1;4;1;4;3;3;4;4;2;4;4;3;52
+Gazipur;50;2025004009;12025004009;Uttar Datta Para Tekbari;Kalu Mia-er Bari;17;55;10;4;2;4;1;1;4;1;4;3;3;4;4;3;4;4;3;49
+Gazipur;50;2025005001;12025005001;Datta Para Chankir Tek;Nagor-er Bari;5;20;20;3;2;4;1;1;4;1;4;3;3;4;4;3;4;4;3;48
+Gazipur;50;2025005003;12025005003;Datta Para Chankir Tek;Kuyeti Masjid-er Pashe;6;20;8;3;3;4;3;1;4;4;4;4;3;4;4;4;4;4;3;56
+Gazipur;50;2025005002;12025005002;Datta Para Chankir Tek;Kobi Mohsin School-er Pashe;10;50;10;2;3;4;1;1;4;4;4;3;3;4;4;3;4;4;3;51
+Gazipur;51;2025101004;12025101004;Khortoil Moddho Uttarpara;Khortoil Hindu Para;150;800;100;1;1;4;1;1;1;1;2;1;2;2;4;4;4;4;4;37
+Gazipur;51;2025101005;12025101005;Khortoil Moddho Uttarpara;Khortoil Paschim Para;100;600;70;1;1;4;1;1;1;1;2;1;2;2;4;1;4;4;4;34
+Gazipur;51;2025101002;12025101002;Khortoil Moddho Uttarpara;Moddho Uttarpara;120;700;100;1;1;4;1;1;1;1;2;1;2;1;4;1;4;4;4;33
+Gazipur;51;2025101001;12025101001;Khortoil Moddho Uttarpara;Khortoil Uttarpara;100;500;50;1;1;4;1;1;1;1;2;1;2;1;4;1;4;4;4;33
+Gazipur;51;2025101003;12025101003;Khortoil Moddho Uttarpara;Khortoil Uttar Purbopara;100;500;70;2;1;4;1;1;1;1;1;1;2;1;4;2;4;4;4;34
+Gazipur;51;2025101006;12025101006;Khortoil Moddho Uttarpara;Khortoil Bank Para;100;500;50;1;1;4;1;1;4;1;3;3;2;3;4;1;4;4;4;41
+Gazipur;51;2025102002;12025102002;Khortoil Dakshin & Sataish Dakshin;Muchi Bari;85;430;100;1;1;4;1;1;2;4;3;1;1;1;1;1;1;4;4;31
+Gazipur;51;2025102003;12025102003;Khortoil Dakshin & Sataish Dakshin;Shamsu Colony;120;549;16;1;1;4;1;1;3;4;2;2;2;1;4;4;4;3;4;41
+Gazipur;51;2025102001;12025102001;Khortoil Dakshin & Sataish Dakshin;Modina Para;152;1115;100;1;2;3;1;1;2;4;2;3;1;1;4;3;4;3;4;39
+Gazipur;51;2025104004;12025104004;Sataish Dakshinpara (Bankpara);Pashchim Para;106;480;90;1;1;4;1;1;1;2;1;2;3;1;1;1;4;4;4;32
+Gazipur;51;2025104003;12025104003;Sataish Dakshinpara (Bankpara);Mamun Jame Masjid Songlogno;91;500;70;2;1;4;1;1;1;1;3;2;1;1;4;2;3;4;4;35
+Gazipur;51;2025104002;12025104002;Sataish Dakshinpara (Bankpara);Napit Bari;45;201;49;1;1;4;1;1;1;1;1;1;1;1;1;2;1;1;4;23
+Gazipur;51;2025104001;12025104001;Sataish Dakshinpara (Bankpara);Bank Para;91;340;22;1;1;4;4;1;3;1;4;4;3;1;4;4;4;4;4;47
+Gazipur;51;2025103003;12025103003;Sataish Uttarpara;Laujhora;71;331;81;2;3;2;1;1;2;1;1;2;1;1;2;1;4;4;4;32
+Gazipur;51;2025103002;12025103002;Sataish Uttarpara;Boish Para;100;400;76;1;1;2;1;1;1;1;1;1;1;1;3;2;4;4;4;29
+Gazipur;51;2025103004;12025103004;Sataish Uttarpara;Kamrul-er Bosoti;120;568;8;1;1;4;2;1;1;1;2;2;1;1;1;1;1;2;4;26
+Gazipur;51;2025103001;12025103001;Sataish Uttarpara;Matiya Para;115;457;83;2;1;4;1;1;2;1;1;1;1;1;1;1;1;2;3;24
+Gazipur;51;2025105001;12025105001;Rajnagar;Rajnagar Purbo Para;12;50;100;1;1;4;1;1;1;1;4;1;3;1;1;1;1;3;4;29
+Gazipur;51;2025105003;12025105003;Rajnagar;Baitul Mamur Jame Masjid Songlogno;25;130;100;1;1;4;1;1;1;1;3;1;3;1;4;4;4;4;4;38
+Gazipur;51;2025105002;12025105002;Rajnagar;Rajnagar Nobijan;20;120;100;1;1;4;1;1;1;1;4;1;3;1;4;4;1;4;4;36
+Gazipur;52;2025201001;12025201001;Mudafa;Sabantola;60;320;110;3;2;4;2;1;1;2;3;1;1;2;4;1;4;3;3;37
+Gazipur;52;2025201002;12025201002;Mudafa;Mudafa Purbo Para;55;230;150;2;1;4;2;1;1;2;3;2;1;2;4;1;4;3;4;37
+Gazipur;52;2025201003;12025201003;Mudafa;Vawal (Johra Masjid);50;210;70;1;1;4;2;1;1;2;3;1;1;1;4;1;4;3;4;34
+Gazipur;52;2025202002;12025202002;Tilargati & Darail;Tilargati Uttar Para;25;110;70;1;1;4;1;1;3;1;3;3;1;2;3;2;4;4;4;38
+Gazipur;52;2025202001;12025202001;Tilargati & Darail;Tilargati Paschim Para;20;90;60;1;1;4;1;1;2;1;2;1;1;3;4;1;4;4;4;35
+Gazipur;52;2025203005;12025203005;Vadam, Gusalia;Uttar Para Jame Masjid Bosoti;20;88;20;2;1;4;1;1;2;1;3;1;1;3;4;1;4;4;4;37
+Gazipur;52;2025203004;12025203004;Vadam, Gusalia;Majid Matabbor-er Bari;60;264;90;2;1;4;1;1;1;1;3;1;1;1;3;1;1;4;4;30
+Gazipur;52;2025203006;12025203006;Vadam, Gusalia;Md. Shahin Kha-er Bari;12;52;40;2;1;4;1;1;2;1;3;1;1;3;4;1;4;4;4;37
+Gazipur;52;2025203001;12025203001;Vadam, Gusalia;Khokon-er Bari;15;66;20;4;2;4;2;1;3;2;3;2;1;4;4;1;4;4;4;45
+Gazipur;52;2025203007;12025203007;Vadam, Gusalia;Kudarat Ali Matabbor-er Bari;25;110;60;2;1;4;1;1;1;1;3;1;1;1;4;1;4;4;4;34
+Gazipur;52;2025203003;12025203003;Vadam, Gusalia;Ayub Ali-er Bari;14;61;45;2;1;4;4;1;1;1;1;3;1;2;4;1;4;4;4;38
+Gazipur;52;2025204002;12025204002;Gutia, Andarul, Bhakral;Gutia Paschim;45;180;65;1;1;3;1;1;2;1;3;3;1;3;4;4;4;4;4;40
+Gazipur;52;2025204001;12025204001;Gutia, Andarul, Bhakral;Gutia Uttar;30;150;70;1;1;4;1;1;3;1;3;3;1;3;4;4;4;4;4;42
+Gazipur;52;2025204003;12025204003;Gutia, Andarul, Bhakral;Andarul Uttar;25;110;65;1;1;3;1;1;2;1;3;3;1;3;4;3;4;4;4;39
+Gazipur;52;2025204004;12025204004;Gutia, Andarul, Bhakral;Bhakral Paschim;50;220;70;1;1;3;1;1;2;1;3;3;2;3;4;3;4;4;4;40
+Gazipur;52;2025204005;12025204005;Gutia, Andarul, Bhakral;Bhakral Purbo;45;240;70;1;1;3;1;1;2;1;3;3;2;3;4;3;4;4;4;40
+Gazipur;53;2025301001;12025301001;Koritola;Koritola Bosoti;115;1400;19;3;1;4;1;1;1;1;4;4;4;3;1;1;1;2;1;33
+Gazipur;53;2025302001;12025302001;Kathaldia;Kathaldia Bosoti;157;1800;30;2;2;4;1;1;1;2;2;4;4;3;1;1;1;2;1;32
+Gazipur;53;2025303001;12025303001;Poran Mandal Tek;Rowzatul Ulum Madrasa-er Pashe;10;35;26;1;1;4;1;1;1;1;4;4;1;4;4;2;4;1;3;37
+Gazipur;53;2025303002;12025303002;Poran Mandal Tek;BRAC School-er Uttar Pashe;11;45;20;4;4;4;1;1;4;1;4;4;1;4;4;4;4;1;3;48
+Gazipur;53;2025303003;12025303003;Poran Mandal Tek;Joynal Abdedin-er Bosoti;35;80;8;3;1;4;1;1;1;1;2;4;2;4;4;4;4;1;3;40
+Gazipur;53;2025304001;12025304001;Chonditola;Nur Nabi Masjid-er Paschim;5;17;20;2;1;4;1;1;1;1;4;4;3;4;4;4;4;4;4;46
+Gazipur;53;2025307004;12025307004;Adarshapara;Police-er Barir Pashe;10;48;13;3;1;4;2;1;4;2;4;2;2;3;4;1;4;1;3;41
+Gazipur;53;2025307005;12025307005;Adarshapara;Setu Manjhil;8;36;12;2;1;3;3;1;4;2;3;4;3;3;3;4;4;1;3;44
+Gazipur;53;2025307001;12025307001;Adarshapara;Hazrat Ali Masjid-er Pashim pashe;17;93;5;3;1;4;2;1;4;4;4;4;4;3;4;4;4;1;3;50
+Gazipur;53;2025306001;12025306001;Mittir Bari;Pump-er Pashe;30;127;10;4;3;2;3;2;4;4;3;2;2;3;1;1;2;3;1;40
+Gazipur;53;2025306005;12025306005;Mittir Bari;Monir-er Barir Pashe;12;55;18;3;2;4;4;4;4;4;4;4;4;3;4;4;4;4;3;59
+Gazipur;53;2025306004;12025306004;Mittir Bari;Nazrul-er Bari;6;24;6;1;1;1;3;2;2;1;2;1;1;3;3;1;1;1;4;28
+Gazipur;53;2025306002;12025306002;Mittir Bari;Hindu Para;40;137;35;2;2;4;4;4;3;2;3;2;1;3;1;1;3;1;3;39
+Gazipur;53;2025305001;12025305001;Boro Dewra;Atik-er Barir Pichone;11;53;10;2;2;3;2;1;3;1;2;3;2;3;3;3;4;1;3;38
+Gazipur;53;2025305002;12025305002;Boro Dewra;Mondol Bari;8;48;35;4;4;4;4;4;4;3;4;4;4;3;4;4;4;1;3;58
+Gazipur;53;2025305003;12025305003;Boro Dewra;Khokon Mondol Barir Pashe;26;133;26;4;3;4;4;4;4;4;4;3;3;3;3;4;4;1;3;55
+Gazipur;54;2025401001;12025401001;Kha Para;Kha Para School-er pashe -1;18;80;15;1;1;4;1;4;1;1;1;4;1;3;4;1;4;1;3;35
+Gazipur;54;2025401002;12025401002;Kha Para;Kha Para School-er pashe -2;15;40;10;1;2;4;1;4;1;1;1;4;1;2;4;1;1;1;3;32
+Gazipur;54;2025402001;12025402001;Molla Bari;Molla Bari Shesh Matha;11;50;20;1;1;4;4;4;3;1;2;4;1;3;4;1;4;3;3;43
+Gazipur;54;2025402002;12025402002;Molla Bari;Shabuddin-er Bari;100;250;25;1;3;4;4;3;2;3;1;4;2;4;4;4;4;3;3;49
+Gazipur;54;2025403003;12025403003;Mokhtar Bari;Matbor Bari;90;270;65;2;1;4;2;3;2;1;2;4;3;4;4;3;4;1;4;44
+Gazipur;54;2025403002;12025403002;Mokhtar Bari;Babul-er Bari;70;220;30;1;1;4;2;2;2;1;3;4;4;4;4;4;4;1;4;45
+Gazipur;54;2025403001;12025403001;Mokhtar Bari;Mridha Bari;100;350;40;2;1;4;1;1;3;1;3;4;4;4;4;4;4;1;4;45
+Gazipur;54;2025404001;12025404001;Safiuddin Road;Malek-er Bari;50;200;25;1;1;4;2;3;2;1;3;4;3;4;4;4;4;1;4;45
+Gazipur;54;2025404002;12025404002;Safiuddin Road;Alauddin Baburchi Goli;40;160;20;1;1;4;2;3;2;1;3;3;3;4;4;4;4;1;4;44
+Gazipur;54;2025405001;12025405001;College Road;Kannu Mia-er Bosoti;30;276;10;3;1;4;4;4;4;1;3;4;2;4;1;1;4;1;4;45
+Gazipur;54;2025406001;12025406001;Surtorongo Matbor Bari Road;Baitul Akram Bari;20;180;20;3;1;4;4;4;4;1;3;3;3;3;1;1;1;1;4;41
+Gazipur;54;2025406002;12025406002;Surtorongo Matbor Bari Road;Balur Math;80;350;10;1;1;3;1;1;1;1;1;1;2;1;1;1;1;1;1;19
+Gazipur;55;2025501004;12025501004;Machimpur Mahalla;Tongi Fire Service-er Pichon-er Elaka;200;800;15;2;1;3;2;2;3;3;3;3;2;3;2;3;3;4;4;43
+Gazipur;55;2025501003;12025501003;Machimpur Mahalla;Machimpur Masum-er Bosoti;60;240;20;1;1;2;1;1;1;1;1;2;1;1;1;1;1;1;2;19
+Gazipur;55;2025501002;12025501002;Machimpur Mahalla;Chanda (Hijra Bosoti);25;80;20;3;1;4;2;3;3;2;3;1;1;1;3;3;2;2;1;35
+Gazipur;55;2025501001;12025501001;Machimpur Mahalla;Gafuria Madrasa Elaka;35;145;20;2;1;3;2;3;2;3;3;3;3;2;3;1;2;1;2;36
+Gazipur;55;2025502001;12025502001;Medical er Pichoner Mahalla;Medical er Pichon-er Bosoti;230;990;40;1;2;4;1;2;2;1;1;4;2;3;3;3;3;1;2;35
+Gazipur;55;2025503001;12025503001;Namar Bazar Mahalla;Namar Bazar Bosoti;11000;46500;40;1;1;4;1;1;4;1;2;4;1;1;1;4;1;3;1;31
+Gazipur;55;2025504001;12025504001;Kolabagan Mahalla;Kolabagan Bosoti Purbo;890;3740;40;2;1;3;1;1;1;2;4;4;4;2;1;1;1;2;1;31
+Gazipur;55;2025505001;12025505001;Zinnath Mahalla;Zinnath Mahalla Paschim-1;700;2800;50;1;1;3;1;1;1;1;3;3;1;1;1;1;1;2;1;23
+Gazipur;55;2025505002;12025505002;Zinnath Mahalla;Zinnath Mahalla Paschim-2;750;3000;50;1;1;3;1;1;1;1;2;3;1;1;1;1;1;2;1;22
+Gazipur;55;2025507001;12025507001;Churi Factory;Churi Factory Purbo;40;180;37;2;1;3;2;1;1;1;3;3;1;1;3;1;1;2;1;27
+Gazipur;55;2025507002;12025507002;Churi Factory;Churi Factory Paschim;400;1700;37;2;1;3;1;1;2;1;3;3;2;3;3;1;1;2;1;30
+Gazipur;55;2025506001;12025506001;Nishat Mahalla;Nishat Mahalla Bosoti;1500;6200;25;1;1;4;1;1;2;2;4;3;2;3;1;2;2;2;1;32
+Gazipur;56;2025601001;12025601001;Uttar Arichpur Bank Math;Co-operative Bank Math Bosoti;675;3375;62;2;2;2;1;1;2;1;2;2;2;3;1;2;1;2;1;27
+Gazipur;56;2025602001;12025602001;Moddho Arichpur;Beltola Bosoti;80;900;100;1;1;2;1;1;2;1;3;3;3;4;1;1;2;2;1;29
+Gazipur;56;2025602002;12025602002;Moddho Arichpur;Nekar Bari;900;5000;40;2;2;2;1;2;2;1;2;2;1;3;2;1;1;2;1;27
+Gazipur;57;2025701001;12025701001;Varan Uttar;Dulukha Bosoti;30;80;20;1;4;4;2;1;3;4;2;3;1;1;1;1;1;1;1;31
+Gazipur;57;2025701002;12025701002;Varan Uttar;Maksuda Khan-er Bosoti;30;70;40;4;1;4;4;1;3;4;4;4;4;2;1;1;1;1;1;40
+Gazipur;57;2025702001;12025702001;Varan Dakshin;Gono-Shastho Hospital-er Pasher Bosoti;300;1500;40;2;1;4;1;2;1;2;2;2;2;2;1;1;2;2;1;28
+Gazipur;57;2025702002;12025702002;Varan Dakshin;Chuna Factory-er Pasher Bosoti;300;1500;40;2;1;4;1;3;2;2;2;2;2;2;2;1;2;2;1;31
+Gazipur;57;2025702003;12025702003;Varan Dakshin;Kol-Karkhana Poridorshon Odhidoptor-er Paser Bosoti;350;1750;40;2;1;4;1;2;1;2;2;2;2;2;2;1;2;2;1;29
+Gazipur;57;2025702004;12025702004;Varan Dakshin;Prodipon School-er Pasher Bosoti;320;1600;40;2;1;4;1;3;2;1;2;2;2;2;1;1;2;2;1;29
+Gazipur;57;2025702005;12025702005;Varan Dakshin;Sandar Paratura Gono Nodi-er Pashe;120;600;50;2;2;4;1;3;3;1;3;1;3;1;1;2;1;2;1;31
+Gazipur;57;2025703003;12025703003;Arichpur;Farid Master-er Elaka (Munshi Road);260;1300;48;2;3;4;2;2;2;2;2;2;2;2;3;2;2;1;2;35
+Gazipur;57;2025703002;12025703002;Arichpur;Jakir-er Bari Elaka;250;1250;35;2;3;4;1;4;1;1;2;2;1;2;3;1;3;1;2;33
+Gazipur;57;2025703001;12025703001;Arichpur;Baitus Salat Jame Masjid-er Purbo Pasher Elaka;300;1500;50;2;3;4;1;3;1;1;2;1;1;1;2;1;2;2;1;28
+Gazipur;13;2021301001;12021301001;Kalakoir;Kalkoir Bosoti;100;450;80;2;2;4;4;3;3;1;4;4;2;3;4;4;4;4;4;52
+Gazipur;13;2021302001;12021302001;Lathivanga;Lativanga Bosoti;300;1000;80;2;2;4;4;3;3;1;4;4;2;3;4;4;4;4;4;52
+Gazipur;13;2021303001;12021303001;Kodda;Kacharichala Bosoti;100;400;60;1;2;3;1;2;3;1;3;4;2;2;1;1;1;2;1;30
+Gazipur;13;2021304001;12021304001;Nowjur;Purbo Para Tek;40;250;25;1;2;4;2;1;3;1;4;4;1;4;1;1;1;1;2;33
+Gazipur;13;2021304002;12021304002;Nowjur;B B L Bosoti;12;50;15;1;1;4;1;1;1;1;2;4;1;4;1;1;1;1;2;27
+Gazipur;13;2021305001;12021305001;Itahata;Khaspukur Bosoti;50;220;40;1;2;4;1;2;2;1;3;4;2;2;2;1;2;2;2;33
+Gazipur;13;2021305002;12021305002;Itahata;Saker Tek;100;500;43;2;1;3;2;2;2;1;3;3;3;2;2;3;1;1;2;33
+Gazipur;13;2021306001;12021306001;Kamar Basulia;Kamar Basulia Bosoti;40;200;25;1;1;4;1;1;4;1;4;3;2;4;3;2;2;2;1;36
+Gazipur;15;2021501002;12021501002;Paschimpara;Abdul Rahman-er Bosoti;48;207;3;4;4;4;3;4;3;1;4;4;4;3;4;1;4;1;2;50
+Gazipur;15;2021501003;12021501003;Paschimpara;Harez-er Bosoti;74;312;3;2;2;4;2;4;3;1;4;4;4;3;3;1;4;1;2;44
+Gazipur;15;2021502001;12021502001;Vogra Uttarpara;Shipon Vila;55;240;16;2;1;4;2;1;3;3;2;3;2;3;3;1;3;1;2;36
+Gazipur;15;2021502002;12021502002;Vogra Uttarpara;Nayem Vila;123;480;14;2;3;4;2;1;2;2;2;2;2;3;3;1;3;1;2;35
+Gazipur;15;2021502003;12021502003;Vogra Uttarpara;Vogra Bazar-er Dakshin Pashe;100;320;12;2;1;4;2;1;3;2;3;3;2;2;1;1;2;2;1;32
+Gazipur;15;2021503001;12021503001;Vogra Dakshinpara;Peyara Bagan;340;820;8;2;1;4;2;1;3;2;3;3;2;2;1;1;2;2;1;32
+Gazipur;15;2021504001;12021504001;Vogra Purbopara;Malek-er Dighir Par;30;120;15;2;1;4;2;1;3;2;3;3;2;2;1;1;2;2;1;32
+Gazipur;22;2022205002;12022205002;Gojaria Para;Dakshin Gojaria Para;80;320;30;1;1;4;1;4;1;1;4;1;1;2;1;1;1;2;1;27
+Gazipur;22;2022205003;12022205003;Gojaria Para;Dulal-er Para;150;600;25;2;1;4;4;4;2;1;1;4;3;3;1;1;1;2;1;35
+Gazipur;22;2022205004;12022205004;Gojaria Para;Moroder Para;60;240;25;1;1;4;1;1;1;1;4;1;2;1;2;1;1;2;1;25
+Gazipur;22;2022205001;12022205001;Gojaria Para;BRAC CDM -er Pashe;150;600;50;1;1;4;1;1;1;1;4;3;1;4;2;3;3;3;2;35
+Gazipur;22;2022201001;12022201001;Jangalia Para;Khama Para;100;500;30;2;1;4;1;1;1;1;2;4;1;4;1;1;1;2;1;28
+Gazipur;22;2022201002;12022201002;Jangalia Para;Rowshan Medical-er Dakshin Pashe;60;250;20;1;1;4;4;3;2;2;2;4;1;3;1;1;1;2;1;33
+Gazipur;22;2022203001;12022203001;Bahadurpur;Khaibar Tek;25;200;45;2;1;4;1;1;2;1;3;2;1;1;1;1;1;2;1;25
+Gazipur;22;2022203002;12022203002;Bahadurpur;Hindu Para;9;42;70;3;1;4;3;4;4;3;4;4;3;2;3;4;4;4;4;54
+Gazipur;22;2022202001;12022202001;Tulsi Vita;Hafiz Uddin-er Bari;10;52;70;1;1;4;1;1;1;1;2;3;1;1;4;2;4;4;4;35
+Gazipur;22;2022202002;12022202002;Tulsi Vita;Sagor Market-er Paschim Pashe;12;70;72;1;1;4;1;3;1;1;4;4;1;3;4;3;4;4;4;43
+Gazipur;22;2022204001;12022204001;Naindoin;Ramjan Market-er Paschim Pash;100;400;30;1;1;1;1;1;1;1;2;1;1;2;1;1;2;2;1;20
+Gazipur;22;2022204003;12022204003;Naindoin;Kuluni Para;70;280;30;1;1;1;1;1;1;1;1;3;1;3;1;1;3;2;1;23
+Gazipur;22;2022204002;12022204002;Naindoin;Babul-er Tek;50;200;20;1;1;1;1;1;1;1;1;2;1;2;1;1;2;2;1;20
+Gazipur;22;2022204004;12022204004;Naindoin;Choturiya Para;50;200;50;1;1;1;1;1;1;1;1;4;1;2;4;4;4;4;4;35
+Gazipur;7;2020704003;12020704003;Jorun Bazar, Namapara, Peyarabagan;Jorun Nama Para-3;175;375;7;3;3;4;4;1;3;3;4;4;4;4;4;3;4;4;4;56
+Gazipur;11;2021102008;12021102008;Block 2 (Joyertek, Ahaki, Pratappur);Rumej Mia-er Bosoti;6;40;25;1;1;4;1;1;2;1;4;1;1;3;1;1;3;4;4;33
+Gazipur;55;2025504002;12025504002;Kolabagan Mahalla;Kolabagan Bosoti Paschim;450;1850;20;1;1;2;1;1;1;1;3;4;4;1;1;1;1;2;1;26
+Gazipur;53;2025307003;12025307003;Adarshapara;Hasi Apa-er Bosoti;15;55;15;2;2;4;3;1;4;2;4;4;2;3;4;2;4;1;3;45
+Gazipur;53;2025307002;12025307002;Adarshapara;Shah Jahan-er Barir Paschim Pashe;6;24;8;1;1;4;4;1;3;1;1;4;2;3;4;2;4;1;3;39
+Gazipur;37;2023703001;12023703001;Kunia Uttarpara;Baitul Masjid-er Pashe Rajjak-er Bosoti;5;12;19;3;1;4;1;2;3;2;3;2;2;4;4;4;4;4;4;47
+Gazipur;9;2020903001;12020903001;Pollibiddut, Pukurpar, Kuddusnogor, Haq Medical;Bikrampur Potti;300;1200;16;3;1;4;4;1;4;1;2;2;2;4;4;1;4;1;3;41
+Gazipur;39;2023903010;12023903010;Hyderabad Paschim Part;Boro Bari (Babul Mia-er Bari);50;150;120;2;1;4;1;1;1;1;4;3;3;1;4;4;4;4;4;42
+Gazipur;53;2025306003;12025306003;Mittir Bari;Bot-tola Mittir Bari;8;42;19;1;2;2;3;3;3;2;3;2;2;3;3;1;2;1;1;34
+Gazipur;38;2023802003;12023802003;Block 2;Dewankhali Jame Masjid-er Purbo Pashe;150;400;50;1;1;4;3;4;4;1;4;3;2;3;4;4;4;4;3;49
+Gazipur;30;2023001001;12023001001;Baluchakuliye;Doctor Bari;10;42;30;1;2;4;1;1;2;4;4;3;1;2;4;3;4;4;4;44
+Gazipur;36;2023601001;12023601001;Gacha Polashona;Engineer Road Teen Rastar Mor Songlogno;17;75;15;2;1;4;3;1;3;2;4;4;3;3;4;4;4;1;3;46
+Gazipur;48;2024803001;12024803001;Ledu Molla Area;Fatema Khanom Road Songlogno;400;1200;30;2;3;4;2;4;4;3;3;3;1;2;4;1;4;1;2;43
+Gazipur;47;2024701002;12024701002;Shilmun Paschimpara;Gausia Jame Masjid-er Pashe;225;1125;50;1;1;1;1;2;1;1;2;1;1;2;4;4;1;4;4;31
+Gazipur;35;2023504001;12023504001;Kolomossor Paschim Dakshinpara;Haji Akbar Sarker-er Bosoti;90;200;16;2;2;4;4;1;2;2;3;2;1;3;4;2;2;1;2;37
+Gazipur;50;2025005005;12025005005;Datta Para Chankir Tek;Haji Almas Ali School-er Pashe;10;40;12;3;3;4;3;1;4;1;4;3;3;4;4;3;4;4;3;51
+Gazipur;9;2020901001;12020901001;Konabari Katchabazar;Haji Bari;230;1000;20;2;1;4;2;1;4;1;4;3;1;4;3;3;4;1;2;40
+Gazipur;4;2020402001;12020402001;Haji Market, Square and M Block;Haji Market-er Pashe;600;2500;10;2;1;4;2;1;3;3;4;3;3;2;4;1;3;1;2;39
+Gazipur;4;2020403001;12020403001;Mega Dying, Haji Market Pukur, Mollapara, Nagerhalot, Sarabo;Haji Market-er Uttar Chok, Kartika Pukur Elaka;1500;7000;12;2;1;4;2;1;3;3;4;3;3;2;4;1;4;1;2;40
+Gazipur;2;2020202002;12020202002;Chakrabarti-BEXIMCO;Haji Md. Abdul Samad-er Bosoti;20;80;25;2;1;4;1;1;4;1;4;4;3;4;4;3;4;1;4;45
+Gazipur;17;2021707002;12021707002;Jugitola Purbopara;Haji Saiyed Ali-er Bari;8;25;15;3;1;3;1;1;1;1;4;3;2;2;4;3;4;1;3;37
+Gazipur;7;2020703001;12020703001;Jorun Moddhopara;Haji Shaheb-er Iter Bhatar Dakshin Pashe;607;1672;7;2;3;4;4;1;4;1;3;3;1;3;4;1;4;1;3;42
+Gazipur;7;2020703002;12020703002;Jorun Moddhopara;Haji Shaheb-er Iter Bhatar Uttar Pashe;319;1113;7;2;3;4;4;1;4;1;3;3;1;3;4;1;4;1;3;42
+Gazipur;6;2020605001;12020605001;Dhononjoy Khali;Hajipara;7;30;50;2;2;4;1;1;2;1;3;3;2;3;4;4;4;4;4;44
+Gazipur;29;2022903002;12022903002;Sharpara Choitonnopur;Hazrat-er Bari;15;75;50;2;2;4;1;1;3;2;4;3;2;3;3;4;3;4;4;45
+Gazipur;33;2023301002;12023301002;Valukar Tek-Majid Member Bari;Hindu Barir Moar Songlogno;5;20;80;1;1;4;1;1;2;1;4;2;2;4;4;4;4;4;4;43
+Gazipur;52;2025203002;12025203002;Vadam, Gusalia;Hormuz Kha-er Bari;40;176;40;2;1;4;2;1;2;1;3;3;1;1;1;1;1;1;2;27
+Gazipur;37;2023704001;12023704001;Chandora;Hossain Ali-er Bosoti;10;33;85;2;1;3;1;3;2;2;4;3;2;2;4;1;1;2;3;36
+Gazipur;29;2022902001;12022902001;Choto Dewra Shamantapur;Jonab Ali Masjid and Adarsha Bidiyaloy Songlogno;60;500;5;1;1;4;1;3;4;1;4;4;1;1;4;4;4;4;4;45
+Gazipur;39;2023904007;12023904007;Shukundir Bag;Janata Bazar;15;80;50;2;1;4;1;1;2;2;4;1;1;2;4;3;4;4;4;40
+Gazipur;30;2023004002;12023004002;Kanaya;Kanaya Bazar;5;20;30;4;2;4;1;1;1;4;4;1;2;4;4;4;4;1;1;42
+Gazipur;41;2024104005;12024104005;Pubail Bazar;Kawsar Hossain-er Bari;7;25;5;1;2;3;1;1;4;2;4;3;3;4;4;4;4;4;4;48
+Gazipur;14;2021402002;12021402002;Kodda Nandon;Kumar Para;6;30;42;3;1;4;4;1;2;3;3;1;1;3;3;2;3;1;1;36
+Gazipur;40;2024003001;12024003001;Chamukdia Paran Area;Lisertek Nazrul-er Bari 1;5;25;110;2;2;4;1;1;4;2;4;3;4;4;4;4;4;3;3;49
+Gazipur;40;2024003002;12024003002;Chamukdia Paran Area;Lisertek Nazrul-er Bari 2;6;29;21;3;2;4;3;3;1;1;4;1;1;4;4;4;4;2;3;44
+Gazipur;48;2024805002;12024805002;S K Mannan Area;Mawlana Vasani Road Latif Market Goli;250;1200;20;4;4;4;1;4;4;2;4;3;1;2;4;1;4;1;2;45
+Gazipur;34;2023405001;12023405001;Varari Para;Mondol Bari;20;110;50;1;2;2;1;1;1;1;4;1;1;2;1;2;1;4;4;29
+Gazipur;6;2020604001;12020604001;Kashimpur Nodirpar;Nodir Par;30;140;60;2;2;4;1;1;3;1;3;3;2;3;4;3;4;4;4;44
+Gazipur;5;2020504002;12020504002;Sura Bari;Noya Para;400;2000;20;2;2;4;4;1;4;4;4;4;4;3;4;4;4;4;4;56
+Gazipur;27;2022705002;12022705002;Talukder Pukur Area;Paschim Laxmipura Khas Pukurpar Bosoti;40;100;60;1;1;4;1;4;4;1;2;3;3;4;4;4;4;3;3;46
+Gazipur;50;2025005004;12025005004;Datta Para Chankir Tek;Rafiq-er Puraton Bari;7;18;16;2;2;4;1;1;3;3;4;4;3;4;4;3;4;4;3;49
+Gazipur;29;2022902003;12022902003;Choto Dewra Shamantapur;Riyajul Jannat Mahila Madrasa Songlogno;79;300;16;2;1;4;1;1;2;2;4;4;2;1;4;1;4;4;4;41
+Gazipur;39;2023904004;12023904004;Shukundir Bag;Robidas Para;60;250;30;3;1;3;1;1;2;1;3;3;2;1;3;3;3;4;4;38
+Gazipur;16;2021603003;12021603003;Baroboika;Robidas Para;95;290;30;2;1;4;1;1;4;2;3;3;2;1;4;4;4;4;4;44
+Gazipur;2;2020202008;12020202008;Chakrabarti-BEXIMCO;Rowshan Ara Bosoti;30;120;25;2;1;4;3;1;4;1;4;3;2;4;4;1;4;4;4;46
+Gazipur;6;2020602004;12020602004;Kashimpur Noyapara;Rowshan Market-er Paschim Pashe;24;110;70;1;1;4;1;1;2;1;4;4;4;4;4;4;4;4;4;47
+Gazipur;6;2020602002;12020602002;Kashimpur Noyapara;Rowshan Market-er Purbo Pashe;13;65;25;1;1;4;1;1;2;1;4;3;4;4;2;4;4;4;4;44
+Gazipur;16;2021604001;12021604001;Palerpara;Shah Sultan Mazar Road-er Pashe;20;80;200;2;1;4;1;1;1;1;3;3;2;4;4;2;3;4;4;40
+Gazipur;48;2024801003;12024801003;Bonmala;Shahi Jame Masjid-er Pashe ( Joliler Dokan );300;1200;30;4;3;4;1;4;3;2;4;3;1;3;4;4;4;1;2;47
+Gazipur;15;2021501001;12021501001;Paschimpara;Siddique and Mohon-er Bosoti;134;554;7;4;3;4;3;4;3;1;3;4;4;3;4;1;4;1;2;48
+Gazipur;42;2024201001;12024201001;Talutia;Talutia Purbapara Harbinjar School;7;75;30;2;1;4;1;1;4;1;4;3;2;3;2;3;2;3;4;40
+Gazipur;31;2023102005;12023102005;Paschim Dhirasram;Uttar Dhirasram Chokidar Bari;10;55;22;2;1;4;1;1;2;1;4;4;2;3;4;4;4;4;4;45
+Gazipur;38;2023801002;12023801002;Block 1;Voot-er Pukur,Somomona Pukur;95;390;100;2;3;4;1;2;2;1;3;1;2;1;1;4;3;2;2;34
+Gazipur;31;2023104003;12023104003;Purbo Vararul-Rahapara-Pakoirdeshi-Tekpara;Yusuf Ali Masjid-er Pasher Bosoti;20;70;60;2;1;4;1;2;2;2;3;3;1;3;4;2;4;4;4;42

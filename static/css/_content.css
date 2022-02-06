@@ -1,0 +1,271 @@
+body{
+    font-size: 11px;
+    min-width: 800px;
+}
+
+.page-content .page-header:first-child {
+    border-bottom: 1px solid #E2E2E2;
+    margin: 0;
+}
+
+.dataTables_wrapper .row-fluid:first-child {
+    background-color: #F9F9F9;
+    padding: 5px 0 0px;
+}
+
+.dataTables_wrapper .row-fluid:last-child{
+    background-color: #F9F9F9;
+    padding: 5px 0 0;
+    border: none;
+}
+
+.dataTables_wrapper .row-fluid{
+}
+
+.dataTables_info {
+    font-size: 12px;
+    margin: 6px 0 0 12px;
+}
+
+.table thead tr {
+    background: linear-gradient(to bottom, #F8F8F8, #ECECEC) repeat-x scroll 0 0 #F3F3F3;
+    color: #707070;
+    font-weight: normal;
+}
+
+ul.pagination{
+    display: none;
+}
+
+th.asc:after{
+    content: " ▲ ";
+}
+
+th.desc:after{
+    content: " ▼ ";
+}
+
+.table thead tr th {
+    border-color: #DDDDDD;
+    font-weight: normal;
+}
+
+.widget-body .table thead:first-child tr {
+    background: linear-gradient(to bottom, #F8F8F8, #ECECEC) repeat-x scroll 0 0 #F3F3F3;
+    color: #707070;
+    font-weight: normal;
+}
+
+input[type="checkbox"] {
+    opacity: 1;
+    position: relative;
+}
+
+
+.profile-user-info-striped {
+    border: none;
+}
+.profile-user-info {
+    margin: 0px;
+}
+.profile-user-info .profile-info-row{
+    margin-left: 0px;
+}
+
+.btn {
+    font-size: 12px;
+}
+#id_description{
+    height: 80px;
+}
+
+.widget-toolbar > a{
+    font-size: 12px;
+    border: solid 1px;
+    padding: 2px 10px;
+}
+
+.manage-action{
+    font-size: 13px;
+}
+
+.chzn-container {
+    font-size: 12px;
+}
+
+.table th, .table td {
+    padding: 4px 8px;
+}
+
+input.search-input{
+    height: 18px;
+    border: 1px solid #AAAAAA;
+}
+
+select, textarea, input[type="text"], input[type="password"],
+input[type="datetime"], input[type="datetime-local"], input[type="date"],
+input[type="month"], input[type="time"], input[type="week"],
+input[type="number"], input[type="email"], input[type="url"],
+input[type="search"], input[type="tel"], input[type="color"],
+.uneditable-input{
+    font-size: 12px;
+}
+
+label, input, button, select, textarea {
+    font-size: 12px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin: 2px 0;
+}
+
+.btn {
+    vertical-align: top;
+    border-width: 1px;
+}
+
+.btn-mini {
+    line-height: 24px;
+}
+
+.form-actions .btn{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.form-horizontal{
+    padding-top: 20px;
+}
+
+
+.form-horizontal .control-group{
+    width: 50%;
+    float: left;
+}
+
+.modal-body .form-horizontal .control-group{
+    width: 100%;
+}
+
+
+.form-actions {
+    clear: both;
+}
+
+.tab-pane .table{
+    border-top: solid 1px #ddd !important;
+}
+
+.loader{
+    background-color: #fdfdfd;
+    opacity: 0.9;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    z-index: 10000;
+    filter: alpha(opacity=90);
+    overflow: hidden;
+}
+
+.loader img{
+    top: 45%;
+    left:49%;
+    position: absolute;"
+}
+
+.loader p{
+    top: 50%;
+    left:47%;
+    font-size: 16px;
+    position: absolute;"
+}
+
+.search-result{
+    /*padding-left: 20px;*/
+    margin-top: 20px;
+}
+
+
+.search-result  hr{
+    /*padding-left: 20px;*/
+    margin: 10px 0px;
+}
+
+.search-result h3{
+    line-height: 5px;
+}
+
+.search-result f{
+    line-height: 10px;
+    color: green;
+}
+
+.search-result a{
+    color: #1A32D6;
+}
+.search-result p{
+    color: 545454;
+    font-size: 13px;
+}
+
+.organization-details {
+
+}
+
+.organization-details input{
+    margin-bottom : 0px;
+    margin-top : 0px;
+    line-height: 6px;
+    border: 0px;
+    border-width: 0px;
+    height:9px
+}
+
+.organization-details td{
+    height: 8px;
+    line-height: 5px;
+    /*padding:0px 0px;*/
+    /*line-height: 6px;*/
+    /*resize:both;*/
+    /*overflow:auto;*/
+
+}
+
+.v-center {
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 0px;
+    padding-top: 5px ;
+}
+
+.open{
+    display: block;
+}
+
+.product-delete{
+    font-size: 13px;
+}
+
+div.controls  div#id_aparajita_role_chzn{
+    width: 193px!important;
+    /* need to use js here */
+}
+
+div.controls  div#id_distributor_role_chzn{
+    width: 193px!important;
+    /* need to use js here */
+}
+
+div.controls  div#id_territory_manager_role_chzn{
+    width: 193px!important;
+    /* need to use js here */
+}
+
+div.controls  div#id_service_persons_role_chzn{
+    width: 193px!important;
+    /* need to use js here */
+}

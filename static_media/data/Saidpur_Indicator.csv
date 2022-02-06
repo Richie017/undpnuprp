@@ -1,0 +1,287 @@
+City;Ward;Match ID;New ID;Mahalla Name;Settlement Name;Households;Population;Settlement Age;Condition of access roads;Availability of drains;Electricity coverage;Solid waste collection service;Access to piped water supply;Availability of hygienic toilet;Street lighting;Attendance of children at school;Households with employment;Household income;Social problems;Land tenure security;Housing condition;Risk of eviction;Land Ownership;Type of Occupancy;Total Score
+Saidpur;1;10101001;13200101001;Abashon;Poschim Abason;300;1350;16;2;3;4;1;1;1;1;4;3;3;3;2;2;4;2;2;38
+Saidpur;1;10101002;13200101002;Abashon;Purbo Abason;800;3600;16;2;3;4;1;1;1;1;4;3;3;3;2;3;4;2;2;39
+Saidpur;1;10101003;13200101003;Abashon;Pul Para;150;675;200;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;1;10101004;13200101004;Abashon;Tekurpara;60;270;100;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;1;10102001;13200102001;Gulahati Purbopara;Hajibari;57;263;215;1;1;4;1;1;3;1;4;3;3;3;4;2;4;4;4;43
+Saidpur;1;10102002;13200102002;Gulahati Purbopara;Golahat Paschim Para;107;483;253;2;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;40
+Saidpur;1;10102003;13200102003;Gulahati Purbopara;Koya Golahat Purbopara;101;457;211;3;1;4;1;1;1;3;4;3;1;3;4;1;4;4;4;42
+Saidpur;1;10102004;13200102004;Gulahati Purbopara;Asmtullah Sah Fokir Para;127;573;217;2;1;4;1;1;1;1;4;3;1;3;4;1;4;4;4;39
+Saidpur;1;10102005;13200102005;Gulahati Purbopara;Babunal Road Dangapara;34;157;251;2;1;4;1;1;1;1;4;3;1;3;4;4;4;4;4;42
+Saidpur;1;10103001;13200103001;Khalifapara;Haji Para;150;677;200;2;1;4;1;1;1;1;4;3;3;3;3;1;4;4;4;40
+Saidpur;1;10103002;13200103002;Khalifapara;Khalifapara;70;315;200;2;1;4;1;1;1;3;4;3;3;3;4;2;4;4;4;44
+Saidpur;1;10103003;13200103003;Khalifapara;Wapada Hindupara;65;293;200;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;1;10104001;13200104001;Nehalpara;Dokhin Para;100;450;200;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Saidpur;1;10104002;13200104002;Nehalpara;Nehalpara;35;160;150;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Saidpur;1;10104003;13200104003;Nehalpara;Dangapara;90;405;150;3;1;4;1;1;1;2;4;3;3;3;4;2;4;4;4;44
+Saidpur;1;10104004;13200104004;Nehalpara;Fokirpara;100;450;200;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;1;10105001;13200105001;Poschimpara;Kora Poschimpara;132;587;212;2;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;40
+Saidpur;1;10106001;13200106001;Erbatullah Sarkar Para Botolgari & Dangapara;Fokirpara;87;393;200;2;2;4;1;1;1;1;4;3;2;3;4;2;4;4;4;42
+Saidpur;1;10106002;13200106002;Erbatullah Sarkar Para Botolgari & Dangapara;Dangapara;123;556;200;2;1;4;1;1;1;1;4;3;3;3;4;1;4;4;4;41
+Saidpur;1;10106003;13200106003;Erbatullah Sarkar Para Botolgari & Dangapara;Vullipara;35;155;200;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;1;10107001;13200107001;Dangapara Bazar Mahalla;Sig Para;33;147;200;2;1;4;1;1;1;1;4;2;2;3;4;2;4;4;4;40
+Saidpur;1;10108001;13200108001;Shingpara;Bosniya Para;52;228;200;2;1;4;1;1;1;3;4;3;2;3;4;1;4;4;4;42
+Saidpur;1;10108002;13200108002;Shingpara;Dangapara;40;177;200;3;2;4;1;1;1;2;4;3;3;3;4;1;4;4;4;44
+Saidpur;1;10108003;13200108003;Shingpara;Ghonpara;88;399;200;2;1;4;1;1;1;1;4;3;2;3;4;1;4;4;4;40
+Saidpur;1;10108004;13200108004;Shingpara;Shingpara;44;197;200;2;1;4;1;1;1;1;4;3;3;3;4;1;4;1;4;38
+Saidpur;2;10201001;13200201001;Chini Mosque Islamabag;Emam Ali Lane-1;50;250;60;2;2;4;3;1;1;4;4;3;1;4;1;1;1;2;1;35
+Saidpur;2;10201002;13200201002;Chini Mosque Islamabag;Emam Ali Lane-2;150;1000;60;4;4;4;2;1;1;4;4;3;1;4;1;1;1;2;1;38
+Saidpur;2;10201003;13200201003;Chini Mosque Islamabag;Shri Bangla Road;125;600;80;3;1;4;1;1;3;4;4;3;1;3;1;1;1;2;1;34
+Saidpur;2;10204001;13200204001;Golahat Panir Tank;Shri Bangla Road;103;608;62;2;1;4;4;1;3;4;4;2;1;4;4;4;4;4;4;50
+Saidpur;2;10205001;13200205001;Jame Mosque Rail Colony;Shri Bangla Road-1;150;750;80;2;1;4;3;1;2;1;4;3;1;4;1;1;1;2;1;32
+Saidpur;2;10206001;13200206001;Golahat Camp-1;Camp-1, Batgass;350;1975;48;3;1;4;4;1;2;3;3;3;1;4;2;2;4;2;1;40
+Saidpur;2;10207001;13200207001;Ghoraghat Rail Colony East;Ghoraghat Rail Colony East;100;550;58;1;1;4;2;1;2;3;3;3;3;2;1;3;2;2;1;34
+Saidpur;2;10208001;13200208001;Ghoraghat Rail Colony west;Ghoraghat Rail Colony west;45;255;47;1;1;4;1;1;3;4;3;3;1;4;1;2;2;2;1;34
+Saidpur;2;10208002;13200208002;Ghoraghat Rail Colony west;Feroj Hotel Para;40;210;47;1;1;3;1;1;1;1;3;4;1;2;1;3;2;2;1;28
+Saidpur;2;10208003;13200208003;Ghoraghat Rail Colony west;Rail Colony;205;1100;58;2;1;4;2;1;4;4;3;3;2;2;1;3;2;2;1;37
+Saidpur;2;10209001;13200209001;Golahat Camp-2;Golahat Camp-2;332;1750;71;2;1;4;4;1;4;4;4;3;1;4;4;2;4;2;3;47
+Saidpur;2;10210001;13200210001;Polahat Koboesthan Para;Koboresthan Para;50;250;48;1;3;4;3;1;3;4;4;3;1;2;2;2;2;2;1;38
+Saidpur;2;10211001;13200211001;Cinema Hol Colony;Golahat Cinema Hal Camp-3;250;1500;24;2;3;4;2;1;3;4;3;4;2;3;4;3;4;4;4;50
+Saidpur;2;10212001;13200212001;Golhat Bazar;Golhat Bazar;8;41;45;2;1;4;2;1;1;1;4;4;1;4;4;1;4;4;4;42
+Saidpur;2;10213001;13200213001;Golhat Adorsho Para;Adorsho Para;15;68;17;1;1;4;1;1;4;1;4;4;2;4;4;4;4;4;4;47
+Saidpur;2;10214001;13200214001;Ray Para;Ray Para;25;113;72;2;1;4;1;1;3;3;4;3;2;4;4;4;4;4;4;48
+Saidpur;2;10215001;13200215001;Shaltiya Para;Shaltiya Para;85;415;70;2;3;4;1;1;4;3;4;4;3;4;4;3;4;4;4;52
+Saidpur;2;10216001;13200216001;Jele Para;Jele Para;262;1212;37;1;1;4;1;1;1;3;1;4;1;4;1;1;4;4;4;36
+Saidpur;2;10217001;13200217001;South Para;Dokhin Para;112;634;75;2;1;4;1;1;2;1;4;2;2;4;3;4;4;4;4;43
+Saidpur;2;10217002;13200217002;South Para;Kisamotpara;20;82;30;2;1;4;1;1;2;1;4;2;2;4;3;4;4;4;4;43
+Saidpur;3;10301001;13200301001;Atiya Colony;Barkhamel Masjeed sonlogno;20;61;46;3;1;4;1;1;2;3;3;3;2;2;1;2;1;2;1;32
+Saidpur;3;10301002;13200301002;Atiya Colony;Imambara;50;280;70;3;1;4;1;1;3;3;4;4;4;4;1;2;1;2;3;41
+Saidpur;3;10302001;13200302001;LSD Colony;A- Camp;29;125;70;2;1;4;3;1;1;3;3;3;3;2;1;1;1;1;1;31
+Saidpur;3;10303001;13200303001;Rosulpur;Shutki Bari;9;60;35;3;3;4;3;1;1;3;3;3;2;2;1;1;1;2;1;34
+Saidpur;3;10303002;13200303002;Rosulpur;Pajmul Bosoty;12;65;15;3;3;4;1;1;1;3;3;3;3;2;1;1;1;2;1;33
+Saidpur;3;10303003;13200303003;Rosulpur;Haji Sajjad Bosoty;165;990;70;3;3;4;2;1;1;3;3;3;3;2;4;2;4;4;4;46
+Saidpur;3;10303004;13200303004;Rosulpur;Vola Imam;35;180;50;3;3;4;2;1;1;4;3;3;3;2;1;1;1;2;1;35
+Saidpur;3;10303005;13200303005;Rosulpur;Dr. Johirul Hok Bosoty;100;500;80;1;3;4;1;1;1;3;3;3;3;2;1;1;1;2;1;31
+Saidpur;3;10303006;13200303006;Rosulpur;A. Camp;91;409;70;2;1;4;3;1;1;3;3;3;3;2;1;1;1;2;1;32
+Saidpur;3;10303007;13200303007;Rosulpur;B Bazama;25;135;49;4;3;4;1;1;1;4;3;3;3;2;1;1;1;2;1;35
+Saidpur;3;10303008;13200303008;Rosulpur;Rowshan Mahanama;80;450;55;4;1;4;1;1;1;3;3;3;3;2;1;1;1;2;1;32
+Saidpur;3;10304001;13200304001;Islambagh;Boro Masjeed 7No. Camp;52;225;50;2;2;4;1;1;2;3;3;3;3;2;1;1;1;2;1;32
+Saidpur;3;10304002;13200304002;Islambagh;Kholasi Mahalla;100;450;45;2;1;4;1;1;2;2;3;3;3;2;1;1;1;2;1;30
+Saidpur;3;10304003;13200304003;Islambagh;Afjal Strit;150;675;40;3;3;4;2;1;2;2;4;3;3;2;1;1;1;2;1;35
+Saidpur;3;10304004;13200304004;Islambagh;Aslam Master Mahalla;75;337;40;3;3;4;2;1;2;2;3;3;3;2;1;1;1;2;1;34
+Saidpur;3;10304005;13200304005;Islambagh;Puraton Eidgha;150;675;40;2;3;4;2;1;2;3;3;3;3;2;1;1;1;2;1;34
+Saidpur;3;10304006;13200304006;Islambagh;Fidaly Math Sonlogno;30;135;40;2;2;4;2;1;2;2;3;3;3;2;1;1;1;2;1;32
+Saidpur;4;10401001;13200401001;Chad Nagar;Muchi Potti;43;232;79;1;1;4;1;1;1;2;4;2;1;2;4;4;4;4;4;40
+Saidpur;4;10401002;13200401002;Chad Nagar;Monir Pramanik;62;425;74;2;1;4;1;1;1;2;4;2;1;3;4;4;4;4;4;42
+Saidpur;4;10401003;13200401003;Chad Nagar;Muobarok Ali;25;140;73;2;1;4;2;2;1;2;4;2;1;3;4;4;4;4;4;44
+Saidpur;4;10402001;13200402001;Noyatelo;Balures Camp;70;390;49;2;1;4;1;1;1;1;4;3;1;2;1;1;1;2;1;27
+Saidpur;4;10402002;13200402002;Noyatelo;Dr. Sahan Road;55;295;100;1;3;4;2;1;2;2;4;3;2;3;4;4;4;4;4;47
+Saidpur;4;10402003;13200402003;Noyatelo;Kefatullah Road;50;275;100;1;3;4;2;1;3;2;4;2;3;3;4;4;4;4;4;48
+Saidpur;4;10402004;13200402004;Noyatelo;Ajijur Rahman Ar Bosote;55;375;48;1;3;4;2;1;1;2;4;1;1;3;4;3;4;4;4;42
+Saidpur;4;10402005;13200402005;Noyatelo;Faimula;56;375;25;1;1;4;1;1;1;2;4;1;1;3;4;4;4;4;4;40
+Saidpur;4;10403001;13200403001;Dolapara;Josim Bazar;50;250;20;3;3;4;2;3;4;4;3;3;2;3;4;4;4;4;4;54
+Saidpur;4;10403002;13200403002;Dolapara;Jhilpara;120;500;30;1;1;2;1;1;3;1;2;3;4;2;4;4;4;4;3;40
+Saidpur;4;10403003;13200403003;Dolapara;Panchonala Nodir Par;200;800;15;1;1;2;1;1;2;1;3;3;1;3;3;2;2;4;2;32
+Saidpur;4;10403004;13200403004;Dolapara;Chandiyar Mor;85;400;18;3;3;3;2;1;4;1;3;3;1;3;4;4;4;4;4;47
+Saidpur;4;10403005;13200403005;Dolapara;Koyanizpara Dolapara Bosoti;35;190;20;3;3;3;2;1;4;1;3;3;1;3;4;4;4;4;4;47
+Saidpur;4;10403006;13200403006;Dolapara;Koyanizpara Dolapara Bosoti-2;15;60;;3;3;3;2;1;4;1;3;3;1;3;4;4;4;4;4;47
+Saidpur;4;10403007;13200403007;Dolapara;Koyanizpara Dolapara Bosoti-3;35;190;;3;3;3;2;1;4;1;3;3;1;3;4;4;4;4;4;47
+Saidpur;4;10404001;13200404001;Koyanzpara;Koranij Para Koboresthan Road;56;280;42;2;1;3;2;1;2;1;2;3;2;1;2;1;2;4;3;32
+Saidpur;4;10404002;13200404002;Koyanzpara;Koyanaz Para Madrasar Pashe;46;230;47;3;1;4;1;1;2;1;2;2;2;3;2;3;4;3;4;38
+Saidpur;4;10404003;13200404003;Koyanzpara;Koyanaz Para Koboresthan Ar Purbo Deyalpara;35;175;33;1;2;3;1;1;1;1;2;3;2;2;2;1;3;4;3;32
+Saidpur;4;10404004;13200404004;Koyanzpara;Koyanaz para Koboresthan Ar Uttar Pashe;52;260;40;1;1;3;1;1;1;1;1;2;2;1;2;1;3;2;2;25
+Saidpur;4;10404005;13200404005;Koyanzpara;Korboresthan Ar Dokhin Pashe;58;290;38;1;1;3;1;1;2;1;1;2;1;2;3;2;1;4;4;30
+Saidpur;4;10404006;13200404006;Koyanzpara;Sunflower School Ar Pashe;75;375;50;1;1;4;1;2;1;2;3;1;2;1;1;2;3;4;4;33
+Saidpur;4;10404007;13200404007;Koyanzpara;Koyanaz Para High School Ar Pashe;50;250;60;1;3;4;1;2;3;2;3;2;3;4;3;3;4;4;4;46
+Saidpur;4;10404008;13200404008;Koyanzpara;Chand Nagar;78;390;65;1;1;4;3;2;1;3;3;3;3;3;1;4;4;4;4;44
+Saidpur;4;10404009;13200404009;Koyanzpara;Koranaz Para Madrasha Ar Pashe;75;375;58;3;1;3;1;1;1;1;2;1;2;1;2;3;3;4;4;33
+Saidpur;4;10404010;13200404010;Koyanzpara;Kolim Nagar Ar Pichon Ar Pashe;62;310;57;1;1;3;1;1;2;1;1;1;2;2;1;2;4;4;4;31
+Saidpur;5;10501001;13200501001;Mazar Road;Tofajjol Bosoty;50;260;70;2;1;3;1;1;2;3;2;3;3;1;2;2;2;2;1;31
+Saidpur;5;10501002;13200501002;Mazar Road;Md. Sahin Bosoty;80;367;70;2;2;3;2;1;2;3;2;3;1;3;2;2;2;2;1;33
+Saidpur;5;10501003;13200501003;Mazar Road;Molla Bosoty;85;383;80;2;2;3;2;1;2;3;2;3;1;3;2;2;2;2;1;33
+Saidpur;5;10501004;13200501004;Mazar Road;Unus Bosoty;25;158;80;2;1;4;3;1;2;1;2;3;3;2;2;2;2;2;1;33
+Saidpur;5;10502001;13200502001;Dhormopotti;Shri Kaluya Basfor;23;105;55;3;1;4;1;1;1;2;1;3;1;2;2;2;2;2;1;29
+Saidpur;5;10502002;13200502002;Dhormopotti;Ice Cream Factorer Shamne;30;135;70;2;1;3;1;1;1;3;2;1;1;2;2;2;2;2;1;27
+Saidpur;5;10503001;13200503001;Imampara;Munna Pan Dokan;600;2100;70;3;1;3;2;1;2;1;3;2;2;4;1;2;1;2;1;31
+Saidpur;5;10503002;13200503002;Imampara;Suntan Lain Bosoty;100;600;70;2;2;4;4;1;2;3;4;3;2;2;1;2;1;2;1;36
+Saidpur;5;10503003;13200503003;Imampara;Atikun Bilding Bosoty;30;150;70;2;1;3;4;1;2;4;4;3;2;2;1;2;1;2;1;35
+Saidpur;5;10503004;13200503004;Imampara;Nur Vai Bosoty;300;1300;55;1;1;4;1;1;1;3;3;3;1;1;1;2;1;2;1;27
+Saidpur;5;10503005;13200503005;Imampara;Abdul Korim Bosoty;300;1350;70;3;1;3;3;1;1;4;4;3;1;4;1;2;1;2;1;35
+Saidpur;5;10504001;13200504001;Radio Bari;Onirban Club Bosoty;80;400;45;3;2;4;1;1;1;2;3;3;1;2;2;2;1;2;1;31
+Saidpur;5;10505001;13200505001;Khajurbag Masjid Mahalla;Harun Villa;70;300;70;3;3;3;1;1;2;3;3;3;3;3;4;2;4;4;3;45
+Saidpur;5;10506001;13200506001;Munshipara;Dhakai Potti;28;125;35;3;1;4;2;1;2;2;2;3;2;2;4;2;4;4;4;42
+Saidpur;5;10506002;13200506002;Munshipara;Mohila Collage Ar Dan Pashe;32;140;35;3;1;4;1;1;2;2;2;3;2;2;2;2;3;2;3;35
+Saidpur;5;10506003;13200506003;Munshipara;Dorgipotti;30;140;35;3;1;4;2;1;2;2;2;3;2;2;4;2;4;4;4;42
+Saidpur;5;10506004;13200506004;Munshipara;Tatiyalen;40;185;35;2;2;4;2;1;2;2;2;3;2;2;4;2;4;4;4;42
+Saidpur;5;10506005;13200506005;Munshipara;Jalipara;28;125;100;2;1;4;2;1;2;2;2;3;2;2;4;2;4;4;4;41
+Saidpur;5;10507001;13200507001;Channagar Mahalla;Koboresthan Mor;15;66;40;2;1;4;1;1;2;2;2;3;2;2;4;1;4;4;4;39
+Saidpur;5;10507002;13200507002;Channagar Mahalla;Ismayel Farniture Ar Dokan;35;155;40;3;3;4;2;1;2;2;2;3;2;2;4;2;4;4;4;44
+Saidpur;5;10507003;13200507003;Channagar Mahalla;Hafejpara;75;330;47;3;3;4;2;1;2;2;2;3;2;2;4;2;4;4;4;44
+Saidpur;5;10507004;13200507004;Channagar Mahalla;Gulpotti;20;85;40;3;3;4;2;1;2;2;3;3;2;2;4;2;4;4;4;45
+Saidpur;5;10507005;13200507005;Channagar Mahalla;Vashani road;22;90;40;3;3;4;2;1;2;2;2;3;2;2;4;2;4;4;4;44
+Saidpur;6;10601001;13200601001;Uttar Niyamotpur;Dewany Para;238;1415;80;1;1;4;1;1;2;1;4;4;4;2;4;1;4;4;4;42
+Saidpur;6;10601002;13200601002;Uttar Niyamotpur;Hawpara;178;890;58;2;1;4;1;1;2;2;4;3;4;2;4;2;4;4;4;44
+Saidpur;6;10601003;13200601003;Uttar Niyamotpur;Jumna Para;415;2078;78;3;1;4;1;1;2;3;4;2;4;1;4;2;4;4;4;44
+Saidpur;6;10602001;13200602001;Dokhin Niyamotpur;Adani Mor;150;762;58;3;2;4;1;1;2;4;4;4;4;1;4;1;4;4;4;47
+Saidpur;6;10602002;13200602002;Dokhin Niyamotpur;Edupara;80;417;58;3;2;4;1;1;2;3;4;4;4;2;4;1;4;4;4;47
+Saidpur;6;10602003;13200602003;Dokhin Niyamotpur;Baniya Para;10;47;10;2;1;4;1;1;1;1;4;4;4;2;4;1;4;4;4;42
+Saidpur;6;10603001;13200603001;Shutki Arot;Shutki Arot Bosoty;250;747;49;2;3;4;1;1;4;4;4;4;4;2;4;2;4;4;4;51
+Saidpur;6;10604001;13200604001;Chamra Godown;Camp-1;187;730;48;2;1;4;1;1;1;1;4;3;3;2;1;1;1;1;1;28
+Saidpur;6;10604002;13200604002;Chamra Godown;Camp-2;104;620;48;2;1;4;1;1;1;1;4;3;3;2;1;1;1;1;1;28
+Saidpur;6;10605001;13200605001;Vhojopara;Vhojopara;25;125;40;2;1;4;1;1;3;2;4;3;4;2;4;4;4;4;4;47
+Saidpur;6;10605002;13200605002;Vhojopara;Niyamotpur Chamra Godown;20;108;45;3;3;4;1;1;3;2;4;3;4;3;4;4;4;4;4;51
+Saidpur;6;10606001;13200606001;Baniapara;Bongobondu Sarak;150;737;58;1;1;4;1;1;1;4;4;2;2;2;1;1;1;1;2;29
+Saidpur;6;10606002;13200606002;Baniapara;Baniya para;50;209;100;1;1;4;1;1;1;1;4;2;2;2;1;1;1;1;2;26
+Saidpur;6;10607001;13200607001;Sarkepara;Sarkepara;110;440;100;1;1;4;1;1;1;1;4;3;2;2;4;1;4;4;4;38
+Saidpur;6;10607002;13200607002;Sarkepara;Ekra Banglaadesh;30;150;20;1;3;4;1;1;1;2;4;3;2;2;4;1;4;4;4;41
+Saidpur;6;10608001;13200608001;Doctorpara;Nimbagan;170;350;60;2;1;4;1;1;1;4;4;3;2;2;4;1;4;4;4;42
+Saidpur;6;10608002;13200608002;Doctorpara;Rongpur Road, Bangalipur;60;310;45;1;1;4;1;1;1;1;4;3;2;2;4;1;1;3;2;32
+Saidpur;6;10609001;13200609001;Munshipara;Jorapukur;308;2111;48;1;1;4;1;1;1;4;4;3;2;2;4;1;1;3;1;34
+Saidpur;6;10609002;13200609002;Munshipara;Majar Camp;315;1852;48;1;1;4;1;1;1;1;4;3;2;1;1;1;1;3;1;27
+Saidpur;7;10701001;13200701001;Officer Colony;Ful Bagan Bosoty;79;389;49;2;3;4;2;1;3;1;2;3;2;3;2;3;2;2;2;37
+Saidpur;7;10701002;13200701002;Officer Colony;Khanka Elaka;35;135;30;4;3;3;2;1;2;1;3;3;3;4;2;3;2;2;2;40
+Saidpur;7;10702001;13200702001;Lichu Bagan;Lichu Bagan Basate;85;370;65;2;3;4;1;1;1;2;3;3;2;4;2;2;2;2;2;36
+Saidpur;7;10702002;13200702002;Lichu Bagan;Out House Camp;75;250;35;4;3;3;1;1;3;2;3;3;2;3;2;3;2;2;2;39
+Saidpur;7;10703001;13200703001;Tinabari;Jikrul Bastee;8;24;50;2;2;4;4;1;1;1;4;2;2;4;1;1;2;2;2;35
+Saidpur;7;10703002;13200703002;Tinabari;Panir Tank;26;138;50;2;1;4;1;1;2;1;4;2;2;3;1;1;2;2;2;31
+Saidpur;7;10703003;13200703003;Tinabari;Tina Bari Bosotee;63;308;70;2;1;4;1;1;1;1;4;3;3;3;4;2;4;4;4;42
+Saidpur;7;10704001;13200704001;Khankha Mahalla;Out House Camp;135;550;69;3;2;3;2;1;3;2;3;3;2;3;2;3;2;2;2;38
+Saidpur;7;10705001;13200705001;Sher Ali Para;Puraton Babu Para;65;292;70;3;1;4;4;1;1;1;4;3;2;3;3;2;2;2;2;38
+Saidpur;7;10706001;13200706001;Shirish Gach Mahalla;Officers Colony;68;298;38;4;3;4;4;1;1;4;4;3;1;1;1;1;1;2;2;37
+Saidpur;7;10707001;13200707001;Puraton Babupara;Vatu Para;52;217;200;4;3;4;4;1;1;4;4;3;2;4;4;4;4;4;4;54
+Saidpur;7;10707002;13200707002;Puraton Babupara;Akram Dokaner Pashe;78;362;150;2;3;4;4;1;1;4;4;3;2;4;4;4;4;4;4;52
+Saidpur;8;10801001;13200801001;Nichu Colony;Khatmot Ullah Sarak;105;560;52;4;2;4;2;1;3;4;4;2;3;2;1;1;1;2;1;37
+Saidpur;8;10801002;13200801002;Nichu Colony;Jahid Sarak;92;206;52;4;2;4;2;1;4;4;4;3;2;1;1;1;1;2;1;37
+Saidpur;8;10801003;13200801003;Nichu Colony;Abdur Rab Sarak;50;201;40;2;1;4;1;1;4;4;4;3;1;3;1;1;1;2;1;34
+Saidpur;8;10801004;13200801004;Nichu Colony;Vanga Quarter;510;2105;45;2;1;4;2;1;2;4;4;3;3;3;1;1;1;2;1;35
+Saidpur;8;10801005;13200801005;Nichu Colony;Chowdury para;349;1805;62;2;1;4;2;1;2;1;4;3;1;2;1;1;1;2;1;29
+Saidpur;8;10801006;13200801006;Nichu Colony;Eyahiya Doctor Sarak;30;197;52;3;2;4;2;1;4;4;4;3;1;3;1;1;1;2;1;37
+Saidpur;8;10802001;13200802001;Bimanbondhor Baniapara;Tacnical Collage Para;430;1870;24;2;1;4;3;1;4;2;4;4;4;4;4;3;3;4;4;51
+Saidpur;8;10802002;13200802002;Bimanbondhor Baniapara;Bimanbondhor New Munshipara;270;1380;51;2;1;4;1;1;4;3;4;3;2;4;4;4;3;4;4;48
+Saidpur;8;10803001;13200803001;Hatikhana Colony;Officers Colony;52;243;23;2;1;4;1;1;3;2;4;3;3;3;3;3;3;4;4;44
+Saidpur;8;10803002;13200803002;Hatikhana Colony;Hatikhana Camp;610;2450;44;2;3;4;3;1;2;3;3;3;1;4;3;3;3;2;2;42
+Saidpur;8;10804001;13200804001;Puraton Baduopara Dakbanlo Area;Dhopa Math;32;153;36;2;2;4;1;1;3;3;4;3;3;4;1;1;3;2;2;39
+Saidpur;8;10805001;13200805001;Bangalipur Nij Para (East);Bangalipur Nij Para;5;24;155;4;3;3;3;1;1;1;4;2;2;4;4;4;4;4;1;45
+Saidpur;8;10805002;13200805002;Bangalipur Nij Para (East);Dolapara;16;55;40;1;1;3;1;1;1;1;4;3;1;4;4;4;4;4;4;41
+Saidpur;8;10805003;13200805003;Bangalipur Nij Para (East);Neij Para;6;23;15;2;3;4;1;1;4;4;4;3;1;4;4;1;4;4;4;48
+Saidpur;8;10805004;13200805004;Bangalipur Nij Para (East);Mondiol Para;14;48;38;2;1;4;4;1;2;1;1;3;2;4;3;3;3;1;2;37
+Saidpur;8;10805005;13200805005;Bangalipur Nij Para (East);Sobuj Songo Math;193;868;107;4;3;4;3;1;3;4;3;3;3;3;1;2;1;2;1;41
+Saidpur;9;10901001;13200901001;Baniya Para;Baniyapara Ses Matha;40;165;90;2;1;4;2;1;3;3;3;2;2;3;3;2;4;4;4;43
+Saidpur;9;10901002;13200901002;Baniya Para;Baniyapara Sordar Para;25;130;80;2;1;4;1;1;3;3;3;2;3;3;4;2;4;4;4;44
+Saidpur;9;10901003;13200901003;Baniya Para;Baniyapara Abul Para;60;150;80;2;1;4;1;1;3;3;2;2;1;3;4;2;4;4;4;41
+Saidpur;9;10901004;13200901004;Baniya Para;Baniyapara Kaurapara;20;93;70;3;1;4;1;1;3;4;3;3;2;4;4;2;4;4;4;47
+Saidpur;9;10902001;13200902001;Telipara;Telipara Masjeed Mor;120;520;80;2;1;3;2;1;2;4;3;2;1;3;3;2;4;3;2;38
+Saidpur;9;10902002;13200902002;Telipara;Teliparar Ongso;60;250;80;2;1;3;1;1;3;4;4;3;1;3;4;3;4;4;4;45
+Saidpur;9;10903001;13200903001;Hatikhana;Korimpara;80;350;60;2;1;3;1;1;1;2;2;2;2;4;4;2;4;4;4;39
+Saidpur;9;10903002;13200903002;Hatikhana;Hatikhana Masjeed Sangsla;50;330;60;3;2;4;3;1;4;4;4;3;2;4;4;3;3;3;3;50
+Saidpur;9;10904001;13200904001;Machuyapara;Kali Mandir;20;90;120;1;1;4;1;1;3;3;3;4;4;4;4;3;4;4;4;48
+Saidpur;9;10904002;13200904002;Machuyapara;Hagurabari Machpara;200;925;95;1;1;4;1;1;2;3;3;3;4;4;4;3;4;4;4;46
+Saidpur;9;10905001;13200905001;Alhaj Munna Mahalla;Hatikhana Jakiya Sonlogno;20;95;25;1;1;4;1;1;3;4;3;2;4;4;4;3;4;4;4;47
+Saidpur;9;10905002;13200905002;Alhaj Munna Mahalla;Hatikhana Projapoty School Sonlogno;30;140;40;4;1;4;2;1;3;3;3;1;1;3;1;1;1;2;1;32
+Saidpur;9;10905003;13200905003;Alhaj Munna Mahalla;Hatikhana Badajuddain Road;40;165;50;4;1;4;1;1;4;2;4;3;1;3;1;3;1;1;1;35
+Saidpur;9;10907001;13200907001;Horijon Polli;Hatikhana Dompotti;20;70;80;2;1;4;1;1;1;4;3;3;1;4;2;1;2;2;1;33
+Saidpur;9;10907002;13200907002;Horijon Polli;Gawsiya Masjeed Bastee;58;270;50;1;1;4;1;1;2;1;3;3;4;4;1;2;1;2;1;32
+Saidpur;9;10908001;13200908001;Mohuyagach Tola Mahalla;Tin Matha Mor;220;1280;90;2;2;4;2;1;2;3;2;2;2;3;1;2;1;2;1;32
+Saidpur;9;10909001;13200909001;Gauciya Biscute Factory Mahalla;Bafaj Uddain Bicut Factory Mor;200;950;75;2;1;3;2;1;3;3;3;2;1;3;2;3;2;2;3;36
+Saidpur;10;11001001;13201001001;New Munshipara;Mridhapara;70;400;70;3;1;4;1;1;3;3;3;3;1;3;4;4;4;4;4;46
+Saidpur;10;11001002;13201001002;New Munshipara;Hawlader Para;92;460;75;2;3;4;3;1;3;4;2;3;1;4;1;3;2;2;3;41
+Saidpur;10;11001003;13201001003;New Munshipara;New Munshipara-2;110;650;70;4;3;4;4;1;4;4;4;4;1;4;4;4;4;4;4;57
+Saidpur;10;11001004;13201001004;New Munshipara;Kazi para Pani Tank Road;150;627;110;3;1;4;2;1;4;4;4;4;1;4;4;2;4;4;4;50
+Saidpur;10;11001005;13201001005;New Munshipara;Pani Tank Road Arshad Vai Var road;82;355;80;2;1;4;1;1;4;1;4;3;1;3;4;4;4;4;4;45
+Saidpur;10;11002001;13201002001;Kazihat (Partial Kazipara);Kazihat Pani Tank Road Pasxhim Pashe;115;478;75;1;1;4;1;1;4;1;4;3;1;4;4;4;4;4;4;45
+Saidpur;10;11002002;13201002002;Kazihat (Partial Kazipara);Kazihat, Kazi Muslim Main Road;197;1182;82;3;3;4;2;1;2;4;4;4;1;3;4;4;4;4;4;51
+Saidpur;10;11002003;13201002003;Kazihat (Partial Kazipara);Tagar Road Kazi Hat;95;485;67;3;3;4;2;1;4;3;4;3;1;4;4;4;4;4;4;52
+Saidpur;10;11003001;13201003001;Kazihat;Matur Danga Lotif Causilor Ar Bari Sonlogno;65;332;20;1;1;4;1;1;3;3;3;3;1;3;4;4;4;4;4;44
+Saidpur;10;11003002;13201003002;Kazihat;Karipara Kochupanate Bari;175;920;27;2;1;4;1;1;3;3;3;2;1;3;4;4;4;4;4;44
+Saidpur;10;11003003;13201003003;Kazihat;Kedar Para;110;615;75;3;1;4;1;1;3;4;4;3;1;3;4;4;4;4;4;48
+Saidpur;10;11003004;13201003004;Kazihat;Kazi Estrit Road Kari Para;172;895;75;3;1;4;2;1;4;4;4;3;1;3;4;4;4;4;4;50
+Saidpur;10;11003005;13201003005;Kazihat;Selim Kazi Bari Thake Khushir Ar babi;75;312;14;1;1;3;1;1;4;1;4;4;3;4;4;4;4;4;4;47
+Saidpur;10;11004001;13201004001;Kazihat (Partial Kazipara);Jofsipara;317;1585;73;3;1;4;1;1;4;4;3;4;3;4;4;4;4;4;4;52
+Saidpur;10;11004002;13201004002;Kazihat (Partial Kazipara);Kazipara Mahila Madrashar Pashe;47;242;30;2;1;4;3;1;4;4;4;4;3;4;4;4;4;4;4;54
+Saidpur;10;11004003;13201004003;Kazihat (Partial Kazipara);Lotif Comisonar Ar Bari Sonlogno;25;125;25;1;1;4;1;1;4;4;4;4;4;4;4;4;4;4;4;52
+Saidpur;10;11004004;13201004004;Kazihat (Partial Kazipara);Kazipara Kazi Estrat;300;1500;75;3;1;4;3;1;4;4;4;4;3;4;4;4;4;4;4;55
+Saidpur;10;11004005;13201004005;Kazihat (Partial Kazipara);Kazipara Kirpal Road;81;412;23;2;2;4;1;1;4;1;4;4;3;4;4;4;4;4;4;50
+Saidpur;10;11004006;13201004006;Kazihat (Partial Kazipara);Kazipara Poschimpara;527;2620;75;3;1;4;2;1;3;3;4;3;1;4;4;4;4;4;4;49
+Saidpur;10;11004007;13201004007;Kazihat (Partial Kazipara);Nurnagar Bosoti;32;150;35;2;1;4;2;1;3;3;3;2;1;4;4;4;4;4;4;46
+Saidpur;10;11005001;13201005001;Patwarypara;Mondir Mor;20;120;50;1;1;3;1;1;3;1;4;3;1;2;4;4;4;4;4;41
+Saidpur;10;11005002;13201005002;Patwarypara;Gonpara Eid Gh Math;115;375;20;1;1;3;1;1;2;1;2;3;1;4;4;4;2;2;3;35
+Saidpur;10;11005003;13201005003;Patwarypara;Poschim Patwarypara;355;1720;75;3;1;4;1;1;2;4;4;3;1;4;4;3;4;4;4;47
+Saidpur;10;11005004;13201005004;Patwarypara;Kalur Dokan Thake Haser Karom Projonto;72;357;75;4;4;4;1;1;3;1;4;3;2;4;4;4;4;4;4;51
+Saidpur;10;11005005;13201005005;Patwarypara;Chotka Bosoti;42;180;50;4;4;4;1;1;3;1;4;3;2;4;4;4;4;4;4;51
+Saidpur;11;11101001;13201101001;Goyalpara;Goyalpara-1;37;183;75;2;1;3;1;1;2;1;4;3;2;1;3;4;4;1;3;36
+Saidpur;11;11101002;13201101002;Goyalpara;Goyalpara-2;26;160;79;1;1;4;3;4;4;3;4;3;3;3;4;2;4;4;4;51
+Saidpur;11;11103001;13201103001;Notun Babu Para;Notun Babupara Haji Colony;6;32;68;2;1;4;1;1;2;1;3;2;1;3;4;1;4;4;4;38
+Saidpur;11;11103002;13201103002;Notun Babu Para;Kachary Math;150;765;40;1;1;4;2;3;4;4;4;3;3;1;3;3;3;2;4;45
+Saidpur;11;11103003;13201103003;Notun Babu Para;Durga Mil Camp;135;877;47;3;1;4;3;1;2;2;3;1;1;1;1;1;1;2;1;28
+Saidpur;11;11103004;13201103004;Notun Babu Para;Kobi Ahamed Sadi Road;5;24;14;2;2;4;2;1;1;3;4;1;1;3;4;1;4;1;3;37
+Saidpur;11;11103005;13201103005;Notun Babu Para;Kuli Moholla;62;395;75;2;1;4;4;1;2;3;3;1;1;3;1;2;1;2;1;32
+Saidpur;11;11104001;13201104001;Noyabazar;Dhormoshala Camp;56;325;47;2;1;4;1;1;2;3;3;1;1;3;1;1;1;2;1;28
+Saidpur;11;11104002;13201104002;Noyabazar;Noyabazar Eid Gha Math;100;620;66;2;1;4;2;1;3;2;4;2;2;3;3;4;4;4;4;45
+Saidpur;11;11104003;13201104003;Noyabazar;Noyabazarer Pashe;5;24;40;3;1;4;2;4;3;2;4;2;1;4;3;2;4;1;3;43
+Saidpur;11;11104004;13201104004;Noyabazar;Surki Moholla;150;929;47;2;1;4;2;1;1;4;4;1;1;1;1;1;1;3;1;29
+Saidpur;11;11105001;13201105001;Kundo Dangapara;Muchi Para;30;150;80;1;1;4;1;2;2;2;4;3;2;2;4;3;4;4;4;43
+Saidpur;11;11105002;13201105002;Kundo Dangapara;Dangapara;30;150;100;1;1;4;1;3;3;1;4;2;2;4;4;3;4;4;4;45
+Saidpur;11;11106001;13201106001;Kundopara (East);Purbo Para-1;5;30;48;1;1;4;1;3;3;1;4;4;3;3;4;2;4;4;4;46
+Saidpur;11;11106002;13201106002;Kundopara (East);Purbo Para-2;19;115;15;1;1;4;1;2;1;1;4;3;1;4;4;1;4;4;4;40
+Saidpur;11;11106003;13201106003;Kundopara (East);Purbo Para-3;50;200;4;1;1;1;1;2;2;1;4;3;1;3;4;2;2;2;2;32
+Saidpur;11;11106004;13201106004;Kundopara (East);Purbo Para-4;25;154;60;1;1;4;1;2;2;3;4;2;3;4;4;1;4;4;4;44
+Saidpur;11;11106005;13201106005;Kundopara (East);Purbo Para-5;32;192;38;1;1;4;1;3;2;3;3;3;3;3;4;2;4;4;4;45
+Saidpur;11;11107001;13201107001;Kundopara (Wast);Poschimpara-1;100;500;200;2;1;4;1;3;3;4;4;2;2;3;4;2;4;4;4;47
+Saidpur;11;11107002;13201107002;Kundopara (Wast);Poschimpara-2;60;360;200;1;1;4;4;3;3;1;4;3;3;3;4;3;4;4;4;49
+Saidpur;12;11201001;13201201001;Dorarpar Too Old Post Office;Notun Babu Para-1;58;247;40;3;1;3;2;1;2;1;2;4;2;3;4;3;4;4;4;43
+Saidpur;12;11202001;13201202001;GRP Police Laine;Police Lain Mahala;88;393;40;2;2;3;2;2;2;4;3;3;2;3;2;2;2;3;3;40
+Saidpur;12;11203001;13201203001;Asraf Ali Lane;Notun Babu Para Asraf Ali Lane;88;386;40;3;3;4;2;1;3;3;4;3;2;3;3;3;3;3;3;46
+Saidpur;12;11204001;13201204001;Bosniya Road To Kolim Mor;Lal Gate Hote Faire Service;300;1345;120;4;3;4;2;1;3;2;4;3;3;3;3;2;4;4;4;49
+Saidpur;12;11204002;13201204002;Bosniya Road To Kolim Mor;Lal Gate Hote Faire Service;300;1345;120;4;3;4;2;1;3;2;4;3;3;3;3;2;4;4;4;49
+Saidpur;12;11204003;13201204003;Lal Gate;Lal Gate;300;1345;120;4;3;4;2;1;3;2;4;3;3;3;3;2;4;4;4;49
+Saidpur;12;11205001;13201205001;Ismail Road;Notun Babu Para-2;38;178;100;1;1;4;1;1;2;2;4;3;2;4;2;1;2;2;3;35
+Saidpur;12;11206001;13201206001;Yakub Ali Road;Notun Babu Para-3;78;360;60;4;3;4;2;2;4;4;4;3;3;3;3;3;3;2;3;50
+Saidpur;12;11207001;13201207001;Boys Home Christian Para;Boys Home Christian Para;150;678;70;4;3;4;2;1;3;2;4;3;3;3;3;2;4;4;4;49
+Saidpur;12;11208001;13201208001;Hospital Mor;Khichuri Mahalla;120;578;60;2;3;4;3;1;3;1;4;3;1;3;1;1;2;2;1;35
+Saidpur;12;11208002;13201208002;Hospital Mor;Kolim Mor Hote Bar Office;175;782;100;4;1;4;2;1;4;4;4;4;4;4;4;2;4;4;3;53
+Saidpur;12;11208003;13201208003;Hospital Mor;Mathor Potti;55;270;100;1;1;4;1;1;1;1;2;3;1;1;1;1;2;2;1;24
+Saidpur;12;11208004;13201208004;Hospital Mor;Kamal Road Israyel Mil;30;139;60;2;3;4;2;1;1;1;4;3;1;3;1;1;2;2;1;32
+Saidpur;12;11209001;13201209001;96No. Quarter;96No. Quarter;90;420;150;2;1;4;1;1;2;1;4;2;2;3;2;1;2;2;2;32
+Saidpur;12;11210001;13201210001;GuardPara Rail Bazar;GuardPara Rail Bazar;460;2045;60;1;1;4;2;1;2;1;4;3;1;3;1;1;2;2;1;30
+Saidpur;12;11210002;13201210002;GuardPara Rail Bazar;Rail Bazar Hote Kholid Market;125;570;160;2;2;4;2;1;4;3;4;3;3;3;2;1;1;2;3;40
+Saidpur;12;11211001;13201211001;Najghor Camp;Najghor Camp;150;785;150;1;1;4;1;1;1;1;2;3;1;1;1;1;2;3;1;25
+Saidpur;12;11211002;13201211002;Najghor Camp;Kamal Road National Club;75;350;125;2;1;4;1;1;2;1;4;3;2;3;1;1;2;2;3;33
+Saidpur;13;11301001;13201301001;Fokirula Slum;School Bosoty;22;106;40;2;1;3;1;1;2;1;4;4;1;3;2;1;2;2;2;32
+Saidpur;13;11301002;13201301002;Fokirula Slum;Saheb Para Bosoty;16;72;47;2;3;4;3;1;2;3;4;4;2;2;2;1;2;2;2;39
+Saidpur;13;11302001;13201302001;Masjid Road Mahalla;Milton Sir Ar Pashe;19;86;32;2;1;3;1;1;1;2;2;3;1;2;2;1;2;2;2;28
+Saidpur;13;11303001;13201303001;Cantaan Road Mahall;Scot Vaban;5;30;25;2;2;4;2;1;2;3;3;3;2;3;2;2;2;2;2;37
+Saidpur;13;11303002;13201303002;Cantaan Road Mahall;Lichu Bagan;11;49;20;2;1;3;1;1;1;3;3;4;2;4;2;2;2;2;2;35
+Saidpur;13;11303003;13201303003;Cantaan Road Mahall;Dulal Cholabut Bosoty;20;115;30;2;3;3;2;1;2;3;3;3;2;3;2;2;2;2;2;37
+Saidpur;13;11304001;13201304001;Muktijoddha Road Mahalla;Muktijoddha School Ar Pashe;13;54;40;4;3;1;4;4;1;3;1;2;3;2;2;1;2;4;2;39
+Saidpur;13;11304002;13201304002;Muktijoddha Road Mahalla;Riksha Wala Bijly;99;449;45;2;1;4;2;1;3;3;4;4;2;2;2;2;2;2;2;38
+Saidpur;13;11305001;13201305001;Baytus Salam Road;1No. Camp;40;220;45;1;1;4;1;1;1;4;2;1;1;4;4;1;2;1;2;31
+Saidpur;13;11305002;13201305002;Baytus Salam Road;Bash Bari Botgach;250;1150;85;2;1;4;1;1;3;4;4;2;2;4;4;2;4;4;4;46
+Saidpur;13;11306001;13201306001;Slum Near Sher-E-Bangla School;Sher-e Bangla Road Bosoty;80;550;150;2;1;4;1;1;3;4;4;2;1;4;4;2;4;4;4;45
+Saidpur;13;11307001;13201307001;Khilkhana Road;Murad Au;120;710;95;2;1;4;1;1;2;4;4;2;1;4;2;2;2;2;2;36
+Saidpur;13;11307002;13201307002;Khilkhana Road;Munjur Sembar;100;580;95;1;1;4;1;1;1;4;3;2;1;4;2;2;2;2;2;33
+Saidpur;13;11308001;13201308001;Sadra Lane;Imam Mukhtar Bosoty;550;2297;100;3;1;4;1;4;2;4;4;3;1;2;4;2;4;4;4;47
+Saidpur;13;11308002;13201308002;Sadra Lane;Kalam Saheb Bosoty;300;1350;80;2;1;4;1;4;3;4;4;2;1;2;4;1;4;4;4;45
+Saidpur;13;11309001;13201309001;Saddam Mor;Eid Gha Math;1200;4800;85;2;3;4;1;1;4;4;4;2;1;2;4;2;4;4;4;46
+Saidpur;13;11309002;13201309002;Saddam Mor;Dakon Kolod;15;60;80;2;1;4;1;1;4;4;4;2;1;2;4;2;4;4;4;44
+Saidpur;13;11310001;13201310001;Police Lane;Dokan Hannan Bosoty;35;147;10;1;1;2;1;1;2;1;4;3;3;2;4;2;4;4;4;39
+Saidpur;13;11311001;13201311001;Jame Riyajbiya Slum;Al Faruk Bosoty;395;1777;70;2;3;4;1;1;1;3;4;3;1;2;1;2;1;2;1;32
+Saidpur;13;11311002;13201311002;Jame Riyajbiya Slum;Vala Bosoty;150;600;80;2;2;4;1;1;1;3;4;3;1;2;1;2;1;2;1;31
+Saidpur;14;11401001;13201401001;Bashbari-1;Kaderiya Khanka Road;20;90;70;3;1;4;1;1;1;3;4;3;1;2;4;1;4;4;4;41
+Saidpur;14;11401002;13201401002;Bashbari-1;Sorif Factorer Pashe;160;720;60;3;1;4;1;1;1;3;4;3;2;2;4;1;4;4;4;42
+Saidpur;14;11402001;13201402001;Bashbari-2;Gofur Basotee;23;119;50;1;1;4;1;1;1;2;4;3;1;1;2;1;3;2;2;30
+Saidpur;14;11402002;13201402002;Bashbari-2;Amin Mor;32;142;49;1;1;4;1;1;1;1;4;2;1;1;1;1;1;2;1;24
+Saidpur;14;11403001;13201403001;Bashbari-3;Katwalar Bari;22;100;48;2;1;4;1;1;1;4;4;3;2;1;4;1;4;4;4;41
+Saidpur;14;11403002;13201403002;Bashbari-3;Josna Counsilor Ar Barir Pashe;24;128;48;2;1;4;1;1;1;4;4;3;1;1;1;1;1;4;4;34
+Saidpur;14;11403003;13201403003;Bashbari-3;Sohid Abdus Kuddus Lain;25;125;70;1;1;4;1;1;1;4;4;3;1;1;4;1;4;4;4;39
+Saidpur;14;11403004;13201403004;Bashbari-3;Bash Khander;30;150;77;1;1;4;1;1;1;1;4;3;1;1;1;1;3;1;1;26
+Saidpur;14;11403005;13201403005;Bashbari-3;Samsul Hak Bari;23;130;42;2;1;4;1;1;1;4;4;3;2;1;4;1;4;4;4;41
+Saidpur;14;11403006;13201403006;Bashbari-3;Fahim Dokan;112;620;47;2;1;4;1;1;1;1;4;3;1;1;1;1;1;2;2;27
+Saidpur;14;11404001;13201404001;Bashbari-4;Shamim Bes Bari;7;32;26;2;1;4;2;1;1;4;4;3;2;2;2;1;3;1;2;35
+Saidpur;14;11404002;13201404002;Bashbari-4;Bashbari Camp (wabet);83;240;48;1;1;4;2;1;1;4;4;3;1;1;2;1;1;2;1;30
+Saidpur;14;11404003;13201404003;Bashbari-4;Bashbari Camp (Sohid Mistry);36;162;46;1;1;4;1;1;1;1;4;3;2;1;2;1;1;2;2;28
+Saidpur;14;11404004;13201404004;Bashbari-4;Counsilor Chataner Shamne;20;87;58;1;1;4;2;1;1;4;4;3;2;1;4;1;4;4;4;41
+Saidpur;15;11501001;13201501001;Koya Mistripara;Hanbatiya Khandah;60;263;50;3;1;4;1;1;2;4;4;3;3;3;2;2;2;2;1;38
+Saidpur;15;11501002;13201501002;Koya Mistripara;Koya Mistrypara Masjeed Ar Pashe;50;227;40;1;1;4;1;1;3;4;4;3;3;3;3;3;3;1;3;41
+Saidpur;15;11502001;13201502001;Mistrypara;Mistrypara Camp;14;60;44;1;1;4;2;1;2;2;3;3;4;4;4;1;4;4;4;44
+Saidpur;15;11502002;13201502002;Mistrypara;Mistrypara Mamay School;110;480;44;2;3;4;3;1;3;4;4;3;4;4;4;2;4;4;4;53
+Saidpur;15;11502003;13201502003;Mistrypara;Mistrypara Gofur Bastee;53;230;55;2;1;4;2;1;3;4;4;3;4;3;4;2;2;4;4;47
+Saidpur;15;11502004;13201502004;Mistrypara;Mistrypara Mandir Road;45;200;44;2;1;4;1;1;3;4;3;3;4;4;4;2;4;4;4;48
+Saidpur;15;11502005;13201502005;Mistrypara;Mistrypara Railway Quarter;21;90;55;2;1;4;2;1;4;1;4;3;4;4;3;2;2;2;1;40
+Saidpur;15;11502006;13201502006;Mistrypara;Ayub Bosoti;36;162;32;2;1;4;2;1;4;1;4;3;4;4;3;2;2;2;1;40
+Saidpur;15;11503001;13201503001;Nabinagar & American Camp;Nabinagar;85;412;44;2;1;4;1;1;1;3;4;3;4;4;4;4;4;2;4;46
+Saidpur;15;11503002;13201503002;Nabinagar & American Camp;American Camp;80;313;44;2;3;4;1;1;3;4;3;2;2;3;1;1;1;2;1;34
+Saidpur;15;11503003;13201503003;Nabinagar & American Camp;American Khankah;40;177;30;2;1;4;2;1;2;4;3;2;2;3;1;1;1;2;1;32
+Saidpur;15;11503004;13201503004;Nabinagar & American Camp;Pankhatoli Bosoti;20;86;30;2;1;4;2;1;2;4;3;2;2;3;1;1;1;2;1;32
+Saidpur;15;11504001;13201504001;Hindu para;Hindupara;40;182;35;3;2;4;1;1;3;4;4;3;3;3;4;4;4;4;4;51
+Saidpur;15;11505001;13201505001;Bosuniyapara;Pulerpar;25;117;44;1;1;4;1;1;2;4;4;3;2;3;4;4;4;4;4;46
+Saidpur;15;11505002;13201505002;Bosuniyapara;Bosuniyapara Masjeed Ar Pashe;23;106;44;1;1;4;1;1;2;4;4;1;4;3;4;4;4;4;4;46

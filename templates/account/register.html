@@ -1,0 +1,171 @@
+{% extends "account/_login_layout.html" %}
+
+{% block title %}
+    {{ context.organization.name }}
+{% endblock %}
+
+{% block content %}
+    <div class="container-fluid login-box">
+        {% include "shared/_plain_header.html" %}
+        <div class="span4" style="float:none; margin:100px auto auto;">
+        <fieldset>
+            <legend>Participant Registration Form</legend>
+            <form role="form" action="" method="post">
+                {% csrf_token %}
+                {% load widget_tweaks %}
+                {% with WIDGET_ERROR_CLASS='error' WIDGET_REQUIRED_CLASS='required' %}
+                    {% for field in form %}
+                        <div class="form-group">
+                            <label for="{{ field.label.lower }} {{ field.required }}">{{ field.label }}</label>
+                            {% render_field field|add_error_class:'input-validation-error' %}
+                            <span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="{{ field.name.lower }}"></span>
+                            {{ field.errors }}
+                        </div>
+                    {% endfor %}
+                {% endwith %}
+                <div class="clearfix">
+                    <input type="submit" name="submit" class="btn btn-primary pull-right" value="Register" />
+                </div>
+{#                <div class="social-or-login center clearfix">#}
+{#                    <span class="bigger-110">Or Register Using</span>#}
+{#                </div>#}
+{#                <div class="social-login center">#}
+{#                    <a class="btn btn-primary" onclick="facebook_signup()">#}
+{#                        <i class="icon-facebook"></i>#}
+{#                    </a>#}
+{#                    <a class="btn btn-info">#}
+{#                        <i class="icon-twitter"></i>#}
+{#                    </a>#}
+{#                    <a class="btn btn-danger">#}
+{#                        <i class="icon-google-plus"></i>#}
+{#                    </a>#}
+{#                </div>#}
+                <hr/>
+                <div class="form-group" style="padding-bottom: 20px;">
+                    Already registered? Login <a href="/account/login">here</a>.
+                </div>
+            </form>
+        </fieldset>
+        </div>
+    </div>
+{% endblock %}
+
+
+{% block scripts %}
+    <script src="{{STATIC_URL}}assets/js/jquery-2.0.3.min.js?v=1.1.0"></script>
+    <script src="{{BLACKWIDOW_LIBS_URL}}validation/jquery.validate.min.js?v=1.1.0"></script>
+    <script src="{{BLACKWIDOW_LIBS_URL}}validation/jquery.validate.unobtrusive.min.js?v=1.1.0"></script>
+    <script src="{{STATIC_URL}}overrides/js/form-validation.js?v=1.1.0"></script>
+
+
+    <script type="text/javascript">
+        function getCookie(name) {
+            var cookieValue = null;
+            if (document.cookie && document.cookie != '') {
+                var cookies = document.cookie.split(';');
+                for (var i = 0; i < cookies.length; i++) {
+                    var cookie = jQuery.trim(cookies[i]);
+                    // Does this cookie string begin with the name we want?
+                    if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+        var csrftoken = getCookie('csrftoken');
+        function csrfSafeMethod(method) {
+            // these HTTP methods do not require CSRF protection
+            return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+        }
+        function sameOrigin(url) {
+            // test that a given url is a same-origin URL
+            // url could be relative or scheme relative or absolute
+            var host = document.location.host; // host + port
+            var protocol = document.location.protocol;
+            var sr_origin = '//' + host;
+            var origin = protocol + sr_origin;
+            // Allow absolute or scheme relative URLs to same origin
+            return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+                    (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+                // or any other URL that isn't scheme relative or absolute i.e relative.
+                    !(/^(\/\/|http:|https:).*/.test(url));
+        }
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+                    // Send the token to same-origin, relative URLs only.
+                    // Send the token only if the method warrants CSRF protection
+                    // Using the CSRFToken value acquired earlier
+                    xhr.setRequestHeader("X-CSRFToken", csrftoken);
+                }
+            }
+        });
+    </script>
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '580967932000189',
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                xfbml      : true  // parse XFBML
+            });
+        };
+
+        (function(d){
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "https://connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        }(document));
+    </script>
+    <script>
+        function facebook_signup()
+        {
+            //console.log('moss');
+            FB.login(function(response) {
+                if (response.status === 'connected') {
+                    console.log('connected');
+                    testAPI(response.authResponse.accessToken);
+                }
+                else if (response.status === 'not_authorized') {
+                    console.log('not_authorized');
+                    //FB.login();
+                    //testAPI(response.authResponse.accessToken);
+                }
+                else {
+                    console.log('else');
+                    //FB.login();
+                    //testAPI(response.authResponse.accessToken);
+                }
+            },{scope:'email'});
+        }
+
+        function testAPI(authkey) {
+            FB.api('/me?fields=id,email,first_name,last_name', function(response) {
+                console.log('Good to see you, ' + response.id + '.');
+                console.log(response.email);
+                console.log(authkey);
+                $.ajax({
+                    type: "POST",
+                    url: "/account/facebook",
+                    dataType: "json",
+                    data: {
+                        'id' : response.id,
+                        'fname' : response.first_name,
+                        'lname' : response.last_name,
+                        'email' : response.email,
+                        'authkey' : authkey
+                    },
+                    success: function(msg) {
+                        if(msg['message'] === 'success');
+                            window.location = '/';
+                    }
+                });
+            });
+        }
+    </script>
+{% endblock %}
