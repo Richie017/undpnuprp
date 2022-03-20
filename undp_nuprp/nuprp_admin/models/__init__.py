@@ -48,6 +48,7 @@ from undp_nuprp.nuprp_admin.models.housing_development_fund.land_tenure_action_p
 from undp_nuprp.nuprp_admin.models.housing_development_fund.housing_development_fund import CommunityHousingDevelopmentFund
 from undp_nuprp.nuprp_admin.models.operation_and_maintenance.operation_and_maintenance import OperationAndMaintenanceFund
 from undp_nuprp.nuprp_admin.models.capacity_building.capacity_building import CapacityBuilding
+from undp_nuprp.nuprp_admin.models.output_title_link.output_title_link import OutputTitleLink
 from undp_nuprp.nuprp_admin.models.reports.grantees_follow_up.grantee_follow_up import GranteeFollowUp
 from undp_nuprp.nuprp_admin.models.reports.grantees_follow_up.education_grantee_follow_up import EducationGranteeFollowUp
 from undp_nuprp.nuprp_admin.models.reports.grantees_follow_up.business_grantee_follow_up import BusinessGranteeFollowUp
@@ -122,6 +123,7 @@ __all__ += ['LandTenureActionPlan']
 __all__ += ['CommunityHousingDevelopmentFund']
 __all__ += ['OperationAndMaintenanceFund']
 __all__ += ['CapacityBuilding']
+__all__ += ['OutputTitleLink']
 __all__ += ['EducationGranteeFollowUp']
 __all__ += ['BusinessGranteeFollowUp']
 __all__ += ['ApprovedGrants']

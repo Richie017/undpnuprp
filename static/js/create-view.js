@@ -731,7 +731,10 @@ $(function () {
             }
         });
 
+
 });
+
+
 
 // $(document).ready(function () {
 //     highlightMandatoryFields(); // highlight mandatory fields of given form

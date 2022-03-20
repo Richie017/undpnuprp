@@ -25,6 +25,8 @@ from undp_nuprp.survey.models.schedulers.survey_export_task_queue import SurveyE
 
 from django.http import HttpResponse
 
+import random
+
 EXPORT_FILE_ROOT = settings.EXPORT_FILE_ROOT
 STATIC_EXPORT_URL = settings.STATIC_EXPORT_URL
 S3_STATIC_ENABLED = settings.S3_STATIC_ENABLED
@@ -135,8 +137,10 @@ class SurveyDataExportReport(Report):
 
     @classmethod
     def build_instant(cls, divisions=None, cities=None, surveys=None, wards=None, domain=None, time_from=None,time_to=None):
-        SurveyResponseGeneratedFile.generate_excel_instants(
+        # return HttpResponse(str("gdhgdhgd"))
+        ran = ''.join(random.choices(string.ascii_uppercase + string.digits, k = 10))    
+        SurveyResponseGeneratedFile.generate_excel(
                     time_from=time_from, time_to=time_to, survey_id=surveys, year=None, month_name=None,
-                    wards=wards, filename="file"+str(surveys)+"div"+str(divisions)+str(time_from)+"-"+str(time_to), mode='w'
-                )
+                    wards=wards, filename=str(ran)+str(time_from)+"-"+str(time_to), mode='w'
+                ),
      

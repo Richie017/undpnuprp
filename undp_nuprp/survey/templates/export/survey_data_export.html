@@ -15,7 +15,7 @@
             <li>
                 <a id="instant-export-btn" name="download" class="manage-button btn">
                     <i class="fbx-rightnav-download"></i>
-                    <span id="download-text">&nbsp;Instant Export Small Range Surveys</span>
+                    <span id="download-text-instant">&nbsp;Instant Export Small Range Surveys</span>
                 </a>
             </li>
 
@@ -270,13 +270,13 @@
                 data: parameters,
                 dataType: 'json',
                 success: function (result) {
-                    if (result.success) {
+                    if (result) {
                         window.open(result.url, "_self");
                         $("#download").bind("click", function () {
                             window.open(result.url, "_self");
                         });
                         $("#report-view").html("<div class='alert alert-info' style='width:90%;margin:0 auto;text-align:center;font-size:20px;'>Your file is ready to download.</div>");
-                        document.getElementById("download-text").innerHTML = "Download";
+                        document.getElementById("download-text-instant").innerHTML = "Download";
                         $this.removeAttr("disabled");
                         $this.css('pointer-events', '');
                     } else {

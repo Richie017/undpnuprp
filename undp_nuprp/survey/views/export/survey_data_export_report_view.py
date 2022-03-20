@@ -1,4 +1,6 @@
 import datetime
+from re import T
+import string
 
 from django import forms
 from django.contrib.postgres.forms.ranges import DateRangeField
@@ -13,12 +15,15 @@ from blackwidow.engine.enums.view_action_enum import ViewActionEnum
 from blackwidow.engine.extensions.clock import Clock
 from blackwidow.engine.routers.database_router import BWDatabaseRouter
 from config.model_json_cache import MODEL_JASON_URL
+from undp_nuprp.survey.models.export.survey_response_generated_file import SurveyResponseGeneratedFile
 from undp_nuprp.reports.views.base.base_report import GenericReportView
 from undp_nuprp.survey.models.entity.survey import Survey
 from undp_nuprp.survey.models.export.survey_data_export_report import SurveyDataExportReport
 from undp_nuprp.survey.models.response.survey_response import SurveyResponse
 
 from django.http import HttpResponse
+
+import random
 
 __author__ = 'Ziaul Haque'
 
@@ -177,19 +182,20 @@ class SurveyDataExportReportView(GenericReportView):
         return survey_id, division_ids, city_ids, ward_ids, selected_wards, f_date, t_date, instant
 
     def get_json_response(self, content, **kwargs):
-        # return self.process_parameters()
         survey_id, division_ids, city_ids, ward_ids, selected_wards, f_date, t_date, instant = self.process_parameters()
-        # return HttpResponse(str(instant))
         if '0' in instant:
             report = SurveyDataExportReport. \
             build_report(divisions=division_ids, surveys=survey_id, cities=city_ids,
                          wards=ward_ids, domain=selected_wards, time_from=f_date, time_to=t_date)         
             return super(SurveyDataExportReportView, self).get_json_response(self.convert_context_to_json(report), **kwargs)
         else:
-            report = SurveyDataExportReport. \
-            build_instant(divisions=division_ids, surveys=survey_id, cities=city_ids,
-                         wards=ward_ids, domain=selected_wards, time_from=f_date, time_to=t_date)         
-            return super(SurveyDataExportReportView, self).get_json_response(self.convert_context_to_json(report), **kwargs)
-            return HttpResponse(str("gdhgdhgd"))
+            ran = ''.join(random.choices(string.ascii_uppercase + string.digits, k = 10))    
+            SurveyResponseGeneratedFile.generate_excel(
+                    time_from=f_date, time_to=t_date, survey_id=survey_id, year=None, month_name=None,
+                    wards=selected_wards, filename=str("survey")+str(ran)+str(f_date)+"-"+str(t_date), mode='w'
+                )
+             
+            return super(SurveyDataExportReportView, self).get_json_response(**kwargs)
+          
 
         

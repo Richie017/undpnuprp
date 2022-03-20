@@ -67,6 +67,9 @@
         <!--//.COL 6-->
         </form>
     </div>
+    <span style="display:none" id="title_contaner">
+
+    </span>
 {% endblock %}
 
 {% block childscripts2 %}
@@ -76,6 +79,32 @@
     <script src="{{ STATIC_URL }}js/create-view-map.js?v=1.1.0"></script>
 
     <script type="text/javascript">
+
+        $(document).ready(function(){
+            $('#title_contaner').html($('#id_title').html());
+            $('#id_title').html('<option value="" selected="selected">Select One</option>');
+        })
+
+        $('#id_output').change(function (e) {
+            $('#id_title').html('<option value="" selected="selected">Select One</option>');
+            var output = $(this).val();
+            $('#title_contaner').find('option').each(function(i,v){
+                var titleres = $(v).html().split('|')[0];
+                var outoutres = $(v).html().split('|')[1];
+                if(output==outoutres){
+                    $('#id_title').append('<option value="'+titleres+'">'+titleres+'</option>');
+                }
+            })
+            /*var request = $.ajax({
+                url: '?type=outpuvalue&format=json',
+                type: "GET",
+                data: {outputvalue : $(this).val() },
+                success:function(data)
+                {
+                    console.log(data)
+                    },
+                }); */
+        }); 
         function hideOthers (hide, $selector) {
             if (hide) {
                 $selector.hide(150);

@@ -1,11 +1,19 @@
 """
     Created by tareq on 9/22/19
 """
+
+from pydoc import plain
 from django import forms
+from django.db import transaction
+from django.urls.base import reverse
 
 from blackwidow.core.mixins.fieldmixin import GenericModelChoiceField
 from blackwidow.core.mixins.formmixin import GenericFormMixin
 from blackwidow.core.models import Geography
+from blackwidow.engine.enums.view_action_enum import ViewActionEnum
+from undp_nuprp.nuprp_admin.models.infrastructure_units.cdc_cluster import CDCCluster
+from undp_nuprp.nuprp_admin.models.output_title_link.output_title_link import OutputTitleLink
+from undp_nuprp.nuprp_admin.enums.capacity_building_output_enum import CapacityBuildingOutputEnum
 from undp_nuprp.nuprp_admin.enums.capacity_building_organization_enum import CapacityBuildingOrganizationEnum
 from undp_nuprp.nuprp_admin.enums.capacity_building_type_enum import CapacityBuildingTypeEnum
 from undp_nuprp.nuprp_admin.models.capacity_building.capacity_building import CapacityBuilding
@@ -14,8 +22,10 @@ __author__ = "Tareq"
 
 
 class CapacityBuildingForm(GenericFormMixin):
+
     def __init__(self, data=None, files=None, instance=None, prefix='', **kwargs):
         super(CapacityBuildingForm, self).__init__(data=data, files=files, instance=instance, prefix=prefix, **kwargs)
+
 
         self.fields['city'] = GenericModelChoiceField(
             required=False,
@@ -26,6 +36,18 @@ class CapacityBuildingForm(GenericFormMixin):
 
         self.fields['type_of_capacity_building'] = forms.IntegerField(
             widget=forms.Select(attrs={'class': 'select2'}, choices=CapacityBuildingTypeEnum.get_choice_list()))
+        
+        
+        # print(CapacityBuildingOutputEnum.get_output_choice_list_from_object(OutputTitleLink.objects.all().distinct('output')))
+        self.fields['output'] = forms.CharField(
+            widget=forms.Select(attrs={'class': 'select2'}, choices=CapacityBuildingOutputEnum.get_output_choice_list_from_object(OutputTitleLink.objects.all().distinct('output'))))
+        
+        
+        # print(CapacityBuildingOutputEnum.get_title_choice_list_from_object(OutputTitleLink.objects.all()))
+        self.fields['title'] = forms.CharField(
+            widget=forms.Select(attrs={'class': 'select2'}, choices=CapacityBuildingOutputEnum.get_title_choice_list_from_object(OutputTitleLink.objects.all())))
+
+
         self.fields['organized_by'] = forms.IntegerField(
             widget=forms.Select(attrs={'class': 'select2'}, choices=CapacityBuildingOrganizationEnum.get_choice_list()))
         self.fields['start_date'] = forms.DateField(
@@ -74,6 +96,9 @@ class CapacityBuildingForm(GenericFormMixin):
     def clean(self):
         cleaned_data = super(CapacityBuildingForm, self).clean()
 
+        print("Cleaned Data")
+        print(cleaned_data)
+
         type_of_capacity_building = cleaned_data['type_of_capacity_building']
         specify_if_other_type_of_cb = cleaned_data['specify_if_other_type_of_cb']
 
@@ -91,6 +116,14 @@ class CapacityBuildingForm(GenericFormMixin):
             self.add_error('specify_if_other_organizer', "This field should be empty.")
 
         return cleaned_data
+
+    # def save(self):
+    #     with transaction.atomic():
+    #         print("Save Capacity Building")
+    #         super(CapacityBuildingForm, self).save()
+    #         self.instance.save()
+    #         return self.instance
+
 
     class Meta(GenericFormMixin.Meta):
         model = CapacityBuilding

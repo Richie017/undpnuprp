@@ -60,11 +60,8 @@ class SurveyResponseGeneratedFile(DomainEntity):
 
     class Meta:
         app_label = 'survey'
-        
-    # My Edit
-    class Echo:
-        def write(self, value):
-            return value
+
+  
 
     @classmethod
     def default_order_by(cls):
@@ -714,7 +711,7 @@ class SurveyResponseGeneratedFile(DomainEntity):
                 _time_from = _time_to
                 _time_to = (datetime.fromtimestamp(_time_to / 1000) + timedelta(days=1)).timestamp() * 1000
                 skip_header = True
-
+            
             csv_file.close()
 
              # Uploading the exported file to AMAZON S3
@@ -782,6 +779,9 @@ class SurveyResponseGeneratedFile(DomainEntity):
                 export_file_object.save(using=MC_WRITE_DATABAE_NAME)
 
             return export_file_object
+
+
+
         except Exception as exp:
             ErrorLog.log(exp)
         return None
@@ -805,10 +805,21 @@ class SurveyResponseGeneratedFile(DomainEntity):
         :return:
         """
         
+
+        _timestamp_limit = time_to
+        _time_from = time_from
+        _time_to = int((datetime.fromtimestamp(_time_from / 1000) + timedelta(days=1)).timestamp()) * 1000
+
+        while _time_from <= _timestamp_limit:
+            print('Handling Survey:{0}, File Name:{1}, Date:{2}'.format(
+                survey_id, filename,
+                datetime.fromtimestamp(_time_from / 1000).date(),
+            ))
+
         report = cls.build_report(time_from=_time_from, time_to=_time_to, survey_id=survey_id, wards=wards)
         
 
-        echo_buffer = Echo
+        echo_buffer = Echo()
         csv_writer = csv.writer(echo_buffer)
 
         # By using a generator expression to write each row in the queryset
@@ -922,4 +933,8 @@ class SurveyResponseGeneratedFile(DomainEntity):
             existing_file.file = file_obj
             existing_file.save()
             bw_debug('...Prepared')
-    
+
+  # My Edit
+class Echo:
+    def write(self, value):
+        return value

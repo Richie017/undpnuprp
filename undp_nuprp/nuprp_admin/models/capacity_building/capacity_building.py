@@ -4,6 +4,7 @@
 from collections import OrderedDict
 
 from django.db import models
+from django.http import HttpResponse
 from django.utils.safestring import mark_safe
 
 from blackwidow.core.models.contracts.organizationdomainentity import OrganizationDomainEntity
@@ -68,6 +69,7 @@ class CapacityBuilding(OrganizationDomainEntity):
     venue = models.TextField(blank=True)
     remarks = models.TextField(blank=True)
 
+    
     class Meta:
         app_label = 'nuprp_admin'
 
@@ -83,9 +85,9 @@ class CapacityBuilding(OrganizationDomainEntity):
         if button == ViewActionEnum.AdvancedExport:
             return "Export"
         return button
-
+    
     def save(self, *args, organization=None, **kwargs):
-
+        
         self.total_male = self.number_of_male_cluster_leader + self.number_of_male_cluster_member + \
                           self.number_of_male_elected + self.number_of_male_town_staff + self.number_of_male_other
         self.total_female = self.number_of_female_cluster_leader + self.number_of_female_cluster_member + \
@@ -98,6 +100,8 @@ class CapacityBuilding(OrganizationDomainEntity):
         self.total_training_person_days = self.total_number_of_people * self.duration
 
         super(CapacityBuilding, self).save(*args, organization=organization, **kwargs)
+
+        
 
     @property
     def render_detail_title(self):
