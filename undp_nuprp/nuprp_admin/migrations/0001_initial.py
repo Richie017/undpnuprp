@@ -176,6 +176,7 @@ class Migration(migrations.Migration):
                 ('total_disabled', models.IntegerField(default=0)),
                 ('total_number_of_people', models.IntegerField(default=0)),
                 ('total_training_person_days', models.IntegerField(default=0)),
+                ('total_budget', models.DecimalField(decimal_places=2, default=0, max_digits=12)),
                 ('total_cost', models.DecimalField(decimal_places=2, default=0, max_digits=12)),
                 ('organized_by', models.SmallIntegerField(null=True)),
                 ('specify_if_other_organizer', models.TextField(blank=True)),

@@ -1,3 +1,4 @@
+
 from undp_nuprp.nuprp_admin.models.users.enumerator import Enumerator
 from undp_nuprp.nuprp_admin.models.alert_base.nuprp_alert_base import NuprpAlertBaseConfig
 from undp_nuprp.nuprp_admin.models.alerts.duplicate_id_alert import DuplcateIdAlert

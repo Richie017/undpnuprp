@@ -86,7 +86,7 @@ class CapacityBuildingForm(GenericFormMixin):
             'number_of_female_elected', 'number_of_disabled_elected', 'number_of_male_town_staff',
             'number_of_female_town_staff',
             'number_of_disabled_town_staff',
-            'number_of_male_other', 'number_of_female_other', 'number_of_disabled_other', 'specify_if_other',
+            'number_of_male_other', 'number_of_female_other', 'number_of_disabled_other', 'specify_if_other', 'total_budget',
             'total_cost', 'organized_by',
             'specify_if_other_organizer', 'venue'
         ]
@@ -138,7 +138,7 @@ class CapacityBuildingForm(GenericFormMixin):
             'number_of_male_elected',
             'number_of_female_elected', 'number_of_disabled_elected', 'number_of_male_town_staff',
             'number_of_female_town_staff', 'number_of_disabled_town_staff',
-            'number_of_male_other', 'number_of_female_other', 'number_of_disabled_other', 'specify_if_other',
+            'number_of_male_other', 'number_of_female_other', 'number_of_disabled_other', 'specify_if_other', 'total_budget',
             'total_cost', 'organized_by',
             'specify_if_other_organizer', 'venue', 'remarks'
         ]

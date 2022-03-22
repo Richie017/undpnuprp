@@ -23,7 +23,7 @@ __author__ = "Tareq"
           )
 class CapacityBuilding(OrganizationDomainEntity):
     title = models.CharField(max_length=255, blank=True)
-    output = models.CharField(max_length=255, blank=True)
+    output = models.CharField(max_length=555, blank=True)
     type_of_capacity_building = models.SmallIntegerField(null=True)
     specify_if_other_type_of_cb = models.TextField(blank=True)
 
@@ -62,6 +62,7 @@ class CapacityBuilding(OrganizationDomainEntity):
     total_number_of_people = models.IntegerField(default=0)
     total_training_person_days = models.IntegerField(default=0)
 
+    total_budget = models.DecimalField(decimal_places=2, max_digits=12, default=0)
     total_cost = models.DecimalField(decimal_places=2, max_digits=12, default=0)
     organized_by = models.SmallIntegerField(null=True)
     specify_if_other_organizer = models.TextField(blank=True)
@@ -101,7 +102,7 @@ class CapacityBuilding(OrganizationDomainEntity):
 
         super(CapacityBuilding, self).save(*args, organization=organization, **kwargs)
 
-        
+
 
     @property
     def render_detail_title(self):
@@ -165,6 +166,7 @@ class CapacityBuilding(OrganizationDomainEntity):
 
             'render_total_number_of_people:Total (male + female + person with disabilities) > Participants and Cost in the Reporting Month',
             'render_total_training_person_days:Total training person Days > Participants and Cost in the Reporting Month',
+            'render_total_budget:Total Budget(Tk.) > Participants and Cost in the Reporting Month',
             'render_total_cost:Total Cost (Tk.) > Participants and Cost in the Reporting Month',
             'render_organized_by:Organized by > Participants and Cost in the Reporting Month',
             'venue:Venue > Participants and Cost in the Reporting Month',
@@ -181,9 +183,15 @@ class CapacityBuilding(OrganizationDomainEntity):
     def render_total_training_person_days(self):
         return self.total_training_person_days if self.total_training_person_days else str(0)
 
+    # My Change
+    @property
+    def render_total_budget(self):
+        return self.total_budget if self.total_budget else str(0)
+
     @property
     def render_total_cost(self):
         return self.total_cost if self.total_cost else str(0)
+
 
     @property
     def render_total_male(self):
@@ -328,6 +336,7 @@ class CapacityBuilding(OrganizationDomainEntity):
         d['Participants and Cost in the Reporting Month']['Total (male + female + person with disabilities)'] = self.total_number_of_people
         d['Participants and Cost in the Reporting Month'][
             'Total training person Days'] = self.total_training_person_days
+        d['Participants and Cost in the Reporting Month']['Total Budget (Tk.)'] = self.total_budget  # My Edit
         d['Participants and Cost in the Reporting Month']['Total Cost (Tk.)'] = self.total_cost
         d['Participants and Cost in the Reporting Month']['Organized by'] = self.render_organized_by
         d['Participants and Cost in the Reporting Month']['venue'] = self.venue

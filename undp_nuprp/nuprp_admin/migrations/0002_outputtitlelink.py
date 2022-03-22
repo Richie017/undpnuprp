@@ -16,7 +16,7 @@ class Migration(migrations.Migration):
             name='OutputTitleLink',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('title', models.CharField(blank=True, max_length=255)),
+                ('title', models.CharField(blank=True, max_length=555)),
                 ('output', models.CharField(blank=True, max_length=255)),
             ],
         ),
