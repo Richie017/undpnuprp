@@ -1,0 +1,14 @@
+First changes filewise:(Link between output and title field in capacity building)
+1. Created capacity_building_output_enum 
+2. Changes in capacity_building_form file
+3. Created model and migration files for output_title_link
+4. Add OutputTitleLink model name in __init__ file for nuprp_admin models
+5. Modify capacitybuilding/create.html file for chained dropdown script
+
+Second changes filewise:(Create new field "total_budget" in capacity_building)
+1. Add field "total_budget" on required places in capacity_building model class and capacity_building_form form class
+2. Add a column on capacity_building table in database 
+
+Third change filewise:()
+1. Add an extra item "Other" in title list for each output (i.e. Output 1, Output 2, Output 3...) in capacity_building_output_enum
+2. Change in create.html file in CapacityBuilding directory

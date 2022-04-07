@@ -113,6 +113,13 @@ class CapacityBuildingOutputEnum(Enum):
             options.append(( bw_titleize(e.title), bw_titleize(e.title)+'|'+bw_titleize(e.output)))
         if include_null:
             options = [(None, empty_label)] + options
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 1")))
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 2")))
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 3")))
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 4")))
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 5")))
+        options.append(( bw_titleize("Other"), bw_titleize("Other")+'|'+bw_titleize("Output 6")))
+       
         return options
 
     def get_output_choice_from_object(object, include_null=True, empty_label='Select One'):

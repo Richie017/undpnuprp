@@ -105,6 +105,20 @@
                     },
                 }); */
         }); 
+
+        $('#id_title').change(function (e) {
+            if($(this).val()=='Other'){
+                var str = '<div id="title_others" class="control-group" style="display: block;"><label class="col-md-6 control-label" for="-specify_if_other_type_of_cb">Specify if other</label><div class="controls"><textarea cols="40" data-prefix="-" id="id_title_other" name="title" rows="10"></textarea><span class="field-validation-valid" data-valmsg-replace="true" data-valmsg-for="specify_if_other_type_of_cb"></span></div></div>'
+                $(this).attr("name","")
+                $('.fbz-product-content-left').eq(0).append(str)
+            }
+            else{
+                $(this).attr("name","title")
+                $('#title_others').remove()
+            }
+        });
+
+
         function hideOthers (hide, $selector) {
             if (hide) {
                 $selector.hide(150);
@@ -133,6 +147,7 @@
 
             hideOthers($type_of_capacity.val() < 100, $('#id_specify_if_other_type_of_cb').closest('.control-group'));
             hideOthers($organized_by.val() < 100, $('#id_specify_if_other_organizer').closest('.control-group'));
+            
 
             $type_of_capacity.on('change', function () {
                 hideOthers($(this).val() < 100, $('#id_specify_if_other_type_of_cb').closest('.control-group'));
