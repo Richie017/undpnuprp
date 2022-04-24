@@ -13,5 +13,6 @@ class SocioEconomicFundIndicatorEnum(Enum):
     GranteeMPIIndicatorEnum = 'mpi'
     AgeIndicatorEnum = 'age'
     ValueOfGranteeIndicatorEnum = 'value_of_grantee'
+    GranteeWardPrioritizationIndexEnum = 'grantee_ward_prioritization'
 
     DemoIndicator = 'demo'

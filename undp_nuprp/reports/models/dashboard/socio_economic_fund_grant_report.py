@@ -24,6 +24,9 @@ from undp_nuprp.reports.managers.socio_economic_fund.type_of_trades_of_apprentic
 from undp_nuprp.reports.managers.socio_economic_fund.value_of_grantee_indicator import \
     get_value_of_grantee_indicator_table_data, get_value_of_grantee_indicator_column_chart_data, \
     get_value_of_grantee_indicator_column_flat_data
+from undp_nuprp.reports.managers.socio_economic_fund.grantees_by_ward_prioritization_index import \
+    get_grantees_by_ward_prioritization_index_table_data
+
 from undp_nuprp.reports.models.base.base import Report
 from undp_nuprp.reports.utils.enums.graph_types import DataTableConfigEnum, GraphTypeEnum
 from undp_nuprp.reports.utils.enums.socio_economic_fund_indicator import SocioEconomicFundIndicatorEnum
@@ -95,3 +98,8 @@ class SocioEconomicFundGrantReport(Report):
                 return get_value_of_grantee_indicator_column_chart_data()
             if graph_type == DataTableConfigEnum.DataTable.value:
                 return get_value_of_grantee_indicator_table_data(towns=towns)
+
+
+        if indicator == SocioEconomicFundIndicatorEnum.GranteeWardPrioritizationIndexEnum.value:
+             if graph_type == DataTableConfigEnum.DataTable.value:
+                return get_grantees_by_ward_prioritization_index_table_data(towns=towns)

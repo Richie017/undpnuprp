@@ -99,7 +99,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -120,7 +120,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               }
           ],
@@ -296,7 +296,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building"
               },
               {
@@ -440,10 +440,24 @@ var menu_config = [
                               }
                           ],
                           "title": "SEF Tracker"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/grantees-by-wpi/",
+                          "order": 26,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "GranteesbyWPI"
+                              }
+                          ],
+                          "title": "Grantees by Ward Prioritization Index"
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 6,
                   "title": "Local Economy Livelihood and Financial Inclusion"
               },
               {
@@ -478,7 +492,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services"
               },
               {
@@ -487,7 +501,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/monthly-pmf-report/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -499,7 +513,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 13,
                   "title": "Project Monitoring Framework"
               },
               {
@@ -548,7 +562,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 8,
+                  "order": 17,
                   "title": "Field Monitoring"
               }
           ],
@@ -594,7 +608,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/enumerator-stats/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -606,7 +620,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 4,
                   "title": "Enumerator's Detail"
               },
               {
@@ -615,7 +629,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/household-surey-stats/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -627,7 +641,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 5,
                   "title": "Survey by Location"
               },
               {
@@ -636,7 +650,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/dynamic-survey-response/",
-                          "order": 1000,
+                          "order": 4,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -648,7 +662,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 7,
                   "title": "Dynamic Survey"
               }
           ],
@@ -675,6 +689,7 @@ var url_mapping = {
       "/eligible-education-early-marriage-grantee/": "Entry",
       "/enumerator-stats/": "Survey Admin",
       "/federation/": "Entry",
+      "/grantees-by-wpi/": "Entry",
       "/household-surey-stats/": "Survey Admin",
       "/household/": "Entry",
       "/meeting/": "Entry",

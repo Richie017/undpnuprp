@@ -162,5 +162,17 @@ socio_economic_fund_grant_indicators = [
                 'title': mark_safe('<b>Total value of grants distributed, by type of grant (by city)</b>')
             }
         ]
+    },
+
+      {
+        'name': 'Number of Grantees by Ward Prioritization Index',
+        'full_name': 'Number of Grantees by Ward Prioritization Index',
+        'indicator': SocioEconomicFundIndicatorEnum.GranteeWardPrioritizationIndexEnum.value,
+        'graph_types': [
+            {
+                'type': DataTableConfigEnum.DataTable.value,
+                'title': mark_safe('<b>Number of Grantees by Ward Prioritization Index</b>')
+            }
+        ]
     }
 ]

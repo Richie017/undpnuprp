@@ -113,7 +113,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -134,7 +134,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 8,
                   "title": "Housing Finance "
               },
               {
@@ -169,7 +169,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               },
               {
@@ -190,7 +190,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Household Information"
               },
               {
@@ -199,7 +199,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-location-map/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -213,7 +213,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/pg-member-location-map/",
-                          "order": 4,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -225,7 +225,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 11,
+                  "order": 19,
                   "title": "Maps"
               }
           ],

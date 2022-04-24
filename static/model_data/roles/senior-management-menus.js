@@ -113,7 +113,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -148,7 +148,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               },
               {
@@ -157,7 +157,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-location-map/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -171,7 +171,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/pg-member-location-map/",
-                          "order": 4,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -183,7 +183,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 11,
+                  "order": 19,
                   "title": "Maps"
               }
           ],
@@ -387,7 +387,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building"
               },
               {
@@ -741,10 +741,24 @@ var menu_config = [
                               }
                           ],
                           "title": "SEF Tracker"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/grantees-by-wpi/",
+                          "order": 26,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "GranteesbyWPI"
+                              }
+                          ],
+                          "title": "Grantees by Ward Prioritization Index"
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 6,
                   "title": "Local Economy Livelihood and Financial Inclusion"
               },
               {
@@ -807,7 +821,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 9,
                   "title": "Housing Finance"
               },
               {
@@ -856,7 +870,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services"
               },
               {
@@ -905,7 +919,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 11,
                   "title": "Target & Progress"
               },
               {
@@ -914,7 +928,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/monthly-pmf-report/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -926,7 +940,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 13,
                   "title": "Project Monitoring Framework"
               },
               {
@@ -975,7 +989,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Capacity Building"
               },
               {
@@ -1024,7 +1038,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 8,
+                  "order": 17,
                   "title": "Field Monitoring"
               }
           ],
@@ -1041,7 +1055,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/news/",
-                          "order": 1000,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1295,7 +1309,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/enumerator-stats/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1307,7 +1321,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 4,
                   "title": "Enumerator's Detail"
               },
               {
@@ -1316,7 +1330,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/household-surey-stats/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1328,7 +1342,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 5,
                   "title": "Survey by Location"
               },
               {
@@ -1337,7 +1351,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-data-export-report/",
-                          "order": 4,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1351,7 +1365,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-response-export/",
-                          "order": 100,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1363,7 +1377,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 6,
                   "title": "Download Data"
               },
               {
@@ -1372,7 +1386,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/dynamic-survey-response/",
-                          "order": 1000,
+                          "order": 4,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1384,7 +1398,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 7,
                   "title": "Dynamic Survey"
               },
               {
@@ -1393,7 +1407,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/export-queues/",
-                          "order": 15,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1405,7 +1419,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 30,
+                  "order": 9,
                   "title": "Import/Export"
               }
           ],
@@ -1436,7 +1450,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/nuprp-admin/",
-                          "order": 1,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1450,7 +1464,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/town-manager/",
-                          "order": 6,
+                          "order": 3,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1464,7 +1478,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/monitoring-officer/",
-                          "order": 7,
+                          "order": 4,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1477,22 +1491,22 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/federation-member/",
-                          "order": 8,
+                          "link": "/senior-management/",
+                          "order": 5,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "nuprp_admin",
-                                  "context": "FederationMember"
+                                  "context": "SeniorManagement"
                               }
                           ],
-                          "title": "Federation Member"
+                          "title": "Senior Management"
                       },
                       {
                           "hide": false,
                           "items": [],
                           "link": "/guest/",
-                          "order": 8,
+                          "order": 6,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1505,30 +1519,16 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/housing-infrastructure-expert/",
-                          "order": 8,
+                          "link": "/fa-expert/",
+                          "order": 7,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "nuprp_admin",
-                                  "context": "HIExpert"
+                                  "context": "FAExpert"
                               }
                           ],
-                          "title": "Housing & Infrastructure Expert"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/local-government-official/",
-                          "order": 8,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "LocalGovernmentOfficial"
-                              }
-                          ],
-                          "title": "Local Government Official"
+                          "title": "Finance & Administration Expert"
                       },
                       {
                           "hide": false,
@@ -1548,7 +1548,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/community-organizer/",
-                          "order": 8,
+                          "order": 9,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1561,22 +1561,36 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/socioeconomic-nutrition-expert/",
-                          "order": 8,
+                          "link": "/federation-member/",
+                          "order": 10,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "nuprp_admin",
-                                  "context": "SocioeconomicNutritionExpert"
+                                  "context": "FederationMember"
                               }
                           ],
-                          "title": "Socioeconomic & Nutrition Expert"
+                          "title": "Federation Member"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/local-government-official/",
+                          "order": 11,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "nuprp_admin",
+                                  "context": "LocalGovernmentOfficial"
+                              }
+                          ],
+                          "title": "Local Government Official"
                       },
                       {
                           "hide": false,
                           "items": [],
                           "link": "/community-facilitator/",
-                          "order": 8,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1589,36 +1603,8 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/senior-management/",
-                          "order": 8,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "SeniorManagement"
-                              }
-                          ],
-                          "title": "Senior Management"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/coordinator/",
-                          "order": 8,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "Coordinator"
-                              }
-                          ],
-                          "title": "Coordinator"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/donor/",
-                          "order": 8,
+                          "order": 13,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1631,22 +1617,50 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/fa-expert/",
-                          "order": 8,
+                          "link": "/socioeconomic-nutrition-expert/",
+                          "order": 14,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "nuprp_admin",
-                                  "context": "FAExpert"
+                                  "context": "SocioeconomicNutritionExpert"
                               }
                           ],
-                          "title": "Finance & Administration Expert"
+                          "title": "Socioeconomic & Nutrition Expert"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/housing-infrastructure-expert/",
+                          "order": 15,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "nuprp_admin",
+                                  "context": "HIExpert"
+                              }
+                          ],
+                          "title": "Housing & Infrastructure Expert"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/coordinator/",
+                          "order": 16,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "nuprp_admin",
+                                  "context": "Coordinator"
+                              }
+                          ],
+                          "title": "Coordinator"
                       },
                       {
                           "hide": false,
                           "items": [],
                           "link": "/enumerator/",
-                          "order": 9,
+                          "order": 17,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1660,7 +1674,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/system-admins/",
-                          "order": 100,
+                          "order": 18,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1681,7 +1695,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/field-device/",
-                          "order": 1000,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1693,7 +1707,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1,
+                  "order": 2,
                   "title": "Field Device"
               },
               {
@@ -1714,400 +1728,8 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Address"
-              },
-              {
-                  "items": [
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/geography-level/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "GeographyLevel"
-                              }
-                          ],
-                          "title": "Geography Level"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approval-process/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ApprovalProcess"
-                              }
-                          ],
-                          "title": "Approval Process"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/qr-codes/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "QRCode"
-                              }
-                          ],
-                          "title": "QR Code"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/model-to-json/",
-                          "order": 10,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ModelDataToJson"
-                              }
-                          ],
-                          "title": "Data to Json"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/roles/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "Role"
-                              }
-                          ],
-                          "title": "User Role"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/alert-email-template/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "AlertEmailTemplate"
-                              }
-                          ],
-                          "title": "Alert email template"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/assignment-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "AssignmentLog"
-                              }
-                          ],
-                          "title": "Assignment Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/model-form-generator/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ModelFormGenerator"
-                              }
-                          ],
-                          "title": "Generate Model Form"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/survey-export-task-monitor/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "survey",
-                                  "context": "SurveyExportTaskQueue"
-                              }
-                          ],
-                          "title": "Survey Export Task Monitor"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/role-filters/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "RoleFilter"
-                              }
-                          ],
-                          "title": "Role Filters"
-                      }
-                  ],
-                  "link": "",
-                  "order": 1000,
-                  "title": "Other Admin"
-              },
-              {
-                  "items": [
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/custom-fields/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "CustomField"
-                              }
-                          ],
-                          "title": "Custom Field"
-                      }
-                  ],
-                  "link": "",
-                  "order": 1000,
-                  "title": "Common"
-              },
-              {
-                  "items": [
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/activation-logs/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ActivationLog"
-                              }
-                          ],
-                          "title": "Activation Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/delete-logs/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "VisibleDeleteLog"
-                              }
-                          ],
-                          "title": "Delete Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/restore-logs/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "VisibleRestoreLog"
-                              }
-                          ],
-                          "title": "Restore Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/app-release-log/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "AppReleaseLog"
-                              }
-                          ],
-                          "title": "App Release Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/db-media-backup/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "dbmediabackup",
-                                  "context": "DBMediaBackupTaskQueue"
-                              }
-                          ],
-                          "title": "Backup Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/scg-report-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SavingsAndCreditReportlog"
-                              }
-                          ],
-                          "title": "SCG Report Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/pg-survey-update-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "PGSurveyUpdateLog"
-                              }
-                          ],
-                          "title": "PG Survey Update Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/api-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ApiCallLog"
-                              }
-                          ],
-                          "title": "Api Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/system-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ErrorLog"
-                              }
-                          ],
-                          "title": "Error Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/scheduler-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "SchedulerLog"
-                              }
-                          ],
-                          "title": "Scheduler Log"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/email-logs/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "EmailLog"
-                              }
-                          ],
-                          "title": "Email Log"
-                      }
-                  ],
-                  "link": "",
-                  "order": 1000,
-                  "title": "Logs"
-              },
-              {
-                  "items": [
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/export-files/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ExportFileObject"
-                              }
-                          ],
-                          "title": "Exported File"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/import-files/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ImportFileObject"
-                              }
-                          ],
-                          "title": "Data File"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/apk-files/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ApplicationFileObject"
-                              }
-                          ],
-                          "title": "APK File"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/import-queues/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ImportFileQueue"
-                              }
-                          ],
-                          "title": "Import Queue"
-                      }
-                  ],
-                  "link": "",
-                  "order": 1000,
-                  "title": "Import/Export"
               },
               {
                   "items": [
@@ -2183,8 +1805,400 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1000,
+                  "order": 4,
                   "title": "Descriptors"
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/custom-fields/",
+                          "order": 1,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "CustomField"
+                              }
+                          ],
+                          "title": "Custom Field"
+                      }
+                  ],
+                  "link": "",
+                  "order": 5,
+                  "title": "Common"
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/geography-level/",
+                          "order": 1,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "GeographyLevel"
+                              }
+                          ],
+                          "title": "Geography Level"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/approval-process/",
+                          "order": 2,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ApprovalProcess"
+                              }
+                          ],
+                          "title": "Approval Process"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/qr-codes/",
+                          "order": 3,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "QRCode"
+                              }
+                          ],
+                          "title": "QR Code"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/model-to-json/",
+                          "order": 6,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ModelDataToJson"
+                              }
+                          ],
+                          "title": "Data to Json"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/alert-email-template/",
+                          "order": 7,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AlertEmailTemplate"
+                              }
+                          ],
+                          "title": "Alert email template"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/survey-export-task-monitor/",
+                          "order": 8,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "survey",
+                                  "context": "SurveyExportTaskQueue"
+                              }
+                          ],
+                          "title": "Survey Export Task Monitor"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/role-filters/",
+                          "order": 9,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "RoleFilter"
+                              }
+                          ],
+                          "title": "Role Filters"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/assignment-logs/",
+                          "order": 10,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AssignmentLog"
+                              }
+                          ],
+                          "title": "Assignment Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/model-form-generator/",
+                          "order": 12,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ModelFormGenerator"
+                              }
+                          ],
+                          "title": "Generate Model Form"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/roles/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "Role"
+                              }
+                          ],
+                          "title": "User Role"
+                      }
+                  ],
+                  "link": "",
+                  "order": 6,
+                  "title": "Other Admin"
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/export-files/",
+                          "order": 2,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ExportFileObject"
+                              }
+                          ],
+                          "title": "Exported File"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/apk-files/",
+                          "order": 3,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ApplicationFileObject"
+                              }
+                          ],
+                          "title": "APK File"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/import-files/",
+                          "order": 4,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ImportFileObject"
+                              }
+                          ],
+                          "title": "Data File"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/import-queues/",
+                          "order": 5,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ImportFileQueue"
+                              }
+                          ],
+                          "title": "Import Queue"
+                      }
+                  ],
+                  "link": "",
+                  "order": 7,
+                  "title": "Import/Export"
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/restore-logs/",
+                          "order": 1,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "VisibleRestoreLog"
+                              }
+                          ],
+                          "title": "Restore Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/activation-logs/",
+                          "order": 2,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ActivationLog"
+                              }
+                          ],
+                          "title": "Activation Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/app-release-log/",
+                          "order": 3,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "nuprp_admin",
+                                  "context": "AppReleaseLog"
+                              }
+                          ],
+                          "title": "App Release Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/delete-logs/",
+                          "order": 4,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "VisibleDeleteLog"
+                              }
+                          ],
+                          "title": "Delete Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/api-logs/",
+                          "order": 5,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ApiCallLog"
+                              }
+                          ],
+                          "title": "Api Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/scheduler-logs/",
+                          "order": 6,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "SchedulerLog"
+                              }
+                          ],
+                          "title": "Scheduler Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/db-media-backup/",
+                          "order": 7,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "dbmediabackup",
+                                  "context": "DBMediaBackupTaskQueue"
+                              }
+                          ],
+                          "title": "Backup Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/scg-report-logs/",
+                          "order": 8,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "SavingsAndCreditReportlog"
+                              }
+                          ],
+                          "title": "SCG Report Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/system-logs/",
+                          "order": 9,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "ErrorLog"
+                              }
+                          ],
+                          "title": "Error Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/pg-survey-update-logs/",
+                          "order": 10,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "PGSurveyUpdateLog"
+                              }
+                          ],
+                          "title": "PG Survey Update Log"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/email-logs/",
+                          "order": 11,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "EmailLog"
+                              }
+                          ],
+                          "title": "Email Log"
+                      }
+                  ],
+                  "link": "",
+                  "order": 8,
+                  "title": "Logs"
               }
           ],
           "link": "/roles/",
@@ -2290,6 +2304,7 @@ var url_mapping = {
       "/field-device/": "Admin",
       "/file-upload-manager/": "Documents",
       "/geography-level/": "Admin",
+      "/grantees-by-wpi/": "Entry",
       "/guest/": "Admin",
       "/household-surey-stats/": "Survey Admin",
       "/household/": "Entry",

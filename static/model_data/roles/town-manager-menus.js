@@ -43,7 +43,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building "
               },
               {
@@ -134,7 +134,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -155,7 +155,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 8,
                   "title": "Housing Finance "
               },
               {
@@ -204,7 +204,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               },
               {
@@ -225,7 +225,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 12,
                   "title": "Training and Awareness Raising"
               },
               {
@@ -246,7 +246,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Household Information"
               },
               {
@@ -255,7 +255,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-location-map/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -269,7 +269,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/pg-member-location-map/",
-                          "order": 4,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -281,7 +281,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 11,
+                  "order": 19,
                   "title": "Maps"
               }
           ],
@@ -429,7 +429,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building"
               },
               {
@@ -755,10 +755,24 @@ var menu_config = [
                               }
                           ],
                           "title": "SEF Tracker"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/grantees-by-wpi/",
+                          "order": 26,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "GranteesbyWPI"
+                              }
+                          ],
+                          "title": "Grantees by Ward Prioritization Index"
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 6,
                   "title": "Local Economy Livelihood and Financial Inclusion"
               },
               {
@@ -821,7 +835,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 9,
                   "title": "Housing Finance"
               },
               {
@@ -870,7 +884,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services"
               },
               {
@@ -919,7 +933,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 11,
                   "title": "Target & Progress"
               },
               {
@@ -928,7 +942,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/monthly-pmf-report/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -940,7 +954,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 13,
                   "title": "Project Monitoring Framework"
               },
               {
@@ -989,7 +1003,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Capacity Building"
               },
               {
@@ -1038,7 +1052,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 8,
+                  "order": 17,
                   "title": "Field Monitoring"
               }
           ],
@@ -1119,7 +1133,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/enumerator-stats/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1131,7 +1145,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 4,
                   "title": "Enumerator's Detail"
               },
               {
@@ -1140,7 +1154,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/household-surey-stats/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1152,7 +1166,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 5,
                   "title": "Survey by Location"
               },
               {
@@ -1161,7 +1175,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/dynamic-survey-response/",
-                          "order": 1000,
+                          "order": 4,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1173,7 +1187,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 7,
                   "title": "Dynamic Survey"
               }
           ],
@@ -1190,7 +1204,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/town-manager/",
-                          "order": 6,
+                          "order": 3,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1204,7 +1218,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/enumerator/",
-                          "order": 9,
+                          "order": 17,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1239,7 +1253,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/approval-process/",
-                          "order": 1,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1253,7 +1267,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/qr-codes/",
-                          "order": 2,
+                          "order": 3,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1267,7 +1281,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/api-worker/",
-                          "order": 10,
+                          "order": 5,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1281,7 +1295,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/model-to-json/",
-                          "order": 10,
+                          "order": 6,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1294,22 +1308,50 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/model-form-generator/",
-                          "order": 1000,
+                          "link": "/alert-email-template/",
+                          "order": 7,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "core",
-                                  "context": "ModelFormGenerator"
+                                  "context": "AlertEmailTemplate"
                               }
                           ],
-                          "title": "Generate Model Form"
+                          "title": "Alert email template"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/survey-export-task-monitor/",
+                          "order": 8,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "survey",
+                                  "context": "SurveyExportTaskQueue"
+                              }
+                          ],
+                          "title": "Survey Export Task Monitor"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/role-filters/",
+                          "order": 9,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "RoleFilter"
+                              }
+                          ],
+                          "title": "Role Filters"
                       },
                       {
                           "hide": false,
                           "items": [],
                           "link": "/assignment-logs/",
-                          "order": 1000,
+                          "order": 10,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1323,7 +1365,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/menu-manager/",
-                          "order": 1000,
+                          "order": 11,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1336,50 +1378,22 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/alert-email-template/",
-                          "order": 1000,
+                          "link": "/model-form-generator/",
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "core",
-                                  "context": "AlertEmailTemplate"
+                                  "context": "ModelFormGenerator"
                               }
                           ],
-                          "title": "Alert email template"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/role-filters/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "RoleFilter"
-                              }
-                          ],
-                          "title": "Role Filters"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/survey-export-task-monitor/",
-                          "order": 1000,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "survey",
-                                  "context": "SurveyExportTaskQueue"
-                              }
-                          ],
-                          "title": "Survey Export Task Monitor"
+                          "title": "Generate Model Form"
                       },
                       {
                           "hide": false,
                           "items": [],
                           "link": "/roles/",
-                          "order": 1000,
+                          "order": 13,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1391,7 +1405,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1000,
+                  "order": 6,
                   "title": "Other Admin"
               },
               {
@@ -1400,7 +1414,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/export-files/",
-                          "order": 1000,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1412,7 +1426,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1000,
+                  "order": 7,
                   "title": "Import/Export"
               }
           ],
@@ -1478,6 +1492,7 @@ var url_mapping = {
       "/enumerator/": "Admin",
       "/export-files/": "Admin",
       "/geography-level/": "Admin",
+      "/grantees-by-wpi/": "Entry",
       "/hh-survey-indicators/": "Dashboard",
       "/household-surey-stats/": "Survey Admin",
       "/housing-development-fund/": "Entry",

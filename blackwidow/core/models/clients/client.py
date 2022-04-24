@@ -1,8 +1,9 @@
-from django.core.urlresolvers import reverse
+
 from django.db import models
 from django.db.models import Q
 from django.utils.safestring import mark_safe
 from rest_framework import serializers
+from django.core.urlresolvers import reverse
 
 from blackwidow.core.models.clients.client_meta import ClientMeta
 from blackwidow.core.models.common.contactaddress import ContactAddress
