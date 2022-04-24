@@ -32,7 +32,10 @@ class LoginView(FormView, JsonMixin):
     form_class = LoginForm
 
     def get_success_url(self):
+        print('success_url')
         success_url = self.request.POST.get('next') or self.request.GET.get('next')
+        print(success_url)
+        
         if not success_url:
             success_url = '/'
         return success_url
@@ -46,6 +49,7 @@ class LoginView(FormView, JsonMixin):
         return context
 
     def form_invalid(self, form):
+        print('Invalid')
         if self.is_json_request(self.request) or self.request.is_ajax():
             storage = messages.get_messages(self.request)
             return self.render_json_response({
