@@ -43,7 +43,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building "
               },
               {
@@ -134,7 +134,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -155,7 +155,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 8,
                   "title": "Housing Finance "
               },
               {
@@ -204,7 +204,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               },
               {
@@ -225,7 +225,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 12,
                   "title": "Training and Awareness Raising"
               },
               {
@@ -246,7 +246,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Household Information"
               },
               {
@@ -255,7 +255,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-location-map/",
-                          "order": 3,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -269,7 +269,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/pg-member-location-map/",
-                          "order": 4,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -281,7 +281,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 11,
+                  "order": 19,
                   "title": "Maps"
               }
           ],
@@ -485,7 +485,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building"
               },
               {
@@ -839,10 +839,24 @@ var menu_config = [
                               }
                           ],
                           "title": "SEF Tracker"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/grantees-by-wpi/",
+                          "order": 26,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "GranteesbyWPI"
+                              }
+                          ],
+                          "title": "Grantees by Ward Prioritization Index"
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 6,
                   "title": "Local Economy Livelihood and Financial Inclusion"
               },
               {
@@ -905,7 +919,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 9,
                   "title": "Housing Finance"
               },
               {
@@ -954,7 +968,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services"
               },
               {
@@ -1003,7 +1017,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 11,
                   "title": "Target & Progress"
               },
               {
@@ -1012,7 +1026,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/monthly-pmf-report/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1024,7 +1038,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 6,
+                  "order": 13,
                   "title": "Project Monitoring Framework"
               },
               {
@@ -1073,7 +1087,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 7,
+                  "order": 15,
                   "title": "Capacity Building"
               },
               {
@@ -1122,7 +1136,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 8,
+                  "order": 17,
                   "title": "Field Monitoring"
               }
           ],
@@ -1287,7 +1301,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/enumerator-stats/",
-                          "order": 2,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1299,7 +1313,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 4,
                   "title": "Enumerator's Detail"
               },
               {
@@ -1308,7 +1322,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-data-export-report/",
-                          "order": 4,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1322,7 +1336,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-response-export/",
-                          "order": 100,
+                          "order": 2,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1334,7 +1348,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 6,
                   "title": "Download Data"
               },
               {
@@ -1343,7 +1357,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/export-queues/",
-                          "order": 15,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1355,7 +1369,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 30,
+                  "order": 9,
                   "title": "Import/Export"
               }
           ],
@@ -1372,7 +1386,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/field-device/",
-                          "order": 1000,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1384,7 +1398,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1,
+                  "order": 2,
                   "title": "Field Device"
               },
               {
@@ -1461,7 +1475,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 1000,
+                  "order": 4,
                   "title": "Descriptors"
               }
           ],
@@ -1503,6 +1517,7 @@ var url_mapping = {
       "/export-queues/": "Survey Admin",
       "/federation/": "Entry",
       "/field-device/": "Admin",
+      "/grantees-by-wpi/": "Entry",
       "/hh-survey-indicators/": "Dashboard",
       "/household/": "Entry",
       "/housing-development-fund/": "Entry",

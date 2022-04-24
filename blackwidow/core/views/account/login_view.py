@@ -152,7 +152,7 @@ class LoginView(FormView, JsonMixin):
                         else:
                             logout(request)
                             request.session.flush()
-                            raise BWException('Your account has been disabled fhjkj')
+                            raise BWException('Your account has been disabled')
                     else:
                         raise BWException("User not found")
                     return self.form_valid(form, user=c_user)

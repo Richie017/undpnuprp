@@ -64,7 +64,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
               },
               {
@@ -99,7 +99,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services "
               }
           ],
@@ -430,7 +430,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 2,
+                  "order": 3,
                   "title": "Social Mobilization and Community Capacity Building"
               },
               {
@@ -602,10 +602,24 @@ var menu_config = [
                               }
                           ],
                           "title": "VAWG & Early Marriage Prevention Reporting"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/grantees-by-wpi/",
+                          "order": 26,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "GranteesbyWPI"
+                              }
+                          ],
+                          "title": "Grantees by Ward Prioritization Index"
                       }
                   ],
                   "link": "",
-                  "order": 3,
+                  "order": 6,
                   "title": "Local Economy Livelihood and Financial Inclusion"
               },
               {
@@ -626,7 +640,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 9,
                   "title": "Housing Finance"
               },
               {
@@ -661,7 +675,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 5,
+                  "order": 10,
                   "title": "Infrastructure & Urban Services"
               }
           ],
@@ -678,7 +692,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/survey-data-export-report/",
-                          "order": 4,
+                          "order": 1,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -690,7 +704,7 @@ var menu_config = [
                       }
                   ],
                   "link": "",
-                  "order": 4,
+                  "order": 6,
                   "title": "Download Data"
               }
           ],
@@ -713,6 +727,7 @@ var url_mapping = {
       "/eligible-business-grantee/": "Entry",
       "/eligible-education-drop-out-grantee/": "Entry",
       "/eligible-education-early-marriage-grantee/": "Entry",
+      "/grantees-by-wpi/": "Entry",
       "/housing-development-fund-loan-map/": "Interactive Map",
       "/housing-development-fund/": "Entry",
       "/meeting/": "Entry",
