@@ -104,7 +104,7 @@ class SEFNutritionGranteeForm(SEFGranteeForm):
         fields = [
             'pg_member_assigned_code', 'pg_member_name', 'age', 'name', 'grant_received_year',
             'grant_received_month', 'contact_number',
-            'relation_with_pg_member', 'is_still_pregnant_or_lactating', 'number_of_pregnancy_month',
+            'relation_with_pg_member', 'is_still_pregnant_or_lactating','ward_poverty_index','mpi', 'number_of_pregnancy_month',
             'age_of_child_in_month',
             'has_disability', 'difficulty_in_seeing', 'difficulty_in_hearing',
             'difficulty_in_walking', 'difficulty_in_remembering', 'difficulty_in_self_care',
@@ -119,7 +119,7 @@ class SEFNutritionGranteeForm(SEFGranteeForm):
         _group = super(SEFNutritionGranteeForm, cls).field_groups()
         _group['Grantee\'s Basic Information'] = \
             ['pg_member_assigned_code', 'pg_member_name', 'age', 'name', 'grant_received_year', 'grant_received_month',
-             'contact_number', 'relation_with_pg_member', 'is_still_pregnant_or_lactating', 'number_of_pregnancy_month',
+             'contact_number', 'relation_with_pg_member', 'is_still_pregnant_or_lactating','ward_poverty_index','mpi', 'number_of_pregnancy_month',
              'age_of_child_in_month', 'remarks']
 
         _group['Grantee\'s Disability Status'] = \

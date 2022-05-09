@@ -1025,6 +1025,8 @@ class Migration(migrations.Migration):
                 ('difficulty_in_communicating', models.CharField(blank=True, max_length=128, null=True)),
                 ('grantee_status', models.CharField(blank=True, max_length=20, null=True)),
                 ('is_still_pregnant_or_lactating', models.CharField(blank=True, max_length=128, null=True)),
+                ('ward_poverty_index', models.CharField(blank=True, max_length=128, null=True)),
+                ('mpi', models.CharField(blank=True, max_length=128, null=True)),
                 ('grant_received_year', models.CharField(blank=True, max_length=128, null=True)),
                 ('grant_received_month', models.CharField(blank=True, max_length=128, null=True)),
                 ('number_of_pregnancy_month', models.IntegerField(blank=True, null=True)),

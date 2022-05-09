@@ -14,6 +14,8 @@ from blackwidow.engine.enums.view_action_enum import ViewActionEnum
 from blackwidow.engine.extensions import Clock
 from undp_nuprp.approvals.models import SEFGrantee
 from undp_nuprp.nuprp_admin.models import PrimaryGroupMember
+from undp_nuprp.approvals.models.interactive_maps.output_one.word_prioritization_indicator import WordPrioritizationIndicator
+
 
 __author__ = 'Ziaul Haque'
 
@@ -24,6 +26,8 @@ __author__ = 'Ziaul Haque'
                 display_name='Nutrition Grantees', group_order=3, item_order=13))
 class SEFNutritionGrantee(SEFGrantee):
     is_still_pregnant_or_lactating = models.CharField(max_length=128, blank=True, null=True)
+    ward_poverty_index = models.CharField(max_length=128, blank=True, null=True)
+    mpi = models.CharField(max_length=128, blank=True, null=True)
     grant_received_year = models.CharField(max_length=128, blank=True, null=True)
     grant_received_month = models.CharField(max_length=128, blank=True, null=True)
     number_of_pregnancy_month = models.IntegerField(blank=True, null=True)
@@ -70,6 +74,8 @@ class SEFNutritionGrantee(SEFGrantee):
         basic_info['ward'] = self.ward
         basic_info['Relationship of grantee to PG member'] = self.relation_with_pg_member
         basic_info['Is the grantee still pregnant or lactating?'] = self.is_still_pregnant_or_lactating
+        basic_info['Ward Poverty Index'] = self.ward_poverty_index
+        basic_info['mpi'] = self.mpi
         basic_info[
             'Number of Months (Pregnancy)'] = self.number_of_pregnancy_month if self.number_of_pregnancy_month else "N/A"
         basic_info[
@@ -212,6 +218,7 @@ class SEFNutritionGrantee(SEFGrantee):
         for index, item in enumerate(items):
             pg_member_assigned_code = str(item['0']).strip()
             pg_member_name = str(item['1']).strip()
+            print(pg_member_name)
             age = cls.to_int(str(item['2']).strip(), None)
             name = str(item['3']).strip()
             grant_received_year = str(item['4']).strip()
@@ -219,9 +226,19 @@ class SEFNutritionGrantee(SEFGrantee):
             if grant_received_month in month_dict.keys():
                 grant_received_month = month_dict[grant_received_month]
             contact_number = str(item['6']).strip()
-
             try:
                 pg_member_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().id
+                ward_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().ward_id
+                poverty_score_index = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).first().poverty_index_score
+                from undp_nuprp.survey.models.indicators.pg_mpi_indicator.mpi_indicator import PGMPIIndicator
+                query = PGMPIIndicator.objects.filter(primary_group_member_id=pg_member_id).values('mpi_score')
+
+                totalMpi = 0
+                if query.count()>0:
+                    for j in query:
+                        totalMpi += j['mpi_score']
+                # poverty_score_index = 0
+                # totalMpi = 0
                 ward = pg_member_assigned_code[3:5] if len(pg_member_assigned_code) > 4 else ""
                 if len(ward) == 1:
                     ward = "0" + str(ward)
@@ -233,6 +250,9 @@ class SEFNutritionGrantee(SEFGrantee):
             is_still_pregnant_or_lactating = str(item['8']).strip().lower()
             if is_still_pregnant_or_lactating in pregnant_or_lactating_dict.keys():
                 is_still_pregnant_or_lactating = pregnant_or_lactating_dict[is_still_pregnant_or_lactating]
+
+            ward_poverty_index = poverty_score_index    
+            mpi = totalMpi    
 
             number_of_pregnancy_month = cls.to_int(str(item['9']).strip(), None)
             age_of_child_in_month = cls.to_int(str(item['10']).strip(), None)
@@ -294,6 +314,8 @@ class SEFNutritionGrantee(SEFGrantee):
                 ward=ward,
                 relation_with_pg_member=relation_with_pg_member,
                 is_still_pregnant_or_lactating=is_still_pregnant_or_lactating,
+                ward_poverty_index=ward_poverty_index,
+                mpi=mpi,
                 number_of_pregnancy_month=number_of_pregnancy_month,
                 age_of_child_in_month=age_of_child_in_month,
                 has_disability=has_disability,
@@ -354,7 +376,7 @@ class SEFNutritionGrantee(SEFGrantee):
         :return: list of strings (names of fields in details view)
         """
         return [
-            'is_still_pregnant_or_lactating', 'number_of_pregnancy_month:Number of Months (Pregnancy)',
+            'is_still_pregnant_or_lactating','ward_poverty_index','mpi', 'number_of_pregnancy_month:Number of Months (Pregnancy)',
             'age_of_child_in_month:Age of Child in Month (if Lactating)', 'difficulty_in_seeing',
             'difficulty_in_hearing', 'difficulty_in_walking', 'difficulty_in_remembering', 'has_disability',
             'difficulty_in_self_care', 'difficulty_in_communicating', 'render_total_installment', 'remarks',
