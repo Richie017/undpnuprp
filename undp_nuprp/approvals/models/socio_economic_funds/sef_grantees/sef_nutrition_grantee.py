@@ -17,7 +17,7 @@ from undp_nuprp.nuprp_admin.models import PrimaryGroupMember
 from undp_nuprp.approvals.models.interactive_maps.output_one.word_prioritization_indicator import WordPrioritizationIndicator
 
 
-__author__ = 'Ziaul Haque'
+__author__ = 'Md Shaheen Alam'
 
 
 @decorate(is_object_context, enable_import, enable_export,
@@ -228,7 +228,12 @@ class SEFNutritionGrantee(SEFGrantee):
             contact_number = str(item['6']).strip()
             try:
                 pg_member_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().id
-                ward_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().ward_id
+                _pgm_queryset = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code)
+                _pgm_queryset = PrimaryGroupMember.objects.filter(
+                assigned_code='0' + pg_member_assigned_code) if not _pgm_queryset else _pgm_queryset
+
+                _pgm = _pgm_queryset.last()
+                ward_id = _pgm.assigned_to.parent.address.geography.id
                 poverty_score_index = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).first().poverty_index_score
                 from undp_nuprp.survey.models.indicators.pg_mpi_indicator.mpi_indicator import PGMPIIndicator
                 query = PGMPIIndicator.objects.filter(primary_group_member_id=pg_member_id).values('mpi_score')

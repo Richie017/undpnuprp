@@ -73,10 +73,13 @@ class SEFBusinessGranteeForm(SEFGranteeForm):
     class Meta(GenericFormMixin.Meta):
         model = SEFBusinessGrantee
         fields = ('name', 'contact_number', 'age', 'gender', 'pg_member_assigned_code', 'pg_member_name',
-                  'relation_with_pg_member', 'grantee_status', 'has_disability', 'difficulty_in_seeing',
-                  'difficulty_in_hearing',
-                  'difficulty_in_walking', 'difficulty_in_remembering', 'difficulty_in_self_care',
-                  'difficulty_in_communicating', 'business_sector', "type_of_business", 'remarks')
+                  'relation_with_pg_member', 'grantee_status', 'has_disability', 'has_disability_family',
+                  'business_sector', "type_of_business", 'remarks')
+        # fields = ('name', 'contact_number', 'age', 'gender', 'pg_member_assigned_code', 'pg_member_name',
+        #           'relation_with_pg_member', 'grantee_status', 'has_disability', 'difficulty_in_seeing',
+        #           'difficulty_in_hearing',
+        #           'difficulty_in_walking', 'difficulty_in_remembering', 'difficulty_in_self_care',
+        #           'difficulty_in_communicating', 'business_sector', "type_of_business", 'remarks')
         widgets = {
             'remarks': forms.Textarea
         }
@@ -89,7 +92,9 @@ class SEFBusinessGranteeForm(SEFGranteeForm):
              'relation_with_pg_member', 'business_sector', 'type_of_business', 'grantee_status', 'remarks']
 
         _group['Grantee\'s Disability Status'] = \
-            ['has_disability', 'difficulty_in_seeing', 'difficulty_in_hearing', 'difficulty_in_walking',
-             'difficulty_in_remembering', 'difficulty_in_self_care', 'difficulty_in_communicating']
+            ['has_disability', 'has_disability_family']
+        # _group['Grantee\'s Disability Status'] = \
+        #     ['has_disability', 'difficulty_in_seeing', 'difficulty_in_hearing', 'difficulty_in_walking',
+        #      'difficulty_in_remembering', 'difficulty_in_self_care', 'difficulty_in_communicating']
 
         return _group

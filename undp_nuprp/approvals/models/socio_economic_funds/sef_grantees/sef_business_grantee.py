@@ -28,6 +28,7 @@ class SEFBusinessGrantee(SEFGrantee):
             "code", "name:Beneficiary Name", "render_contact_number", "render_PG_member_ID", "render_CDC",
             "render_city_corporation", "ward", "relation_with_pg_member:Relationship of grantee to PG member",
             "business_sector:Type of Business", "render_grant_disbursement_year",
+            "ward_poverty_index", "mpi"
             "date_created:Created On", "last_updated:Last Updated On"
         )
 
@@ -49,19 +50,24 @@ class SEFBusinessGrantee(SEFGrantee):
         basic_info['Relationship of grantee to PG member'] = self.relation_with_pg_member
         basic_info['type_of_business'] = self.business_sector
         basic_info['grant_disbursement_year'] = self.render_grant_disbursement_year
+        basic_info['grant_receiving_year'] = self.render_grant_receiving_year
+        basic_info['registration_year'] = self.render_registration_year
+        basic_info['ward_poverty_index'] = self.render_ward_poverty_index
+        basic_info['mpi'] = self.render_mpi
         basic_info['remarks'] = self.remarks
-
+        
         # disability status information
         disability_status_info = OrderedDict()
-        disability_status_info['Has disability'] = self.has_disability
-        disability_status_info['Difficulty seeing, even if wearing glasses'] = self.difficulty_in_seeing
-        disability_status_info['Difficulty hearing, even if using a hearing aid'] = self.difficulty_in_hearing
-        disability_status_info['Difficulty walking or climbing steps'] = self.difficulty_in_walking
-        disability_status_info['Difficulty remembering or concentrating'] = self.difficulty_in_remembering
-        disability_status_info['Difficulty with self-care such as washing all over or dressing'] = \
-            self.difficulty_in_self_care
-        disability_status_info['Difficulty communicating, for example understanding or being understood'] = \
-            self.difficulty_in_communicating
+        disability_status_info['Has disability-PG Member'] = self.has_disability
+        disability_status_info['Has disability-Family Mebmer'] = self.has_disability_family
+        # disability_status_info['Difficulty seeing, even if wearing glasses'] = self.difficulty_in_seeing
+        # disability_status_info['Difficulty hearing, even if using a hearing aid'] = self.difficulty_in_hearing
+        # disability_status_info['Difficulty walking or climbing steps'] = self.difficulty_in_walking
+        # disability_status_info['Difficulty remembering or concentrating'] = self.difficulty_in_remembering
+        # disability_status_info['Difficulty with self-care such as washing all over or dressing'] = \
+        #     self.difficulty_in_self_care
+        # disability_status_info['Difficulty communicating, for example understanding or being understood'] = \
+        #     self.difficulty_in_communicating
 
         # audit information
         audit_info = OrderedDict()
@@ -86,6 +92,7 @@ class SEFBusinessGrantee(SEFGrantee):
             "render_CDC_name", "render_CDC_ID", "render_city_corporation", "ward",
             "relation_with_pg_member:Relationship of grantee to PG member",
             "business_sector:Type of Business", "render_grant_disbursement_year",
+            "render_grant_receiving_year", "render_registration_year","render_ward_poverty_index","render_mpi",
             "date_created:Created On", "last_updated:Last Updated On"
         ]
 
@@ -98,7 +105,10 @@ class SEFBusinessGrantee(SEFGrantee):
         :return: list of strings (names of fields in details view)
         """
         return [
-            'age', 'gender', 'grantee_status', 'remarks', 'difficulty_in_seeing', 'difficulty_in_hearing',
-            'difficulty_in_walking', 'difficulty_in_remembering', 'difficulty_in_self_care',
-            'difficulty_in_communicating', 'render_total_installment', 'has_disability'
+            'age', 'gender', 'grantee_status', 'remarks', 'render_total_installment', 'has_disability','has_disability_family'
         ]
+        # return [
+        #     'age', 'gender', 'grantee_status', 'remarks', 'difficulty_in_seeing', 'difficulty_in_hearing',
+        #     'difficulty_in_walking', 'difficulty_in_remembering', 'difficulty_in_self_care',
+        #     'difficulty_in_communicating', 'render_total_installment', 'has_disability'
+        # ]

@@ -6,7 +6,7 @@ from undp_nuprp.approvals.models.sef_grant_disbursement.sef_grant_disbursement i
 from undp_nuprp.approvals.models.socio_economic_funds.sef_grantees.sef_business_grantee import SEFBusinessGrantee
 from undp_nuprp.nuprp_admin.models.descriptors.business_sector import BusinessSector
 
-__author__ = 'Shuvro'
+__author__ = 'Md Shaheen Alam'
 
 
 @decorate(is_object_context, enable_import, route(
@@ -40,14 +40,15 @@ class SEFBusinessGrantDisbursement(SEFGrantDisbursement):
         age = kwargs.get('age', None)
         gender = kwargs.get('gender', '')
         has_disability = kwargs.get('has_disability', '')
+        has_disability_family = kwargs.get('has_disability_family', '')
         contact_number = kwargs.get('contact_number', '')
         type_of_business = kwargs.get('type_of_business', '').strip()
-        difficulty_in_seeing = kwargs.get('difficulty_in_seeing', '')
-        difficulty_in_hearing = kwargs.get('difficulty_in_hearing', '')
-        difficulty_in_walking = kwargs.get('difficulty_in_walking', '')
-        difficulty_in_remembering = kwargs.get('difficulty_in_remembering', '')
-        difficulty_in_self_care = kwargs.get('difficulty_in_self_care', '')
-        difficulty_in_communicating = kwargs.get('difficulty_in_communicating', '')
+        # difficulty_in_seeing = kwargs.get('difficulty_in_seeing', '')
+        # difficulty_in_hearing = kwargs.get('difficulty_in_hearing', '')
+        # difficulty_in_walking = kwargs.get('difficulty_in_walking', '')
+        # difficulty_in_remembering = kwargs.get('difficulty_in_remembering', '')
+        # difficulty_in_self_care = kwargs.get('difficulty_in_self_care', '')
+        # difficulty_in_communicating = kwargs.get('difficulty_in_communicating', '')
         relationship_of_grantee = kwargs.get('relationship_of_grantee', '')
         grantee_status = kwargs.get('grantee_status', '')
         remarks = kwargs.get('remarks', '')
@@ -57,12 +58,13 @@ class SEFBusinessGrantDisbursement(SEFGrantDisbursement):
         sef_grant.gender = gender
         sef_grant.contact_number = contact_number
         sef_grant.has_disability = has_disability
-        sef_grant.difficulty_in_seeing = difficulty_in_seeing
-        sef_grant.difficulty_in_hearing = difficulty_in_hearing
-        sef_grant.difficulty_in_walking = difficulty_in_walking
-        sef_grant.difficulty_in_remembering = difficulty_in_remembering
-        sef_grant.difficulty_in_self_care = difficulty_in_self_care
-        sef_grant.difficulty_in_communicating = difficulty_in_communicating
+        sef_grant.has_disability_family = has_disability_family
+        # sef_grant.difficulty_in_seeing = difficulty_in_seeing
+        # sef_grant.difficulty_in_hearing = difficulty_in_hearing
+        # sef_grant.difficulty_in_walking = difficulty_in_walking
+        # sef_grant.difficulty_in_remembering = difficulty_in_remembering
+        # sef_grant.difficulty_in_self_care = difficulty_in_self_care
+        # sef_grant.difficulty_in_communicating = difficulty_in_communicating
         sef_grant.relationship_of_grantee = relationship_of_grantee
         sef_grant.grantee_status = grantee_status
         sef_grant.remarks = remarks

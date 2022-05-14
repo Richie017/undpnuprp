@@ -16,7 +16,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
 from undp_nuprp.approvals.models.sef_grant_disbursement.sef_grant_disbursement import SEFGrantDisbursement
 from undp_nuprp.reports.utils.thousand_separator import thousand_separator
 
-__author__ = 'Ziaul Haque'
+__author__ = 'Md Shaheen Alam'
 
 
 class SEFGrantee(OrganizationDomainEntity):
@@ -33,6 +33,7 @@ class SEFGrantee(OrganizationDomainEntity):
     remarks = models.CharField(max_length=300, blank=True, null=True)
     address = models.ForeignKey('core.ContactAddress', null=True)
     has_disability = models.CharField(max_length=3, blank=True, null=True)
+    has_disability_family = models.CharField(max_length=3, blank=True, null=True)
     difficulty_in_seeing = models.CharField(max_length=128, blank=True, null=True)
     difficulty_in_hearing = models.CharField(max_length=128, blank=True, null=True)
     difficulty_in_walking = models.CharField(max_length=128, blank=True, null=True)
@@ -119,6 +120,26 @@ class SEFGrantee(OrganizationDomainEntity):
         if self.sef_grant_disbursement and self.sef_grant_disbursement.grant_disbursement_year:
             return self.sef_grant_disbursement.grant_disbursement_year
         return "N/A"
+    @property
+    def render_grant_receiving_year(self):
+        if self.sef_grant_disbursement and self.sef_grant_disbursement.grant_receiving_year:
+            return self.sef_grant_disbursement.grant_receiving_year
+        return "N/A"
+    @property
+    def render_registration_year(self):
+        if self.sef_grant_disbursement and self.sef_grant_disbursement.registration_year:
+            return self.sef_grant_disbursement.registration_year
+        return "N/A"
+    @property
+    def render_ward_poverty_index(self):
+        if self.sef_grant_disbursement and self.sef_grant_disbursement.ward_poverty_index:
+            return self.sef_grant_disbursement.ward_poverty_index
+        return "N/A"
+    @property
+    def render_mpi(self):
+        if self.sef_grant_disbursement and self.sef_grant_disbursement.mpi:
+            return self.sef_grant_disbursement.mpi
+        return "N/A"
 
     @classmethod
     def order_by_grant_disbursement_year(cls):
@@ -131,7 +152,7 @@ class SEFGrantee(OrganizationDomainEntity):
     @classmethod
     def table_columns(cls):
         return (
-            "render_contact_number", "age", "gender", "has_disability"
+            "render_contact_number", "age", "gender", "has_disability","has_disability_family"
         )
 
     @classmethod

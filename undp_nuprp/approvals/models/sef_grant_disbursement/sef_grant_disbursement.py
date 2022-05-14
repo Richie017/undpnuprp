@@ -11,8 +11,9 @@ from blackwidow.engine.enums.tab_view_enum import ModelRelationType
 from blackwidow.engine.enums.view_action_enum import ViewActionEnum
 from undp_nuprp.approvals.models.sef_grant_disbursement.sef_grant_instalment import SEFGrantInstalment
 from undp_nuprp.nuprp_admin.models.infrastructure_units.primary_group_member import PrimaryGroupMember
+from undp_nuprp.approvals.models.interactive_maps.output_one.word_prioritization_indicator import WordPrioritizationIndicator
 
-__author__ = 'Shuvro'
+__author__ = 'Md Shaheen Alam'
 
 
 class SEFGrantDisbursement(OrganizationDomainEntity):
@@ -25,6 +26,10 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
     assigned_city = models.CharField(max_length=128, blank=True, null=True)
     instalments = models.ManyToManyField(SEFGrantInstalment)
     grant_disbursement_year = models.IntegerField(default=None, null=True)
+    grant_receiving_year = models.IntegerField(default=None, null=True)
+    registration_year = models.IntegerField(default=None, null=True)
+    ward_poverty_index = models.CharField(max_length=128, blank=True, null=True)
+    mpi = models.CharField(max_length=128, blank=True, null=True)
 
     class Meta:
         app_label = 'approvals'
@@ -68,6 +73,18 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
     @property
     def render_grant_disbursement_year(self):
         return self.grant_disbursement_year if self.grant_disbursement_year else "N/A"
+    @property
+    def render_grant_receiving_year(self):
+        return self.grant_receiving_year if self.grant_receiving_year else "N/A"
+    @property
+    def render_registration_year(self):
+        return self.registration_year if self.registration_year else "N/A"
+    @property
+    def render_ward_poverty_index(self):
+        return self.ward_poverty_index if self.ward_poverty_index else "N/A"
+    @property
+    def render_mpi(self):
+        return self.mpi if self.mpi else "N/A"
 
     # @property
     # def render_CDC(self):
@@ -79,7 +96,7 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
         return (
             "code", "name:Beneficiary Name", "account_number", "pg_member_assigned_code:PG member ID",
             "pg_member_name:PG member name", "render_linked_PG_member", "cdc:CDC", "assigned_city:City corporation",
-            "render_grant_disbursement_year", "date_created:Created On", "last_updated:Last Updated On"
+            "render_grant_disbursement_year","render_ward_poverty_index","render_mpi", "date_created:Created On", "last_updated:Last Updated On"
         )
 
     @classmethod
@@ -87,7 +104,7 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
         return [
             "code", "name:Beneficiary Name", "account_number", "pg_member_assigned_code:PG member ID",
             "pg_member_name:PG member name", "render_linked_PG_member", "cdc:CDC", "assigned_city:City corporation",
-            "render_grant_disbursement_year", "date_created:Created On", "last_updated:Last Updated On"
+            "render_grant_disbursement_year","render_grant_receiving_year","render_registration_year","render_ward_poverty_index","render_mpi", "date_created:Created On", "last_updated:Last Updated On"
         ]
 
     @property
@@ -122,24 +139,29 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
             ImporterColumnConfig(column=3, column_name='Account Number', ignore=False),
             ImporterColumnConfig(column=4, column_name='Disbursement Date', ignore=False),
             ImporterColumnConfig(column=5, column_name='Grant Disbursement Year', ignore=False),
-            ImporterColumnConfig(column=6, column_name='BDT', ignore=False),
-            ImporterColumnConfig(column=7, column_name='Status', ignore=False),
-            ImporterColumnConfig(column=8, column_name='Relationship of grantee to PG member', ignore=False),
-            ImporterColumnConfig(column=9, column_name='Type of Business', ignore=False),
-            ImporterColumnConfig(column=10, column_name='Type of trade', ignore=False),
-            ImporterColumnConfig(column=11, column_name='Age', ignore=False),
-            ImporterColumnConfig(column=12, column_name='Gender', ignore=False),
-            ImporterColumnConfig(column=13, column_name='Has disability', ignore=False),
-            ImporterColumnConfig(column=14, column_name='Difficulty in seeing', ignore=False),
-            ImporterColumnConfig(column=15, column_name='Difficulty in hearing', ignore=False),
-            ImporterColumnConfig(column=16, column_name='Difficulty in walking', ignore=False),
-            ImporterColumnConfig(column=17, column_name='Difficulty in remembering', ignore=False),
-            ImporterColumnConfig(column=18, column_name='Difficulty in self care', ignore=False),
-            ImporterColumnConfig(column=19, column_name='Difficulty in communicating', ignore=False),
-            ImporterColumnConfig(column=20, column_name='Which class?', ignore=False),
-            ImporterColumnConfig(column=21, column_name='Beneficiary Married?', ignore=False),
-            ImporterColumnConfig(column=22, column_name='Grantee status', ignore=False),
-            ImporterColumnConfig(column=23, column_name='Remarks', ignore=False),
+            ImporterColumnConfig(column=6, column_name='Grant Receiving Year', ignore=False),
+            ImporterColumnConfig(column=7, column_name='Registration Year', ignore=False),
+            ImporterColumnConfig(column=8, column_name='Ward Poverty Index', ignore=False),
+            ImporterColumnConfig(column=9, column_name='MPI', ignore=False),
+            ImporterColumnConfig(column=10, column_name='BDT', ignore=False),
+            ImporterColumnConfig(column=11, column_name='Status', ignore=False),
+            ImporterColumnConfig(column=12, column_name='Relationship of grantee to PG member', ignore=False),
+            ImporterColumnConfig(column=13, column_name='Type of Business', ignore=False),
+            ImporterColumnConfig(column=14, column_name='Type of trade', ignore=False),
+            ImporterColumnConfig(column=15, column_name='Age', ignore=False),
+            ImporterColumnConfig(column=16, column_name='Gender', ignore=False),
+            ImporterColumnConfig(column=17, column_name='Has Disability-PG member', ignore=False),
+            ImporterColumnConfig(column=18, column_name='Has Disability-Family Member', ignore=False),
+            # ImporterColumnConfig(column=15, column_name='Difficulty in seeing', ignore=False),
+            # ImporterColumnConfig(column=16, column_name='Difficulty in hearing', ignore=False),
+            # ImporterColumnConfig(column=17, column_name='Difficulty in walking', ignore=False),
+            # ImporterColumnConfig(column=18, column_name='Difficulty in remembering', ignore=False),
+            # ImporterColumnConfig(column=19, column_name='Difficulty in self care', ignore=False),
+            # ImporterColumnConfig(column=20, column_name='Difficulty in communicating', ignore=False),
+            ImporterColumnConfig(column=19, column_name='Which class?', ignore=False),
+            ImporterColumnConfig(column=20, column_name='Beneficiary Married?', ignore=False),
+            ImporterColumnConfig(column=21, column_name='Grantee status', ignore=False),
+            ImporterColumnConfig(column=22, column_name='Remarks', ignore=False),
         ]
         print(columns)
         for c in columns:
@@ -155,30 +177,61 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
     @classmethod
     def post_processing_import_completed(cls, items=[], user=None, organization=None, **kwargs):
         for index, item in enumerate(items):
+            print(item)
             pg_member_assigned_code = str(item['0']) if item['0'] else ''
             pg_member_name = str(item['1'])
             name = str(item['2'])
             account_number = str(item['3'])
             disbursement_date = item['4'].strftime("%d/%m/%Y") if type(item['4']) == datetime else item['4']
             grant_disbursement_year = str(item['5'])
-            disbursement_value = str(item['6'])
-            disbursement_status = str(item['7'])
-            relationship_of_grantee = str(item['8'])
-            type_of_business = str(item['9'])
-            type_of_trade = str(item['10'])
-            age = str(item['11'])
-            gender = str(item['12'])
-            has_disability = str(item['13'])
-            difficulty_in_seeing = str(item['14'])
-            difficulty_in_hearing = str(item['15'])
-            difficulty_in_walking = str(item['16'])
-            difficulty_in_remembering = str(item['17'])
-            difficulty_in_self_care = str(item['18'])
-            difficulty_in_communicating = str(item['19'])
-            education_level = str(item['20'])
-            marital_status = str(item['21'])
-            grantee_status = str(item['22'])
-            remarks = str(item['23'])
+            grant_receiving_year = str(item['6'])
+            registration_year = str(item['7'])
+            pg_member_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().id
+            _pgm_queryset = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code)
+            _pgm_queryset = PrimaryGroupMember.objects.filter(
+            assigned_code='0' + pg_member_assigned_code) if not _pgm_queryset else _pgm_queryset
+
+            _pgm = _pgm_queryset.last()
+            ward_id = _pgm.assigned_to.parent.address.geography.id
+            poverty_score_index = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).first().poverty_index_score
+            from undp_nuprp.survey.models.indicators.pg_mpi_indicator.mpi_indicator import PGMPIIndicator
+            query = PGMPIIndicator.objects.filter(primary_group_member_id=pg_member_id).values('mpi_score')
+
+            totalMpi = 0
+            if query.count()>0:
+                for j in query:
+                    totalMpi += j['mpi_score']
+
+            ward_poverty_index = poverty_score_index
+            mpi = totalMpi
+
+            disbursement_value = str(item['10'])
+            disbursement_status = str(item['11'])
+            relationship_of_grantee = str(item['12'])
+            type_of_business = str(item['13'])
+            type_of_trade = str(item['14'])
+            age = str(item['15'])
+            gender = str(item['16'])
+            has_disability = str(item['17'])
+            has_disability_family = str(item['18'])
+            from blackwidow.engine.routers.database_router import BWDatabaseRouter
+            from undp_nuprp.survey.models import QuestionResponse
+            question_responses = QuestionResponse.objects.using(BWDatabaseRouter.get_read_database_name()).filter(
+            section_response__survey_response__respondent_client_id=pg_member_id,question__question_code='4.4.9').values( 'answer_text')
+
+            for question_response in question_responses:
+                has_disability = question_response['answer_text']
+                has_disability_family = question_response['answer_text']
+            # difficulty_in_seeing = str(item['15'])
+            # difficulty_in_hearing = str(item['16'])
+            # difficulty_in_walking = str(item['17'])
+            # difficulty_in_remembering = str(item['18'])
+            # difficulty_in_self_care = str(item['19'])
+            # difficulty_in_communicating = str(item['20'])
+            education_level = str(item['19'])
+            marital_status = str(item['20'])
+            grantee_status = str(item['21'])
+            remarks = str(item['22'])
 
             if not pg_member_assigned_code:
                 continue
@@ -206,6 +259,11 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
             except Exception:
                 ErrorLog.log('Import file row {}, Invalid grant disbursement year'.format(index + 1))
                 continue
+            try:
+                grant_receiving_year = int(grant_receiving_year) if grant_receiving_year else None
+            except Exception:
+                ErrorLog.log('Import file row {}, Invalid grant receiving year'.format(index + 1))
+                continue
 
             with transaction.atomic():
                 sef_grant_disbursement = cls.objects.filter(pg_member=_pgm).first() if _pgm else \
@@ -228,8 +286,12 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
                 sef_grant_disbursement.assigned_city = _city
                 sef_grant_disbursement.cdc = _cdc
                 sef_grant_disbursement.grant_disbursement_year = grant_disbursement_year
+                sef_grant_disbursement.grant_receiving_year = grant_receiving_year
+                sef_grant_disbursement.registration_year = registration_year
+                sef_grant_disbursement.ward_poverty_index = ward_poverty_index
+                sef_grant_disbursement.mpi = mpi
                 sef_grant_disbursement.save()
-
+                print(grant_receiving_year)
                 _instalment = sef_grant_disbursement.instalments.filter(date=disbursement_date).first()
 
                 _instalment = _instalment if _instalment else SEFGrantInstalment()
@@ -251,15 +313,16 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
                     'gender': gender,
                     'contact_number': account_number,
                     'has_disability': has_disability,
+                    'has_disability_family': has_disability_family,
                     'relationship_of_grantee': relationship_of_grantee,
                     'type_of_business': type_of_business,
                     'type_of_trade': type_of_trade,
-                    'difficulty_in_seeing': difficulty_in_seeing,
-                    'difficulty_in_hearing': difficulty_in_hearing,
-                    'difficulty_in_walking': difficulty_in_walking,
-                    'difficulty_in_remembering': difficulty_in_remembering,
-                    'difficulty_in_self_care': difficulty_in_self_care,
-                    'difficulty_in_communicating': difficulty_in_communicating,
+                    # 'difficulty_in_seeing': difficulty_in_seeing,
+                    # 'difficulty_in_hearing': difficulty_in_hearing,
+                    # 'difficulty_in_walking': difficulty_in_walking,
+                    # 'difficulty_in_remembering': difficulty_in_remembering,
+                    # 'difficulty_in_self_care': difficulty_in_self_care,
+                    # 'difficulty_in_communicating': difficulty_in_communicating,
                     'education_level': education_level,
                     'marital_status': marital_status,
                     'grantee_status': grantee_status,
