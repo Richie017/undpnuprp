@@ -185,7 +185,10 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
             disbursement_date = item['4'].strftime("%d/%m/%Y") if type(item['4']) == datetime else item['4']
             grant_disbursement_year = str(item['5'])
             grant_receiving_year = str(item['6'])
-            registration_year = str(item['7'])
+            
+            date_created = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().date_created
+            from blackwidow.engine.extensions.clock import Clock
+            registration_year = Clock.get_user_local_time(date_created).strftime("%Y")
             pg_member_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().id
             _pgm_queryset = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code)
             _pgm_queryset = PrimaryGroupMember.objects.filter(

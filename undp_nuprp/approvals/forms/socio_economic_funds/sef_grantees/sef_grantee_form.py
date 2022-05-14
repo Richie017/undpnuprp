@@ -76,89 +76,89 @@ class SEFGranteeForm(GenericFormMixin):
             required=False
         )
 
-        # self.fields['difficulty_in_seeing'] = forms.CharField(
-        #     label='Difficulty seeing, even if wearing glasses',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_seeing'] = forms.CharField(
+            label='Difficulty seeing, even if wearing glasses',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
-        # self.fields['difficulty_in_hearing'] = forms.CharField(
-        #     label='Difficulty hearing, even if using a hearing aid',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_hearing'] = forms.CharField(
+            label='Difficulty hearing, even if using a hearing aid',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
-        # self.fields['difficulty_in_walking'] = forms.CharField(
-        #     label='Difficulty walking or climbing steps',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_walking'] = forms.CharField(
+            label='Difficulty walking or climbing steps',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
-        # self.fields['difficulty_in_remembering'] = forms.CharField(
-        #     label='Difficulty remembering or concentrating',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_remembering'] = forms.CharField(
+            label='Difficulty remembering or concentrating',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
-        # self.fields['difficulty_in_self_care'] = forms.CharField(
-        #     label='Difficulty with self-care such as washing all over or dressing',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_self_care'] = forms.CharField(
+            label='Difficulty with self-care such as washing all over or dressing',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
-        # self.fields['difficulty_in_communicating'] = forms.CharField(
-        #     label='Difficulty communicating, for example understanding or being understood',
-        #     widget=forms.Select(
-        #         attrs={'class': 'select2', 'width': 'width'},
-        #         choices=(
-        #             ('', 'Select One'),
-        #             ('No difficulty', 'No difficulty'),
-        #             ('Some difficulty', 'Some difficulty'),
-        #             ('A lot of difficulty', 'A lot of difficulty'),
-        #             ('Cannot do at all', 'Cannot do at all'),
-        #         )
-        #     )
-        # )
+        self.fields['difficulty_in_communicating'] = forms.CharField(
+            label='Difficulty communicating, for example understanding or being understood',
+            widget=forms.Select(
+                attrs={'class': 'select2', 'width': 'width'},
+                choices=(
+                    ('', 'Select One'),
+                    ('No difficulty', 'No difficulty'),
+                    ('Some difficulty', 'Some difficulty'),
+                    ('A lot of difficulty', 'A lot of difficulty'),
+                    ('Cannot do at all', 'Cannot do at all'),
+                )
+            )
+        )
 
         self.fields['pg_member_name'] = forms.CharField(label='PG member\'s name', required=True)
         # self.fields['difficulty_in_seeing'].required = False

@@ -73,7 +73,7 @@ class SEFBusinessGranteeForm(SEFGranteeForm):
     class Meta(GenericFormMixin.Meta):
         model = SEFBusinessGrantee
         fields = ('name', 'contact_number', 'age', 'gender', 'pg_member_assigned_code', 'pg_member_name',
-                  'relation_with_pg_member', 'grantee_status', 'has_disability', 'has_disability_family',
+                  'relation_with_pg_member', 'grantee_status', 'has_disability',
                   'business_sector', "type_of_business", 'remarks')
         # fields = ('name', 'contact_number', 'age', 'gender', 'pg_member_assigned_code', 'pg_member_name',
         #           'relation_with_pg_member', 'grantee_status', 'has_disability', 'difficulty_in_seeing',

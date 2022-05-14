@@ -33,7 +33,7 @@ class SEFGrantee(OrganizationDomainEntity):
     remarks = models.CharField(max_length=300, blank=True, null=True)
     address = models.ForeignKey('core.ContactAddress', null=True)
     has_disability = models.CharField(max_length=3, blank=True, null=True)
-    has_disability_family = models.CharField(max_length=3, blank=True, null=True)
+    # has_disability_family = models.CharField(max_length=3, blank=True, null=True)
     difficulty_in_seeing = models.CharField(max_length=128, blank=True, null=True)
     difficulty_in_hearing = models.CharField(max_length=128, blank=True, null=True)
     difficulty_in_walking = models.CharField(max_length=128, blank=True, null=True)
@@ -152,7 +152,7 @@ class SEFGrantee(OrganizationDomainEntity):
     @classmethod
     def table_columns(cls):
         return (
-            "render_contact_number", "age", "gender", "has_disability","has_disability_family"
+            "render_contact_number", "age", "gender", "has_disability"
         )
 
     @classmethod

@@ -59,7 +59,7 @@ class SEFBusinessGrantee(SEFGrantee):
         # disability status information
         disability_status_info = OrderedDict()
         disability_status_info['Has disability-PG Member'] = self.has_disability
-        disability_status_info['Has disability-Family Mebmer'] = self.has_disability_family
+        # disability_status_info['Has disability-Family Mebmer'] = self.has_disability_family
         # disability_status_info['Difficulty seeing, even if wearing glasses'] = self.difficulty_in_seeing
         # disability_status_info['Difficulty hearing, even if using a hearing aid'] = self.difficulty_in_hearing
         # disability_status_info['Difficulty walking or climbing steps'] = self.difficulty_in_walking
@@ -105,7 +105,7 @@ class SEFBusinessGrantee(SEFGrantee):
         :return: list of strings (names of fields in details view)
         """
         return [
-            'age', 'gender', 'grantee_status', 'remarks', 'render_total_installment', 'has_disability','has_disability_family'
+            'age', 'gender', 'grantee_status', 'remarks', 'render_total_installment', 'has_disability'
         ]
         # return [
         #     'age', 'gender', 'grantee_status', 'remarks', 'difficulty_in_seeing', 'difficulty_in_hearing',
