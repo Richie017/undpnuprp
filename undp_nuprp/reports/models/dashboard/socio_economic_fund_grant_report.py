@@ -25,7 +25,7 @@ from undp_nuprp.reports.managers.socio_economic_fund.value_of_grantee_indicator 
     get_value_of_grantee_indicator_table_data, get_value_of_grantee_indicator_column_chart_data, \
     get_value_of_grantee_indicator_column_flat_data
 from undp_nuprp.reports.managers.socio_economic_fund.grantees_by_ward_prioritization_index import \
-    get_grantees_by_ward_prioritization_index_table_data
+    get_grantees_by_ward_prioritization_index_table_data,get_grantees_by_ward_prioritization_index_chart_data
 
 from undp_nuprp.reports.models.base.base import Report
 from undp_nuprp.reports.utils.enums.graph_types import DataTableConfigEnum, GraphTypeEnum
@@ -103,3 +103,5 @@ class SocioEconomicFundGrantReport(Report):
         if indicator == SocioEconomicFundIndicatorEnum.GranteeWardPrioritizationIndexEnum.value:
              if graph_type == DataTableConfigEnum.DataTable.value:
                 return get_grantees_by_ward_prioritization_index_table_data(towns=towns)
+             if graph_type == GraphTypeEnum.ColumnChart.value:
+                return get_grantees_by_ward_prioritization_index_chart_data(towns=towns)

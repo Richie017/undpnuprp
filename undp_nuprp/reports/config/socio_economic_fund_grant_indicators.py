@@ -170,6 +170,12 @@ socio_economic_fund_grant_indicators = [
         'indicator': SocioEconomicFundIndicatorEnum.GranteeWardPrioritizationIndexEnum.value,
         'graph_types': [
             {
+                'type': GraphTypeEnum.ColumnChart.value,
+                'title': 'Total value of grants distributed, by Ward Prioritization Index (all cities)',
+                'y_axis_title': 'Total value of grants distributed',
+                'x_axis_title': 'Type of grant',
+                'point_format': '{series.name}: {point.y:.0f}'
+            },{
                 'type': DataTableConfigEnum.DataTable.value,
                 'title': mark_safe('<b>Number of Grantees by Ward Prioritization Index</b>')
             }

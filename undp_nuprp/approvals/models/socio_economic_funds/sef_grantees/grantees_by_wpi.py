@@ -11,7 +11,6 @@ from blackwidow.engine.enums.modules_enum import ModuleEnum
 from blackwidow.engine.enums.view_action_enum import ViewActionEnum
 from undp_nuprp.approvals.models import SEFGrantee
 
-
 @decorate(is_object_context,
           route(route='grantees-by-wpi', group='Local Economy Livelihood and Financial Inclusion',
                 module=ModuleEnum.Analysis,

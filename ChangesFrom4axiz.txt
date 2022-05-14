@@ -5,6 +5,16 @@ First changes filewise:(Link between output and title field in capacity building
 4. Add OutputTitleLink model name in __init__ file for nuprp_admin models
 5. Modify capacitybuilding/create.html file for chained dropdown script
 
+(Updated)
+capacity_building model file,
+capacity_building form file,
+create.html template file under capacity building,
+output_title_link model file
+output_title_link migration file
+capacity_building output_enum
+_init_ file under models folder
+
+
 Second changes filewise:(Create new field "total_budget" in capacity_building)
 1. Add field "total_budget" on required places in capacity_building model class and capacity_building_form form class
 2. Add a column on capacity_building table in database 
@@ -12,3 +22,27 @@ Second changes filewise:(Create new field "total_budget" in capacity_building)
 Third change filewise:()
 1. Add an extra item "Other" in title list for each output (i.e. Output 1, Output 2, Output 3...) in capacity_building_output_enum
 2. Change in create.html file in CapacityBuilding directory
+
+
+4th Change file list (Nutrition Grant Template):
+undp_nuprp\approvals\forms\socio_economic_funds\sef_grantees\sef_nutrition_grantee_form.py
+undp_nuprp\approvals\migrations\0001_initial.py
+undp_nuprp\approvals\models\socio_economic_funds\sef_grantees\sef_nutrition_grantee.py
+
+5th Change (Business Gratn Disbursment):
+undp_nuprp\approvals\forms\socio_economic_funds\sef_grantees\sef_business_grantee_form.py
+undp_nuprp\approvals\forms\socio_economic_funds\sef_grantees\sef_grantee_form.py
+undp_nuprp\approvals\models\sef_grant_disbursement\sef_business_grant_disbursement.py
+undp_nuprp\approvals\models\sef_grant_disbursement\sef_grant_disbursement.py
+undp_nuprp\approvals\models\socio_economic_funds\sef_grantees\sef_business_grantee.py
+undp_nuprp\approvals\models\socio_economic_funds\sef_grantees\sef_grantee.py
+undp_nuprp\approvals\models\socio_economic_funds\sef_grantees\sef_nutrition_grantee.py
+
+
+6th Change (Dashboard Ward Prioritization index):
+undp_nuprp\approvals\models\__init__.py
+undp_nuprp\reports\config\socio_economic_fund_grant_indicators.py
+undp_nuprp\reports\models\dashboard\socio_economic_fund_grant_report.py
+undp_nuprp\reports\utils\enums\socio_economic_fund_indicator.py
+undp_nuprp\approvals\models\socio_economic_funds\sef_grantees\grantees_by_wpi.py
+undp_nuprp\reports\managers\socio_economic_fund\grantees_by_ward_prioritization_index.py
