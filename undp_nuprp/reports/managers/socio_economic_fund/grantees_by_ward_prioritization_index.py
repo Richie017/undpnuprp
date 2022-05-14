@@ -29,7 +29,7 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
     print(wards)
     grantee_wise_installment_dict = OrderedDict()
     response_data = []
-    header_row = ['City Corporation/Pourosova', 'Ward No', 'Ward Prioritization Index',
+    header_row = ['City Corporation/Pourosova', 'Ward No', 'Ward Poverty Index',
     'No. of Total Grantee-SEF', 'No. of Total Grantee-Nutrition', 'No. of Grantee-SIF', 'No. of Grantee-CRMIF',
     'Total Grantee']
     grantee_wise_installment_dict['total_sef'] = 0
@@ -81,10 +81,14 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
         for n in ng:
             if n['ward']:
                 nTotal = n['no_of_nutrition_grantees__sum']
-                total += n['no_of_business_grantee__sum']
-                total += n['no_of_apprenticeship_grantee__sum']
-                total += n['no_of_education_dropout_grantee__sum']
-                total += n['no_education_early_marriage_grantee__sum']
+                if n['no_of_business_grantee__sum']:
+                    total += n['no_of_business_grantee__sum']
+                if n['no_of_apprenticeship_grantee__sum']:
+                    total += n['no_of_apprenticeship_grantee__sum']
+                if n['no_of_education_dropout_grantee__sum']:
+                    total += n['no_of_education_dropout_grantee__sum']
+                if n['no_education_early_marriage_grantee__sum']:
+                    total += n['no_education_early_marriage_grantee__sum']
         total_no_of_grantee_sef = total
 
         total_no_of_nutrition_grantees = nTotal
@@ -103,7 +107,9 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
         tSIF = 0
         for q in queryset:
             if q['number_of_total_pg_member_beneficiary__sum']:
-                tSIF = q['number_of_total_pg_member_beneficiary__sum']+q['number_of_total_non_pg_member_beneficiary__sum']
+                tSIF = q['number_of_total_pg_member_beneficiary__sum']
+            if q['number_of_total_non_pg_member_beneficiary__sum']:
+                tSIF += q['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_sif_grantees = tSIF
      
         ## No Of grantees CRMIF
@@ -118,13 +124,16 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
         # print(queryset)
         tCRMIF = 0
         if queryset.count()>0:
-            tCRMIF = queryset[0]['number_of_total_pg_member_beneficiary__sum']+queryset[0]['number_of_total_non_pg_member_beneficiary__sum']
+            if queryset[0]['number_of_total_pg_member_beneficiary__sum']:
+                tCRMIF = queryset[0]['number_of_total_pg_member_beneficiary__sum']
+            if queryset[0]['number_of_total_non_pg_member_beneficiary__sum']:
+                tCRMIF += queryset[0]['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_crmif_grantees = tCRMIF
 
         ## Total grantee
         total_grantee = total_no_of_grantee_sef + total_no_of_nutrition_grantees + total_no_of_sif_grantees + total_no_of_crmif_grantees
 
-        grantee_wise_installment_dict['total_sef'] = total_no_of_grantee_sef
+        grantee_wise_installment_dict['total_sef'] += total_no_of_grantee_sef
         grantee_wise_installment_dict['total_nutrition'] += total_no_of_nutrition_grantees
         grantee_wise_installment_dict['total_sif'] += total_no_of_sif_grantees
         grantee_wise_installment_dict['total_crmif'] += total_no_of_crmif_grantees
@@ -143,6 +152,7 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
     return response_data
 
 def get_grantees_by_ward_prioritization_index_chart_data(towns=list):
+    print(towns)
     wards = dict()
     wards = Geography.objects.filter(type='Ward')
 
@@ -177,10 +187,14 @@ def get_grantees_by_ward_prioritization_index_chart_data(towns=list):
         for n in ng:
             if n['ward']:
                 nTotal = n['no_of_nutrition_grantees__sum']
-                total += n['no_of_business_grantee__sum']
-                total += n['no_of_apprenticeship_grantee__sum']
-                total += n['no_of_education_dropout_grantee__sum']
-                total += n['no_education_early_marriage_grantee__sum']
+                if n['no_of_business_grantee__sum']:
+                    total += n['no_of_business_grantee__sum']
+                if n['no_of_apprenticeship_grantee__sum']:
+                    total += n['no_of_apprenticeship_grantee__sum']
+                if n['no_of_education_dropout_grantee__sum']:
+                    total += n['no_of_education_dropout_grantee__sum']
+                if n['no_education_early_marriage_grantee__sum']:
+                    total += n['no_education_early_marriage_grantee__sum']
         total_no_of_grantee_sef = total
 
         total_no_of_nutrition_grantees = nTotal
@@ -199,7 +213,9 @@ def get_grantees_by_ward_prioritization_index_chart_data(towns=list):
         tSIF = 0
         for q in queryset:
             if q['number_of_total_pg_member_beneficiary__sum']:
-                tSIF = q['number_of_total_pg_member_beneficiary__sum']+q['number_of_total_non_pg_member_beneficiary__sum']
+                tSIF = q['number_of_total_pg_member_beneficiary__sum']
+            if q['number_of_total_non_pg_member_beneficiary__sum']:
+                tSIF += q['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_sif_grantees = tSIF
      
         ## No Of grantees CRMIF
@@ -214,10 +230,13 @@ def get_grantees_by_ward_prioritization_index_chart_data(towns=list):
         # print(queryset)
         tCRMIF = 0
         if queryset.count()>0:
-            tCRMIF = queryset[0]['number_of_total_pg_member_beneficiary__sum']+queryset[0]['number_of_total_non_pg_member_beneficiary__sum']
+            if queryset[0]['number_of_total_pg_member_beneficiary__sum']:
+                tCRMIF = queryset[0]['number_of_total_pg_member_beneficiary__sum']
+            if queryset[0]['number_of_total_non_pg_member_beneficiary__sum']:
+                tCRMIF += queryset[0]['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_crmif_grantees = tCRMIF
 
-        grantee_wise_installment_dict['Total SEF'] = total_no_of_grantee_sef
+        grantee_wise_installment_dict['Total SEF'] += total_no_of_grantee_sef
         grantee_wise_installment_dict['Total Nutrition'] += total_no_of_nutrition_grantees
         grantee_wise_installment_dict['Total SIF'] += total_no_of_sif_grantees
         grantee_wise_installment_dict['Total CRMIF'] += total_no_of_crmif_grantees
