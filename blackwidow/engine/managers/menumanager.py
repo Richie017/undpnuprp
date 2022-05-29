@@ -197,16 +197,17 @@ class MenuManager(object):
                                                                                          'display_name') is not None else bw_titleize(
                 _m.__name__).lower()
             form_class = FormManager.get_form_class(_m, form_dict)
-
+            # print('===> Model Name: '+model_name)
             for a in actions:
                 f_operations = list(filter(lambda x: x[0] == a, operations))
+                
                 if len(f_operations) > 0:
                     o = f_operations[0]
                     view_class = cls.get_view_class(_m.__name__ + '_' + str(o[0]), view_dict, o[4])
                     route_name = _m.__name__.lower() + '_' + str(o[0])
                     success_url_name = _m.__name__.lower() + '_' + str(o[2])
                     route_url = _m.get_model_meta('route', 'route') + o[1]
-
+                    
                     if o[2]:
                         urlpatterns += [url(r'^' + route_url,
                                             view_class.as_view(model=_m, form_class=form_class, model_name=model_name,
@@ -241,7 +242,7 @@ class MenuManager(object):
                         success_url_name = child_model.__name__.lower() + '_' + str(o[2])
                         route_url = child_model.get_model_meta('route', 'route') + o[1]
                         _t_model = child_model if o[0] == ViewActionEnum.PartialEdit else _m
-
+                        # print('>>Partial Route Name :'+route_name)
                         if o[2]:
                             urlpatterns += [url(r'^_partial/' + _m.__name__.lower() + '/' + route_url,
                                                 view_class.as_view(model=_t_model, form_class=form_class,

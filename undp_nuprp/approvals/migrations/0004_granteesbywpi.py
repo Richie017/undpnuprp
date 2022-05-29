@@ -51,7 +51,7 @@ class Migration(migrations.Migration):
                 ('code', models.CharField(default='', max_length=200)),
                 ('deleted_level', models.SmallIntegerField(default=0)),
                 ('is_version', models.BooleanField(default=False, editable=False)),
-                ('city', models.CharField(blank=True, max_length=20, null=True)),
+                ('city', models.CharField(blank=True, max_length=100, null=True)),
                 ('ward', models.CharField(blank=True, max_length=20, null=True)),
                 ('ward_poverty_index', models.CharField(blank=True, max_length=20, null=True)),
                 ('total_population', models.CharField(blank=True, max_length=20, null=True)),

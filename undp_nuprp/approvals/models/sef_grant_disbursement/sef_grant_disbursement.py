@@ -121,6 +121,7 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
 
     @classmethod
     def importer_config(cls, organization=None, **kwargs):
+        print('Importing............')
         importer_config = ImporterConfig.objects.filter(model=cls.__name__, organization=organization).first()
         if not importer_config:
             importer_config, result = ImporterConfig.objects.get_or_create(
@@ -177,6 +178,7 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
     @classmethod
     def post_processing_import_completed(cls, items=[], user=None, organization=None, **kwargs):
         for index, item in enumerate(items):
+            print('Import Start....................')
             print(item)
             pg_member_assigned_code = str(item['0']) if item['0'] else ''
             pg_member_name = str(item['1'])

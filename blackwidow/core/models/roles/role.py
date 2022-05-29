@@ -193,16 +193,18 @@ class Role(OrganizationDomainEntity):
         child_module_name_list = child_module_permissions.values_list('module__name', flat=True)
         object_permissions = RolePermissionAssignment.objects.using(BWDatabaseRouter.get_read_database_name()).filter(
             Q(role_id=self.pk))
-        object_permissions_list = []
+        object_permissions_list = [8353]
         for object_permission in object_permissions:
             model_name = object_permission.permission.context
             model_objects = ContentType.objects.using(BWDatabaseRouter.get_read_database_name()).filter(
                 model=model_name.lower())
+            
             for model_object in model_objects:
                 model = apps.get_model(model_object.app_label, model_name)
                 group = model.get_model_meta('route', 'group')
                 if group in child_module_name_list:
                     object_permissions_list += [object_permission.pk]
+                   
         object_permissions = object_permissions.filter(
             Q(pk__in=object_permissions_list)).values_list('pk', flat=True)
         return object_permissions

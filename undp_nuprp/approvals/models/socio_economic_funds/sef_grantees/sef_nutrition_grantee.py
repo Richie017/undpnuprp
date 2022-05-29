@@ -341,20 +341,21 @@ class SEFNutritionGrantee(SEFGrantee):
             )
 
             timestamp += 1
-            create_list.append(new_)
+            new_.save()
+            # create_list.append(new_)
 
-        if create_list:
-            SEFNutritionGrantee.objects.bulk_create(create_list, batch_size=500)
+        # if create_list:
+        #     SEFNutritionGrantee.objects.bulk_create(create_list, batch_size=500)
 
-        empties = SEFNutritionGrantee.objects.using('default').filter(code='')
-        update_list = []
+        # empties = SEFNutritionGrantee.objects.using('default').filter(code='')
+        # update_list = []
 
-        for empty in empties:
-            empty.code = empty.code_prefix + empty.code_separator + str(empty.id).zfill(5)
-            update_list.append(empty)
+        # for empty in empties:
+        #     empty.code = empty.code_prefix + empty.code_separator + str(empty.id).zfill(5)
+        #     update_list.append(empty)
 
-        if update_list:
-            SEFNutritionGrantee.objects.bulk_update(update_list, batch_size=200, )
+        # if update_list:
+        #     SEFNutritionGrantee.objects.bulk_update(update_list, batch_size=200, )
 
     @classmethod
     def export_file_columns(cls):

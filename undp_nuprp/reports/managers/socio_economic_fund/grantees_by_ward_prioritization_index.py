@@ -29,7 +29,7 @@ def get_grantees_by_ward_prioritization_index_table_data(towns=list):
     print(wards)
     grantee_wise_installment_dict = OrderedDict()
     response_data = []
-    header_row = ['City Corporation/Pourosova', 'Ward No', 'Ward Poverty Index',
+    header_row = ['City Corporation/Pourosova', 'Ward No', 'Ward Prioritization Index',
     'No. of Total Grantee-SEF', 'No. of Total Grantee-Nutrition', 'No. of Grantee-SIF', 'No. of Grantee-CRMIF',
     'Total Grantee']
     grantee_wise_installment_dict['total_sef'] = 0
@@ -253,11 +253,10 @@ def get_grantees_by_ward_prioritization_index_chart_data(towns=list):
 
 def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
 
-
+    from undp_nuprp.approvals.models.socio_economic_funds.sef_grantees.grantees_by_wpi import GranteesByWPI
+    GranteesByWPI.objects.all().delete()
     wards = dict()
     wards = Geography.objects.filter(type='Ward')
-    print('Print test')
-    print(wards)
 
     response_data = []
     header_row = ['City Corporation/Pourosova', 'Ward No', 'Ward Poverty Index', 'Ward Wise Population', 'Ward Wise Registration', 'Average-MPI', 
@@ -271,21 +270,22 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
     for ward in wards:
         
         # print(city[0].name)
-
+        if not ward:
+            continue
         # Ward Name
         ward_name= ward.name
         ward_id= ward.id
 
         # City Name
         city = Geography.objects.filter(id=ward.parent_id)
-        city_id = city[0].id
-        city_name = city[0].name
-
+        if(city):
+            city_id = city[0].id
+            city_name = city[0].name
+        else:
+            city_name = 'None'
         # Ward Poverty Index(WPI)
         query = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).values('poverty_index_quantile', 'total_population')
 
-        print("Query")
-        print(query)
 
         totPop = 0
         wpi = ""
@@ -308,7 +308,6 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
                 totPop = 0
 
         ward_poverty_index = wpi
-
         # Ward wise population
         # query = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).values('total_population')
 
@@ -336,7 +335,8 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
         totReg = 0
         if dquery.count()>0:
             for k in dquery:
-                totReg+=k['pg_count']
+                if k['pg_count']:
+                    totReg+=k['pg_count']
                 total_member = k['total_members']
                 total_hh = k['count']
                 tFamilyMemBenefited =(total_member / total_hh)
@@ -344,22 +344,23 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
                 tFamilyMemBenefited = 0
         total_pg_registration = totReg
 
-
+        
         # Ward average MPI(Divide total MPI over all pg menmber by total number of pg member)
 
-        # clients = Client.objects.filter(assigned_to__parent__address__geography_id=ward_id)\
-        #     .values_list('id',flat=True)
+        clients = Client.objects.filter(assigned_to__parent__address__geography_id=ward_id)\
+            .values_list('id',flat=True)
 
-        # query = PGMPIIndicator.objects.filter(primary_group_member_id__in=clients)\
-        #     .values('mpi_score')
+        query = PGMPIIndicator.objects.filter(primary_group_member_id__in=clients)\
+            .values('mpi_score')
 
-        # totalMpi = 0
-        # if query.count()>0:
-        #     for j in query:
-        #         totalMpi += j['mpi_score']
+        totalMpi = 0
+        if query.count()>0:
+            for j in query:
+                if j['mpi_score']:
+                    totalMpi += j['mpi_score']
         avgMpi = 0.00
-        # if total_pg_registration>0:
-        #     avgMpi = totalMpi/total_pg_registration
+        if total_pg_registration>0:
+            avgMpi = totalMpi/total_pg_registration
         
         average_mpi_ward_wise = round(avgMpi, 2)
         
@@ -378,14 +379,18 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
         for n in ng:
             if n['ward']:
                 nTotal = n['no_of_nutrition_grantees__sum']
-                total += n['no_of_business_grantee__sum']
-                total += n['no_of_apprenticeship_grantee__sum']
-                total += n['no_of_education_dropout_grantee__sum']
-                total += n['no_education_early_marriage_grantee__sum']
+                if n['no_of_business_grantee__sum']:
+                    total += n['no_of_business_grantee__sum']
+                if n['no_of_apprenticeship_grantee__sum']:
+                    total += n['no_of_apprenticeship_grantee__sum']
+                if n['no_of_education_dropout_grantee__sum']:
+                    total += n['no_of_education_dropout_grantee__sum']
+                if n['no_education_early_marriage_grantee__sum']:
+                    total += n['no_education_early_marriage_grantee__sum']
         total_no_of_grantee_sef = total
 
         total_no_of_nutrition_grantees = nTotal
-
+        
 
         ## No Of grantees SIF
         queryset = Intervention.objects.filter(
@@ -398,12 +403,13 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
         )
        
         tSIF = 0
-        for o in queryset:
-            if o['sif__assigned_cdc__address__geography_id'] == ward_id:
-                if o['sif__assigned_cdc__address__geography_id']:
-                    tSIF = o['number_of_total_pg_member_beneficiary__sum']+o['number_of_total_non_pg_member_beneficiary__sum']
+        for q in queryset:
+            if q['number_of_total_pg_member_beneficiary__sum']:
+                tSIF = q['number_of_total_pg_member_beneficiary__sum']
+            if q['number_of_total_non_pg_member_beneficiary__sum']:
+                tSIF += q['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_sif_grantees = tSIF
-     
+        
         ## No Of grantees CRMIF
         queryset = Intervention.objects.filter(
             crmif__assigned_cdc__address__geography__isnull=False
@@ -415,32 +421,33 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
         )
 
         tCRMIF = 0
-        for p in queryset:
-            if p['crmif__assigned_cdc__address__geography_id'] == ward_id:
-                if p['crmif__assigned_cdc__address__geography_id']:
-                    tCRMIF = p['number_of_total_pg_member_beneficiary__sum']+p['number_of_total_non_pg_member_beneficiary__sum']
+        if queryset.count()>0:
+            if queryset[0]['number_of_total_pg_member_beneficiary__sum']:
+                tCRMIF = queryset[0]['number_of_total_pg_member_beneficiary__sum']
+            if queryset[0]['number_of_total_non_pg_member_beneficiary__sum']:
+                tCRMIF += queryset[0]['number_of_total_non_pg_member_beneficiary__sum']
         total_no_of_crmif_grantees = tCRMIF
-
+        
         ## Total grantee
         total_grantee = total_no_of_grantee_sef + total_no_of_nutrition_grantees + total_no_of_sif_grantees + total_no_of_crmif_grantees
 
         ## Toatl Family Member Benefited
-        # query = PGMemberInfoCache.objects.filter(city_id=city_id).values(
-        # 'city__name')\
-            # .annotate(
-            #     total_members=Sum('household_member_count'),
-            #     count=Sum('pg_count')
-            # )
+        query = PGMemberInfoCache.objects.filter(city_id=city_id).values(
+        'city__name')\
+            .annotate(
+                total_members=Sum('household_member_count'),
+                count=Sum('pg_count')
+            )
         
-        # tFamilyMemBenefited = 0
-        # if dquery.count()>0:
-        #     for i in dquery:
-        #         total_member = i['total_members']
-        #         total_hh = i['count']
-        #     tFamilyMemBenefited =(total_member / total_hh)
+        tFamilyMemBenefited = 0
+        if dquery.count()>0:
+            for i in dquery:
+                total_member = i['total_members']
+                total_hh = i['count']
+            tFamilyMemBenefited =(total_member / total_hh)
             
-        # else:
-        #     tFamilyMemBenefited = 0
+        else:
+            tFamilyMemBenefited = 0
 
         total_family_member_benefited = math.ceil(tFamilyMemBenefited * total_grantee)
         
@@ -448,9 +455,14 @@ def get_grantees_by_ward_prioritization_index_table_data_old(towns=list):
         # print(total_family_member_benefited)
 
         row = [city_name, ward_name, ward_poverty_index, total_population, total_pg_registration, average_mpi_ward_wise, total_no_of_grantee_sef, total_no_of_nutrition_grantees, total_no_of_sif_grantees, total_no_of_crmif_grantees, total_grantee, total_family_member_benefited]
-
         response_data.append(row)
-
+        
+        wpi_details=GranteesByWPI(city= city_name,ward = ward_name,ward_poverty_index=ward_poverty_index,
+        total_population = total_population,total_pg_registration =total_pg_registration,average_mpi_ward_wise=average_mpi_ward_wise,
+        sef_grantees = total_no_of_grantee_sef,nutrition_grantees=total_no_of_nutrition_grantees,sif_grantees=total_no_of_sif_grantees,
+        crmif_grantees = total_no_of_crmif_grantees,total_grantee=total_grantee,total_family_member_benefited=total_family_member_benefited
+        )
+        wpi_details.save()
     return response_data    
 
 

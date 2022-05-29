@@ -161,6 +161,7 @@ def get_models_with_decorator_in_app(_app, decorator_name='', app_name=False, in
         try:
             if model._decorators is not None:
                 for decorator in model._decorators:
+                    # print('----- decorate Name : '+decorator.__name__)
                     if decorator.__name__ == decorator_name:
                         if include_class:
                             _m = model
@@ -182,6 +183,7 @@ def get_models_with_decorator(decorator_name, apps, app_name=False, include_clas
     for app in apps:
         try:
             appname = app[app.rfind(".") + 1:]
+            # print('+++++++++++++++++ App Name :'+appname)
             m += get_models_with_decorator_in_app(appname, decorator_name, app_name=app_name,
                                                   include_class=include_class, **kwargs)
         except:

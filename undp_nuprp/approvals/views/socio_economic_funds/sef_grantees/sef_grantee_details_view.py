@@ -4,9 +4,9 @@ from blackwidow.engine.decorators.utility import decorate
 from blackwidow.engine.decorators.view_decorators import override_view
 from blackwidow.engine.enums.view_action_enum import ViewActionEnum
 from undp_nuprp.approvals.models import SEFApprenticeshipGrantee, SEFBusinessGrantee, SEFEducationDropoutGrantee, \
-    SEFEducationChildMarriageGrantee, SEFNutritionGrantee
+    SEFEducationChildMarriageGrantee, SEFNutritionGrantee,GranteesByWPI
 
-__author__ = 'Ziaul Haque'
+__author__ = 'Md Shaheen Alam'
 
 
 class SEFGranteeDetailsView(GenericDetailsView):
@@ -31,9 +31,4 @@ class SEFEducationDropoutGranteeDetailsView(SEFGranteeDetailsView):
 
 @decorate(override_view(model=SEFEducationChildMarriageGrantee, view=ViewActionEnum.Details))
 class SEFEducationChildMarriageGranteeDetailsView(SEFGranteeDetailsView):
-    pass
-
-
-@decorate(override_view(model=SEFNutritionGrantee, view=ViewActionEnum.Details))
-class SEFNutritionGranteeDetailsView(SEFGranteeDetailsView):
     pass
