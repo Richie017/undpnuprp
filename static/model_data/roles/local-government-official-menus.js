@@ -612,7 +612,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"

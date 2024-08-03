@@ -15,6 +15,7 @@ from blackwidow.engine.extensions import bw_titleize
 from blackwidow.engine.routers.database_router import BWDatabaseRouter
 from undp_nuprp.approvals.models.sef_grant_disbursement.sef_grant_disbursement import SEFGrantDisbursement
 from undp_nuprp.reports.utils.thousand_separator import thousand_separator
+from undp_nuprp.approvals.models.interactive_maps.output_one.word_prioritization_indicator import WordPrioritizationIndicator
 
 __author__ = 'Md Shaheen Alam'
 
@@ -133,7 +134,14 @@ class SEFGrantee(OrganizationDomainEntity):
     @property
     def render_ward_poverty_index(self):
         if self.sef_grant_disbursement and self.sef_grant_disbursement.ward_poverty_index:
-            return self.sef_grant_disbursement.ward_poverty_index
+            ward_poverty_index = "N/A"
+            query = WordPrioritizationIndicator.objects.filter(Ward_id=self.ward).values('poverty_index_quantile')
+            for b in query:
+                if b['poverty_index_quantile']:
+                    ward_poverty_index = "Q"+str(b['poverty_index_quantile'])
+                else:
+                    ward_poverty_index = "N/A"
+            return ward_poverty_index
         return "N/A"
     @property
     def render_mpi(self):

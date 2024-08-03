@@ -102,6 +102,6 @@ class SocioEconomicFundGrantReport(Report):
 
         if indicator == SocioEconomicFundIndicatorEnum.GranteeWardPrioritizationIndexEnum.value:
              if graph_type == DataTableConfigEnum.DataTable.value:
-                return get_grantees_by_ward_prioritization_index_table_data(towns=towns)
+                return get_grantees_by_ward_prioritization_index_table_data_old(towns=towns)
              if graph_type == GraphTypeEnum.ColumnChart.value:
                 return get_grantees_by_ward_prioritization_index_chart_data(towns=towns)

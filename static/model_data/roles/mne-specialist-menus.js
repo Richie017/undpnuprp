@@ -572,7 +572,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       },
                       {
                           "hide": false,
@@ -1414,6 +1414,20 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
+                          "link": "/menu-manager/",
+                          "order": 7,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "MenuManager"
+                              }
+                          ],
+                          "title": "Menu Manager"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
                           "link": "/assignment-logs/",
                           "order": 10,
                           "required-permission": [
@@ -1428,22 +1442,8 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/menu-manager/",
-                          "order": 11,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "MenuManager"
-                              }
-                          ],
-                          "title": "Menu Manager"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/roles/",
-                          "order": 13,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,

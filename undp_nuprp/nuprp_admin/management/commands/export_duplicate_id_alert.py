@@ -42,7 +42,7 @@ class Command(BaseCommand):
 
                     try:
                         client = apps.get_model(alert.app_label, alert.model).all_objects.get(pk=alert.object_id)
-                        member = "{} (https://nuprp.info{})".format(
+                        member = "{} (https://nuprpbd.info{})".format(
                             client.name,
                             reverse(client.get_route_name(ViewActionEnum.Details), kwargs={"pk": client.pk}))
                     except:
@@ -52,7 +52,7 @@ class Command(BaseCommand):
                     try:
                         sr = SurveyResponse.objects.filter(respondent_client__id=alert.object_id).first()
                         if sr:
-                            survey_response = "https://nuprp.info{}".format(
+                            survey_response = "https://nuprpbd.info{}".format(
                                 reverse(sr.get_route_name(ViewActionEnum.Details), kwargs={"pk": sr.pk}))
                     except:
                         pass
@@ -61,7 +61,7 @@ class Command(BaseCommand):
                     try:
                         en = alert.created_by
                         if en:
-                            enumerator = "{} (https://nuprp.info{})".format(
+                            enumerator = "{} (https://nuprpbd.info{})".format(
                                 en.name, reverse(en.get_route_name(ViewActionEnum.Details), kwargs={"pk": sr.pk}))
                     except:
                         pass
@@ -74,7 +74,7 @@ class Command(BaseCommand):
                         prefix = detail_parts[0] + "of"
                         member_id = detail_parts[1].split("details/")[1].replace("'", '"').split('"')[0]
                         member_name = detail_parts[1].split(">")[1].split("<")[0]
-                        detail = "{} {} (https://nuprp.info/en/primary-group-members/details/{})".format(
+                        detail = "{} {} (https://nuprpbd.info/en/primary-group-members/details/{})".format(
                             prefix, member_name, member_id
                         )
                     except:

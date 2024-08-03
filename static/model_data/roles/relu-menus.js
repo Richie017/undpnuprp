@@ -1053,7 +1053,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -1308,7 +1308,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       },
                       {
                           "hide": false,
@@ -2269,16 +2269,16 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/alert-email-template/",
+                          "link": "/menu-manager/",
                           "order": 7,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "core",
-                                  "context": "AlertEmailTemplate"
+                                  "context": "MenuManager"
                               }
                           ],
-                          "title": "Alert email template"
+                          "title": "Menu Manager"
                       },
                       {
                           "hide": false,
@@ -2325,22 +2325,8 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/menu-manager/",
-                          "order": 11,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "MenuManager"
-                              }
-                          ],
-                          "title": "Menu Manager"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/model-form-generator/",
-                          "order": 12,
+                          "order": 11,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -2354,7 +2340,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/roles/",
-                          "order": 13,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -2363,6 +2349,20 @@ var menu_config = [
                               }
                           ],
                           "title": "User Role"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/alert-email-template/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AlertEmailTemplate"
+                              }
+                          ],
+                          "title": "Alert email template"
                       }
                   ],
                   "link": "",

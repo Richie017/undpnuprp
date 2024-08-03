@@ -117,20 +117,6 @@ var menu_config = [
                               }
                           ],
                           "title": "Gender"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/nutrition-report/",
-                          "order": 6,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "reports",
-                                  "context": "NutritionReport"
-                              }
-                          ],
-                          "title": "Nutrition"
                       }
                   ],
                   "link": "",
@@ -639,7 +625,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -808,34 +794,6 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/training/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "Training"
-                              }
-                          ],
-                          "title": "Trainings"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/workshop/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "nuprp_admin",
-                                  "context": "Workshop"
-                              }
-                          ],
-                          "title": "Workshops"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/capacity-building/",
                           "order": 3,
                           "required-permission": [
@@ -866,35 +824,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/submitted-field-monitoring-report/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SubmittedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Submitted Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approved-field-monitoring-report/",
-                          "order": 3,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "ApprovedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Approved Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       }
                   ],
                   "link": "",
@@ -1115,7 +1045,6 @@ var menu_config = [
       }
   ];
 var url_mapping = {
-      "/approved-field-monitoring-report/": "Entry",
       "/capacity-building/": "Entry",
       "/cdc-assessment/": "Entry",
       "/cdc-cluster/": "Entry",
@@ -1146,7 +1075,6 @@ var url_mapping = {
       "/monthly-target/": "Entry",
       "/nutrition-conditional-food-transfer/": "Entry",
       "/nutrition-registration/": "Entry",
-      "/nutrition-report/": "Dashboard",
       "/nutrition-reporting/": "Entry",
       "/operation-and-maintenance/": "Entry",
       "/pg-hh-head-information-indicators/": "Dashboard",
@@ -1169,16 +1097,13 @@ var url_mapping = {
       "/sif/": "Entry",
       "/social-audit-committee/": "Entry",
       "/socio-economic-fund-grant-indicators/": "Dashboard",
-      "/submitted-field-monitoring-report/": "Entry",
       "/survey-location-map/": "Dashboard",
       "/survey-response/": "Survey Admin",
       "/survey/": "Survey Admin",
       "/training-and-awareness-raising/": "Dashboard",
-      "/training/": "Entry",
       "/upload-files/": "Documents",
       "/urban-governance-and-planning-report/": "Dashboard",
       "/urban-governance-and-planning/": "Entry",
-      "/vawg-and-early-marriage-prevention-reporting/": "Entry",
-      "/workshop/": "Entry"
+      "/vawg-and-early-marriage-prevention-reporting/": "Entry"
   };
 

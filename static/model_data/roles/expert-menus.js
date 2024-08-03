@@ -863,7 +863,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -1069,7 +1069,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       },
                       {
                           "hide": false,

@@ -117,20 +117,6 @@ var menu_config = [
                               }
                           ],
                           "title": "Gender"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/nutrition-report/",
-                          "order": 6,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "reports",
-                                  "context": "NutritionReport"
-                              }
-                          ],
-                          "title": "Nutrition"
                       }
                   ],
                   "link": "",
@@ -709,7 +695,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -936,35 +922,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/submitted-field-monitoring-report/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SubmittedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Submitted Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approved-field-monitoring-report/",
-                          "order": 3,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "ApprovedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Approved Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       }
                   ],
                   "link": "",
@@ -1224,16 +1182,16 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/alert-email-template/",
+                          "link": "/menu-manager/",
                           "order": 7,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "core",
-                                  "context": "AlertEmailTemplate"
+                                  "context": "MenuManager"
                               }
                           ],
-                          "title": "Alert email template"
+                          "title": "Menu Manager"
                       },
                       {
                           "hide": false,
@@ -1280,22 +1238,8 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/menu-manager/",
-                          "order": 11,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "MenuManager"
-                              }
-                          ],
-                          "title": "Menu Manager"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/model-form-generator/",
-                          "order": 12,
+                          "order": 11,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1309,7 +1253,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/roles/",
-                          "order": 13,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1318,6 +1262,20 @@ var menu_config = [
                               }
                           ],
                           "title": "User Role"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/alert-email-template/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AlertEmailTemplate"
+                              }
+                          ],
+                          "title": "Alert email template"
                       }
                   ],
                   "link": "",
@@ -1384,7 +1342,6 @@ var url_mapping = {
       "/alert-email-template/": "Admin",
       "/api-worker/": "Admin",
       "/approval-process/": "Admin",
-      "/approved-field-monitoring-report/": "Entry",
       "/assignment-logs/": "Admin",
       "/capacity-building/": "Entry",
       "/cdc-assessment/": "Entry",
@@ -1424,7 +1381,6 @@ var url_mapping = {
       "/monthly-target/": "Entry",
       "/nutrition-conditional-food-transfer/": "Entry",
       "/nutrition-registration/": "Entry",
-      "/nutrition-report/": "Dashboard",
       "/nutrition-reporting/": "Entry",
       "/o-and-m-funds/": "Dashboard",
       "/operation-and-maintenance/": "Entry",
@@ -1452,7 +1408,6 @@ var url_mapping = {
       "/sif/": "Entry",
       "/social-audit-committee/": "Entry",
       "/socio-economic-fund-grant-indicators/": "Dashboard",
-      "/submitted-field-monitoring-report/": "Entry",
       "/survey-export-task-monitor/": "Admin",
       "/survey-location-map/": "Dashboard",
       "/survey-response/": "Survey Admin",

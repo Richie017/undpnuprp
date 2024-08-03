@@ -16,7 +16,7 @@ from undp_nuprp.approvals.models import FieldMonitoringReport
 
 @decorate(is_object_context, save_audit_log, route(
     route='draft-field-monitoring-report', module=ModuleEnum.Analysis, group='Field Monitoring', group_order=8,
-    item_order=1, display_name='Draft Field Monitoring Report'
+    item_order=1, display_name='Field Monitoring Report'
 ))
 class DraftFieldMonitoringReport(FieldMonitoringReport):
     class Meta:

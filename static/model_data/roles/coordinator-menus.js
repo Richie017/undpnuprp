@@ -96,25 +96,32 @@ var menu_config = [
                               }
                           ],
                           "title": "Gender"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/nutrition-report/",
-                          "order": 6,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "reports",
-                                  "context": "NutritionReport"
-                              }
-                          ],
-                          "title": "Nutrition"
                       }
                   ],
                   "link": "",
                   "order": 7,
                   "title": "Local Economy Livelihood and Financial Inclusion "
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/climate-housing-development-fund/",
+                          "order": 1,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "reports",
+                                  "context": "ClimateHousingDevelopmentFundReport"
+                              }
+                          ],
+                          "title": "Climate Housing Development Fund"
+                      }
+                  ],
+                  "link": "",
+                  "order": 8,
+                  "title": "Housing Finance "
               },
               {
                   "items": [
@@ -150,6 +157,27 @@ var menu_config = [
                   "link": "",
                   "order": 10,
                   "title": "Infrastructure & Urban Services "
+              },
+              {
+                  "items": [
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/hh-survey-indicators/",
+                          "order": 1,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "reports",
+                                  "context": "HouseholdSurveyIndicatorReport"
+                              }
+                          ],
+                          "title": "Household Survey Indicators"
+                      }
+                  ],
+                  "link": "",
+                  "order": 15,
+                  "title": "Household Information"
               },
               {
                   "items": [
@@ -583,7 +611,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -761,35 +789,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/submitted-field-monitoring-report/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SubmittedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Submitted Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approved-field-monitoring-report/",
-                          "order": 3,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "ApprovedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Approved Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       }
                   ],
                   "link": "",
@@ -965,27 +965,6 @@ var menu_config = [
                   "link": "",
                   "order": 7,
                   "title": "Dynamic Survey"
-              },
-              {
-                  "items": [
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/export-queues/",
-                          "order": 1,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "ExportQueue"
-                              }
-                          ],
-                          "title": "Export Queue"
-                      }
-                  ],
-                  "link": "",
-                  "order": 9,
-                  "title": "Import/Export"
               }
           ],
           "link": "/survey/",
@@ -1023,11 +1002,11 @@ var menu_config = [
       }
   ];
 var url_mapping = {
-      "/approved-field-monitoring-report/": "Entry",
       "/capacity-building/": "Entry",
       "/cdc-assessment/": "Entry",
       "/cdc-cluster/": "Entry",
       "/cdc/": "Entry",
+      "/climate-housing-development-fund/": "Dashboard",
       "/community-action-plan/": "Entry",
       "/community-purchase-committee/": "Entry",
       "/coordinator/": "Admin",
@@ -1042,8 +1021,8 @@ var url_mapping = {
       "/eligible-education-drop-out-grantee/": "Entry",
       "/eligible-education-early-marriage-grantee/": "Entry",
       "/enumerator-stats/": "Survey Admin",
-      "/export-queues/": "Survey Admin",
       "/grantees-by-wpi/": "Entry",
+      "/hh-survey-indicators/": "Dashboard",
       "/household-surey-stats/": "Survey Admin",
       "/housing-development-fund/": "Entry",
       "/land-tenure-action-plan/": "Entry",
@@ -1051,7 +1030,6 @@ var url_mapping = {
       "/meeting/": "Entry",
       "/monthly-pmf-report/": "Entry",
       "/nutrition-registration/": "Entry",
-      "/nutrition-report/": "Dashboard",
       "/nutrition-reporting/": "Entry",
       "/operation-and-maintenance/": "Entry",
       "/pg-hh-head-information-indicators/": "Dashboard",
@@ -1073,7 +1051,6 @@ var url_mapping = {
       "/sif/": "Entry",
       "/social-audit-committee/": "Entry",
       "/socio-economic-fund-grant-indicators/": "Dashboard",
-      "/submitted-field-monitoring-report/": "Entry",
       "/survey-data-export-report/": "Survey Admin",
       "/survey-location-map/": "Dashboard",
       "/survey-response-export/": "Survey Admin",

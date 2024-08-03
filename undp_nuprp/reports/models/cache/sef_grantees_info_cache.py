@@ -53,7 +53,7 @@ class SEFGranteesInfoCache(DomainEntity):
             _from_time = from_date.replace(hour=0, minute=0, second=0).timestamp() * 1000
             _to_time = from_date.replace(hour=23, minute=59, second=59).timestamp() * 1000
             for item in model_list:
-                queryset = item[0].objects.filter(date_created__gte=_from_time, date_created__lte=_to_time). \
+                queryset = item[0].objects.filter(date_created__gte=_from_time, date_created__lte=_to_time,is_deleted=False,is_version=False,is_active=True). \
                     values('pg_member__assigned_to__parent__address__geography__parent_id', 'ward').annotate(Count('id'))
                 for query in queryset:
                     city_id = query['pg_member__assigned_to__parent__address__geography__parent_id']

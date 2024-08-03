@@ -751,7 +751,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -1006,35 +1006,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/submitted-field-monitoring-report/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SubmittedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Submitted Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approved-field-monitoring-report/",
-                          "order": 3,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "ApprovedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Approved Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       }
                   ],
                   "link": "",
@@ -1890,20 +1862,6 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/alert-email-template/",
-                          "order": 7,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "AlertEmailTemplate"
-                              }
-                          ],
-                          "title": "Alert email template"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/survey-export-task-monitor/",
                           "order": 8,
                           "required-permission": [
@@ -1947,7 +1905,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/model-form-generator/",
-                          "order": 12,
+                          "order": 11,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1961,7 +1919,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/roles/",
-                          "order": 13,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1970,6 +1928,20 @@ var menu_config = [
                               }
                           ],
                           "title": "User Role"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/alert-email-template/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AlertEmailTemplate"
+                              }
+                          ],
+                          "title": "Alert email template"
                       }
                   ],
                   "link": "",
@@ -2259,7 +2231,6 @@ var url_mapping = {
       "/apprenticeship-grantee-follow-up/": "Approvals",
       "/approval-process/": "Admin",
       "/approved-cdc-monthly-report/": "Approvals",
-      "/approved-field-monitoring-report/": "Entry",
       "/approved-grants/": "Approvals",
       "/approved-scg-monthly-report/": "Approvals",
       "/assignment-logs/": "Admin",
@@ -2370,7 +2341,6 @@ var url_mapping = {
       "/social-audit-committee/": "Entry",
       "/socio-economic-fund-grant-indicators/": "Dashboard",
       "/socioeconomic-nutrition-expert/": "Admin",
-      "/submitted-field-monitoring-report/": "Entry",
       "/survey-data-export-report/": "Survey Admin",
       "/survey-export-task-monitor/": "Admin",
       "/survey-location-map/": "Dashboard",

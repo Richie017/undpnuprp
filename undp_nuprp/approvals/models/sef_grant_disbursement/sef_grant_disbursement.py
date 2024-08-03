@@ -81,7 +81,22 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
         return self.registration_year if self.registration_year else "N/A"
     @property
     def render_ward_poverty_index(self):
-        return self.ward_poverty_index if self.ward_poverty_index else "N/A"
+        if self.ward_poverty_index:
+            ward_poverty_index = "N/A"
+            _pgm_queryset = PrimaryGroupMember.objects.filter(assigned_code=self.pg_member_assigned_code)
+            _pgm_queryset = PrimaryGroupMember.objects.filter(
+            assigned_code='0' + self.pg_member_assigned_code) if not _pgm_queryset else _pgm_queryset
+
+            _pgm = _pgm_queryset.last()
+            ward_id = _pgm.assigned_to.parent.address.geography.id
+            query = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).values('poverty_index_quantile')
+            for b in query:
+                if b['poverty_index_quantile']:
+                    ward_poverty_index = "Q"+str(b['poverty_index_quantile'])
+                else:
+                    ward_poverty_index = "N/A"
+            return ward_poverty_index
+        return "N/A"
     @property
     def render_mpi(self):
         return self.mpi if self.mpi else "N/A"
@@ -187,18 +202,29 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
             disbursement_date = item['4'].strftime("%d/%m/%Y") if type(item['4']) == datetime else item['4']
             grant_disbursement_year = str(item['5'])
             grant_receiving_year = str(item['6'])
-            
+            pg_member_ids = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).values('id')
+            pg_member_id = 0
+            if pg_member_ids.count()>0:
+                for j in pg_member_ids:
+                    pg_member_id = j['id']
+            if pg_member_id==0:
+                continue
             date_created = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().date_created
             from blackwidow.engine.extensions.clock import Clock
             registration_year = Clock.get_user_local_time(date_created).strftime("%Y")
-            pg_member_id = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code).first().id
+            
             _pgm_queryset = PrimaryGroupMember.objects.filter(assigned_code=pg_member_assigned_code)
             _pgm_queryset = PrimaryGroupMember.objects.filter(
             assigned_code='0' + pg_member_assigned_code) if not _pgm_queryset else _pgm_queryset
 
             _pgm = _pgm_queryset.last()
             ward_id = _pgm.assigned_to.parent.address.geography.id
-            poverty_score_index = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).first().poverty_index_score
+            poverty_score_indexs = WordPrioritizationIndicator.objects.filter(Ward_id=ward_id).values('poverty_index_score')
+            poverty_score_index = 0
+            if poverty_score_indexs.count()>0:
+                for j in poverty_score_indexs:
+                    poverty_score_index += j['poverty_index_score']
+            
             from undp_nuprp.survey.models.indicators.pg_mpi_indicator.mpi_indicator import PGMPIIndicator
             query = PGMPIIndicator.objects.filter(primary_group_member_id=pg_member_id).values('mpi_score')
 

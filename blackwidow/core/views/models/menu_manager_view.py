@@ -66,7 +66,7 @@ class MenuManagerView(GenericListView):
             current_timestamp = datetime.now().timestamp() * 1000
             permission_pk = RolePermissionAssignment.objects.order_by('-last_updated').first().pk
             RolePermissionAssignment.objects.filter(pk=permission_pk).update(last_updated=current_timestamp)
-
+            print('---> Print..........')
             # set cache for role permission time
             CacheManager.set_cache_element_by_key(
                 key=ROLE_PERMISSION_TIME_CACHE,

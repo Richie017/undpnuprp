@@ -9,6 +9,7 @@ from blackwidow.engine.extensions import pluralize
 from blackwidow.engine.extensions.clock import Clock
 from blackwidow.engine.managers.bwpermissionmanager import BWPermissionManager
 from blackwidow.engine.routers.database_router import BWDatabaseRouter
+from django.db.models import Sum, F
 
 __author__ = 'mahmudul'
 
@@ -78,6 +79,11 @@ class GenericListView(ProtectedViewMixin, SingleTableView):
         context['model_data'] = [f.name for f in self.model._meta.get_fields()]
         context['search_template'] = 'shared/display-templates/_search.html'
         context['count'] = self.object_list.count()
+        context['newcount'] = self.object_list.count()
+        if mname.lower()=='grantees by ward prioritization index':
+            d = self.get_queryset().aggregate(Sum('total_family_member_benefited_int'))
+            if d['total_family_member_benefited_int__sum']:
+                context['newcount'] = d['total_family_member_benefited_int__sum']
         context['now'] = Clock.timestamp()
         context['model'] = mname.lower()
         context['display_model'] = pluralize(mname.title()) if 'model_meta' not in context or 'model_name' not in \

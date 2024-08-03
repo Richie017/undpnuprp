@@ -74,7 +74,7 @@ class SEFNutritionGrantee(SEFGrantee):
         basic_info['ward'] = self.ward
         basic_info['Relationship of grantee to PG member'] = self.relation_with_pg_member
         basic_info['Is the grantee still pregnant or lactating?'] = self.is_still_pregnant_or_lactating
-        basic_info['Ward Poverty Index'] = self.ward_poverty_index
+        basic_info['Ward Poverty Index'] = self.render_ward_poverty_index
         basic_info['mpi'] = self.mpi
         basic_info[
             'Number of Months (Pregnancy)'] = self.number_of_pregnancy_month if self.number_of_pregnancy_month else "N/A"
@@ -382,7 +382,7 @@ class SEFNutritionGrantee(SEFGrantee):
         :return: list of strings (names of fields in details view)
         """
         return [
-            'is_still_pregnant_or_lactating','ward_poverty_index','mpi', 'number_of_pregnancy_month:Number of Months (Pregnancy)',
+            'is_still_pregnant_or_lactating','render_ward_poverty_index','mpi', 'number_of_pregnancy_month:Number of Months (Pregnancy)',
             'age_of_child_in_month:Age of Child in Month (if Lactating)', 'difficulty_in_seeing',
             'difficulty_in_hearing', 'difficulty_in_walking', 'difficulty_in_remembering', 'has_disability',
             'difficulty_in_self_care', 'difficulty_in_communicating', 'render_total_installment', 'remarks',

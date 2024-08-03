@@ -117,20 +117,6 @@ var menu_config = [
                               }
                           ],
                           "title": "Gender"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/nutrition-report/",
-                          "order": 6,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "reports",
-                                  "context": "NutritionReport"
-                              }
-                          ],
-                          "title": "Nutrition"
                       }
                   ],
                   "link": "",
@@ -472,6 +458,62 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
+                          "link": "/shortlisted-eligible-business-grantee/",
+                          "order": 5,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "ShortListedEligibleBusinessGrantee"
+                              }
+                          ],
+                          "title": "Short Listed Business Grantees"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/shortlisted-eligible-apprenticeship-grantee/",
+                          "order": 6,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "ShortListedEligibleApprenticeshipGrantee"
+                              }
+                          ],
+                          "title": "Short Listed Apprenticeship Grantees"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/shortlisted-eligible-education-drop-out-grantee/",
+                          "order": 7,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "ShortListedEligibleEducationDropOutGrantee"
+                              }
+                          ],
+                          "title": "Short Listed Education Grantees (Reduce Dropout)"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/shortlisted-eligible-education-early-marriage-grantee/",
+                          "order": 8,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "ShortListedEligibleEducationEarlyMarriageGrantee"
+                              }
+                          ],
+                          "title": "Short Listed Education Grantees (Reduce Early Marriage)"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
                           "link": "/sef-business-grantee/",
                           "order": 9,
                           "required-permission": [
@@ -528,6 +570,20 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
+                          "link": "/sef-nutrition-grantee/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "SEFNutritionGrantee"
+                              }
+                          ],
+                          "title": "Nutrition Grantees"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
                           "link": "/sef-business-grant-disbursement/",
                           "order": 14,
                           "required-permission": [
@@ -580,6 +636,34 @@ var menu_config = [
                               }
                           ],
                           "title": "Education Grant Disbursement (Early Child Marriage)"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/sef-nutrition-grant-disbursement/",
+                          "order": 18,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "approvals",
+                                  "context": "SEFNutritionGrantDisbursement"
+                              }
+                          ],
+                          "title": "Nutrition Grant Disbursement"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/household/",
+                          "order": 19,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "nuprp_admin",
+                                  "context": "Household"
+                              }
+                          ],
+                          "title": "Household"
                       },
                       {
                           "hide": false,
@@ -674,7 +758,7 @@ var menu_config = [
                               {
                                   "access": 1,
                                   "app": "approvals",
-                                  "context": "GranteesbyWPI"
+                                  "context": "GranteesByWPI"
                               }
                           ],
                           "title": "Grantees by Ward Prioritization Index"
@@ -901,35 +985,7 @@ var menu_config = [
                                   "context": "DraftFieldMonitoringReport"
                               }
                           ],
-                          "title": "Draft Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/submitted-field-monitoring-report/",
-                          "order": 2,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "SubmittedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Submitted Field Monitoring Report"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
-                          "link": "/approved-field-monitoring-report/",
-                          "order": 3,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "approvals",
-                                  "context": "ApprovedFieldMonitoringReport"
-                              }
-                          ],
-                          "title": "Approved Field Monitoring Report"
+                          "title": "Field Monitoring Report"
                       }
                   ],
                   "link": "",
@@ -1210,16 +1266,16 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/alert-email-template/",
+                          "link": "/menu-manager/",
                           "order": 7,
                           "required-permission": [
                               {
                                   "access": 1,
                                   "app": "core",
-                                  "context": "AlertEmailTemplate"
+                                  "context": "MenuManager"
                               }
                           ],
-                          "title": "Alert email template"
+                          "title": "Menu Manager"
                       },
                       {
                           "hide": false,
@@ -1266,22 +1322,8 @@ var menu_config = [
                       {
                           "hide": false,
                           "items": [],
-                          "link": "/menu-manager/",
-                          "order": 11,
-                          "required-permission": [
-                              {
-                                  "access": 1,
-                                  "app": "core",
-                                  "context": "MenuManager"
-                              }
-                          ],
-                          "title": "Menu Manager"
-                      },
-                      {
-                          "hide": false,
-                          "items": [],
                           "link": "/model-form-generator/",
-                          "order": 12,
+                          "order": 11,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1295,7 +1337,7 @@ var menu_config = [
                           "hide": false,
                           "items": [],
                           "link": "/roles/",
-                          "order": 13,
+                          "order": 12,
                           "required-permission": [
                               {
                                   "access": 1,
@@ -1304,6 +1346,20 @@ var menu_config = [
                               }
                           ],
                           "title": "User Role"
+                      },
+                      {
+                          "hide": false,
+                          "items": [],
+                          "link": "/alert-email-template/",
+                          "order": 13,
+                          "required-permission": [
+                              {
+                                  "access": 1,
+                                  "app": "core",
+                                  "context": "AlertEmailTemplate"
+                              }
+                          ],
+                          "title": "Alert email template"
                       }
                   ],
                   "link": "",
@@ -1371,7 +1427,6 @@ var url_mapping = {
       "/all-geography/": "Admin",
       "/api-worker/": "Admin",
       "/approval-process/": "Admin",
-      "/approved-field-monitoring-report/": "Entry",
       "/assignment-logs/": "Admin",
       "/capacity-building/": "Entry",
       "/cdc-assessment/": "Entry",
@@ -1397,6 +1452,7 @@ var url_mapping = {
       "/geography-level/": "Admin",
       "/grantees-by-wpi/": "Entry",
       "/household-surey-stats/": "Survey Admin",
+      "/household/": "Entry",
       "/housing-development-fund/": "Entry",
       "/land-tenure-action-plan/": "Entry",
       "/land-tenure-security/": "Entry",
@@ -1410,7 +1466,6 @@ var url_mapping = {
       "/monthly-target/": "Entry",
       "/nutrition-conditional-food-transfer/": "Entry",
       "/nutrition-registration/": "Entry",
-      "/nutrition-report/": "Dashboard",
       "/nutrition-reporting/": "Entry",
       "/o-and-m-funds/": "Dashboard",
       "/operation-and-maintenance/": "Entry",
@@ -1432,12 +1487,17 @@ var url_mapping = {
       "/sef-education-dropout-grantee/": "Entry",
       "/sef-education-early-marriage-grant-disbursement/": "Entry",
       "/sef-education-early-marriage-grantee/": "Entry",
+      "/sef-nutrition-grant-disbursement/": "Entry",
+      "/sef-nutrition-grantee/": "Entry",
       "/sef-tracker/": "Entry",
+      "/shortlisted-eligible-apprenticeship-grantee/": "Entry",
+      "/shortlisted-eligible-business-grantee/": "Entry",
+      "/shortlisted-eligible-education-drop-out-grantee/": "Entry",
+      "/shortlisted-eligible-education-early-marriage-grantee/": "Entry",
       "/sif-report/": "Dashboard",
       "/sif/": "Entry",
       "/social-audit-committee/": "Entry",
       "/socio-economic-fund-grant-indicators/": "Dashboard",
-      "/submitted-field-monitoring-report/": "Entry",
       "/survey-export-task-monitor/": "Admin",
       "/survey-location-map/": "Dashboard",
       "/survey-response/": "Survey Admin",

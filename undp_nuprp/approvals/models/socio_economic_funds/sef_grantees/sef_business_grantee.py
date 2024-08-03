@@ -28,7 +28,7 @@ class SEFBusinessGrantee(SEFGrantee):
             "code", "name:Beneficiary Name", "render_contact_number", "render_PG_member_ID", "render_CDC",
             "render_city_corporation", "ward", "relation_with_pg_member:Relationship of grantee to PG member",
             "business_sector:Type of Business", "render_grant_disbursement_year",
-            "ward_poverty_index", "mpi"
+            "render_ward_poverty_index", "mpi"
             "date_created:Created On", "last_updated:Last Updated On"
         )
 

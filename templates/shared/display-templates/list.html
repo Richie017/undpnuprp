@@ -49,7 +49,11 @@
                 {% include  search_template with filters=searchables %}
             </div>
             <div class="pull-right item-in-total">
-                <strong>{{ count }}</strong> items in total
+                  {% if display_model == 'Grantees by Ward Prioritization Index' %}
+                    <strong>{{ newcount }}</strong> Total Beneficiaries
+                  {% else %}
+                    <strong>{{ count }}</strong> items in total
+                 {% endif %}
             </div>
         </div>
         {% if enable_map == True %}
