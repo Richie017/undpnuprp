@@ -23,7 +23,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
                                    module=ModuleEnum.Analysis, display_name='Vacant Land Mapping',
                                    group_order=4, item_order=3), enable_import, enable_export)
 class VacantLandMapping(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     vacant_land_mapping_required = models.CharField(max_length=3, null=True, blank=True)
     survey_completed = models.CharField(max_length=3, null=True, blank=True)
     mapping_completed = models.CharField(max_length=3, null=True, blank=True)

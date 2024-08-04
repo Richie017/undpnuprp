@@ -22,7 +22,7 @@ __author__ = 'Tareq'
                 display_name="Address", hide=True))
 class Geography(ConfigurableType):
     level = models.ForeignKey('core.GeographyLevel', null=True, on_delete=models.SET_NULL)
-    parent = models.ForeignKey('core.Geography', null=True)
+    parent = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'core'

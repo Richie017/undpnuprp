@@ -53,7 +53,7 @@ class SavingsAndCreditReport(OrganizationDomainEntity):
     cash_in_hand = models.FloatField(default=0)
     location = models.ForeignKey(Location, null=True, on_delete=models.SET_NULL)
     remarks = models.CharField(max_length=300, null=True)
-    parent = models.ForeignKey('nuprp_admin.SavingsAndCreditReport', null=True)
+    parent = models.ForeignKey('nuprp_admin.SavingsAndCreditReport', null=True, on_delete=models.SET_NULL)
     parent_tsync_id = models.CharField(max_length=60, null=True)
 
     @classmethod

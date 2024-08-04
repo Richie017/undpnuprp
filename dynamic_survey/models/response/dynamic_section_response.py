@@ -10,8 +10,8 @@ __author__ = 'Razon'
 
 @decorate(expose_api('dynamic-section-response'), )
 class DynamicSectionResponse(OrganizationDomainEntity):
-    survey_response = models.ForeignKey('dynamic_survey.DynamicSurveyResponse')
-    section = models.ForeignKey('dynamic_survey.DynamicSection')
+    survey_response = models.ForeignKey('dynamic_survey.DynamicSurveyResponse', on_delete=models.CASCADE)
+    section = models.ForeignKey('dynamic_survey.DynamicSection', on_delete=models.CASCADE)
 
     @classmethod
     def get_serializer(cls):

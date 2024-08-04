@@ -30,7 +30,7 @@ __author__ = "Ziaul Haque"
 class PMFReport(OrganizationDomainEntity):
     month = models.IntegerField(default=1)
     year = models.IntegerField(default=2020)
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

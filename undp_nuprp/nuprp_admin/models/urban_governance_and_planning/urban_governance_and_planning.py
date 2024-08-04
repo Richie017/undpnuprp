@@ -23,7 +23,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
                                    module=ModuleEnum.Analysis, display_name='Planning and Urban Governance',
                                    group_order=1, item_order=1), enable_import, enable_export)
 class UrbanGovernanceAndPlanning(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     ward_committee_ward_no = models.CharField(max_length=20, null=True, blank=True)
     ward_committee_established = models.CharField(max_length=3, null=True, blank=True)
     ward_committee_functional = models.CharField(max_length=3, null=True, blank=True)

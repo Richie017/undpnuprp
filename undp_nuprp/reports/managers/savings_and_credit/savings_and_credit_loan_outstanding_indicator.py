@@ -2,7 +2,7 @@ from collections import OrderedDict
 
 from django.db.models.aggregates import Sum
 from django.db.models.fields import IntegerField
-from django.db.models.functions.base import Cast
+from django.db.models.functions import Cast
 
 from blackwidow.core.models.common.custom_field import CustomFieldValue
 from undp_nuprp.approvals.models.savings_and_credits.cdc_reports.approved_cdc_monthly_report import \

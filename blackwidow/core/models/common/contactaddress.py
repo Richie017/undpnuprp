@@ -14,10 +14,10 @@ class ContactAddress(DomainEntity):
     street = models.CharField(default='', max_length=500)
     city = models.CharField(default='', max_length=200)
     province = models.CharField(default='', max_length=200)
-    geography = models.ForeignKey('core.Geography', null=True)
+    geography = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     postcode = models.CharField(default='', max_length=10)
     is_primary = models.BooleanField(default=0)
-    location = models.ForeignKey(Location, null=True)
+    location = models.ForeignKey(Location, null=True, on_delete=models.SET_NULL)
     address_type = models.CharField(max_length=200, default='Home Address')
 
     @classmethod

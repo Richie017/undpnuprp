@@ -10,7 +10,7 @@ __author__ = 'Mahmud'
 
 @decorate(is_profile_content)
 class Alert(InformationObject):
-    group = models.ForeignKey(AlertGroup, null=True, default=None)
+    group = models.ForeignKey(AlertGroup, null=True, default=None, on_delete=models.SET_NULL)
     @classmethod
     def get_queryset(cls, queryset=None, user=None, profile_filter=False, **kwargs):
         if profile_filter:

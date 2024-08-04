@@ -13,7 +13,7 @@ __author__ = "Tareq"
 
 @decorate(expose_api('disabled-members-count'))
 class DisabledMembersCount(DomainEntity):
-    city = models.ForeignKey('core.Geography')
+    city = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
     disability = models.CharField(blank=True, max_length=255)
     member_count = models.IntegerField(default=0)
 

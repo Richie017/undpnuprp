@@ -24,7 +24,7 @@ class Training(OrganizationDomainEntity):
     title = models.CharField(max_length=255, blank=True)
     training_date = models.DateTimeField(default=None, null=True)
     training_location = models.CharField(max_length=128, blank=True)
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     venue = models.CharField(max_length=255, blank=True)
     facilitators = models.CharField(max_length=2048, blank=True)
     participant_male = models.IntegerField(default=0)

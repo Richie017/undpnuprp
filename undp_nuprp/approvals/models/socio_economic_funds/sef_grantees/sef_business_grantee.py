@@ -16,8 +16,8 @@ __author__ = 'Ziaul Haque'
                 module=ModuleEnum.Analysis,
                 display_name='Business Grantees', group_order=3, item_order=9))
 class SEFBusinessGrantee(SEFGrantee):
-    business_sector = models.ForeignKey('nuprp_admin.BusinessSector', null=True)
-    type_of_business = models.ForeignKey('nuprp_admin.BusinessType', null=True, related_name='+')
+    business_sector = models.ForeignKey('nuprp_admin.BusinessSector', null=True, on_delete=models.SET_NULL)
+    type_of_business = models.ForeignKey('nuprp_admin.BusinessType', null=True, related_name='+', on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

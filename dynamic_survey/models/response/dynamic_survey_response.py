@@ -38,8 +38,8 @@ class DynamicSurveyResponse(OrganizationDomainEntity):
     on_spot_creation_time = models.BigIntegerField(default=0)
     respondent_client = models.ForeignKey('core.Client', null=True, on_delete=models.SET_NULL)
     respondent_unit = models.ForeignKey('core.InfrastructureUnit', null=True, on_delete=models.SET_NULL)
-    location = models.ForeignKey('core.Location', null=True)
-    address = models.ForeignKey('core.ContactAddress', null=True)
+    location = models.ForeignKey('core.Location', null=True, on_delete=models.SET_NULL)
+    address = models.ForeignKey('core.ContactAddress', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'dynamic_survey'

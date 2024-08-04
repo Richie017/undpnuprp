@@ -1,5 +1,5 @@
 from django.apps import apps
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.db import transaction
 from django.db.models.manager import Manager
 from django.db.models.query_utils import Q

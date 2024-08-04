@@ -38,7 +38,7 @@ __author__ = 'Shuvro'
                 module=ModuleEnum.Analysis,
                 display_name='VAWG & Early Marriage Prevention Reporting', group_order=3, item_order=24))
 class VAWGEarlyMarriagePreventionReporting(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     year = models.CharField(max_length=4, null=True, blank=True)
     month = models.CharField(max_length=10, null=True, blank=True)
     cdc_cluster = models.ForeignKey(CDCCluster, null=True, on_delete=models.SET_NULL, related_name='+')
@@ -53,7 +53,7 @@ class VAWGEarlyMarriagePreventionReporting(OrganizationDomainEntity):
     number_of_disabled_female = models.IntegerField(null=True, default=0)
     number_of_transsexual = models.IntegerField(null=True, default=0)
     total_number_of_people = models.IntegerField(null=True, default=0)
-    function_of_scc = models.OneToOneField(FunctionOfSCC, null=True)
+    function_of_scc = models.OneToOneField(FunctionOfSCC, null=True, on_delete=models.SET_NULL)
     vawg_and_efm_reduction_initiatives = models.ManyToManyField(VAWGEFMReductionInitiative)
     safety_security_initiatives = models.ManyToManyField(SafetySecurityInitiative)
     awareness_raising_by_sccs = models.ManyToManyField(AwarenessRaisingBySCC)

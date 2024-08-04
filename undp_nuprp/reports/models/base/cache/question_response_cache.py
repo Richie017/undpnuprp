@@ -21,19 +21,19 @@ class QuestionResponseCache(CacheBase):
     ref_time = models.BigIntegerField(default=0, db_index=True)
     survey_count = models.IntegerField(default=0)
 
-    division = models.ForeignKey('core.Geography', related_name='question_division')
-    city = models.ForeignKey('core.Geography', related_name='question_city', db_index=True)
-    ward = models.ForeignKey('core.Geography', related_name='question_ward', db_index=True)
-    mahalla = models.ForeignKey('core.Geography', related_name='question_mahalla')
-    poor_settlement = models.ForeignKey('core.Geography', related_name='question_poor_settlement')
+    division = models.ForeignKey('core.Geography', related_name='question_division', on_delete=models.CASCADE)
+    city = models.ForeignKey('core.Geography', related_name='question_city', db_index=True, on_delete=models.CASCADE)
+    ward = models.ForeignKey('core.Geography', related_name='question_ward', db_index=True, on_delete=models.CASCADE)
+    mahalla = models.ForeignKey('core.Geography', related_name='question_mahalla', on_delete=models.CASCADE)
+    poor_settlement = models.ForeignKey('core.Geography', related_name='question_poor_settlement', on_delete=models.CASCADE)
     city_name = models.CharField(max_length=128, blank=True, db_index=True)
 
-    survey_response = models.ForeignKey('survey.SurveyResponse')
-    section_response = models.ForeignKey('survey.SectionResponse')
-    question = models.ForeignKey('survey.Question')
+    survey_response = models.ForeignKey('survey.SurveyResponse', on_delete=models.CASCADE)
+    section_response = models.ForeignKey('survey.SectionResponse', on_delete=models.CASCADE)
+    question = models.ForeignKey('survey.Question', on_delete=models.CASCADE)
     question_code = models.CharField(default='', max_length=200, db_index=True)
     question_text = models.CharField(max_length=1024, blank=True)
-    answer = models.ForeignKey('survey.Answer')
+    answer = models.ForeignKey('survey.Answer', on_delete=models.CASCADE)
     answer_text = models.CharField(max_length=2048, blank=True, db_index=True)
 
     @classmethod

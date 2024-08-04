@@ -1,5 +1,5 @@
 from django import forms
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.db import transaction
 
 from blackwidow.core.mixins.fieldmixin.multiple_select_field_mixin import GenericModelMultipleChoiceField

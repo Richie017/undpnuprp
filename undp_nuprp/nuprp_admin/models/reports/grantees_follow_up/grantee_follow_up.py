@@ -10,7 +10,7 @@ __author__ = 'Tareq'
 
 
 class GranteeFollowUp(OrganizationDomainEntity):
-    grantee = models.ForeignKey(Grantee)
+    grantee = models.ForeignKey(Grantee, on_delete=models.CASCADE)
     date_of_last_installment = models.DateField(null=True)
 
     class Meta:

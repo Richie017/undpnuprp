@@ -3,7 +3,7 @@ from datetime import datetime
 
 from django.db.models.aggregates import Sum
 from django.db.models.fields import IntegerField, FloatField
-from django.db.models.functions.base import Cast
+from django.db.models.functions import Cast
 
 from blackwidow.core.models.common.custom_field import CustomFieldValue
 from undp_nuprp.approvals.models.savings_and_credits.scg_reports.approved_scg_monthly_report import \

@@ -11,7 +11,7 @@ __author__ = 'Mahmud'
 
 class BWMenuItem(OrganizationDomainEntity):
     name = models.CharField(max_length=200)
-    parent = models.ForeignKey(BWModule)
+    parent = models.ForeignKey(BWModule, on_delete=models.CASCADE)
     permissions = models.ManyToManyField(RolePermission)
 
     @classmethod

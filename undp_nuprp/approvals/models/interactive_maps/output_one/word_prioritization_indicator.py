@@ -5,7 +5,7 @@ __author__ = 'Kaikobud'
 
 
 class WordPrioritizationIndicator(OrganizationDomainEntity):
-    Ward = models.ForeignKey('core.Geography', null=True)
+    Ward = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     poverty_index_score = models.IntegerField(null=True)
     poverty_index_quantile = models.IntegerField(null=True)
     infrastructure_index_score = models.IntegerField(null=True)

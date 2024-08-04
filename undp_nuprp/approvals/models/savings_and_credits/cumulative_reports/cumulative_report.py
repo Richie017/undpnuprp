@@ -36,7 +36,7 @@ class CumulativeReport(OrganizationDomainEntity):
     field_values = models.ManyToManyField('core.CustomFieldValue')
     location = models.ForeignKey(Location, null=True, on_delete=models.SET_NULL)
     remarks = models.CharField(max_length=300, null=True)
-    parent = models.ForeignKey('approvals.CumulativeReport', null=True)
+    parent = models.ForeignKey('approvals.CumulativeReport', null=True, on_delete=models.SET_NULL)
     parent_tsync_id = models.CharField(max_length=60, null=True)
 
     class Meta:

@@ -92,10 +92,10 @@ class Operator(Enum):
 class AlertConfig(OrganizationDomainEntity):
     subject = models.CharField(max_length=255, null=True)
     body = models.CharField(max_length=2000, null=True, default=None)
-    alert_group = models.ForeignKey(AlertGroup, null=True, default=None)
+    alert_group = models.ForeignKey(AlertGroup, null=True, default=None, on_delete=models.SET_NULL)
     sends_email = models.BooleanField(default=False)
     recipient_users = models.ManyToManyField(ConsoleUser, related_name="%(app_label)s_%(class)s_related")
-    email_template = models.ForeignKey(EmailTemplate, null=True)
+    email_template = models.ForeignKey(EmailTemplate, null=True, on_delete=models.SET_NULL)
     model = models.CharField(max_length=255, default=None, null=True)
     app_label = models.CharField(max_length=255, default=None, null=True)
     object_id = models.BigIntegerField(default=None, null=True)
@@ -104,7 +104,7 @@ class AlertConfig(OrganizationDomainEntity):
     model_property = models.CharField(max_length=255, null=True)
     self_comparison = models.BooleanField(default=False)
     reference_value = models.CharField(max_length=255, null=True)
-    counter_part = models.ForeignKey(InfrastructureUnit, null=True, default=None)
+    counter_part = models.ForeignKey(InfrastructureUnit, null=True, default=None, on_delete=models.SET_NULL)
 
     class Meta:
         abstract = True

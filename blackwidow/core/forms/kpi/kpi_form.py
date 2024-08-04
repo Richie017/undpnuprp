@@ -1,7 +1,7 @@
 import datetime
 
 from django import forms
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 
 from blackwidow.core.mixins.fieldmixin.multiple_choice_field_mixin import GenericModelChoiceField
 from blackwidow.core.mixins.formmixin.form_mixin import GenericFormMixin

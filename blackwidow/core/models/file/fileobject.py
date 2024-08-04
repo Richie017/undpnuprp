@@ -18,7 +18,7 @@ class FileObject(OrganizationDomainEntity):
     extension = models.CharField(max_length=10, null=True, default=None)
     description = models.CharField(max_length=8000, null=True, default=None)
     file = models.FileField(default=None, max_length=8000, upload_to=STATIC_UPLOAD_ROOT, null=True, blank=True)
-    location = models.ForeignKey('core.Location', null=True)
+    location = models.ForeignKey('core.Location', null=True, on_delete=models.SET_NULL)
     generation_time = models.BigIntegerField(default=0)
     order = models.IntegerField(default=0)
 

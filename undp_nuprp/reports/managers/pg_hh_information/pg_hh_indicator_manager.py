@@ -2,7 +2,7 @@ from collections import OrderedDict
 
 from django.db.models.aggregates import Count, Avg
 from django.db.models.fields import IntegerField
-from django.db.models.functions.base import Cast
+from django.db.models.functions import Cast
 
 from blackwidow.engine.routers.database_router import BWDatabaseRouter
 from undp_nuprp.survey.models.response.question_response import QuestionResponse

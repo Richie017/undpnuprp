@@ -20,8 +20,8 @@ __author__ = 'Kaikobud'
     route='mobilized-primary-group-members', group='Interactive Mapping', module=ModuleEnum.Analysis,
     display_name='Number of Registered Primary Group Members', group_order=4, item_order=3), enable_import)
 class MobilizedPrimaryGroupMember(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, related_name='_city')
-    ward = models.ForeignKey('core.Geography', null=True, related_name='_ward')
+    city = models.ForeignKey('core.Geography', null=True, related_name='_city', on_delete=models.SET_NULL)
+    ward = models.ForeignKey('core.Geography', null=True, related_name='_ward', on_delete=models.SET_NULL)
     number_of_mobilized_primary_group_members = models.IntegerField(null=True)
 
     class Meta:

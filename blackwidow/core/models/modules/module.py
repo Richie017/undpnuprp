@@ -15,7 +15,7 @@ __author__ = 'Mahmud'
 class BWModule(OrganizationDomainEntity):
     name = models.CharField(max_length=200)
     icon = models.CharField(max_length=120, default='fbx-admin')
-    parent = models.ForeignKey('self', null=True)
+    parent = models.ForeignKey('self', null=True, on_delete=models.SET_NULL)
     module_url = models.CharField(max_length=128, default='')
     module_order = models.IntegerField(default=0)
 

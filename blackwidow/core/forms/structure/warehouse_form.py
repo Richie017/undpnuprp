@@ -13,7 +13,7 @@ class WareHouseForm(GenericFormMixin):
     def __init__(self, data=None, files=None, instance=None, prefix='', **kwargs):
         super().__init__(data=data, files=files, instance=instance, prefix=prefix, **kwargs)
 
-        prefix = prefix + '-' if prefix is not '' else prefix
+        prefix = prefix + '-' if prefix != '' else prefix
         self.add_child_form("address", ContactAddressForm(data=data, files=files, form_header='Address', instance=instance.address if instance is not None else None, **kwargs))
         kwargs.update({
             'prefix': 'meta'

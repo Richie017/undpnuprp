@@ -21,7 +21,7 @@ class QuantitativeReport(OrganizationDomainEntity):
     year = models.IntegerField(default=1970)
     month = models.IntegerField(default=1)
     submission_date = models.DateField(default=None, null=True)
-    attached_file = models.ForeignKey('core.FileObject', null=True)
+    attached_file = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

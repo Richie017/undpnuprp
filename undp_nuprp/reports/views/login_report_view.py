@@ -3,7 +3,7 @@ import os
 from django import forms
 from django.conf import settings
 from django.contrib import messages
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from openpyxl import Workbook
 from openpyxl.styles import NamedStyle as Style
 from openpyxl.styles.alignment import Alignment

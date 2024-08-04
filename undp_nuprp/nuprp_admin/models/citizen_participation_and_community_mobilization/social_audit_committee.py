@@ -26,7 +26,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
           )
 class SocialAuditCommittee(OrganizationDomainEntity):
     year = models.CharField(max_length=4, null=True, blank=True)
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     ward_no = models.CharField(max_length=20, null=True, blank=True)
     trained = models.IntegerField(null=True, blank=True)
     male = models.IntegerField(null=True, blank=True)

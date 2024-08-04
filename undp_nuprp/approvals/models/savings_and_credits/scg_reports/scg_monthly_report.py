@@ -28,7 +28,7 @@ class SCGMonthlyReport(OrganizationDomainEntity):
     field_values = models.ManyToManyField('core.CustomFieldValue')
     location = models.ForeignKey(Location, null=True, on_delete=models.SET_NULL)
     remarks = models.CharField(max_length=300, null=True)
-    parent = models.ForeignKey('approvals.SCGMonthlyReport', null=True)
+    parent = models.ForeignKey('approvals.SCGMonthlyReport', null=True, on_delete=models.SET_NULL)
     parent_tsync_id = models.CharField(max_length=60, null=True)
     on_spot_creation_time = models.BigIntegerField(default=0)  # when this version/object is being created
     is_baseline = models.BooleanField(default=False, editable=False)  # distinguish between baseline and monthly report

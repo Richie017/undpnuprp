@@ -70,8 +70,8 @@ class SurveyResponse(OrganizationDomainEntity):
     respondent_client = models.ForeignKey('core.Client', null=True, on_delete=models.SET_NULL)
     respondent_unit = models.ForeignKey('core.InfrastructureUnit', null=True, on_delete=models.SET_NULL)
     photos = models.ManyToManyField('core.ImageFileObject')
-    location = models.ForeignKey('core.Location', null=True)
-    address = models.ForeignKey('core.ContactAddress', null=True)
+    location = models.ForeignKey('core.Location', null=True, on_delete=models.CASCADE)
+    address = models.ForeignKey('core.ContactAddress', null=True, on_delete=models.SET_NULL)
     imei_number = models.CharField(max_length=55, null=True, blank=True)
 
     class Meta:

@@ -16,8 +16,8 @@ __author__ = 'Tareq'
 
 
 class PGMPIIndicator(CacheBase):
-    survey_response = models.ForeignKey('survey.SurveyResponse')
-    primary_group_member = models.ForeignKey('nuprp_admin.PrimaryGroupMember', null=True)
+    survey_response = models.ForeignKey('survey.SurveyResponse', on_delete=models.CASCADE)
+    primary_group_member = models.ForeignKey('nuprp_admin.PrimaryGroupMember', null=True, on_delete=models.SET_NULL)
     is_female_headed = models.BooleanField(default=False)
     is_male_headed = models.BooleanField(default=False)
     is_head_disabled = models.BooleanField(default=False)
