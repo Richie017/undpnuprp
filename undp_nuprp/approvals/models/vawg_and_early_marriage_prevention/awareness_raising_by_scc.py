@@ -10,8 +10,8 @@ class AwarenessRaisingBySCC(OrganizationDomainEntity):
     campaign_date = models.DateField(null=True, blank=True)
     activity_name = models.CharField(null=True, blank=True, max_length=128)
     please_specify = models.TextField(blank=True)
-    campaign_location_city = models.ForeignKey('core.Geography', null=True, related_name='city')  # ward number
-    campaign_location_ward = models.ForeignKey('core.Geography', null=True, related_name='ward')  # ward number
+    campaign_location_city = models.ForeignKey('core.Geography', null=True, related_name='city', on_delete=models.SET_NULL)  # ward number
+    campaign_location_ward = models.ForeignKey('core.Geography', null=True, related_name='ward', on_delete=models.SET_NULL)  # ward number
     number_of_female_attending = models.IntegerField(null=True, default=0)
     number_of_male_attending = models.IntegerField(null=True, default=0)
     number_of_disabled_male_attending = models.IntegerField(null=True, default=0)
@@ -20,7 +20,7 @@ class AwarenessRaisingBySCC(OrganizationDomainEntity):
     number_of_lgi_member_attending = models.IntegerField(null=True, default=0)
     campaign_key_messages = models.CharField(null=True, blank=True, max_length=2048)
     name_of_usage_method = models.CharField(null=True, blank=True, max_length=128)
-    attachment = models.ForeignKey('core.FileObject', null=True)
+    attachment = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

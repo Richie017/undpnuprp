@@ -6,9 +6,9 @@ __author__ = 'Tareq'
 
 
 class QuestionResponse(OrganizationDomainEntity):
-    section_response = models.ForeignKey('survey.SectionResponse')
-    question = models.ForeignKey('survey.Question')
-    answer = models.ForeignKey('survey.Answer')
+    section_response = models.ForeignKey('survey.SectionResponse', on_delete=models.CASCADE)
+    question = models.ForeignKey('survey.Question', on_delete=models.CASCADE)
+    answer = models.ForeignKey('survey.Answer', on_delete=models.CASCADE)
     question_text = models.CharField(max_length=1024, blank=True, db_index=True)
     answer_text = models.CharField(max_length=2048, blank=True, db_index=True)
     index = models.IntegerField(default=0)

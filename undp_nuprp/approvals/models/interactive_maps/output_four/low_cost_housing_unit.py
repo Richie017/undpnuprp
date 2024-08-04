@@ -19,7 +19,7 @@ __author__ = 'Ziaul Haque'
     route='low-cost-housing-units', group='Interactive Mapping', module=ModuleEnum.Analysis,
     display_name='Number of Low-Cost Housing Units', group_order=4, item_order=1), )
 class LowCostHousingUnit(OrganizationDomainEntity):
-    ward = models.ForeignKey('core.Geography')
+    ward = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
 
     number_of_housing_units = models.IntegerField(null=True)
     number_of_male_pg_member_benefiting = models.IntegerField(null=True)

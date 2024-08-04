@@ -88,7 +88,7 @@ class DomainEntity(ListViewModelMixin, DetailsViewModelMixin, SerializableModelM
     code = models.CharField(default='', max_length=200)
     deleted_level = models.SmallIntegerField(default=0)
     entity_meta = models.ForeignKey('core.DomainEntityMeta', null=True, on_delete=models.SET_NULL)
-    master_version = models.ForeignKey('self', related_name='version_master', null=True)
+    master_version = models.ForeignKey('self', related_name='version_master', null=True, on_delete=models.SET_NULL)
     is_version = models.BooleanField(default=False, editable=False)
 
     ## Model Managers.

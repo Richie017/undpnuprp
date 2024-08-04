@@ -1,7 +1,7 @@
 import importlib
 
 from django.apps import apps
-from django.conf.urls import url
+from django.urls import path
 
 from blackwidow.engine.constants.access_permissions import BW_ACCESS_READ_ONLY
 from blackwidow.engine.decorators.utility import get_models_with_decorator
@@ -209,11 +209,11 @@ class MenuManager(object):
                     route_url = _m.get_model_meta('route', 'route') + o[1]
                     
                     if o[2]:
-                        urlpatterns += [url(r'^' + route_url,
+                        urlpatterns += [path('' + route_url,
                                             view_class.as_view(model=_m, form_class=form_class, model_name=model_name,
                                                                success_url_name=success_url_name), name=route_name)]
                     else:
-                        urlpatterns += [url(r'^' + route_url, view_class.as_view(model=_m, model_name=model_name,
+                        urlpatterns += [path('' + route_url, view_class.as_view(model=_m, model_name=model_name,
                                                                                  success_url_name=success_url_name),
                                             name=route_name)]
                 else:

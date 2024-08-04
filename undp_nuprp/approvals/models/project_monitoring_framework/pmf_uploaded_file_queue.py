@@ -48,9 +48,9 @@ DEFAULT_ACHIEVEMENT_COLUMN = 15
 
 
 class PMFUploadedFileQueue(OrganizationDomainEntity):
-    pmf_report = models.ForeignKey('approvals.PMFReport')
+    pmf_report = models.ForeignKey('approvals.PMFReport', on_delete=models.CASCADE)
     status = models.CharField(max_length=255, default=FileQueueEnum.SCHEDULED)
-    file = models.ForeignKey('core.FileObject')
+    file = models.ForeignKey('core.FileObject', on_delete=models.CASCADE)
 
     class Meta:
         app_label = 'approvals'

@@ -42,7 +42,7 @@ __author__ = 'Shuvro'
 
 @decorate(save_audit_log, expose_api('shortlisted-eligible-grantee'))
 class ShortListedEligibleGrantee(EligibleGrantee):
-    cdc = models.ForeignKey('nuprp_admin.CDC', null=True)
+    cdc = models.ForeignKey('nuprp_admin.CDC', null=True, on_delete=models.SET_NULL)
     assigned_city = models.CharField(max_length=128, blank=True, null=True)
     eligible_grantee_content_type = models.ForeignKey(ContentType, on_delete=models.SET_NULL, null=True)
     eligible_grantee_id = models.PositiveIntegerField(null=True)

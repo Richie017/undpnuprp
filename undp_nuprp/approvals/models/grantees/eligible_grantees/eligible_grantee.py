@@ -41,7 +41,7 @@ class EligibleGrantee(OrganizationDomainEntity):
     other_grant_type_recipient = models.CharField(max_length=255, blank=True)
     is_eligible = models.BooleanField(default=False, db_index=True)
     is_female_headed = models.BooleanField(default=False)
-    address = models.ForeignKey('core.ContactAddress', null=True)
+    address = models.ForeignKey('core.ContactAddress', null=True, on_delete=models.SET_NULL)
     indvidually_edited = models.BooleanField(default=False)
 
     class Meta:

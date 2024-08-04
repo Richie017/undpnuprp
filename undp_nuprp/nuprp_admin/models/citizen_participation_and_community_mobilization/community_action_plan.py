@@ -23,7 +23,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
                 item_order=3)
           )
 class CommunityActionPlan(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     year = models.CharField(max_length=4, null=True, blank=True)
     ward_no = models.CharField(max_length=20, null=True, blank=True)
     cap_developed = models.IntegerField(null=True, blank=True)

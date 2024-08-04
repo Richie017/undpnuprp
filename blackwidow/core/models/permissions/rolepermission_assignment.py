@@ -10,8 +10,8 @@ __author__ = 'mahmudul'
 
 
 class RolePermissionAssignment(OrganizationDomainEntity):
-    permission = models.ForeignKey(RolePermission, related_name='permission')
-    role = models.ForeignKey(Role)
+    permission = models.ForeignKey(RolePermission, related_name='permission', on_delete=models.CASCADE)
+    role = models.ForeignKey(Role, on_delete=models.CASCADE)
     access = models.IntegerField(default=0)
     visibility = models.IntegerField(default=0)
 

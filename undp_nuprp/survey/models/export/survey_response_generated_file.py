@@ -52,11 +52,11 @@ __author__ = 'Tareq, Ziaul Haque'
           route(route='survey-response-export', group='Download Data', module=ModuleEnum.Administration,
                 display_name='Monthly Survey Data Export', item_order=100, group_order=4))
 class SurveyResponseGeneratedFile(DomainEntity):
-    survey = models.ForeignKey('survey.Survey', null=True)
+    survey = models.ForeignKey('survey.Survey', null=True, on_delete=models.SET_NULL)
     month = models.IntegerField(default=1)
     year = models.IntegerField(default=2017)
     format = models.CharField(max_length=32, blank=True)
-    file = models.ForeignKey('core.FileObject', null=True)
+    file = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'survey'

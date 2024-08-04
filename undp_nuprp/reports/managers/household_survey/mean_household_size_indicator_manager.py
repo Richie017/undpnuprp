@@ -1,11 +1,10 @@
 """
     Created by tareq on 3/13/17
 """
-from django.db.models.aggregates import Count, Sum
 from collections import OrderedDict
 
 from django.db.models.fields import IntegerField
-from django.db.models.functions.base import Cast
+from django.db.models.functions import Cast
 
 from blackwidow.engine.routers.database_router import BWDatabaseRouter
 from undp_nuprp.reports.models.base.cache.question_response_cache import QuestionResponseCache

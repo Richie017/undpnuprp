@@ -20,9 +20,9 @@ __author__ = 'Razon'
           route(route='dynamic-question', group='Dynamic Survey', module=ModuleEnum.Administration,
                 display_name='Question', group_order=5, item_order=4, hide=True))
 class DynamicQuestion(OrganizationDomainEntity):
-    section = models.ForeignKey('dynamic_survey.DynamicSection', related_name='questions')
+    section = models.ForeignKey('dynamic_survey.DynamicSection', related_name='questions', on_delete=models.CASCADE)
     # Only the first parent is saved but a question may have multiple parents
-    parent = models.ForeignKey('dynamic_survey.DynamicQuestion', null=True)
+    parent = models.ForeignKey('dynamic_survey.DynamicQuestion', null=True, on_delete=models.SET_NULL)
     text = models.CharField(max_length=1024, blank=True)
     text_en = models.CharField(blank=True, max_length=2048, null=True)
     text_bn = models.CharField(blank=True, max_length=2048, null=True)

@@ -24,11 +24,11 @@ from undp_nuprp.nuprp_admin.models import CDCCluster, CDC
                                    module=ModuleEnum.Analysis, display_name='SEF Tracker',
                                    group_order=3, item_order=25), enable_import, enable_export)
 class SEFTracker(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     ward = models.CharField(max_length=20, null=True, blank=True)
     contract_with_cdc_or_cluster = models.CharField(max_length=20, null=True, blank=True)
-    cluster = models.ForeignKey(CDCCluster, null=True, blank=True, related_name='sef_trackers')
-    cdc = models.ForeignKey(CDC, null=True, blank=True)
+    cluster = models.ForeignKey(CDCCluster, null=True, blank=True, related_name='sef_trackers', on_delete=models.SET_NULL)
+    cdc = models.ForeignKey(CDC, null=True, blank=True, on_delete=models.SET_NULL)
     contract_number = models.CharField(max_length=20, null=True, blank=True)
     contract_year = models.IntegerField(null=True, blank=True)
     category_name = models.CharField(max_length=50, blank=True, null=True)

@@ -32,7 +32,7 @@ class SEFGrantee(OrganizationDomainEntity):
     name = models.CharField(max_length=255, blank=True, null=True)
     relation_with_pg_member = models.CharField(max_length=255, blank=True, null=True)
     remarks = models.CharField(max_length=300, blank=True, null=True)
-    address = models.ForeignKey('core.ContactAddress', null=True)
+    address = models.ForeignKey('core.ContactAddress', null=True, on_delete=models.SET_NULL)
     has_disability = models.CharField(max_length=3, blank=True, null=True)
     # has_disability_family = models.CharField(max_length=3, blank=True, null=True)
     difficulty_in_seeing = models.CharField(max_length=128, blank=True, null=True)

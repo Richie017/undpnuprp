@@ -8,5 +8,5 @@ from django.db import models
 
 class SessionKey(OrganizationDomainEntity):
     ses_key = models.CharField(max_length=300, null=False)
-    user = models.ForeignKey(ConsoleUser, default=None)
+    user = models.ForeignKey(ConsoleUser, default=None, on_delete=models.SET_NULL)
     context = models.CharField(max_length=8000, null=True, default='')

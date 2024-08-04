@@ -10,7 +10,7 @@ __author__ = 'Mahmud'
 
 class InfrastructureUserAssignment(OrganizationDomainEntity):
     users = models.ManyToManyField(ConsoleUser)
-    role = models.ForeignKey(Role)
+    role = models.ForeignKey(Role, on_delete=models.CASCADE)
 
     @classmethod
     def get_serializer(cls):

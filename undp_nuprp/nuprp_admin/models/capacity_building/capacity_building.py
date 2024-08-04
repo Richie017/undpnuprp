@@ -27,7 +27,7 @@ class CapacityBuilding(OrganizationDomainEntity):
     type_of_capacity_building = models.SmallIntegerField(null=True)
     specify_if_other_type_of_cb = models.TextField(blank=True)
 
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
 
     batched_planned = models.IntegerField(default=0)
     batched_held = models.IntegerField(default=0)

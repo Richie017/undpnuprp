@@ -7,8 +7,8 @@ __author__ = 'Tareq'
 
 
 class SectionResponse(OrganizationDomainEntity):
-    survey_response = models.ForeignKey('survey.SurveyResponse', null=True)
-    section = models.ForeignKey('survey.Section')
+    survey_response = models.ForeignKey('survey.SurveyResponse', null=True, on_delete=models.SET_NULL)
+    section = models.ForeignKey('survey.Section', on_delete=models.CASCADE)
 
     @classmethod
     def version_enabled_related_fields(cls):

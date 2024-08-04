@@ -17,7 +17,7 @@ __author__ = 'Mahmud'
 @decorate(is_object_context,
           route(route='custom-fields', display_name='Custom Field', module=ModuleEnum.Settings, group='Common'))
 class CustomField(DomainEntity):
-    parent = models.ForeignKey('core.CustomField', null=True)
+    parent = models.ForeignKey('core.CustomField', null=True, on_delete=models.SET_NULL)
     assigned_code = models.CharField(max_length=128, blank=True)
     name = models.CharField(max_length=200)
     name_bd = models.CharField(max_length=200, blank=True)
@@ -26,7 +26,7 @@ class CustomField(DomainEntity):
     list_values = models.TextField(help_text='For list fields only. Enter one option per line.', blank=True, null=True)
     list_values_bd = models.TextField(help_text='For list fields only. Enter one option per line.', blank=True,
                                       null=True)
-    field_group = models.ForeignKey('core.FieldGroup', null=True)
+    field_group = models.ForeignKey('core.FieldGroup', null=True, on_delete=models.SET_NULL)
     weight = models.IntegerField(default=100)
     related_model_name = models.CharField(max_length=128, blank=True)
     reachout_level = models.IntegerField(default=0)
@@ -90,7 +90,7 @@ class CustomField(DomainEntity):
 
 class CustomFieldValue(DomainEntity):
     value = models.CharField(max_length=8000, null=True)
-    field = models.ForeignKey(CustomField)
+    field = models.ForeignKey(CustomField, on_delete=models.CASCADE)
 
     @classmethod
     def get_serializer(cls):
@@ -105,8 +105,8 @@ class CustomFieldValue(DomainEntity):
 
 
 class CustomImageFieldValue(DomainEntity):
-    value = models.ForeignKey(ImageFileObject, null=True)
-    field = models.ForeignKey(CustomField)
+    value = models.ForeignKey(ImageFileObject, null=True, on_delete=models.SET_NULL)
+    field = models.ForeignKey(CustomField, on_delete=models.CASCADE)
 
     @classmethod
     def get_serializer(cls):
@@ -124,8 +124,8 @@ class CustomImageFieldValue(DomainEntity):
 
 
 class CustomDocumentFieldValue(DomainEntity):
-    value = models.ForeignKey(FileObject, null=True)
-    field = models.ForeignKey(CustomField)
+    value = models.ForeignKey(FileObject, null=True, on_delete=models.SET_NULL)
+    field = models.ForeignKey(CustomField, on_delete=models.CASCADE)
 
     @classmethod
     def get_serializer(cls):

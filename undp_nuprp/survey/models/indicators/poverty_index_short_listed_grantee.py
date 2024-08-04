@@ -19,7 +19,7 @@ __author__ = 'Shuvro'
 
 
 class PGPovertyIndexShortListedGrantee(DomainEntity):
-    survey_response = models.ForeignKey('survey.SurveyResponse', null=True)
+    survey_response = models.ForeignKey('survey.SurveyResponse', null=True, on_delete=models.SET_NULL)
     index_no = models.IntegerField(default=0)
     index_name = models.CharField(max_length=256, blank=True)
     index_description = models.TextField(blank=True, null=True)

@@ -25,7 +25,7 @@ __author__ = 'Mahbub, Shuvro'
                 module=ModuleEnum.Analysis, display_name='Nutrition Reporting', group_order=3, item_order=23),
           partial_route(relation='normal', models=[NutritionMassAwarenessSession]))
 class NutritionReporting(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     month = models.IntegerField(default=1, null=True, blank=True)
     year = models.IntegerField(default=2020)
     no_of_100_day_hh_targeted_last_month = models.IntegerField(null=True, blank=True)

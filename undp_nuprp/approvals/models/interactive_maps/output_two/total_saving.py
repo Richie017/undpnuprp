@@ -19,7 +19,7 @@ __author__ = 'Kaikobud'
     route='value-of-total-savings', group='Interactive Mapping', module=ModuleEnum.Analysis,
     display_name='Value of Total Savings', group_order=4, item_order=4), enable_import)
 class TotalSaving(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography')
+    city = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
     value_of_total_savings = models.DecimalField(max_digits=20, decimal_places=2, null=True)
 
     class Meta:

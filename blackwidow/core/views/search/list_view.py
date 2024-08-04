@@ -36,7 +36,7 @@ class SearchView(GenericListView):
         context = super(GenericListView, self).get_context_data(**kwargs)
         context['page_sizes'] = [10, 25, 50, 100, 500]
 
-        if self.request.GET.get("sort", '') is '':
+        if self.request.GET.get("sort", '') == '':
             context['table'].order_by = '-last_updated'
         context['table'] = self.get_table_class()([SearchResult(
             name=getattr(x, QUICK_SEARCH_PROPERTY[x.__class__.__name__.lower()]['title']) + " (" + bw_titleize(

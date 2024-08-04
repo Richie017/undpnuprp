@@ -28,7 +28,7 @@ S3_STATIC_ENABLED = settings.S3_STATIC_ENABLED
                                    module=ModuleEnum.Analysis, display_name='Meeting',
                                    group_order=1, item_order=2), enable_import, enable_export)
 class Meeting(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     ward_number = models.CharField(max_length=20, null=True, blank=True)
     meeting = models.CharField(max_length=255, null=True, blank=True)
     standing_committee_name = models.CharField(max_length=255, null=True, blank=True)
@@ -41,7 +41,7 @@ class Meeting(OrganizationDomainEntity):
     number_of_disabled_female_participants = models.IntegerField(null=True, blank=True, default=0)
     number_of_total_participants = models.IntegerField(null=True, blank=True, default=0)
     remarks = models.TextField(null=True, blank=True)
-    attachment = models.ForeignKey('core.FileObject', null=True, blank=True)
+    attachment = models.ForeignKey('core.FileObject', null=True, blank=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'nuprp_admin'

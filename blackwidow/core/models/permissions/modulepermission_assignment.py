@@ -11,11 +11,11 @@ __author__ = 'mahmudul'
 
 
 class ModulePermissionAssignment(OrganizationDomainEntity):
-    module = models.ForeignKey(BWModule)
-    role = models.ForeignKey(Role)
+    module = models.ForeignKey(BWModule, on_delete=models.CASCADE)
+    role = models.ForeignKey(Role, on_delete=models.CASCADE)
     access = models.IntegerField(default=0)
     visibility = models.IntegerField(default=0)
-    landing_model = models.ForeignKey(RolePermission, null=True)
+    landing_model = models.ForeignKey(RolePermission, null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'core'

@@ -36,10 +36,10 @@ class FileQueueEnum(Enum):
 
 
 class FileQueue(OrganizationDomainEntity):
-    file = models.ForeignKey(FileObject)
+    file = models.ForeignKey(FileObject, on_delete=models.CASCADE)
     model = models.CharField(max_length=255)
     status = models.CharField(max_length=255)
-    parent = models.ForeignKey('self', null=True)
+    parent = models.ForeignKey('self', null=True, on_delete=models.SET_NULL)
 
     def get_choice_name(self):
         return str(self.file)

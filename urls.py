@@ -1,7 +1,8 @@
 import importlib
 
 import debug_toolbar
-from django.conf.urls import url, include
+from django.conf.urls import include
+from django.urls import path
 from django.conf.urls.static import static
 
 import settings
@@ -33,21 +34,21 @@ for _app in INSTALLED_APPS:
         pass
 
 urlpatterns += [
-    url(r'^api/login', ApiLoginView.as_view()),
-    url(r'^api/status', ApiStatusView.as_view()),
-    url(r'^api/legacy-image-uploads/(?P<tsync_id>.+)/', ApiLegacyImageUploadView.as_view()),
-    url(r'^__debug__/', include(debug_toolbar.urls)),
-    # url(r'^silk/', include('silk.urls', namespace='silk')),
+    path('api/login', ApiLoginView.as_view()),
+    path('api/status', ApiStatusView.as_view()),
+    path('api/legacy-image-uploads/<tsync_id>/', ApiLegacyImageUploadView.as_view()),
+    path('__debug__/', include(debug_toolbar.urls)),
+    path('silk/', include('silk.urls', namespace='silk')),
 ]
 
 urlpatterns += [
-    url(r'^language/', include('django.conf.urls.i18n')),
+    path('language/', include('django.conf.urls.i18n')),
 ]
 
 # ------------------------- menu renderer ----------------------------------------------------------
 urlpatterns += [
-    url(r'^renderer/menus/$', MenuRendererView.as_view(), name="menu-renderer"),
-    url(r'^server-status$', PublicView.as_view(), name="server-status-page"),
+    path('renderer/menus/$', MenuRendererView.as_view(), name="menu-renderer"),
+    path('server-status$', PublicView.as_view(), name="server-status-page"),
 ]
 
 urlpatterns += static(settings.STATIC_UPLOAD_URL, document_root=settings.STATIC_UPLOAD_ROOT)

@@ -12,7 +12,7 @@ from blackwidow.engine.extensions import Clock
           route(route='delete-surveys', group='Other Admin', module=ModuleEnum.Administration,
                 display_name='Delete Surveys', group_order=2, item_order=8))
 class DeleteTestSurvey(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     from_date = models.DateTimeField(null=True, blank=True)
     to_date = models.DateTimeField(null=True, blank=True)
     date_of_deletion = models.BigIntegerField(null=True, blank=True)

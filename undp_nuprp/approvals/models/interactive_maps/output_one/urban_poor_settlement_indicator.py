@@ -5,7 +5,7 @@ __author__ = 'Kaikobud'
 
 
 class UrbanPoorSettlementIndicator(OrganizationDomainEntity):
-    settlement = models.ForeignKey('core.Geography', null=True)
+    settlement = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     household = models.IntegerField(null=True)
     population = models.IntegerField(null=True)
     settlement_age = models.IntegerField(null=True)

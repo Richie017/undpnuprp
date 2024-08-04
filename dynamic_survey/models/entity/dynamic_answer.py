@@ -17,7 +17,7 @@ __author__ = 'Razon'
           route(route='dynamic-answer', group='Dynamic Survey', module=ModuleEnum.Administration,
                 display_name='Answer', group_order=5, item_order=5, hide=True))
 class DynamicAnswer(OrganizationDomainEntity):
-    question = models.ForeignKey('dynamic_survey.DynamicQuestion', related_name='answers')
+    question = models.ForeignKey('dynamic_survey.DynamicQuestion', related_name='answers', on_delete=models.CASCADE)
     text = models.CharField(max_length=2048, blank=True)
     text_en = models.CharField(blank=True, max_length=2048, null=True)
     text_bn = models.CharField(blank=True, max_length=2048, null=True)

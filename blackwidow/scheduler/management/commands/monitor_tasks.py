@@ -6,7 +6,7 @@ from importlib import import_module
 
 from django.core.mail import EmailMultiAlternatives
 from django.core.management import BaseCommand
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 
 import settings
 from blackwidow.core.models import SchedulerLog

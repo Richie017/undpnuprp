@@ -15,7 +15,7 @@ class BankAccountDetails(OrganizationDomainEntity):
     routing_number = models.CharField(max_length=200, default="")
     account_name = models.CharField(max_length=200, default="")
     account_number = models.CharField(max_length=200, default="")
-    image_of_bank_cheque = models.ForeignKey(ImageFileObject, null=True)
+    image_of_bank_cheque = models.ForeignKey(ImageFileObject, null=True, on_delete=models.SET_NULL)
 
     def __str__(self):
         return mark_safe("<strong>Bank Name: </strong>" + self.bank_name + '<br/>'

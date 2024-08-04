@@ -13,7 +13,7 @@ __author__ = 'activehigh'
 
 
 class PerformanceIndex(OrganizationDomainEntity, ExportModelMixin):
-    user = models.ForeignKey(ConsoleUser)
+    user = models.ForeignKey(ConsoleUser, on_delete=models.CASCADE)
     start_time = models.BigIntegerField(default=0, null=True)
     end_time = models.BigIntegerField(default=0, null=True)
     name = models.CharField(max_length=500)

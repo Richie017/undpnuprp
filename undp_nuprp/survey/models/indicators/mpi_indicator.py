@@ -17,8 +17,8 @@ __author__ = 'Tareq'
 
 
 class MPIIndicator(CacheBase):
-    survey_response = models.ForeignKey('survey.SurveyResponse')
-    household = models.ForeignKey('nuprp_admin.Household', null=True)
+    survey_response = models.ForeignKey('survey.SurveyResponse', on_delete=models.CASCADE)
+    household = models.ForeignKey('nuprp_admin.Household', null=True, on_delete=models.SET_NULL)
     is_female_headed = models.BooleanField(default=False)
     is_head_disabled = models.BooleanField(default=False)
     is_minority = models.BooleanField(default=False)

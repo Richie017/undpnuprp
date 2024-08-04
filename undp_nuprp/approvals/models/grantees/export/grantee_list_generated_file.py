@@ -34,9 +34,9 @@ class GranteeGeneratedFile(DomainEntity):
     last_eligible_grantee_id = models.IntegerField(default=0)
     month = models.IntegerField(default=1)
     year = models.IntegerField(default=2017)
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     format = models.CharField(max_length=32, blank=True)
-    file = models.ForeignKey('core.FileObject', null=True)
+    file = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

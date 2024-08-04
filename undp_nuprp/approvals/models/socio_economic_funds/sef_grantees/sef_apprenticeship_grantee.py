@@ -15,8 +15,8 @@ __author__ = 'Ziaul Haque'
                 module=ModuleEnum.Analysis,
                 display_name='Apprenticeship Grantees', group_order=3, item_order=10))
 class SEFApprenticeshipGrantee(SEFGrantee):
-    trade_sector = models.ForeignKey('nuprp_admin.TradeSector', null=True)
-    trade_type = models.ForeignKey('nuprp_admin.TradeType', null=True, related_name='+')
+    trade_sector = models.ForeignKey('nuprp_admin.TradeSector', null=True, on_delete=models.SET_NULL)
+    trade_type = models.ForeignKey('nuprp_admin.TradeType', null=True, related_name='+', on_delete=models.SET_NULL)
     is_still_attending_training = models.CharField(max_length=128, blank=True, null=True)
 
     class Meta:

@@ -62,7 +62,7 @@ class RoleFilterEntity(OrganizationDomainEntity):
                 module=ModuleEnum.Settings),
           partial_route(relation='normal', models=[RoleFilterEntity]))
 class RoleFilter(OrganizationDomainEntity):
-    role = models.ForeignKey(Role, null=True)
+    role = models.ForeignKey(Role, null=True, on_delete=models.SET_NULL)
     filters = models.ManyToManyField(RoleFilterEntity)
 
     def get_choice_name(self):

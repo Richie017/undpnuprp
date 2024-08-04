@@ -14,7 +14,7 @@ class EmailLog(SystemLog):
     from blackwidow.core.models.users.user import ConsoleUser
 
     status = models.CharField(max_length=200, default='')
-    recipient_user = models.ForeignKey(ConsoleUser, null=True, default=None)
+    recipient_user = models.ForeignKey(ConsoleUser, null=True, default=None, on_delete=models.SET_NULL)
 
     @classmethod
     def table_columns(cls):

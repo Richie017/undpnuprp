@@ -10,7 +10,7 @@ from django.forms import HiddenInput
 from django.template.exceptions import TemplateSyntaxError
 from django.utils.html import escape
 from django.utils.http import urlencode
-from django.utils.translation import ugettext
+from django.utils.translation import gettext
 from django_tables2.templatetags.django_tables2 import QuerystringNode, context_processor_error_msg
 from widget_tweaks.templatetags.widget_tweaks import append_attr
 
