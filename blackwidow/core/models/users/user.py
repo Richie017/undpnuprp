@@ -48,7 +48,7 @@ class ConsoleUser(OrganizationDomainEntity):
     addresses = models.ManyToManyField(ContactAddress)
     emails = models.ManyToManyField(EmailAddress)
     phones = models.ManyToManyField(PhoneNumber)
-    role = models.ForeignKey(Role, null=False, on_delete=models.SET_NULL)
+    role = models.ForeignKey(Role, null=False, on_delete=models.CASCADE)
     qr_code = models.ForeignKey(QRCode, null=True, on_delete=models.SET_NULL)
     male_or_female = models.CharField(max_length=2, choices=_CHOICES_MF, null=True, default='M')
     device_id = models.CharField(max_length=200, default=None, null=True)

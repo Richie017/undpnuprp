@@ -2,7 +2,7 @@ import importlib
 
 import debug_toolbar
 from django.conf.urls import include
-from django.urls import path
+from django.urls import path, re_path
 from django.conf.urls.static import static
 
 import settings
@@ -47,8 +47,8 @@ urlpatterns += [
 
 # ------------------------- menu renderer ----------------------------------------------------------
 urlpatterns += [
-    path('renderer/menus/$', MenuRendererView.as_view(), name="menu-renderer"),
-    path('server-status$', PublicView.as_view(), name="server-status-page"),
+    re_path(r'^renderer/menus/$', MenuRendererView.as_view(), name="menu-renderer"),
+    re_path(r'^server-status$', PublicView.as_view(), name="server-status-page"),
 ]
 
 urlpatterns += static(settings.STATIC_UPLOAD_URL, document_root=settings.STATIC_UPLOAD_ROOT)
