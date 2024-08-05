@@ -49,9 +49,9 @@ class GranteesByWPI(OrganizationDomainEntity):
     sif_grantees = models.CharField(null=True, blank=True, max_length=20)
     crmif_grantees = models.CharField(null=True, blank=True, max_length=20)
     total_grantee = models.CharField(null=True, blank=True, max_length=20)
-    total_grantee_int = models.IntegerField(null=True, blank=True, max_length=20)
+    total_grantee_int = models.IntegerField(null=True, blank=True)
     total_family_member_benefited = models.CharField(null=True, blank=True, max_length=20)
-    total_family_member_benefited_int = models.IntegerField(null=True, blank=True, max_length=20)
+    total_family_member_benefited_int = models.IntegerField(null=True, blank=True)
 
     @classmethod
     def table_columns(cls):
