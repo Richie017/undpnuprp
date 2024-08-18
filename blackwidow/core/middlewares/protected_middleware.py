@@ -17,6 +17,9 @@ __author__ = 'mahmudul'
 
 
 class ProtectedFormPostMiddleWare(object):
+    def __init__(self, get_response):
+        self.get_response = get_response
+
     def is_json_request(self, request):
         """
         check if request type is "json" or not
