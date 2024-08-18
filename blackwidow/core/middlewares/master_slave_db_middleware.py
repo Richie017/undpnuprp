@@ -29,6 +29,8 @@ class MasterSlaveDBMiddleware(object):
     DB router.
 
     """
+    def __init__(self, get_response):
+        self.get_response = get_response
 
     def process_request(self, request):
         """Set the thread's pinning flag according to the presence of the
