@@ -10,6 +10,8 @@ services:
       - POSTGRES_HOST=localhost
     ports:
       - 5433:5432
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
   app:
     container_name: undpnuprp
     build:
@@ -24,3 +26,5 @@ services:
       - db
     env_file:
       - .env
+volumes:
+  postgres_data:

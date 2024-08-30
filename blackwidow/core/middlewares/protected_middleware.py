@@ -20,6 +20,12 @@ class ProtectedFormPostMiddleWare(object):
     def __init__(self, get_response):
         self.get_response = get_response
 
+    def __call__(self, request):
+        # Middleware logic before view is called
+        response = self.get_response(request)
+        # Middleware logic after view is called
+        return response
+
     def is_json_request(self, request):
         """
         check if request type is "json" or not
