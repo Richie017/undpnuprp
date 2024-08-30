@@ -127,7 +127,7 @@ class LoginView(FormView, JsonMixin):
             if has_json_next:
                 data["message"] = "Your session has expired. Please re-login to get new session"
             return self.render_json_response(data)
-        if hasattr(request, 'user') and request.user and request.user.is_authenticated():
+        if hasattr(request, 'user') and request.user and request.user.is_authenticated:
             return redirect(self.get_success_url())
         form = self.form_class()
         return render(request, self.template_name, self.get_context_data(**kwargs))

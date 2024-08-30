@@ -1,5 +1,5 @@
 from django.contrib import messages
-from django.core.urlresolvers import NoReverseMatch
+from django.urls import NoReverseMatch
 
 from blackwidow.core.generics.views.create_view import GenericCreateView
 from blackwidow.core.models.log.error_log import ErrorLog

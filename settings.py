@@ -179,6 +179,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'modeltranslation',
+    "django_extensions",
     'django.contrib.admin.apps.SimpleAdminConfig',
     'widget_tweaks',
     'django_tables2',

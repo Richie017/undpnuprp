@@ -182,7 +182,7 @@ class TagViewset(viewsets.ModelViewSet):
         :rtype: ``Tag`` object
         """
         user = self.request.user
-        if user.is_authenticated():
+        if user.is_authenticated:
             ids = user.survey_drafts.all().values_list('id', flat=True)
             return Tag.objects.filter(
                 taggit_taggeditem_items__object_id__in=ids,
@@ -203,7 +203,7 @@ class TagViewset(viewsets.ModelViewSet):
         :return: HttpResponse with status 204 if successfully removed
         :rtype: HttpResponse from django.shortcuts
         """
-        if request.user.is_authenticated():
+        if request.user.is_authenticated:
             tag = Tag.objects.get(id=pk)
             items = DynamicSurvey.objects.filter(tags__name=tag.name)
             for item in items:
