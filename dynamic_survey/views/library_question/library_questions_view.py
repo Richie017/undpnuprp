@@ -45,7 +45,7 @@ class LibraryQuestionsView(GenericListView):
             'enketoServer': "#",
             'enketoPreviewUri': "webform/preview",
         }
-        if self.request.user.is_authenticated():
+        if self.request.user.is_authenticated:
             context['user_details'] = json.dumps({'name': self.request.user.email,
                                                   # 'gravatar': gravatar_url(request.user.email),
                                                   'gravatar': "",

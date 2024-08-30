@@ -3,7 +3,10 @@ import importlib
 import debug_toolbar
 from django.conf.urls import include
 from django.urls import path, re_path
+from django.conf.urls.i18n import i18n_patterns
 from django.conf.urls.static import static
+from django.contrib import admin
+
 
 import settings
 from blackwidow.core.api.views.api_legacy_image_upload_view import ApiLegacyImageUploadView
@@ -34,6 +37,7 @@ for _app in INSTALLED_APPS:
         pass
 
 urlpatterns += [
+    path('admin/', admin.site.urls),
     path('api/login', ApiLoginView.as_view()),
     path('api/status', ApiStatusView.as_view()),
     path('api/legacy-image-uploads/<tsync_id>/', ApiLegacyImageUploadView.as_view()),
@@ -47,12 +51,14 @@ urlpatterns += [
 
 # ------------------------- menu renderer ----------------------------------------------------------
 urlpatterns += [
-    re_path(r'^renderer/menus/$', MenuRendererView.as_view(), name="menu-renderer"),
-    re_path(r'^server-status$', PublicView.as_view(), name="server-status-page"),
+    path('renderer/menus/', MenuRendererView.as_view(), name="menu-renderer"),
+    path('server-status', PublicView.as_view(), name="server-status-page"),
 ]
 
 urlpatterns += static(settings.STATIC_UPLOAD_URL, document_root=settings.STATIC_UPLOAD_ROOT)
-
+urlpatterns += i18n_patterns(
+    path('', include('blackwidow.core.urls')),  # Include the core URLs here
+)
 # ------------------------- upload directory shortcut url --------------------------------------------
 
 # --------------error 404 --- only for production-------------------

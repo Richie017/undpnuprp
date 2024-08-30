@@ -1,4 +1,5 @@
 from django.conf.urls import url
+from django.urls import path, re_path
 from django.conf.urls.i18n import i18n_patterns
 from django.views.static import serve
 from rest_framework.routers import DefaultRouter
@@ -134,19 +135,16 @@ operations = [(ViewActionEnum.Create, '/create', ViewActionEnum.Manage, True, Ge
 
 urlpatterns = list()
 for _pa in MenuManager.generate_urls(operations):
-    urlpatterns += i18n_patterns(
-        _pa
-    )
+    urlpatterns += [_pa]
 
-urlpatterns += i18n_patterns(
-    url(r'^$', HomeView.as_view(), name="bw_home"),
-    url(r'^account/login', LoginView.as_view(), name="bw_login"),
-    url(r'^account/reset_password_confirm/(?P<uidb64>[0-9A-Za-z]+)-(?P<token>.+)/$', PasswordResetConfirmView.as_view(),
-        name='bw_reset_password_confirm'),
-    url(r'^account/reset_password', ResetPasswordRequestView.as_view(), name="bw_reset_password"),
-    url(r'^consoleuser/reset_password/(?P<id>\d+)/', ConsoleUserResetPasswordView.as_view(),
+urlpatterns += [
+    path('', HomeView.as_view(), name="bw_home"),
+    path('account/login', LoginView.as_view(), name="bw_login"),
+    re_path(r'^account/reset_password_confirm/(?P<uidb64>[0-9A-Za-z]+)-(?P<token>.+)/$', PasswordResetConfirmView.as_view(), name='bw_reset_password_confirm'),
+    path('account/reset_password', ResetPasswordRequestView.as_view(), name="bw_reset_password"),
+    path('consoleuser/reset_password/<int:id>/', ConsoleUserResetPasswordView.as_view(),
         name="consoleuser_reset_password"),
-    url(r'^account/logout', LogoutView.as_view(), name="bw_logout"),
+    path('account/logout', LogoutView.as_view(), name="bw_logout"),
     url(r'^account/register', RegisterView.as_view(), name="bw_registration"),
     # url(r'^account/login', include('allauth.urls')),
     url(r'^no-access', GenericErrorView.as_view(template_name='shared/no-access.html'),
@@ -187,7 +185,7 @@ urlpatterns += i18n_patterns(
         GenericVersionActionView.as_view(),
         name="restore_version"
     ),
-)
+]
 
 # static file urls
 urlpatterns += [
@@ -212,7 +210,7 @@ for m in all_models:
             serializer_class=m.get_serializer())
     )
 
-    router.register(r'api/' + m._url_prefix, viewset_subclass, base_name=m.__name__)
+    router.register(r'api/' + m._url_prefix, viewset_subclass, basename=m.__name__)
 
 _d_router = DefaultRouter()
 urlpatterns += [url(r'^api$', _d_router.get_api_root_view(), name=_d_router.root_view_name)]
