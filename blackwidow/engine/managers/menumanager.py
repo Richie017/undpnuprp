@@ -2,6 +2,7 @@ import importlib
 
 from django.apps import apps
 from django.urls import path
+from django.conf.urls import url
 
 from blackwidow.engine.constants.access_permissions import BW_ACCESS_READ_ONLY
 from blackwidow.engine.decorators.utility import get_models_with_decorator

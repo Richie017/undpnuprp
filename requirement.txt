@@ -2,6 +2,8 @@ Django==3.1
 psycopg2-binary==2.9.7
 boto3
 numpy
+django-allauth
+django_extensions
 django-celery
 django-cors-headers
 django-debug-toolbar
