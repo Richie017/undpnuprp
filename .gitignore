@@ -1,2 +1,25 @@
 config/database.py
 plugins.txt
+*.pyc
+**/__pycache__/
+
+# Distribution / packaging
+**/.Python
+**/env/
+**/build/
+**/develop-eggs/
+**/dist/
+**/downloads/
+**/eggs/
+**/lib/
+**/lib64/
+**/parts/
+**/sdist/
+**/var/
+
+### Django ###
+**/db.sqlite3
+**/.idea/
+**/venv/
+**/.venv/
+**/.vscode/
