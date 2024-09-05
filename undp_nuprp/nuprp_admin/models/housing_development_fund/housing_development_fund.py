@@ -30,7 +30,7 @@ class CommunityHousingDevelopmentFund(OrganizationDomainEntity):
     gender = models.CharField(max_length=128, blank=True, null=True)
     contact_number = models.CharField(max_length=128, blank=True)
     national_id = models.CharField(max_length=200, null=True)
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     status_of_chdf_city_wise = models.CharField(null=True, blank=True, max_length=20)
     is_pg_member = models.CharField(max_length=20, blank=True, null=True)
     pg_member_number = models.CharField(max_length=255, blank=True)

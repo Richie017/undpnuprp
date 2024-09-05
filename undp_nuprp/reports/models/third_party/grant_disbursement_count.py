@@ -13,7 +13,7 @@ __author__ = "Tareq"
 
 @decorate(expose_api('grant-disbursement-count'))
 class GrantDisbursementCount(DomainEntity):
-    city = models.ForeignKey('core.Geography')
+    city = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
     grant_type = models.CharField(blank=True, max_length=255)
     disbursement_count = models.IntegerField(default=0)
 

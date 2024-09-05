@@ -1,6 +1,6 @@
 from django.apps.registry import apps
 from django.db import models
-from django.db.models.fields import FieldDoesNotExist
+from django.core.exceptions import FieldDoesNotExist
 
 from blackwidow.engine.extensions.bw_titleize import bw_titleize
 from blackwidow.engine.extensions.clock import Clock

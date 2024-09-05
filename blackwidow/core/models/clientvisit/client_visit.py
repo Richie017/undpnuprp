@@ -9,8 +9,8 @@ __author__ = 'activehigh'
 
 
 class VisitClient(OrganizationDomainEntity):
-    client = models.ForeignKey(Client, null=True)
-    location = models.OneToOneField(Location, null=True)
+    client = models.ForeignKey(Client, null=True, on_delete=models.SET_NULL)
+    location = models.OneToOneField(Location, null=True, on_delete=models.SET_NULL)
     visit_time = models.BigIntegerField(default=0)
     description = models.CharField(max_length=8000, default='')
     purpose = models.CharField(max_length=8000, null=True, blank=True)

@@ -21,8 +21,8 @@ __author__ = 'Mahbub'
           route(route='land-tenure-security', group='Housing Finance', module=ModuleEnum.Analysis,
                 display_name='Low-Cost Housing Fund', group_order=4, item_order=1))
 class LandTenureSecurity(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', related_name="land_securities_by_city", null=True)
-    ward = models.ForeignKey('core.Geography', related_name="land_securities_by_ward", null=True)
+    city = models.ForeignKey('core.Geography', related_name="land_securities_by_city", null=True, on_delete=models.SET_NULL)
+    ward = models.ForeignKey('core.Geography', related_name="land_securities_by_ward", null=True, on_delete=models.SET_NULL)
     allocated_land_area = models.DecimalField(max_digits=20, decimal_places=2, null=True)
     land_description = models.CharField(max_length=128, blank=True)
     land_transfer_status = models.CharField(max_length=3, blank=True, null=True)

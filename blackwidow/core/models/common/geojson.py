@@ -7,7 +7,7 @@ __author__ = 'Kaikobud, Ziaul Haque'
 
 
 class GeoJson(OrganizationDomainEntity):
-    geography = models.ForeignKey('core.Geography', null=True)
+    geography = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     multi_polygon_actual = MultiPolygonField()
     multi_polygon_medium = MultiPolygonField(null=True)
     multi_polygon_low = MultiPolygonField(null=True)

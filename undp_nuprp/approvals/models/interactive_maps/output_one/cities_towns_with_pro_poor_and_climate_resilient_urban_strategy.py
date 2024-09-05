@@ -22,7 +22,7 @@ __author__ = 'Kaikobud'
     group_order=4, item_order=5))
 class CitiesTownsWithProPoorClimateResilientUrbanStrategy(OrganizationDomainEntity):
     stage = models.CharField(max_length=32, null=True, blank=True)
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     name_of_component = models.CharField(max_length=128, null=True, blank=True)
     name_of_assessment = models.CharField(max_length=128, null=True, blank=True)
     status = models.CharField(max_length=32, null=True, blank=True)

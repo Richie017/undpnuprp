@@ -1,5 +1,5 @@
 import django_tables2 as tables
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.db import models
 from django.utils.safestring import mark_safe
 from django_tables2.utils import A

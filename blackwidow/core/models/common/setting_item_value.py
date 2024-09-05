@@ -9,7 +9,7 @@ __author__ = 'Tareq'
 
 class SettingsItemValue(OrganizationDomainEntity):
     value = models.CharField(max_length=500)
-    settings_item = models.ForeignKey(SettingsItem)
+    settings_item = models.ForeignKey(SettingsItem, on_delete=models.CASCADE)
 
     @classmethod
     def get_dependent_field_list(cls):

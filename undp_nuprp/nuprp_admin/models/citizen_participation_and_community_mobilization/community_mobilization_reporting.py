@@ -19,7 +19,7 @@ __author__ = 'Shuvro'
                 item_order=2)
           )
 class CommunityMobilizationReporting(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     cdc_cluster = models.ForeignKey(CDCCluster, null=True, on_delete=models.SET_NULL, related_name='+')
     cdc = models.ForeignKey(CDC, null=True, on_delete=models.SET_NULL, related_name='+')
     year = models.IntegerField(default=1970, null=True)

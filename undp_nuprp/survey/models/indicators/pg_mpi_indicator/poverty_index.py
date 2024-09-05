@@ -7,7 +7,7 @@ __author__ = 'Tareq'
 
 
 class PGPovertyIndex(DomainEntity):
-    primary_group_member = models.ForeignKey('nuprp_admin.PrimaryGroupMember', null=True)
+    primary_group_member = models.ForeignKey('nuprp_admin.PrimaryGroupMember', null=True, on_delete=models.SET_NULL)
     index_no = models.IntegerField(default=0)
     index_name = models.CharField(max_length=256, blank=True)
     index_description = models.TextField(blank=True, null=True)

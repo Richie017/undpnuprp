@@ -20,8 +20,8 @@ __author__ = 'Razon'
           route(route='dynamic-section', group='Dynamic Survey', module=ModuleEnum.Administration,
                 display_name='Section', group_order=5, item_order=3, hide=True))
 class DynamicSection(OrganizationDomainEntity):
-    survey = models.ForeignKey('dynamic_survey.DynamicSurvey', related_name='sections')
-    parent = models.ForeignKey('dynamic_survey.DynamicSection', null=True)
+    survey = models.ForeignKey('dynamic_survey.DynamicSurvey', related_name='sections', on_delete=models.CASCADE)
+    parent = models.ForeignKey('dynamic_survey.DynamicSection', null=True, on_delete=models.SET_NULL)
     name = models.CharField(max_length=1024)
     name_en = models.CharField(blank=True, max_length=2048, null=True)
     name_bn = models.CharField(blank=True, max_length=2048, null=True)

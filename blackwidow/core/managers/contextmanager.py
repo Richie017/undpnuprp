@@ -3,7 +3,7 @@ import copy
 from django.apps import apps
 from django.conf import settings
 from django.contrib.auth import login
-from django.core.urlresolvers import reverse, NoReverseMatch
+from django.urls import reverse, NoReverseMatch
 
 from blackwidow.core.models.common.sessionkey import SessionKey
 from blackwidow.core.models.organizations.organization import Organization
@@ -315,7 +315,7 @@ class ContextManager(object):
 
     @classmethod
     def resolve_url(cls, request, url_name):
-        if url_name is '' or url_name is None:
+        if url_name == '' or url_name is None:
             return ''
         try:
             return reverse(url_name)

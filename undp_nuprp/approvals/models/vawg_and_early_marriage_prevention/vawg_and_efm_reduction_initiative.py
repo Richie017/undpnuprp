@@ -9,7 +9,7 @@ __author__ = 'Shuvro'
 class VAWGEFMReductionInitiative(OrganizationDomainEntity):
     name_of_issue = models.CharField(null=True, blank=True, max_length=128)
     explanation_regarding_issue = models.CharField(null=True, blank=True, max_length=128)
-    attachment = models.ForeignKey('core.FileObject', null=True)
+    attachment = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'approvals'

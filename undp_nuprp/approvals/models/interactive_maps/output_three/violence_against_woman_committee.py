@@ -19,7 +19,7 @@ __author__ = 'Kaikobud'
     route='violence-against-woman-committees', group='Interactive Mapping', module=ModuleEnum.Analysis,
     display_name='Number of Violence Against Woman Committees', group_order=4, item_order=2), enable_import)
 class ViolenceAgainstWomanCommittee(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography')
+    city = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
     number_of_violence_against_woman_committees = models.IntegerField(null=True)
 
     class Meta:

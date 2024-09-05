@@ -8,7 +8,7 @@ from blackwidow.core.models.contracts.organizationdomainentity import Organizati
 from blackwidow.engine.decorators.route_partial_routes import route
 from blackwidow.engine.decorators.utility import decorate, is_object_context
 from blackwidow.engine.enums.modules_enum import ModuleEnum
-from settings import APK_UPLOAD_ROOT, PROJECT_PATH
+from settings import APK_UPLOAD_ROOT, PROJECT_PATH, STATIC_UPLOAD_ROOT
 
 __author__ = 'ziaul haque'
 
@@ -20,7 +20,7 @@ class ApplicationFileObject(OrganizationDomainEntity):
     path = models.CharField(max_length=8000, null=True, default=None)
     extension = models.CharField(max_length=10, null=True, default=None)
     description = models.CharField(max_length=8000, null=True, default=None)
-    file = models.FileField(default=None, max_length=8000, upload_to=os.path.join(PROJECT_PATH, APK_UPLOAD_ROOT),
+    file = models.FileField(default=None, max_length=8000, upload_to=STATIC_UPLOAD_ROOT,
                             null=True)
 
     @classmethod

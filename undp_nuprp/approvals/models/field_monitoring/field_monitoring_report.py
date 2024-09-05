@@ -13,7 +13,7 @@ from undp_nuprp.approvals.models.field_monitoring.field_monitoring_output import
 
 
 class FieldMonitoringReport(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     name = models.CharField(max_length=100, null=True, blank=True)
     designation = models.CharField(max_length=100, null=True, blank=True)
     ward = models.CharField(max_length=20, null=True, blank=True)
@@ -21,7 +21,7 @@ class FieldMonitoringReport(OrganizationDomainEntity):
     mission_objective = models.TextField(blank=True)
     output = models.ManyToManyField(FieldMonitoringOutput)
     report_submitted = models.CharField(max_length=20, null=True, blank=True)
-    attachment = models.OneToOneField(FileObject, null=True, blank=True)
+    attachment = models.OneToOneField(FileObject, null=True, blank=True, on_delete=models.SET_NULL)
     followup_date = models.DateField(null=True, blank=True)
     key_observations = models.ManyToManyField(FieldMonitoringFollowup)
     report_pictures = models.ManyToManyField(ImageFileObject, related_name='monitoring_reports')

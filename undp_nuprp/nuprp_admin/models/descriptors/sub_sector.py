@@ -8,7 +8,7 @@ __author__ = 'Ziaul Haque'
 
 
 class SubSector(ConfigurableType):
-    parent = models.ForeignKey('nuprp_admin.Sector', null=True)
+    parent = models.ForeignKey('nuprp_admin.Sector', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'nuprp_admin'

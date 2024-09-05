@@ -32,10 +32,10 @@ __author__ = 'Ziaul Haque'
 
 
 class DynamicSurveyResponseGeneratedFile(DomainEntity):
-    survey = models.ForeignKey('dynamic_survey.DynamicSurvey')
+    survey = models.ForeignKey('dynamic_survey.DynamicSurvey', on_delete=models.CASCADE)
     month = models.IntegerField(default=1)
     year = models.IntegerField(default=2017)
-    file = models.ForeignKey('core.FileObject', null=True)
+    file = models.ForeignKey('core.FileObject', null=True, on_delete=models.SET_NULL)
 
     class Meta:
         app_label = 'dynamic_survey'

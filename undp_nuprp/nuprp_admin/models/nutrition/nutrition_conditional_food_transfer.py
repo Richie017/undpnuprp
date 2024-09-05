@@ -27,7 +27,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
                                    display_name='Nutrition Conditional Food Transfer', group_order=3, item_order=22),
           enable_import, enable_export)
 class NutritionConditionalFoodTransfer(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True, blank=True)
+    city = models.ForeignKey('core.Geography', null=True, blank=True, on_delete=models.SET_NULL)
     month = models.IntegerField(default=1)
     year = models.IntegerField(default=2020)
     no_of_pregnant_women_by_age_lt_20 = models.IntegerField(null=True)

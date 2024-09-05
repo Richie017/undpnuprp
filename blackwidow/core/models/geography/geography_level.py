@@ -33,7 +33,7 @@ __author__ = 'Tareq'
           route(route='geography-level', group='Other Admin', group_order=1, item_order=1, module=ModuleEnum.Settings,
                 display_name="Geography Level"))
 class GeographyLevel(ConfigurableType):
-    parent = models.ForeignKey('core.GeographyLevel', null=True)
+    parent = models.ForeignKey('core.GeographyLevel', null=True, on_delete=models.SET_NULL)
 
     def save(self, *args, organization=None, **kwargs):
         super().save(*args, organization=organization, **kwargs)

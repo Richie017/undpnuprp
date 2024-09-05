@@ -1,5 +1,5 @@
 from django.apps import apps
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.http.response import JsonResponse
 from django.shortcuts import redirect
 

@@ -3,7 +3,6 @@ import os
 from collections import OrderedDict
 from random import random
 import string
-from turtle import st
 
 from crequest.middleware import CrequestMiddleware
 from django.conf import settings

@@ -22,7 +22,7 @@ class SEFGrantDisbursement(OrganizationDomainEntity):
     pg_member_name = models.CharField(max_length=255, blank=True, null=True)
     pg_member = models.ForeignKey('nuprp_admin.PrimaryGroupMember', null=True, on_delete=models.SET_NULL)
     account_number = models.CharField(max_length=128, blank=True, null=True)
-    cdc = models.ForeignKey('nuprp_admin.CDC', null=True)
+    cdc = models.ForeignKey('nuprp_admin.CDC', null=True, on_delete=models.SET_NULL)
     assigned_city = models.CharField(max_length=128, blank=True, null=True)
     instalments = models.ManyToManyField(SEFGrantInstalment)
     grant_disbursement_year = models.IntegerField(default=None, null=True)

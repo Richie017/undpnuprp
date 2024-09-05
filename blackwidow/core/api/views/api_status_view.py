@@ -1,4 +1,4 @@
-from django.core.urlresolvers import Resolver404
+from django.urls import Resolver404
 from django.db.models.aggregates import Max
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.response import Response

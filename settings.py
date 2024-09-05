@@ -2,8 +2,6 @@
 import os
 
 from django.conf.global_settings import AUTHENTICATION_BACKENDS
-from django.conf.urls import url, include
-from django.utils.translation import ugettext_lazy as _
 from config.apps import INSTALLED_APPS as BW_APPS
 # from config.apps import INSTALLED_APPS as BW_APPS
 from config.celery_config import *
@@ -108,7 +106,7 @@ TEMPLATES = [
             os.path.join(PROJECT_PATH, 'dynamic_survey', 'templates/'),
 
         ],
-        # 'APP_DIRS': True,
+        'APP_DIRS': True,
         # 'TEMPLATE_DEBUG': DEBUG,
         'OPTIONS': {
             'context_processors': [
@@ -121,10 +119,10 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.request',
             ],
-            'loaders': [
-                'django.template.loaders.filesystem.Loader',
-                'django.template.loaders.app_directories.Loader',
-            ],
+            # 'loaders': [
+            #     'django.template.loaders.filesystem.Loader',
+            #     'django.template.loaders.app_directories.Loader',
+            # ],
             'debug': DEBUG
         },
     },
@@ -132,7 +130,7 @@ TEMPLATES = [
 
 SECRET_KEY = 'xyY`:D%;EAeytq?oBph0N?.mRDe)zF_irznkTO`Bt~?J#6,@<T'
 
-MIDDLEWARE_CLASSES = (
+MIDDLEWARE = (
     'debug_toolbar.middleware.DebugToolbarMiddleware',
     # 'silk.middleware.SilkyMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -181,11 +179,12 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'modeltranslation',
+    "django_extensions",
     'django.contrib.admin.apps.SimpleAdminConfig',
     'widget_tweaks',
     'django_tables2',
-    'djcelery',
-    'kombu.transport.django',
+    # 'djcelery',
+    # 'kombu.transport.django',
     'extra_views',
     'rest_framework',
     'rest_framework.authtoken',
@@ -195,7 +194,7 @@ INSTALLED_APPS = (
     'debug_toolbar',
     # 'django.contrib.gis',
     # 'cachalot',
-    # 'silk',
+    'silk',
 )
 
 INSTALLED_APPS += BW_APPS

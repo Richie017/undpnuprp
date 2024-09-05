@@ -11,6 +11,6 @@ class ImporterColumnConfig(OrganizationDomainEntity):
     column_name = models.CharField(default='', max_length=200)
     property_name = models.CharField(default='', max_length=500)
     ignore = models.BooleanField(default=0)
-    is_unique = models.NullBooleanField(default=False, null=True)
+    is_unique = models.BooleanField(default=False, null=True)
     children = models.ManyToManyField('self', symmetrical=False)
 

@@ -25,7 +25,7 @@ class ExportQueue(OrganizationDomainEntity):
     """
     This class is used to maintain queue for export service
     """
-    user = models.ForeignKey(ConsoleUser)
+    user = models.ForeignKey(ConsoleUser, on_delete=models.CASCADE)
     model_name = models.CharField(max_length=127)
     app_label = models.CharField(max_length=127, blank=True)
     queue_args = models.TextField(blank=True)
@@ -33,7 +33,7 @@ class ExportQueue(OrganizationDomainEntity):
     queue_request_params = models.TextField(blank=True)
     export_file_name = models.CharField(max_length=255, blank=True)
     status = models.CharField(max_length=63, blank=True)
-    exported_file = models.ForeignKey(ExportFileObject, null=True)
+    exported_file = models.ForeignKey(ExportFileObject, null=True, on_delete=models.SET_NULL)
     processing_start_time = models.BigIntegerField(default=0)
     processing_completion_time = models.BigIntegerField(default=0)
 

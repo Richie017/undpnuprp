@@ -22,8 +22,8 @@ __author__ = 'Tareq'
           route(route='section', group='Member Registration', module=ModuleEnum.Administration,
                 display_name='Section', group_order=2, item_order=2, hide=True))
 class Section(OrganizationDomainEntity):
-    survey = models.ForeignKey('survey.Survey')
-    parent = models.ForeignKey('survey.Section', null=True)
+    survey = models.ForeignKey('survey.Survey', on_delete=models.CASCADE)
+    parent = models.ForeignKey('survey.Section', null=True, on_delete=models.SET_NULL)
     name = models.CharField(max_length=1024)
     order = models.IntegerField(default=0)
 

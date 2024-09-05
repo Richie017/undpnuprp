@@ -20,22 +20,35 @@ __author__ = 'activehigh'
 # }
 
 DATABASES = {
+    # 'default': {
+    #     # 'ENGINE': 'django.db.backends.postgresql_psycopg2',
+    #     # 'ENGINE': 'django.db.backends.postgresql',
+    #     'ENGINE': 'django.contrib.gis.db.backends.postgis',
+    #     'NAME': 'bw_nuprp',
+    #     'USER': 'postgres',
+    #     'PASSWORD': '5Up5PNBU55',
+    #     #'PASSWORD': 'undpadmin4axiz',
+    #     #'HOST': 'localhost',
+    #     'HOST': 'nuprpdb.cvxkbdbtuooz.ap-southeast-1.rds.amazonaws.com',
+    #     'PORT': '5432',
+    #     },
+
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        # 'ENGINE': 'django.db.backends.postgresql_psycopg2',
         # 'ENGINE': 'django.db.backends.postgresql',
-        # 'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'bw_nuprp',
         'USER': 'postgres',
         'PASSWORD': '5Up5PNBU55',
-        #'PASSWORD': 'undpadmin4axiz',
-        #'HOST': 'localhost',
+        # 'PASSWORD': 'undpadmin4axiz',
+        # 'HOST': 'db',
         'HOST': 'nuprpdb.cvxkbdbtuooz.ap-southeast-1.rds.amazonaws.com',
         'PORT': '5432',
         },
     'replica': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        # 'ENGINE': 'django.db.backends.postgresql_psycopg2',
         # 'ENGINE': 'django.db.backends.postgresql',
-        # 'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'bw_nuprp',
         'USER': 'postgres',
         #'PASSWORD': 'undpadmin4axiz',

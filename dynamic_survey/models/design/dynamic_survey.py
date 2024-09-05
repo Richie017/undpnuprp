@@ -35,7 +35,7 @@ class DynamicSurvey(OrganizationDomainEntity):
     SurveyDrafts belong to a user and contain the minimal representation of
     the draft survey of the user and of the question library.
     '''
-    user = models.ForeignKey(User, related_name="survey_drafts")
+    user = models.ForeignKey(User, related_name="survey_drafts", on_delete=models.CASCADE)
     name = models.CharField(max_length=255, null=False)
     status = models.IntegerField(default=DynamicSurveyStatusEnum.Draft.value)
     version = models.IntegerField(default=1)
@@ -79,7 +79,7 @@ class DynamicSurvey(OrganizationDomainEntity):
 
         form_settings = body.pop()
 
-        if form_settings is u'':
+        if form_settings == u'':
             form_settings = body.pop() + '\n'
         form_settings_list = form_settings.split(',')
 

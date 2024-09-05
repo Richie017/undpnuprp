@@ -1,6 +1,6 @@
 from django.dispatch import Signal
 
-versioned_data = Signal(providing_args=["instance"])
+versioned_data = Signal()
 
 
 def enable_caching(reference_model=None, hidden=False):

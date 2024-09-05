@@ -24,7 +24,7 @@ from blackwidow.engine.routers.database_router import BWDatabaseRouter
                                    module=ModuleEnum.Analysis, display_name='Land Tenure Action Plan',
                                    group_order=4, item_order=4), enable_import, enable_export)
 class LandTenureActionPlan(OrganizationDomainEntity):
-    city = models.ForeignKey('core.Geography', null=True)
+    city = models.ForeignKey('core.Geography', null=True, on_delete=models.SET_NULL)
     land_tenure_action_plan_required = models.CharField(max_length=3, null=True, blank=True)
     started = models.CharField(max_length=3, null=True, blank=True)
     developed = models.CharField(max_length=3, null=True, blank=True)

@@ -13,7 +13,7 @@ __author__ = "Tareq"
 
 @decorate(expose_api('pg-member-count'))
 class PGMemberCount(DomainEntity):
-    city = models.ForeignKey('core.Geography')
+    city = models.ForeignKey('core.Geography', on_delete=models.CASCADE)
     pg_member_count = models.IntegerField(default=0)
 
     class Meta:
